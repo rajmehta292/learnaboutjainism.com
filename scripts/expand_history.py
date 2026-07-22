@@ -1,0 +1,40 @@
+import json
+import os
+
+os.makedirs("c:/Projects/learnaboutjainism.com/src/data", exist_ok=True)
+
+history_data = {
+    "title": "Jain History and Concepts",
+    "description": "A structured database of Jain topics, covering gods, philosophy, branches, practices, literature, symbols, ascetics, scholars, community, organizations, regions, and dynasties.",
+    "gods": ["Arihant", "Ganadhara", "Tirthankara", "Mahavira", "Rishabhanatha"],
+    "philosophy": {
+        "Five_Vows": ["Ahimsa", "Anekantavada"],
+        "Cosmology": ["Deva", "Naraka", "Siddhashila", "Death"],
+        "Dravya": ["Jiva", "Ajiva", "Pudgala", "Dharma"],
+        "Epistemology": ["Kevala Jnana", "Gunasthana"],
+        "Karma": ["Causes", "Types", "Kashaya", "Ratnatraya", "Samsara"],
+        "Tattva": ["Asrava", "Bandha", "Moksha", "Nirjara", "Samvara"]
+    },
+    "branches": {
+        "Digambara": ["Bispanthi", "Kanji Panth", "Mula Sangha", "Balatkara Gana", "Kashtha Sangha", "Taran Panth", "Terapanth"],
+        "Svetambara": ["Murtipujaka", "Gaccha", "Kharatara", "Tapa", "Tristutik", "Sthanakavasi"]
+    },
+    "practices": ["Fasting", "Festivals", "Paryushana", "Kshamavani", "Mahamastakabhisheka", "Meditation", "Monasticism", "Pratikramana", "Samayika", "Rituals", "Sallekhana", "Tapas", "Upadhan", "Vegetarianism"],
+    "literature": ["Agama", "Aptamimamsa", "Bhaktamara Stotra", "Civaka Cintamani", "Culamani", "Kalpa Sutra", "Kasayapahuda", "Naga Kumara Kaviyam", "Neelakesi", "Namokar Mantra", "Pravachanasara", "Samayasara", "Shatkhandagama", "Tattvartha Sutra", "Uttaradhyayana", "Udayana Kumara Kaviyam", "Valayapathi", "Yashodhara Kaviyam"],
+    "symbols": ["Ashtamangala", "Auspicious dreams", "Jain flag", "Siddhachakra", "Shrivatsa", "Nandavarta", "Swastika"],
+    "ascetics": ["Acharya", "Aryika", "Digambara monk", "Kshullak", "Pattavali"],
+    "scholars": ["Bal Patil", "Champat Rai Jain", "Chandabai", "Colette Caillat", "Hampana", "Hermann Jacobi", "Jeffery D. Long", "John E. Cort", "Nalini Balbir", "Padmanabh Jaini", "Paul Dundas", "Virchand Gandhi"],
+    "community": ["Sravaka", "Sarak", "Tamil Jain"],
+    "organisations": ["Digambar Jain Mahasabha", "JAINA", "Vishwa Jain Sangathan"],
+    "regions": {
+        "India": ["Bundelkhand", "Delhi", "Goa", "Gujarat", "Haryana", "Karnataka", "North", "Kerala", "Maharashtra", "Mumbai", "Punjab", "Rajasthan", "Tamil Nadu", "Uttar Pradesh", "West Bengal"],
+        "Overseas": ["Africa", "Australia", "Belgium", "Canada", "Europe", "Hong Kong", "Japan", "Pakistan", "Singapore", "Southeast Asia", "United States"]
+    },
+    "relations": ["Buddhism", "Hinduism", "Islam", "Non-creationism", "Sikhism"],
+    "dynasties": ["Chalukya", "Ganga", "Hoysala", "Ikshvaku", "Kadamba", "Kalinga", "Maurya", "Pandya", "Rashtrakuta", "Santara"]
+}
+
+with open("c:/Projects/learnaboutjainism.com/src/data/history.json", "w", encoding="utf-8") as f:
+    json.dump([history_data], f, indent=2, ensure_ascii=False)
+
+print("Successfully expanded history.json!")

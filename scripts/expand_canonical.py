@@ -1,0 +1,65 @@
+import json
+import os
+
+os.makedirs("c:/Projects/learnaboutjainism.com/src/data", exist_ok=True)
+
+canonical_data = {
+    "title": "Canonical Texts of Jainism",
+    "description": "Comprehensive list of Jain canonical literature, including Svetambara and Digambara texts.",
+    "svetambara": {
+        "Angagama": [
+            "Acaranga Sutra", "Sutrakritanga", "Sthananga Sutra", "Samavayanga Sutra", 
+            "Vyakhaprajnapti", "Jnatrdharmakathah", "Upasakadasah", "Antakrddaasah", 
+            "Anuttaraupapatikadasah", "Prasnavyakaranani", "Vipakasutra", "Drstivada (now extinct)"
+        ],
+        "Upanga_agamas": [
+            "Aupapatika", "Rajaprasniya", "Jivajivabhigama", "Prajnapana", "Suryaprajnapti", 
+            "Jambudvipaprajnapti", "Candraprajnapti", "Nirayarvali", "Kalpavatamsikah", 
+            "Puspikah", "Puspaculikah", "Vrasnidasah"
+        ],
+        "Chedasutra": [
+            "Acaradasah", "Brhatkalpa", "Vyavahara", "Nishitha", "Mahanisitha", "Jitakalpa", "Kalpa Sutra"
+        ],
+        "Mulasutra": [
+            "Dasavaikalika", "Uttaradhyayana", "Avasyaka", "Pindaniryukyti"
+        ],
+        "Prakirnaka_sutra": [
+            "Catuhsarana", "Aturapratyakhyana", "Bhaktaparijna", "Samstaraka", "Tandulavaicarika", 
+            "Candravedhyaka", "Devendrastava", "Ganividya", "Mahapratyakhyana", "Virastava"
+        ],
+        "Culikasutra": [
+            "Nandi-sutra", "Anuyogadvara-sutra"
+        ],
+        "Others": [
+            "Uvasaggaharam Stotra", "Bhaktamara Stotra", "Namokar Mantra", "Ratnakar Pachisi", "Bruhad Shanti Stotra"
+        ]
+    },
+    "digambara": {
+        "Agamas": [
+            "Satkhandagama", "Kasayapahuda"
+        ],
+        "Pratham_anuyoga": [
+            "Mahapurana", "Adi purana", "Uttarapurana", "Harivamsa Purana"
+        ],
+        "Carnanuyoga": [
+            "Mulachara", "Trivarnacara", "Tattvartha Sutra", "Ratnakaranda sravakacara", "Purusarthasiddhyupaya"
+        ],
+        "Karnanuyoga": [
+            "Gommatsara", "Suryaprajnapti", "Jayadhavalatika", "Tiloya Panatti", "Lokavibhaga"
+        ],
+        "Dravyanuyoga": [
+            "Niyamasara", "Pancastikayasara", "Pravachanasara", "Samayasara", "Aptamimamsa", "Dravyasamgraha", "Jnanarnava"
+        ],
+        "Commentary": [
+            "Sarvarthasiddhi (commentary on Tattvarthasutra)"
+        ],
+        "Others": [
+            "Siribhoovalaya", "Bhaktamara Stotra", "Jinvani", "Namokar Mantra"
+        ]
+    }
+}
+
+with open("c:/Projects/learnaboutjainism.com/src/data/canonicalTexts.json", "w", encoding="utf-8") as f:
+    json.dump([canonical_data], f, indent=2, ensure_ascii=False)
+
+print("Successfully expanded canonicalTexts.json!")
