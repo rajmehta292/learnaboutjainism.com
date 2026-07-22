@@ -1,0 +1,16 @@
+[
+  { "stage": 1, "name": "Mithyatva (Delusion)", "desc": "State of spiritual ignorance, attachment to false beliefs, and confusion of non-self with self." },
+  { "stage": 2, "name": "Sasatana-Samyagdrishti (Downfall)", "desc": "Transient state when a soul slips back from enlightenment toward delusion." },
+  { "stage": 3, "name": "Mishradrishti (Mixed State)", "desc": "State of hesitation where truth and delusion are temporarily mixed." },
+  { "stage": 4, "name": "Avirata-Samyagdrishti (Vowless Right Faith)", "desc": "Attainment of true conviction (Samyaktva) without complete self-restraint vows." },
+  { "stage": 5, "name": "Deshavirata (Partial Self-Restraint)", "desc": "State of Householder (Shravak) taking the 12 ethical vows and 11 Pratimas." },
+  { "stage": 6, "name": "Pramatta-Samyata (Ascetic with Negligence)", "desc": "Ordained Monk (Sadhu) observing full vows but with subtle mental oscillations." },
+  { "stage": 7, "name": "Apramatta-Samyata (Ascetic without Negligence)", "desc": "Vigilant Monk absorbed in deep meditation and pure spiritual absorption." },
+  { "stage": 8, "name": "Nivritti-Badara-Samparaya (New Thought Activity)", "desc": "Intense spiritual purification destroying heavy passions." },
+  { "stage": 9, "name": "Anavritti-Badara (Advanced Purity)", "desc": "Eradication of gross passions (anger, pride, deceit, greed)." },
+  { "stage": 10, "name": "Sukshma-Samparaya (Subtle Greed)", "desc": "Only microscopic trace of subtle greed remains." },
+  { "stage": 11, "name": "Upashanta-Kashaya (Suppressed Passions)", "desc": "All passions completely suppressed (temporary danger of relapse)." },
+  { "stage": 12, "name": "Kshina-Kashaya (Destroyed Passions)", "desc": "Passions completely eradicated forever (no possibility of downfall)." },
+  { "stage": 13, "name": "Sayogi-Kevali (Omniscient with Body)", "desc": "Living Tirthankara / Arihant with Kevala Jnana (Omniscience) while in physical body." },
+  { "stage": 14, "name": "Ayogi-Kevali (Liberated Perfection)", "desc": "Final motionlessness prior to discarding physical body and entering eternal Moksha as a Siddha." }
+]

@@ -1,0 +1,59 @@
+{
+  "introduction": "Jain cosmology describes the universe as eternal, uncreated, and governed by natural laws. It is not the creation of any supreme being but exists perpetually through time cycles. The universe is shaped like a figure-eight (or a man standing with arms on hips) with three realms: upper (heavenly), middle (human), and lower (hellish). At the apex is Siddhashila, the abode of liberated souls.",
+  "universeStructure": {
+    "shape": "Lokakasha — the entire universe is bounded. It is 14 raju (immense units) tall at its highest point, 7 raju at its narrowest middle, and extends infinitely in the four cardinal directions. The universe rests on the principle of Dharma (medium of motion) and Adharma (medium of rest) which enable movement and stillness throughout.",
+    "threeRealms": {
+      "upperWorld": {
+        "name": "Urdhva Loka",
+        "description": "The upper world of celestial beings (Devas). It contains 9 heavenly abodes:",
+        "levels": [
+          { "name": "Siddhashila", "height": "Apex of universe", "inhabitants": "Siddhas (liberated souls)", "description": "The eternal abode of infinite bliss, knowledge, and power. No birth, no death, no change. Pure consciousness resting in its own nature." },
+          { "name": "Siddha Loka", "height": "Topmost realm", "inhabitants": "Tirthankaras awaiting final liberation", "description": "Tirthankaras who have attained Kevala Jnana but not yet shed remaining Aghatiya karmas." },
+          { "name": "Kalpa Vruksha", "height": "Highest heaven", "inhabitants": "Angels (Devas) of the highest order", "description": "Celestial beings of supreme power and beauty, enjoying long lifespans of incredible pleasure." },
+          { "name": "Graiveyaka", "height": "9th heaven", "inhabitants": "Advanced celestial beings", "description": "Beings of extraordinary spiritual advancement who have eliminated many kashayas but remain bound by Aghatiya karmas." },
+          { "name": "Anuttara", "height": "8th-5th heavens", "inhabitants": "Celestial beings of 4 Anuttara dimensions", "description": "The five Anuttara heavens where the most spiritually advanced celestial beings dwell — they are headed for human rebirth and liberation." },
+          { "name": "Kalpa Loka", "height": "Heavens 1-4", "inhabitants": "Ordinary celestial beings", "description": "Standard heavens where beings experience pleasure proportional to their past merit. Lifespan decreases from 1 million years downward." }
+        ]
+      },
+      "middleWorld": {
+        "name": "Madhya Loka",
+        "description": "The middle world where human, animal, and plant life exists. It is the only realm where liberation is possible.",
+        "structure": {
+          "jambudvipa": "The central continent where we live. Divided into 6 regions including Bharat Kshetra (India), Airavat Kshetra (distant west), and Mahavideha Kshetra (where Jains believe Tirthankaras still preach). Humans exist only in 3.5 of the 15 regions.",
+          "continents": ["Jambudvipa", "Ganivihatta", "Nav ki Vat", "Gajni Vat", "Haimvata", "Harivarsh", "Ramyak"],
+          "oceans": ["Lavana Samudra", "Kalodadhi", "Pushkaravara", "Kshira Samudra", "Ghruta Samudra", "Iruhat Samudra"],
+          "keyFacts": ["Mount Meru stands at the center of Jambudvipa. The sun and moon revolve around it. 24 Tirthankaras appear only in Bharat Kshetra or Airavat Kshetra. The remaining 20 appear in Mahavideha."]
+        }
+      },
+      "lowerWorld": {
+        "name": "Adho Loka",
+        "description": "The lower world (Naraka) consisting of 7 hells (Prakriti Prapata) where beings experience intense suffering for karmic purification.",
+        "levels": [
+          { "name": "First Hell (Ratna Prabha)", "description": "Mild suffering for minor karmic transgressions" },
+          { "name": "Second Hell (Sharkara Prabha)", "description": "Intense heat and thorns" },
+          { "name": "Third Hell (Valuka Prabha)", "description": "Burning sands and torment" },
+          { "name": "Fourth Hell (Panka Prabha)", "description": "Mud and filth, suffocating suffering" },
+          { "name": "Fifth Hell (Dhumra Prabha)", "description": "Darkness, smoke, and suffocation" },
+          { "name": "Sixth Hell (Tamas Prabha)", "description": "Complete darkness, freezing cold" },
+          { "name": "Seventh Hell (Mahatamas)", "description": "Infinite darkness — the most terrible realm" }
+        ]
+      }
+    },
+    "timeCycles": {
+      "name": "Avasarpini and Utsarpini",
+      "description": "Time moves in infinite cycles, each consisting of two half-cycles:",
+      "utsarpini": "Utsarpini — the ascending half-cycle. Progress, happiness, virtue, and spiritual capacity increase. The first Tirthankara (Rishabhdev) appears at the beginning of each Utsarpini.",
+      "avasarpini": "Avasarpini — the descending half-cycle. Conditions deteriorate, lifespan shortens, and spiritual practice becomes harder. The 24th and final Tirthankara of each Avasarpini is Lord Mahavira (current cycle).",
+      "currentEra": "We are currently in the 5th Ara (epoch) of the current Avasarpini — a time of decline but still capable of spiritual liberation. The 6th Ara will be a time of utter degradation. Then Utsarpini will begin again."
+    },
+    "timeUnits": {
+      "samvatsara": "1 year",
+      "kala chakra": "A cosmic time cycle (billions of years)",
+      "pudgal": "The ultimate atom of time",
+      "sagaropama": "Ocean-years — an immense duration unit. One Sagara = 10^23 years",
+      "palyopama": "The time it takes to empty a circular pit of wool if one strand is removed every 100 years"
+    },
+    "nigoda": "Microscopic, one-sensed beings that exist in infinite colonies throughout all substances. They represent the lowest form of life and are continuously reborn across all realms.",
+    "sidhasila": "Siddhashila — the crescent-moon shaped summit of the universe where liberated souls reside in eternal bliss and omniscience. No more birth, no more death, no more change."
+  }
+}

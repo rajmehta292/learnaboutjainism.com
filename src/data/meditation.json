@@ -1,0 +1,123 @@
+[
+  {
+    "practiceName": "Preksha Meditation",
+    "sanskrit": "प्रेक्षा ध्यान",
+    "transliteration": "Preksha Dhyana",
+    "category": "Meditation",
+    "timeOfDay": "Any time",
+    "description": "The systematic meditation technique developed by Acharya Mahapragya and popularized by Acharya Tulsi. Preksha means 'to look within' — perceiving the self through disciplined attention on specific centers of consciousness.",
+    "steps": [
+      "Sit comfortably in Padmasana or Sukhasana",
+      "Relax the entire body through deep breathing",
+      "Practice Kayotsarga — complete physical stillness",
+      "Perceive each chakra (spiritual center) systematically:",
+      "1. Navel center (Manipur) — yellow light of self-discipline",
+      "2. Heart center (Anahata) — green light of compassion",
+      "3. Throat center (Vishuddha) — blue light of truth",
+      "4. Forehead center (Ajna) — purple light of wisdom",
+      "5. Crown center (Sahasrara) — white light of pure consciousness",
+      "Concentrate on each center for 5-10 minutes with deep breathing",
+      "End with 5 minutes of silence and universal love (Maitri Bhavana)"
+    ],
+    "duration": "30-60 minutes",
+    "benefits": "Reduces stress and anxiety, increases self-awareness, purifies chakras, develops compassion, accelerates karmic shedding, improves emotional regulation",
+    "whoCanDo": "All Jains. Adaptable for children (5 min), adults (30 min), and advanced practitioners (90+ min).",
+    "icon": "🧘",
+    "frequency": "Daily"
+  },
+  {
+    "practiceName": "Anupreksha (12 Contemplations)",
+    "sanskrit": "अनुप्रेक्षा",
+    "transliteration": "Anupreksha",
+    "category": "Meditation",
+    "timeOfDay": "Any time, especially during Samayika",
+    "description": "12 prescribed meditations on philosophical truths designed to cultivate detachment (vairagya) and destroy passions. Each contemplation reflects the soul's essential nature and the futility of worldly attachments.",
+    "steps": [
+      "Sit in meditation and contemplate each truth deeply:",
+      "1. Anitya Anupreksha — everything is transient except the soul",
+      "2. Asharana Anupreksha — there is no ultimate refuge but the Three Jewels",
+      "3. Samsara Anupreksha — cyclic existence is full of suffering",
+      "4. Ekatva Anupreksha — I am alone in my karmic journey",
+      "5. Anyatva Anupreksha — body, family, wealth are not truly mine",
+      "6. Ashuchi Anupreksha — the body is impure, the soul is pure",
+      "7. Ashrava Anupreksha — watch how karma flows into the soul",
+      "8. Samvara Anupreksha — resolve to stop karmic influx through vows",
+      "9. Nirjara Anupreksha — visualize shedding karmic matter",
+      "10. Lokaswarupa Anupreksha — contemplate the structure of the universe",
+      "11. Bodhidurlabha Anupreksha — human birth with right faith is extremely rare",
+      "12. Dharma Anupreksha — the Three Jewels are the only true refuge"
+    ],
+    "duration": "45-90 minutes",
+    "benefits": "Develops detachment (vairagya), destroys attachment to body and relationships, clarifies worldview, accelerates spiritual progress through right reflection",
+    "whoCanDo": "All aspirants. Children begin with 3-4 simpler contemplations.",
+    "icon": "💭",
+    "frequency": "Daily during Samayika; intensified during Chaturmas and Paryushan"
+  },
+  {
+    "practiceName": "Maitri Bhavana",
+    "sanskrit": "मैत्री भावना",
+    "transliteration": "Maitri Bhavana",
+    "category": "Meditation",
+    "timeOfDay": "Morning",
+    "description": "The meditation of universal friendliness — extending unconditional love and goodwill to all living beings without exception. This is the highest expression of Ahimsa in consciousness itself.",
+    "steps": [
+      "Sit in meditation with eyes closed",
+      "Begin with yourself: 'May I be happy, may I be free from suffering'",
+      "Extend to loved ones: 'May all my family be happy and free from suffering'",
+      "Extend to neutral people: 'May all strangers be happy and free from suffering'",
+      "Extend to enemies/difficult people: 'May those who harm me also be free from suffering'",
+      "Extend to all beings:'May ALL living beings, seen and unseen, be happy and free from suffering'",
+      "Remain in this universal goodwill for as long as possible",
+      "Carry this feeling into all actions throughout the day"
+    ],
+    "duration": "15-30 minutes",
+    "benefits": "Transforms the heart from anger to love, dissolves boundaries between self and other, creates profound inner peace, reduces kashayas, purifies the soul",
+    "whoCanDo": "Everyone — from children to elderly monks.",
+    "icon": "❤️",
+    "frequency": "Daily"
+  },
+  {
+    "practiceName": "Mantra Meditation",
+    "sanskrit": "मंत्र ध्यान",
+    "transliteration": "Mantra Dhyana",
+    "category": "Meditation",
+    "timeOfDay": "Any time",
+    "description": "The use of sacred syllables (bija mantras) to concentrate the mind. In Jainism, the Navkar Mantra is the supreme mantra, but other mantras like 'Aim Hrim Klim' (Arihant) and 'Om' are also used.",
+    "steps": [
+      "Choose a mantra (begin with Navkar Mantra)",
+      "Sit in meditation with spine straight",
+      "Close eyes and mentally repeat the mantra",
+      "Focus on the vibration and meaning",
+      "If the mind wanders, gently return to the mantra",
+      "After 108 repetitions, sit in silence",
+      "Experience the subtle vibration in the body"
+    ],
+    "duration": "15-45 minutes",
+    "benefits": "Calms the chattering mind, creates positive vibrations, connects with divine energy, builds concentration, reduces mental agitation",
+    "whoCanDo": "All Jains. Children can start with shorter sessions.",
+    "icon": "🔮",
+    "frequency": "Daily"
+  },
+  {
+    "practiceName": "Pranayama",
+    "sanskrit": "प्राणायाम",
+    "transliteration": "Pranayama",
+    "category": "Meditation",
+    "timeOfDay": "Morning",
+    "description": "Breath control techniques from the Yoga tradition, adapted within Jain practice. Pranayama regulates the life force (prana), calms the nervous system, and prepares the body for deep meditation.",
+    "steps": [
+      "Sit in Padmasana with spine straight",
+      "Practice Nadi Shodhana (alternate nostril breathing): 5 rounds",
+      "Practice Bhramari (bee breath): 3 rounds",
+      "Practice Ujjayi (ocean breath): 5 minutes",
+      "Practice Kapalabhati (skull shining): 3 rounds of 30 strokes",
+      "Follow with 5 minutes of natural breathing",
+      "Transition into meditation"
+    ],
+    "duration": "15-20 minutes before meditation",
+    "benefits": "Calms the mind, purifies nadis (energy channels), increases oxygen flow, reduces stress, balances left/right brain hemispheres, prepares for deep meditation",
+    "whoCanDo": "Teens and adults. Not recommended for children under 12 or those with high blood pressure without guidance.",
+    "icon": "🌬️",
+    "frequency": "Daily before meditation"
+  }
+]

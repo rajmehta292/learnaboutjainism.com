@@ -1,0 +1,128 @@
+import json
+
+tirthankaras_base = [
+    {"id": 1, "name": "Lord Rishabhdev (Adinath)", "symbol": "Bull 🐂", "color": "Gold", "birth": "Ayodhya", "nirvana": "Ashtapad (Kailash)",
+     "parents": "King Nabhi Raja and Queen Marudevi", "tree": "Nyagrodha (Banyan)", "yaksha": "Gomukha", "yakshini": "Chakreshvari",
+     "desc": "The first Tirthankara of this cosmic age who introduced agriculture, arts, governance, and the path of spiritual liberation (Moksha) to mankind.",
+     "details": "Rishabhanatha, also known as Adinatha (the first Lord), is credited in Jainism with laying the foundation of civilized life. Before him, humans lived in the Bhogabhumi (age of enjoyment) relying on Kalpavrikshas (wish-fulfilling trees). As these trees disappeared, Rishabhanatha taught humans agriculture, animal husbandry, cooking, commerce, and the arts (including writing and mathematics). After ruling for an unimaginably long period, he observed the impermanence of life when an apsara (celestial dancer) named Nilanjana died while performing before him. He renounced his kingdom, distributing it among his 100 sons (including Bharata and Bahubali). He performed severe austerities and achieved Kevala Jnana (omniscience). His teachings formed the bedrock of Jain philosophy, emphasizing Ahimsa (non-violence) and Aparigraha (non-attachment)."},
+     
+    {"id": 2, "name": "Lord Ajitnath", "symbol": "Elephant 🐘", "color": "Gold", "birth": "Ayodhya", "nirvana": "Sammed Shikharji", 
+     "parents": "King Jitashatru and Queen Vijaya", "tree": "Saptaparna", "yaksha": "Mahayaksha", "yakshini": "Ajitbala",
+     "desc": "The second Tirthankara, symbol of invincible spiritual strength and inner triumph over human passions.",
+     "details": "Ajitanatha, meaning 'the invincible one', represents the supreme victory of the soul over inner enemies (passions like anger, ego, deceit, and greed). Born in Ayodhya, his life followed the classic Tirthankara trajectory: a royal birth, a period of ruling as a benevolent king, an awakening to the transience of worldly pleasure, renunciation of all possessions, and ascetic wandering. Upon attaining Kevala Jnana, he re-established the Sangha (four-fold community of monks, nuns, laymen, and laywomen) to teach the path of purification."},
+     
+    {"id": 3, "name": "Lord Sambhavnath", "symbol": "Horse 🐎", "color": "Gold", "birth": "Shravasti", "nirvana": "Sammed Shikharji",
+     "parents": "King Jitari and Queen Sena", "tree": "Shala", "yaksha": "Trimukha", "yakshini": "Duritari",
+     "desc": "Representing divine harmony, his teachings emphasized non-attachment to material desires.",
+     "details": "Sambhavanatha's era was marked by peace and prosperity. The name 'Sambhava' implies equivalence or harmony. Following a period of worldly rule, he experienced Vairagya (deep detachment), pulling away from the sensory world to focus entirely on the nature of the Jiva (soul). His sermons deeply explored the nature of Karma and how actions motivated by attachment (raga) and aversion (dvesha) bind the soul to the cycle of rebirth (Samsara)."},
+     
+    {"id": 4, "name": "Lord Abhinandannath", "symbol": "Monkey 🐒", "color": "Gold", "birth": "Ayodhya", "nirvana": "Sammed Shikharji",
+     "parents": "King Sanvara and Queen Siddhartha", "tree": "Priyangu", "yaksha": "Nayaka", "yakshini": "Kalika",
+     "desc": "Emphasized joy in self-realization and mental tranquility amidst worldly turbulence.",
+     "details": "Abhinandananatha brought immense joy ('abhinandan') to his parents and subjects. In Jain philosophy, true joy is not derived from Pudgala (matter) but is an intrinsic quality of the pure soul. His teachings focused heavily on Dhyana (meditation) and the cultivation of equanimity, teaching that the mind, like a restless monkey (his symbol), must be tamed through disciplined practice and the vows (Vratas)."},
+     
+    {"id": 5, "name": "Lord Sumatinath", "symbol": "Red Goose 🪿", "color": "Gold", "birth": "Ayodhya", "nirvana": "Sammed Shikharji",
+     "parents": "King Megha and Queen Mangala", "tree": "Priyangu", "yaksha": "Tumburu", "yakshini": "Mahakali",
+     "desc": "Symbol of keen spiritual wisdom, discernment, and right intellect (Samyak Buddhi).",
+     "details": "Sumatinatha is associated with 'Sumati' (right intellect or pure wisdom). According to tradition, even while in his mother's womb, he helped resolve a complex legal dispute through divine influence, demonstrating profound discernment. His spiritual teachings emphasized Anekantavada (the many-sided nature of reality), guiding his followers to avoid dogmatism and view truth from multiple perspectives."},
+     
+    {"id": 6, "name": "Lord Padmaprabha", "symbol": "Red Lotus 🪷", "color": "Red", "birth": "Kaushambi", "nirvana": "Sammed Shikharji",
+     "parents": "King Shridhara and Queen Susima", "tree": "Chatra", "yaksha": "Kusuma", "yakshini": "Shyama",
+     "desc": "Associated with purity of heart and mind, glowing like a radiant red lotus flower.",
+     "details": "Named for his lotus-like pinkish-red complexion, Padmaprabha embodies the purity of the soul that remains unsoiled by the mud of the material world, much like a lotus. He taught that just as a lotus rises above the water, a spiritual seeker must rise above worldly attachments (Parigraha) through the practice of the Mahavratas (Great Vows)."},
+     
+    {"id": 7, "name": "Lord Suparshvanatha", "symbol": "Swastika 卐", "color": "Gold", "birth": "Varanasi", "nirvana": "Sammed Shikharji",
+     "parents": "King Pratishtha and Queen Prithvi", "tree": "Shirish", "yaksha": "Matanga", "yakshini": "Shanta",
+     "desc": "His emblem is the sacred Swastika, signifying auspiciousness and the 4 realms of existence.",
+     "details": "Suparshvanatha's symbol, the Swastika, is one of the most sacred symbols in Jainism, representing the four realms of existence (Gati) in Samsara: heavenly beings, humans, animals/plants, and hellish beings. His core teaching revolved around the realization that the soul wanders endlessly through these four realms due to Karma, and that only through the Three Jewels (Ratnatraya)—Right Faith, Right Knowledge, and Right Conduct—can one escape the cycle and reach Siddhashila (the realm of the liberated)."},
+     
+    {"id": 8, "name": "Lord Chandraprabha", "symbol": "Crescent Moon 🌙", "color": "White", "birth": "Chandrapuri", "nirvana": "Sammed Shikharji",
+     "parents": "King Mahasena and Queen Lakshmana", "tree": "Naga", "yaksha": "Vijaya", "yakshini": "Bhrikuti",
+     "desc": "Known for serene radiance like the full moon, expounding total detachment from emotional conflicts.",
+     "details": "Chandraprabha, with a complexion as white as the moon, radiated a profound calmness (Shanti). His era was characterized by a cooling of passions among the populace. He taught extensively on the nature of Asrava (karmic influx) and Samvara (stoppage of karma). By practicing restraint and forgiveness, he explained, the soul cools the burning fires of Kashayas (passions) and reveals its intrinsic lunar-like purity."},
+     
+    {"id": 9, "name": "Lord Pushpadanta (Suvidhinath)", "symbol": "Crocodile 🐊", "color": "White", "birth": "Kakandi", "nirvana": "Sammed Shikharji",
+     "parents": "King Sugriva and Queen Rama", "tree": "Sali", "yaksha": "Ajita", "yakshini": "Sutaraka",
+     "desc": "Promoted strict adherence to ethical vows and purity of speech.",
+     "details": "Also known as Suvidhinatha (the lord of correct rituals and vows), Pushpadanta's teachings focused heavily on the meticulous observance of spiritual practices. He emphasized that physical austerities (Tapa) must be combined with mental purity to be effective in Nirjara (shedding of karma). His life was a testament to the rigorous self-discipline required to annihilate ancient karmic bonds."},
+     
+    {"id": 10, "name": "Lord Shitalnath", "symbol": "Shrivatsa / Wish Tree 🌳", "color": "Gold", "birth": "Bhadrikapuri", "nirvana": "Sammed Shikharji",
+     "parents": "King Dridharatha and Queen Nanda", "tree": "Priyangu", "yaksha": "Brahma", "yakshini": "Ashoka",
+     "desc": "Brought spiritual cooling and tranquility to souls burning in the heat of karmic passions.",
+     "details": "The name Shitalanatha means 'Lord of Coolness'. Jain texts relate that his mother's mere touch could cure burning fevers during her pregnancy. Spiritually, he represents the cooling nectar of Dharma that extinguishes the fever of worldly desires and greed. His sermons frequently addressed the illusory nature of material happiness and the eternal, cool bliss of the liberated soul (Siddha state)."},
+     
+    {"id": 11, "name": "Lord Shreyansanath", "symbol": "Rhinoceros 🦏", "color": "Gold", "birth": "Simhapuri", "nirvana": "Sammed Shikharji",
+     "parents": "King Vishnu and Queen Vishna", "tree": "Tumbara", "yaksha": "Yakshet", "yakshini": "Manavi",
+     "desc": "Represented solitary focus and strength in spiritual vows.",
+     "details": "Shreyansanatha means 'the Lord of Supreme Good'. His symbol, the rhinoceros, is often associated in ancient Indian tradition with the solitary ascetic who wanders alone, unattached and unaffected by the surrounding jungle of Samsara. He emphasized the solitary nature of the soul—teaching that one is born alone, dies alone, and must achieve Moksha through their own independent spiritual effort, without reliance on a creator deity."},
+     
+    {"id": 12, "name": "Lord Vasupujya", "symbol": "Water Buffalo 🐃", "color": "Red", "birth": "Champapuri", "nirvana": "Champapuri",
+     "parents": "King Vasupujya and Queen Jaya", "tree": "Kadamba", "yaksha": "Kumara", "yakshini": "Chanda",
+     "desc": "Renowned for attaining omniscience (Kevala Jnana) while remaining a lifelong ascetic.",
+     "details": "Vasupujya is unique among many Tirthankaras because he never married or ruled as a king; he remained a celibate ascetic (Brahmachari) from youth. His life underscores the supreme importance of Brahmacharya (chastity) in the Jain ascetic path. He attained all five auspicious events of a Tirthankara (Kalyanakas)—descent, birth, renunciation, omniscience, and liberation—in the city of Champapuri."},
+     
+    {"id": 13, "name": "Lord Vimalnath", "symbol": "Wild Boar 🐗", "color": "Gold", "birth": "Kampilya", "nirvana": "Sammed Shikharji",
+     "parents": "King Kritavarma and Queen Shyama", "tree": "Jambu", "yaksha": "Shanmukha", "yakshini": "Vidita",
+     "desc": "Vimala means pure — his teachings focused on purging subtle mental impurities.",
+     "details": "Vimalanatha ('The Pure Lord') dedicated his spiritual mission to teaching the purification of consciousness. He explained how deeply ingrained karmas form an invisible crust over the soul, obscuring its natural qualities of infinite perception, knowledge, power, and bliss. His emphasis was on internal austerities (Bhavantaran) over mere physical penance, highlighting the need for absolute mental purity (Vimalta)."},
+     
+    {"id": 14, "name": "Lord Anantnath", "symbol": "Falcon / Porcupine 🦔", "color": "Gold", "birth": "Ayodhya", "nirvana": "Sammed Shikharji",
+     "parents": "King Sinhasena and Queen Suyasha", "tree": "Ashoka", "yaksha": "Patala", "yakshini": "Ankusha",
+     "desc": "Ananta means infinite — expounded the infinite potential inherent within every living soul.",
+     "details": "Anantanatha's name reflects the concept of infinity. His core teaching was that every single Jiva (soul), no matter how minute or heavily burdened by karma, contains infinite knowledge (Ananta Jnana), infinite perception (Ananta Darshana), infinite bliss (Ananta Sukha), and infinite power (Ananta Virya). He taught that the purpose of human life is simply to uncover this hidden, infinite treasure."},
+     
+    {"id": 15, "name": "Lord Dharmanath", "symbol": "Vajra (Thunderbolt) ⚡", "color": "Gold", "birth": "Ratnapuri", "nirvana": "Sammed Shikharji",
+     "parents": "King Bhanu and Queen Suvrata", "tree": "Dadhiparna", "yaksha": "Kinnara", "yakshini": "Kandarpa",
+     "desc": "Established the firmness of Right Conduct (Charitra) against spiritual ignorance.",
+     "details": "Dharmanatha is the embodiment of 'Dharma'—the fundamental true nature of things. In Jainism, 'Vatthu Sahavo Dhammo' translates to 'the intrinsic nature of a substance is its religion.' Thus, the dharma of the soul is pure consciousness. Dharmanatha's thunderbolt symbol (Vajra) represents the indestructible and piercing nature of true spiritual insight, which shatters the mountains of delusion (Mohaniya Karma)."},
+     
+    {"id": 16, "name": "Lord Shantinath", "symbol": "Deer 🦌", "color": "Gold", "birth": "Hastinapur", "nirvana": "Sammed Shikharji",
+     "parents": "King Vishwasena and Queen Achira", "tree": "Nandi", "yaksha": "Garuda", "yakshini": "Nirvani",
+     "desc": "The emblem of universal peace (Shanti). He was both a Chakravartin (Universal Monarch) and a Tirthankara.",
+     "details": "Shantinatha is one of the most widely venerated Tirthankaras. Uniquely, he was both a Chakravartin (an emperor of the world) and a Kamadeva (a man of supreme physical beauty) before renouncing the world to become a Tirthankara. His life demonstrates that even the pinnacle of earthly power, wealth, and beauty is ultimately unfulfilling compared to the peace of spiritual liberation. The reciting of the 'Shanti Stotra' is a daily practice for many Jains, invoking his name for universal peace and the dispelling of suffering."},
+     
+    {"id": 17, "name": "Lord Kunthunath", "symbol": "Goat 🐐", "color": "Gold", "birth": "Hastinapur", "nirvana": "Sammed Shikharji",
+     "parents": "King Surya and Queen Sridevi", "tree": "Bhilaka", "yaksha": "Gandharva", "yakshini": "Bala",
+     "desc": "Promoted absolute compassion for even the smallest microscopic living organisms.",
+     "details": "Like Shantinatha, Kunthunatha was also a Chakravartin and a Kamadeva. His teachings placed intense focus on Ahimsa (non-violence) at the micro-level. 'Kunthu' refers to tiny insects. He emphasized that the life of a microscopic organism is as precious to it as a human life is to a human. This profound empathy forms the basis of Jain practices like filtering water and avoiding root vegetables."},
+     
+    {"id": 18, "name": "Lord Aranath", "symbol": "Nandyavarta / Fish 🐟", "color": "Gold", "birth": "Hastinapur", "nirvana": "Sammed Shikharji",
+     "parents": "King Sudarshana and Queen Devi", "tree": "Amba", "yaksha": "Yakshendra", "yakshini": "Dharini",
+     "desc": "Preached self-restraint and liberation from worldly attachments.",
+     "details": "Aranatha was the third consecutive Tirthankara who was also a Chakravartin and Kamadeva. His emblem, the Nandyavarta (an intricate swastika) or the Fish, symbolizes the complex labyrinth of Samsara and the agility required to swim out of the turbulent waters of worldly attachments. He taught the detailed mechanics of how vows (Vratas) act as a shield (Samvara) against the influx of new karmas."},
+     
+    {"id": 19, "name": "Lord Mallinath", "symbol": "Kalasha (Water Pot) 🏺", "color": "Blue", "birth": "Mithila", "nirvana": "Sammed Shikharji",
+     "parents": "King Kumbha and Queen Prabhavati", "tree": "Ashoka", "yaksha": "Kubera", "yakshini": "Dharanpriya",
+     "desc": "Associated with spiritual purity and divine grace. (Svetambara tradition reveres Mallinath as female).",
+     "details": "Mallinatha is unique due to sectarian differences regarding gender. The Svetambara tradition asserts that Mallinatha was born a woman (Princess Malli), demonstrating that the female body is perfectly capable of attaining the highest spiritual goal (Kevala Jnana and Moksha). The Digambara tradition maintains Mallinatha was male. Regardless, Mallinatha's famous teaching involved placing rotting food in a beautiful golden statue to demonstrate to her/his suitors that physical beauty is merely a deceptive shell covering biological impurity, thus inspiring profound Vairagya (detachment) in them."},
+     
+    {"id": 20, "name": "Lord Munisuvrata", "symbol": "Tortoise 🐢", "color": "Black/Dark", "birth": "Rajgir", "nirvana": "Sammed Shikharji",
+     "parents": "King Sumitra and Queen Padmavati", "tree": "Champaka", "yaksha": "Varuna", "yakshini": "Naradatta",
+     "desc": "Renowned for steadfast vows, drawing senses inward like a tortoise draws its limbs.",
+     "details": "Munisuvrata ('He of Excellent Vows') was a contemporary of Lord Rama (according to Jain Ramayana). His symbol, the tortoise, is a powerful spiritual metaphor in Jainism and broader Indian philosophy: just as a tortoise retracts its limbs into its shell at the sign of danger, a spiritual seeker must retract their senses from external worldly objects to protect the soul from karmic influx (Asrava). His dark complexion is often associated with intense, unyielding asceticism."},
+     
+    {"id": 21, "name": "Lord Naminath", "symbol": "Blue Lotus 🪷", "color": "Gold", "birth": "Mithila", "nirvana": "Sammed Shikharji",
+     "parents": "King Vijaya and Queen Vappila", "tree": "Bakula", "yaksha": "Bhrikuti", "yakshini": "Gandhari",
+     "desc": "Famous for conquering anger and bringing peace to warring royal armies through non-violence.",
+     "details": "Naminatha means 'the one who brings bowing (humility)'. According to legend, during a siege on his city of Mithila, his mere presence on the battlements caused the attacking armies to lay down their weapons and bow in reverence, conquered not by violence but by his aura of absolute peace and non-violence. He taught that true conquest is not of lands or kings, but of one's own ego and anger."},
+     
+    {"id": 22, "name": "Lord Neminath (Arishtanemi)", "symbol": "Conch Shell 🐚", "color": "Black/Dark", "birth": "Shoripur", "nirvana": "Girnar Hill",
+     "parents": "King Samudravijaya and Queen Shivadevi", "tree": "Vetasa", "yaksha": "Gomedha", "yakshini": "Ambika",
+     "desc": "Cousin of Lord Krishna. On his wedding day, hearing the cries of caged animals prepared for feast, he renounced the world to advocate total non-violence.",
+     "details": "Neminatha's life story is one of the most poignant in Jainism. As the cousin of the Hindu deity Krishna, he was betrothed to Princess Rajul (Rajimati). En route to his wedding, he heard the terrified cries of animals penned up to be slaughtered for the wedding feast. Overcome with deep compassion and horror at the violence (Himsa) committed for his sake, he turned his chariot around, abandoned the wedding, and renounced the world. He attained Moksha at Mount Girnar. Princess Rajul, inspired by his ultimate compassion, also renounced the world and became a prominent nun in his order. Neminatha's life is the ultimate testament to the Jain principle that Ahimsa extends to all living creatures."},
+     
+    {"id": 23, "name": "Lord Parshvanatha", "symbol": "Serpent Hood 🐍", "color": "Blue", "birth": "Varanasi", "nirvana": "Sammed Shikharji",
+     "parents": "King Ashvasena and Queen Vama", "tree": "Dhataki", "yaksha": "Dharanendra", "yakshini": "Padmavati",
+     "desc": "Lived 250 years before Lord Mahavira. Re-established the Four-Fold Vows and is revered across all Jain traditions for intense forgiveness (Kshama).",
+     "details": "Parshvanatha is a massive historical figure who lived in the 9th century BCE. He propounded the Chaturyama Dharma (the four-fold vows of non-violence, truth, non-stealing, and non-possession). He is universally revered for his boundless forgiveness. The most famous story involves his former enemy, Kamath, who caused a torrential storm to drown Parshvanatha while he meditated. A snake king (Dharanendra) raised his hood to protect the Lord from the rain. Parshvanatha remained in perfect equanimity, feeling equal love for Kamath (who tried to kill him) and Dharanendra (who protected him). This perfect equanimity led to his omniscience."},
+     
+    {"id": 24, "name": "Lord Mahavira (Vardhamana)", "symbol": "Lion 🦁", "color": "Gold", "birth": "Kundagrama (Vaishali)", "nirvana": "Pawapuri",
+     "parents": "King Siddhartha and Queen Trishala", "tree": "Teak", "yaksha": "Matanga", "yakshini": "Siddhayika",
+     "desc": "The 24th and final Tirthankara of this era. Attained Kevala Jnana after 12 years of severe penance. Preached Ahimsa, Anekantavada, and complete spiritual independence.",
+     "details": "Born as Prince Vardhamana (the increaser), he renounced his royal life at age 30. For twelve and a half years, he wandered as an ascetic in absolute silence, enduring extreme physical hardships and abuse with undisturbed calmness, earning the title 'Mahavira' (Great Hero). He attained Kevala Jnana (omniscience) under a Sal tree. He reorganized the Jain Sangha, adding Brahmacharya (celibacy) to Parshvanatha's four vows, making them the Five Mahavratas. For 30 years, he walked barefoot across India, preaching Ahimsa (non-violence), Anekantavada (multiplicity of views), and Aparigraha (non-attachment). He famously declared that every soul is independent, and no God creates, rules, or destroys the universe. He attained Nirvana at Pawapuri in 527 BCE, an event celebrated today as Diwali (the festival of spiritual light)."}
+]
+
+with open("c:/Projects/learnaboutjainism.com/src/data/tirthankaras.json", "w", encoding="utf-8") as f:
+    json.dump(tirthankaras_base, f, indent=2, ensure_ascii=False)
+
+print("Successfully expanded tirthankaras.json!")

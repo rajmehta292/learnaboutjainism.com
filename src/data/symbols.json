@@ -1,0 +1,75 @@
+{
+  "introduction": "Ten symbols, events, and locations are considered supremely auspicious in Jainism. These Pancha Teerthankara or sacred symbols are used in worship, temple architecture, meditation, and daily Puja.",
+  "symbols": [
+    {
+      "name": "Swastika",
+      "sanskrit": "स्वस्तिक",
+      "meaning": "May all beings be happy and well. The four arms represent the 4 states of existence: heavenly, human, animal, and hellish. The four points also represent the Four Jewels of Jainism.",
+      "usage": "Drawn in rice or sand before every Puja; drawn on new account books; drawn on temples and mandalas.",
+      "icon": "卐"
+    },
+    {
+      "name": "Siddhashila",
+      "sanskrit": "सिद्धशीला",
+      "meaning": "The crescent moon and dot at the top of the Jain Symbol representing the eternal abode of liberated Siddhas at the apex of the universe.",
+      "usage": "Represents the goal of all spiritual practice; drawn at the top of altars; used in meditation on liberation.",
+      "icon": "🌙"
+    },
+    {
+      "name": "Three Dots (Ratnatraya)",
+      "sanskrit": "रत्नत्रय",
+      "meaning": "The three dots below the Swastika representing Right Faith, Right Knowledge, and Right Conduct — the path to liberation.",
+      "usage": "Drawn in Puja; meditated upon as the ladder of spiritual ascent.",
+      "icon": "●●●"
+    },
+    {
+      "name": "Ahimsa Hand / Palm",
+      "sanskrit": "अहिंसा हस्त",
+      "meaning": "The raised palm with the wheel (Ahimsa Chakra) inscribed with 'Ahimsa' — the supreme vow of non-violence. It means 'Stop! Think before you act, lest you harm any living being.'",
+      "usage": "Used in all Jain ceremonies, drawn on entryways, worn as pendants, used in meditation.",
+      "icon": "🖐️"
+    },
+    {
+      "name": "Kalasha",
+      "sanskrit": "कलश",
+      "meaning": "The sacred water pot symbolizing prosperity, purity, and the 14 dreams of Tirthankara's mother. Used in all auspicious ceremonies.",
+      "usage": "Filled with holy water and coconut; placed at temple entrances; used during Puja and Utsavas.",
+      "icon": "🏺"
+    },
+    {
+      "name": "Om",
+      "sanskrit": "ॐ",
+      "meaning": "The primordial sound of the universe. In Jainism, Om is the condensed form of the five lines of the Navkar Mantra: A-A-A-U-M. It represents the essence of the supreme beings.",
+      "usage": "Chanted as meditation; written on sacred texts; painted on temple walls; the sound with which Jainism begins and ends.",
+      "icon": "🕉️"
+    },
+    {
+      "name": "Ashta Mangalas",
+      "sanskrit": "अष्ट मंगल",
+      "meaning": "The eight auspicious symbols placed around the footprint of the Jina in temple rituals. Each represents a supreme quality of the liberated soul.",
+      "usage": "Arranged in ritual Puja; used in wedding and religious ceremonies; drawn on mandalas.",
+      "icon": "🎨"
+    },
+    {
+      "name": "Shrimala (Srivatsa)",
+      "sanskrit": "श्रीवत्स",
+      "meaning": "The auspicious mark on the chest of all Tirthankaras, resembling a upward-pointing triangle or a small diamond. It is the symbol of supreme spiritual royalty and marks the Tirthankara's pure soul.",
+      "usage": "Drawn on the chest of Tirthankara idols; used in religious art; represents the spotless soul.",
+      "icon": "💎"
+    },
+    {
+      "name": "Chaitya Vriksha",
+      "sanskrit": "चैत्य वृक्ष",
+      "meaning": "The sacred tree under which Tirthankaras attain Kevala Jnana and deliver sermons. It symbolizes the tree of Dharma (spiritual law) under which shelter is sought.",
+      "usage": "Found in every Jain temple; used in meditation; represents the shelter of Dharma.",
+      "icon": "🌳"
+    },
+    {
+      "name": "Dharma Chakra",
+      "sanskrit": "धर्म चक्र",
+      "meaning": "The wheel of dharma representing the teachings of the Jina. It has 24 spokes (for the 24 Tirthankaras) and represents the cosmic rhythm of Samsara and liberation.",
+      "usage": "Spun in festivals; painted on temple walls; meditated upon as the wheel of cosmic law.",
+      "icon": "☸️"
+    }
+  ]
+}

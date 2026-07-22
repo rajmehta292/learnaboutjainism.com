@@ -1,0 +1,121 @@
+{
+  "overview": "Jainism has two major traditions — Digambara and Svetambara — which share the same core philosophy, the same Tirthankaras, and the same fundamental vows, but differ in certain practices, monastic codes, and scriptural canons. Despite centuries of separate development, both traditions revere the same 24 Tirthankaras and pursue liberation through the Three Jewels (Ratnatraya). Modern reform movements and mutual Sangha initiatives continue to bridge these traditions.",
+  "digambara": {
+    "name": "Digambara",
+    "sanskrit": "दिगम्बर",
+    "meaning": "Sky-clad — referring to the tradition of complete non-possession including no clothing",
+    "description": "The Digambara tradition practices complete nudity for monks as the ultimate expression of Aparigraha (non-possession). They believe that complete renunciation of all possessions, including clothing, is essential for the highest spiritual attainment. Digambaras hold that the original Agamas were lost and reconstructed from memory, and their canonical tradition includes the Shatkhand Agam, Kashayapahud, and Anuyogas.",
+    "subSects": [
+      {
+        "name": "Bisapantha",
+        "description": "The largest Digambara sub-sect. They worship idols with offerings of flowers, fruits, and saffron. They have a more liberal interpretation of ancient texts."
+      },
+      {
+        "name": "Terapantha",
+        "description": "Reform movement rejecting idol worship and elaborate Puja. They practice simple meditation and worship of the pure self. Emphasis on study and ethical conduct."
+      },
+      {
+        "name": "Taranapantha",
+        "description": "Practice meditation on the soul alone without idol worship. Monks wear white cloth over one shoulder. Known for deep scholarship and strict ethical codes."
+      },
+      {
+        "name": "Kanjipantha",
+        "description": "Follow Acharya Kanji Swami's teachings emphasizing self-realization (Nishchaya view) over ritual. Known for deep philosophical introspection."
+      }
+    ],
+    "keyPractices": [
+      "Complete nudity for monks (Aparigraha in its fullest expression)",
+      "No idol worship in some sub-sects (Terapantha/Taranapantha)",
+      "Use of peacock feather whisk (Pankhi) and water pot (Kamandalu)",
+      "Samyak Darshana through radical self-inquiry",
+      "Deep meditation on the soul's purity (Nishchaya view)",
+      "Only one meal per day, from alms bowls"
+    ],
+    "keyTexts": ["Shatkhand Agam", "Kashayapahud", "Samayasara", "Niyamasara", "Pravachanasara", "Tattvartha Sutra (accepted with commentary)"],
+    "icon": "👁️"
+  },
+  "svetambara": {
+    "name": "Svetambara",
+    "sanskrit": "श्वेतांबर",
+    "meaning": "White-clad — referring to the tradition of wearing white robes as a symbol of purity and non-possession in a practical form",
+    "description": "The Svetambara tradition holds that monks may wear simple white robes as a practical expression of Aparigraha. They maintain that they have preserved the original Agamas through continuous oral tradition and written in the 5th century CE at Vallabhi. Their canon includes 45 Agamas (12 Angas, 12 Upangas, etc.). They practice idol worship with elaborate Puja.",
+    "subSects": [
+      {
+        "name": "Murtipujaka (Deravasi)",
+        "description": "The largest Svetambara sub-sect. They worship idols (Murtis) with flowers, fruits, incense, and elaborate rituals. Temple worship is central to their practice."
+      },
+      {
+        "name": "Sthanakvasi",
+        "description": "Reform movement rejecting idol worship. They worship in simple halls (Sthanakas) and practice meditation on the pure self. Founded by Lonkasaha in the 15th century."
+      },
+      {
+        "name": "Terapanthi",
+        "description": "Reform movement founded by Acharya Bhikshu. Rejects idol worship, emphasizes Anuvrata, and practices strict discipline. Led by a single Acharya. Almost 50% of Svetambara monks belong to this sect."
+      }
+    ],
+    "keyPractices": [
+      "White robes for monks and nuns (Sashaan)",
+      "Elaborate idol worship (Murtipuja) in temples",
+      "Ceremonial bathing of idols (Abhisheka) with water, milk, saffron",
+      "Ground-drawing symbols (Swastika, Ashta Mangalas)",
+      "Annual Paryushan for 8 days",
+      "Pathshalas (religious education) for children"
+    ],
+    "keyTexts": ["Acharanga Sutra", "Sutrakritanga", "Uttaradhyayana", "Tattvartha Sutra (accepted)", "Kalpa Sutra", "Saman Suttam"],
+    "icon": "👕"
+  },
+  "differences": [
+    {
+      "topic": "Clothing",
+      "digambara": "Monks practice complete nudity as the ultimate expression of aparigraha. Emphasizes physical renunciation.",
+      "svetambara": "Monks wear white robes as practical non-possession. Emphasizes internal purity over external form."
+    },
+    {
+      "topic": "Scriptures",
+      "digambara": "Believe original Agamas were lost. Rely on reconstructed texts: Shatkhand Agam, Kashayapahud, Digambara Anuyogas.",
+      "svetambara": "Believe they preserved Agamas through oral tradition. Canon includes 45 texts in 5 Anga categories."
+    },
+    {
+      "topic": "Mallinath",
+      "digambara": "Believe Mallinath (19th Tirthankara) was male. The practice is to observe the male form.",
+      "svetambara": "Believe Mallinath was female. This is the only case of a female Tirthankara in the current age."
+    },
+    {
+      "topic": "Monastic Lineage",
+      "digambara": "Lineage from Bhadrabahu to Kundakunda to present Digambara Acharyas.",
+      "svetambara": "Lineage from Bhadrabahu through Sthulabhadra to present Svetambara Acharyas."
+    },
+    {
+      "topic": "Idol Worship",
+      "digambara": "Many sub-sects reject idol worship (Terapantha, Taranapantha). Others worship nude idols in Digambara style.",
+      "svetambara": "All sub-sects practice idol worship. Idols are clothed in white robes and decorated."
+    },
+    {
+      "topic": "Liberation of Women",
+      "digambara": "Hold that women cannot achieve liberation in the current female body; must be reborn as male for Moksha.",
+      "svetambara": "Believe women can attain Kevala Jnana and Moksha directly in a female body. Mallinath is the proof."
+    },
+    {
+      "topic": "Paryushan Duration",
+      "digambara": "10 days (Das Lakshana) focusing on the 10 Dharmas.",
+      "svetambara": "8 days (Ashtanika) with Kalpa Sutra recitation, ending with Samvatsari."
+    },
+    {
+      "topic": "Tirthankara Images",
+      "digambara": "Nude idols in Kayotsarga posture. No clothes or jewelry.",
+      "svetambara": "Clothed idols in elaborate decoration. Often with eyes open, looking outward in compassion."
+    }
+  ],
+  "unityPoints": [
+    "Both revere the same 24 Tirthankaras of the current age",
+    "Both emphasize the same 5 Mahavratas for monks",
+    "Both follow the same 12 Shravaka vows for householders",
+    "Both practice the same core rituals: Puja, Pratikramana, Samayika",
+    "Both celebrate Paryushan (with different durations)",
+    "Both follow the same Mahavira-Janma-Kalyanak and Diwali traditions",
+    "Both accept the 7 Tattvas and 14 Gunasthanaks",
+    "Both accept Tattvartha Sutra as authoritative",
+    "Both have produced great Acharyas and scholars across history",
+    "Both are working toward united Sangha initiatives in modern times"
+  ]
+}

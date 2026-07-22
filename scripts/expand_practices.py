@@ -1,0 +1,72 @@
+import json
+import os
+
+os.makedirs("c:/Projects/learnaboutjainism.com/src/data", exist_ok=True)
+
+practices_base = [
+    {
+        "id": 1,
+        "name": "Samayika",
+        "category": "Daily Ritual (Avashyaka)",
+        "duration": "48 minutes (1 Muhurta)",
+        "desc": "The practice of attaining equanimity and mental peace for a set duration, stepping away from all worldly attachments and aversions.",
+        "details": "Samayika is the core of Jain meditation and daily practice. During Samayika, a practitioner takes a temporary vow to abandon all sinful activities (papa-karma) and maintain perfect equanimity (samata) toward all living beings. It is typically performed for one muhurta (48 minutes). The practitioner wears simple, unstitched clothing, sits in a quiet place, and recites specific sutras, meditates on the nature of the soul, or reads scriptures. The ultimate goal is to experience a state of soul-consciousness completely free from the turbulence of passions (kashayas).",
+        "list": [
+            {"name": "Equanimity towards friends and foes"},
+            {"name": "Abandonment of all sinful activities (Savadyayoga)"},
+            {"name": "Recitation of Namokar Mantra and Karemi Bhante sutra"},
+            {"name": "Introspection and self-study (Svadhyaya)"}
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Pratikramana",
+        "category": "Daily Ritual (Avashyaka)",
+        "duration": "Varies (typically 45-90 minutes)",
+        "desc": "A ritual of introspection, confession, and repentance for sins committed consciously or unconsciously.",
+        "details": "Pratikramana means 'turning back'. It is the process of turning the soul back from its worldly, sinful tendencies toward its original, pure nature. Jains perform Pratikramana to cleanse themselves of the karmas accumulated during the day (evening Pratikramana) or night (morning Pratikramana). The ritual involves reciting sutras that systematically list possible transgressions against the vows, asking for forgiveness from all living beings (Michchhami Dukkadam), and vowing not to repeat them. It culminates in universal forgiveness.",
+        "list": [
+            {"name": "Devasi Pratikramana (Evening)"},
+            {"name": "Rai Pratikramana (Morning)"},
+            {"name": "Pakshi Pratikramana (Fortnightly)"},
+            {"name": "Samvatsari Pratikramana (Annual, during Paryushan)"}
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Puja (Worship)",
+        "category": "Devotional Practice",
+        "duration": "Varies",
+        "desc": "Worship of the Tirthankaras through physical offerings (Dravya Puja) or mental devotion (Bhava Puja).",
+        "details": "Jain Puja is not transactional; Jains do not worship Tirthankaras to ask for worldly favors, because Tirthankaras are liberated souls who cannot interfere in worldly affairs. Instead, Puja is a practice of Bhakti (devotion) to cultivate the virtues of the Tirthankaras within oneself. Ashtaprakari Puja (eight-fold worship) is common, where 8 symbolic items are offered: Jal (water - representing purity), Chandan (sandalwood - cooling of passions), Pushpa (flower - conduct), Dhup (incense - ascetic life), Deepak (lamp - pure knowledge), Akshat (rice - unbroken, unhusked, representing liberation), Naivedya (sweets - reducing desire), and Phal (fruit - the ultimate fruit of Moksha)."
+    },
+    {
+        "id": 4,
+        "name": "Navkar Mantra (Namokar Mantra)",
+        "category": "Mantra",
+        "duration": "Brief, repeated",
+        "desc": "The most fundamental mantra in Jainism, offering obeisance to the five supreme spiritual beings (Pancha Parameshthi).",
+        "details": "Unlike many religious mantras, the Navkar Mantra does not name any specific individual (like Mahavira or Parshvanatha). Instead, it bows to spiritual states of purity: Arihants (omniscient beings), Siddhas (liberated souls), Acharyas (spiritual leaders), Upadhyayas (teachers), and Sadhus/Sadhvis (monks and nuns). It is recited at the beginning of any auspicious task, during meditation, and continuously in daily life to remind the practitioner of the ultimate spiritual goal."
+    },
+    {
+        "id": 5,
+        "name": "Fasting (Upavasa)",
+        "category": "Austerity (Tapa)",
+        "duration": "24 hours to several weeks",
+        "desc": "Voluntary abstention from food (and often water) to shed karma and subjugate desires.",
+        "details": "Fasting is a prominent external austerity (Bahyantara Tapa) in Jainism. It is not done for physical health, but for spiritual purification (Nirjara - shedding of karma). By denying the body's most basic instinct (hunger), the practitioner breaks the soul's attachment to the physical form. Types of fasting include Chauvihar Upavasa (no food or water from sunset to sunrise the next day), Tivihar (only boiled water allowed), and Ekasana (eating only once a day in one sitting). Extended fasts like Athai (8 days) or Masakshaman (30 days) are common during Paryushan."
+    },
+    {
+        "id": 6,
+        "name": "Ahimsa (Dietary Restrictions)",
+        "category": "Vow (Vrata)",
+        "duration": "Continuous",
+        "desc": "Strict vegetarianism and avoidance of root vegetables, unfiltered water, and eating after sunset.",
+        "details": "Jain dietary practices are the practical application of absolute Ahimsa (non-violence). Jains are strict vegetarians. Furthermore, many avoid root vegetables (like potatoes, onions, garlic) because harvesting them destroys the entire plant and they are believed to harbor infinite microscopic souls (Anantkay). Jains also traditionally filter their water (Chhann) to avoid consuming microorganisms, and practice Chauvihar (not eating after sunset) because the absence of sunlight increases the presence of microscopic life, leading to unintentional violence if food is consumed or prepared in the dark."
+    }
+]
+
+with open("c:/Projects/learnaboutjainism.com/src/data/dailyPractices.json", "w", encoding="utf-8") as f:
+    json.dump(practices_base, f, indent=2, ensure_ascii=False)
+
+print("Successfully expanded dailyPractices.json!")

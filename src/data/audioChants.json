@@ -1,0 +1,150 @@
+[
+  {
+    "chantName": "Navkar Mantra",
+    "sanskrit": "णमोकार मंत्र",
+    "description": "The supreme Jain mantra — bowing to the five supreme beings and the 9-line prayer that destroys all sins. It is the essence of Jain worship.",
+    "audioUrl": "#",
+    "duration": "5 minutes (108 repetitions ≈ 8 minutes with pause)",
+    "category": "Universal",
+    "icon": "🙏",
+    "lyrics": [
+      "Namo Arihantanam — I bow to the Arihants (liberated while embodied)",
+      "Namo Siddhanam — I bow to the Siddhas (fully liberated souls)",
+      "Namo Ayariyanam — I bow to the Acharyas (spiritual heads)",
+      "Namo Uvajjhayanam — I bow to the Upadhyayas (preceptors)",
+      "Namo Loye Savva Sahunam — I bow to all Sadhus (ascetics)",
+      "Eso Panch Namokkaro — These five salutations",
+      "Savva Papa Panasano — Destroy all sins",
+      "Mangalanam Cha Savvesim — Of all that is auspicious",
+      "Padhamam Havai Mangalam — This is the supreme"
+    ],
+    "translation": [
+      "I bow to the Arihants",
+      "I bow to the Siddhas",
+      "I bow to the Acharyas",
+      "I bow to the Upadhyayas",
+      "I bow to all Sadhus",
+      "These five salutations",
+      "Destroy all sins",
+      "Of all that is auspicious",
+      "This is the supreme"
+    ],
+    "whenToChant": "Morning upon waking, before meals, before meditation, during travel, before exams, before any important activity, at bedtime. Total recommended: 108 times daily minimum.",
+    "benefits": "Destroys all sins, purifies speech, connects with supreme beings, creates protective vibration, removes obstacles, develops humility"
+  },
+  {
+    "chantName": "Ahimsa Vandan",
+    "sanskrit": "अहिंसा वंदना",
+    "description": "The prayer of non-violence, seeking forgiveness from all living beings for any harm caused. It is the essence of Kshamavani.",
+    "audioUrl": "#",
+    "duration": "3 minutes",
+    "category": "Forgiveness",
+    "icon": "🕊️",
+    "lyrics": [
+      "Khamemi Savva Jive — I forgive all living beings",
+      "Savve Jiva Khamantu Me — May all living beings forgive me",
+      "Mitti Me Savva Bhuesu — I have friendship with all",
+      "Veram Majjham Na Kenai — I have no enmity with anyone"
+    ],
+    "translation": [
+      "I forgive all living beings",
+      "May all living beings forgive me",
+      "I have friendship with all",
+      "I have no enmity with anyone"
+    ],
+    "whenToChant": "Morning and evening; during Pratikramana; on Kshamavani day; when conflicts arise; before sleep.",
+    "benefits": "Destroys karmic bondage from harm caused, creates inner peace, heals relationships, develops universal love, protects against negative karma"
+  },
+  {
+    "chantName": "Bhaktamar Stotra (Selected Verses)",
+    "sanskrit": "भक्तामर स्तोत्र",
+    "description": "The 48-verse devotional hymn composed by Acharya Manatunga in praise of Lord Adinath (Rishabhdev). Each verse is believed to be composed while chained to a pillar, and each one caused a chain to break. Only selected verses are usually chanted by laypeople.",
+    "audioUrl": "#",
+    "duration": "15-30 minutes (full) / 5 minutes (selected)",
+    "category": "Devotional",
+    "icon": "🕉️",
+    "lyrics": [
+      "Bhaktamara stotra verse 1: 'Devotional lotus of the lotus-footed Lord...'",
+      "Bhaktamara stotra verse 7: 'The lotus feet of the Lord destroy all obstacles...'",
+      "Bhaktamara stotra verse 14: 'Even the king of gods bows to your feet...'",
+      "Bhaktamara stotra verse 48: 'I take refuge in the lotus feet of Jinendra...'"
+    ],
+    "translation": [
+      "O Lord, your lotus feet are the supreme refuge",
+      "Your lotus feet destroy all karmic obstacles",
+      "Even heaven's king bows to your feet",
+      "I surrender at the feet of the conqueror"
+    ],
+    "whenToChant": "Morning Puja; during illness (for healing); before exams; during difficult times; temple worship.",
+    "benefits": "Destroys obstacles, grants courage, develops bhakti, invokes divine protection, purifies the environment"
+  },
+  {
+    "chantName": "Uvassagharam Stotra",
+    "sanskrit": "उव्वसगहरं स्तोत्र",
+    "description": "A 44-verse devotional hymn to Lord Parshvanatha (23rd Tirthankara). Each verse describes his qualities and seeks his protection. The most widely recited Parshvanatha stotra.",
+    "audioUrl": "#",
+    "duration": "10 minutes",
+    "category": "Devotional",
+    "icon": "🐍",
+    "lyrics": [
+      "Uvassagharam — I take refuge in the Lord who destroyed delusion",
+      "Araham Uvajjhayanam — The Arihant, the omniscient teacher",
+      "Parshva Jinam Vandami — I bow to Parshvanatha, the ford-maker",
+      "Kshamavani Kshamavani — Forgiveness, forgiveness"
+    ],
+    "translation": [
+      "I take refuge in the Lord",
+      "The Arihant, the omniscient teacher",
+      "I bow to Parshvanatha",
+      "Forgiveness, forgiveness"
+    ],
+    "whenToChant": "Morning and evening; during Paryushan; before sleep; when seeking protection.",
+    "benefits": "Develops forgiveness (Kshama), invites Parshvanatha's protection, destroys obstacles, creates inner peace"
+  },
+  {
+    "chantName": "Logassa Sutra",
+    "sanskrit": "लोगास्स सूत्र",
+    "description": "A 24-verse hymn describing the qualities of the 24 Tirthankaras and the universal dharma. It is recapitulated in the Samavayanga Sutra.",
+    "audioUrl": "#",
+    "duration": "8 minutes",
+    "category": "Canonical",
+    "icon": "☸️",
+    "lyrics": [
+      "Logassa — Obeisance to all Jinas of the past, present, and future",
+      "The 24 Tirthankaras establish dharma in every age cycle",
+      "Lord Rishabhdev taught the first codes of civilization",
+      "Lord Mahavira preached the supreme path of liberation"
+    ],
+    "translation": [
+      "Obeisance to all Jinas of past, present, and future",
+      "The 24 Tirthankaras establish dharma in every age cycle",
+      "Lord Rishabhdev taught the first codes",
+      "Lord Mahavira preached the supreme path"
+    ],
+    "whenToChant": "During temple worship; during Puja; in groups; morning.",
+    "benefits": "Connects with all 24 Tirthankaras, receives blessings from universal dharma, develops devotion to all Jinas"
+  },
+  {
+    "chantName": "Jai Jinendra Vandana",
+    "sanskrit": "जय जिनेन्द्र वंदना",
+    "description": "The universal Jain greeting and greeting of victory to the Jinas. It is the opening and closing of every Jain gathering, Puja, and spiritual event.",
+    "audioUrl": "#",
+    "duration": "1-2 minutes",
+    "category": "Universal",
+    "icon": "🎉",
+    "lyrics": [
+      "Jai Jinendra — Victory to the Lord of Conquerors",
+      "May the teachings of the Jina prevail",
+      "May Ahimsa guide all actions",
+      "May truth and non-violence reign"
+    ],
+    "translation": [
+      "Victory to the Lord of Conquerors",
+      "May the teachings of the Jina prevail",
+      "May Ahimsa guide all actions",
+      "May truth and non-violence reign"
+    ],
+    "whenToChant": "Morning greeting; before any gathering; at wedding ceremonies; at temple entry and exit.",
+    "benefits": "Establishes sacred space, invokes Jina presence, aligns with spiritual community, marks auspicious moments"
+  }
+]

@@ -1,0 +1,98 @@
+{
+  "introduction": "Fasting (Tapa) is the most powerful spiritual practice in Jainism. It is not mere physical austerity — it is conscious karmic purification. By voluntarily restraining the body's needs, the aspirant destroys karmic matter, gains self-mastery, and accelerates the journey to liberation. Fasting is the fire that burns karmic fuel.",
+  "typesOfFasts": [
+    {
+      "name": "Upvas",
+      "sanskrit": "उपवास",
+      "transliteration": "Upavasa",
+      "description": "Complete fast from food and water for 24-48 hours or longer. The most intense form of Tapas. Performed on Paryushan, Samvatsari, and other holy days.",
+      "difficulty": "Advanced",
+      "whoShouldDo": "Healthy adults and youth with prior fasting experience. Not for beginners, children, elderly, pregnant women, or the ill."
+    },
+    {
+      "name": "Chauvihar",
+      "sanskrit": "चौविहार",
+      "transliteration": "Chauvihara",
+      "description": "24-hour fast from both food and water. Considered the minimum complete fast. Performed by monks/nuns daily after noon; by laypeople on auspicious days.",
+      "difficulty": "Moderate to Advanced",
+      "whoShouldDo": "Monks and lay practitioners following Pachchakhan vow."
+    },
+    {
+      "name": "Ekaashana",
+      "sanskrit": "एकाशन",
+      "transliteration": "Ekashana",
+      "description": "Eating one meal per day before sunset. All consuming stops after that single meal. Develops discipline while maintaining householder responsibilities.",
+      "difficulty": "Beginner to Moderate",
+      "whoShouldDo": "All lay Jains seeking greater discipline."
+    },
+    {
+      "name": "Beasana",
+      "sanskrit": "बेअसन",
+      "transliteration": "Beasana",
+      "description": "Eating two meals per day (morning and afternoon), no evening meal. A lighter fast that creates space for evening spiritual practice.",
+      "difficulty": "Beginner",
+      "whoShouldDo": "Lay Jains beginning their fasting practice."
+    },
+    {
+      "name": "Ayambil",
+      "sanskrit": "आयम्बिल",
+      "transliteration": "Ayambila",
+      "description": "Eating only boiled food without spices, oil, ghee, or vegetables. Only one type of grain or pulses is consumed. Intensely purifying, often done during Navpad Oli.",
+      "difficulty": "Moderate",
+      "whoShouldDo": "Serious lay practitioners and monks during special periods."
+    },
+    {
+      "name": "Proshadhopavasa",
+      "sanskrit": "प्रोषधोपवास",
+      "transliteration": "Proshadhopavasa",
+      "description": "Fasting on the 8th, 14th, and 15th days of each lunar fortnight. Eating only pure, sattvic food on these days, with intensified meditation and Pratikramana.",
+      "difficulty": "Moderate",
+      "whoShouldDo": "Householders who have taken Shikshavratas (4th vow)."
+    },
+    {
+      "name": "Varshitap",
+      "sanskrit": "वर्षितप",
+      "transliteration": "Varshitapa",
+      "description": "The year-long fast commemorating Lord Rishabhdev's 400-day fast. Practitioners alternate days of eating and fasting, consuming food only on alternate days or once-daily before sunset.",
+      "difficulty": "Very Advanced",
+      "whoShouldDo": "Only healthy, experienced practitioners under spiritual guidance. Culminates on Akshay Tritiya."
+    },
+    {
+      "name": "Santhara / Sallekhana",
+      "sanskrit": "सल्लेखना / सांठारा",
+      "transliteration": "Sallekhana",
+      "description": "The voluntary, gradual fasting unto death at the end of life. A deeply spiritual practice of complete renunciation of the body, undertaken only by those who are incurably ill, aged, or facing certain death. It is an act of supreme equanimity and spiritual independence.",
+      "difficulty": "Supreme",
+      "whoShouldDo": "Only when death is imminent and unavoidable. Requires strict supervision by the Sangha, Guru approval, and complete mental equanimity."
+    }
+  ],
+  "guidelines": [
+    "Always begin with shorter fasts (Beasana) before attempting longer ones (Upvas)",
+    "Recite Pachchakhan (formal vow) before every fast to sanctify intention",
+    "Break fasts with light, easily digestible food (usually boiled water or fruit)",
+    "Do not break a fast under emotional pressure — the vow must be kept",
+    "Fasting days are for intensive spiritual practice, not social events or work",
+    "Listen to your body — if illness arises, break the fast without guilt",
+    "Consult an Acharya or experienced Upadhyaya for fasts longer than 3 days"
+  ],
+  "safetyTips": [
+    "Stay hydrated on non-fasting days to build reserves",
+    "Avoid extreme exercise during fasting periods",
+    "Children under 12, pregnant women, nursing mothers, and those with chronic illness should not fast",
+    "Elderly practitioners should consult a doctor and spiritual guide before extended fasts",
+    "Reduce work and social obligations on fasting days",
+    "Carry glucose water if you feel dizzy — breaking a fast for health is acceptable",
+    "Do not compare your fasting capacity with others — spiritual progress is personal",
+    "Breaking a fast due to genuine need is not a failure; it is wisdom"
+  ],
+  "spiritualSignificance": "Fasting (Tapa) destroys karma through deliberate self-restraint. Unlike passively waiting for karmic fruit, fasting actively burns karmic matter before it manifests. It develops the 3foldTap: physical (body), verbal (speech), and mental (thought). In Jainism, fasting is not asceticism for its own sake — it is the most direct method of transforming the soul from karmic bondage to liberation. It creates Viveka (discrimination), Vairagya (detachment), and Mumukshutva (intense longing for liberation).",
+  "whoShouldNotFast": [
+    "Children under 12 years of age",
+    "Pregnant or nursing women",
+    "Persons with diabetes, heart disease, or other serious medical conditions",
+    "Elderly above 70 without medical clearance",
+    "Those with eating disorders or mental health conditions",
+    "Persons traveling in extreme temperatures or physical stress",
+    "Those who have not built up fasting capacity gradually"
+  ]
+}

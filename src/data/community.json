@@ -1,0 +1,46 @@
+{
+  "localCenters": [
+    { "name": "Jain Center of America", "location": "New York, NY", "type": "Temple & Cultural Center", "description": "The oldest Jain temple in the Western Hemisphere, established in 1976. Serves a vibrant community of over 1,000 Jain families in the New York metro area.", "contact": "jaincenterofamerica.org", "icon": "🏛️" },
+    { "name": "Jain Society of Greater Detroit", "location": "Detroit, MI", "type": "Temple & Community Center", "description": "A rapidly growing Jain community center serving over 300 families with temple services, Pathshala, and community events.", "contact": "jsgd.org", "icon": "🕌" },
+    { "name": "Jain Society of Chicago", "location": "Chicago, IL", "type": "Temple & Cultural Center", "description": "Home to one of the largest Digambara-Svetambara temples in North America, serving a thriving Midwest Jain community.", "contact": "jainocietyofchicago.org", "icon": "🌆" },
+    { "name": "Jain Center of Northern California", "location": "Fremont, CA", "type": "Temple & Cultural Center", "description": "A beautiful temple in the San Francisco Bay Area serving over 500 families with daily worship, festivals, and Pathshala.", "contact": "jaincenternscc.org", "icon": "🌉" },
+    { "name": "Jain Center of Southern California", "location": "Buena Park, CA", "type": "Temple & Cultural Center", "description": "One of the largest Jain centers in the United States, with extensive facilities for worship, education, and community gatherings.", "contact": "jaincentersocal.org", "icon": "🌴" },
+    { "name": "Jain Temple of London", "location": "London, UK", "type": "Temple & Community Center", "description": "The premier Jain temple in the United Kingdom, serving a growing diaspora community with temple services, cultural events, and youth programs.", "contact": "jaincentrelondon.org", "icon": "🇬🇧" },
+    { "name": "Shree Jain Sangh", "location": "Leicester, UK", "type": "Temple & Cultural Center", "description": "Serving the historic Jain community of Leicester with traditional temple practices and interfaith community engagement.", "contact": "sjsh.org.uk", "icon": "🇬🇧" },
+    { "name": "Jain Society of Toronto", "location": "Toronto, Canada", "type": "Temple & Community Center", "description": "A vibrant Jain community center in one of the most diverse cities in the world, with daily temple worship and extensive community programs.", "contact": "jaintoronto.org", "icon": "🍁" },
+    { "name": "Jain Mandir Singapore", "location": "Singapore", "type": "Temple & Cultural Center", "description": "A stunning temple dedicated to Lord Adinath, serving as a spiritual oasis in the heart of the city-state.", "contact": "jainmandirsingapore.org", "icon": "🇸🇬" },
+    { "name": "Shri Digamber Jain Mandir", "location": "Nairobi, Kenya", "type": "Temple & Community Center", "description": "East Africa's largest Jain temple, serving an established Jain community with temple worship, Pathshala, and community seva.", "contact": "jainmandirnairobi.org", "icon": "🌍" }
+  ],
+  "onlineResources": [
+    { "name": "Jainpedia", "url": "jainpedia.org", "type": "Digital Encyclopedia", "description": "The most comprehensive online resource for Jain studies, featuring articles, manuscripts, images, and videos from the Institute of Jainology.", "icon": "📚" },
+    { "name": "JAINA (Federation of Jain Associations)", "url": "jaina.org", "type": "Community Federation", "description": "The umbrella organization for Jain centers across North America. Provides resources, youth programs, and community coordination.", "icon": "🏛️" },
+    { "name": "Jain Pathway", "url": "jainpathway.org", "type": "Educational Portal", "description": "A comprehensive resource for Jain philosophy, ethics, and community with study guides and discussion forums.", "icon": "🛤️" },
+    { "name": "Jain World", "url": "jainworld.com", "type": "Website", "description": "A major open-access resource for Jainism with thousands of articles on philosophy, history, and practice.", "icon": "🌐" },
+    { "name": "Jain E-Library", "url": "jainlibrary.org", "type": "Digital Library", "description": "Online library with thousands of scanned books, Agama texts, and scholarly works available for free download.", "icon": "📖" },
+    { "name": "Jain Vishva Bharati University", "url": "jvbi.ac.in", "type": "University", "description": "A premier Jain university in Ladnun, Rajasthan, offering courses in Jain studies, Prakrit, and philosophy. Online courses available.", "icon": "🎓" },
+    { "name": "HereNow4U", "url": "herenow4u.net", "type": "Online Magazine", "description": "A leading Jain magazine and portal with articles, pravachanas, and community news from around the world.", "icon": "📰" },
+    { "name": "Jain Sadhvi Blogs", "url": "sadhviblogs.com", "type": "Blog/Advice", "description": "Authentic spiritual guidance from Jain Sadhvis on topics ranging from daily practice to difficult modern dilemmas.", "icon": "✍️" },
+    { "name": "Pravachan Recordings", "url": "jainelibrary.org/pravachan", "type": "Audio/Video", "description": "Thousands of pravachanas by eminent Acharyas and scholars, available in MP3 and video formats.", "icon": "🎧" },
+    { "name": "Jain Children's Network", "url": "jainchildrensnetwork.org", "type": "Youth Portal", "description": "Online games, stories, and learning activities for Jain children in the diaspora.", "icon": "🧒" }
+  ],
+  "youthPrograms": [
+    { "name": "Jain Youth Forum", "description": "A global network for Jain teens and young adults to discuss philosophy, practice, and modern life challenges.", "ageRange": "13-30", "icon": "🧑‍🤝‍🧑" },
+    { "name": "Pathshala Online", "description": "Virtual religious education for children and youth, covering Jain philosophy, stories, and practices.", "ageRange": "5-18", "icon": "📚" },
+    { "name": "Jain Summer Camps", "description": "Immersion camps where youth live the Jain path for a week — vegetarian food, meditation, hikes, and spiritual camaraderie.", "ageRange": "8-18", "icon": "🏕️" },
+    { "name": "Essay & Debate Competitions", "description": "Annual national and international competitions on Jain philosophy, ethics, and literature in English, Hindi, and Gujarati.", "ageRange": "10-25", "icon": "🏆" },
+    { "name": "Yoga & Meditation Retreats", "description": "Weekend retreats combining Jain teachings with yoga, Preksha meditation, and community seva.", "ageRange": "16+", "icon": "🧘" },
+    { "name": "Jain Heritage Tours", "description": "Guided pilgrimages to India for youth to visit Jain temples, meet monks and nuns, and experience Jain history firsthand.", "ageRange": "14-30", "icon": "✈️" },
+    { "name": "Interfaith Dialogues", "description": "Programs where Jain youth represent Jain values in interfaith settings, building bridges with other religious communities.", "ageRange": "16+", "icon": "🌍" },
+    { "name": "Seva Projects", "description": "Community service opportunities — food bank volunteering, elder care, environmental cleanup, and animal shelter seva.", "ageRange": "All ages", "icon": "🤝" }
+  ],
+  "sevaOpportunities": [
+    { "name": "Temple Seva", "description": "Help maintain temple cleanliness, organize festival events, prepare community meals (Bhojan), and assist elderly worshippers.", "timeCommitment": "2-4 hours/week", "icon": "🏛️" },
+    { "name": "Pathshala Teaching", "description": "Volunteer as a teachers' aide or lead teacher for religious education classes for children and youth.", "timeCommitment": "3-5 hours/week", "icon": "📝" },
+    { "name": "Prakrit Classes", "description": "Learn and teach the ancient Prakrit language to preserve Jain scriptural heritage for future generations.", "timeCommitment": "2 hours/week", "icon": "📜" },
+    { "name": "Animal Welfare", "description": "Volunteer at animal shelters, bird hospitals, and cow protection shelters aligned with Ahimsa principles.", "timeCommitment": "4-6 hours/month", "icon": "🐄" },
+    { "name": "Food for the Hungry", "description": "Participate in community food drives and meal preparation for the homeless and hungry, following the principle of Aparigraha (non-possession through giving).", "timeCommitment": "4 hours/month", "icon": "🍲" },
+    { "name": "Scripture Digitization", "description": "Help digitize ancient Jain manuscripts and make them available in digital libraries for global access.", "timeCommitment": "Flexible", "icon": "💻" },
+    { "name": "Blood Drives", "description": "Organize and participate in blood donation camps, an act of saving lives that aligns beautifully with Ahimsa.", "timeCommitment": "Yearly events", "icon": "🩸" },
+    { "name": "Environmental Seva", "description": "Tree planting, river cleanup, and plastic reduction initiatives — modern applications of Ahimsa to nature.", "timeCommitment": "Monthly events", "icon": "🌳" }
+  ]
+}

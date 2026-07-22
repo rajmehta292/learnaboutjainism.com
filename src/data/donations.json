@@ -1,0 +1,82 @@
+{
+  "introduction": "Supporting Jain dharma — temples, monks, education, seva, and community — is itself a spiritual practice. Dana (charity) is one of the four essential practices that sustains the Jain Sangha across centuries. Every act of giving purifies the giver's karmic account and strengthens the community for future generations.",
+  "templeDonations": {
+    "title": "Temple Construction & Maintenance",
+    "description": "Temples are the spiritual heart of the Jain community. They are not merely buildings but sacred spaces where Tirthankara idol worship, meditation, and community gathering happen. Supporting temples is supporting the very infrastructure of dharma.",
+    "waysToSupport": [
+      "Financial donations for temple construction and renovation",
+      "Volunteer labor for temple maintenance and cleaning",
+      "Donation of construction materials (marble, stone, wood)",
+      "Sponsoring specific parts of the temple (spires, idols, gates)",
+      "Contributing to temple trust funds for long-term sustainability",
+      "Providing free accommodation for visiting monks and nuns"
+    ],
+    "significance": "Building or maintaining a temple creates massive punya (merit) for the donor and creates a spiritual center that serves thousands for generations. Ancient Jain temples across India have stood for 1,000+ years thanks to such donations."
+  },
+  "monkSupport": {
+    "title": "Supporting Monks and Nuns (Sadhu-Sadhvi Seva)",
+    "description": "Monks and nuns have renounced all possessions and depend entirely on the lay community for basic needs. Supporting them is one of the highest forms of seva because it enables them to dedicate every moment to spiritual practice and teaching.",
+    "waysToSupport": [
+      "Daily alms (Gochari) — preparing pure vegetarian food for monks",
+      "Providing clothing (for Svetambara monks), bowls, and whisk brushes",
+      "Offering shelter during Chaturmas",
+      "Funding travel for Pravachanas and community visits",
+      "Paying for medical care when monks require it",
+      "Supporting Upadhyayas and Acharyas with study materials and safe passage"
+    ],
+    "significance": "Serving a monk or nun is considered equivalent to serving the Tirthankara themselves, as the monk represents the living dharma. Every act of seva toward the Sangha ripples through infinite future lives."
+  },
+  "education": {
+    "title": "Jain Education & Pathshala",
+    "description": "Educating children in Jain values, philosophy, and practice is the most long-term investment in the future of the religion. Pathshalas, Sunday schools, and Jain universities preserve and transmit dharma across generations.",
+    "waysToSupport": [
+      "Sponsoring a child's Pathshala education",
+      "Donating textbooks, workbooks, and learning materials",
+      "Volunteering as a Pathshala teacher or assistant",
+      "Funding Jain studies scholarships for university students",
+      "Donating to Jain universities (Jain Vishva Bharati, Mumbai University Jain Studies Dept)",
+      "Creating online educational content for global Jain diaspora"
+    ],
+    "significance": "The child who learns Jain values today becomes the elder who preserves dharma tomorrow. Education is the most powerful long-term seva."
+  },
+  "scripturePreservation": {
+    "title": "Scripture Preservation & Publication",
+    "description": "Ancient Jain texts are written on palm leaves, paper, and now digital formats. Preserving them requires specialized care. Publishing affordable editions ensures that all Jains, regardless of income, can access canonical texts.",
+    "waysToSupport": [
+      "Donating to manuscript preservation projects",
+      "Sponsoring publication of critical editions of Agamas",
+      "Supporting translation projects (Prakrit to Hindi to English to Gujarati)",
+      "Funding digital libraries and online access",
+      "Creating audio versions of scriptures for the visually impaired or busy laypeople",
+      "Building temple and community libraries"
+    ],
+    "significance": "Scriptures are the voice of the Jinas. Losing them means losing the path itself. Every act of preservation protects the dharma for all future souls."
+  },
+  "communityService": {
+    "title": "Community Seva & Social Welfare",
+    "description": "Jainism extends Ahimsa beyond the Jain community to all beings. Community service is a practical expression of Aparigraha — giving rather than accumulating — and of compassion for all suffering beings.",
+    "waysToSupport": [
+      "Food drives and hunger relief programs",
+      "Medical camps and free health clinics in underserved areas",
+      "Animal shelters and cow protection (Goshala) support",
+      "Educational scholarships for poor students regardless of religion",
+      "Disaster relief and emergency humanitarian aid",
+      "Environmental projects: tree planting, river cleanup, plastic reduction",
+      "Elder care and orphanage support"
+    ],
+    "significance": "Jainism is not merely personal liberation but collective upliftment. The community that serves others creates the conditions for universal peace. Social welfare is the practical application of Ahimsa at scale."
+  },
+  "diasporaSupport": {
+    "title": "Supporting the Global Jain Diaspora",
+    "description": "Millions of Jains now live outside India. Maintaining Jain practice abroad requires temples, Pathshalas, community centers, and spiritual teachers. Supporting diaspora communities spreads dharma globally.",
+    "waysToSupport": [
+      "Donate to build Jain temples in new diaspora locations",
+      "Fund traveling monks who visit diaspora communities for Chaturmas",
+      "Create online resources for children growing up outside India",
+      "Support Jain student associations at universities worldwide",
+      "Donate to interfaith initiatives that introduce Jain values to broader society",
+      "Volunteer to teach or mentor Jain youth in foreign cities"
+    ],
+    "significance": "Jainism is a global path, not an Indian one. Supporting diaspora communities ensures that Jain wisdom is available to all seekers everywhere, fulfilling the universal vision of Ahimsa."
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Jiva",
+    "sanskrit": "जीव",
+    "transliteration": "Jīva",
+    "shortDesc": "The living soul — all conscious beings from one-sensed microorganisms to five-sensed humans and celestial beings.",
+    "detailedExplanation": "Jiva is the fundamental conscious entity in Jainism. It is eternal, neither created nor destroyed, and characterized by consciousness (chetana), knowledge (jnana), perception (darshana), and bliss (sukha). Souls are infinite in number and are trapped in the cycle of rebirth (samsara) due to karmic bondage. Every living being — from the smallest single-sensed nigoda to a five-sensed human — possesses a soul of equal potential. The supreme duty of every Jiva is self-realization and liberation (moksha). The soul expands or contracts to fit the body it occupies, like light filling a room of any size. Upon complete liberation, the soul rises to Siddhashila, the eternal abode at the apex of the universe.",
+    "significance": "Jiva is the central subject of Jain ethics. The entire system of Ahimsa (non-violence) flows from recognizing the sanctity of all Jivas. Every action, word, and thought either elevates or degrades the soul's purity.",
+    "relatedConcepts": ["Ajiva", "Karma", "Bandha", "Nirjara", "Gunasthanak", "Siddha"],
+    "icon": "🕉️"
+  },
+  {
+    "name": "Ajiva",
+    "sanskrit": "अजीव",
+    "transliteration": "Ajīva",
+    "shortDesc": "All non-living substances: matter, space, time, medium of motion, and medium of rest.",
+    "detailedExplanation": "Ajiva comprises five dravya (substances) that lack consciousness: Pudgala (matter/energy — the only substance that can be touched, fused, divided), Dharma (medium of motion — the passive enabler of movement for Jiva and Pudgala), Adharma (medium of rest — passive enabler of stillness), Akasha (space — the infinite container of all substances), and Kala (time — the dimension of change and duration). Together with Jiva, these six dravyas form the fabric of reality. Ajiva has no consciousness, no feelings, and cannot accumulate karma. However, it interacts with Jiva through karmic matter (pudgala) binding to the soul.",
+    "significance": "Understanding Ajiva destroys the illusion that the body or material world is the self. It distinguishes the eternal soul from transient matter, forming the basis of detachment (vairagya) and right worldview (Samyak Darshana).",
+    "relatedConcepts": ["Jiva", "Pudgala", "Dravya", "Bandha", "Anekantavada"],
+    "icon": "⚛️"
+  },
+  {
+    "name": "Asrava",
+    "sanskrit": "आस्रव",
+    "transliteration": "Āsrava",
+    "shortDesc": "The influx of karmic matter into the soul through actions, passions, and vibrations.",
+    "detailedExplanation": "Asrava refers to the channels through which karmic particles (karma pudgala) enter the soul. It occurs when the soul engages in activities (yoga — vibration of mind, speech, or body) while under the influence of passions (kashaya): anger, pride, deceit, and greed. There are 42 channels of Asrava including the 5 great vows (mahavratas), 5 carefulnesses (samitis), 3 controls (guptis), 75 codes of conduct, and passions. Every intentional action, good or bad, creates karmic inflow. The quality and quantity of karma depend on the intensity of passion at the time of action. Even subtle mental vibrations draw karmic dust toward the soul like a magnet.",
+    "significance": "Recognizing Asrava awakens vigilance in every thought and deed. The spiritual aspirant learns to minimize karmic influx by cultivating equanimity and controlling passions, ultimately stopping new karmic bondage.",
+    "relatedConcepts": ["Bandha", "Samvara", "Karma", "Kashaya", "Gunasthanak"],
+    "icon": "🚰"
+  },
+  {
+    "name": "Bandha",
+    "sanskrit": "बंध",
+    "transliteration": "Bandha",
+    "shortDesc": "The actual bondage of karmic matter to the soul, determining rebirth and experience.",
+    "detailedExplanation": "Bandha is the sticking of karmic particles to the soul, analogous to dust clinging to a wet surface or gold to wax. It operates through four dimensions: Prakriti (nature/subtype — 148 types), Pradesha (quantity — quantum of karmic particles), Sthiti (duration — how long karma will bear fruit), and Anubhaga (intensity — mild or strong fruition). Bandha occurs only when the four conditions are met: the soul has consciousness, karmic matter exists, the soul vibrates (yoga), and passions exist (kashaya). Without passions, even actions produce no bondage. Karma can be shed before fruition through Nirjara, or it will exhaust naturally through suffering.",
+    "significance": "Bandha explains why souls experience endless variation in suffering and joy across lifetimes. Understanding its mechanisms empowers the practitioner to take deliberate spiritual action — choosing which karmas to attract vs. which to destroy.",
+    "relatedConcepts": ["Asrava", "Samvara", "Nirjara", "Karma", "Kashaya", "Ghatiya Karma", "Aghatiya Karma"],
+    "icon": "⛓️"
+  },
+  {
+    "name": "Samvara",
+    "sanskrit": "संवर",
+    "transliteration": "Saṃvara",
+    "shortDesc": "The stoppage of new karmic influx through vows, carefulness, and spiritual practices.",
+    "detailedExplanation": "Samvara is the critical turning point in spiritual progress: stopping the inflow of fresh karma so that existing karmas can be shed through Nirjara. It is achieved through a multi-layered system: the 5 Samitis (carefulness in walking, speaking, eating, placing objects, and disposing of waste), the 3 Guptis (controls of mind, speech, and body), the 12 Shravaka Vows for householders, the 5 Mahavratas for monks, and deep meditation. Samvara represents the shift from being a passive victim of karma to becoming an active architect of liberation. Every vow taken reduces karmic vibrations and strengthens soul's purity.",
+    "significance": "Samvara is the practical application of Jain ethics. It bridges theory and lived experience, showing exactly how to stop creating suffering for oneself. It is accessible to all — from children avoiding lies to monks practicing total renunciation.",
+    "relatedConcepts": ["Asrava", "Bandha", "Nirjara", "Mahavrata", "Samiti", "Shravak Vows"],
+    "icon": "🛡️"
+  },
+  {
+    "name": "Nirjara",
+    "sanskrit": "निर्जरा",
+    "transliteration": "Nirjarā",
+    "shortDesc": "The shedding of accumulated karma through austerities, penance, and equanimity.",
+    "detailedExplanation": "Nirjara is the process of destroying karmic matter already bonded to the soul. It operates through two methods: Akama Nirjara (unnatural premature shedding through severe penances and austerities) and Sakama Nirjara (natural exhaustion through experiencing the karmic fruit over time). The 12 types of penances include 6 external austerities (fasting, reduced diet, renunciation of tasty foods, mortification of body, guarding flesh, and self-control) and 6 internal austerities (penance, modesty, service, study, meditation, and renunciation). The most powerful forms of Nirjara are practiced simultaneously with Samvara, accelerating liberation. Conscious karmic shedding transforms what would have been suffering into spiritual progress.",
+    "significance": "Nirjara turns every difficulty into an opportunity for purification. The monk or layperson who practices Nirjara actively dismantles karmic chains while building spiritual fortitude. It is the reason Jainism venerates fasting, meditation, and self-discipline not as mere asceticism but as supreme spiritual technology.",
+    "relatedConcepts": ["Bandha", "Samvara", "Karma", "Tapa", "Gunasthanak", "Samyak Charitra"],
+    "icon": "🔥"
+  },
+  {
+    "name": "Moksha",
+    "sanskrit": "मोक्ष",
+    "transliteration": "Mokṣa",
+    "shortDesc": "Final liberation — the soul's eternal, blissful, liberated state free from all karmic bondage.",
+    "detailedExplanation": "Moksha is the supreme goal of Jainism: the complete annihilation of all four Ghatiya karmas (knowledge-obscuring, perception-obscuring, deluding, and obstruction) and all four Aghatiya karmas (feeling, name/determination, lineage/lifespan, and body-forming). The liberated soul (Siddha) resides in Siddhashila at the apex of the universe in a state of infinite knowledge (Ananta Jnana), infinite perception (Ananta Darshana), infinite bliss (Ananta Sukha), and infinite power (Ananta Virya). There is no more birth, no more death, no more suffering. The soul is free, omniscient, and eternal. Achieving Moksha requires the unified effort of the Three Jewels (Ratnatraya): Right Faith, Right Knowledge, and Right Conduct. Every soul has the inherent capacity for liberation — it is the ultimate destiny of all conscious beings.",
+    "significance": "Moksha is not a distant heaven or a divine gift — it is the natural, inevitable state of a purified soul. This profound teaching gives every being infinite worth, infinite potential, and infinite hope. It makes Jainism uniquely empowering: liberation is not dependent on a creator god or divine grace but on one's own effort, choices, and purification.",
+    "relatedConcepts": ["Siddha", "Siddhashila", "Kevala Jnana", "Ratnatraya", "Gunasthanak", "Tattvas"],
+    "icon": "👑"
+  }
+]

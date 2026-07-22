@@ -1,0 +1,37 @@
+{
+  "forBeginners": [
+    { "title": "The Jains", "author": "Paul Dundas", "description": "The most accessible and comprehensive introduction to Jain history, philosophy, and practice for English readers.", "language": "English", "level": "beginner" },
+    { "title": "Jainism: An Indian Religion of Salvation", "author": "Helmuth von Glasenapp", "description": "A classic scholarly yet readable overview of Jainism's origins, development, and core teachings.", "language": "English", "level": "beginner" },
+    { "title": "Jain Dharma", "author": "Acharya Shri Amar Muni", "description": "Clear, simple Hindi exposition of all Jain fundamentals — perfect for new seekers and children.", "language": "Hindi", "level": "beginner" },
+    { "title": "Jain Darshan", "author": "Tulsi (Acharya)", "description": "Concise presentation of Jain philosophy for lay readers, covering Tattvas, Karma, and Ratnatraya.", "language": "Hindi", "level": "beginner" },
+    { "title": "A to Z of Jainism", "author": "Kanti V. Mardia", "description": "An encyclopedia-style guide to every major Jain concept, place, festival, and figure.", "language": "English", "level": "beginner" }
+  ],
+  "forIntermediate": [
+    { "title": "Tattvartha Sutra", "author": "Acharya Umaswati (trans. Nathmal Tatia)", "description": "The definitive philosophical manual. 357 sutras covering all of Jainism in its universal form.", "language": "Sanskrit/English", "level": "intermediate" },
+    { "title": "Sarvarthasiddhi", "author": "Acharya Pujyapada (trans. S.A. Jain)", "description": "The masterful commentary on Tattvartha Sutra — essential for any serious student.", "language": "Sanskrit/English", "level": "intermediate" },
+    { "title": "Gommatasara Karma Kanda", "author": "Acharya Nemicandra (trans. R. Williams)", "description": "The most comprehensive work on Karma theory — 148 types of karmas explained with remarkable precision.", "language": "Prakrit/English", "level": "intermediate" },
+    { "title": "Aptamimansa", "author": "Acharya Samantabhadra (trans. Sarat Chandra Ghoshal)", "description": "Foundational work on Anekantavada and the nature of the omniscient teacher. A masterpiece of Jain logic.", "language": "Sanskrit/English", "level": "intermediate" },
+    { "title": "Samayasara", "author": "Acharya Kundakunda (trans. A. Chakravarti)", "description": "The crown jewel of Digambara philosophy — a direct path to self-realization through the pure soul.", "language": "Prakrit/English", "level": "intermediate" }
+  ],
+  "forScholars": [
+    { "title": "The Doctrine of the Jainas", "author": "Walther Schubring", "description": "The definitive German scholarly work on Jain doctrine, now available in English. The most rigorous academic analysis.", "language": "English", "level": "scholar" },
+    { "title": "Jain Philosophy: Historical Outline", "author": "A.N. Upadhye", "description": "Detailed historical survey of Jain philosophical development from Kundakunda to modern times.", "language": "English", "level": "scholar" },
+    { "title": "Prakrit Dictionary (Prakrit Abhidhan Kosh)", "author": "Jain Vishva Bharati", "description": "The most comprehensive dictionary of Prakrit words used in Jain scriptures, with Sanskrit and Hindi equivalents.", "language": "Prakrit/Hindi/Sanskrit", "level": "scholar" },
+    { "title": "Kalpa Sutra", "author": "K.C. Lalwani (trans.)", "description": "Critical edition with extensive notes on the Paryushan recitation text and biographies of the Tirthankaras.", "language": "Prakrit/English", "level": "scholar" }
+  ],
+  "forChildren": [
+    { "title": "Jain Tirthankaras for Children", "author": "Acharya Amar Muni", "description": "Beautiful stories of the 24 Tirthankaras told in simple Hindi with colorful illustrations.", "language": "Hindi", "level": "children" },
+    { "title": "Bal Bodh: Jain Stories for Kids", "author": "JAINA Education Committee", "description": "English-language storybook with 50+ Jain tales, activities, and moral lessons for ages 4-12.", "language": "English", "level": "children" },
+    { "title": "The Little Jain's Book of Values", "author": "Various", "description": "A colorful, interactive book introducing Ahimsa, Satya, Aparigraha, and daily practices through simple stories and coloring pages.", "language": "English", "level": "children" },
+    { "title": "Navkar Mantra - Learn and Sing", "author": "JAINA", "description": "An audio-visual learning kit for young children to learn the Navkar Mantra with melody, meaning, and gestures.", "language": "English/Hindi", "level": "children" }
+  ],
+  "translations": [
+    { "title": "Tattvartha Sutra (2005)", "author": "Nathmal Tatia, translator", "language": "English", "significance": "The most authoritative modern English translation with detailed commentary." },
+    { "title": "Sarvarthasiddhi", "author": "S.A. Jain, translator", "language": "English", "significance": "Benchmark translation of Pujyapada's commentary on Tattvartha Sutra." },
+    { "title": "Acharanga Sutra", "author": "Hermann Jacobi (SBE 22)", "language": "English", "significance": "Classic 19th-century translation from the Sacred Books of the East series." },
+    { "title": "Uttaradhyayana Sutra", "author": "Hermann Jacobi (SBE 45)", "language": "English", "significance": "The canonical text of Mahavira's final teachings in classic English prose." },
+    { "title": "Samayasara", "author": "A. Chakravarti, translator", "language": "English", "significance": "The essential text of self-realization by Kundakunda made accessible to English readers." },
+    { "title": "Saman Suttam", "author": "Jinendra Varni (Compiler)", "language": "Prakrit/Hindi/English", "significance": "The universal synthesis text accepted by all Jain traditions — an ideal starting text." },
+    { "title": "Bhagavati Sutra", "author": "K.C. Lalwani (trans.)", "language": "English", "significance": "The massive 5th Anga containing 36,000 questions between Gautama and Mahavira." }
+  ]
+}

@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Lord Mahavira",
+    "sect": "Universal",
+    "era": "599-527 BCE",
+    "birthPlace": "Kundagrama, Vaishali (Bihar, India)",
+    "majorContributions": [
+      "Systematized the Five Great Vows (Mahavratas)",
+      "Established the Sravaka-Shravika tradition for laypeople",
+      "Revealed the doctrine of Anekantavada (non-absolutism)",
+      "Compiled canonical teachings through 11 Ganadharas",
+      "Founded the four-fold Sangha (monks, nuns, laymen, laywomen)",
+      "Attained Kevala Jnana after 12 years of intense Tapa",
+      "Delivered 34 final sermons (Uttaradhyayana Sutra)"
+    ],
+    "works": ["Uttaradhyayana Sutra", "Acaranga Sutra", "Kalpa Sutra passages", "Prasnavyakaranas"],
+    "icon": "🦁",
+    "legacyQuotes": ["Ahimsa Paramo Dharma — Non-violence is the highest religion.", "Live and let live.", "The soul is neither born nor does it die. It is eternal."]
+  },
+  {
+    "name": "Ganadhar Gautama Swami",
+    "sect": "Universal",
+    "era": "6th century BCE",
+    "birthPlace": "Kundagrama region",
+    "majorContributions": [
+      "First disciple (Ganadhar) of Lord Mahavira",
+      "Chief interpreter of Mahavira's teachings",
+      "Compiled Mahavira's sermons into structured Agamas",
+      "Led the 11 Ganadharas who preserved the canon",
+      "Attained Kevala Jnana through boundless reverence for Mahavira"
+    ],
+    "works": ["Agama compilation (reconstructed)", "Uttaradhyayana commentary"],
+    "icon": "📜",
+    "legacyQuotes": ["O Omniscient One, I bow to you."]
+  },
+  {
+    "name": "Acharya Bhadrabahu",
+    "sect": "Universal (precursor to Digambara-Svetambara)",
+    "era": "4th century BCE",
+    "birthPlace": "Magadha region",
+    "majorContributions": [
+      "Last Shrutakevalin (knower of all 14 Purvas)",
+      "Led migration of Jain sangha to South India during famine",
+      "Authored Kalpa Sutra (monastic codes)",
+      "Wrote Brihat Kalpa Sutra on monastic rules",
+      "Composed Svetambara and Digambara canonical traditions"
+    ],
+    "works": ["Kalpa Sutra", "Brihat Kalpa Sutra", "Nishith Sutra", "Vyavahara Sutra"],
+    "icon": "📖",
+    "legacyQuotes": ["The Sangha follows the teacher wherever the truth leads."]
+  },
+  {
+    "name": "Acharya Kundakunda",
+    "sect": "Digambara",
+    "era": "1st century BCE - 1st century CE",
+    "birthPlace": "Kundkund (present-day Andhra Pradesh/Karnataka)",
+    "majorContributions": [
+      "Developed the distinction between Nishchaya (absolute) and Vyavahara (practical) truth",
+      "Revealed that the soul is both omniscient (from absolute view) and embodied (from practical view)",
+      "Authored the most foundational Digambara texts of self-realization",
+      "His works form the core of Digambara spiritual practice today"
+    ],
+    "works": ["Samayasara", "Niyamasara", "Pravachanasara", "Panchastikaya", "Ashtapahuda"],
+    "icon": "🧘",
+    "legacyQuotes": ["From the real standpoint, the self is the knower, the doer, and the enjoyer."]
+  },
+  {
+    "name": "Acharya Umaswati",
+    "sect": "Universal",
+    "era": "2nd-3rd century CE",
+    "birthPlace": "Nyagrodhika (present-day Karnataka)",
+    "majorContributions": [
+      "Authored the Tattvartha Sutra — the most comprehensive summary of all Jain philosophy",
+      "Unified Svetambara and Digambara perspectives on core tattvas",
+      "Wrote in elegant Sanskrit sutras that are memorized and recited globally",
+      "Provided the standard framework for all advanced Jain study"
+    ],
+    "works": ["Tattvartha Sutra (357 sutras in 10 chapters)"],
+    "icon": "📿",
+    "legacyQuotes": ["Right faith, right knowledge, right conduct — this is the path to liberation."]
+  },
+  {
+    "name": "Acharya Samantabhadra",
+    "sect": "Digambara",
+    "era": "2nd century CE",
+    "birthPlace": "Karnataka region",
+    "majorContributions": [
+      "Authored Aptamimansa establishing Anekantavada through logical proof",
+      "Revealed the nature of the Omniscient Teacher (Apta) using pramana and naya",
+      "Wrote Ratnakarandaka Shravakachara for lay ethical conduct",
+      "Advanced Jain logic beyond the Nyaya school"
+    ],
+    "works": ["Aptamimansa", "Ratnakarandaka Shravakachara", "Srutavatar", "Gitasara"],
+    "icon": "⚖️",
+    "legacyQuotes": ["The omniscient teacher is revealed through logic."]
+  },
+  {
+    "name": "Acharya Pujyapada",
+    "sect": "Digambara",
+    "era": "5th century CE",
+    "birthPlace": "Karnataka region",
+    "majorContributions": [
+      "Authored Sarvarthasiddhi — the premier Sanskrit commentary on Tattvartha Sutra",
+      "Systematized the epistemological framework of Jainism",
+      "Treated the distinctions between Svetambara and Digambara with scholarly precision",
+      "His commentary is studied in all Jain universities"
+    ],
+    "works": ["Sarvarthasiddhi", "Samadhitantra", "Ishtopadesha", "Janmashraya"],
+    "icon": "📚",
+    "legacyQuotes": ["Even a little dharma saves from great fear."]
+  },
+  {
+    "name": "Acharya Hemchandracharya",
+    "sect": "Svetambara",
+    "era": "1089-1172 CE",
+    "birthPlace": "Dhandhuka, Gujarat",
+    "majorContributions": [
+      "Universal genius — wrote 3 crore verses according to legend",
+      "Authored Yoga Shastra — the most comprehensive Jain yoga manual",
+      "Systematized Prakrit grammar and lexicography",
+      "Served as spiritual guide to King Kumarapala, making Gujarat a Jain center",
+      "Composed monumental works on logic, grammar, history, and yoga"
+    ],
+    "works": ["Yoga Shastra", "Shraddhaprakaran", "Vitragastavana", "Prakrit grammar treatises"],
+    "icon": "🪷",
+    "legacyQuotes": ["Beauty without virtue is like a flower without fragrance."]
+  },
+  {
+    "name": "Acharya Vidyasagar ji",
+    "sect": "Digambara",
+    "era": "1946-Present",
+    "birthPlace": "Kesaria, Bihar",
+    "majorContributions": [
+      "Leading Digambara monk of modern times",
+      "Revitalized ancient monastic practices across India",
+      "Built thousands of temples, schools, and hospitals",
+      "Composed modern Sanskrit verses and spiritual guidance",
+      "Influenced millions through pravachanas worldwide"
+    ],
+    "works": ["Modern spiritual compositions", "Pravachanas on contemporary issues", "Muni training manuals"],
+    "icon": "🙏",
+    "legacyQuotes": ["Live like a monk even in the marketplace."]
+  },
+  {
+    "name": "Acharya Amar Muni",
+    "sect": "Svetambara",
+    "era": "20th century CE",
+    "birthPlace": "Gujarat",
+    "majorContributions": [
+      "Author of the most widely read Hindi commentary on Agamas",
+      "Translated and explained complex Prakrit sutras for modern lay readers",
+      "Composed accessible spiritual literature for children and adults",
+      "Established religious education programs across Gujarat"
+    ],
+    "works": ["Acharang Sutra Hindi commentary", "Samavayanga commentary", "Antakriddashanga commentary"],
+    "icon": "🪷",
+    "legacyQuotes": ["Study, meditate, and purify — this is the threefold path."]
+  },
+  {
+    "name": "Acharya Tulsi",
+    "sect": "Svetambara (Terapanthi)",
+    "era": "1914-1997",
+    "birthPlace": "Ladnun, Rajasthan",
+    "majorContributions": [
+      "Founded the Anuvrata movement for lay spiritual revival",
+      "Created the Jain Vishva Bharati university",
+      "Authored the 'Jain Yoga' and 'Anuvrata' literature",
+      "Introduced 'preksha meditation' systematically",
+      "Bridged ancient wisdom with modern psychology and sociology"
+    ],
+    "works": ["Anuvrata literature", "Preksha Dhyana manuals", "Manuscript editing", "Jain philosophy in Hindi"],
+    "icon": "🧘",
+    "legacyQuotes": ["Small vows lead to great victories."]
+  },
+  {
+    "name": "Acharya Mahapragya",
+    "sect": "Svetambara (Terapanthi)",
+    "era": "1920-2010",
+    "birthPlace": "Tamkor, Rajasthan",
+    "majorContributions": [
+      "Disciplined successor of Acharya Tulsi",
+      "Expanded Preksha Meditation globally",
+      "Authored extensive philosophical works",
+      "Advanced Jain logic through modern academic research",
+      "Pioneered interfaith dialogue while maintaining doctrinal purity"
+    ],
+    "works": ["Anekanta philosophy", "Preksha Dhyana manuals", "Ahimsa in global context", "Jain logic treatises"],
+    "icon": "📚",
+    "legacyQuotes": ["Peace begins within the individual."]
+  },
+  {
+    "name": "Jinendra Varni",
+    "sect": "Svetambara",
+    "era": "20th century CE",
+    "birthPlace": "Madhya Pradesh",
+    "majorContributions": [
+      "Compiled Saman Suttam — the universally accepted synthesis scripture of all Jain traditions",
+      "Gathered verses from across Svetambara and Digambara Agamas",
+      "Made canonical texts accessible through critical compilation",
+      "Bridged sectarian divides through shared literature"
+    ],
+    "works": ["Saman Suttam (756 verses)", "Critical editions of Agama texts", "Modern Prakrit-Sanskrit dictionaries"],
+    "icon": "📖",
+    "legacyQuotes": ["All Jains are one in the essential teachings."]
+  },
+  {
+    "name": "Hermann Jacobi",
+    "sect": "Western Scholar",
+    "era": "1850-1937 CE",
+    "birthPlace": "Köln, Germany",
+    "majorContributions": [
+      "Pioneered Western academic study of Jainism",
+      "Translated key Agamas into English (Sacred Books of the East series)",
+      "Brought Jain philosophy to European universities",
+      "Established Jainism as a world religion alongside Buddhism and Hinduism",
+      "His translations remain the standard English reference"
+    ],
+    "works": ["Translation of Sutrakritanga Sutra", "Translation of Uttaradhyayana Sutra", "Jainism in Encyclopedia of Religion and Ethics"],
+    "icon": "🌍",
+    "legacyQuotes": ["Jainism is not a primitive religion but the most systematic ancient philosophy."]
+  },
+  {
+    "name": "Nathmal Tatia",
+    "sect": "Modern Translator",
+    "era": "20th-21st century CE",
+    "birthPlace": "Rajasthan, India",
+    "majorContributions": [
+      "Translated Tattvartha Sutra into English (2005) with masterful commentary",
+      "Translated Sarvarthasiddhi — the standard commentary on Tattvartha",
+      "Advanced academic understanding of Jain epistemology at University of Rajasthan",
+      "Made complex Prakrit texts accessible to English-speaking scholars"
+    ],
+    "works": ["Tattvartha Sutra Translation (2005)", "Sarvarthasiddhi Translation", "Jain Studies academic volumes"],
+    "icon": "📜",
+    "legacyQuotes": ["The Tattvartha Sutra contains in 350 verses the entire philosophy of life."]
+  },
+  {
+    "name": "Acharya Vardhamana Suriji (Acharya Kundakunda lineage)",
+    "sect": "Digambara",
+    "era": "20th century CE",
+    "birthPlace": "Rajasthan",
+    "majorContributions": [
+      "Revived Digambara monasticism in North India",
+      "Established rigorous training for Digambara monks",
+      "Composed spiritual literature and pravachanas on Samayasara",
+      "Emphasized Nishchaya (absolute) view of soul over Vyavahara (practical)"
+    ],
+    "works": ["Samayasara Hindi commentary", "Spiritual discourses on Kundakunda", "Munir Shravika Achara"],
+    "icon": "📿",
+    "legacyQuotes": ["The soul is pure. Only ignorance obscures it."]
+  },
+  {
+    "name": "Acharya Rajendrasuri",
+    "sect": "Svetambara (Murtipujaka)",
+    "era": "1827-1906",
+    "birthPlace": "Rajasthan",
+    "majorContributions": [
+      "Reformed the Svetambara monastic order",
+      "Established the Agamic publication society for scripture preservation",
+      "Authored Abhidhan Bhandara (massive Jain lexicon)",
+      "Systematized tapas and scriptural study for monks",
+      "Founded educational institutions for Jain youth"
+    ],
+    "works": ["Abhidhan Bhandara", "Svetambara Agama editing", "Tapas manual", "Jain grammar"],
+    "icon": "📚",
+    "legacyQuotes": ["Discipline without learning is faith without understanding."]
+  },
+  {
+    "name": "Acharya Vidyananda ji",
+    "sect": "Digambara",
+    "era": "20th century CE",
+    "birthPlace": "Bihar",
+    "majorContributions": [
+      "Oversaw the compilation of Saman Suttam under Jinendra Varni",
+      "Advanced scholarly understanding of canonical texts",
+      "Pravachanas across India emphasizing Anekantavada in modern context",
+      "Worked for inter-sect harmony while preserving tradition"
+    ],
+    "works": ["Saman Suttam supervision", "Dialogue literature on sects", "Tattvartha studies"],
+    "icon": "🕊️",
+    "legacyQuotes": ["The truth is one; it manifests in many forms."]
+  },
+  { "name": "Acharya Shantisagar", "sect": "Digambara", "era": "1872-1955", "birthPlace": "Karnataka", "majorContributions": ["Revived ancient Digambara practices", "Traveled across India barefoot for 50+ years", "Founded Digambara institutions", "Emphasized strict adherence to Mahavratas"], "works": ["Spiritual discourses", "Verse compositions", "Revivalist literature"], "icon": "🙏", "legacyQuotes": ["The road to liberation is traveled on bare feet."] }
+]

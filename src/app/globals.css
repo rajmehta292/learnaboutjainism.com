@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --color-marble-canvas: #F6F3EC;
+  --color-paper-surface: #FCFAF5;
+  --color-soft-stone: #E9E3D8;
+  --color-carved-line: #D5CCBD;
+  --color-temple-ink: #2E2C28;
+  --color-quiet-ink: #625D55;
+  --color-aged-brass: #9B7447;
+  --color-compassion-leaf: #66705F;
+  --color-manuscript-earth: #806A55;
+  --color-quiet-slate: #626A70;
+
+  --font-sans: var(--font-noto-sans);
+  --font-serif: var(--font-noto-serif);
+}
+
+body {
+  background-color: var(--color-marble-canvas);
+  color: var(--color-temple-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Base resets for typography scale */
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-serif);
+  font-weight: 500;
+  color: var(--color-temple-ink);
+}

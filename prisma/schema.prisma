@@ -1,0 +1,80 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// User & Authentication Models
+model User {
+  id        String   @id @default(uuid())
+  email     String   @unique
+  name      String?
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  progress  UserProgress[]
+}
+
+model UserProgress {
+  id          String   @id @default(uuid())
+  userId      String
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  topicId     String   // E.g., 'karma-theory', 'gunasthanaks'
+  quizScore   Int?
+  completed   Boolean  @default(false)
+  lastAccessed DateTime @default(now())
+  
+  @@unique([userId, topicId])
+}
+
+// Relational Knowledge Graph Models
+
+model KarmaCategory {
+  id             String       @id
+  name           String
+  transliteration String?
+  type           String       // 'Ghatiya' or 'Aghatiya'
+  descriptionL1  String       // Beginner
+  descriptionL3  String?      // Intermediate
+  descriptionL5  String?      // Research/Scholarly
+  subtypes       KarmaSubtype[]
+  citations      Citation[]   @relation("KarmaCitations")
+}
+
+model KarmaSubtype {
+  id              String        @id
+  categoryId      String
+  category        KarmaCategory @relation(fields: [categoryId], references: [id], onDelete: Cascade)
+  name            String
+  transliteration String?
+  description     String
+}
+
+model Literature {
+  id            String     @id
+  title         String
+  aliases       String     // Comma separated
+  author        String?
+  tradition     String?
+  category      String?    // E.g., 'Ang Agam'
+  summaryShort  String
+  summaryDeep   String?
+  citations     Citation[] @relation("LiteratureCitations")
+}
+
+model Citation {
+  id              String          @id @default(uuid())
+  textId          String?
+  text            Literature?     @relation("LiteratureCitations", fields: [textId], references: [id])
+  karmaCategoryId String?
+  karmaCategory   KarmaCategory?  @relation("KarmaCitations", fields: [karmaCategoryId], references: [id])
+  citationText    String
+  url             String?
+  confidenceLevel String?         // 'Verified', 'Disputed', etc.
+}
