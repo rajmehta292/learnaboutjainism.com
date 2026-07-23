@@ -160,8 +160,13 @@ export default async function RootLayout({
                   <p style={{ fontFamily: "var(--font-inter), sans-serif", fontSize: "0.65rem", letterSpacing: "0.15em", textTransform: "uppercase", color: "var(--color-saffron)", marginBottom: "0.75rem" }}>Practice</p>
                   <div style={{ display: "flex", flexDirection: "column", gap: "0.4rem" }}>
                     {[
-                      { href: "/aradhana", label: "Āradhana" },
+                      { href: "/aradhana", label: "Āradhana Index" },
                       { href: "/aradhana/navkar-mantra", label: "Navkar Mantra" },
+                      { href: "/aradhana/chattari-mangalam", label: "Chattari Mangalam" },
+                      { href: "/aradhana/logassa-sutra", label: "Logassa Sutra" },
+                      { href: "/aradhana/uvassagharam", label: "Uvasaggaharam Stotra" },
+                      { href: "/aradhana/bhaktamar-stotra", label: "Bhaktamar Stotra" },
+                      { href: "/aradhana/khamemi-savva-jive", label: "Khamemi Savva Jive" },
                       { href: "/aradhana/pratikraman", label: "Pratikraman" },
                       { href: "/aradhana/paryushana", label: "Paryushana" },
                     ].map(l => (
