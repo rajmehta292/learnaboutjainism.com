@@ -1,0 +1,55 @@
+{
+  "overview": "Jainism and Sikhism are two distinct religious traditions originating in South Asia, each with its own historical trajectory, scriptural foundations, ethical frameworks, and community practices. While they share certain thematic resonances—such as an emphasis on moral conduct, non-harm, and spiritual discipline—they arise from different historical contexts and articulate divergent metaphysical and theological positions.\n\nJainism, with roots traceable to the śramaṇa movements of the first millennium BCE, is centered on the teachings of the Jinas (Victors), especially Mahāvīra, the 24th Tīrthaṅkara. It emphasizes the eternal nature of the soul (jīva), the binding and unbinding of karma, and the pursuit of liberation (mokṣa) through nonviolence (ahiṃsā), non-possession (aparigraha), and disciplined conduct. Its metaphysics is dualistic, distinguishing between conscious souls and non-conscious matter, and its soteriology is grounded in self-effort rather than divine intervention.\n\nSikhism, founded in the 15th century CE by Guru Nānak in the Punjab region, emerged within a milieu shaped by Bhakti devotionalism and Islamic monotheism. It teaches devotion to a single, formless God (Ik Oṅkār), ethical living, remembrance of the divine Name (nāmu), and social equality. The Sikh Gurus developed a distinct scriptural canon, the *Guru Granth Sahib*, and institutional structures such as the *Panth* and *Khalsa*. Sikhism rejects ritual renunciation and instead emphasizes spiritual realization within household life.\n\nComparatively, Jainism is non-theistic in its classical formulations, focusing on the perfected beings (siddhas) who have transcended the cycle of rebirth, whereas Sikhism is explicitly monotheistic, centering on a personal yet formless divine reality. Jain ahiṃsā is absolute and extends to all living beings, influencing dietary practices and ethical norms; Sikh ethics emphasize compassion and justice, permitting defensive force under strict conditions. Historically, interactions between Jain and Sikh communities occurred in regions such as Punjab, Rajasthan, and Gujarat, but each tradition maintained its own scriptural and ritual identity.\n\nModern scholarship highlights that both traditions contribute significantly to South Asian religious diversity, offering distinct perspectives on liberation, devotion, community, and moral responsibility. Their differences are substantial, yet both articulate pathways toward spiritual refinement and ethical engagement with the world.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Digambara and Śvetāmbara recensions)",
+      "author": "Attributed to the early Jain community; preserved in Śvetāmbara canon",
+      "original_text": "णं च देहं परिगहं न कुर्वे",
+      "transliteration": "ṇaṃ ca dehaṃ parigahaṃ na kurve",
+      "translation": "“One should not make the body or possessions an occasion for attachment.”",
+      "notes": "A foundational Jain text (Tier A) emphasizing restraint, non-possession, and nonviolence. The passage reflects the ascetic orientation of early Jain ethics."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "“Nonviolence is the supreme duty.”",
+      "notes": "A pan-sectarian Jain philosophical treatise (Tier A/B). This aphorism is central to Jain ethical identity and contrasts with Sikh acceptance of defensive force under strict conditions."
+    },
+    {
+      "title": "Guru Granth Sahib",
+      "author": "Compiled by Guru Arjan; includes compositions of Sikh Gurus and Bhakti/Sufi poets",
+      "original_text": "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ",
+      "transliteration": "ik oṅkār sat nām kartā purakh",
+      "translation": "“There is One Reality; whose Name is Truth; the Creator Being.”",
+      "notes": "Opening verse of the *Mūl Mantra* (Tier A for Sikh tradition). Establishes Sikh monotheism and contrasts with Jain non-theistic cosmology."
+    },
+    {
+      "title": "Guru Granth Sahib",
+      "author": "Various Gurus",
+      "original_text": "ਸਚੁ ਕਰਣੀ ਸਿਰਿ ਕਰਮ ਹੈ",
+      "transliteration": "sac karaṇī sir karam hai",
+      "translation": "“Truthful conduct is the highest of actions.”",
+      "notes": "Highlights Sikh emphasis on ethical living within household life, differing from Jain ascetic renunciation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism and Sikhism are variations of the same non-Hindu reform movement.",
+      "reality": "They emerged in different eras, with Jainism rooted in ancient śramaṇa traditions and Sikhism founded in the 15th century CE. Their metaphysics, scriptures, and ritual structures are distinct."
+    },
+    {
+      "myth": "Both religions teach identical forms of nonviolence.",
+      "reality": "Jain ahiṃsā is absolute and prohibits harm to any living being, shaping strict dietary and occupational norms. Sikhism teaches compassion and justice, allowing defensive force under disciplined conditions."
+    },
+    {
+      "myth": "Sikh monotheism and Jain reverence for Tīrthaṅkaras represent the same theological idea.",
+      "reality": "Sikhism is explicitly monotheistic, centered on a single formless God. Jainism is non-theistic; Tīrthaṅkaras are liberated beings who do not intervene in worldly affairs."
+    },
+    {
+      "myth": "Both traditions reject household life in favor of monasticism.",
+      "reality": "Jainism includes both monastic and lay paths, with liberation requiring ascetic discipline. Sikhism rejects monastic renunciation and emphasizes spiritual realization within household life."
+    }
+  ]
+}

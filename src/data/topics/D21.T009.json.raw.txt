@@ -1,0 +1,87 @@
+{
+  "overview": "Chaityavandana (often spelled Chaitya‑Vandan or Chaityavandan) is a central daily devotional practice in the Śvetāmbara Mūrtipūjaka Jain tradition, performed in the presence of a Jina temple (chaitya) or Jina image, or mentally when one cannot be physically present. It is not merely a sequence of recited formulas, but a structured discipline of inner purification, reverence, confession, and resolve to live with self‑restraint (samyam). Through bowing to the Pañca‑Parameṣṭhī—Arihants, Siddhas, Āchāryas, Upādhyāyas, and Sādhus—remembering the 24 Tīrthaṅkaras, and acknowledging one’s faults, the practitioner re‑orients their life toward the path of liberation.\n\nIn practice, Chaityavandana is closely linked with samayika (meditative equanimity) and pratikramana (ethical self‑review). A typical Śvetāmbara Mūrtipūjaka sequence begins with śuddhi (purification: bathing, clean clothing, removal of leather items) and sitting or standing facing the Jina image. The practitioner recites the Navkār (Namaskāra) Mantra, performs kāyotsarga (standing or sitting motionless like a statue), and then proceeds through a series of canonical Prakrit sutras: Iriyāvahiyam (Iriyāpathikī) for repentance of harm done while moving; Tassa Uttari and related repentance formulas; Khamāsamaṇa/Khamemi for universal forgiveness; Karemi Bhante for resolving to observe non‑violence and other vows; Logassa for praise and remembrance of the 24 Tīrthaṅkaras; and specific Chaityavandana passages that salute all chaityas, Jina temples, and holy places. The ritual often concludes with auspicious verses and the phrase “Micchāmi Dukkaḍaṃ”—“May the evil of my actions be fruitless.”  [[0]](https://jainknowledge.com/question/6187/chaitya-vandan-vidhi-and-sutras) [[1]](https://jainknowledge.com/question/8461/chaitvandan-process-explained-in-english)\n\nThe bodily postures (mudrās) used in Chaityavandana are themselves part of the discipline. Yoga‑mudrā (hands joined near the chest), Muktasukti‑mudrā (hands cupped and raised near the forehead), and Jina‑mudrā (standing in kāyotsarga) are employed at different points to express humility, concentration, and detachment. The practitioner is encouraged to keep the eyes on the idol or its feet, the mouth softly reciting sutras, and the mind focused on three supports (ālambana): the image of Bhagavān, the words of the sutras, and their meanings. In this way, Chaityavandana becomes “internal worship” (bhāv‑pūjā), not just external ritual, cultivating reverence, repentance, and the aspiration to become like the Jina—utterly free from attachment and aversion.  [[2]](https://jaingpt.org/knowledge/chaityavandan_vidhi_229251_229251) [[3]](https://jainknowledge.com/question/18185/how-to-do-chaityavandan)\n\nHistorically and doctrinally, Chaityavandana is embedded in a broader ritual and interpretive tradition. Texts such as “Chaityavandan Vidhi” and “Chaityavandanādi Bhāṣya Trayam” systematize the procedure, explaining the sequence of sutras, the meaning of each line, and the correct physical comportment. They divide temple worship into multiple aspects (sometimes described as “doors”), including mangalācaraṇa (benedictory verses), niśidhi and pradakṣiṇā (proper places and methods for circumambulation), prāṇāmika (forms of prostration), and various triads (pujā‑trika, upayoga‑trika, mudrā‑trika) that describe the devotee’s focus and mental state. These commentarial works aim to ensure that Chaityavandana is performed with understanding and right intention, not as mechanical recitation.  [[4]](https://jaingpt.org/knowledge/chaityavandanadi_bhashya_trayam_004260_004260)\n\nAcross Jain traditions, the exact form and terminology of Chaityavandana can vary. Śvetāmbara Mūrtipūjaka communities typically use a fixed set of Prakrit sutras and stotras in a recognizable order, often taught in childhood and reinforced through community education. Sthānakvāsī and Terāpanth Śvetāmbara groups, which emphasize non‑image worship, may retain many of the same core sutras (Navkār, Iriyāvahiyam, Khamemi, etc.) within pratikramana and samayika, but the explicit temple‑centered “Chaityavandana” format is less central. Digambara practice, while sharing the same foundational orientation of bowing to the Pañca‑Parameṣṭhī and confessing faults, tends to focus on different stotras and pūjā‑procedures, and does not always use the term “Chaityavandana” in the Śvetāmbara sense. Thus, “Chaityavandana” as a named daily temple‑veneration rite is most characteristic of Śvetāmbara Mūrtipūjaka usage, though its underlying aims—reverence, repentance, and resolve—are widely shared.  [[1]](https://jainknowledge.com/question/8461/chaitvandan-process-explained-in-english) [[0]](https://jainknowledge.com/question/6187/chaitya-vandan-vidhi-and-sutras)",
+  "primary_sources": [
+    {
+      "title": "Navkār (Namaskāra) Mantra",
+      "author": "Canonical Jain tradition (Śvetāmbara)",
+      "original_text": "णमो अरिहंताणं\nणमो सिद्धाणं\nणमो आयरियाणं\nणमो उवज्झायाणं\nणमो लोए सव्वसाहूणं",
+      "transliteration": "Namo Arihantāṇaṃ\nNamo Siddhāṇaṃ\nNamo Āyariyāṇaṃ\nNamo Uvajjhāyāṇaṃ\nNamo Loe Savva‑Sāhūṇaṃ",
+      "translation": "I bow to the Arihants.\nI bow to the Siddhas.\nI bow to the Āchāryas.\nI bow to the Upādhyāyas.\nI bow to all Sādhus in the world.\nThis five‑fold salutation destroys sins and is foremost among auspicious things.",
+      "notes": "The Navkār Mantra is the foundational Jain prayer and the opening of Chaityavandana. It is recited three times in many traditions at the start of temple veneration, establishing reverence toward the Pañca‑Parameṣṭhī and framing the entire ritual as an approach to the liberated and progressing souls.  [[0]](https://jainknowledge.com/question/6187/chaitya-vandan-vidhi-and-sutras) [[1]](https://jainknowledge.com/question/8461/chaitvandan-process-explained-in-english)"
+    },
+    {
+      "title": "Logassa (Logassa Ujjoyagare)",
+      "author": "Canonical Jain tradition (Śvetāmbara)",
+      "original_text": "लोअस्स उज्जोयगरे धम्मे अरहंतस्स\nजिणस्स जिणकप्पस्स पावक्खस्स महेसिणो ...",
+      "transliteration": "Loassa Ujjoyagare dhamme arahantassa\nJinassa jinakappassa pāvakkhassa mahesiṇo ...",
+      "translation": "In the splendid universe, I praise the Dharma of the Arihants,\nOf the Jina, the promulgator of the Jina‑path, the destroyer of karmas, the great sage...\n(Full hymn continues, praising all 24 Tīrthaṅkaras, their qualities, and praying for right vision and concentration.)",
+      "notes": "Logassa is recited in kāyotsarga during Chaityavandana, with the practitioner standing motionless and remembering all 24 Tīrthaṅkaras. It emphasizes the luminous, karma‑destroying nature of the Jinas and supports the cultivation of samādhi and right vision (samyag‑darśana). The exact wording and length can vary slightly by edition and gaccha, but its function as Tīrthaṅkara‑smaraṇa is consistent.  [[2]](https://jaingpt.org/knowledge/chaityavandan_vidhi_229251_229251) [[0]](https://jainknowledge.com/question/6187/chaitya-vandan-vidhi-and-sutras)"
+    },
+    {
+      "title": "Iriyāvahiyam (Iriyāpathikī) Sūtra",
+      "author": "Canonical Jain tradition (Śvetāmbara)",
+      "original_text": "इरिया विहियाए जं जं पावं पवयामि\nतहं तहं तस्स उवसामेउं तस्स उवसामेउं ...",
+      "transliteration": "Iriyā vihiyāe yaṃ yaṃ pāvaṃ pavayāmi\nTahaṃ tahaṃ tassa uvasāmeuṃ, tassa uvasāmeuṃ ...",
+      "translation": "By my movements—walking, standing, sitting, lying—whatever sin I commit,\nThere and there, may that be pacified; may that be pacified...\n(Expanded versions specify harm done to beings of all destinies and bodies, knowingly or unknowingly, and conclude with repentance.)",
+      "notes": "Iriyāvahiyam is a key repentance sutra in Chaityavandana and pratikramana. It acknowledges that ordinary movement can harm living beings and expresses a desire that such faults be pacified and rendered fruitless. In many practical guides, its meaning is summarized as: “If by mind, speech, or body I have hurt any beings of any gati or body, knowingly or unknowingly—Micchāmi Dukkaḍaṃ.”  [[0]](https://jainknowledge.com/question/6187/chaitya-vandan-vidhi-and-sutras) [[1]](https://jainknowledge.com/question/8461/chaitvandan-process-explained-in-english)"
+    },
+    {
+      "title": "Khamāsamaṇa / Khamemi Savva‑Jīve",
+      "author": "Canonical Jain tradition (Śvetāmbara)",
+      "original_text": "खमेमि सव्वजिवे सव्वे जिवा खमंतु मे\nमित्ति मे सव्वभूएसु वेरं मज्झं न केणइं",
+      "transliteration": "Khamemi savva‑jīve, savve jīvā khamantu me\nMitti me savva‑bhūesu, veraṃ majjhaṃ na keṇaiṃ",
+      "translation": "I forgive all living beings; may all living beings forgive me.\nMy friendship is with all beings; I have enmity toward none.",
+      "notes": "This short but powerful forgiveness formula is central to the ethical spirit of Chaityavandana. It is often recited after repentance sutras, expressing universal forgiveness and the resolve to maintain friendship with all beings. It reinforces ahiṃsā and non‑enmity as lived commitments, not merely doctrinal ideals.  [[0]](https://jainknowledge.com/question/6187/chaitya-vandan-vidhi-and-sutras) [[1]](https://jainknowledge.com/question/8461/chaitvandan-process-explained-in-english)"
+    },
+    {
+      "title": "Karemi Bhante",
+      "author": "Canonical Jain tradition (Śvetāmbara)",
+      "original_text": "करेमि भंते सियम् पवक्खं\nइहंसा‑अणुव्रतादि सियम् पवक्खं ...",
+      "transliteration": "Karemi bhante siyam pavakkhaṃ\nIhaṃsā‑aṇuvratādi siyam pavakkhaṃ ...",
+      "translation": "Revered one, I undertake the discipline as declared,\nThe discipline of non‑violence and the other vows, as declared...\n(Full versions specify refraining from violence, falsehood, stealing, unchastity, and possessions/attachments, and observing samiti and gupti according to one’s capacity.)",
+      "notes": "Karemi Bhante is a vow‑formula used within Chaityavandana and related practices to articulate a concrete resolve to observe right conduct. It links the devotional mood of the ritual with ethical commitments, reminding the practitioner that worship must be accompanied by restraint in daily life.  [[0]](https://jainknowledge.com/question/6187/chaitya-vandan-vidhi-and-sutras) [[3]](https://jainknowledge.com/question/18185/how-to-do-chaityavandan)"
+    },
+    {
+      "title": "Chaityavandana Sūtra (Jagachintāmaṇi Chaityavandana)",
+      "author": "Śvetāmbara ritual tradition",
+      "original_text": "जगचिंतामणि चेइयवंदणं करेमि\nसव्वेसिं चेइयाणं वंदणं करेमि ...",
+      "transliteration": "Jagachintāmaṇi chaityavandanaṃ karemi\nSavvesiṃ chaityāṇaṃ vandanaṃ karemi ...",
+      "translation": "I perform the Chaityavandana of the wish‑fulfilling (world‑benefiting) chaityas.\nI perform vandana (reverent bowing) to all chaityas...\n(Extended forms salute all Jina temples, holy places, scriptures, and the Pañca‑Parameṣṭhī.)",
+      "notes": "This sutra is often identified as the “main part” of Chaityavandana in Śvetāmbara Mūrtipūjaka practice. It explicitly names the ritual and extends reverence to all chaityas and sacred spaces, integrating the local temple with the wider Jain sacred geography. Editions and exact wording differ by gaccha and manual, and some communities use alternative or additional vandana passages.  [[3]](https://jainknowledge.com/question/18185/how-to-do-chaityavandan) [[0]](https://jainknowledge.com/question/6187/chaitya-vandan-vidhi-and-sutras)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Chaityavandana is just reading a fixed set of sutras without needing to understand them.",
+      "reality": "Traditional guides emphasize that Chaityavandana is bhāv‑pūjā—inner worship—requiring attention to the meanings of the sutras, contemplation of Bhagavān’s qualities, and sincere repentance and resolve. Mechanical recitation is considered spiritually inferior to mindful, meaning‑aware practice.  [[2]](https://jaingpt.org/knowledge/chaityavandan_vidhi_229251_229251) [[3]](https://jainknowledge.com/question/18185/how-to-do-chaityavandan)"
+    },
+    {
+      "myth": "Chaityavandana is only about idol worship and has no ethical dimension.",
+      "reality": "While performed in front of a Jina image or temple, Chaityavandana centrally includes repentance (Iriyāvahiyam, Tassa Uttari), universal forgiveness (Khamemi), and vows of restraint (Karemi Bhante). Its purpose is to strengthen ahiṃsā, samyam, and right conduct, not merely to honor an image.  [[0]](https://jainknowledge.com/question/6187/chaitya-vandan-vidhi-and-sutras) [[1]](https://jainknowledge.com/question/8461/chaitvandan-process-explained-in-english)"
+    },
+    {
+      "myth": "All Jain traditions perform Chaityavandana in exactly the same way.",
+      "reality": "The named daily temple‑veneration rite “Chaityavandana” with a specific Śvetāmbara Prakrit sutra sequence is characteristic of Śvetāmbara Mūrtipūjaka practice. Sthānakvāsī, Terāpanth, and Digambara communities share many core sutras and aims (Navkār, repentance, forgiveness) but differ in their use of images, stotras, and ritual formats, so their daily practices are not identical.  [[1]](https://jainknowledge.com/question/8461/chaitvandan-process-explained-in-english) [[0]](https://jainknowledge.com/question/6187/chaitya-vandan-vidhi-and-sutras)"
+    },
+    {
+      "myth": "Chaityavandana must be long and elaborate; a shorter, sincere practice is invalid.",
+      "reality": "Commentarial and practical guides acknowledge that sequences can vary by gaccha, guru, and circumstance. A shorter, sincerely performed Chaityavandana that preserves core elements—Navkār, repentance, forgiveness, Tīrthaṅkara‑smaraṇa, and vandana—is treated as meaningful, especially for laypeople with limited time, provided the inner attitude is reverent and ethical.  [[0]](https://jainknowledge.com/question/6187/chaitya-vandan-vidhi-and-sutras) [[3]](https://jainknowledge.com/question/18185/how-to-do-chaityavandan)"
+    },
+    {
+      "myth": "Children or beginners must perform Chaityavandana perfectly or it is spiritually harmful.",
+      "reality": "Educational texts present Chaityavandana as a gradual discipline, often taught in simple outlines first, with meanings explained over time. Imperfect pronunciation or incomplete sequences are not portrayed as harmful; rather, the emphasis is on cultivating humility, learning the meanings, and steadily aligning conduct with the ideals expressed in the sutras.  [[3]](https://jainknowledge.com/question/18185/how-to-do-chaityavandan) [[4]](https://jaingpt.org/knowledge/chaityavandanadi_bhashya_trayam_004260_004260)"
+    }
+  ]
+}
+
+
+
+> [0] [Chaitya vandan vidhi and sutras | JainGPT by Jain Knowledge](https://jainknowledge.com/question/6187/chaitya-vandan-vidhi-and-sutras)
+>
+> [1] [chaitvandan process explained in english | JainGPT by Jain Knowledge](https://jainknowledge.com/question/8461/chaitvandan-process-explained-in-english)
+>
+> [2] [Chaityavandan Vidhi - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/chaityavandan_vidhi_229251_229251)
+>
+> [3] [How to do chaityavandan | JainGPT by Jain Knowledge](https://jainknowledge.com/question/18185/how-to-do-chaityavandan)
+>
+> [4] [Chaityavandanadi Bhashya Trayam - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/chaityavandanadi_bhashya_trayam_004260_004260)

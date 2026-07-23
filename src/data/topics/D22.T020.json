@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain intellectual history, poetics (often discussed under terms such as *kāvya*, *alaṅkāraśāstra*, and *sahitya-śāstra*) refers to the theory and craft of literary expression—its aesthetics, rhetorical devices, narrative structures, and ethical orientation. While Jainism is primarily known for its philosophical, ethical, and spiritual literature, it also produced a rich corpus of poetic works in Prakrit, Apabhraṃśa, and Sanskrit. Jain poets and scholars contributed significantly to classical Indian poetics, often integrating aesthetic theory with the tradition’s commitments to nonviolence, truthfulness, and spiritual discipline.\n\nJain poetics developed in dialogue with broader Indian literary theory. Foundational Sanskrit works such as Bharata’s *Nāṭyaśāstra* and Ānandavardhana’s *Dhvanyāloka* shaped the conceptual landscape, but Jain authors adapted these frameworks to their own doctrinal priorities. For example, Jain poets frequently emphasized moral clarity, restraint in depicting violence, and the karmic consequences of actions—elements that subtly reshape narrative tone and aesthetic choices.\n\nJain narrative literature, including *mahākāvyas*, *campūs*, and didactic stories, often blends ornate poetic description with ethical instruction. Works such as *Kuvalayamālā*, *Yashastilaka*, and various *paumacariyas* demonstrate how Jain authors used poetic devices to convey philosophical ideas, cosmological structures, and exemplary conduct. The result is a distinctive Jain aesthetic: richly imagistic, technically sophisticated, yet ethically grounded.\n\nIn modern scholarship, Jain poetics is studied not only for its literary artistry but also for its role in cultural history—illuminating how Jain communities engaged with regional courts, patronage networks, and multilingual literary ecologies. The field continues to grow as more manuscripts are edited and translated, revealing the depth and diversity of Jain contributions to Indian poetics.",
+  "primary_sources": [
+    {
+      "title": "Kuvalayamālā",
+      "author": "Uddyotana Sūri (Śvetāmbara, 8th century)",
+      "original_text": "कुवलयमालं समुद्धरिअं णिव्वाणगामिणीए",
+      "transliteration": "kuvalayamālaṃ samuddhariyaṃ nivvāṇagāmiṇīe",
+      "translation": "“The Kuvalayamālā has been composed as a path leading toward liberation.”",
+      "notes": "A major Prakrit campū work blending prose and verse. Its ornate descriptions and narrative complexity illustrate Jain adaptations of classical poetic conventions."
+    },
+    {
+      "title": "Yashastilaka",
+      "author": "Somadeva Sūri (Digambara, 10th century)",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "“Nonviolence is the supreme dharma.”",
+      "notes": "Although the phrase is widely attested, Somadeva’s use of it in a poetic-narrative context highlights how ethical maxims are woven into literary aesthetics."
+    },
+    {
+      "title": "Nāṭyaśāstra (Referenced in Jain Poetics)",
+      "author": "Bharata (traditionally attributed)",
+      "original_text": "रसोत्पत्तिः संयोगाद्",
+      "transliteration": "rasotpattiḥ saṃyogād",
+      "translation": "“The arising of rasa occurs through conjunction.”",
+      "notes": "Not a Jain text, but foundational for Indian poetics. Jain theorists and poets frequently engage with its rasa theory while modifying depictions to align with Jain ethical norms."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain literature is purely didactic and lacks aesthetic sophistication.",
+      "reality": "Jain authors produced some of the most technically refined works in Prakrit, Apabhraṃśa, and Sanskrit. Their poetry employs complex meters, elaborate imagery, and nuanced narrative structures while maintaining ethical clarity."
+    },
+    {
+      "myth": "Jain poets avoided all depictions of worldly life due to ascetic ideals.",
+      "reality": "While Jain ethics shape narrative choices, Jain poets vividly portray cities, courts, emotions, and social life. These depictions serve both aesthetic and moral purposes, illustrating karmic dynamics and ethical dilemmas."
+    },
+    {
+      "myth": "Jain contributions to Indian poetics are marginal compared to mainstream Sanskrit traditions.",
+      "reality": "Jain scholars were central participants in classical literary culture. Their works influenced regional literary traditions, preserved older Prakrit forms, and contributed to the evolution of narrative and poetic theory."
+    }
+  ]
+}

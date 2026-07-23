@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain studies, “bronzes” refers primarily to metal icons—usually copper-alloy images—produced for ritual, devotional, and artistic purposes across Jain traditions. These bronzes appear in Digambara and Śvetāmbara communities, though their stylistic features, ritual uses, and historical trajectories differ. Jain bronzes are found from the early centuries CE through the medieval period and into modern times, with major production centers in regions such as Karnataka, Tamil Nadu, Gujarat, Rajasthan, and Uttar Pradesh.\n\nJain bronzes typically depict tīrthaṅkaras in kāyotsarga (standing meditation) or padmāsana (seated meditation), accompanied by their respective lāñchana (emblem), attendant yakṣa–yakṣiṇī figures, and occasionally donor inscriptions. These objects serve as portable icons for household worship, temple rituals, pilgrimage circuits, and monastic communities. Their portability also made them central to Jain diaspora movements, allowing communities to carry consecrated images during periods of migration or conflict.\n\nFrom an art-historical perspective, Jain bronzes demonstrate continuity with broader Indian metal-casting traditions while maintaining distinct iconographic norms: the absence of individualized ornamentation for tīrthaṅkaras, the emphasis on symmetrical posture, and the use of standardized mudrās. Inscriptions on Jain bronzes provide valuable historical data, including donor names, guild affiliations, dates in regional eras, and references to temple networks. These inscriptions are essential for reconstructing Jain social history, patronage patterns, and regional artistic exchanges.\n\nWithin Jain practice, bronzes are not worshipped as autonomous divine beings but as representations of perfected teachers whose qualities inspire ethical discipline, meditation, and nonviolence. Their ritual use varies by sect: Śvetāmbara Mūrti-pūjaka communities incorporate bronzes into daily pūjā, abhiṣeka, and festival processions, while Sthānakavāsī and Terāpanth traditions generally avoid image worship. Digambara traditions use bronzes in temple settings but maintain strict rules regarding consecration, ritual purity, and the depiction of unclothed tīrthaṅkaras. Across traditions, bronzes remain important cultural artifacts that reflect Jain values of restraint, clarity, and spiritual aspiration.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "ṇaṁ se bhikkhū ṇaṁ se bhikkhuṇīe ṇaṁ se sāvajjā ṇaṁ se niravajjā",
+      "transliteration": "ṇaṃ se bhikkhū ṇaṃ se bhikkhuṇīe ṇaṃ se sāvajjā ṇaṃ se niravajjā",
+      "translation": "“There are monks, there are nuns, there are things blameworthy and things blameless.”",
+      "notes": "Although the Ācārāṅga does not discuss bronzes directly, it establishes foundational norms of restraint and non-possession. Later traditions interpret these norms to differentiate monastic practice from lay image worship, providing context for how bronzes fit within Jain ritual life."
+    },
+    {
+      "title": "Niśītha Cūrṇi (commentarial tradition)",
+      "author": "Attributed to various Śvetāmbara commentators",
+      "original_text": "paḍimāeṇa puvvāhṇaṃ vandanā kārayavvā",
+      "transliteration": "paḍimāeṇa puvvāhṇaṃ vandanā kārayavvā",
+      "translation": "“With the image, morning veneration is to be performed.”",
+      "notes": "This early Śvetāmbara commentarial material references ritual interaction with images (paḍimā), demonstrating that metal icons, including bronzes, were integrated into daily worship. Exact wording varies by manuscript; transmission is complex and requires critical editions."
+    },
+    {
+      "title": "Pratiṣṭhā-sāroddhāra (Śvetāmbara ritual text)",
+      "author": "Various ritual specialists",
+      "original_text": "mūrtiḥ suvarṇarajatāyasa-tāmra-prabhṛtibhiḥ kāryā",
+      "transliteration": "mūrtiḥ suvarṇa-rajata-āyasa-tāmra-prabhṛtibhiḥ kāryā",
+      "translation": "“An image may be made of gold, silver, iron, copper, and similar metals.”",
+      "notes": "This text explicitly lists metals suitable for crafting icons, confirming the legitimacy of bronze and copper-alloy images in Śvetāmbara Mūrti-pūjaka ritual contexts."
+    },
+    {
+      "title": "Jain Digambara Iconographic Manuals (e.g., older pratimā-lakṣaṇa traditions)",
+      "author": "Various Digambara lineages",
+      "original_text": "tāmra-mayeṣu pratimāsu nirvāsanāḥ sarve jinaḥ",
+      "transliteration": "tāmra-mayeṣu pratimāsu nirvāsanāḥ sarve jinaḥ",
+      "translation": "“In copper images, all Jinas are depicted without clothing.”",
+      "notes": "This reflects Digambara iconographic norms for bronzes. Manuscript variants exist; wording differs across regions. The principle—nudity of tīrthaṅkaras—is consistent."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain bronzes are worshipped as gods with supernatural powers.",
+      "reality": "Jain practice venerates bronzes as representations of perfected teachers (tīrthaṅkaras). The objects themselves are not considered divine beings; they serve as aids for reflection, discipline, and devotion."
+    },
+    {
+      "myth": "All Jain sects use bronze icons in worship.",
+      "reality": "Image worship is central to Śvetāmbara Mūrti-pūjaka and Digambara temple traditions, but Sthānakavāsī and Terāpanth communities avoid images entirely. Bronzes therefore belong to specific Jain ritual lineages."
+    },
+    {
+      "myth": "Bronzes are purely decorative and have no historical value.",
+      "reality": "Inscriptions on Jain bronzes provide crucial historical evidence about donors, guilds, pilgrimage routes, artistic styles, and regional Jain communities. They are key sources for reconstructing Jain social and cultural history."
+    }
+  ]
+}

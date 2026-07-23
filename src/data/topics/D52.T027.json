@@ -1,0 +1,55 @@
+{
+  "overview": "Fasting safety in Jain traditions is framed by ahimsa (non‑harm), samyama (self‑restraint), and viveka (discernment). While fasting is a respected lay and monastic discipline, classical texts consistently warn against practices that damage the body, impair mental clarity, or interfere with one’s duties. Jainism distinguishes between voluntary, mindful austerity performed with adequate strength (bala), and harmful deprivation that arises from compulsion, imitation, or misunderstanding. \n\nAcross Śvetāmbara and Digambara sources, fasting is never an isolated act; it is embedded within ethical intention, physical capacity, and community guidance. Texts emphasize gradual progression—from simple meal‑skipping to more structured fasts—while maintaining hydration, mental steadiness, and the ability to perform daily responsibilities. The tradition also recognizes that illness, pregnancy, childhood, elder frailty, and emotional distress are conditions in which fasting should be avoided. \n\nModern Jain teachers and community health guidelines reinforce these principles, stressing that fasting must not replace medical care, must not be used to cope with psychological distress, and must not be undertaken under pressure. When practiced safely, fasting is meant to cultivate awareness, humility, and non‑attachment—not physical harm or coercion.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmī",
+      "original_text": "तपः शरीरवाङ्मनःकर्मपरिशोधनम्",
+      "transliteration": "tapaḥ śarīra‑vāṅ‑manaḥ‑karma‑pariśodhanam",
+      "translation": "Austerity is the purification of bodily, verbal, and mental actions.",
+      "notes": "TS 9.19 defines tapas as a purificatory discipline. Commentaries (B) clarify that austerities must be undertaken within one’s capacity (bala) and without self‑harm. The text does not prescribe extreme fasting and warns that austerity without right intention becomes delusion (mithyātva)."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s early disciples",
+      "original_text": "अण्णं पाणं च परिमाणेण भुञ्जिज्जा",
+      "transliteration": "aṇṇaṃ pāṇaṃ ca parimāṇeṇa bhuñjijjā",
+      "translation": "Food and drink should be taken with proper measure.",
+      "notes": "Śvetāmbara canonical text (A). The emphasis on ‘measure’ is interpreted by commentators as guidance for both eating and fasting. The text repeatedly warns against harming oneself through excessive deprivation."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "न अत्तं पिडए, न परं पिडए",
+      "transliteration": "na attaṃ piḍae, na paraṃ piḍae",
+      "translation": "One should not harm oneself, nor harm others.",
+      "notes": "This principle (A) is foundational for evaluating any austerity. Traditional commentaries apply it directly to fasting: self‑harm invalidates the ethical purpose of the practice."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "बलानुरूपं तपः",
+      "transliteration": "balānurūpaṃ tapaḥ",
+      "translation": "Austerity must accord with one’s strength.",
+      "notes": "A key Digambara principle (A/B). Later Digambara commentators emphasize that fasting beyond one’s physical or mental capacity is considered improper and spiritually counterproductive."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain fasting always requires long or waterless fasts.",
+      "reality": "Primary texts emphasize moderation, capacity, and non‑harm. Waterless or prolonged fasts are not normative and require careful guidance; they are discouraged for laypeople except under safe, supervised conditions."
+    },
+    {
+      "myth": "Fasting is a sign of spiritual advancement regardless of health.",
+      "reality": "Texts repeatedly state that austerity without strength, clarity, and right intention becomes delusion. Illness, pregnancy, childhood, elder frailty, and emotional distress are explicit conditions in which fasting should not be undertaken."
+    },
+    {
+      "myth": "Fasting can replace medical care or cure illness.",
+      "reality": "No Jain canonical text endorses fasting as medical treatment. Modern Jain ethics require seeking qualified medical care and avoiding practices that endanger health."
+    },
+    {
+      "myth": "Fasting should be done to please family, community, or deities.",
+      "reality": "Coerced or performative fasting contradicts the core Jain principle of non‑harm and right intention. Authentic fasting is voluntary, mindful, and grounded in personal capacity."
+    }
+  ]
+}

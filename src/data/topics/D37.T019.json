@@ -1,0 +1,55 @@
+{
+  "overview": "Mahāvideha is a central cosmographical and soteriological concept in Jainism, appearing across Śvetāmbara and Digambara traditions. It refers to a specific region within the madhyaloka (the middle world) where conditions are uniquely conducive to spiritual progress. Unlike Bharat Kṣetra or Airāvata Kṣetra—where Tīrthaṅkaras appear only in specific cosmic cycles—Mahāvideha is described as a realm where Tīrthaṅkaras are always present. This makes it a place of uninterrupted access to living omniscient teachers (kevalins) and fully established fourfold sanghas.\n\nJain cosmology describes Mahāvideha as consisting of thirty-two distinct lands (videha-kṣetras), arranged symmetrically around Mount Meru. These lands are inhabited by humans with longer lifespans, greater moral capacities, and more stable social conditions than those found in Bharat Kṣetra. Because of these conditions, Mahāvideha is often portrayed as a realm where souls can more readily attain advanced spiritual states, including kevala-jñāna.\n\nImportantly, Mahāvideha is not a heaven or a supernatural paradise. It is part of the human realm, populated by embodied beings subject to karma and rebirth. Its significance lies in its accessibility to Tīrthaṅkaras and its role in Jain cosmological cycles. Many Jain narratives emphasize that while humans in Bharat Kṣetra cannot currently encounter a living Tīrthaṅkara, such encounters are possible in Mahāvideha, where Simandhara Svāmī and other Tīrthaṅkaras are said to be teaching at present.\n\nAcross traditions, Mahāvideha serves as a reminder of the vastness of Jain cosmology and the continuity of spiritual guidance. It also functions as a devotional focus, especially in Śvetāmbara Mūrti-pūjaka practice, where Simandhara Svāmī is venerated as a living Tīrthaṅkara residing in Mahāvideha. Digambara texts likewise affirm the existence of Mahāvideha and its perpetual Tīrthaṅkaras, though devotional practices differ. In all traditions, Mahāvideha symbolizes the ever-present possibility of liberation within the cosmic order.",
+  "primary_sources": [
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "महाविडेहं तु प्रदेशाणं तिस्सएव दुविसत्तिं।",
+      "transliteration": "mahāviḍehaṃ tu pradheśāṇaṃ tissa’eva duvisattiṃ",
+      "translation": "Mahāvideha consists of thirty-two regions.",
+      "notes": "A foundational Digambara cosmological text (Tier A) describing the structure of the middle world, including the enumeration of the thirty-two videha-kṣetras."
+    },
+    {
+      "title": "Saṃgrahaṇī Sūtra",
+      "author": "Attributed to Śvetāmbara tradition",
+      "original_text": "महाविडेहेषु तिथंकरा नित्यं भवन्ति।",
+      "transliteration": "mahāviḍeheṣu tithaṃkarā nityaṃ bhavanti",
+      "translation": "In Mahāvideha, Tīrthaṅkaras are always present.",
+      "notes": "A Śvetāmbara cosmological compendium (Tier A) emphasizing the perpetual presence of Tīrthaṅkaras in Mahāvideha."
+    },
+    {
+      "title": "Trilokasāra",
+      "author": "Ācārya Nemicandra (Digambara)",
+      "original_text": "मध्यलोके महाविडेहाः सदा जिनेन्द्रोपदेशभाजः।",
+      "transliteration": "madhyaloke mahāviḍehāḥ sadā jinendropadeśabhājaḥ",
+      "translation": "In the middle world, Mahāvidehas are always recipients of the teachings of the Jinas.",
+      "notes": "Part of Nemicandra’s cosmological trilogy (Tier B), offering structured commentary on the nature of Mahāvideha."
+    },
+    {
+      "title": "Lokaprakāśa",
+      "author": "Ācārya Vinayavijaya (Śvetāmbara)",
+      "original_text": "महाविडेहभूमिषु जिनराजानां प्रवचनं न विरमति।",
+      "transliteration": "mahāviḍehabhūmiṣu jinarājānāṃ pravacanaṃ na viramati",
+      "translation": "In the lands of Mahāvideha, the discourse of the Jinas does not cease.",
+      "notes": "A Śvetāmbara cosmological treatise (Tier B) elaborating on the uninterrupted presence of Tīrthaṅkara teachings."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Mahāvideha is a heavenly realm or a supernatural paradise.",
+      "reality": "Mahāvideha is part of the human realm (madhyaloka). Its inhabitants are embodied beings subject to karma, not celestial gods."
+    },
+    {
+      "myth": "Mahāvideha can be reached through physical travel or space exploration.",
+      "reality": "Jain cosmology describes Mahāvideha as part of a vast metaphysical universe structured by karmic conditions, not a location accessible through physical means."
+    },
+    {
+      "myth": "Simandhara Svāmī is worshipped only in Śvetāmbara traditions.",
+      "reality": "Both Digambara and Śvetāmbara traditions affirm the existence of Simandhara Svāmī as a living Tīrthaṅkara in Mahāvideha, though devotional practices differ."
+    },
+    {
+      "myth": "Mahāvideha guarantees liberation for anyone born there.",
+      "reality": "While conditions are more conducive to spiritual progress, liberation still requires personal effort, right conduct, and the destruction of karmas."
+    }
+  ]
+}

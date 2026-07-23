@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain studies, “doctrinal terms” refers to the technical vocabulary that structures Jain philosophy, ethics, cosmology, and soteriology. These terms appear across Prakrit and Sanskrit canonical literature and later commentarial traditions, forming a precise conceptual system. Because Jain thought emphasizes non-absolutism (anekāntavāda), careful definition of terms is essential: each concept is situated within a multi-perspectival framework, often with explicit distinctions between substance (dravya), mode (paryāya), and qualities (guṇa). Doctrinal terminology also varies across sectarian traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—due to differences in canonical corpora, commentarial lineages, and ritual emphases.\n\nCore doctrinal terms include metaphysical categories such as jīva (sentient substance), ajīva (non-sentient substance), pudgala (matter), dharma and adharma (principles of motion and rest), ākāśa (space), kāla (time), and karma (a material, binding substance). Ethical and soteriological terms include the vows (vrata), passions (kaṣāya), right faith (samyagdarśana), right knowledge (samyagjñāna), and right conduct (samyakcāritra). Technical systems such as the guṇasthāna (stages of spiritual development), leśyā (colorations of the soul), and pramāṇa/naya (epistemological frameworks) provide further precision.\n\nBecause Jainism is a scholastic tradition with extensive canonical and commentarial literature, doctrinal terms often have layered meanings. For example, karma is simultaneously a physical substance (pudgala), a causal mechanism, and a moral-psychological process. Similarly, samyaktva (right worldview) is defined differently in Digambara and Śvetāmbara sources, with variations in the number and nature of its subtypes. Understanding doctrinal terms therefore requires attention to primary texts, sectarian context, and the interpretive history of each concept.\n\nThis article surveys representative doctrinal terms, grounding each in primary sources and noting interpretive differences where relevant. It does not provide religious rulings or prescriptive guidance but offers academically grounded explanations suitable for comparative, historical, and philosophical study.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (sectarian attribution varies)",
+      "original_text": "जिवाजिवास्तत्त्वम्",
+      "transliteration": "jīvājivās tattvam",
+      "translation": "The real categories are the sentient and the non-sentient.",
+      "notes": "TS 1.4 introduces the foundational ontological distinction between jīva and ajīva. The text is accepted across Digambara and Śvetāmbara traditions, though commentaries differ."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama",
+      "author": "Puṣpadanta and Bhūtabali (Digambara)",
+      "original_text": "कर्मप्रकृतयः बहवः",
+      "transliteration": "karmaprakṛtayaḥ bahavaḥ",
+      "translation": "The varieties of karma are many.",
+      "notes": "A foundational Digambara canonical text detailing karma categories, bonding processes, and doctrinal terminology related to karmic influx and bondage."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "णाणं च दर्शनं च चरित्तं च मोहो च",
+      "transliteration": "ñāṇaṃ ca dasaṇaṃ ca carittaṃ ca moho ca",
+      "translation": "Knowledge, faith, conduct, and delusion.",
+      "notes": "Lists key doctrinal categories related to ethical and spiritual development. The text provides early canonical definitions of epistemic and moral terms."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Kundakunda (Digambara)",
+      "original_text": "दव्वं गुणो पओयाओ",
+      "transliteration": "davvaṃ guṇo paoyāo",
+      "translation": "Substance, qualities, and modes.",
+      "notes": "A central text for Digambara metaphysics, defining the triadic structure of reality. These terms underpin many later doctrinal systems."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain doctrinal terms have fixed, identical meanings across all sects.",
+      "reality": "While many terms share a common foundation, Digambara and Śvetāmbara traditions often interpret them differently. For example, definitions of samyaktva, classifications of karma, and canonical terminology vary across lineages."
+    },
+    {
+      "myth": "Karma in Jainism is purely metaphorical or psychological.",
+      "reality": "Primary texts consistently describe karma as a material substance (pudgala) that physically binds to the soul. Psychological states are part of the causal chain but not the entirety of the doctrine."
+    },
+    {
+      "myth": "Doctrinal terms can be understood without reference to Prakrit/Sanskrit sources.",
+      "reality": "Because Jain philosophy is highly technical, accurate understanding requires engagement with canonical language, traditional commentaries, and sectarian context."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "Charity governance within Jain traditions refers to the ethical, administrative, and spiritual frameworks that guide the creation, management, and oversight of dana (charitable giving) institutions. These include temples, pathshalas, animal shelters (panjrapoles), community trusts, and modern NGOs inspired by Jain values. Governance is not merely administrative; it is rooted in the doctrinal principles of ahimsa (non‑violence), aparigraha (non‑possessiveness), and anukampa (compassion). Jain texts consistently emphasize that charity must be conducted with purity of intention, transparency of action, and accountability to both donors and beneficiaries.\n\nHistorically, Jain communities developed sophisticated systems of communal oversight. Merchant guilds, temple committees, and caste-based organizations maintained records, audited funds, and ensured that donations aligned with ethical norms. In both Digambara and Śvetāmbara traditions, charity governance is treated as a lay responsibility, not a monastic one. Monastics may advise on ethical principles, but they do not administer funds. This separation protects monks and nuns from entanglement in financial activity, which is prohibited by their vows.\n\nModern Jain charity governance incorporates legal compliance, board structures, conflict‑of‑interest policies, and impact assessment. Yet the underlying moral architecture remains rooted in classical teachings: dana must reduce harm, support spiritual development, and avoid attachment or prestige-seeking. Governance failures—such as misuse of funds, coercive fundraising, or opaque decision-making—are considered violations of lay ethics and are addressed through community review, legal mechanisms, and guidance from qualified scholars or elders.\n\nAcross traditions, charity governance is understood as a disciplined practice requiring humility, prudence, and continuous reflection. It is not simply about distributing resources but about cultivating virtues, sustaining community institutions, and ensuring that charitable actions genuinely reduce suffering without creating new forms of harm or dependency.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 7.11",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "दानं शीलं तपो भावो ज्ञानं च",
+      "transliteration": "dānaṃ śīlaṃ tapo bhāvo jñānaṃ ca",
+      "translation": "“Charity, conduct, austerity, disposition, and knowledge are virtues.”",
+      "notes": "This sutra is frequently cited in discussions of dana governance. Commentaries (B) emphasize that dana must be administered without violence, deceit, or attachment, and must be directed toward ethically appropriate recipients."
+    },
+    {
+      "title": "Ācārāṅga Sūtra I.1",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "“Non‑violence is the highest dharma.”",
+      "notes": "Although often quoted broadly, in context the text frames all actions—including charitable administration—as extensions of non‑violence. Governance structures must ensure that dana does not indirectly cause harm."
+    },
+    {
+      "title": "Śrāvakācāra (various versions)",
+      "author": "Digambara and Śvetāmbara lay conduct manuals",
+      "original_text": "दानेन जीवदयां कुर्वीत",
+      "transliteration": "dānena jīvadayāṃ kurvīta",
+      "translation": "“Through charity, one should practice compassion toward living beings.”",
+      "notes": "Lay conduct texts specify that charity governance is a lay duty. They warn against mismanagement, prestige-seeking, and coercive fundraising, emphasizing transparency and ethical oversight."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Charity governance in Jainism is purely administrative and unrelated to spiritual practice.",
+      "reality": "Jain texts treat dana as a virtue requiring ethical intention, non‑violence, and non‑possessiveness. Governance is considered part of lay spiritual discipline."
+    },
+    {
+      "myth": "Monks and nuns directly manage charitable funds and institutions.",
+      "reality": "All major Jain traditions prohibit monastics from handling money. Governance is a lay responsibility, though monastics may offer ethical guidance."
+    },
+    {
+      "myth": "Any charitable act automatically generates merit regardless of how funds are managed.",
+      "reality": "Primary texts and commentaries stress that dana must be governed transparently, without deceit, coercion, or attachment. Poor governance can negate the intended ethical benefit."
+    }
+  ]
+}

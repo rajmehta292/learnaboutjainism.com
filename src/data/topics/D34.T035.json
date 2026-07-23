@@ -1,0 +1,55 @@
+{
+  "overview": "In Jain studies, \"date confidence\" refers to the degree of reliability with which scholars, archivists, and traditional historians assign a chronological date to texts, inscriptions, images, lineages, and events. Because Jainism spans more than two millennia of literary, ritual, and philosophical production, the ability to assess how securely a given item can be placed in time is crucial for reconstructing doctrinal development, sectarian history, and the evolution of practice.\n\nDate confidence is usually expressed along a spectrum rather than as a simple yes/no judgment. At the highest level are materials whose dates are fixed by internal colophons, synchronisms with well-documented political events, or inscriptions that include regnal years, eras (such as Vikrama or Śaka), and clear geographic references. Slightly lower confidence attaches to items whose dating depends on stylistic comparison, paleography, or references to teachers and lineages whose approximate periods are known from other sources. At the lowest end are texts and artifacts whose dates are inferred only from language layers, doctrinal assumptions, or later tradition, and for which multiple plausible ranges remain open.\n\nIn Jain manuscript culture, date confidence is shaped by several technical factors. Colophons may record the year, month, and day of copying, the patron, the scribe, and the place of production, but these entries can be damaged, ambiguous, or written in regional numeral systems that require specialized interpretation. The use of different calendrical eras, occasional scribal errors, and later corrections or overwriting can further complicate matters. Scholars therefore cross-check colophon data with paleographic analysis (forms of akṣaras, ink and paper types), codicology (binding, folio format, ornamentation), and comparison with securely dated manuscripts from the same region.\n\nFor inscriptions on stone, metal, or painted images, date confidence often depends on the clarity of the engraved numerals, the mention of rulers or officials, and the linguistic register. Jain donative inscriptions may refer to kings, local elites, or known historical campaigns, allowing correlation with external epigraphic corpora. When such anchors are absent, researchers rely on script style (e.g., early Brāhmī, Nāgarī variants), iconographic features of Jina images, and formulaic phrases that change over time. Each of these methods carries its own margin of error, which must be explicitly acknowledged when assigning a date.\n\nDate confidence also plays a central role in debates about the chronology of major Jain authors and sectarian formations. For example, the relative ordering of canonical redactions, commentarial traditions, and reform movements (such as Sthānakavāsī or Terāpanth) depends on how securely we can date key texts, council events, and inscriptions. Where evidence is strong, scholars can trace doctrinal shifts—such as changing interpretations of karma, gunasthāna, or ritual practice—across time. Where evidence is weak or conflicting, responsible historiography marks the relevant dates as approximate, offers alternative scenarios, and refrains from using speculative chronology as the basis for normative claims.\n\nFrom a methodological perspective, date confidence requires clear separation between primary data, scholarly inference, and later community memory. Primary data include colophons, inscriptions, and contemporaneous records. Scholarly inference uses these data to construct timelines, often with explicit confidence levels (e.g., \"secure,\" \"probable,\" \"possible,\" \"highly uncertain\"). Community memory—stories about when a text was composed or a lineage founded—may preserve valuable hints but must be tested against verifiable evidence. In a source-grounded Jain study framework, each chronological claim is mapped to its supporting tier of evidence, and disagreements or gaps are openly displayed.\n\nFinally, date confidence has ethical implications. Overstating certainty about dates can distort the perceived antiquity or authority of particular sects, texts, or practices, sometimes fueling intra-community competition or marginalizing later developments as \"less authentic.\" Understating or ignoring chronological nuance can flatten the rich historical diversity of Jain thought. A careful approach respects both traditional narratives and critical methods, encourages consultation with qualified historians and manuscript experts, and treats date confidence as a transparent, revisable assessment rather than a fixed dogma.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः ।",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ.",
+      "translation": "Right faith, right knowledge, and right conduct are the path to liberation.",
+      "notes": "The dating of the Tattvārthasūtra illustrates issues of date confidence. Traditional accounts place Umāsvāti in the early centuries CE, but precise dating relies on comparative philosophical references, language features, and manuscript evidence rather than explicit colophons from the author’s time. Different scholars propose ranges from the 2nd to the 5th century CE, and responsible historiography marks this as a high-confidence range rather than a single fixed year."
+    },
+    {
+      "title": "Kalpasūtra (Śvetāmbara canonical text)",
+      "author": "Traditionally attributed to Bhadrabāhu",
+      "original_text": "इह भवति भगवाञ्छ्रीमहावीरः…",
+      "transliteration": "iha bhavati bhagavāñ śrīmahāvīraḥ…",
+      "translation": "Here is described the Blessed Lord Śrī Mahāvīra…",
+      "notes": "The Kalpasūtra contains narrative material about Mahāvīra’s life and is recited annually during Paryuṣaṇa. Its composition and redaction history are complex. Manuscript colophons provide copying dates, but not the original composition date. Scholars use linguistic analysis, intertextual references, and comparison with other Śvetāmbara canonical strata to propose relative chronology, often expressing date confidence as a range and noting areas of disagreement."
+    },
+    {
+      "title": "Inscriptions using the Vikrama era (various Jain temple and image inscriptions)",
+      "author": "Multiple donors and scribes",
+      "original_text": "विक्रमसंवत् १२३४ वर्षे…",
+      "transliteration": "vikrama-saṃvat 1234 varṣe…",
+      "translation": "In the year 1234 of the Vikrama era…",
+      "notes": "Jain inscriptions that explicitly mention Vikrama or Śaka years provide relatively high date confidence, assuming the numerals are legible and the era is correctly identified. Scholars still cross-check script style and historical context, but such inscriptions serve as anchors for dating associated images, temples, and sometimes local textual traditions. Ambiguities arise when numerals are damaged or when the era is not specified, requiring cautious interpretation."
+    },
+    {
+      "title": "Manuscript colophons from Śvetāmbara and Digambara libraries",
+      "author": "Various scribes",
+      "original_text": "संवत् १५८९ कार्तिके शुक्लपक्षे द्वादश्यां लिखितं…",
+      "transliteration": "saṃvat 1589 kārtike śukla-pakṣe dvādaśyāṃ likhitaṃ…",
+      "translation": "Written in the year 1589 of the era, on the twelfth day of the bright fortnight of Kārtika…",
+      "notes": "Such colophons provide specific copying dates, but not necessarily the date of original composition. Date confidence for the manuscript as an artifact is high, while the text’s composition date may remain earlier and less certain. Scholars distinguish between the date of the witness (manuscript) and the hypothetical date of the archetype or author, marking each with its own confidence level."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Every traditional date given for a Jain text or event is fixed and beyond question.",
+      "reality": "Traditional dates are important and deserve respect, but they often arise from later memory, sectarian narratives, or approximate calculations rather than contemporaneous documentation. Source-grounded study distinguishes between high-confidence dates supported by inscriptions or colophons and approximate dates based on tradition, presenting both clearly and noting where evidence is limited or contested."
+    },
+    {
+      "myth": "If a manuscript has a clear colophon date, that date automatically applies to the original composition of the text.",
+      "reality": "A colophon usually records the date when a particular copy was written, not when the text was first composed. Texts can circulate for centuries before surviving manuscripts are produced. Responsible dating separates the copying date (often high confidence) from the composition date (often lower confidence and inferred from language, doctrinal context, and intertextual references)."
+    },
+    {
+      "myth": "Stylistic or paleographic analysis alone can give exact years for Jain inscriptions and manuscripts.",
+      "reality": "Script style, ornamentation, and language provide valuable clues, but they typically yield approximate ranges rather than exact years. Regional variation, conservative scribal habits, and overlapping styles mean that paleography must be combined with other evidence—such as explicit dates, references to rulers, or securely dated comparative material—to reach a balanced assessment of date confidence."
+    },
+    {
+      "myth": "Higher date confidence automatically makes a text or practice more authoritative or spiritually superior.",
+      "reality": "Date confidence is a historical and methodological tool, not a measure of spiritual worth. A later text or practice can be deeply insightful and central to a community’s living tradition, even if its origins are more recent or less precisely dated. Using chronology to rank spiritual value can distort both history and practice; instead, evidence-based dating should coexist with respectful engagement with all periods of Jain thought."
+    }
+  ]
+}

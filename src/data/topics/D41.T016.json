@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “image conventions” refers to the rules, norms, and symbolic frameworks governing the depiction of Jinas (Tīrthaṅkaras), attendant deities, and ancillary figures in manuscripts, temple sculpture, painted panels, and modern pedagogical materials. These conventions are not arbitrary artistic choices; they arise from doctrinal commitments to non-anthropomorphic representation, the idealization of liberated beings, and the strict differentiation between Jinas and worldly figures. Across Digambara and Śvetāmbara traditions, image conventions serve as a visual theology: they encode metaphysical claims about omniscience, passionlessness, and equality of all liberated beings.\n\nThe most fundamental convention is the non-individualization of Jinas. Primary texts emphasize that liberated beings are free from all bodily marks of individuality, emotion, or caste. As a result, Jain images portray Jinas with standardized features: symmetrical posture, serene expression, absence of ornamentation (especially in Digambara practice), and a uniform bodily ideal. Identification of specific Jinas is achieved not through facial features but through auxiliary symbols such as lāñchana (emblems), attendant yakṣa–yakṣiṇī pairs, and narrative context.\n\nAnother major convention concerns posture. The two canonical postures—padmāsana (lotus posture) and kāyotsarga (standing abandonment of the body)—are grounded in scriptural descriptions of meditation. These postures visually communicate the Jina’s complete detachment from bodily sensation and worldly activity. The conventions also regulate the depiction of clothing, jewelry, and bodily proportions. Digambara images follow strict nudity conventions to signify total renunciation, while Śvetāmbara images may include minimal clothing but avoid worldly ornamentation for Jinas.\n\nManuscript traditions introduce additional conventions: halo types, color coding, hierarchical scaling, and narrative sequencing. Illustrated Kalpasūtra manuscripts, for example, use consistent iconographic markers to distinguish Mahāvīra, Pārśvanātha, and other figures. These conventions help readers navigate complex narrative cycles while maintaining doctrinal accuracy.\n\nOverall, image conventions function as a visual grammar that preserves doctrinal integrity, prevents anthropomorphic misinterpretation, and ensures continuity across centuries of Jain artistic production. They also serve as a pedagogical tool, enabling lay practitioners to recognize and correctly interpret sacred imagery without relying on textual expertise.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "निर्माणचेष्टारहिताः सिद्धाः",
+      "transliteration": "nirmāṇa-ceṣṭā-rahitāḥ siddhāḥ",
+      "translation": "Liberated beings are without bodily activity or creative action.",
+      "notes": "This passage (Tattvārthasūtra 10.1) underlies the convention that Jinas must be depicted without expressive gestures, emotional features, or individualized bodily traits."
+    },
+    {
+      "title": "Kalpasūtra",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "तत्थएव णिस्सहाए महावीरस्स काए",
+      "transliteration": "tattha-eva nissahāe Mahāvīrassa kāe",
+      "translation": "There, Mahāvīra remained detached in his body.",
+      "notes": "Descriptions of Mahāvīra’s meditation and detachment inform conventions of kāyotsarga posture and the serene, passionless facial expression in Śvetāmbara manuscript art."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Anonymous (canonical text)",
+      "original_text": "समणो महावीरो णिअग्गो णिस्सहाओ",
+      "transliteration": "samaṇo Mahāvīro ṇi-aggo ṇissahāo",
+      "translation": "The ascetic Mahāvīra was without attachment and without possessions.",
+      "notes": "This supports Digambara conventions of nudity for Jina images, symbolizing complete non-possession and detachment."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jina images differ because each Tīrthaṅkara had a distinct physical appearance.",
+      "reality": "Primary texts emphasize that liberated beings are free from individuality and bodily distinction. Differences in images arise from symbolic markers (lāñchana, attendant deities), not physical traits."
+    },
+    {
+      "myth": "Ornamentation on some Śvetāmbara images indicates worldly status or hierarchy among Jinas.",
+      "reality": "Śvetāmbara conventions allow minimal clothing but do not attribute worldly ornamentation to Jinas. Any decorative elements typically belong to the surrounding architectural frame, not the Jina’s body."
+    },
+    {
+      "myth": "The presence of color or halos in manuscripts implies emotional or supernatural attributes.",
+      "reality": "Color coding and halo styles are manuscript conventions for clarity and hierarchy, not doctrinal claims about the Jina’s emotional state or supernatural radiance."
+    }
+  ]
+}

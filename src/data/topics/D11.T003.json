@@ -1,0 +1,43 @@
+{
+  "overview": "Sasadana (also spelled *Sasādana*, *Sasaadana*) is a technical term in Jain karma theory describing a critical transitional state in the soul’s spiritual decline. It appears within the framework of the **Gunasthanas**, the fourteen stages of spiritual development outlined in both Digambara and Śvetāmbara traditions. Sasadana is specifically associated with the **fourth gunasthana (Avirata Samyagdrsti)** and marks the moment when a soul that previously possessed *samyagdarśana* (right faith) begins to lose its stability and slips toward *mithyātva* (wrong faith). \n\nIn classical Jain metaphysics, right faith is considered a foundational spiritual attainment. Sasadana represents the precarious point at which the karmic forces obscuring right faith intensify, causing the soul to “fall” from its earlier clarity. This fall is not instantaneous; Sasadana is the intermediate condition between stable right faith and its complete loss. The term literally conveys “falling down” or “slipping,” emphasizing its transitional nature. \n\nBoth major traditions agree on the conceptual role of Sasadana but differ slightly in classification. Śvetāmbara texts typically place Sasadana as a sub‑state within the fourth gunasthana, while Digambara sources often describe it as a distinct karmic condition preceding the descent to the first gunasthana. Across traditions, Sasadana is treated as a cautionary doctrinal category illustrating how subtle fluctuations in faith can dramatically alter the soul’s spiritual trajectory. \n\nPhilosophically, Sasadana highlights the fragility of spiritual progress and the dynamic nature of karmic influx (*āsrava*) and bondage (*bandha*). It is not a moral judgment but a technical description of karmic processes. Modern scholarship interprets Sasadana as an example of Jainism’s psychological sophistication, mapping inner states of conviction, doubt, and instability with remarkable precision.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "ससादनं च",
+      "transliteration": "sasādanaṃ ca",
+      "translation": "“And there is also the state of Sasadana.”",
+      "notes": "This brief sutra (Tattvārtha Sūtra 4.47 in many editions) identifies Sasadana as one of the conditions related to the instability of right faith. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārthavṛtti* (Śvetāmbara) elaborate on its role as the transitional fall from right faith."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra)",
+      "author": "Pūjyapāda",
+      "original_text": "ससादनं सम्यग्दर्शनस्य पतनावस्था",
+      "transliteration": "sasādanaṃ samyagdarśanasya patanāvasthā",
+      "translation": "“Sasadana is the condition of the fall of right faith.”",
+      "notes": "Pūjyapāda clarifies that Sasadana is not itself wrong faith but the moment of slipping from right faith due to the rise of deluding karmas."
+    },
+    {
+      "title": "Pravacanasāra (with Digambara commentarial tradition)",
+      "author": "Kundakunda",
+      "original_text": "अविरतसम्यग्दृष्टेः ससादनं भवति",
+      "transliteration": "avirat-samyag-dṛṣṭeḥ sasādanaṃ bhavati",
+      "translation": "“Sasadana occurs in the stage of right faith without vows.”",
+      "notes": "Although Kundakunda does not systematize the gunasthanas in the same way as later texts, Digambara commentators use his framework to explain Sasadana as a transitional karmic condition."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sasadana is the same as complete loss of right faith (mithyātva).",
+      "reality": "Sasadana is a transitional state. The soul has not yet reached full wrong faith but is slipping from right faith due to rising deluding karmas."
+    },
+    {
+      "myth": "Sasadana is a moral failing or a sin.",
+      "reality": "Jain texts treat Sasadana as a technical karmic condition, not a moral judgment. It describes the dynamics of karmic obscuration affecting spiritual clarity."
+    },
+    {
+      "myth": "All traditions classify Sasadana identically within the gunasthanas.",
+      "reality": "Śvetāmbara and Digambara traditions agree on its meaning but differ slightly in placement and emphasis within the gunasthana system."
+    }
+  ]
+}

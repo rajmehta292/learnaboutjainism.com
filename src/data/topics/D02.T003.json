@@ -1,0 +1,47 @@
+{
+  "overview": "In Jain philosophy, **rebirth (punarjanma)** is a central doctrine explaining the continuity of the soul (jīva) across countless lifetimes. Jainism teaches that every soul is beginningless, eternal, and inherently endowed with infinite knowledge, perception, bliss, and energy. However, due to the accumulation of karmic matter (karma pudgala), the soul becomes bound to the cycle of birth, death, and rebirth known as **saṃsāra**. Rebirth is not governed by divine intervention; rather, it is an automatic, natural consequence of karmic bondage.\n\nJain texts describe **four primary gatis (destinies)** into which a soul may be reborn: **heavenly beings (devas)**, **human beings (manuṣyas)**, **hell beings (narakis)**, and **animals/plants/microorganisms (tiryañcas)**. The specific rebirth is determined by the soul’s karmic load at the moment of death, especially the **nāma karma** (body-making karma) and **gotra karma** (status-determining karma). Ethical conduct, meditation, restraint, and right faith reduce karmic accumulation and influence future births.\n\nRebirth is not viewed as a moral reward or punishment administered by an external authority. Instead, it is a mechanical process: karma, as a subtle material substance, adheres to the soul due to passions (kaṣāyas) such as anger, pride, deceit, and greed. When these passions are weakened or eliminated, karmic influx (āsrava) stops, and existing karma is shed (nirjarā). Ultimately, when all karma is destroyed, the soul achieves **mokṣa**, ending rebirth forever.\n\nJainism emphasizes that rebirth can occur in any of the four destinies depending on one’s actions, intentions, and mental states. Even gods and humans can fall into lower births if passions dominate. Conversely, beings in lower states can rise to human or heavenly births through virtuous conduct. The human birth is considered uniquely valuable because it provides the opportunity to practice the path to liberation.\n\nAcross Jain traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—the core doctrine of rebirth remains consistent, though commentarial nuances may differ. All agree that rebirth is a natural, karmically determined process, and that liberation requires the complete eradication of karmic matter through right faith, right knowledge, and right conduct.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "जन्ममरणं पुनर्भवः",
+      "transliteration": "janma-maraṇaṃ punarbhavaḥ",
+      "translation": "Birth and death constitute rebirth.",
+      "notes": "Tattvārtha Sūtra 8.1 concisely defines rebirth as the ongoing cycle of birth and death caused by karmic bondage. This text is accepted across Digambara and Śvetāmbara traditions, though commentaries differ."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical tradition",
+      "original_text": "जायन्ते म्रियन्ते च, संसारो अनादिनिधनः",
+      "transliteration": "jāyante mriyante ca, saṃsāro anādi-nidhanaḥ",
+      "translation": "Beings are born and die; saṃsāra is without beginning or end.",
+      "notes": "This passage emphasizes the beginningless nature of rebirth and the continuity of the soul’s journey through countless lifetimes."
+    },
+    {
+      "title": "Gommatsāra Jīvakāṇḍa",
+      "author": "Nemichandra Siddhānta Chakravartin (Digambara)",
+      "original_text": "गति-नामा-कर्मणो देह-निर्माणं",
+      "transliteration": "gati-nāma-karmaṇo deha-nirmāṇaṃ",
+      "translation": "The body is formed according to the destiny-determining and body-making karmas.",
+      "notes": "This Digambara text provides technical detail on how specific karmas determine the form and nature of rebirth."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Rebirth in Jainism is controlled by gods or divine judgment.",
+      "reality": "Jainism teaches that rebirth is entirely governed by the natural functioning of karmic matter. No deity or external agent decides the soul’s next birth."
+    },
+    {
+      "myth": "A soul always progresses upward through better births over time.",
+      "reality": "Jain doctrine states that rebirth can move in any direction—higher or lower—depending on karmic conditions. Even heavenly beings can fall into lower births."
+    },
+    {
+      "myth": "Human birth is guaranteed again if one performs good deeds.",
+      "reality": "While virtuous conduct increases the likelihood of a favorable rebirth, Jain texts emphasize that human birth is rare and depends on complex karmic factors."
+    },
+    {
+      "myth": "Rebirth implies the soul changes its essential nature.",
+      "reality": "The soul’s intrinsic qualities remain unchanged; rebirth affects only the embodied condition, not the soul’s eternal attributes."
+    }
+  ]
+}

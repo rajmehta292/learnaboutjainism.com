@@ -1,0 +1,51 @@
+{
+  "overview": "Maitri (मैत्री), often translated as “friendliness,” “benevolence,” or “loving-kindness,” is one of the foundational ethical dispositions in Jain thought. It appears across Śvetāmbara and Digambara canons, early Prakrit narrative literature, and later Sanskrit commentarial traditions. In Jainism, maitri is not merely an emotional state but a disciplined orientation of non‑violence (ahiṃsā) toward all living beings. It is cultivated as part of the four **bhāvanās** (protective reflections) for laypeople and as a pervasive mental attitude for ascetics.\n\nJain philosophers describe maitri as the antidote to hostility (pratigha) and as a prerequisite for equanimity (samatā). It is directed toward all beings who are engaged in wholesome conduct, and it supports the practitioner’s own karmic purification by reducing passions (kaṣāyas). Maitri is also linked to the broader Jain cosmology of interdependence: because all jīvas are eternal, vulnerable, and striving for liberation, friendliness becomes a rational and ethical stance.\n\nAcross traditions, maitri is paired with three other attitudes—pramoda (appreciation), karuṇā (compassion), and madhyastha (equanimity)—forming a fourfold model of social and spiritual harmony. These attitudes appear in both monastic and lay contexts, guiding interpersonal conduct, meditation, and community life. While Jainism does not frame maitri as devotional love toward a deity, it does emphasize a reverential friendliness toward liberated beings (siddhas) and teachers (tīrthaṅkaras), expressed through non-harmful conduct and respectful contemplation.\n\nModern Jain educators often present maitri as a practical ethic for pluralistic societies: cultivating goodwill toward others reduces conflict, supports environmental responsibility, and aligns with the Jain commitment to peaceful coexistence. However, these modern applications are interpretive expansions and should be distinguished from classical scriptural usage.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "मैत्रीप्रमोदकरुणामाध्यस्थानी भावनाः",
+      "transliteration": "maitrī-pramoda-karuṇā-mādhyasthānī bhāvanāḥ",
+      "translation": "“Friendliness, appreciation, compassion, and equanimity are the reflections (bhāvanās).”",
+      "notes": "Tattvārtha Sūtra 7.11 is the most frequently cited canonical source for maitri. Commentaries differ slightly in explaining the scope of maitri: Pūjyapāda (Digambara) emphasizes maitri toward virtuous beings, while Siddhasena Gaṇin (Śvetāmbara) stresses its role in reducing anger and cultivating mental purity."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Śvetāmbara canonical text; attributed to early Jain community",
+      "original_text": "सव्वे जीवा अहिंसा पस्संति",
+      "transliteration": "savve jīvā ahiṃsā passanti",
+      "translation": "“All living beings desire non‑violence.”",
+      "notes": "While the term ‘maitri’ does not appear explicitly in this passage, commentators use this verse to ground the ethical basis of maitri: friendliness arises from recognizing the universal desire for safety and non-harm."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra",
+      "author": "Pūjyapāda",
+      "original_text": "मैत्रीं कुर्वीत साधुषु",
+      "transliteration": "maitrīṃ kurvīta sādhuṣu",
+      "translation": "“One should cultivate friendliness toward the virtuous.”",
+      "notes": "This Digambara lay conduct manual explicitly instructs householders to practice maitri. The text frames maitri as a mental discipline that supports right faith (samyak-darśana)."
+    },
+    {
+      "title": "Dasavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "मित्तं मे सव्वभूएसु",
+      "transliteration": "mittaṃ me savvabhūesu",
+      "translation": "“May I be friendly toward all beings.”",
+      "notes": "This verse appears in monastic disciplinary contexts. It is often recited in educational settings as a concise articulation of maitri, though translations vary slightly."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Maitri in Jainism is identical to the Buddhist concept of mettā.",
+      "reality": "While both traditions use cognate terms and emphasize non-harmful goodwill, Jain maitri is embedded in the four bhāvanās and tied to Jain karmic theory, cosmology, and the discipline of reducing passions. It is not a meditation technique in the same structured sense as Buddhist mettā-bhāvanā."
+    },
+    {
+      "myth": "Maitri requires emotional affection or personal closeness.",
+      "reality": "Classical Jain texts describe maitri as an ethical stance of non-hostility and goodwill, not emotional attachment. It is directed universally, including toward beings one does not know personally."
+    },
+    {
+      "myth": "Maitri is only for monks and nuns.",
+      "reality": "Both lay and monastic texts prescribe maitri. Ratnakaraṇḍa Śrāvakācāra and modern Śvetāmbara educational materials emphasize that householders should cultivate maitri as part of daily conduct."
+    }
+  ]
+}

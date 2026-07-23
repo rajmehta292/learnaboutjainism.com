@@ -1,0 +1,43 @@
+{
+  "overview": "Sectarian commentary in Jainism refers to the interpretive literature produced within specific Jain traditions—primarily Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Śvetāmbara Terāpanth—to explain, defend, and systematize doctrinal positions. These commentaries arise from shared canonical or quasi-canonical foundations but diverge in hermeneutics, textual lineages, ritual assumptions, and philosophical emphases. Sectarian commentary is not merely exegetical; it is a historical record of how communities negotiated authority, practice, and identity.\n\nAcross Jain history, commentary traditions developed to clarify Prakrit and Sanskrit scriptures, resolve doctrinal disputes, and articulate sect-specific interpretations of karma theory, vows, cosmology, and monastic discipline. Digambara scholars often emphasize the primacy of texts like the Ṣaṭkhaṇḍāgama and Kaṣāyapāhuda, while Śvetāmbara traditions rely on the Āgamas and their medieval Sanskrit commentaries. Sthānakavāsī and Terāpanth commentaries focus on non-iconic practice, ethical discipline, and reformist hermeneutics.\n\nSectarian commentary is shaped by manuscript transmission, regional intellectual cultures, and debates over authenticity. For example, Digambara and Śvetāmbara traditions disagree on the survival of the original canon after the early councils, leading to distinct exegetical corpora. Later commentaries often respond to rival sectarian claims, creating layered interpretive histories. Modern scholarship continues to analyze these traditions to understand how sectarian identity and textual authority evolved over centuries.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti/Umāsvāmi (sectarian attribution varies)",
+      "original_text": "तत्त्वार्थसूत्रम् १.१: सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "tattvārthasūtram 1.1: samyagdarśanajñānacāritrāṇi mokṣamārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct are the path to liberation.",
+      "notes": "This aphorism is interpreted differently across sects. Digambara commentators such as Pūjyapāda (Sarvārthasiddhi) emphasize the inseparability of the three jewels, while Śvetāmbara commentators like Siddhasena Gaṇin provide alternative sequencing and ritual implications. Sectarian commentary on this text is foundational for understanding divergent doctrinal frameworks."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (with Dhavalā commentary)",
+      "author": "Text attributed to Puṣpadanta and Bhūtabali; Dhavalā by Vīrasena",
+      "original_text": "Example verse (paraphrased due to length): Discussion of karma categories and bondage mechanisms.",
+      "transliteration": "N/A (paraphrased)",
+      "translation": "A detailed analysis of the modes of karmic influx and bondage, distinguishing subtle gradations of intention and activity.",
+      "notes": "The Dhavalā is a Digambara commentary of exceptional complexity. It provides technical elaboration on karma theory not found in Śvetāmbara sources, illustrating how sectarian commentary expands doctrinal detail."
+    },
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "Example gāthā (paraphrased): Verses on repentance and daily discipline.",
+      "transliteration": "N/A (paraphrased)",
+      "translation": "A verse describing the centrality of repentance and mindfulness in daily practice.",
+      "notes": "Śvetāmbara Mūrti-pūjaka and Sthānakavāsī traditions interpret the Āvaśyaka corpus differently. Later commentaries by Haribhadra, Malayagiri, and others reflect sectarian priorities regarding ritual, meditation, and scriptural authority."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sectarian commentaries contradict each other because Jainism is fundamentally fragmented.",
+      "reality": "While sectarian commentaries differ, they share core metaphysical principles such as nonviolence, karma theory, and liberation. Divergences arise from historical transmission, hermeneutics, and monastic practice—not from a lack of shared foundations."
+    },
+    {
+      "myth": "Only one sect preserves the authentic meaning of early Jain scriptures.",
+      "reality": "No sect possesses complete textual continuity from Mahāvīra’s time. Each tradition preserves partial lineages shaped by councils, regional manuscript cultures, and interpretive needs. Sectarian commentaries reflect these histories rather than exclusive authenticity."
+    },
+    {
+      "myth": "Sectarian commentary is purely polemical and lacks philosophical value.",
+      "reality": "Many commentaries—Digambara, Śvetāmbara, and reformist—contain rigorous philosophical analysis, linguistic scholarship, and ethical reflection. They are essential for understanding how Jain thought developed across centuries."
+    }
+  ]
+}

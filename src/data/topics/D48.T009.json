@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “vocabulary progression” refers to the structured development of terminology as a student advances from foundational concepts to increasingly technical doctrinal language. Because Jainism spans multiple linguistic traditions—Ardhamāgadhī, Śaurasenī, Sanskrit, Apabhraṃśa, and modern vernaculars—its pedagogy often emphasizes a gradual, layered acquisition of terms. Early instruction typically begins with ethical and devotional vocabulary (ahiṃsā, anukampā, samyak-darśana), then moves toward doctrinal categories (jīva, ajīva, pudgala, dharma-dravya), and finally to highly technical terms used in karma theory, cosmology, and the guṇasthāna system (leśyā, paryāya, saṃprāpti, bandha, saṃvara, nirjarā).\n\nAcross traditions, vocabulary progression is not merely linguistic but conceptual: terms are introduced in a sequence that mirrors the learner’s ability to understand increasingly subtle metaphysics. For example, introductory texts may use simplified glosses for karma categories, while advanced treatises require familiarity with precise Prakrit or Sanskrit terminology. Digambara and Śvetāmbara lineages share many core terms but may differ in preferred lexical forms, commentarial usage, or interpretive nuance. Modern Jain education programs often incorporate bilingual glossaries to help students navigate the shift from vernacular explanations to canonical terminology.\n\nIn academic contexts, vocabulary progression also reflects the movement from descriptive categories (e.g., “nonviolence,” “restraint”) to technical classifications found in canonical literature (e.g., pratimā stages, guṇasthāna levels, karma subtypes). Scholars emphasize that understanding Jain doctrine requires careful attention to the original lexical forms, since small differences in Prakrit or Sanskrit morphology can signal major doctrinal distinctions. Thus, vocabulary progression is both a pedagogical method and a hermeneutic discipline, guiding learners toward accurate comprehension of Jain philosophical systems.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Nonviolence is the supreme dharma.",
+      "notes": "This widely cited Sanskrit aphorism illustrates early-stage vocabulary used to introduce ethical foundations. Although the phrase appears in multiple Jain contexts, its pedagogical role is to anchor beginners in core terminology before progressing to more technical doctrinal vocabulary."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara canon)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "जिवा विरायरा",
+      "transliteration": "jīvā virāyarā",
+      "translation": "Living beings are to be protected.",
+      "notes": "This Ardhamāgadhī passage introduces foundational ethical vocabulary. It is often used in early instruction before students encounter more complex terms related to cosmology or karma theory."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara canon)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "बंधो नाम कर्मणां संयोगः",
+      "transliteration": "bandho nāma karmaṇāṃ saṃyogaḥ",
+      "translation": "Bondage is the conjunction of karmic particles with the soul.",
+      "notes": "This passage exemplifies advanced doctrinal vocabulary. Students typically encounter such terminology only after mastering foundational ethical and metaphysical terms."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Vocabulary progression is simply memorizing lists of Jain terms.",
+      "reality": "In Jain pedagogy, vocabulary progression is conceptual: terms are introduced in a sequence that reflects increasing doctrinal depth, not mere memorization."
+    },
+    {
+      "myth": "All Jain traditions use identical terminology.",
+      "reality": "While core concepts overlap, Digambara and Śvetāmbara traditions may use different lexical forms, commentarial glosses, or preferred Prakrit/Sanskrit variants."
+    },
+    {
+      "myth": "Modern translations eliminate the need to learn Prakrit or Sanskrit terms.",
+      "reality": "Many doctrinal distinctions depend on precise lexical forms; advanced study requires familiarity with original terminology to avoid interpretive errors."
+    }
+  ]
+}

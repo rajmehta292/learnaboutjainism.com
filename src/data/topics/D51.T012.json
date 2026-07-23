@@ -1,0 +1,47 @@
+{
+  "overview": "In the context of Jain studies and manuscript preservation, \"HTR\" most commonly refers to \"Handwritten Text Recognition\"—a family of computational methods used to automatically transcribe handwritten documents from images into machine-readable text. While HTR is not a traditional Jain doctrinal term, it has become increasingly important in the History and Manuscript domain, where large collections of Jain palm-leaf and paper manuscripts in Prakrit, Sanskrit, and regional languages are being digitized.\n\nJain manuscript traditions are vast, encompassing canonical texts, commentaries, ritual manuals, narrative literature, and scholastic works preserved over centuries in libraries, bhandars, and private collections. Historically, access to these materials required physical travel, specialized paleographic training, and careful handling of fragile manuscripts. With the rise of digital imaging, high-resolution scans of folios can be shared globally, but the texts remain locked in image form unless they are transcribed. HTR aims to bridge this gap by learning the visual patterns of specific scripts (such as Devanagari, Śāradā, Jaina Nāgarī, Gujarati, or Modi) and producing a tentative transcription that scholars can correct and refine.\n\nFor Jain studies, HTR is particularly relevant because many primary sources exist only in manuscript form or in rare printed editions. Accurate recognition of handwritten text can accelerate the creation of critical editions, concordances, and searchable corpora of canonical and commentarial literature. It also supports comparative work across Digambara and Śvetāmbara traditions, enabling researchers to trace textual variants, transmission histories, and doctrinal developments. However, HTR outputs must be treated as provisional: they are tools to assist human experts, not replacements for philological judgment.\n\nTechnically, HTR systems rely on machine learning models trained on labeled examples—images of manuscript lines paired with correct transcriptions. For Jain materials, this requires collaboration between computer scientists, philologists, and traditional scholars who can provide accurate ground truth data. Challenges include faded ink, damaged folios, non-standard ligatures, scribal abbreviations, and mixed-script documents. Ethical questions also arise: how to respect the custodial communities, avoid misrepresentation of sacred texts, and ensure that digital access does not undermine local traditions of stewardship.\n\nIn modern Jain ethics and practice, HTR sits at the intersection of preservation, accessibility, and responsibility. It can help safeguard endangered manuscripts by reducing the need for repeated physical handling, and it can open primary sources to students and lay readers who would otherwise never see them. At the same time, the use of automated recognition must be transparent about its limitations, clearly distinguishing between verified text and machine-generated hypotheses. In this way, HTR becomes part of a broader, carefully supervised effort to honor Jain textual heritage while using contemporary tools to study and share it.",
+  "primary_sources": [
+    {
+      "title": "Kalpa Sūtra (Śvetāmbara canonical text)",
+      "author": "Traditionally attributed to Bhadrabāhu; redacted within Śvetāmbara canon",
+      "original_text": "णमो अरिहंताणं, णमो सिद्धाणं, णमो आयरियाणं, णमो उवज्झायाणं, णमो लोए सव्वसाहूणं।",
+      "transliteration": "ṇamo arihaṃtāṇaṃ, ṇamo siddhāṇaṃ, ṇamo āyariyāṇaṃ, ṇamo uvajjhāyāṇaṃ, ṇamo loe savvasāhūṇaṃ.",
+      "translation": "Homage to the Arihants, homage to the Siddhas, homage to the Ācāryas, homage to the Upādhyāyas, homage to all the Sādhus in the world.",
+      "notes": "This canonical Prakrit verse (the Navakāra or Namaskāra mantra) appears in numerous Jain manuscripts and printed editions. In the context of HTR, such well-known passages are often used as benchmark lines when training recognition models for Jaina Nāgarī or related scripts, because their wording is stable and widely attested. The verse itself is a Tier A primary source; HTR is a modern tool applied to its manuscript witnesses, not a doctrinal concept within the text."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally accepted across major Jain traditions)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः।",
+      "transliteration": "samyagdarśanajñānacāritrāṇi mokṣamārgaḥ.",
+      "translation": "Right faith, right knowledge, and right conduct are the path to liberation.",
+      "notes": "The Tattvārtha Sūtra is a foundational Sanskrit treatise accepted by both Digambara and Śvetāmbara traditions. Many of its manuscripts are written in various historical scripts. HTR projects often focus on such core texts because they are central to Jain philosophy and exist in multiple manuscript witnesses. The sutra itself defines the path to liberation; HTR is a modern scholarly technique used to access and compare its manuscript forms."
+    },
+    {
+      "title": "Manuscript colophons from Jain bhandars (various works)",
+      "author": "Anonymous scribes and copyists",
+      "original_text": "इदं पुस्तकं श्रीमत् जिनवाणीसम्बद्धं, लिखितं फलानेन शके वर्षे ...",
+      "transliteration": "idaṃ pustakaṃ śrīmat jinavāṇīsaṃbaddhaṃ, likhitaṃ phalānena śake varṣe ...",
+      "translation": "This book, connected with the venerable Jina’s teaching, was written by Phalāna in the Śaka year ...",
+      "notes": "Colophons in Jain manuscripts record scribes, dates, patrons, and places of copying. They are crucial for reconstructing textual history and are frequent targets for HTR because they provide structured information that can be cross-checked against other records. While each colophon is a primary historical source (Tier A/B depending on edition), HTR is the method used to transcribe and analyze them at scale."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "HTR is a traditional Jain religious term or doctrine found in canonical scriptures.",
+      "reality": "HTR is a modern abbreviation for \"Handwritten Text Recognition\" used in digital humanities and manuscript studies. It does not appear as a doctrinal category in Jain canonical texts or classical commentaries; instead, it is a contemporary technical tool applied to Jain manuscripts to aid in transcription and research."
+    },
+    {
+      "myth": "Once an HTR system has processed a Jain manuscript, its output can be treated as fully authoritative scripture without further review.",
+      "reality": "HTR outputs are provisional and require careful human verification. Machine recognition can misread characters, ligatures, and damaged portions of text, especially in complex scripts or deteriorated manuscripts. For Jain studies, any text used for teaching, practice, or scholarly argument must be checked against reliable editions and, where possible, examined by qualified experts in the relevant script and tradition."
+    },
+    {
+      "myth": "Using HTR to access Jain manuscripts removes the need for traditional training in scripts, languages, and philology.",
+      "reality": "HTR can accelerate transcription but does not replace the skills needed to interpret Prakrit, Sanskrit, and regional languages, nor the paleographic expertise required to understand scribal habits and manuscript conventions. Responsible Jain studies still depend on linguistic competence, historical awareness, and engagement with living traditions; HTR is a supportive technology, not a substitute for deep training."
+    },
+    {
+      "myth": "Digitizing and applying HTR to Jain manuscripts is purely technical and has no ethical or community implications.",
+      "reality": "Jain manuscripts are often held by communities that regard them as sacred heritage. Decisions about digitization, access, and automated processing can affect local custodianship, devotional practices, and perceptions of authority. Ethical HTR projects involve consultation with custodial institutions, transparency about limitations, and respect for the religious significance of the texts, ensuring that technological tools serve preservation and understanding rather than exploitation or misrepresentation."
+    }
+  ]
+}

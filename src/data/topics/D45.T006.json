@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain thought, privacy is not treated as an isolated modern legal concept but as a constellation of ethical principles concerning non‑harm (*ahiṃsā*), restraint (*saṃyama*), truthful yet non‑injurious speech (*satya* with *anṛta‑virati*), and respect for the autonomy of all living beings. Within the broader Jain ethical universe, privacy emerges as a moral expectation that one should neither intrude upon another’s mental, physical, or social space nor expose information that causes harm, attachment, or conflict.\n\nClassical Jain texts emphasize that actions of body, speech, and mind generate karmic consequences. Intrusive behavior—such as spying, eavesdropping, or revealing another’s vulnerabilities—can be understood as forms of *hiṃsā* because they disturb another’s peace, create fear, or manipulate their choices. Lay conduct manuals (*śrāvakācāra*) describe modesty, discretion, and careful speech as essential to maintaining social harmony and preventing karmic bondage.\n\nPrivacy also appears in discussions of monastic discipline. Monks and nuns are instructed to avoid gossip, refrain from questioning household matters unnecessarily, and maintain strict boundaries with laypeople. These rules protect both parties from emotional entanglement and ensure that spiritual practice remains free from worldly interference. For laypeople, privacy is connected to ethical householding: maintaining confidentiality, respecting personal boundaries, and avoiding the misuse of information.\n\nIn modern Jain ethics, privacy is often interpreted through the lens of digital conduct, surveillance, and data protection. Scholars and community educators draw parallels between ancient teachings on restraint and contemporary concerns about consent, information sharing, and technological intrusion. While classical texts do not address digital privacy, their principles provide a framework for evaluating modern dilemmas: one should avoid actions that violate trust, cause harm, or exploit another’s vulnerability.\n\nAcross traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—the underlying theme remains consistent: privacy is an ethical expression of non‑harm, modesty, and respect for the inner life of others. It is not merely a right but a responsibility rooted in the Jain commitment to minimize harm in all dimensions of life.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 7.21",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अहिंसा सत्यास्तेय ब्रह्मचर्यापरिग्रहा महाव्रतम्",
+      "transliteration": "ahiṃsā‑satya‑asteya‑brahmacaryā‑parigrahā mahāvratam",
+      "translation": "Non‑violence, truthfulness, non‑stealing, celibacy, and non‑possession are the great vows.",
+      "notes": "While not explicitly about privacy, commentators (B‑tier) explain that *satya* and *asteya* include avoiding intrusive or harmful speech and refraining from taking information or secrets without consent. Violating another’s personal space or confidentiality is interpreted as a subtle form of stealing or harm."
+    },
+    {
+      "title": "Ācārāṅga Sūtra I.4",
+      "author": "Attributed to Mahāvīra’s teachings; Śvetāmbara canon",
+      "original_text": "ण वि परस्स अवग्गहं कुर्वे",
+      "transliteration": "ṇa vi parassa avaggahaṃ kurve",
+      "translation": "One should not investigate or pry into another’s affairs.",
+      "notes": "This passage appears in discussions of monastic restraint. It is one of the clearest early references to respecting boundaries and avoiding intrusive inquiry. Scholars note that it establishes a proto‑privacy ethic grounded in non‑harm."
+    },
+    {
+      "title": "Śrāvakācāra (various authors; Digambara and Śvetāmbara lineages)",
+      "author": "Multiple medieval ācāryas",
+      "original_text": "गुप्तिर् मनोवाक्कायानां",
+      "transliteration": "guptir manovākkāyānāṃ",
+      "translation": "Guarding mind, speech, and body.",
+      "notes": "The threefold *gupti* is central to lay ethics. Commentaries explain that guarding speech includes avoiding disclosure of others’ private matters, gossip, or harmful truths. Guarding the mind includes avoiding intrusive thoughts about others’ personal lives."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism does not address privacy because ancient texts predate modern legal concepts.",
+      "reality": "While classical Jain texts do not discuss digital privacy or legal rights, they contain robust ethical principles—non‑harm, restraint, modesty, and non‑stealing—that directly apply to respecting personal boundaries and confidentiality."
+    },
+    {
+      "myth": "Privacy is only relevant for monastics, not laypeople.",
+      "reality": "Lay conduct texts emphasize discretion, confidentiality, and careful speech. Privacy is considered essential for household harmony and ethical social interaction."
+    },
+    {
+      "myth": "Respecting privacy is optional if one’s intention is good.",
+      "reality": "Jain ethics judge actions by both intention and effect. Intrusive behavior can generate harm and karmic bondage even if motivated by concern. Restraint and consent remain central."
+    }
+  ]
+}

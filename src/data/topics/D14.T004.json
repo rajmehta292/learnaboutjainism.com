@@ -1,0 +1,59 @@
+{
+  "overview": "In Jainism, the \"five anuvratas\" (pañcāṇuvratāḥ) are the central ethical vows undertaken by lay followers (śrāvakas and śrāvikās) in a limited form. They mirror the five great vows (mahāvratas) of ascetics—non‑violence, truthfulness, non‑stealing, chastity, and non‑possession—but are adapted to the practical realities of household life. Together with three guṇa‑vratas (strengthening vows) and four śikṣā‑vratas (disciplinary vows), they form the classical set of twelve vows for laypeople described in both Digambara and Śvetāmbara traditions.\n\nThe term \"anu‑vrata\" literally means a smaller or lesser vow. The difference is not in the ethical ideal itself but in the degree of renunciation and strictness. Monks and nuns commit to absolute observance of the five mahāvratas, avoiding intentional harm, falsehood, theft, sexual activity, and possessions to the greatest possible extent. Lay Jains, by contrast, accept that their roles in family, society, and livelihood involve some unavoidable compromise, and therefore undertake the same five principles with carefully defined limits.\n\nClassical Jain authors emphasize that among the five anuvratas, the vow of non‑violence (ahiṃsā‑anuvrata) is foundational. Pujyapāda, in his Digambara commentary Sarvārthasiddhi, explains that the other four vows function as supports or protective fences for ahiṃsā: truthfulness prevents harmful deception; non‑stealing prevents harm through wrongful appropriation; chastity restrains passions that lead to injury; and limiting possessions curbs greed and exploitation. In this way, the five anuvratas are understood as a coherent ethical system centered on the protection of living beings.\n\nAlthough there is broad agreement across Jain sects on the list of five anuvratas, some texts differ in terminology or add auxiliary practices. For example, Kundakunda and Samantabhadra use slightly different names for the vows while preserving their meaning, and certain medieval works mention additional restraints such as avoiding food at night. These variations show the dynamic interpretation of lay ethics while maintaining the core structure of five principal vows.\n\nIn modern Jain communities, the five anuvratas continue to shape daily conduct: vegetarianism and care for micro‑organisms express ahiṃsā; honesty in business and relationships expresses satya; scrupulous respect for others’ property expresses asteya; marital fidelity expresses brahmacarya; and conscious limitation of wealth and consumption expresses aparigraha. Movements such as the Anuvrat Movement initiated by Ācārya Tulsi have re‑articulated these vows in contemporary language, encouraging laypeople—Jain and non‑Jain alike—to adopt them as universal ethical commitments. Despite such modern adaptations, the five anuvratas remain firmly rooted in classical Jain scripture and commentary as the essential path of right conduct (samyak‑cāritra) for householders.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra (also called Tattvārthādhigama)",
+      "author": "Umāsvāti / Umāsvāmi (traditionally accepted)",
+      "original_text": "अहिंसा सत्यास्तेय ब्रह्मचर्यापरिग्रहाः\nएते पञ्च महाव्रताः ।",
+      "transliteration": "ahiṃsā satyāsteya brahmacaryāparigrahāḥ\nete pañca mahāvratāḥ.",
+      "translation": "Non‑violence, truthfulness, non‑stealing, chastity, and non‑possession—these are the five great vows.",
+      "notes": "Tattvārtha Sūtra 7.1–7.2 lists the five vows in their mahāvrata form for ascetics. Later chapters and traditional commentaries explain that laypeople undertake the same five as anuvratas, with limited scope. Digambara and Śvetāmbara traditions both treat this text as a pan‑Jain philosophical compendium, and use it as a basis for describing the twelve vows of householders, where the five anuvratas are primary."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra",
+      "author": "Ācārya Samantabhadra (Digambara)",
+      "original_text": "स्वकृतानुमोदितान्यन्यकृतान्यन्यकृतान्यपि\nकायवाङ्मनसा नित्यं पञ्च पापानि वर्जयेत् ।\n\nअहिंसा सत्यमस्तेयं ब्रह्मचर्यं च पारिग्रहः\nएते पञ्चानुव्रताः श्रावकस्य निरूपिताः ।",
+      "transliteration": "svakṛtānumoditāny anyakṛtāny anyakṛtāny api\nkāyavāṅmanasā nityaṃ pañca pāpāni varjayet.\n\nahiṃsā satyam asteyaṃ brahmacaryaṃ ca pārigrahaḥ\nete pañcānuvratāḥ śrāvakasya nirūpitāḥ.",
+      "translation": "One should always renounce the five sins—whether done by oneself, approved, or done by others—through body, speech, and mind.\n\nNon‑violence, truth, non‑stealing, chastity, and non‑attachment: these five have been laid down as the anuvratas of a lay follower.",
+      "notes": "Ratnakaraṇḍa Śrāvakācāra is a key Digambara manual on lay conduct. It explicitly names the five anuvratas and explains their application to householders, distinguishing them from the stricter mahāvratas of ascetics. The verses emphasize threefold activity (body, speech, mind) and threefold participation (doing, causing to be done, approving), showing how the vows extend beyond overt physical acts."
+    },
+    {
+      "title": "Sarvārthasiddhi (commentary on Tattvārtha Sūtra)",
+      "author": "Ācārya Pujyapāda (Digambara)",
+      "original_text": "एषु पञ्चसु व्रतेषु अहिंसाव्रतमूलम् ।\nअन्यानि तद्भवनपरिपोषणार्थं यथा क्षेत्रस्य वलयः ।",
+      "transliteration": "eṣu pañcasu vrateṣu ahiṃsāvrata mūlam.\nanyāni tad‑bhavana‑paripoṣaṇārthaṃ yathā kṣetrasya valayaḥ.",
+      "translation": "Among these five vows, the vow of non‑violence is the root. The others exist for its protection and nourishment, just as a fence exists for the protection of a field.",
+      "notes": "Sarvārthasiddhi, a classical Digambara commentary, is often cited to explain the internal hierarchy of the vows. While it discusses the mahāvratas, the same logic is applied to the anuvratas: ahiṃsā is primary, and the other four vows are understood as supporting restraints that prevent forms of harm arising from falsehood, theft, sexual misconduct, and attachment."
+    },
+    {
+      "title": "Śrāvakaprajñapti / related Śvetāmbara lay‑conduct texts",
+      "author": "Traditionally attributed within Śvetāmbara canon (exact authorship varies)",
+      "original_text": "अहिंसा‑अनुव्रतं, सत्य‑अनुव्रतं, अचौर्य‑अनुव्रतं, ब्रह्मचर्य‑अनुव्रतं, अपरिग्रह‑अनुव्रतं इति पञ्च अनुव्रताḥ ।",
+      "transliteration": "ahiṃsā‑anuvrataṃ, satya‑anuvrataṃ, acaurya‑anuvrataṃ, brahmacarya‑anuvrataṃ, aparigraha‑anuvrataṃ iti pañca anuvratāḥ.",
+      "translation": "The five anuvratas are: the limited vow of non‑violence, the limited vow of truth, the limited vow of non‑stealing, the limited vow of chastity, and the limited vow of non‑possession.",
+      "notes": "Śvetāmbara canonical and post‑canonical texts on lay conduct (śrāvakācāra literature) use similar formulations, explicitly adding the qualifier \"anuvrata\" to each of the five. They then elaborate practical rules, such as avoiding intentional killing, refraining from harmful speech, not taking what is not given, maintaining marital fidelity, and limiting possessions and desires. Exact wording varies by text and edition, but the fivefold structure is consistent."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The five anuvratas are completely different vows from the five mahāvratas of Jain monks and nuns.",
+      "reality": "The five anuvratas and the five mahāvratas share the same ethical content—non‑violence, truthfulness, non‑stealing, chastity, and non‑possession. The difference lies in degree, not in kind: ascetics undertake these vows in their absolute form, while laypeople undertake them with defined limitations appropriate to household life."
+    },
+    {
+      "myth": "Because the anuvratas are ‘small’ vows, lay Jains are allowed to ignore non‑violence and other principles whenever it is convenient.",
+      "reality": "Calling them ‘small’ (anu) does not mean optional or trivial. Classical texts insist that lay followers must avoid intentional harm, falsehood, theft, sexual misconduct, and greed as far as possible, and treat unavoidable involvement in violence (for livelihood or self‑defense) as something to be minimized with care and detachment. The anuvratas are serious moral commitments, not symbolic gestures."
+    },
+    {
+      "myth": "The vow of non‑violence (ahiṃsā‑anuvrata) is just about not killing humans; it does not concern animals, plants, or micro‑organisms for laypeople.",
+      "reality": "Jain doctrine explicitly extends ahiṃsā to all living beings, including animals, plants, and even subtle life‑forms. Lay practice adapts this through vegetarianism, careful food preparation, filtering water, and avoiding unnecessary harm in daily activities. While some violence is recognized as unavoidable in household life, the anuvrata still requires active effort to reduce harm to all forms of life."
+    },
+    {
+      "myth": "Brahmacarya‑anuvrata for laypeople only means avoiding adultery; there is no spiritual dimension to sexuality in Jainism.",
+      "reality": "Jain texts present brahmacarya as a discipline of passion and desire, not merely a social rule. For ascetics it means complete celibacy; for laypeople it means fidelity within marriage and restraint of sensual indulgence. The vow is linked to mental purity and control of passions that can lead to violence and other transgressions."
+    },
+    {
+      "myth": "Aparigraha‑anuvrata is fulfilled simply by donating some money; accumulation of wealth and possessions is otherwise spiritually neutral.",
+      "reality": "Aparigraha in Jainism is fundamentally about inner non‑attachment. Limiting possessions, wealth, and desires is meant to weaken greed and the karmic bondage associated with clinging. Charity is one expression of this vow, but conscious limitation of acquisition, simple living, and reflection on one’s motives are equally emphasized in traditional lay‑conduct manuals."
+    }
+  ]
+}

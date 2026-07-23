@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “grammar” (generally referring to Sanskrit vyākaraṇa and Prakrit grammar traditions) is both a linguistic discipline and a foundational tool for interpreting canonical scriptures. Jain communities—Śvetāmbara, Digambara, and their sub‑traditions—preserved extensive grammatical learning because their canonical corpora were composed in Ardhamāgadhī, Jaina Śaurasenī, and classical Sanskrit. Grammar enables accurate reading of sūtras, commentaries, and narrative literature, and is essential for philological work in Jain hermeneutics.\n\nJain grammatical scholarship developed in dialogue with broader Indian linguistic traditions. While Pāṇini’s *Aṣṭādhyāyī* shaped the mainstream Sanskrit grammatical framework, Jain scholars produced independent Prakrit grammars to systematize the languages of their scriptures. Works such as the *Jainendra Vyākaraṇa* and *Siddha‑Hema Śabdānuśāsana* became authoritative reference points for understanding Prakrit morphology, phonology, and syntax. These grammars also preserve unique Jain lexical items, technical terms related to karma theory, and forms specific to canonical recitation.\n\nWithin Jain hermeneutics, grammar is not merely a technical subject but a prerequisite for correct interpretation (*naya*) and avoidance of misunderstanding (*mithyā‑jñāna*). Commentators frequently cite grammatical rules to justify doctrinal readings, resolve ambiguities, and distinguish literal from contextual meanings. Modern Jain studies continue to rely on these grammatical traditions for manuscript editing, lexicography, and comparative philology.",
+  "primary_sources": [
+    {
+      "title": "Siddha-Hema Śabdānuśāsana",
+      "author": "Hemacandra (Śvetāmbara Mūrti-pūjaka)",
+      "original_text": "लिङ्गानुशासनं नाम व्याकरणस्य प्रथमोऽध्यायः",
+      "transliteration": "liṅgānuśāsanaṃ nāma vyākaraṇasya prathamo'dhyāyaḥ",
+      "translation": "“The instruction on gender is the first chapter of grammar.”",
+      "notes": "Hemacandra’s 12th‑century grammar is one of the most influential Jain contributions to linguistic science. It covers Sanskrit and multiple Prakrits, including Ardhamāgadhī and Jaina Māhārāṣṭrī, and is used extensively in Śvetāmbara canonical studies."
+    },
+    {
+      "title": "Jainendra Vyākaraṇa",
+      "author": "Pujyapāda (Digambara)",
+      "original_text": "अथ शब्दानुशासनम्",
+      "transliteration": "atha śabdānuśāsanam",
+      "translation": "“Now begins the instruction on words.”",
+      "notes": "A foundational Digambara grammatical text, the *Jainendra* systematizes Sanskrit grammar with distinctive Jain perspectives. It is frequently cited in Digambara commentarial literature and remains central in monastic education."
+    },
+    {
+      "title": "Ardhamāgadhī Canonical Usage (Example from Uttarādhyayana Sūtra)",
+      "author": "Anonymous (Śvetāmbara canonical redaction)",
+      "original_text": "णं च देसव्वं जोगं",
+      "transliteration": "ṇaṃ ca desavvaṃ jogaṃ",
+      "translation": "“And indeed, discipline is to be practiced according to place.”",
+      "notes": "This line illustrates typical Ardhamāgadhī morphology and syntax. Understanding such forms requires familiarity with Prakrit grammatical rules preserved in Jain grammars."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism does not have its own grammatical tradition and only borrows from mainstream Sanskrit grammar.",
+      "reality": "Jain scholars produced extensive independent grammatical works—especially in Prakrit—such as Hemacandra’s *Śabdānuśāsana* and Pujyapāda’s *Jainendra Vyākaraṇa*. These are foundational for Jain scriptural interpretation."
+    },
+    {
+      "myth": "Prakrits used in Jain scriptures are identical to literary Prakrits found in secular texts.",
+      "reality": "Jain Prakrits (Ardhamāgadhī, Jaina Śaurasenī, Jaina Māhārāṣṭrī) have distinct phonological and morphological features. Jain grammars document these differences precisely."
+    },
+    {
+      "myth": "Grammar is optional for understanding Jain canonical texts.",
+      "reality": "Traditional Jain hermeneutics treats grammar as essential. Commentators consistently rely on grammatical rules to clarify doctrinal passages, resolve ambiguities, and ensure accurate interpretation."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, **dravya** refers to the fundamental ontological category of “substance,” the basic building block of reality. Jain thinkers describe the universe as beginningless, eternal, and composed of six distinct dravyas, each possessing its own intrinsic nature (*svabhāva*) and modes (*paryāya*). A dravya is defined as that which possesses qualities (*guṇa*) and undergoes modifications while retaining its essential identity. This duality—permanence in substance and change in modes—is central to Jain metaphysics.\n\nAcross Digambara and Śvetāmbara traditions, dravya is treated as a foundational topic in cosmology, karma theory, and the path to liberation. The six dravyas are: **jīva** (sentient beings), **pudgala** (matter), **dharma** (medium of motion), **adharma** (medium of rest), **ākāśa** (space), and **kāla** (time). The first five are called *astikāyas* because they have extension in space, while kāla is non-extended. Each dravya has infinite qualities, but Jain texts highlight specific ones relevant to liberation, such as consciousness in jīva or touch and taste in pudgala.\n\nJain epistemology emphasizes that understanding dravya requires applying *anekāntavāda* (many-sidedness) and *syādvāda* (conditional predication). A dravya can be described from multiple standpoints—substantial, modal, practical—without contradiction. This approach allows Jain philosophers to reconcile permanence and change, individuality and interdependence, and the multiplicity of substances within a single cosmic framework.\n\nDravya is not merely a metaphysical category; it underpins ethical practice. The distinction between jīva and pudgala clarifies why harming living beings binds karma, while the nature of kāla and ākāśa explains the structure of spiritual progress. Thus, dravya serves as both a theoretical and practical foundation for Jain soteriology.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmī (accepted across Digambara and Śvetāmbara traditions)",
+      "original_text": "द्रव्यगुणपर्यायोऽस्ति",
+      "transliteration": "dravya-guṇa-paryāyo'sti",
+      "translation": "A substance exists with qualities and modes.",
+      "notes": "Tattvārtha Sūtra 5.1 provides the canonical definition of dravya. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārthavṛtti* (Śvetāmbara) elaborate on the permanence of substance and the variability of modes."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Ācārya Nemicandra (Digambara)",
+      "original_text": "जीवो द्रव्यं चेतनं",
+      "transliteration": "jīvo dravyaṃ cetanaṃ",
+      "translation": "The jīva is a substance possessing consciousness.",
+      "notes": "Dravyasaṃgraha is a concise manual detailing the six dravyas. It is widely used in Digambara study traditions and provides clear definitions of each substance and its qualities."
+    },
+    {
+      "title": "Sthānāṅga Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "छः ठाणं — जीव, अजिव, धम्म, अहम्म, आसीस, काल",
+      "transliteration": "chaṭhāṇaṃ — jīva, ajīva, dhamma, ahamma, āsīsa, kāla",
+      "translation": "The six categories are: jīva, ajīva, dharma, adharma, space, and time.",
+      "notes": "The Sthānāṅga Sūtra lists and organizes doctrinal categories, including the dravyas, within the Śvetāmbara canonical framework."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Dravya means only physical matter.",
+      "reality": "In Jainism, dravya includes both sentient and non-sentient substances. Only pudgala is material; jīva, dharma, adharma, space, and time are non-material."
+    },
+    {
+      "myth": "All dravyas interact directly with each other.",
+      "reality": "Jain texts specify limited interactions. For example, dharma and adharma do not cause motion or rest; they merely serve as the mediums enabling them."
+    },
+    {
+      "myth": "Time (kāla) is an astikāya like the other substances.",
+      "reality": "Kāla is explicitly described as non-extended and therefore not an astikāya. It is a dravya but lacks spatial extension."
+    }
+  ]
+}

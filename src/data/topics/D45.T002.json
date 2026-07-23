@@ -1,0 +1,51 @@
+{
+  "overview": "The topic of “phones and attention” concerns how contemporary mobile devices interact with human cognitive focus, distraction, and ethical self‑management. Within a Jain studies framework, this subject is treated as part of modern conduct (vyavahāra) rather than classical doctrine, because phones did not exist in the historical periods of the āgamas or Digambara canonical literature. Still, Jain texts contain extensive reflections on attention, mindfulness, restraint, and the dangers of unregulated sensory engagement. These principles can be applied—carefully and with clear distinction between ancient sources and modern interpretation—to understand how digital devices may influence mental states.\n\nFrom a cognitive perspective, phones introduce continuous stimuli: notifications, social media feeds, and rapid task-switching. Psychological research (C-tier scholarship) shows that frequent interruptions reduce sustained attention, increase cognitive load, and fragment working memory. Jain philosophical analysis interprets such fragmentation through the lens of *avadhāna* (attention), *saṃvara* (stoppage of karmic influx), and *apramatta-yoga* (vigilant conduct). While classical texts do not mention technology, they repeatedly emphasize the importance of guarding the senses, moderating external inputs, and cultivating deliberate awareness.\n\nIn modern Jain ethics, phones are often discussed in community education (D-tier) as tools that can either support or hinder spiritual practice. They can provide access to scriptures, lectures, and meditation resources, yet they can also amplify restlessness (*audārika kasāya*), attachment (*rāga*), and inattentiveness. A balanced approach recognizes both potentials while grounding guidance in primary sources about attention, restraint, and mindful conduct.\n\nThis article therefore presents: (1) classical Jain passages on attention and sensory regulation; (2) interpretive notes explaining how these ideas relate to modern phone use; and (3) common misconceptions about Jain views on technology.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra 1.2.3",
+      "author": "Traditionally attributed to Mahāvīra’s teachings, compiled by the Śvetāmbara tradition",
+      "original_text": "सव्वे पाणाओ अप्पा अत्ताणं रक्खइ",
+      "transliteration": "savve pāṇāo appā attāṇaṃ rakkhai",
+      "translation": "“The vigilant one protects his own self from all harm.”",
+      "notes": "A-tier source. The passage emphasizes vigilance (*apramatta*). Commentators (B-tier) interpret vigilance as careful regulation of sensory and mental activity. Modern application: excessive phone-driven distraction can be seen as a lapse in vigilance, though this is an interpretive extension rather than a classical teaching."
+    },
+    {
+      "title": "Tattvārtha Sūtra 9.7",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अप्रमत्तयोगः संवरः",
+      "transliteration": "apramatta-yogaḥ saṃvaraḥ",
+      "translation": "“Vigilant conduct is the means of stopping karmic influx.”",
+      "notes": "A-tier source. This sutra links attentive, disciplined action with spiritual progress. Traditional commentaries (B-tier) explain that inattentiveness allows unregulated sensory impressions to generate new karmic bondage. Modern interpretation: constant phone interruptions may undermine sustained attention, making apramatta-yoga more difficult."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 29.1",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जोगं जोगं चित्तं समाहिअ",
+      "transliteration": "jogaṃ jogaṃ cittaṃ samāhia",
+      "translation": "“Focus the mind again and again in discipline.”",
+      "notes": "A-tier source. The emphasis on repeatedly returning the mind to focus parallels modern discussions of attention training. Phones, by contrast, often encourage rapid shifts of focus. This is an interpretive parallel, not a direct doctrinal statement about technology."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara) – Dharmakāṇḍa, fragment on sensory restraint",
+      "author": "Kundakunda lineage (attributed), compiled by Digambara tradition",
+      "original_text": "इंदियाणं निग्गहणं धम्मो",
+      "transliteration": "indiyāṇaṃ niggahaṇaṃ dhammo",
+      "translation": "“Restraint of the senses is dharma.”",
+      "notes": "A-tier source. Digambara commentators (B-tier) emphasize that unregulated sensory stimulation increases passions and karmic influx. Modern application: phones can intensify sensory stimulation; thus, restraint in their use aligns with the principle of *indriya-nigraha*."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain scriptures directly prohibit or condemn the use of phones.",
+      "reality": "Classical Jain texts predate modern technology by millennia. They do not mention phones. Ethical guidance must be derived from broader principles of attention, restraint, and mindful conduct, with clear distinction between primary sources and modern interpretation."
+    },
+    {
+      "myth": "Using a phone for entertainment automatically violates Jain conduct.",
+      "reality": "Jain ethics evaluate intention, attachment, and the effect on mental states. Entertainment is not inherently prohibited, but excessive distraction, agitation, or attachment may conflict with principles of vigilance and restraint."
+    },
+    {
+      "myth": "Jainism requires complete avoidance of digital devices for spiritual progress.",
+      "reality": "Lay practice (śrāvaka-dharma) allows engagement with daily life and tools. Many communities use phones for scriptural study, meditation apps, and communication. The emphasis is on mindful, balanced use rather than total renunciation."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, **war (yuddha)** is examined primarily as an ethical, karmic, and social phenomenon rather than a political institution. Jainism, across its major traditions, consistently frames war as a manifestation of **hiṃsā** (violence) that binds destructive karma and obstructs spiritual progress. Classical Jain texts do not present war as a legitimate tool of statecraft; instead, they analyze it as a tragic outcome of passions—anger, pride, deceit, and greed (krodha, māna, māyā, lobha). \n\nFrom the earliest canonical strata, war is portrayed as part of the **cycle of worldly suffering** (saṃsāra). Kings, soldiers, and even victorious rulers are depicted as entangled in karmic consequences due to intentional harm, destruction of life, and mental states of aggression. Jain narratives often contrast the grandeur of royal warfare with the quiet heroism of renunciation, emphasizing that true victory is mastery over the self rather than conquest of others. \n\nDespite this, Jain literature does not ignore the historical reality of conflict. Texts such as the *Jain Purāṇas* and *universal history (śrutas)** describe wars involving Cakravartins, Baladevas, and Vasudevas, but these accounts serve moral and cosmological purposes rather than political justification. They illustrate how even the greatest worldly powers remain bound by karma and ultimately face downfall. \n\nIn lay ethics, war is treated through the lens of **aṇu-vratas** (small vows). Household practitioners are instructed to minimize harm, avoid participation in violence when possible, and cultivate peace. Later commentarial traditions—Digambara and Śvetāmbara—acknowledge that laypeople may face complex social duties, but they maintain that intentional killing, even in warfare, is a grave karmic act. \n\nModern Jain communities often interpret war through contemporary ethics: promoting nonviolent conflict resolution, humanitarian relief, and interfaith peacebuilding. While Jainism does not function as a political doctrine, its foundational commitment to **ahiṃsā**, **anekāntavāda**, and **aparigraha** provides a distinctive philosophical framework for understanding war as a failure of human restraint and compassion.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "जिवा दुव्विहा — बहुविहा, तेसिं विहा हिंसा",
+      "transliteration": "jīvā duvviha — bahuviha, tesiṃ vihā hiṃsā",
+      "translation": "Living beings are of many kinds; violence against them takes many forms.",
+      "notes": "While not discussing war directly, the text establishes the foundational principle that harming any living being is hiṃsā. Later traditions apply this principle to all forms of organized violence, including warfare."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Canonical Śvetāmbara text",
+      "original_text": "जो ण हन्ति ण च हन्तव्वं इच्छति, सो अहिंसाओ",
+      "transliteration": "jo ṇa hanti ṇa ca hantavvaṃ icchati, so ahiṃsāo",
+      "translation": "One who does not kill nor desire that killing be done is a practitioner of nonviolence.",
+      "notes": "This passage is frequently cited in Jain ethical discussions to show that even desiring harm—central to wartime aggression—creates karmic bondage."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "प्रमत्तयोगात् हिंसा",
+      "transliteration": "pramattayogāt hiṃsā",
+      "translation": "Violence arises from careless activity.",
+      "notes": "Commentaries (Digambara and Śvetāmbara) interpret ‘carelessness’ as mental states of passion. War is often cited as a collective expression of such passions."
+    },
+    {
+      "title": "Jain Universal History (e.g., *Triṣaṣṭiśalākāpuruṣa-caritra*)",
+      "author": "Hemacandra",
+      "original_text": "युद्धं तु रागादिभिरुत्पन्नं दुःखहेतुः",
+      "transliteration": "yuddhaṃ tu rāgādibhirutpannaṃ duḥkhahetuḥ",
+      "translation": "War, arising from passions such as attachment, is a cause of suffering.",
+      "notes": "Hemacandra’s narratives of Vasudevas and Cakravartins depict large-scale wars but frame them as moral lessons about the consequences of passion-driven action."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain texts glorify ancient kings and their wars as righteous or divinely sanctioned.",
+      "reality": "Jain universal histories describe wars to illustrate karmic consequences, not to endorse warfare. Even victorious kings are shown as bound by suffering and future downfall."
+    },
+    {
+      "myth": "Jainism allows war if the cause is just or defensive.",
+      "reality": "Jain ethics do not classify war as ‘just’ or ‘unjust.’ All intentional harm is hiṃsā. Laypeople may face complex social duties, but the tradition consistently teaches that violence—regardless of motive—binds karma."
+    },
+    {
+      "myth": "Ahiṃsā only prohibits killing, so non-lethal participation in war is acceptable.",
+      "reality": "Ahiṃsā prohibits harm in thought, word, and action. Encouragement, planning, or desire for violence also generate karmic bondage."
+    }
+  ]
+}

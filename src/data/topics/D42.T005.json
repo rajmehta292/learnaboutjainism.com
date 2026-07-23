@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain symbolism, the motif of “three dots” (often placed above the swastika and below the crescent with a vertical line) is a widely recognized visual shorthand for three essential components of the Jain path. These dots represent **samyak‑darśana** (right perception or right faith), **samyak‑jñāna** (right knowledge), and **samyak‑cāritra** (right conduct). Together, they form the foundational triad of the *ratnatraya*—the Three Jewels—described across both Śvetāmbara and Digambara traditions as the indispensable structure of liberation.\n\nIn temple iconography, manuscript colophons, and modern educational materials, the three dots serve as a compact reminder that liberation (mokṣa) is not achieved through ritual alone but through the integrated cultivation of worldview, understanding, and ethical discipline. The symbol is not itself a scriptural invention; rather, it is a pedagogical representation developed within Jain communities to visually summarize doctrinal essentials. Its meaning is consistent across sects, though the surrounding symbols (such as the hand with the wheel, the swastika, or the crescent) may vary.\n\nThe three dots also function as a bridge between abstract philosophical categories and everyday lay practice. For householders, they highlight the gradual refinement of perception, learning, and conduct through vows, study, and ethical restraint. For monastic traditions, they point toward the deeper technical frameworks of the *guṇasthāna* ladder, where right faith, knowledge, and conduct evolve through increasingly subtle states of karmic purification.\n\nBecause the symbol is modern and didactic rather than a canonical artifact, its interpretation must be grounded in primary textual descriptions of the Three Jewels rather than in the symbol itself. The following sources illustrate how the triad is articulated in authoritative Jain texts.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right perception, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "Tattvārtha Sūtra 1.1 is the most frequently cited canonical basis for the meaning of the three dots. The verse defines the Three Jewels as the complete path, establishing the doctrinal foundation for later symbolic representations."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text (anonymous ancient redaction)",
+      "original_text": "दंसणं णाणं च चरित्तं च णिव्वाणस्स सो कारणं",
+      "transliteration": "daṃsaṇaṃ ṇāṇaṃ ca carittaṃ ca nivvāṇassa so kāraṇaṃ",
+      "translation": "Right faith, right knowledge, and right conduct are the causes of liberation.",
+      "notes": "Uttarādhyayana Sūtra 28.1 parallels the Tattvārtha Sūtra in presenting the Three Jewels as causal conditions for liberation. This passage is frequently used in Śvetāmbara teaching contexts."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara canonical text)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "While the text does not present a single compact verse identical to Tattvārtha Sūtra 1.1, its discussions of the guṇasthānas repeatedly emphasize the interdependence of right faith (darśana), knowledge (jñāna), and conduct (cāritra).",
+      "transliteration": "",
+      "translation": "",
+      "notes": "In Digambara scholastic tradition, the Three Jewels are embedded within the technical analysis of karmic states. Commentaries such as those by Vīrasena (Dhavalā) elaborate how right faith, knowledge, and conduct unfold across the fourteen stages."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The three dots are an ancient scriptural symbol found directly in Jain canonical manuscripts.",
+      "reality": "The motif is a later pedagogical and iconographic convention. While the meaning of the Three Jewels is scriptural, the visual symbol of three dots is not itself a canonical artifact."
+    },
+    {
+      "myth": "The three dots represent three sects of Jainism.",
+      "reality": "They represent the Three Jewels—right perception, right knowledge, and right conduct—not sectarian divisions."
+    },
+    {
+      "myth": "The three dots are interchangeable with the five vows.",
+      "reality": "The Three Jewels are a doctrinal triad describing the structure of the path, whereas the five vows are specific ethical commitments. The vows fall under the broader category of right conduct, one of the three components."
+    }
+  ]
+}

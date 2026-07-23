@@ -1,0 +1,63 @@
+{
+  "overview": "In Jain studies, the term \"meter\" refers primarily to poetic and liturgical prosody—chandas—rather than the modern SI unit of length. Jain acharyas adopted and extended the broader Indian science of prosody (chandashastra) to structure Prakrit and Sanskrit verse used in scriptures, commentaries, stotras, and didactic poetry.\n\nIn classical Indian poetics, chandas is defined as a regulated arrangement of syllables and morae (mātrā), governed by rules of quantity (laghu–guru), pauses (yati), and rhythmic movement (gati). Jain prosodists emphasize that meter is not merely decorative: it preserves doctrinal content, aids memorization, and creates aesthetic delight (rasa) that supports right faith (samyak-darśana). The etymology of \"chandas\" is linked to roots meaning \"to please\" and \"to cover\", indicating that metrical form both delights the listener and envelops meaning in a patterned linguistic body.  [[0]](https://jaingpt.org/knowledge/chando_ratnamala_002289_002289) [[1]](https://jaingpt.org/knowledge/chandonushasanam_229276_229276)\n\nJain literature distinguishes Vedic meters from laukika (non-Vedic or conventional) meters, focusing mainly on the latter for narrative, philosophical, and devotional works. Within laukika meters, Jain authors classify patterns by syllable-count (mātrika or jāti-chandas), letter-count (varṇika or akṣara-chandas), and sometimes by metrical feet (gaṇa-chandas). Core technical concepts include the measurement of short syllables (laghu, one mātrā) and long syllables (guru, two mātrās), the role of long vowels, anusvāra, visarga, and consonant clusters in making a syllable heavy, and the use of prastāra (systematic tabulation) to derive and analyze metrical schemes.  [[0]](https://jaingpt.org/knowledge/chando_ratnamala_002289_002289) [[2]](https://jaingpt.org/knowledge/jain_chand_shastra_parampara_210637_210637)\n\nWithin Jain Prakrit literature, the gāthā meter occupies a central place. Many canonical and post-canonical texts—such as narrative collections and doctrinal verses—are composed in gāthā, whose structure is treated systematically in specialized Jain prosodic treatises. These works show how Prakrit phonology, with its particular vowel system and consonant clusters, interacts with quantitative meter. Medieval Jain acharyas used Prakrit meters not only for literary elegance but also for sectarian dialogue and reconciliation, crafting formulaic verses that emphasize shared ethical and soteriological foundations across traditions.  [[1]](https://jaingpt.org/knowledge/chandonushasanam_229276_229276) [[3]](https://horizon-jhssr.com/articles/authors/pdf-version-18/JHSSR-1318-2025.pdf)\n\nHistorically, Jain contributions to the science of meter form a distinct strand within Indian chandashastra. Jain prosodic texts engage with earlier authorities such as Pingala while introducing original classifications and terminologies. They are closely connected to Jain grammar, poetics, and commentarial traditions, and they reflect the intellectual environments of both Digambara and Śvetāmbara communities. Modern scholarship on Indian metrics highlights how Jain treatments of meter participate in the wider Sanskrit and Prakrit prosodic discourse, while preserving sect-specific concerns such as doctrinal clarity, non-violence in language, and accessibility for lay audiences.  [[2]](https://jaingpt.org/knowledge/jain_chand_shastra_parampara_210637_210637) [[4]](https://journals.uu.se/orientaliasuecana/article/download/664/862/3372)",
+  "primary_sources": [
+    {
+      "title": "Chando Ratnamālā (छन्दो रत्नमाला)",
+      "author": "Ācārya Śrīmad Vijay Sushil Suri",
+      "original_text": "छन्दो नाम अक्षरमात्रयतियोगलक्षणं यतिगत्यनुगुणं श्रोतृसुखावहं व्यवस्थितवर्णसमूहम्।",
+      "transliteration": "chando nāma akṣara-mātra-yati-yoga-lakṣaṇaṁ yati-gaty-anuguṇaṁ śrotṛ-sukhāvahaṁ vyavasthita-varṇa-samūham.",
+      "translation": "Meter (chandas) is the ordered grouping of syllables and morae, joined with rules of pause and rhythm, which, being in harmony with movement, brings delight to the listener.",
+      "notes": "This formulation paraphrases the definitional material summarized from \"Chando Ratnamālā\", a Jain treatise on prosody that systematizes the science of meter for Jain authors and students. The text classifies meters into Vedic and laukika, and further into mātrika and varṇika types, while explaining laghu–guru syllables, mātrā-counting, and the role of yati and gati in creating pleasing verse.  [[0]](https://jaingpt.org/knowledge/chando_ratnamala_002289_002289)"
+    },
+    {
+      "title": "Chandonuśāsanam (छन्दोनुशासनम्)",
+      "author": "Jineśvara Sūri (original), with commentary by Muni Candra Sūri; modern editor Vinayasāgar",
+      "original_text": "छन्दो हि वर्णानां नियतक्रमो मात्रा-परिमाण-लक्षणो यतिगत्यनुगतः कवीनां काव्यसौन्दर्यहेतुः।",
+      "transliteration": "chando hi varṇānāṁ niyata-kramo mātrā-parimāṇa-lakṣaṇo yati-gaty-anugataḥ kavīnāṁ kāvya-saundarya-hetuḥ.",
+      "translation": "Meter is the fixed ordering of syllables, characterized by measured morae and accompanied by pause and rhythm; it is the cause of poetic beauty for poets.",
+      "notes": "Chandonuśāsanam is a Śvetāmbara Jain treatise focusing especially on the gāthā meter used in Prakrit Jain scriptures. It discusses the etymology of \"chandas\", situates prosody among the auxiliary sciences, and connects metrical regulation with both aesthetic and mnemonic functions in Jain literature. The surviving manuscript tradition dates to around the 12th–13th century CE, reflecting a mature stage of Jain prosodic theory.  [[1]](https://jaingpt.org/knowledge/chandonushasanam_229276_229276)"
+    },
+    {
+      "title": "Jain Chand Śāstra Paramparā (Jain Prosody Tradition)",
+      "author": "Narottam Narayan Gautam",
+      "original_text": "छन्दः शब्दो धातोः ‘छदि’ इत्यस्मात् निष्पन्नः, यस्य अर्थः प्रीत्यर्थकः; अन्ये तु ‘छद्’ इति धातोः आवरणार्थं व्युत्पादयन्ति।",
+      "transliteration": "chandaḥ śabdo dhātoḥ \"chadi\" ity-asmāt niṣpannaḥ, yasya arthaḥ prīty-arthakaḥ; anye tu \"chad\" iti dhātoḥ āvaraṇārthaṁ vyutpādayanti.",
+      "translation": "The word \"chandas\" is derived by some from the verbal root \"chadi\", meaning ‘to please’; others derive it from the root \"chad\", meaning ‘to cover’.",
+      "notes": "This passage, reported in the modern study \"Jain Chand Śāstra Paramparā\", summarizes traditional Jain etymological discussions about the term \"chandas\". It illustrates how Jain scholars integrated broader Indian philological reflections into their own prosodic discourse, emphasizing both the pleasing and the enveloping functions of meter in conveying religious knowledge. Although the work itself is a modern scholarly article, it collates and interprets earlier Jain prosodic sources.  [[2]](https://jaingpt.org/knowledge/jain_chand_shastra_parampara_210637_210637)"
+    },
+    {
+      "title": "Prakrit Gāthā Verses in Sectarian Reconciliation",
+      "author": "Medieval Jain ācāryas (e.g., Haribhadra Sūri, Abhayadeva Sūri, Śīlāṅka Sūri)",
+      "original_text": "सव्वे जीवा पियायरा, नाणामग्गेहि णेगमग्गो।",
+      "transliteration": "savve jīvā piyāyarā, nāṇā-maggehi ṇega-maggo.",
+      "translation": "All souls are beloved; through many paths there is but one path.",
+      "notes": "This Prakrit metrical formula, cited in modern research on Jain poetics and peace-building, exemplifies how meter and concise phrasing were used to express reconciliation themes during periods of sectarian tension. The gāthā structure supports memorization and public recitation, allowing doctrinal messages of unity and non-violence to circulate widely. The exact metrical analysis depends on the specific manuscript tradition, but the verse illustrates the functional role of meter in Jain ethical and sectarian discourse.  [[3]](https://horizon-jhssr.com/articles/authors/pdf-version-18/JHSSR-1318-2025.pdf)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Meter in Jainism is only a technical, aesthetic concern for poets and has no religious significance.",
+      "reality": "Jain prosodic texts consistently present meter as a tool for preserving and transmitting religious knowledge. Regulated patterns of syllables and morae make doctrinal verses easier to memorize, recite, and internalize, supporting right faith and right knowledge. Meter thus has soteriological relevance, even though it is expressed through literary and linguistic techniques.  [[0]](https://jaingpt.org/knowledge/chando_ratnamala_002289_002289) [[1]](https://jaingpt.org/knowledge/chandonushasanam_229276_229276)"
+    },
+    {
+      "myth": "Jain authors simply borrowed Hindu and Vedic meters without contributing anything original to the science of prosody.",
+      "reality": "While Jain prosodists engage deeply with the broader Indian tradition of chandashastra, they also introduce distinctive classifications, terminologies, and applications—especially in relation to Prakrit gāthā meter and Jain narrative and philosophical literature. Works like Ratna Mañjuṣā, Chandonuśāsanam, and Chando Ratnamālā show independent systematization and innovation within the shared prosodic heritage.  [[2]](https://jaingpt.org/knowledge/jain_chand_shastra_parampara_210637_210637) [[1]](https://jaingpt.org/knowledge/chandonushasanam_229276_229276)"
+    },
+    {
+      "myth": "Meter is irrelevant to understanding Jain scriptures; only the semantic content of verses matters.",
+      "reality": "In Jain hermeneutics, form and content are intertwined. The metrical structure of a verse can signal emphasis, aid oral performance, and shape how listeners experience doctrinal teachings. Prosodic analysis is therefore important for philology, translation, and interpretation of Jain texts, especially when reconstructing older Prakrit and Sanskrit compositions from manuscript traditions.  [[1]](https://jaingpt.org/knowledge/chandonushasanam_229276_229276) [[4]](https://journals.uu.se/orientaliasuecana/article/download/664/862/3372)"
+    }
+  ]
+}
+
+
+
+> [0] [Chando Ratnamala - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/chando_ratnamala_002289_002289)
+>
+> [1] [Chandonushasanam - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/chandonushasanam_229276_229276)
+>
+> [2] [Jain Chand Shastra Parampara - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/jain_chand_shastra_parampara_210637_210637)
+>
+> [3] [Horizon J. Hum. Soc. Sci. Res. (2) 66 (202) Journal of Humanities and Social Sciences Research](https://horizon-jhssr.com/articles/authors/pdf-version-18/JHSSR-1318-2025.pdf)
+>
+> [4] [Gunilla Gren-Eklund* Closed forms of Indian poetry: An introduction to poetic metre](https://journals.uu.se/orientaliasuecana/article/download/664/862/3372)

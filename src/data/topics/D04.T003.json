@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, “knowledge and perception” (jñāna and darśana) form the foundational pair through which living beings encounter reality. These two are treated as distinct yet complementary modes of cognition. Jñāna refers to determinate, discriminative knowledge—knowing an object with clarity, specificity, and conceptual grasp. Darśana refers to indeterminate, immediate perception—an initial, non-conceptual awareness of an object before full cognitive articulation. Jain thinkers emphasize that both arise from the inherent qualities of the soul (jīva), which is naturally endowed with infinite knowledge and perception, though obscured by karmic matter.\n\nJain epistemology classifies knowledge into five principal types: mati-jñāna (sensory-mental knowledge), śruta-jñāna (scriptural knowledge), avadhi-jñāna (clairvoyance), manaḥparyāya-jñāna (telepathy), and kevala-jñāna (omniscience). Perception is similarly classified, with ordinary sensory perception forming the basis for higher forms of direct awareness. The tradition maintains that as karmic obstructions—specifically jñānāvaraṇīya (knowledge-obscuring) and darśanāvaraṇīya (perception-obscuring) karmas—are reduced, the soul’s natural luminosity manifests progressively.\n\nAcross Digambara and Śvetāmbara traditions, the structure of knowledge and perception is largely shared, though terminological nuances and interpretive emphases differ. Commentaries elaborate how perception precedes knowledge in the cognitive sequence, how scriptural knowledge depends on linguistic conventions, and how omniscience is understood as perfect, unobstructed awareness of all substances and their modes. Modern scholarship highlights the sophistication of Jain epistemology, noting its integration of metaphysics, ethics, and soteriology: knowledge and perception are not merely cognitive faculties but essential steps toward liberation (mokṣa).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "ज्ञानदर्शनावरणानि च",
+      "transliteration": "jñāna-darśana-āvaraṇāni ca",
+      "translation": "There are karmas that obscure knowledge and perception.",
+      "notes": "Tattvārtha Sūtra 8.1 identifies the two principal obscuring karmas. This text is accepted across Digambara and Śvetāmbara traditions as an authoritative compendium of Jain doctrine."
+    },
+    {
+      "title": "Samavāyāṅga Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "पञ्च ज्णाणाणि",
+      "transliteration": "pañca jñāṇāṇi",
+      "translation": "There are five kinds of knowledge.",
+      "notes": "This canonical text enumerates the fivefold knowledge classification. The Prakrit phrasing varies slightly across manuscripts."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Kundakunda",
+      "original_text": "दंसणं णाणं च उवओगस्स कारणं",
+      "transliteration": "daṃsaṇaṃ ṇāṇaṃ ca uvayogassa kāraṇaṃ",
+      "translation": "Perception and knowledge are the causes of the soul’s activity.",
+      "notes": "A Digambara foundational text emphasizing the soul’s inherent cognitive capacities and their role in spiritual progress."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism treats perception as inferior to knowledge.",
+      "reality": "Perception (darśana) is not inferior; it is a distinct mode of awareness that precedes and supports knowledge. Both are essential manifestations of the soul’s natural qualities."
+    },
+    {
+      "myth": "Scriptural knowledge is considered less valid than direct perception.",
+      "reality": "Scriptural knowledge (śruta-jñāna) is highly valued and considered authoritative when grounded in reliable lineage and correct interpretation. It is a valid form of knowledge within Jain epistemology."
+    },
+    {
+      "myth": "Omniscience in Jainism is metaphorical.",
+      "reality": "Primary texts and classical commentaries treat kevala-jñāna as literal, complete, unobstructed knowledge of all substances and their modes. Interpretive debates exist, but the traditional position is non-metaphorical."
+    }
+  ]
+}

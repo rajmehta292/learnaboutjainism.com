@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical vocabulary, “fixity” refers to the doctrine that substances possess an underlying, unchanging essence (*dravya-svabhāva*) even as their modes (*paryāya*) undergo constant transformation. This concept is most often discussed under the terms *dhrauvya* (permanence or fixity), *utpāda* (origination), and *vyaya* (cessation), which together articulate the Jain theory of reality known as *paryāya–dravya-vāda*. Fixity does not mean absolute immobility; rather, it denotes the stable identity of a substance across time despite its continuous modal changes.\n\nIn classical Jain metaphysics, every real entity (*sat*) is defined by three characteristics: origination, cessation, and permanence. Fixity corresponds to permanence—the enduring substrate that allows a substance to be recognized as the same entity even as its qualities evolve. For example, the soul (*jīva*) is considered fixed in its essential attributes of consciousness and energy, though its experiential states vary due to karmic influx and dissipation. Similarly, matter (*pudgala*) retains its fundamental atomic nature while manifesting diverse forms.\n\nFixity plays a central role in debates with Buddhist and Nyāya philosophers. Buddhists, emphasizing momentariness (*kṣaṇikatva*), argue that no enduring substance exists; Jains respond that without fixity, continuity, memory, and moral responsibility would be impossible. Nyāya thinkers accept permanence but often posit a more static substance; Jains maintain a dynamic interplay of permanence and change. Thus, fixity is not a denial of change but a metaphysical anchor that makes change intelligible.\n\nWithin Jain epistemology, fixity supports the doctrine of *anekāntavāda* (many-sidedness). A substance can be described as permanent from one standpoint (*dravya-naya*) and changing from another (*paryāya-naya*). Fixity ensures that these perspectives are not contradictory but complementary. In ethical contexts, fixity underlies the belief that the soul’s pure nature—omniscience, bliss, and energy—remains eternally intact, even when obscured by karmic matter. This provides the philosophical foundation for liberation, as spiritual practice removes karmic modes but does not alter the soul’s fixed essence.\n\nIn summary, fixity is a foundational Jain concept expressing the enduring identity of substances amidst perpetual change. It is essential for Jain ontology, epistemology, and soteriology, shaping how reality is understood and how liberation is conceived.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "उत्पादव्ययध्रौव्ययुक्तं सत्",
+      "transliteration": "utpāda-vyaya-dhrauvya-yuktaṃ sat",
+      "translation": "A real entity is characterized by origination, cessation, and permanence.",
+      "notes": "This is the canonical definition of reality in Jainism (TS 5.29). Fixity (*dhrauvya*) is explicitly listed as one of the three essential marks of existence. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* emphasize that permanence refers to the enduring substance underlying changing modes."
+    },
+    {
+      "title": "Pañcāstikāya Sūtra",
+      "author": "Kundakunda",
+      "original_text": "ध्रुवं दव्वं णिव्वाणं, णिव्वाणं ध्रुवं दव्वं",
+      "transliteration": "dhruvaṃ davvaṃ nivvāṇaṃ, nivvāṇaṃ dhruvaṃ davvaṃ",
+      "translation": "A substance is permanent, and the permanent is substance.",
+      "notes": "Kundakunda’s works articulate the distinction between substance-level permanence and mode-level change. The text stresses that permanence is not the absence of change but the continuity of the substance’s essential nature."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Kundakunda",
+      "original_text": "दव्वस्स भावो ध्रुवो, परिणामो पयायो",
+      "transliteration": "davvassa bhāvo dhruvo, pariṇāmo payāyo",
+      "translation": "The nature of a substance is permanent; its transformation is mode.",
+      "notes": "This passage distinguishes between the fixed essence (*bhāva*) and the changing modes (*paryāya*). It is central to Digambara interpretations of fixity."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Fixity means that substances never change.",
+      "reality": "Jainism teaches that substances are permanent in their essence but constantly changing in their modes. Fixity refers to enduring identity, not immobility."
+    },
+    {
+      "myth": "Fixity contradicts the doctrine of many-sidedness (*anekāntavāda*).",
+      "reality": "Fixity is one of the perspectives within *anekāntavāda*. From the substance standpoint, permanence is affirmed; from the mode standpoint, change is emphasized."
+    },
+    {
+      "myth": "Fixity implies that karmic bondage is eternal.",
+      "reality": "The soul’s essential nature is fixed, but karmic modes are not. Fixity supports the possibility of liberation by distinguishing the permanent soul from impermanent karmic states."
+    }
+  ]
+}

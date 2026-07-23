@@ -1,0 +1,43 @@
+{
+  "overview": "The limits of human knowledge are a central concern in Jain philosophy, explored through epistemology (pramāṇa), ontology (dravya‑guna‑paryāya), and the doctrines of anekāntavāda and syādvāda. Jain thinkers emphasize that human cognition is inherently partial, conditioned by karmic obstructions, sensory constraints, linguistic limitations, and perspectival boundaries. Human beings, as embodied jīvas bound by knowledge‑obscuring karma (jñānāvaraṇīya), cannot apprehend reality in its totality. Instead, they access fragments of truth through valid means of knowledge, each with its own scope and limitations.\n\nJainism distinguishes between perfect knowledge (kevala‑jñāna) and imperfect human knowledge. Kevala‑jñāna is omniscience attained only by liberated beings who have destroyed all obscuring karmas. Human knowledge, by contrast, is mediated through senses, inference, and scriptural testimony, all of which are subject to error, incompleteness, and perspectival bias. This recognition does not lead to skepticism; rather, it motivates intellectual humility and methodological pluralism. Anekāntavāda teaches that reality is multifaceted, and any single human statement captures only one aspect. Syādvāda provides a structured way to express conditional truths, acknowledging the partiality of each viewpoint.\n\nThe limits of human knowledge also appear in discussions of cosmology, karma theory, and metaphysics. Jain texts describe vast cosmic structures and subtle karmic processes, yet they repeatedly note that ordinary humans cannot directly perceive these realities. Instead, they rely on the testimony of omniscient beings preserved in canonical literature. Modern scholarship highlights how Jain epistemology anticipates contemporary discussions of fallibilism, perspectivism, and the boundaries of empirical inquiry.\n\nIn practice, recognizing the limits of human knowledge encourages humility, non‑violence in thought and speech, and openness to multiple viewpoints. It also shapes ethical decision‑making, reminding lay practitioners that certainty is rare and that careful reflection, consultation with qualified teachers, and awareness of cognitive bias are essential.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "ज्ञानावरणकर्म क्षयो केवली।",
+      "transliteration": "jñānāvaraṇa‑karma kṣayo kevalī.",
+      "translation": "When the knowledge‑obscuring karma is destroyed, one becomes a kevalin (omniscient).",
+      "notes": "Tattvārtha Sūtra 10.1 (Tier A). This sutra establishes that perfect knowledge arises only after the destruction of specific karmas, implying that ordinary human knowledge remains limited until liberation."
+    },
+    {
+      "title": "Samavāyāṅga Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "बहुविहं लोयं, दुविहं न जाणं।",
+      "transliteration": "bahuvihaṃ loyaṃ, duvihaṃ na jāṇaṃ.",
+      "translation": "The world has many forms; one does not know them in two (simple) ways.",
+      "notes": "A canonical articulation of multiplicity (anekānta). The passage highlights that reality cannot be captured through a single or binary perspective."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "णाणं तव्वं पव्वं च अवगाहदि।",
+      "transliteration": "ṇāṇaṃ tavvaṃ pavvaṃ ca avagāhadi.",
+      "translation": "Knowledge grasps substances, qualities, and modes.",
+      "notes": "Kundakunda emphasizes that human knowledge grasps only aspects of dravya‑guna‑paryāya, not their totality. (Tier B commentary tradition)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that humans can eventually understand all aspects of reality through study and meditation.",
+      "reality": "Primary texts state that only kevalins possess complete knowledge; humans, even advanced practitioners, remain limited due to karmic obstructions and perspectival constraints."
+    },
+    {
+      "myth": "Anekāntavāda means all viewpoints are equally true.",
+      "reality": "Anekāntavāda asserts that each viewpoint captures a partial truth, not that all claims are correct. Validity depends on pramāṇa, context, and conditional expression through syādvāda."
+    },
+    {
+      "myth": "The limits of human knowledge imply skepticism about scriptural testimony.",
+      "reality": "Jain epistemology treats āgama (scripture) as a valid pramāṇa when grounded in omniscient testimony, while still acknowledging interpretive limitations and the need for qualified guidance."
+    }
+  ]
+}

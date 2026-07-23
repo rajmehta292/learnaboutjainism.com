@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, the term **“attributed teachings”** refers to doctrinal, ethical, or narrative statements that later tradition assigns to a revered figure—such as a Tirthankara, Ganadhara, Acharya, or lineage teacher—without clear verification in early canonical or commentarial sources. These attributions often arise through processes of oral transmission, sectarian redaction, regional pedagogy, or didactic expansion. Because Jainism places strong emphasis on textual authenticity and lineage accuracy, scholars and traditional teachers carefully distinguish between teachings that are directly attested in primary scriptures and those that appear only in later compilations, hagiographies, or community discourse.\n\nAttributed teachings can serve important pedagogical roles. They often express values consistent with Jain ethics—such as ahiṃsā, aparigraha, or samyaktva—even when not explicitly found in early texts. In many cases, they reflect interpretive traditions that help laypeople understand complex doctrines like karma theory, guṇasthāna progression, or vows. However, they must be handled with methodological caution. The Jain canon, especially in Śvetāmbara traditions, underwent centuries of redaction, and Digambara traditions preserve different textual corpora. As a result, statements attributed to Mahāvīra or other figures may differ across sects or may appear only in late manuscripts.\n\nAcademic and traditional study guides therefore classify attributed teachings into categories: (1) **canonical attributions**, where the statement appears in a verified primary text; (2) **commentarial attributions**, where medieval or early-modern commentators expand or interpret earlier teachings; and (3) **popular attributions**, which circulate in sermons, pamphlets, or modern literature without clear textual grounding. Understanding these distinctions helps students avoid conflating devotional or pedagogical expansions with historically attested doctrine.\n\nWithin Jain hermeneutics, attributed teachings are not dismissed outright. Instead, they are evaluated through pramāṇa theory (valid means of knowledge), manuscript history, linguistic analysis, and cross-sect comparison. When an attribution aligns with established doctrine, it may be accepted as a legitimate interpretive tradition. When it contradicts primary sources, scholars note the discrepancy and trace its historical development. This careful approach preserves both the integrity of the Jain textual tradition and the richness of its interpretive heritage.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to the Ganadharas of Mahāvīra",
+      "original_text": "णं च देसं णं च अवगंहं",
+      "transliteration": "ṇaṃ ca desaṃ ṇaṃ ca avagaṃhaṃ",
+      "translation": "“There is teaching, and there is understanding.”",
+      "notes": "This passage is often cited when discussing how teachings are transmitted and interpreted. It illustrates the distinction between the act of teaching and the listener’s comprehension. Later traditions sometimes attribute expanded ethical instructions to Mahāvīra based on this principle, but only the core aphorism is attested in the canonical text."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Śvetāmbara canonical redactors",
+      "original_text": "एवं मे सुयमं आयरियाणं",
+      "transliteration": "evaṃ me suyamaṃ āyariyāṇaṃ",
+      "translation": "“Thus have I heard from the teachers.”",
+      "notes": "This formula appears throughout the text and is central to understanding attributed teachings. It signals that the material is based on received instruction, not necessarily direct utterance from Mahāvīra. Later commentaries sometimes expand these sections with additional attributed sayings."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Kundakunda and later redactors",
+      "original_text": "जिणवयणं तव्वयं",
+      "transliteration": "jiṇavayaṇaṃ tavvayaṃ",
+      "translation": "“The speech of the Jina is authoritative.”",
+      "notes": "Digambara tradition emphasizes that only teachings preserved through verified lineage texts count as Jina-vacana. Many popular sayings attributed to Tirthankaras do not appear in early Digambara sources, illustrating the need for careful textual verification."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Any statement attributed to Mahāvīra in modern sermons or pamphlets must be part of the ancient canon.",
+      "reality": "Many widely circulated sayings are pedagogical paraphrases or later expansions. Only passages verified in canonical editions or early commentaries can be considered historically attested."
+    },
+    {
+      "myth": "If two sects preserve different attributed teachings, one must be incorrect.",
+      "reality": "Sectarian differences often reflect distinct manuscript histories and oral traditions. Divergence does not automatically imply error; it may indicate independent interpretive developments."
+    },
+    {
+      "myth": "Attributed teachings have the same doctrinal authority as canonical scripture.",
+      "reality": "Jain hermeneutics distinguishes between primary scripture, commentarial interpretation, and popular attribution. Each has value, but they carry different levels of authority."
+    }
+  ]
+}

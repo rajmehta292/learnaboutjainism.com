@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain thought, ethics (śīla) and liberation (mokṣa) are inseparable. Ethical conduct is not merely a social virtue but the direct method for reducing karmic bondage and advancing toward the highest state of freedom. Jainism frames liberation as the natural condition of the soul (jīva), obscured by karmic particles attracted through passions, violence, and negligence. Ethical discipline therefore functions as a precise technology for preventing new karmic influx (āsrava) and eliminating accumulated karma (nirjarā).\n\nClassical Jain texts describe a graded path in which ethical refinement leads to increasingly subtle states of awareness. At the foundational level, laypersons practice the five anuvratas (small vows): nonviolence, truthfulness, non-stealing, sexual restraint, and non-possession. These vows are expansions of the five mahāvratas observed by ascetics. Ethical conduct also includes supplementary vows such as limiting travel, consumption, and harmful activities. These practices reduce the intensity of passions (kaṣāyas), which are the primary drivers of karmic bondage.\n\nLiberation is explained through the doctrine of guṇasthāna, the fourteen stages of spiritual development. Ethical discipline is essential at every stage, beginning with right worldview (samyagdarśana), progressing through right knowledge (samyagjñāna), and culminating in right conduct (samyakcāritra). As passions weaken, the soul becomes increasingly capable of shedding karma. The final stages involve complete destruction of deluding karma, followed by the elimination of knowledge-obscuring, perception-obscuring, energy-obstructing, and feeling-producing karmas. The liberated soul ascends to the siddha-śilā at the apex of the universe.\n\nAcross Jain traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—the relationship between ethics and liberation remains consistent: liberation is achieved through disciplined conduct rooted in nonviolence, restraint, and awareness. Commentarial traditions differ in ritual emphasis, monastic codes, and interpretive details, but all affirm that ethical transformation is the indispensable foundation of spiritual freedom.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "मोक्षमार्गस्य हेतवः सम्यग्दर्शनज्ञानचारित्राणि ।",
+      "transliteration": "mokṣamārgasya hetavaḥ samyagdarśanajñānacāritrāṇi",
+      "translation": "The causes of the path to liberation are right worldview, right knowledge, and right conduct.",
+      "notes": "This aphorism (TS 1.1) is the foundational statement linking ethics and liberation. It is accepted across Digambara and Śvetāmbara traditions, though commentaries differ in interpretation."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णाणं चरिअं तहा दंसणं, तिविहं सुद्धं समणो वि होइ ।",
+      "transliteration": "ñāṇaṃ cari’aṃ tahā daṃsaṇaṃ, tivihaṃ suddhaṃ samaṇo vi hoi",
+      "translation": "Through knowledge, conduct, and faith, the ascetic becomes purified in three ways.",
+      "notes": "A key Śvetāmbara canonical text emphasizing ethical purity as the basis of spiritual progress."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "सुद्धो पव्वत्तेण ण होइ बन्धो, मोहप्पहाणेण होइ विमोक्खो ।",
+      "transliteration": "suddho pavvatteṇa ṇ hoi bandho, mohappahāṇeṇa hoi vimokkho",
+      "translation": "By impure activity there is bondage; by the abandonment of delusion there is liberation.",
+      "notes": "A Digambara classic emphasizing internal purity and the role of delusion in karmic bondage."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain ethics are primarily about ritual purity rather than inner transformation.",
+      "reality": "Primary texts consistently emphasize the reduction of passions, awareness, and restraint as the true basis of liberation. Rituals may support discipline, but they are not substitutes for ethical transformation."
+    },
+    {
+      "myth": "Liberation in Jainism is achieved only through extreme asceticism.",
+      "reality": "While full liberation requires monastic conduct, lay ethics are meaningful and necessary steps on the same path. The tradition affirms gradual progress through vows, mindfulness, and reduction of harm."
+    },
+    {
+      "myth": "Nonviolence in Jainism is limited to avoiding physical harm.",
+      "reality": "Nonviolence includes mental and verbal restraint, avoidance of harsh speech, and reduction of passions. Ethical nonviolence is a comprehensive discipline aimed at preventing karmic influx."
+    }
+  ]
+}

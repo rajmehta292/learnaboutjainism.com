@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “microorganism terminology” refers to the extensive vocabulary used in canonical and commentarial literature to describe subtle, imperceptible living beings. Jainism maintains that life exists in countless forms, including those too small to be seen by the naked eye. These beings are classified according to the number of sense faculties (indriyas) they possess, their modes of existence, and their karmic conditions. Microorganisms fall primarily within the category of one‑sensed (ekendriya) beings, especially those with the sense of touch (sparśendriya). \n\nJain texts describe several classes of subtle organisms: earth‑bodied (pṛthivī‑kāyika), water‑bodied (āpa‑kāyika), fire‑bodied (tejas‑kāyika), air‑bodied (vāyu‑kāyika), and plant‑bodied (vanaspati‑kāyika). These categories include both visible and microscopic forms. For example, water‑bodied beings include not only fish or aquatic plants but also minute organisms inhabiting a single drop of water. Earth‑bodied beings include subtle life forms residing in soil or minerals. \n\nThe terminology is not merely biological; it is ethical and metaphysical. Jainism teaches that harming any living being—visible or microscopic—generates karmic bondage. Thus, the vocabulary surrounding microorganisms supports the tradition’s emphasis on nonviolence (ahiṃsā), carefulness (samiti), and restraint (saṃyama). \n\nModern scholarship often compares Jain microorganism terminology with contemporary microbiology. While the categories do not map directly onto scientific taxonomy, they reflect a sophisticated premodern attempt to account for unseen life and its moral significance. The terminology remains central to discussions of lay conduct, monastic discipline, and environmental ethics within Jain traditions.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "एकेन्द्रियाः पृथिव्यापस्तेजोवायुवनस्पतयः",
+      "transliteration": "ekendriyāḥ pṛthivy‑āpas‑tejo‑vāyu‑vanaspatayaḥ",
+      "translation": "One‑sensed beings are earth‑bodied, water‑bodied, fire‑bodied, air‑bodied, and plant‑bodied.",
+      "notes": "Tattvārtha Sūtra 2.13 is a foundational passage for understanding Jain classifications of subtle organisms. Commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi) elaborate that each category includes innumerable microscopic beings not perceptible to ordinary vision."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "एत्थ जीवो एत्थ जीवो—बहुविहो जीवो",
+      "transliteration": "ettha jīvo ettha jīvo—bahu‑viho jīvo",
+      "translation": "Life is here, life is here—life exists in many forms.",
+      "notes": "This early Śvetāmbara canonical text repeatedly emphasizes the omnipresence of life, including subtle beings in earth, water, fire, and air. The text warns ascetics to avoid harming even the smallest organisms."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Kundakunda lineage; compiled by Puṣpadanta and Bhūtabali",
+      "original_text": "सूक्ष्माः जीवाः अनन्ता",
+      "transliteration": "sūkṣmāḥ jīvāḥ anantā",
+      "translation": "Subtle living beings are innumerable.",
+      "notes": "The Ṣaṭkhaṅḍāgama and its commentaries discuss the karmic conditions of subtle organisms and their role in the broader cosmology of living beings."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain microorganism terminology is identical to modern microbiology.",
+      "reality": "Jain categories are ethical‑metaphysical classifications based on sense faculties and modes of embodiment, not scientific taxonomy. They include microscopic beings but do not correspond to bacteria, protozoa, or viruses in a modern biological sense."
+    },
+    {
+      "myth": "Jain texts claim that all microorganisms are harmful.",
+      "reality": "Jainism does not classify beings as harmful or beneficial in a biological sense. Instead, all living beings—microscopic or large—are considered worthy of nonviolence because they possess consciousness and karmic potential."
+    },
+    {
+      "myth": "Microorganisms are mentioned only metaphorically in Jain scriptures.",
+      "reality": "Primary texts explicitly describe subtle, imperceptible organisms inhabiting earth, water, fire, air, and plants. These references are central to monastic conduct rules and ethical teachings."
+    }
+  ]
+}

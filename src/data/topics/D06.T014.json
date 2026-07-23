@@ -1,0 +1,43 @@
+{
+  "overview": "Mohaniya (मोहनीय) is one of the most central and technically elaborated categories within Jain karma theory. It belongs to the destructive (ghātiyā) karmas and is responsible for obscuring right perception, right knowledge, and right conduct by generating delusion, attachment, and aversion. In both Digambara and Śvetāmbara traditions, Mohaniya karma is described as the most powerful and most obstructive of all karmas because it directly affects the soul’s capacity to discern reality and to act in accordance with that discernment.\n\nJain texts classify Mohaniya karma into two broad divisions: Darśana‑mohaniya (perception‑deluding) and Cāritra‑mohaniya (conduct‑deluding). Darśana‑mohaniya obstructs the emergence of right faith (samyag‑darśana), while Cāritra‑mohaniya obstructs right conduct (samyak‑cāritra). A third category, collectively called Anubhāga‑mohaniya, refers to karmas that determine the soul’s passions (kaṣāyas) and quasi‑passions (no‑kaṣāyas), shaping emotional tendencies such as anger, pride, deceit, greed, laughter, fear, disgust, and sexual desire.\n\nThe Mohaniya karmas are considered the last to be destroyed on the path to liberation. In the Gunasthāna system, the progressive weakening and eventual elimination of Mohaniya karma marks the soul’s ascent from delusion (mithyātva) to perfect conduct (yathākhyāta‑cāritra) and ultimately to omniscience (kevala‑jñāna). Because Mohaniya karma governs the emergence of passions, its subsidence or destruction is directly tied to the attainment of equanimity (samatā) and non‑attachment (vītarāga). Jain philosophers emphasize that even if other karmas remain, the destruction of Mohaniya karma ensures irreversible progress toward liberation.\n\nAcross traditions, Mohaniya is treated with great precision. Digambara works such as *Ṣaṭkhaṇḍāgama* and *Karmaprakṛti* provide detailed taxonomies of its subtypes, while Śvetāmbara texts like *Tattvārtha‑sūtra* and its commentaries offer systematic definitions and doctrinal harmonization. Modern scholarship highlights Mohaniya as a sophisticated psychological model describing how cognitive distortion and emotional reactivity bind the soul to saṃsāra. Despite interpretive differences, all traditions agree that Mohaniya karma is the root of spiritual bondage and the primary target of Jain ethical and meditative practice.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha‑sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "मोहनीयः कर्मणो द्विविधः — दर्शनमोहनीयश्च चरित्रमोहनीयश्च",
+      "transliteration": "mohanīyaḥ karmaṇo dvividhaḥ — darśanamohanīyaś ca caritramohanīyaś ca",
+      "translation": "The deluding karma is of two kinds: the perception‑deluding and the conduct‑deluding.",
+      "notes": "This sūtra (TS 8.1) provides the canonical twofold division of Mohaniya karma. Śvetāmbara and Digambara commentaries expand this into detailed sub‑classifications, including passions and quasi‑passions."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama",
+      "author": "Pūjyapāda’s lineage attributes the text to early Digambara elders; traditionally Dharasena and Puṣpadanta‑Bhūtabali",
+      "original_text": "अणुभागमोहनियं कषायणोकषायसमुद्देसो",
+      "transliteration": "aṇubhāga‑mohaniyaṃ kaṣāya‑nokasāya‑samuddeso",
+      "translation": "The anubhāga‑mohaniya comprises the passions and the quasi‑passions.",
+      "notes": "This passage (from the *Karmaprakṛti* section) outlines the Digambara classification of Mohaniya karma into its affective components. The text is highly technical and foundational for Digambara karma theory."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Kundakunda",
+      "original_text": "मोहो जोगं विघडइ, जोगो मोहं विघडइ",
+      "transliteration": "moho jogaṃ vighaḍai, jogo mohaṃ vighaḍai",
+      "translation": "Delusion disrupts spiritual practice, and spiritual practice disrupts delusion.",
+      "notes": "This aphorism highlights the reciprocal relationship between Mohaniya karma and right conduct. Kundakunda’s works emphasize the experiential dimension of delusion and its removal through inner realization."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Mohaniya karma is simply equivalent to moral wrongdoing.",
+      "reality": "Mohaniya karma is a technical category referring to cognitive and emotional delusion, not merely ethical lapses. It includes subtle distortions of perception and conduct that may arise even without overt immoral action."
+    },
+    {
+      "myth": "Mohaniya karma can be eliminated through ritual alone.",
+      "reality": "Primary texts consistently state that Mohaniya karma is weakened and destroyed through right faith, right knowledge, and right conduct, especially through the reduction of passions. Rituals may support discipline, but they cannot independently eliminate Mohaniya."
+    },
+    {
+      "myth": "All forms of Mohaniya karma disappear at once when right faith arises.",
+      "reality": "Jain Gunasthāna theory shows a gradual process: perception‑deluding karma subsides first, while conduct‑deluding and passion‑related Mohaniya karmas persist until much later stages of spiritual development."
+    }
+  ]
+}

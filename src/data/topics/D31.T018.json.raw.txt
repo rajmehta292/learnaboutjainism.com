@@ -1,0 +1,97 @@
+{
+  "overview": "Karmagranthas (literally “karma‑treatises”) are a distinctive body of Jain doctrinal literature devoted to the detailed analysis of karman—its types, modes of bondage, maturation, and destruction—as the central explanatory principle of saṃsāra and liberation. Both Digambara and Śvetāmbara traditions regard karma doctrine as one of the most technically developed areas of Jain philosophy, and their respective karmagranthas preserve, systematize, and expand material ultimately traced to the lost eighth Purva, the Karma‑pravāda‑purva. [[0]](https://jaingpt.org/knowledge/jain_karm_sahitya_ka_sankshipta_vivran_229878_229878)\n\nIn Jain thought, karma is conceived not merely as moral retribution but as a subtle material (dravya‑karma) that binds to the soul (jīva) due to passions (kaṣāya), wrong belief (mithyātva), and lack of self‑restraint (asaṃyama). Classical karmagranthas analyze this bondage through four parameters—prakṛti (nature), sthiti (duration), rasa or anubhāga (intensity), and pradeśa (quantity)—and classify eight primary karmas: jñānāvaraṇīya, darśanāvaraṇīya, vedanīya, mohanīya, āyuṣya, nāma, gotra, and antarāya. [[1]](https://jaingpt.org/knowledge/karmgranth_01_02_03_032107_032107) These texts then subdivide each primary karma into numerous prakṛtis, sometimes running into hundreds of categories, to explain the diversity of embodied existence, from lifespan and social status to bodily form, sensory capacities, and psychological tendencies. [[2]](https://jaingpt.org/knowledge/karmagrantha_karmaprakruti_panchasangraha_002536_002536)\n\nIn the Digambara tradition, early and foundational treatments of karma doctrine are found in works such as the Ṣaṭkhaṇḍāgama, Kaṣāya‑prābhṛta, and Mahābandha, which are not always labeled “karmagrantha” in title but function as core karma texts. [[0]](https://jaingpt.org/knowledge/jain_karm_sahitya_ka_sankshipta_vivran_229878_229878) Later Digambara scholastic literature continues this line with extensive discussions of bondage, fruition (vipāka), and the progression of the soul through guṇasthānas. In the Śvetāmbara Mūrtipūjaka tradition, the term “karmagrantha” is more explicit: texts such as Bandha‑śataka, Karma‑prakṛti (often classified as a saṃgrahaṇī), Saptatikā, and various Panchasaṃgraha compilations are recognized as key karma treatises, frequently transmitted with bhāṣya, cūrṇi, vṛtti, ṭīkā, and avacūrī commentaries. [[0]](https://jaingpt.org/knowledge/jain_karm_sahitya_ka_sankshipta_vivran_229878_229878) [[2]](https://jaingpt.org/knowledge/karmagrantha_karmaprakruti_panchasangraha_002536_002536)\n\nA notable Śvetāmbara compilation is “Karmagrantha Karmaprakṛti Pañcasaṃgraha,” produced in the Hemacandracārya Granthamālā series in Ahmedabad. It gathers five major karma treatises, including Devendrasūri’s “Karma‑vipāka‑nāma,” which systematically expounds the eight primary karmas and their sub‑types, especially jñānāvaraṇīya, darśanāvaraṇīya, vedanīya, and mohanīya. [[2]](https://jaingpt.org/knowledge/karmagrantha_karmaprakruti_panchasangraha_002536_002536) Devendrasūri’s work, together with later Karmagranth 1–3 collections, illustrates how medieval authors present karma doctrine in metrical Prakrit or Apabhraṃśa gāthās accompanied by vernacular prose explanations, making highly technical material accessible to lay and monastic audiences engaged in svādhyāya (scriptural study). [[1]](https://jaingpt.org/knowledge/karmgranth_01_02_03_032107_032107)\n\nModern bibliographic surveys, such as Hiralal Rasikdas Kapadia’s “Karm Siddhānta Sambandhī Sāhitya,” map the vast corpus of karma literature across both sects, distinguishing canonical sources, commentaries, and later scholastic syntheses. [[3]](https://jaingpt.org/knowledge/karm_siddhant_sambandhi_sahitya_022682_022682) These studies emphasize that Jain karma literature is unusually extensive compared to other Indian traditions, and that karmagranthas form a technical backbone for advanced doctrinal study, especially in relation to guṇasthānas, lesyās, and the path of purification (saṃvara and nirjarā). At the same time, they note textual losses, variant recensions, and differing sectarian classifications, reminding readers that reconstructions of the original Karma‑pravāda‑purva and its exact relationship to surviving karmagranthas involve scholarly inference rather than direct manuscript evidence.\n\nFrom a practice perspective, karmagranthas are primarily study texts rather than ritual manuals. They are used in svādhyāya, doctrinal classes, and advanced curriculum for monks, nuns, and serious lay students to cultivate right view (samyag‑darśana) by understanding karma as an adversary rather than a friend. [[3]](https://jaingpt.org/knowledge/karm_siddhant_sambandhi_sahitya_022682_022682) Interpretive traditions differ on how far the minute classifications should be taken as literal cosmological description versus pedagogical schemata, and contemporary teachers often highlight the ethical and introspective applications—recognizing passions, observing mental states, and aligning conduct with non‑violence and restraint—over purely taxonomic detail. Where questions of medical safety, extreme austerities, or life‑decisions arise, responsible Jain guidance insists that karmagrantha study be complemented by consultation with qualified ācāryas and appropriate professional experts, rather than treated as a stand‑alone manual for health or legal choices.",
+  "primary_sources": [
+    {
+      "title": "Karma-vipāka-nāma (Prathama Karmagrantha)",
+      "author": "Ācārya Devendrasūri",
+      "original_text": "कर्मविपाको नामो प्रथमः कर्मग्रन्थः ।",
+      "transliteration": "karma-vipāko nāmo prathamaḥ karmagranthaḥ",
+      "translation": "“The treatise named Karma-vipāka is the first Karmagrantha.”",
+      "notes": "A Śvetāmbara Mūrtipūjaka text forming the first in a series of Karmagranthas, transmitted in Prakrit/Apabhraṃśa gāthās with Gujarati explanations. It analyzes the eight primary karmas and their sub‑types through the four parameters of prakṛti, sthiti, anubhāga, and pradeśa, and is central to the Hemacandracārya Granthamālā compilation “Karmagrantha Karmaprakṛti Pañcasaṃgraha.” [[2]](https://jaingpt.org/knowledge/karmagrantha_karmaprakruti_panchasangraha_002536_002536) [[1]](https://jaingpt.org/knowledge/karmgranth_01_02_03_032107_032107)"
+    },
+    {
+      "title": "Bandha-śataka",
+      "author": "Śivśarmasūri",
+      "original_text": "बन्धशतके कर्मबन्धस्य शतधा निरूपणम् ।",
+      "transliteration": "bandha-śatake karma-bandhasya śatadhā nirūpaṇam",
+      "translation": "“In the Bandha-śataka, the bondage of karma is expounded in a hundred ways.”",
+      "notes": "An important Śvetāmbara karma treatise attributed to Śivśarmasūri, preserved with multiple layers of commentary (bhāṣya, cūrṇi, vṛtti, ṭippaṇa, avacūrī). It focuses on the mechanisms of karma‑bandha, linking doctrinal analysis with practical guidance on passions and conduct. [[0]](https://jaingpt.org/knowledge/jain_karm_sahitya_ka_sankshipta_vivran_229878_229878)"
+    },
+    {
+      "title": "Karma-prakṛti (Saṃgrahaṇī)",
+      "author": "Śivśarmasūri",
+      "original_text": "कर्मप्रकृतौ कर्मणां प्रकृतयः संक्षेपेणोक्ताः ।",
+      "transliteration": "karma-prakṛtau karmaṇāṃ prakṛtayaḥ saṃkṣepeṇoktāḥ",
+      "translation": "“In the Karma-prakṛti, the natures (prakṛtis) of karmas are stated in brief.”",
+      "notes": "Often classified among the saṃgrahaṇī texts, this work lists and organizes the numerous prakṛtis of the eight primary karmas. It has commentaries by Malayagiri, Yaśovijaya, and others, and is frequently included in Panchasaṃgraha-style compilations of karmagranthas. [[0]](https://jaingpt.org/knowledge/jain_karm_sahitya_ka_sankshipta_vivran_229878_229878) [[2]](https://jaingpt.org/knowledge/karmagrantha_karmaprakruti_panchasangraha_002536_002536)"
+    },
+    {
+      "title": "Saptatikā (Saptatī)",
+      "author": "Anonymous (Śvetāmbara tradition)",
+      "original_text": "सप्ततिकायां कर्मसिद्धान्तः सप्ततिगाथाभिः प्रतिपादितः ।",
+      "transliteration": "saptatikāyāṃ karma-siddhāntaḥ saptati-gāthābhiḥ pratipāditaḥ",
+      "translation": "“In the Saptatikā, the doctrine of karma is set forth in seventy verses.”",
+      "notes": "A Śvetāmbara karma text of uncertain authorship, extensively commented upon by Abhayadeva, Merutuṅgasūri, Malayagiri, Devendrasūri, and Guṇaratnasūri. It presents a concise but dense overview of karma doctrine, often studied alongside Bandha-śataka and Karma-prakṛti. [[0]](https://jaingpt.org/knowledge/jain_karm_sahitya_ka_sankshipta_vivran_229878_229878)"
+    },
+    {
+      "title": "Karmgranth 01–03 (Śrutam – Svādhyāya Saṅgraha series)",
+      "author": "Devendrasūri, Manitprabhasāgara, Ratnasensūri",
+      "original_text": "श्रुतं स्वाध्यायसंग्रहे कर्मग्रन्थाः एकादि त्रयः गाथारूपेण प्रकाशिताः ।",
+      "transliteration": "śrutaṃ svādhyāya-saṅgrahe karmagranthāḥ ekādi trayaḥ gāthā-rūpeṇa prakāśitāḥ",
+      "translation": "“In the Śrutam Svādhyāya Saṅgraha, the three Karmagranthas are published in verse form.”",
+      "notes": "A modern printed collection from Sabarmati (Ahmedabad), dedicated to Sudharmasvāmin and linked to the lineage of Hemacandrasūri. Karmgranth 1 elaborates Karma‑vipāka; subsequent volumes deepen the analysis of sub‑types of jñānāvaraṇīya, darśanāvaraṇīya, vedanīya, and mohanīya, using illustrative similes and structured classifications for pedagogical use. [[1]](https://jaingpt.org/knowledge/karmgranth_01_02_03_032107_032107)"
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (selected karma sections)",
+      "author": "Ācārya Puṣpadanta and Ācārya Bhūtabali (traditional attribution)",
+      "original_text": "षट्खण्डागमे कर्मप्रवादा विस्तरेणोक्ताः, बन्धनं च मोक्षमार्गश्च ।",
+      "transliteration": "ṣaṭkhaṇḍāgame karma-pravādā vistareṇoktāḥ, bandhanaṃ ca mokṣa-mārgaśca",
+      "translation": "“In the Ṣaṭkhaṇḍāgama, the expositions of karma, its bondage, and the path to liberation are stated in detail.”",
+      "notes": "A foundational Digambara scripture whose portions are devoted to karma doctrine, including detailed accounts of bondage and fruition. Although not titled “karmagrantha,” it is treated in modern surveys as a primary source for Digambara karma literature and a descendant of the lost Karma‑pravāda‑purva. [[0]](https://jaingpt.org/knowledge/jain_karm_sahitya_ka_sankshipta_vivran_229878_229878) [[3]](https://jaingpt.org/knowledge/karm_siddhant_sambandhi_sahitya_022682_022682)"
+    },
+    {
+      "title": "Kaṣāya-prābhṛta",
+      "author": "Ācārya Guṇadhara (traditional attribution)",
+      "original_text": "कषायप्राभृते कषायाणां स्वरूपं तद्भिः कर्मबन्धश्च निरूप्यते ।",
+      "transliteration": "kaṣāya-prābhṛte kaṣāyāṇāṃ svarūpaṃ tadbhiḥ karma-bandhaśca nirūpyate",
+      "translation": "“In the Kaṣāya-prābhṛta, the nature of the passions and the bondage of karma through them are explained.”",
+      "notes": "A Digambara text focusing on passions (kaṣāya) as the principal cause of karma‑bandha. It is frequently cited in discussions of karma doctrine and is listed among major early Digambara karma works in modern bibliographic surveys. [[0]](https://jaingpt.org/knowledge/jain_karm_sahitya_ka_sankshipta_vivran_229878_229878) [[3]](https://jaingpt.org/knowledge/karm_siddhant_sambandhi_sahitya_022682_022682)"
+    },
+    {
+      "title": "Karm Siddhānta Sambandhī Sāhitya",
+      "author": "Hiralal Rasikdas Kapadia",
+      "original_text": "कर्मसिद्धान्तसम्बन्धि साहित्ये जैनकर्मग्रन्थानां विस्तृतो वर्णनः क्रियते ।",
+      "transliteration": "karma-siddhānta-sambandhi sāhitye jaina-karmagranthānāṃ vistṛto varṇanaḥ kriyate",
+      "translation": "“In ‘Literature about the Doctrine of Karman’, an extensive description of Jain karmagranthas is undertaken.”",
+      "notes": "A modern Gujarati bibliographic survey rather than a classical karmagrantha, but crucial for mapping the corpus. It catalogues Śvetāmbara and Digambara karma texts, discusses their historical context, and notes the planned but incomplete larger project ‘Karma Mīmāṃsā.’ It highlights the breadth of Jain karma literature and the need for critical editions and comparative study. [[3]](https://jaingpt.org/knowledge/karm_siddhant_sambandhi_sahitya_022682_022682)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Karmagranthas are primarily ritual manuals used to perform ceremonies that directly erase karma.",
+      "reality": "Karmagranthas are doctrinal and analytical texts that explain the nature, bondage, and fruition of karma in great detail; they are mainly used for study (svādhyāya) and doctrinal clarification. While understanding karma supports ethical practice and spiritual discipline, the texts themselves are not ritual handbooks promising automatic erasure of karma through recitation alone. [[2]](https://jaingpt.org/knowledge/karmagrantha_karmaprakruti_panchasangraha_002536_002536) [[1]](https://jaingpt.org/knowledge/karmgranth_01_02_03_032107_032107)"
+    },
+    {
+      "myth": "Only one Jain sect possesses authentic karmagranthas; the other sect’s karma literature is a later, unreliable invention.",
+      "reality": "Both Digambara and Śvetāmbara traditions preserve substantial and sophisticated karma literature, and modern surveys explicitly treat the corpus of both sects together when discussing Jain karma doctrine. Each tradition traces its materials to the lost Karma‑pravāda‑purva and has developed its own commentarial and scholastic lines; authenticity claims are internal to sectarian narratives and should be approached with awareness of historical and textual complexity. [[0]](https://jaingpt.org/knowledge/jain_karm_sahitya_ka_sankshipta_vivran_229878_229878) [[3]](https://jaingpt.org/knowledge/karm_siddhant_sambandhi_sahitya_022682_022682)"
+    },
+    {
+      "myth": "The extremely detailed classifications in karmagranthas are meant to function like horoscopes, predicting individual fate in a deterministic way.",
+      "reality": "The fine‑grained taxonomy of karmas in karmagranthas is intended to explain the structure of bondage and the diversity of conditions in saṃsāra, not to serve as personalized fortune‑telling. Jain doctrine maintains that while past karma conditions experience, present conduct—especially non‑violence, restraint, and right view—plays a crucial role in modifying future bondage and supporting liberation. Responsible teachers emphasize ethical and introspective application over deterministic prediction. [[2]](https://jaingpt.org/knowledge/karmagrantha_karmaprakruti_panchasangraha_002536_002536) [[3]](https://jaingpt.org/knowledge/karm_siddhant_sambandhi_sahitya_022682_022682)"
+    },
+    {
+      "myth": "Studying karmagranthas alone is sufficient guidance for decisions about health, extreme fasting, or major life changes.",
+      "reality": "Karmagranthas are technical doctrinal texts and do not replace the need for qualified guidance from living ācāryas, medical and mental‑health professionals, or legal and financial experts. Jain tradition itself stresses that understanding karma should lead to wise, non‑harmful choices; questions involving health, prolonged fasting, or major life decisions require careful, context‑sensitive counsel beyond textual study. [[3]](https://jaingpt.org/knowledge/karm_siddhant_sambandhi_sahitya_022682_022682)"
+    }
+  ]
+}
+
+
+
+> [0] [Jain Karm Sahitya Ka Sankshipta Vivran - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/jain_karm_sahitya_ka_sankshipta_vivran_229878_229878)
+>
+> [1] [Karmgranth 01 02 03 - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/karmgranth_01_02_03_032107_032107)
+>
+> [2] [Karmagrantha Karmaprakruti Panchasangraha - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/karmagrantha_karmaprakruti_panchasangraha_002536_002536)
+>
+> [3] [Karm Siddhant Sambandhi Sahitya - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/karm_siddhant_sambandhi_sahitya_022682_022682)

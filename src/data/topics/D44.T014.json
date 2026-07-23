@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical and ethical literature, “interest” most commonly appears in discussions of financial conduct, lay ethics, and karmic implications of economic activity. Jain traditions do not treat interest (vyāja, vṛddhi) as a metaphysical category; rather, it is addressed within the broader framework of ahiṃsā (non‑harm), aparigraha (non‑possessiveness), and right livelihood. The term is also relevant in historical contexts where Jain communities engaged in trade, banking, and credit systems.\n\nFrom an ethical standpoint, interest is evaluated through its potential to cause harm, exploitation, or attachment. Excessive or coercive interest is described as generating demerit (pāpa) because it increases suffering, fosters greed, and binds the soul through passions (kaṣāyas). Moderate, transparent, and non‑exploitative financial practices are treated differently across sects and commentarial traditions, with some texts permitting interest under strict conditions for householders while others discourage it strongly.\n\nIn the karmic framework, interest is linked to the passions that motivate financial gain. The Tattvārtha Sūtra and its commentaries emphasize that any action driven by greed or deceit binds karma, regardless of legality or social acceptance. Thus, the moral evaluation of interest depends less on the mechanism of lending and more on the intention, attachment, and harm involved.\n\nHistorically, Jain merchants and bankers developed sophisticated credit systems. Medieval śrāvakācāras (lay conduct manuals) discuss interest rates, ethical lending, and the avoidance of exploitation. These texts show an awareness of practical economic needs while grounding guidance in the core vows of lay life.\n\nAcross sects, the treatment of interest varies. Digambara and Śvetāmbara śrāvakācāras both warn against exploitative lending, though some Śvetāmbara texts provide more detailed rules for acceptable interest in commercial contexts. Modern Jain ethics continues to debate interest in light of global finance, micro‑lending, and social justice, often emphasizing transparency, compassion, and non‑harm.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "लोभः कर्म बन्धहेतुः",
+      "transliteration": "lobhaḥ karma bandhahetuḥ",
+      "translation": "Greed is a cause of karmic bondage.",
+      "notes": "While the text does not mention interest directly, commentaries (Tier B) apply this principle to financial practices driven by greed, including exploitative interest."
+    },
+    {
+      "title": "Śrāvakācāra (various versions)",
+      "author": "Different authors across Digambara and Śvetāmbara traditions",
+      "original_text": "व्याजेन परपीडनं न कर्तव्यम्",
+      "transliteration": "vyājena parapīḍanaṃ na kartavyam",
+      "translation": "One should not cause suffering to others through interest.",
+      "notes": "Appears in multiple śrāvakācāra traditions (Tier B). The exact phrasing varies by manuscript; the principle is consistent: interest must not become a means of harm."
+    },
+    {
+      "title": "Niyamasāra (Digambara)",
+      "author": "Kundakunda",
+      "original_text": "परिग्रहवृद्धिर्दोषहेतुः",
+      "transliteration": "parigrahavṛddhir doṣahetuḥ",
+      "translation": "Increase in possessions is a cause of fault.",
+      "notes": "Though not about interest specifically, commentators use this principle to caution against financial practices that expand attachment, including profit from interest."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism completely forbids charging interest in all circumstances.",
+      "reality": "Primary texts do not categorically ban interest. Instead, they prohibit harm, exploitation, and greed. Some śrāvakācāras allow modest, transparent interest in commercial contexts while condemning coercive or excessive rates."
+    },
+    {
+      "myth": "Interest is considered karmically neutral as long as it is legal.",
+      "reality": "Legality is not the determining factor in Jain ethics. Intention, attachment, and harm are central. Even legal interest can bind karma if motivated by greed or if it causes suffering."
+    },
+    {
+      "myth": "All Jain sects treat interest identically.",
+      "reality": "While the core principles of non‑harm and non‑possessiveness are shared, Digambara and Śvetāmbara śrāvakācāras differ in detail. Some provide explicit guidelines for acceptable interest; others emphasize renunciation and discourage lending altogether."
+    }
+  ]
+}

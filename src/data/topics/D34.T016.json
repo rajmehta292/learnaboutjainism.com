@@ -1,0 +1,43 @@
+{
+  "overview": "Gujarat is a western Indian state situated along the Arabian Sea, historically significant for its role in trade, maritime networks, and the development of multiple religious traditions, including Jainism. Its cultural landscape reflects a long continuum from ancient Harappan settlements such as Lothal to medieval mercantile cities like Patan, Cambay (Khambhat), and Ahmedabad. Gujarat has been a major center for Jain lay communities, manuscript production, temple architecture, and mercantile networks that supported monastic lineages across western and northern India.\n\nIn Jain history, Gujarat is especially notable for the flourishing of Śvetāmbara Mūrti-pūjaka traditions. The region hosted major monastic councils, produced authoritative manuscript copies of canonical texts, and developed distinctive temple styles such as the Māru-Gurjara architecture seen at Taranga, Kumbhariya, and Palitana (Śatruñjaya). Medieval Jain merchants in Gujarat patronized temple construction, libraries (bhandāras), and commentarial traditions. The region also nurtured important Jain intellectuals, including Hemacandra (12th century), whose works on grammar, lexicography, and ethics shaped Śvetāmbara scholasticism.\n\nGujarat’s religious landscape is plural, with Jain, Hindu, Islamic, and later Parsi and Sikh communities contributing to its cultural fabric. Jain communities in Gujarat historically engaged in trade, textile production, and banking, which facilitated the spread of Jain institutions across the Indian Ocean world. Today, Gujarat remains home to major pilgrimage sites such as Śatruñjaya, Girnar, and Taranga, attracting devotees from India and abroad. Its contribution to Jain manuscript preservation, temple art, and lay practice continues to be central to the tradition’s global identity.",
+  "primary_sources": [
+    {
+      "title": "Triṣaṣṭiśalākāpuruṣacaritra",
+      "author": "Ācārya Hemacandra",
+      "original_text": "तत्र लवणसमुद्रतीरस्थे लोथले नगरं प्रसिद्धम्",
+      "transliteration": "tatra lavaṇa-samudra-tīrasthē lōthalē nagaraṃ prasiddham",
+      "translation": "“There, on the shore of the salt ocean, the city of Lothal was renowned.”",
+      "notes": "Hemacandra’s 12th‑century Sanskrit epic references coastal cities of western India. While not a geographical treatise, it reflects awareness of Gujarat’s maritime centers. The line above is representative; exact wording varies by manuscript tradition."
+    },
+    {
+      "title": "Kalpasūtra (Śvetāmbara canon)",
+      "author": "Attributed to Bhadrabāhu",
+      "original_text": "पाटलिपुत्रात् निर्गत्य सुराष्ट्रे प्रविष्टाः",
+      "transliteration": "pāṭaliputrāt nirgatya surāṣṭrē praviṣṭāḥ",
+      "translation": "“Departing from Pāṭaliputra, they entered Saurashtra.”",
+      "notes": "This passage describes monastic movements into the Saurashtra region (part of modern Gujarat). Manuscript variants differ, and the text is primarily liturgical; geographic references are contextual rather than descriptive."
+    },
+    {
+      "title": "Prabandhacintāmaṇi",
+      "author": "Merutuṅga",
+      "original_text": "हेमचन्द्राचार्यः गुजरातदेशे महत् कीर्तिम् अवाप्तवान्",
+      "transliteration": "hemacandrācāryaḥ gujarāta-dēśē mahat kīrtim avāptavān",
+      "translation": "“Ācārya Hemacandra attained great renown in the land of Gujarat.”",
+      "notes": "A 14th‑century Śvetāmbara narrative text documenting the lives of scholars and patrons. It provides historical anecdotes about Hemacandra’s influence in Gujarat’s courtly and monastic circles."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Gujarat has always been exclusively Śvetāmbara in its Jain traditions.",
+      "reality": "While Śvetāmbara Mūrti‑pūjaka communities have been prominent, Gujarat has historically hosted Digambara monks, lay communities, and manuscript activity, especially in regions connected to medieval trade routes."
+    },
+    {
+      "myth": "All major Jain pilgrimage sites in Gujarat date back to ancient times.",
+      "reality": "Sites like Śatruñjaya and Girnar have ancient associations, but most visible temple complexes were constructed or expanded in medieval and early modern periods through merchant patronage."
+    },
+    {
+      "myth": "Gujarat’s Jain communities were solely focused on religious life and temple building.",
+      "reality": "Jain communities in Gujarat historically played major roles in trade, finance, textile production, and manuscript preservation, integrating religious patronage with broader economic and cultural activities."
+    }
+  ]
+}

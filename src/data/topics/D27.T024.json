@@ -1,0 +1,43 @@
+{
+  "overview": "Sectarian acceptance in Jainism refers to the principles, practices, and historical patterns through which different Jain communities—primarily Digambara and Śvetāmbara traditions, along with sub-sects such as Mūrtipūjaka, Sthānakavāsī, and Terāpanth—recognize one another as participants in the broader Jain dharma. The concept does not appear as a single technical term in canonical literature, but it emerges from broader Jain commitments to non-violence (ahiṃsā), non-absolutism (anekāntavāda), and dialogical humility (syādvāda). These philosophical foundations have historically shaped how sects coexist, debate, and sometimes disagree while still acknowledging shared devotion to the teachings of the Jinas.\n\nIn classical sources, sectarian acceptance is grounded in the idea that truth is multifaceted and that differing perspectives may reflect partial insights into the same reality. This principle, articulated in texts such as the *Tattvārtha Sūtra* and elaborated in medieval commentaries, provides a conceptual basis for respecting doctrinal diversity. While sectarian divisions emerged over issues such as monastic nudity, scriptural canons, and ritual practice, the underlying ethic of anekāntavāda has often encouraged mutual recognition rather than exclusion.\n\nHistorically, Jain communities have demonstrated varying degrees of acceptance. Medieval debates between Digambara and Śvetāmbara scholars were sometimes sharp, yet they frequently operated within shared intellectual frameworks and acknowledged each other as Jain interlocutors. In modern times, sectarian acceptance has expanded through inter-sect conferences, collaborative scholarship, and unified ethical initiatives. Lay communities often practice a pragmatic form of acceptance, participating in festivals, lectures, and charitable activities across sectarian lines.\n\nContemporary discussions of sectarian acceptance also intersect with global Jain identity. Diaspora communities, especially in North America and Europe, often emphasize unity over sectarian boundaries, creating institutions that serve multiple traditions. This trend reflects both practical needs and renewed interest in philosophical principles that support pluralism. Nevertheless, differences in monastic discipline, canonical authority, and ritual norms remain important within each tradition, and responsible scholarship acknowledges these distinctions without collapsing them.\n\nOverall, sectarian acceptance in Jainism is best understood as a dynamic interplay between doctrinal diversity and shared ethical commitments. It is neither complete uniformity nor rigid separation, but a tradition-guided approach to coexistence rooted in non-violence, epistemic humility, and respect for multiple viewpoints.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (disputed between Digambara and Śvetāmbara traditions)",
+      "original_text": "अनेकान्तवादः",
+      "transliteration": "anekāntavādaḥ",
+      "translation": "Doctrine of manifold aspects.",
+      "notes": "Although the term appears in broader philosophical discussions rather than as a standalone sutra, the *Tattvārtha Sūtra* and its commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) articulate the epistemic foundations that later inform sectarian tolerance. The principle supports recognition of multiple valid perspectives."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Attributed to Mahāvīra’s disciples; Śvetāmbara canon",
+      "original_text": "णाणस्स गरुअं, दंसणस्स गरुअं",
+      "transliteration": "ñāṇassa garuaṃ, daṃsaṇassa garuaṃ",
+      "translation": "Knowledge is venerable, faith is venerable.",
+      "notes": "This text emphasizes respect for knowledge and right faith, forming a basis for valuing sincere practice across communities. It does not address sectarianism directly but contributes to the ethical environment that supports acceptance."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda (Digambara)",
+      "original_text": "समयसारं नयविभागेण भणियं",
+      "transliteration": "samayasāraṃ nayavibhāgeṇa bhaṇiyaṃ",
+      "translation": "The essence of the Self is explained through various standpoints.",
+      "notes": "Kundakunda’s emphasis on multiple standpoints (naya) reinforces the philosophical basis for acknowledging diverse interpretations within Jainism."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain sects fully agree on doctrine and practice, making sectarian acceptance effortless.",
+      "reality": "Jain sects maintain significant differences in scripture, monastic discipline, and ritual practice. Sectarian acceptance arises not from uniformity but from philosophical commitments to non-violence and epistemic humility."
+    },
+    {
+      "myth": "Sectarian acceptance means that doctrinal disagreements are irrelevant or discouraged.",
+      "reality": "Historical Jain scholarship includes robust debate. Acceptance does not eliminate disagreement; it frames debate within respectful, non-harmful engagement."
+    },
+    {
+      "myth": "Modern Jain unity movements erase traditional sectarian identities.",
+      "reality": "Contemporary unity efforts often promote cooperation while preserving distinct monastic lineages, canonical traditions, and ritual norms."
+    }
+  ]
+}

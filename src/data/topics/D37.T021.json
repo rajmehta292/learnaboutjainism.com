@@ -1,0 +1,35 @@
+{
+  "overview": "Oceans are vast bodies of saline water that cover approximately 71% of Earth’s surface and play a central role in regulating climate, supporting biodiversity, and shaping geological and atmospheric processes. Modern oceanography divides the global ocean into five major regions—Pacific, Atlantic, Indian, Southern, and Arctic—each with distinct physical, chemical, and ecological characteristics. Oceans influence weather patterns through heat distribution, drive the water cycle via evaporation, and serve as major carbon sinks that help moderate atmospheric greenhouse gases.\n\nBiologically, oceans contain an extraordinary range of life—from microscopic plankton to the largest animals on Earth, such as blue whales. Marine ecosystems include coral reefs, kelp forests, deep-sea vents, open-ocean pelagic zones, and polar seas. These ecosystems support complex food webs and provide essential services such as fisheries, nutrient cycling, and oxygen production. Geologically, oceans shape Earth’s crust through processes like seafloor spreading, subduction, and sediment deposition. The ocean floor contains mountain ranges, trenches, abyssal plains, and volcanic hotspots.\n\nHuman cultures have long depended on oceans for transportation, trade, food, and spiritual meaning. Today, oceans face significant challenges including pollution, overfishing, habitat destruction, acidification, and warming. Scientific research continues to deepen our understanding of ocean dynamics, emphasizing the need for sustainable stewardship to preserve marine environments for future generations.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra (Chapter 3, cosmological descriptions)",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "समुद्राः सप्त",
+      "transliteration": "samudrāḥ sapta",
+      "translation": "“There are seven oceans.”",
+      "notes": "Although the Tattvārtha Sūtra is a Jain philosophical text and not a scientific treatise, it includes cosmological descriptions of the universe. The term ‘samudra’ refers to the seven concentric oceans in Jain cosmology, which differ from modern geological oceans. These references are included here only to show how oceans appear symbolically in Jain literature, not as scientific sources."
+    },
+    {
+      "title": "Jambūdvīpaprajñapti (cosmological sections)",
+      "author": "Attributed to early Śvetāmbara tradition",
+      "original_text": "समुद्र-परिकल्पना",
+      "transliteration": "samudra-parikalpanā",
+      "translation": "“The conceptualization of oceans [within the cosmic structure].”",
+      "notes": "This text describes oceans as part of the Jain cosmic geography surrounding continents and subcontinents. These oceans are metaphorical and cosmological rather than empirical bodies of water."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Oceans are uniformly deep and flat beneath the surface.",
+      "reality": "The ocean floor contains mountains, trenches, ridges, and volcanic formations. The Mariana Trench reaches depths over 11,000 meters, while mid-ocean ridges form the longest mountain chains on Earth."
+    },
+    {
+      "myth": "Oceans are inexhaustible sources of fish and resources.",
+      "reality": "Many fish populations are declining due to overfishing, habitat loss, and climate change. Sustainable management is necessary to prevent collapse of marine ecosystems."
+    },
+    {
+      "myth": "The ocean is too vast to be affected by human activity.",
+      "reality": "Pollution, warming, acidification, and plastic waste have measurable impacts on marine life and ocean chemistry, demonstrating that human actions significantly influence ocean health."
+    }
+  ]
+}

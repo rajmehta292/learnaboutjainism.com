@@ -1,0 +1,39 @@
+{
+  "overview": "Broken-link checking is the process of systematically identifying and addressing hyperlinks that no longer lead to their intended destination. These links—often called dead links, 404 links, or link rot—occur when a target page is removed, moved without proper redirection, or its domain expires. Broken-link checking is essential for maintaining the usability, credibility, and search-engine performance of websites, digital libraries, and online knowledge systems.\n\nFrom a user-experience perspective, broken links interrupt navigation, frustrate visitors, and can cause them to abandon a site altogether. When a user clicks a link, they expect a meaningful resource; encountering an error page instead signals neglect or poor maintenance. For organizations that rely on online content—such as universities, archives, businesses, and religious or cultural institutions—regular broken-link checking helps preserve trust and ensures that important information remains accessible.\n\nTechnically, broken-link checking can be performed manually or with automated tools. Manual checking involves periodically reviewing pages and testing links one by one, which is feasible only for small sites. Automated tools, such as link crawlers and website audit software, scan a site’s HTML, follow internal and external links, and record HTTP status codes (e.g., 200 OK, 404 Not Found, 301 Moved Permanently). These tools generate reports listing problematic URLs, their locations, and the type of error encountered, allowing administrators to update, redirect, or remove links as needed.\n\nBroken-link checking also plays a role in search engine optimization (SEO). Search engines evaluate site quality using signals that include link integrity; a site with many broken links may be perceived as outdated or poorly maintained. By fixing broken links, site owners can improve crawl efficiency, preserve link equity (the value passed through hyperlinks), and maintain or enhance their rankings. In addition, replacing broken outbound links with current, authoritative sources can strengthen a site’s topical relevance and usefulness.\n\nIn long-lived digital projects—such as academic repositories, scriptural archives, or historical collections—broken-link checking intersects with digital preservation. As external resources change or disappear over time, curators may adopt strategies like linking to stable identifiers (DOIs, handles), using web archives (e.g., archived snapshots), or mirroring key documents. Regular broken-link audits, combined with thoughtful linking practices, help ensure that the web of references surrounding a body of knowledge remains coherent and reliable.\n\nOverall, broken-link checking is not a one-time task but an ongoing maintenance practice. As content evolves, domains change hands, and technologies shift, links will inevitably break. Establishing scheduled checks, integrating link validation into publishing workflows, and documenting policies for updating or retiring links are all part of a robust approach to sustaining the integrity and accessibility of online information.",
+  "primary_sources": [
+    {
+      "title": "Hypertext Transfer Protocol (HTTP/1.1): Semantics and Content (RFC 7231)",
+      "author": "Internet Engineering Task Force (IETF)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Defines HTTP status codes such as 404 Not Found and 410 Gone, which are central to detecting broken links and understanding server responses when a resource is unavailable.",
+      "notes": "This technical standard provides the formal semantics for HTTP responses. Broken-link checking tools rely on these status codes to classify links as valid, redirected, or broken."
+    },
+    {
+      "title": "Uniform Resource Locators (URL) Specification (RFC 1738 and successors)",
+      "author": "Tim Berners-Lee et al.",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Specifies the structure and interpretation of URLs, the foundational identifiers used in hyperlinks across the web.",
+      "notes": "Understanding URL syntax and behavior is essential for broken-link checking, as malformed or incorrectly encoded URLs can themselves cause link failures."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Broken-link checking is only necessary for large commercial websites.",
+      "reality": "Any site—personal blog, academic project, community archive, or institutional portal—benefits from regular broken-link checking. Even small sites can quickly accumulate dead links as external resources change or disappear, and maintaining link integrity is important for user trust and information reliability regardless of scale."
+    },
+    {
+      "myth": "If a page loads eventually, the link is not broken.",
+      "reality": "A link can be considered problematic even if the browser eventually displays content. For example, a link that redirects multiple times, leads to an irrelevant landing page, or returns intermittent errors may still harm usability and SEO. Broken-link checking looks not only for hard errors like 404 but also for patterns of redirection and instability that degrade the quality of navigation."
+    },
+    {
+      "myth": "Search engines will automatically fix or ignore broken links, so site owners do not need to worry.",
+      "reality": "Search engines can detect broken links, but they do not repair them on behalf of site owners. Instead, they may reduce crawling of problematic areas or treat the site as poorly maintained. It is the responsibility of site administrators to monitor, update, or remove broken links to preserve both user experience and search visibility."
+    },
+    {
+      "myth": "Automated tools can find every broken link without any human oversight.",
+      "reality": "Automated broken-link checkers are powerful, but they have limitations. They may not access password-protected areas, may misinterpret JavaScript-generated links, or may flag temporary network issues as permanent failures. Human review of reports, combined with contextual judgment about which links to update, redirect, or retire, remains an important part of effective link maintenance."
+    }
+  ]
+}

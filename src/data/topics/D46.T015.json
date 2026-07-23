@@ -1,0 +1,51 @@
+{
+  "overview": "Monastic institutions in Jainism—known broadly as the *saṅgha*—are structured communities of ordained mendicants who undertake rigorous vows of non‑violence, non‑possession, truthfulness, celibacy, and non‑stealing. These institutions serve as custodians of scriptural learning, ritual practice, ethical discipline, and the transmission of lineage. While the term *saṅgha* appears in early canonical sources to denote the fourfold community (monks, nuns, laymen, laywomen), monastic institutions specifically refer to the organized bodies of monks (*muni*, *sādhu*) and nuns (*āryikā*, *sādhvī*) who live under rules codified in primary texts.\n\nAcross Jain traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Śvetāmbara Terāpanth—monastic institutions differ in their disciplinary codes, modes of worship, scriptural canons, and administrative structures. Digambara monastic institutions emphasize nudity for fully ordained monks, strict itinerancy, and the authority of texts such as the *Mūlācāra* and *Ṣaṭkhaṅḍāgama*. Śvetāmbara Mūrti‑pūjaka institutions maintain temple‑centered practice, white robes, and scriptural authority rooted in the *Āgamas*. Sthānakavāsī institutions reject image worship and emphasize meditation and non‑violence in speech. The Terāpanth tradition is distinguished by its centralized leadership under an *Ācārya* and its codified discipline (*Maryādā*).\n\nMonastic institutions historically functioned as centers of learning, manuscript preservation, ethical instruction, and community arbitration. They also shaped regional Jain culture through patronage networks, temple administration (in Mūrti‑pūjaka contexts), and the training of laypeople in vows and festivals. Despite differences, all Jain monastic institutions share a commitment to the ideal of liberation (*mokṣa*) through disciplined conduct, scriptural study, and the gradual purification of karma.\n\nModern monastic institutions continue to evolve, balancing ancient itinerant ideals with contemporary needs such as education, community outreach, manuscript conservation, and ethical guidance. They remain central to the transmission of Jain philosophy, ritual, and ethical life, while also navigating questions of gender, mobility, environmental ethics, and global diaspora engagement.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; Śvetāmbara canon",
+      "original_text": "णं च णं च विणइए, णं च णं च अणइए",
+      "transliteration": "ṇaṃ ca ṇaṃ ca viṇaie, ṇaṃ ca ṇaṃ ca aṇaie",
+      "translation": "“Some (acts) are to be done, and some are not to be done.”",
+      "notes": "Book I of the Ācārāṅga Sūtra outlines foundational monastic conduct, including non‑violence, restraint, and itinerancy. It is a primary Śvetāmbara source for monastic discipline."
+    },
+    {
+      "title": "Mūlācāra",
+      "author": "Vattakera (Digambara tradition)",
+      "original_text": "मूलाचारो हि मुनिनां कारणं मोक्षसाधने",
+      "transliteration": "mūlācāro hi munināṃ kāraṇaṃ mokṣasādhane",
+      "translation": "“The foundational conduct of monks is the means for attaining liberation.”",
+      "notes": "A key Digambara text describing monastic vows, nudity, discipline, and the structure of mendicant life. It is central to Digambara monastic institutions."
+    },
+    {
+      "title": "Bhagavatī Sūtra",
+      "author": "Śvetāmbara canon",
+      "original_text": "संगहेणं भिक्खू भिक्खुणीओ उपासगाओ उपासिकाओ",
+      "transliteration": "saṅgahenaṃ bhikkhū bhikkhuṇīo upāsagāo upāsikao",
+      "translation": "“The saṅgha consists of monks, nuns, laymen, and laywomen.”",
+      "notes": "This text provides doctrinal and narrative context for the fourfold community and its interdependent roles."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (summary reference; full text not quoted due to length)",
+      "author": "Kundakunda lineage; Digambara tradition",
+      "original_text": "—",
+      "transliteration": "—",
+      "translation": "Contains detailed doctrinal analysis of karma and conduct, forming part of the Digambara scriptural foundation.",
+      "notes": "While not a monastic rulebook, its doctrinal authority shapes Digambara monastic institutions and their emphasis on karma theory."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain monastic institutions follow identical rules and practices.",
+      "reality": "Different Jain traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—maintain distinct disciplinary codes, scriptural canons, and administrative structures."
+    },
+    {
+      "myth": "Monastic institutions are primarily ritual or temple‑centered organizations.",
+      "reality": "Only Śvetāmbara Mūrti‑pūjaka monastic institutions are closely tied to temple worship. Digambara, Sthānakavāsī, and Terāpanth institutions emphasize non‑ritualistic discipline, meditation, and itinerancy."
+    },
+    {
+      "myth": "Jain monks and nuns live in isolation from lay communities.",
+      "reality": "Monastic institutions rely on lay support for food and logistics, while laypeople rely on monastics for scriptural teaching, ethical guidance, and lineage continuity."
+    }
+  ]
+}

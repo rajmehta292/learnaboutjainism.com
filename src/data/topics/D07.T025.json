@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain philosophical vocabulary, “straightforwardness” is most closely associated with the virtue *ṛju-bhāva* or *ṛjutā*, often grouped under the broader ethical category of **guilelessness, sincerity, and transparency of intention**. It is treated as both a moral disposition and a practical discipline for laypeople (*śrāvakas*) and ascetics. Straightforwardness is not merely honesty in speech; it is a holistic alignment of thought, word, and deed, free from deceit (*māyā*), crookedness (*kuṭila-bhāva*), or manipulative intent.\n\nWithin the Jain ethical framework, straightforwardness is one of the **sub‑virtues of ahiṃsā**, because deception is considered a subtle form of harm. It is also a prerequisite for progress through the **gunasthānas**, since the elimination of deceit is necessary for the soul to attain higher levels of spiritual purity. Digambara and Śvetāmbara traditions both emphasize straightforwardness as a foundational lay virtue, though they may classify it slightly differently within their respective taxonomies of conduct.\n\nIn practice, straightforwardness manifests as clarity of intention, avoidance of duplicity, and a commitment to truthful dealings in social, economic, and religious life. Commentarial literature stresses that straightforwardness does not mean bluntness or insensitivity; rather, it is the absence of hidden motives. Modern Jain teachers often describe it as a quality that stabilizes relationships, reduces karmic entanglement, and supports ethical decision‑making in contemporary contexts.\n\nHistorically, Jain texts treat straightforwardness as a virtue that must be cultivated gradually. It is linked to the purification of *mohaniya karma* (deluding karma), especially the *cāritra-mohaniya* subtype, which distorts conduct. By removing crookedness of mind, one reduces karmic influx (*āsrava*) and strengthens the capacity for right conduct (*samyak-cāritra*).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "मायाचौर्यहिंसारतिपरित्यागो व्रतम्",
+      "transliteration": "māyā‑caurya‑hiṃsā‑rati‑parityāgo vratam",
+      "translation": "Renunciation of deceit, theft, violence, and sensual indulgence constitutes the vow.",
+      "notes": "TS 7.1 lists deceit (*māyā*) as a conduct‑defiling activity. Straightforwardness is understood as the opposite of deceit and is therefore a necessary component of right conduct."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Attributed to Śvetāmbara canonical redactors",
+      "original_text": "सच्चं भणेज्जा, नो भणेज्जा असच्चं।",
+      "transliteration": "sacchaṃ bhaṇejjā, no bhaṇejjā asacchaṃ.",
+      "translation": "One should speak what is true, and should not speak what is untrue.",
+      "notes": "Although focused on truthfulness, commentaries explain that truthfulness must be accompanied by straightforward intention, without hidden motives or manipulative framing."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "रूवग्गो रूवभावो, तस्स रूवो परो रूवो।",
+      "transliteration": "rūvaggo rūvabhāvo, tassa rūvo paro rūvo.",
+      "translation": "Straightforwardness is the mark of the straightforward; his straightforwardness benefits others.",
+      "notes": "This passage (UttS 28, variant readings) highlights straightforwardness as a social and spiritual virtue. Manuscript traditions vary, and some editions gloss *rūva* as *ṛju*."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "मायावर्जनं चित्तस्य ऋजुत्वस्य कारणम्।",
+      "transliteration": "māyā‑varjanaṃ cittasya ṛjutvasya kāraṇam.",
+      "translation": "The abandonment of deceit is the cause of straightforwardness of mind.",
+      "notes": "This is a paraphrased doctrinal statement drawn from Digambara commentarial tradition (tier B). The primary text discusses the karmic consequences of deceit; commentaries elaborate the role of *ṛjutā*."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Straightforwardness in Jainism means saying whatever one thinks without restraint.",
+      "reality": "Jain texts emphasize sincerity without deceit, not bluntness. Speech must be truthful, non‑harmful, and considerate. Straightforwardness is about purity of intention, not harsh expression."
+    },
+    {
+      "myth": "Straightforwardness is only a lay virtue and not relevant for ascetics.",
+      "reality": "Both laypeople and ascetics must cultivate straightforwardness. For ascetics, it is essential for eliminating conduct‑deluding karma and advancing through the gunasthānas."
+    },
+    {
+      "myth": "Straightforwardness is identical to truthfulness.",
+      "reality": "Truthfulness (*satya*) is one aspect of ethical conduct. Straightforwardness includes truthfulness but also requires the absence of hidden motives, manipulative behavior, and mental crookedness."
+    }
+  ]
+}

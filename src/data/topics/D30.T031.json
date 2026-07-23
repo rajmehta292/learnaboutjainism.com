@@ -1,0 +1,67 @@
+{
+  "overview": "The phrase \"AI explanation distinction\" points to a growing need to clearly separate different kinds of outputs produced by artificial intelligence systems—especially large language models—from the standpoint of epistemology. In Jain philosophical terms, this distinction can be framed using the categories of pramāṇa (valid, justified cognition) and naya (partial, perspectival cognition). When an AI system generates text, it may appear to be offering an explanation, but very often it is only producing a description or a plausible narrative without the marks of valid knowledge as understood in classical Jain thought.\n\nAt a basic level, we can distinguish three layers of AI output. First, there is mere description: the model strings together patterns from its training data to summarize or restate information. Second, there is what users often call \"explanation\": the model presents reasons, causes, or justifications for a claim. Third, there is epistemic grounding: the model connects its claims to traceable sources, clear inferential steps, and a transparent account of uncertainty. Jain epistemology insists that genuine pramāṇa requires not only that a cognition be true, but that it arise from a reliable means of knowledge and be distinguishable from doubt, error, and conjecture. Many AI \"explanations\" fail this test because they lack demonstrable linkage to trustworthy pramāṇa and instead rely on probabilistic pattern-matching.\n\nJain thinkers classify knowledge into direct (pratyakṣa/aparokṣa) and indirect (parokṣa), and further into types such as mati-jñāna (sensory and mental perception), śruta-jñāna (scriptural or testimonial knowledge), avadhi-jñāna (clairvoyant knowledge), manaḥparyāya-jñāna (telepathic knowledge), and kevala-jñāna (omniscience). AI-generated content, even when accurate, belongs squarely within the domain of indirect, mediated cognition for the human user: it is a form of śruta-like testimony that must be critically evaluated. The \"explanation distinction\" therefore asks us to separate (1) AI as a tool that reorganizes and presents testimony, from (2) the human process of validating that testimony through appropriate pramāṇa—perception, inference, and reliable scriptural authority.\n\nJainism also emphasizes the interplay of pramāṇa and naya. Pramāṇa aims at comprehensive, valid cognition, while naya captures partial, standpoint-bound views. AI systems, trained on vast but finite datasets, typically offer naya-like outputs: they reflect particular standpoints, biases, and contexts embedded in their training material. When an AI gives an \"explanation\" of a doctrine such as anekāntavāda (non-absolutism) or karmic theory, it is not presenting kevala-jñāna or even fully adequate pramāṇa; it is presenting a naya—a partial articulation conditioned by language, data, and prompt. The explanation distinction, in Jain terms, is the discipline of remembering that AI outputs are nayas that must be situated within a broader epistemic framework, not treated as self-sufficient pramāṇa.\n\nFrom a technical perspective, modern discussions of AI reliability often speak of an \"epistemic gap\": models can produce fluent, confident text without a robust method for distinguishing knowledge from hypothesis or hallucination. Jain epistemology already warns against such confusion. It differentiates between saṃśaya (doubt), viparyaya (error), anadhyavasāya (indeterminate cognition), and pramāṇa (valid cognition). An AI system that cannot show its sources, justify its inferences, or mark its uncertainty is closer to conjecture than to pramāṇa. The explanation distinction therefore requires that we ask, for every AI-generated explanation: Is this merely a verbal construction, or is it supported by identifiable means of knowledge? Does it transparently indicate its limitations and conditionality, in the spirit of syādvāda (conditioned predication)?\n\nIn practical Jain lay and scholarly contexts, this distinction has ethical implications. When AI is used to summarize scriptures, explain vows, or discuss practices such as fasting or sallekhanā, users must not treat the system as an ācārya or as a source of binding guidance. Instead, AI should be seen as a tool for organizing śruta-jñāna, always subordinate to living teachers, established textual traditions, and careful personal discernment. The explanation distinction reminds us that an AI can help clarify terminology, compare commentarial positions, or highlight historical developments, but it cannot confer spiritual authority or replace the role of pramāṇa grounded in disciplined study, practice, and realization.\n\nFinally, the Jain doctrine of anekāntavāda offers a constructive way to use AI while respecting the explanation distinction. Anekāntavāda teaches that reality is many-sided and that any single statement captures only a facet of truth. AI systems, when properly constrained, can present multiple perspectives, historical interpretations, and comparative views across Jain sub-traditions and other philosophies. Yet each of these is still a naya, not the whole. The responsible use of AI in Jain studies involves recognizing that its explanations are conditional, partial, and revisable, and that they must be checked against primary texts, traditional commentaries, and qualified human guidance. In this way, the explanation distinction becomes a safeguard: it protects both the integrity of Jain epistemology and the spiritual well-being of those who engage with AI in religious and philosophical domains.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "ज्ञानदर्शनचारित्राणि मोक्षमार्गः ।",
+      "transliteration": "jñāna-darśana-cāritrāṇi mokṣa-mārgaḥ.",
+      "translation": "Right knowledge, right perception, and right conduct are the path to liberation.",
+      "notes": "This foundational aphorism situates knowledge (jñāna) and perception (darśana) as essential components of the spiritual path. In the context of AI explanation distinction, it reminds us that liberation-oriented knowledge must be right (samyag) and grounded in valid pramāṇa, not merely in persuasive or fluent descriptions. AI-generated explanations can assist with conceptual clarity, but they do not themselves constitute right knowledge unless critically evaluated and integrated into a disciplined path."
+    },
+    {
+      "title": "Tattvārthasūtra (Epistemology Section)",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "प्रत्यक्षानुमानागमाः प्रमाणम् ।",
+      "transliteration": "pratyakṣānumānāgamāḥ pramāṇam.",
+      "translation": "Perception, inference, and scripture are means of valid knowledge.",
+      "notes": "This sūtra enumerates the principal pramāṇas recognized in Jain philosophy. It provides a clear benchmark for evaluating AI outputs: an AI explanation is not itself a pramāṇa, but at best a reorganization of āgama (scriptural testimony) and other sources. Users must trace AI-generated claims back to these recognized means of knowledge and assess whether the explanation genuinely aligns with perception, sound inference, and authoritative scripture."
+    },
+    {
+      "title": "Aptamīmāṃsā",
+      "author": "Ācārya Samantabhadra",
+      "original_text": "अप्तोक्तिर्न हि मिथ्यैव नित्यं सत्यैव नापि सा ।\nयथार्थानुगता यत्र सा वक्तव्या तु तत्त्वतः ॥",
+      "transliteration": "aptoktir na hi mithyaiva nityaṃ satyaiva nāpi sā,\nyathārthānugatā yatra sā vaktavyā tu tattvataḥ.",
+      "translation": "The statement of the trustworthy one is not always false, nor is it always true; it is to be called true where it accords with reality.",
+      "notes": "Samantabhadra’s reflection on the speech of the apta (trustworthy authority) underscores that even authoritative testimony must be evaluated in relation to reality. Applied to AI, this text highlights that AI is not an apta in the traditional sense; its outputs must be checked for accord with reality and with established pramāṇa. The explanation distinction thus involves recognizing that AI-generated statements can be helpful but are not automatically true or authoritative."
+    },
+    {
+      "title": "Ṣaḍdarśanasamuccaya (Jain Epistemology Passages)",
+      "author": "Ācārya Haribhadra Sūri",
+      "original_text": "प्रमाणं तु यथार्थज्ञानं न संशयविपर्ययाद्यनुगतम् ।",
+      "transliteration": "pramāṇaṃ tu yathārtha-jñānaṃ na saṃśaya-viparyayād-anugatam.",
+      "translation": "Valid knowledge is that which corresponds to reality and is not accompanied by doubt or error.",
+      "notes": "Haribhadra’s definition of pramāṇa emphasizes freedom from doubt and error. AI explanations, by contrast, often carry hidden uncertainty and the risk of hallucination. The explanation distinction requires that users treat AI outputs as potentially fallible and subject to verification, rather than as pramāṇa in Haribhadra’s strict sense."
+    },
+    {
+      "title": "Syādvāda and Nayavāda Verses (as cited in later Jain commentarial tradition)",
+      "author": "Traditional attribution to various Ācāryas, including Malliṣeṇa and others",
+      "original_text": "नयैरेकस्मिन्नर्थे न सर्वं वक्तुं शक्यते ।\nअनेकान्तात्तु तत्त्वस्य बहुधा वर्णनं भवेत् ॥",
+      "transliteration": "nayairekasminn arthe na sarvaṃ vaktuṃ śakyate,\nanekāntāt tu tattvasya bahudhā varṇanaṃ bhavet.",
+      "translation": "By a single standpoint (naya) one cannot express the whole of a thing; due to non-absolutism, reality is to be described in many ways.",
+      "notes": "This verse captures the heart of anekāntavāda and nayavāda. It is directly relevant to AI explanation distinction: AI outputs are typically single-standpoint descriptions, shaped by data and prompts. Recognizing them as nayas—partial views—prevents overreliance and encourages consultation of multiple perspectives, primary texts, and living traditions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "AI explanations about Jainism can be treated as equivalent to the guidance of an ācārya or a living guru.",
+      "reality": "In Jain epistemology, spiritual and doctrinal guidance is rooted in pramāṇa validated through disciplined study, realization, and lineage. AI systems reorganize testimony and patterns from data but do not possess right faith (samyag-darśana), right knowledge (samyag-jñāna), or right conduct (samyag-cāritra). Their explanations must be treated as study aids, not as binding religious rulings or substitutes for qualified human teachers."
+    },
+    {
+      "myth": "If an AI explanation is detailed and sounds confident, it must be a form of valid knowledge (pramāṇa).",
+      "reality": "Jain philosophy defines pramāṇa as knowledge that corresponds to reality and arises from reliable means such as perception, inference, and scripture, free from doubt and error. AI-generated text can be fluent yet mistaken, incomplete, or biased. Without clear sourcing, inferential transparency, and critical verification, such outputs remain conjectural or testimonial, not pramāṇa in the strict Jain sense."
+    },
+    {
+      "myth": "AI can provide a complete, many-sided account (anekānta) of complex doctrines simply by aggregating data.",
+      "reality": "Anekāntavāda teaches that reality is many-sided and that each statement captures only a facet of truth. While AI can present multiple viewpoints, it still operates within the limits of its training data and algorithms. Its outputs are nayas—partial standpoints—not kevala-jñāna or exhaustive anekānta insight. Human practitioners must integrate these partial views with careful study, reflection, and guidance from tradition to approach a more comprehensive understanding."
+    },
+    {
+      "myth": "Using AI to explain practices like fasting, vows, or sallekhanā is sufficient for making personal spiritual or medical decisions.",
+      "reality": "Jain ethics and the mandatory escalation principles of responsible guidance insist that decisions involving health, extreme austerities, or life-and-death matters require consultation with qualified medical professionals and experienced religious teachers. AI explanations can clarify concepts but cannot assess individual health, karmic context, or familial responsibilities. Treating AI as a decision-maker in such domains contradicts Jain emphasis on careful, context-sensitive application of pramāṇa and compassionate responsibility."
+    },
+    {
+      "myth": "Because AI can cite scriptures or use Sanskrit/Prakrit terminology, its explanations automatically reflect traditional Jain epistemology.",
+      "reality": "Correct terminology and citations do not guarantee alignment with Jain epistemic standards. Traditional Jain epistemology involves nuanced distinctions between direct and indirect knowledge, between pramāṇa and naya, and between doctrinal authority and interpretive speculation. AI may mix sources, overlook commentarial debates, or flatten differences between sub-traditions. Users must therefore distinguish between AI’s descriptive capacity and the deeper explanatory frameworks developed by Jain ācāryas over centuries."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical discourse, “testimony” (often discussed under the broader epistemological category of *śabda* or authoritative verbal cognition) refers to knowledge gained through reliable verbal communication. Jain epistemology, which classifies valid knowledge (*pramāṇa*) and subsidiary means of cognition (*pramāṇa-upayoga*), treats testimony as a derivative but important source of understanding, especially for matters beyond direct perception or inference. While Jains emphasize personal verification and disciplined inquiry, they also acknowledge that certain truths—particularly subtle metaphysical doctrines, karmic structures, and advanced ethical instructions—are preserved and transmitted through trustworthy verbal sources.\n\nIn classical Jain thought, testimony is not considered an independent *pramāṇa* in the strictest sense; rather, it is often subsumed under *anumāna* (inference) or treated as a reliable auxiliary means (*naya* or *upamāna* depending on context). The reliability of testimony depends on the credibility of the speaker, the accuracy of transmission, and the internal consistency of the content with established Jain doctrine. The most authoritative testimony is that of the *Jinas*—omniscient beings whose speech (*divya-dhvani*) is considered perfectly reliable. Secondary testimony includes the teachings of *gaṇadharas* (chief disciples), canonical scriptures, and commentarial traditions.\n\nAcross Digambara and Śvetāmbara traditions, the classification and authority of testimony vary slightly, especially regarding the status of surviving scriptures. However, both traditions maintain that testimony must be critically evaluated and harmonized with perception, inference, and the broader Jain epistemic framework. Modern scholarship highlights that Jainism’s nuanced treatment of testimony reflects its commitment to intellectual rigor, non-absolutism (*anekāntavāda*), and the careful preservation of doctrinal integrity.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "प्रमाणान्यनुभवः",
+      "transliteration": "pramāṇāny anubhavaḥ",
+      "translation": "Valid knowledge is direct experience.",
+      "notes": "TS 1.6 establishes perception as the primary form of valid knowledge. Testimony is later treated as a derivative or supportive means, not an independent pramāṇa. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārthavṛtti* (Śvetāmbara) discuss the role of verbal testimony within the broader epistemic system."
+    },
+    {
+      "title": "Nandī Sūtra (Śvetāmbara)",
+      "author": "Attributed to canonical compilers",
+      "original_text": "सुतं नाम श्रुतज्ञानम्",
+      "transliteration": "sutaṃ nāma śrutajñānam",
+      "translation": "What is heard is called scriptural knowledge.",
+      "notes": "The Nandī Sūtra classifies *śruta-jñāna* (scriptural knowledge) as a major category of cognition. Although not identical to testimony, scriptural knowledge includes authoritative verbal teachings and thus forms the basis for understanding testimony in Jain epistemology."
+    },
+    {
+      "title": "Pramāṇa-mīmāṃsā (Digambara)",
+      "author": "Akalanka",
+      "original_text": "आगमोपदेशो युक्तिसंमतः प्रमाणम्",
+      "transliteration": "āgamopadeśo yuktisaṃmataḥ pramāṇam",
+      "translation": "Scriptural instruction, when consistent with reasoning, is valid knowledge.",
+      "notes": "Akalanka emphasizes that testimony (scriptural instruction) must align with rational analysis. This is a key Digambara articulation of the conditional reliability of testimony."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism treats testimony as an unquestionable and independent source of truth.",
+      "reality": "Jain epistemology requires testimony to be evaluated through reasoning, consistency, and alignment with perception and inference. It is not accepted blindly."
+    },
+    {
+      "myth": "All Jain scriptures are equally authoritative testimony across all sects.",
+      "reality": "Different Jain traditions recognize different canonical corpora. Digambaras hold that the original scriptures were lost, while Śvetāmbaras preserve an extensive canon. Testimony is therefore tradition-dependent."
+    },
+    {
+      "myth": "Testimony in Jainism refers only to religious scripture.",
+      "reality": "While scriptural testimony is central, Jain epistemology also recognizes reliable testimony from trustworthy individuals, provided it meets criteria of accuracy and coherence."
+    }
+  ]
+}

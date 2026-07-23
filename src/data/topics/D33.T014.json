@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical literature, the concept of **damage** is not treated merely as physical harm but as a multi‑layered phenomenon involving ethical, karmic, and ontological dimensions. Damage (often expressed through terms such as *hiṃsā*, *āghāta*, *pīḍā*, or *upaghāta*) refers to actions or conditions that injure, obstruct, or diminish the vitality (*prāṇa*) or functional capacities of living beings. Jainism’s rigorous commitment to non‑violence means that any form of damage—physical, verbal, mental, or environmental—is examined with exceptional precision.\n\nFrom an ethical standpoint, damage is primarily understood through the lens of **hiṃsā**, the infliction of harm upon sentient beings. This includes direct injury, indirect injury, negligent injury, and injury caused through support or approval. Damage is not limited to bodily harm; it encompasses emotional distress, destruction of habitat, and interference with the natural functioning of organisms. Jain thinkers classify harm according to intention, instrumentality, and the degree of life‑force affected.\n\nFrom a karmic perspective, damage is linked to the influx (*āsrava*) and bondage (*bandha*) of karmic matter. Acts that damage living beings bind **pāpa karma**, particularly the *nāma* and *āyuṣya* karmas that shape future embodiment. The Tattvārtha Sūtra and its commentaries emphasize that even subtle forms of damage—such as careless speech or unexamined consumption—can generate karmic consequences.\n\nOntologically, Jainism views all living beings as possessing inherent dignity rooted in their *jīva*-nature. Damage disrupts the equilibrium of the soul’s interaction with its body and environment. The doctrine of *prāṇa* (vitalities) provides a technical framework for assessing the severity of harm: damaging a being’s sensory capacity, mobility, respiration, or lifespan constitutes a measurable ethical violation.\n\nIn lay practice, the avoidance of damage is expressed through careful livelihood, mindful consumption, and restraint in daily activities. Household disciplines such as *aṇu-vratas* (small vows) guide practitioners to minimize harm in cooking, cleaning, agriculture, and commerce. Modern Jain ethics extends the concept of damage to ecological degradation, industrial pollution, and harm caused by technological systems.\n\nAcross traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—the core principle remains consistent: damage is not merely an external event but a moral and spiritual disturbance that affects both the harmed being and the agent of harm. The seriousness of damage is evaluated through intention, awareness, and the degree of injury inflicted, with the ultimate aim of cultivating a life of non‑violence, vigilance, and compassion.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmī",
+      "original_text": "हिंसा परितापकरणम्",
+      "transliteration": "hiṃsā paritāp karaṇam",
+      "translation": "Violence is the causing of suffering.",
+      "notes": "TS 7.13 defines harm (hiṃsā) as the act that produces suffering or disturbance in living beings. Commentaries clarify that damage includes injury to any of the vitalities (*prāṇa*)."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जिवा दुव्विहा — बहुविहा, तेसिं पिडा न करणीया",
+      "transliteration": "jīvā duvvihā — bahuvihā, tesiṃ piḍā na karaṇīyā",
+      "translation": "Living beings are of many kinds; harm should not be done to any of them.",
+      "notes": "This passage emphasizes the universality of non‑harm, extending protection to all categories of life, including minute organisms."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जो अघातं करेइ, सो पावं बंधेइ",
+      "transliteration": "jo aghātaṃ karei, so pāvaṃ bandhei",
+      "translation": "One who causes injury binds demerit.",
+      "notes": "The text directly links acts of damage to karmic bondage, reinforcing the moral seriousness of harm."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Damage in Jainism refers only to physical violence.",
+      "reality": "Jain texts define damage broadly, including verbal harm, emotional distress, ecological destruction, and harm caused through negligence or indirect support."
+    },
+    {
+      "myth": "Unintentional damage has no karmic consequences.",
+      "reality": "While intention affects severity, Jain doctrine states that careless or negligent harm still generates karmic influx, though typically of a lighter grade."
+    },
+    {
+      "myth": "Only harm to humans counts as damage.",
+      "reality": "Jain ethics extends protection to all living beings, including plants, microorganisms, and subtle life forms described in canonical texts."
+    }
+  ]
+}

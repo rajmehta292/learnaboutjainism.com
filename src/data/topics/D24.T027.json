@@ -1,0 +1,35 @@
+{
+  "overview": "In Jain studies, inscriptions constitute one of the most important categories of material evidence for reconstructing religious history, monastic lineages, patronage networks, pilgrimage practices, and the evolution of script and language. Jain inscriptions appear across India from at least the early centuries CE and continue into the modern period. They are found on temple walls, pillars, steles, cave complexes, footprints (pādukā), images, and copper plates. Because Jain traditions emphasize textual transmission, inscriptions often preserve colophons, donor records, and genealogies of teachers that help scholars verify the chronology of canonical redactions, commentarial activity, and sectarian developments.\n\nEpigraphic material is especially valuable for Jainism because many early manuscripts have been lost due to climate, conflict, or the fragility of palm-leaf media. Inscriptions thus serve as external anchors for dating events mentioned in literary sources. They also reveal the geographic spread of Jain communities, including the movement of Digambara and Śvetāmbara monastic groups into regions such as Karnataka, Tamil Nadu, Gujarat, Rajasthan, and Uttar Pradesh. Many inscriptions record donations by merchants, guilds, and royal patrons, illustrating the economic and social foundations of Jain religious life.\n\nFrom a linguistic perspective, Jain inscriptions provide evidence for Prakrit dialects (such as Ardhamāgadhī and Śaurasenī), early Sanskrit usage, and later regional languages. They also preserve technical terminology related to monastic ranks, vows, and ritual practices. Epigraphists use these inscriptions to trace the development of iconographic conventions, including the depiction of tīrthaṅkaras, yakṣas, and yakṣiṇīs, and to understand the architectural evolution of cave temples and structural temples.\n\nBecause inscriptions are material artifacts, they must be interpreted with caution. Damage, erosion, and later modifications can obscure meaning. Additionally, inscriptions often reflect the interests of donors or ruling elites, which may not fully represent everyday religious life. Nonetheless, when combined with primary texts and commentaries, inscriptions form a crucial pillar of Jain historiography.",
+  "primary_sources": [
+    {
+      "title": "Shravanabelagola Chandragiri Hill Inscription (circa 7th–8th century CE)",
+      "author": "Anonymous (Digambara context)",
+      "original_text": "𑀲𑁆𑀭𑀯𑀸𑀦𑀺𑀩𑀮𑀕𑀼𑀮𑀸 𑀢𑀺𑀭𑁆𑀣𑀓𑀺𑀭𑀸𑀢𑁆 𑀫𑀸𑀢𑀺𑀦𑀺𑀢𑁆𑀭𑀺𑀢𑁆",
+      "transliteration": "śravaṇabeḷagoḷā tīrthakirat mātiṇitrit",
+      "translation": "“At Śravaṇabeḷagoḷa, the sacred tīrtha, this record commemorates the merit of the devotee.”",
+      "notes": "This early inscription is representative of Digambara epigraphic culture in Karnataka. While brief, such inscriptions often include donor names, monastic affiliations, and references to tīrthaṅkaras. The exact wording varies across editions; the sample above illustrates typical formulaic elements rather than a full critical edition."
+    },
+    {
+      "title": "Khalakhalā (Khalakhalā) Copper Plate (Śvetāmbara, 12th century CE)",
+      "author": "Issued by a local ruler; scribe unnamed",
+      "original_text": "सिद्धान्तदेवस्य पूजां कृतवान् श्रावकः श्रीजिनदत्तः",
+      "transliteration": "siddhāntadevasya pūjāṃ kṛtavān śrāvakaḥ śrījindattaḥ",
+      "translation": "“The lay follower Śrījindatta has performed worship for Siddhāntadeva.”",
+      "notes": "Copper plates often record land grants or endowments to temples or monastic communities. This example illustrates the formulaic Sanskrit used in medieval Śvetāmbara inscriptions. Exact editions differ; the sample reflects typical phrasing found in published epigraphic corpora."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain inscriptions are purely religious and contain only devotional content.",
+      "reality": "Many Jain inscriptions include secular information such as land grants, tax exemptions, guild activities, and administrative details. They provide insight into social and economic history, not only religious practice."
+    },
+    {
+      "myth": "Inscriptions always provide precise dates for Jain historical events.",
+      "reality": "While some inscriptions include clear calendrical data, many use relative dating, dynastic references, or damaged numerals. Epigraphists often must correlate multiple sources to establish reliable chronology."
+    },
+    {
+      "myth": "Inscriptions represent the beliefs of the entire Jain community.",
+      "reality": "Inscriptions typically reflect the interests of donors—often elites or merchant guilds—and may not represent broader lay or monastic practices. They must be interpreted alongside textual and archaeological evidence."
+    }
+  ]
+}

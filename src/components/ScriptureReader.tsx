@@ -1,85 +1,183 @@
-"use client"
+"use client";
 import React, { useState } from 'react';
 
 type ScriptureSegment = {
   id: string;
-  original: string; // Prakrit, Sanskrit, etc.
+  original?: string;
   transliteration?: string;
   translationEn?: string;
-  translationLocal?: string; // Hindi, Gujarati, etc.
 };
 
 interface ScriptureReaderProps {
   title: string;
-  author: string;
+  author?: string;
+  notes?: string;
   segments: ScriptureSegment[];
-  currentLocale: string;
 }
 
-export default function ScriptureReader({ title, author, segments, currentLocale }: ScriptureReaderProps) {
-  const [showOriginal, setShowOriginal] = useState(true);
-  const [showTransliteration, setShowTransliteration] = useState(false);
+type View = 'translation' | 'original' | 'transliteration';
+
+export default function ScriptureReader({ title, author, notes, segments }: ScriptureReaderProps) {
+  const hasOriginal = segments.some(s => s.original && s.original.trim());
+  const hasTranslit = segments.some(s => s.transliteration && s.transliteration.trim());
+
+  const availableViews: View[] = ['translation'];
+  if (hasOriginal) availableViews.push('original');
+  if (hasTranslit) availableViews.push('transliteration');
+
+  const [activeView, setActiveView] = useState<View>('translation');
+
+  const viewLabels: Record<View, string> = {
+    translation: 'Translation',
+    original: 'Original Script',
+    transliteration: 'Transliteration',
+  };
 
   return (
-    <div className="bg-paper-surface border border-carved-line rounded-sm shadow-sm overflow-hidden">
+    <div
+      style={{
+        border: "1px solid var(--color-border)",
+        background: "var(--color-surface)",
+      }}
+    >
       {/* Header */}
-      <header className="bg-marble-canvas border-b border-carved-line px-6 py-4 flex justify-between items-center">
-        <div>
-          <h2 className="text-2xl font-serif text-temple-ink">{title}</h2>
-          <p className="text-sm font-sans text-quiet-ink italic">By {author}</p>
+      <div
+        style={{
+          borderBottom: "1px solid var(--color-border)",
+          padding: "1.25rem 1.5rem 0",
+        }}
+      >
+        <div style={{ marginBottom: "1rem" }}>
+          <p
+            style={{
+              fontFamily: "var(--font-cormorant), Georgia, serif",
+              fontSize: "1.2rem",
+              fontWeight: 500,
+              color: "var(--color-ink)",
+              margin: "0 0 0.2rem",
+              lineHeight: 1.3,
+            }}
+          >
+            {title}
+          </p>
+          {author && (
+            <p
+              style={{
+                fontFamily: "var(--font-inter), sans-serif",
+                fontSize: "0.72rem",
+                letterSpacing: "0.08em",
+                color: "var(--color-ink-faint)",
+                margin: 0,
+                fontStyle: "italic",
+              }}
+            >
+              {author}
+            </p>
+          )}
         </div>
-        
-        {/* Controls */}
-        <div className="flex gap-4">
-          <label className="flex items-center gap-2 text-sm font-sans text-quiet-ink cursor-pointer">
-            <input 
-              type="checkbox" 
-              checked={showOriginal} 
-              onChange={(e) => setShowOriginal(e.target.checked)} 
-              className="rounded border-carved-line text-aged-brass focus:ring-aged-brass"
-            />
-            Original Script
-          </label>
-          <label className="flex items-center gap-2 text-sm font-sans text-quiet-ink cursor-pointer">
-            <input 
-              type="checkbox" 
-              checked={showTransliteration} 
-              onChange={(e) => setShowTransliteration(e.target.checked)}
-              className="rounded border-carved-line text-aged-brass focus:ring-aged-brass"
-            />
-            Transliteration
-          </label>
-        </div>
-      </header>
+
+        {/* View tabs — only show if there's more than one view */}
+        {availableViews.length > 1 && (
+          <div style={{ display: "flex", gap: "0" }}>
+            {availableViews.map((view) => (
+              <button
+                key={view}
+                onClick={() => setActiveView(view)}
+                style={{
+                  fontFamily: "var(--font-inter), sans-serif",
+                  fontSize: "0.7rem",
+                  letterSpacing: "0.1em",
+                  textTransform: "uppercase",
+                  padding: "0.5rem 1rem",
+                  border: "none",
+                  borderBottom: activeView === view
+                    ? "2px solid var(--color-saffron)"
+                    : "2px solid transparent",
+                  background: "transparent",
+                  color: activeView === view ? "var(--color-saffron)" : "var(--color-ink-faint)",
+                  cursor: "pointer",
+                  transition: "color 0.15s",
+                  marginBottom: "-1px",
+                }}
+              >
+                {viewLabels[view]}
+              </button>
+            ))}
+          </div>
+        )}
+      </div>
 
       {/* Content */}
-      <div className="p-6 space-y-8 max-h-[70vh] overflow-y-auto">
-        {segments.map((segment) => (
-          <div key={segment.id} className="border-b border-carved-line/30 pb-6 last:border-0 last:pb-0">
-            
-            {showOriginal && (
-              <p className="text-2xl font-serif text-temple-ink mb-3 leading-relaxed" dir="auto">
-                {segment.original}
-              </p>
-            )}
-            
-            {showTransliteration && segment.transliteration && (
-              <p className="text-md font-sans text-quiet-ink italic mb-4">
-                {segment.transliteration}
-              </p>
-            )}
+      <div style={{ padding: "1.5rem" }}>
+        {segments.map((segment) => {
+          const content =
+            activeView === 'original'       ? segment.original :
+            activeView === 'transliteration' ? segment.transliteration :
+            segment.translationEn;
 
-            <div className="bg-soft-stone/20 p-4 rounded-sm">
-              <p className="text-md font-sans text-temple-ink leading-relaxed">
-                {/* Fallback to English if local translation is missing */}
-                {currentLocale !== 'en' && segment.translationLocal 
-                  ? segment.translationLocal 
-                  : segment.translationEn}
-              </p>
-            </div>
-          </div>
-        ))}
+          if (!content || !content.trim()) return null;
+
+          return (
+            <p
+              key={segment.id}
+              dir={activeView === 'original' ? 'auto' : 'ltr'}
+              style={{
+                fontFamily: activeView === 'translation'
+                  ? "var(--font-source-serif), Georgia, serif"
+                  : activeView === 'original'
+                  ? "'Noto Serif Devanagari', var(--font-source-serif), Georgia, serif"
+                  : "var(--font-source-serif), Georgia, serif",
+                fontSize: activeView === 'original' ? "1.25rem" : "1rem",
+                lineHeight: activeView === 'original' ? 1.9 : 1.85,
+                fontStyle: activeView === 'transliteration' ? 'italic' : 'normal',
+                color: activeView === 'translation' ? "var(--color-ink)" : "var(--color-ink-muted)",
+                margin: 0,
+              }}
+            >
+              {content}
+            </p>
+          );
+        })}
       </div>
+
+      {/* Notes — as marginalia */}
+      {notes && (
+        <div
+          style={{
+            borderTop: "1px solid var(--color-border)",
+            padding: "1rem 1.5rem",
+            display: "flex",
+            gap: "0.75rem",
+            alignItems: "flex-start",
+          }}
+        >
+          <span
+            style={{
+              fontFamily: "var(--font-inter), sans-serif",
+              fontSize: "0.65rem",
+              letterSpacing: "0.12em",
+              textTransform: "uppercase",
+              color: "var(--color-saffron)",
+              paddingTop: "2px",
+              whiteSpace: "nowrap",
+            }}
+          >
+            Note
+          </span>
+          <p
+            style={{
+              fontFamily: "var(--font-source-serif), Georgia, serif",
+              fontSize: "0.85rem",
+              lineHeight: 1.7,
+              color: "var(--color-ink-muted)",
+              margin: 0,
+              fontStyle: "italic",
+            }}
+          >
+            {notes}
+          </p>
+        </div>
+      )}
     </div>
   );
 }

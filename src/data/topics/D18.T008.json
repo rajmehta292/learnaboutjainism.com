@@ -1,0 +1,43 @@
+{
+  "overview": "Anitya (Sanskrit) or Anicca/Anicchā (Prakrit) is a foundational concept in Jain philosophy signifying impermanence, transience, and the constant flux of conditioned phenomena. Within the Jain ontological framework, all dravyas (substances) possess permanence in their essential nature (dravya-nityatva) but undergo continuous modification (paryāya-anityatva). Thus, Jainism maintains a nuanced dual perspective: substances are eternal, yet their modes are momentarily changing. This doctrine is central to understanding karma, bondage, liberation, and the path of right perception.\n\nIn classical Jain epistemology, anitya is not merely a metaphysical claim but a practical insight cultivated through contemplative practices such as anitya-bhāvanā (meditation on impermanence). Lay and monastic traditions alike emphasize this reflection to reduce attachment (rāga), aversion (dveṣa), and delusion (moha). By recognizing the instability of worldly conditions—body, possessions, relationships, and mental states—practitioners strengthen equanimity (samatā) and prepare the mind for ethical discipline.\n\nJain thinkers across traditions—Digambara and Śvetāmbara—agree on the centrality of anitya but articulate it through distinct commentarial lenses. Digambara texts often emphasize the momentariness of paryāyas to highlight the urgency of spiritual effort, while Śvetāmbara Mūrtipūjaka and Sthānakavāsī authors integrate anitya-bhāvanā into broader frameworks of daily reflections (bhāvanās). Modern scholarship situates anitya within comparative Indian philosophy, noting its parallels with Buddhist impermanence while underscoring Jainism’s unique commitment to the eternal existence of substances.\n\nIn practice, anitya is not intended to induce despair but to cultivate clarity. Recognizing impermanence helps practitioners understand karmic processes, avoid harmful attachments, and orient themselves toward liberation (mokṣa). The doctrine remains a cornerstone of Jain ethical psychology, meditation, and metaphysics.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (disputed between Digambara and Śvetāmbara traditions)",
+      "original_text": "परिणाम्यनित्यं",
+      "transliteration": "pariṇāmya anityaṃ",
+      "translation": "“That which undergoes modification is impermanent.”",
+      "notes": "Tattvārtha Sūtra 5.29 articulates the Jain distinction between the permanence of substance and the impermanence of modes. Commentaries such as Pūjyapāda’s Sarvārthasiddhi (Digambara) and Siddhasena’s Tattvārthavṛtti (Śvetāmbara) elaborate that impermanence refers specifically to paryāya, not dravya."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Attributed to Śvetāmbara canonical redactors",
+      "original_text": "जगति अनिच्चं",
+      "transliteration": "jagati aniccaṃ",
+      "translation": "“In the world, all is impermanent.”",
+      "notes": "This passage appears in teachings directed toward monastic discipline, emphasizing vigilance and non-attachment. Traditional commentaries highlight its role in cultivating mindfulness of change."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda (Digambara)",
+      "original_text": "पगट्ठिअं णिच्चं, पगट्ठिअं अनिच्चं",
+      "transliteration": "pagaṭṭhiaṃ niccaṃ, pagaṭṭhiaṃ aniccaṃ",
+      "translation": "“In one respect it is permanent; in another respect it is impermanent.”",
+      "notes": "Kundakunda’s doctrine of vyavahāra-naya (conventional standpoint) and niścaya-naya (ultimate standpoint) explains how the soul is eternal in essence but impermanent in its changing states."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that everything is absolutely impermanent, similar to Buddhist doctrine.",
+      "reality": "Jainism teaches that substances (dravya) are eternal, while their modes (paryāya) are impermanent. This dual perspective differs from Buddhist momentariness, which denies eternal substances."
+    },
+    {
+      "myth": "Meditation on anitya is meant to create detachment from life in a pessimistic or nihilistic sense.",
+      "reality": "Anitya-bhāvanā aims to cultivate equanimity, reduce harmful attachments, and clarify karmic processes. It is a constructive ethical practice, not a nihilistic one."
+    },
+    {
+      "myth": "Impermanence implies that karmic bondage is unavoidable and uncontrollable.",
+      "reality": "Impermanence highlights the possibility of change, including the transformation of karmic states. Jain texts emphasize that disciplined effort can purify karma and lead to liberation."
+    }
+  ]
+}

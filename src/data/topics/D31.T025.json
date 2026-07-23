@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain intellectual history, “cosmological compendia” refers to a family of structured, often diagrammatic works that synthesize the vast and intricate Jain understanding of the universe (loka) into organized manuals. These compendia serve as bridges between primary canonical descriptions—often dispersed across sutras—and later scholastic, sectarian, and pedagogical traditions. They typically present the Jain cosmos as beginningless, eternal, and governed by precise spatial, temporal, and karmic laws. Their content includes the three realms (upper, middle, and lower worlds), the geography of Jambūdvīpa and surrounding continents, the vertical arrangement of heavens and hells, the nature of siddha-śilā (the realm of liberated beings), and the cosmological roles of Tīrthaṅkaras.\n\nAcross Digambara and Śvetāmbara traditions, cosmological compendia evolved to meet different pedagogical needs. Some emphasize mathematical and spatial precision, using measurements such as rajju, yojana, and sāgara. Others focus on iconographic representation, producing cosmographs (loka-pratimā) that visually encode metaphysical truths. Many compendia also integrate karma theory, explaining how the structure of the universe relates to the soul’s bondage, transmigration, and liberation. Because Jain cosmology is non-theistic and law-governed, these works highlight the universe’s self-regulating nature, where no creator deity intervenes.\n\nHistorically, cosmological compendia played a crucial role in monastic education, manuscript culture, temple art, and lay instruction. They provided standardized reference points for debates with Buddhist, Nyāya, and Vedānta thinkers, especially concerning the shape of the universe, the nature of time, and the mechanics of rebirth. Modern scholarship continues to study these compendia for their mathematical sophistication, comparative cosmology, and insights into the transmission of Jain knowledge across centuries.",
+  "primary_sources": [
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "“Loyassa uccāvacā samṭhāṇā…”",
+      "transliteration": "“Loyassa uccāvacā samṭhāṇā…”",
+      "translation": "“The universe has varied forms, high and low…”",
+      "notes": "A foundational Digambara cosmological treatise (c. 5th–6th century CE) offering detailed measurements of the loka, including heavens, hells, and continents. Considered Tier A–B depending on manuscript lineage."
+    },
+    {
+      "title": "Saṃgrahaṇī Sūtra",
+      "author": "Attributed to Śvetāmbara canonical redactors",
+      "original_text": "“Loyaṃ tiṇṇi bhāgāiṃ…”",
+      "transliteration": "“Loyaṃ tiṇṇi bhāgāiṃ…”",
+      "translation": "“The universe is divided into three parts…”",
+      "notes": "A key Śvetāmbara text summarizing cosmology, often accompanied by illustrated manuscripts. Used widely in monastic curricula. Tier A canonical summary with B-level commentaries."
+    },
+    {
+      "title": "Jambūdvīpa Paṭa (various manuscript traditions)",
+      "author": "Anonymous Śvetāmbara and Digambara lineages",
+      "original_text": "Iconographic rather than textual; inscriptions vary.",
+      "transliteration": "N/A",
+      "translation": "N/A",
+      "notes": "Cosmographs depicting Jambūdvīpa, Mount Meru, and surrounding continents. These visual compendia serve as pedagogical tools and ritual objects. Tier D educational materials with some Tier C scholarly analysis."
+    },
+    {
+      "title": "Lokaprakāśa",
+      "author": "Munirāja (Digambara, 17th century)",
+      "original_text": "“Lokaḥ svabhāvataḥ anādiḥ…”",
+      "transliteration": "“Lokaḥ svabhāvataḥ anādiḥ…”",
+      "translation": "“The universe, by its own nature, is without beginning…”",
+      "notes": "A later scholastic synthesis integrating earlier Digambara cosmology with mathematical elaboration. Tier C–D depending on edition."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain cosmological compendia describe a symbolic or purely mythic universe.",
+      "reality": "Primary texts treat cosmology as precise, measurable, and law-governed. While symbolic layers exist, the compendia present a structured physical and metaphysical model grounded in canonical sutras."
+    },
+    {
+      "myth": "All Jain traditions use identical cosmological diagrams.",
+      "reality": "Digambara and Śvetāmbara traditions share core structures but differ in measurements, iconography, and pedagogical emphasis. Manuscript traditions also vary regionally."
+    },
+    {
+      "myth": "Cosmological compendia function as independent authorities overriding canonical texts.",
+      "reality": "Compendia summarize and organize canonical material; they do not replace sutras. Their authority is derivative and varies by lineage and commentary tradition."
+    }
+  ]
+}

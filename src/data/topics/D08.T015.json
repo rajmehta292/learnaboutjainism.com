@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain philosophical literature, **memory (smṛti / ṇāṇa‑smaraṇa)** is treated as a cognitive function that allows the jīva (sentient being) to recall previously experienced objects, states, or impressions. Jain thinkers analyze memory not as a substance but as an operation of consciousness conditioned by karmic states, past impressions, and the clarity of the soul’s innate knowledge. Across both Digambara and Śvetāmbara traditions, memory is situated within the broader epistemological framework of *jñāna* (knowledge) and *darśana* (perception), and is considered a derivative or supportive mode rather than an independent pramāṇa (valid means of knowledge). \n\nJain texts describe memory as arising when past experiences leave subtle impressions (*saṃskāra*) on the soul. When conditions align—such as the presence of relevant stimuli, karmic un-obstruction, and mental steadiness—these impressions become manifest as recollection. Memory is therefore not merely psychological but metaphysical: it reflects the interaction between the soul’s inherent omniscience and the obscuring effects of *jñānāvaraṇīya* (knowledge‑obscuring) karma. \n\nClassical Jain epistemology distinguishes between different types of memory, including immediate recollection, long-term remembrance, and associative memory. Commentaries often emphasize that strong ethical conduct, meditation, and reduced passions (*kaṣāya*) improve memory by weakening karmic obstructions. In advanced spiritual stages (higher *guṇasthānas*), memory becomes increasingly clear as the soul approaches its natural state of perfect knowledge. \n\nIn lay practice, memory is valued for scriptural study, ritual accuracy, and moral vigilance. However, Jainism does not treat memory as infallible; texts warn that recollection can be distorted by attachment, aversion, or delusion. Thus, memory is both a practical faculty and a window into the deeper karmic structure of consciousness.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "स्मरणज्ञानम्",
+      "transliteration": "smaraṇa‑jñānam",
+      "translation": "Memory‑knowledge (smaraṇa) is the recollection of what has been previously experienced.",
+      "notes": "This brief sūtra appears in discussions of the varieties of knowledge. Commentaries (Digambara and Śvetāmbara) explain that memory is not a separate pramāṇa but a supportive cognitive mode arising from past impressions."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Kundakunda",
+      "original_text": "जाणंतो पुरिसो पुरिसं स्मरेदि।",
+      "transliteration": "jāṇanto puriso purisaṃ smaredi",
+      "translation": "The knowing person recollects what was known before.",
+      "notes": "A Prakrit passage illustrating the role of memory in spiritual discernment. The text emphasizes that recollection depends on the purity of knowledge and the weakening of passions."
+    },
+    {
+      "title": "Pramāṇa-mīmāṃsā (Digambara tradition)",
+      "author": "Akalanka",
+      "original_text": "स्मृतिः संस्कारोत्था।",
+      "transliteration": "smṛtiḥ saṃskārotthā",
+      "translation": "Memory arises from latent impressions.",
+      "notes": "Akalanka’s epistemological treatise clarifies that memory is conditioned by karmic impressions and is therefore neither spontaneous nor inherently reliable."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Attributed to Śvetāmbara canonical redactors",
+      "original_text": "सुतं धारेहि, सुतं स्मरेहि।",
+      "transliteration": "sutaṃ dhārehi, sutaṃ smarehi",
+      "translation": "Hold what is heard; remember what is heard.",
+      "notes": "A pedagogical instruction emphasizing disciplined memorization of teachings. Commentaries note that memory supports ethical vigilance and scriptural retention."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that memory is a perfect and reliable source of knowledge.",
+      "reality": "Classical Jain epistemology explicitly states that memory is fallible because it is conditioned by karmic obstructions, passions, and prior impressions. It is not considered a pramāṇa (valid means of knowledge)."
+    },
+    {
+      "myth": "Memory in Jainism is purely psychological and unrelated to karma.",
+      "reality": "Jain texts consistently link memory to karmic impressions (*saṃskāra*) and the operation of knowledge‑obscuring karma. It is both a cognitive and metaphysical phenomenon."
+    },
+    {
+      "myth": "Advanced spiritual practitioners rely less on memory because they detach from worldly experiences.",
+      "reality": "As karmic obstructions weaken in higher *guṇasthānas*, memory becomes clearer and more accurate. It is seen as a sign of increasing cognitive purity, not detachment from recollection."
+    }
+  ]
+}

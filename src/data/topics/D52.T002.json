@@ -1,0 +1,43 @@
+{
+  "overview": "Verified‑corpus‑only mode is a controlled scholarly setting in which all explanations, citations, and interpretations must be grounded exclusively in Tier A sources—verified primary Jain texts and their critically established editions. This mode is designed to prevent the introduction of unverified passages, modern paraphrases mistaken for scripture, or commentary that cannot be traced to an authoritative manuscript tradition. It is used when precision, textual fidelity, and lineage‑neutral accuracy are required.\n\nIn Jain studies, verified‑corpus‑only mode ensures that every doctrinal, historical, or technical claim is anchored directly to a known canonical or semi‑canonical text. These include the Śvetāmbara Āgamas in their critical editions, Digambara canonical substitutes such as the Ṣaṭkhaṇḍāgama and Kaṣāyapāhuda, and other early Prakrit and Sanskrit works whose manuscript lineages have been established through philological review. No secondary commentary, modern interpretation, or community teaching is introduced unless explicitly requested under another guide mode.\n\nThis mode is especially important for topics involving karma theory, gunasthāna classification, vows, cosmology, and early monastic regulations, where later commentarial traditions diverge. By restricting the pipeline to verified corpus only, the system highlights the textual bedrock shared across traditions while clearly marking areas where the primary sources are silent, ambiguous, or disputed.\n\nVerified‑corpus‑only mode also enforces strict separation between quotation, transliteration, translation, and interpretation. Quotations must come from a verifiable edition; transliterations must follow a consistent scheme; translations must be clearly labeled as translations rather than paraphrases. When uncertainty exists—due to variant manuscripts, lacunae, or differing editorial choices—the mode requires explicit disclosure. This protects the user from inadvertently relying on unverified or sectarian claims when they intend to study the foundational textual record.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "ṇa yaṃ kiṃci ṇa yaṃ kiṃci bhāsāmi",
+      "transliteration": "ṇa yaṃ kiṃci ṇa yaṃ kiṃci bhāsāmi",
+      "translation": "“I do not speak anything that is not grounded.”",
+      "notes": "This line appears in a section emphasizing restraint and truthfulness. In verified‑corpus‑only mode, it is used to illustrate the principle that authoritative statements must be grounded in reliable sources. The exact phrasing varies slightly across manuscripts."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "pramāṇa‑nirṇayaḥ",
+      "transliteration": "pramāṇa‑nirṇayaḥ",
+      "translation": "“The determination of valid knowledge.”",
+      "notes": "The opening of the epistemology section establishes that correct knowledge must be validated through proper means. Verified‑corpus‑only mode applies this principle by requiring that all claims be tied to authenticated textual evidence."
+    },
+    {
+      "title": "Kaṣāyapāhuda (Digambara)",
+      "author": "Gunadhara",
+      "original_text": "suddhaṃ savvaṃ pavayaṇaṃ",
+      "transliteration": "śuddhaṃ sarvaṃ pravacanaṃ",
+      "translation": "“All scripture is pure.”",
+      "notes": "The text affirms the purity of the true teachings but also implies the need to distinguish authentic scripture from later accretions. Verified‑corpus‑only mode uses this distinction to avoid unverified or interpolated material."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Verified‑corpus‑only mode includes any text traditionally cited in Jain communities.",
+      "reality": "The mode restricts itself strictly to Tier A sources—verified primary texts with established manuscript lineages. Community teachings, modern summaries, and unverified digital editions are excluded."
+    },
+    {
+      "myth": "Verified‑corpus‑only mode provides complete doctrinal explanations.",
+      "reality": "Primary texts often present terse aphorisms or context‑specific rules. Verified‑corpus‑only mode reports only what the text states; fuller doctrinal interpretation requires switching to commentary‑based modes."
+    },
+    {
+      "myth": "If a passage appears online, it qualifies as verified corpus.",
+      "reality": "Digital availability does not guarantee authenticity. Only passages traceable to critical editions or authenticated manuscripts qualify for inclusion."
+    }
+  ]
+}

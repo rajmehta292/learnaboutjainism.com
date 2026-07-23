@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain thought, **merit** is most precisely discussed under the technical category of *puṇya*, a karmic influx that produces pleasant experiences, favorable circumstances, and opportunities conducive to spiritual progress. Unlike the notion of merit in some other Indian traditions, Jainism treats *puṇya* not as divine reward but as a specific type of karmic matter (*karma‑dravya*) that binds to the soul due to ethically wholesome actions, intentions, and mental states. The concept is central to lay ethics, cosmology, and the path of liberation, yet always subordinate to the ultimate goal of transcending both *puṇya* and *pāpa* (demerit). \n\nJain texts describe *puṇya* as arising from actions such as charity, nonviolence, restraint, reverence toward teachers, and care for living beings. These actions generate karmic particles that mature into pleasant results: good health, wealth, favorable rebirth, social respect, and reduced obstacles. However, the tradition emphasizes that even auspicious karma binds the soul and perpetuates saṃsāra. Thus, while *puṇya* is valuable for creating conditions supportive of spiritual practice, liberation requires the cessation of all karmic influx (*āsrava*) and the shedding of all karmic matter (*nirjarā*). \n\nDifferent Jain traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—agree on the basic definition of *puṇya* but differ in ritual contexts that generate it. For example, temple worship in Mūrti‑pūjaka communities is considered a source of merit, while Sthānakavāsī and Terāpanth traditions emphasize non‑iconic devotion and internal austerity. Across all traditions, the highest form of merit is linked to deep nonviolence, equanimity, and right faith (*samyak‑darśana*). \n\nModern scholarship highlights that Jain merit is not transactional but structural: it is a metaphysical consequence of the soul’s vibrational states. Ethical conduct modifies these states, attracting karmic particles with specific qualities. This makes Jain *puṇya* a unique blend of moral psychology, cosmology, and metaphysics. Ultimately, Jainism teaches that merit is beneficial but not final; it is a stepping stone toward the complete purification of the soul.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "पुण्यपापे आस्रवः",
+      "transliteration": "puṇya‑pāpe āsravaḥ",
+      "translation": "“Merit and demerit are forms of influx.”",
+      "notes": "Tattvārtha Sūtra 6.1 identifies *puṇya* and *pāpa* as types of karmic influx. Commentaries (Digambara and Śvetāmbara) explain that wholesome actions attract auspicious karmic matter, producing pleasant experiences but still binding the soul."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "दया पुण्णस्स कारणं",
+      "transliteration": "dayā puṇṇassa kāraṇaṃ",
+      "translation": "“Compassion is the cause of merit.”",
+      "notes": "This passage (Uttarādhyayana Sūtra 28) links merit to compassionate conduct, emphasizing intention rather than ritual form."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "पुण्णं पावं च दव्वस्स भावो",
+      "transliteration": "puṇṇaṃ pāvaṃ ca davvassa bhāvo",
+      "translation": "“Merit and demerit are states of the soul.”",
+      "notes": "Kundakunda reframes *puṇya* and *pāpa* as experiential states arising from karmic association, stressing that the pure soul transcends both."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Merit is a reward granted by a deity.",
+      "reality": "Jainism rejects divine reward systems. Merit is a type of karmic matter attracted through wholesome actions and mental states, governed by natural law rather than divine intervention."
+    },
+    {
+      "myth": "Merit is always desirable and should be accumulated indefinitely.",
+      "reality": "While merit produces pleasant experiences and supports spiritual practice, it still binds the soul. Liberation requires transcending both merit and demerit."
+    },
+    {
+      "myth": "Rituals automatically generate merit regardless of intention.",
+      "reality": "Primary texts emphasize intention, mental purity, and nonviolence as essential conditions for generating auspicious karma. Rituals without right intention do not produce true merit."
+    }
+  ]
+}

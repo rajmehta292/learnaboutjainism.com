@@ -1,0 +1,27 @@
+{
+  "overview": "Slugs are soft-bodied, terrestrial gastropod mollusks belonging primarily to the order Stylommatophora. Unlike their close relatives, snails, slugs lack an external shell or possess only a small internal remnant. Their bodies are elongated, moist, and flexible, enabling them to navigate through soil, leaf litter, and damp vegetation. Slugs are found across temperate and tropical regions, thriving in environments with high humidity and abundant organic matter.\n\nBiologically, slugs rely on mucus for movement, moisture retention, and protection. This mucus allows them to glide across surfaces and can deter predators due to its sticky or distasteful qualities. Slugs breathe through a pneumostome, a respiratory opening located on one side of their mantle. Their sensory tentacles help them detect light, chemicals, and obstacles, making them well-adapted to nocturnal or low-light activity.\n\nEcologically, slugs play a significant role as decomposers. They feed on decaying plant material, fungi, and sometimes living vegetation, contributing to nutrient cycling in ecosystems. While some species are considered agricultural pests due to their appetite for crops and garden plants, others are essential for maintaining soil health. Slugs also serve as prey for birds, beetles, amphibians, and small mammals, forming an important link in food webs.\n\nSlugs exhibit diverse reproductive strategies, with many species being hermaphroditic. They lay clusters of gelatinous eggs in moist, protected environments. Their life cycles vary widely depending on species and climate, with some completing development within months and others living multiple years. Despite their simple appearance, slugs demonstrate complex behaviors, environmental sensitivity, and ecological importance.",
+  "primary_sources": [
+    {
+      "title": "No applicable Jain primary text",
+      "author": "N/A",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "Slugs, as a biological topic, are not discussed in Jain canonical literature. Jain texts address categories of living beings (jīva) broadly, including one-sensed organisms (ekendriya), but do not provide zoological descriptions of specific gastropod species."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Slugs are simply snails without shells.",
+      "reality": "While related, slugs are not merely snails that have lost their shells. They represent distinct evolutionary adaptations, and many slug species have internal vestigial shells or entirely different physiological traits."
+    },
+    {
+      "myth": "All slugs are harmful pests.",
+      "reality": "Only certain species damage crops. Many slugs are beneficial decomposers that help recycle nutrients and support healthy soil ecosystems."
+    },
+    {
+      "myth": "Salt instantly kills slugs because they are allergic to it.",
+      "reality": "Salt dehydrates slugs through osmosis, causing severe water loss. This is a physical reaction, not an allergy."
+    }
+  ]
+}

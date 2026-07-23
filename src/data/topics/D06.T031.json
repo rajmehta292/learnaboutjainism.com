@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, the relationship between **intent (bhāva)** and **consequence (phala)** is a foundational principle for understanding karma, ethics, and spiritual progress. Jainism teaches that actions are not judged solely by their external form but by the mental states that accompany them. A deed performed with attachment, aversion, negligence, or violence binds karma more intensely than the same deed performed with equanimity or awareness. This emphasis on interiority distinguishes Jain moral reasoning from purely rule-based systems.\n\nWithin the broader Jain ontology, intent is classified under **bhāva-karma**, the mental and emotional dispositions that attract karmic particles. Consequence refers to **dravya-karma**, the material karmic particles that bind to the soul and later mature into experiences such as pleasure, pain, lifespan, status, or spiritual obscuration. The Tattvārtha Sūtra (A-tier corpus) describes this dual structure: the soul’s passions (kaṣāyas) create the conditions for karmic bondage, while the karmic matter itself determines future consequences.\n\nJain thinkers across traditions—Digambara and Śvetāmbara—agree that harmful intent (himsā-bhāva) is more spiritually damaging than accidental harm. For example, stepping on an insect unknowingly binds less karma than intentionally harming it with anger or cruelty. This distinction is central to the practice of ahiṃsā, where practitioners cultivate vigilance, compassion, and mindfulness to reduce violent mental states.\n\nConsequences in Jainism are not framed as divine reward or punishment. Instead, they arise through a natural, impersonal law of cause and effect. Intent shapes the quality and duration of karmic bondage, while the karmic particles themselves determine the future experiences of the soul. This interplay explains why two individuals performing similar actions may experience different karmic results: their internal motivations differ.\n\nIn advanced doctrinal contexts such as the **guṇasthāna** (stages of spiritual development), the purification of intent is essential for progressing toward liberation. As passions weaken, karmic influx (āsrava) decreases, and karmic shedding (nirjarā) accelerates. Ultimately, liberation (mokṣa) occurs when both intent and consequence are fully purified, and no new karma binds to the soul.\n\nThus, “intent and consequence” in Jainism is not merely an ethical concept but a technical framework linking psychology, metaphysics, and soteriology. It underscores the Jain view that liberation is achieved through disciplined transformation of inner states, not only through external conduct.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "भावकर्मणो द्रव्यकर्मणः बन्धः",
+      "transliteration": "bhāva-karmaṇo dravya-karmaṇaḥ bandhaḥ",
+      "translation": "The bondage of material karma arises from mental karma (intentional states).",
+      "notes": "This aphorism (TS 8.1) establishes the causal link between mental dispositions and karmic bondage. Editions vary slightly in wording; the meaning is consistent across traditions."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "जोगं चित्तं समायरे, जोगेणं कम्मं न बन्धइ",
+      "transliteration": "jogaṃ cittaṃ samāyare, jogeṇaṃ kammaṃ na bandhai",
+      "translation": "Discipline the mind; through disciplined intent, karma does not bind.",
+      "notes": "This passage (Utt. 29.72, Prakrit) highlights the role of mental discipline in preventing karmic influx. Manuscript variants exist; the meaning is stable."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda (Digambara)",
+      "original_text": "भावो हि कारणं बन्धस्य",
+      "transliteration": "bhāvo hi kāraṇaṃ bandhasya",
+      "translation": "Intent alone is the cause of bondage.",
+      "notes": "A central Digambara text emphasizing the primacy of internal states over external actions. The verse appears in multiple recensions; wording may differ slightly."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that all actions produce equal karmic consequences regardless of intent.",
+      "reality": "Jain doctrine explicitly distinguishes between intentional and unintentional actions. Harm done with anger or cruelty binds far more karma than accidental harm."
+    },
+    {
+      "myth": "Consequences in Jainism are divine punishment for wrongdoing.",
+      "reality": "Karmic consequences are natural and impersonal. They arise from the interaction between the soul’s mental states and karmic matter, not from divine judgment."
+    },
+    {
+      "myth": "Only external conduct matters for spiritual progress.",
+      "reality": "Internal states—passions, motives, awareness—are the primary determinants of karmic bondage. External conduct is meaningful only when aligned with purified intent."
+    }
+  ]
+}

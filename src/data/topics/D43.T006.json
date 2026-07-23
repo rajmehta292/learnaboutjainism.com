@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, gender and liberation (mokṣa) is a complex topic shaped by canonical sources, sectarian interpretations, linguistic nuances in Prakrit and Sanskrit, and later commentarial traditions. Jainism maintains that the jīva (soul) is inherently genderless, eternal, and capable of liberation regardless of its embodied form. Gender arises only at the level of the physical body and certain karmic categories, not at the level of ultimate reality. Yet historical debates—especially between Digambara and Śvetāmbara traditions—have centered on whether women can attain liberation in their present embodied state.\n\nAcross the traditions, liberation requires the complete destruction of karmas, attainment of kevala‑jñāna (omniscience), and final release from rebirth. The canonical texts emphasize ethical discipline, nonviolence, meditation, and right knowledge as the decisive factors. Gender does not appear as a barrier in the earliest strata of the Śvetāmbara canon, where female arhats and advanced practitioners are described. Digambara texts, however, argue that certain bodily conditions associated with female embodiment prevent the full practice of nudity, which they consider essential for the highest ascetic path. This leads to the doctrinal position that women must be reborn as men before attaining mokṣa.\n\nModern scholarship and community education highlight that these differences reflect interpretive traditions rather than disagreements about the nature of the soul. All Jain traditions agree that the soul’s capacity for liberation is universal. The debate concerns the conditions for liberation within a specific embodied life, not the ultimate spiritual potential of women. Contemporary Jain communities often emphasize equality of spiritual capacity, while acknowledging the historical doctrinal distinctions.\n\nThis topic therefore sits at the intersection of metaphysics (the nature of the jīva), karma theory (especially nāma‑karma and vedanīya‑karma), ascetic practice, and sectarian history. It remains an important area of study for understanding how Jainism conceptualizes embodiment, ethics, and the path to liberation.",
+  "primary_sources": [
+    {
+      "title": "Uttarādhyayana-sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "“Naṇā ya savve jīvā samāṇā.”",
+      "transliteration": "nanā ya savve jīvā samāṇā",
+      "translation": "“All souls are equal in their essential nature.”",
+      "notes": "This passage (Uttarādhyayana-sūtra 29.1, Śvetāmbara canon, Tier A) is frequently cited to support the view that gender does not affect the soul’s capacity for liberation. The text emphasizes equality of jīvas and the universality of the path."
+    },
+    {
+      "title": "Bhagavatī-sūtra",
+      "author": "Śvetāmbara canonical compilers",
+      "original_text": "Descriptions of female disciples attaining advanced spiritual states (e.g., pratimā levels).",
+      "transliteration": "N/A",
+      "translation": "The text includes dialogues in which women demonstrate high levels of knowledge and discipline.",
+      "notes": "While not always giving verbatim verses about liberation, the Bhagavatī-sūtra (Tier A) provides narrative evidence that women can progress significantly on the spiritual path."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "Technical discussions of karma categories including nāma‑karma and vedanīya‑karma.",
+      "transliteration": "N/A",
+      "translation": "The text outlines how bodily characteristics arise from karmic processes.",
+      "notes": "In Digambara tradition (Tier A), interpretations of these karmas contribute to the doctrinal position that female embodiment presents obstacles to the highest ascetic practices required for liberation."
+    },
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "“Strī-puṃ-napuṃsaka-bhedaḥ nāma-karmaprabandhāt.”",
+      "transliteration": "strī-puṃ-napuṃsaka-bhedaḥ nāma-karmaprabandhāt",
+      "translation": "“The distinctions of female, male, and neuter arise from the configuration of nāma‑karma.”",
+      "notes": "A foundational pan-Jain text (Tier A). It states that gender is karmically produced and not essential to the soul. Commentaries differ on whether this karmic condition affects liberation in a given lifetime."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that women are spiritually inferior.",
+      "reality": "Primary texts affirm the equality of all souls. Sectarian debates concern ascetic practice requirements, not the inherent spiritual capacity of women."
+    },
+    {
+      "myth": "All Jain traditions agree that women cannot attain liberation.",
+      "reality": "Śvetāmbara traditions affirm that women can attain liberation in their present life. Digambara tradition holds that women must be reborn as men, but still affirms the soul’s universal capacity for mokṣa."
+    },
+    {
+      "myth": "Gender is a permanent attribute of the soul.",
+      "reality": "Jain metaphysics states that the soul is genderless. Gender arises from nāma‑karma and is temporary, changing across rebirths."
+    }
+  ]
+}

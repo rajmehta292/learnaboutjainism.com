@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “patronage” refers to the support—material, organizational, artistic, and institutional—provided by lay followers, royal authorities, merchant guilds, and community networks to sustain Jain religious life. Patronage is not a peripheral topic; it is central to understanding how Jainism developed its monastic institutions, manuscript traditions, temple architecture, pilgrimage sites, and charitable infrastructures across more than two millennia.\n\nHistorically, Jain patronage emerged from the close relationship between mendicant communities and lay śrāvakas/śrāvikās. Because Jain monks and nuns renounce property and economic activity, the laity became responsible for providing food, shelter, medical care, and resources for scriptural preservation. This dynamic is described in early canonical texts, where mutual dependence is framed as part of the dharma of both householders and ascetics.\n\nFrom the early centuries CE onward, merchant guilds and royal courts played major roles in supporting Jain institutions. In western and southern India, inscriptions record donations for temple construction, image installation (pratiṣṭhā), manuscript copying, and endowments for monastic residences (upāśrayas). Patronage also shaped regional traditions: Digambara communities often emphasized support for mathas and scholars producing commentaries, while Śvetāmbara Mūrti-pūjaka communities developed extensive temple networks funded by mercantile families. Sthānakavāsī and Terāpanth traditions, which do not practice image worship, directed patronage toward educational centers, libraries, and community halls.\n\nPatronage also includes manuscript culture. Jain libraries (bhandāras) in Gujarat, Rajasthan, and Karnataka preserve thousands of palm-leaf and paper manuscripts due to centuries of lay sponsorship. These collections are among the richest in South Asia and remain essential for modern scholarship.\n\nIn contemporary contexts, patronage extends to funding ethical education, animal welfare initiatives, environmental projects, and diaspora community centers. While the forms of patronage evolve, the underlying principle remains rooted in the Jain lay vow of dāna (giving), understood as a means of supporting the path of nonviolence, knowledge, and liberation.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; Śvetāmbara canon",
+      "original_text": "दंमं च दंमस्स कारणं",
+      "transliteration": "daṃmaṃ ca damassa kāraṇaṃ",
+      "translation": "“Giving is a cause of restraint.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.3) highlights the ethical dimension of giving. While brief, it is often cited in discussions of lay support for ascetics, emphasizing that generosity aids the practice of self-restraint."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canon",
+      "original_text": "सावगेहि भत्तं दत्तं, तस्स पुण्णं महप्पहं",
+      "transliteration": "sāvagehi bhattaṃ dattaṃ, tassa puṇṇaṃ mahappahaṃ",
+      "translation": "“Food given to a mendicant by a lay follower produces great merit.”",
+      "notes": "Uttarādhyayana Sūtra 25 describes the reciprocal relationship between mendicants and lay donors. The text frames patronage as part of the lay path, generating puṇya while sustaining the monastic community."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "दानं तपोऽर्थम्",
+      "transliteration": "dānaṃ tapo’rtham",
+      "translation": "“Giving is for the sake of supporting austerity.”",
+      "notes": "Tattvārtha Sūtra 7.11 links lay generosity to the ascetic ideal. Commentaries across traditions interpret this as a doctrinal basis for patronage, emphasizing that austerity cannot flourish without lay support."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Patronage in Jainism is primarily about building temples.",
+      "reality": "While temple construction is one form of patronage, Jain support historically includes manuscript preservation, monastic lodging, educational institutions, animal welfare, and community welfare projects. Many Jain traditions—such as Sthānakavāsī and Terāpanth—do not emphasize temple building at all."
+    },
+    {
+      "myth": "Patronage is optional and unrelated to lay vows.",
+      "reality": "Patronage is closely tied to the lay vow of dāna (giving) and is described in canonical texts as part of the śrāvaka’s ethical responsibilities. It is not merely optional charity but a structured component of lay religious life."
+    },
+    {
+      "myth": "Royal patronage alone shaped Jain history.",
+      "reality": "Although kings and courts supported Jain institutions, merchant guilds, local communities, and individual lay families played equally significant roles. Many major Jain libraries and temples were funded by non-royal donors."
+    }
+  ]
+}

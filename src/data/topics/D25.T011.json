@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain literature, **Bharata** (also called *Bharata Chakravartin*) is one of the most significant figures of the current cosmic cycle. He is described as the eldest son of **Ṛṣabhanātha (Ādinātha)**, the first Tīrthaṅkara, and brother of **Bāhubali**. Jain texts portray Bharata as the archetype of a universal monarch (*cakravartin*), a ruler whose authority extends over all six continents of the Jain cosmological world. His life narrative appears across Digambara and Śvetāmbara traditions with shared core elements but also notable differences in detail and emphasis.\n\nBharata’s story is central to Jain teachings on non‑violence, renunciation, and the limits of worldly power. Although he attains the status of a cakravartin—marked by possession of the divine wheel‑weapon (*cakra-ratna*) and other auspicious treasures—his narrative ultimately demonstrates the impermanence of sovereignty. After a dramatic confrontation with his brother Bāhubali, Bharata recognizes the futility of pride and conflict. This episode becomes a foundational moral lesson in Jain ethics.\n\nIn many accounts, Bharata eventually renounces his kingdom and becomes a monk. He is said to attain **kevala‑jñāna** (omniscience) and liberation (*mokṣa*). Jain cosmology also names the current region of India as **Bhārat Kṣetra**, traditionally understood to be named after him, though the historical and textual basis for this varies across sources.\n\nAcross Jain traditions, Bharata is remembered as a model of righteous kingship, disciplined governance, and the transformative power of humility. His narrative is intertwined with cosmology, ethics, and the spiritual trajectory of the first Tīrthaṅkara’s lineage.",
+  "primary_sources": [
+    {
+      "title": "Ādi Purāṇa",
+      "author": "Jinasena (Digambara)",
+      "original_text": "भरतस्य चक्रं प्रवर्तितम्",
+      "transliteration": "bharatasya cakraṃ pravartitam",
+      "translation": "“For Bharata, the divine wheel began to turn.”",
+      "notes": "The *Ādi Purāṇa* provides one of the most detailed Digambara accounts of Bharata’s rise as a cakravartin, his conflict with Bāhubali, and his eventual renunciation."
+    },
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Attributed to Bhadrabāhu (Śvetāmbara)",
+      "original_text": "ऋषभस्य पुत्रो भरतः",
+      "transliteration": "ṛṣabhasya putro bharataḥ",
+      "translation": "“Bharata was the son of Ṛṣabha.”",
+      "notes": "The *Kalpa Sūtra* briefly identifies Bharata within the genealogy of Ṛṣabhanātha. Śvetāmbara narrative elaboration appears in commentarial and later narrative texts."
+    },
+    {
+      "title": "Paumacariya",
+      "author": "Vimalasūri (Śvetāmbara)",
+      "original_text": "भरतो चक्रवर्ती अभवत्",
+      "transliteration": "bharato cakravartī abhavat",
+      "translation": "“Bharata became a universal monarch.”",
+      "notes": "The *Paumacariya* includes narrative expansions on Bharata’s kingship and cosmological role, offering a Śvetāmbara perspective on episodes shared with Digambara sources."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Bharata is identical to the Bharata of the Mahābhārata.",
+      "reality": "Jain Bharata (son of Ṛṣabhanātha) is a distinct figure from the epic Bharata (ancestor of the Kuru dynasty). Their narratives, chronology, and cosmological contexts are unrelated."
+    },
+    {
+      "myth": "All Jain traditions describe Bharata as attaining liberation.",
+      "reality": "While Digambara texts consistently describe Bharata as achieving kevala‑jñāna and mokṣa, Śvetāmbara sources vary, with some focusing more on his role as a cakravartin than on his final liberation."
+    },
+    {
+      "myth": "Bhārat Kṣetra is historically named after Bharata Chakravartin.",
+      "reality": "Jain cosmology uses Bhārat Kṣetra as a term for one of the regions of human habitation. The association with Bharata Chakravartin is traditional and symbolic, not a historical etymology."
+    }
+  ]
+}

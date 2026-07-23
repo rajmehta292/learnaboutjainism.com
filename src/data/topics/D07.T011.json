@@ -1,0 +1,51 @@
+{
+  "overview": "Pratyakhyana (Skt. pratyākhyāna; Prakrit: paḍiyakkhāṇa) is a core Jain ethical and ritual concept referring to a deliberate renunciation, vow, or formal resolve to abstain from a specific action, substance, or behavior. Across both Digambara and Śvetāmbara traditions, it appears in contexts ranging from daily lay practice to advanced ascetic discipline. In its most fundamental sense, pratyakhyana is the conscious turning away from harmful conduct and the intentional adoption of restraint.\n\nIn early canonical literature, pratyakhyana is closely linked to samiti (carefulness), gupti (control), and the broader framework of vrata (vows). It is often paired with pratikramaṇa—retrospection and repentance—forming a cycle of ethical repair: one acknowledges past faults (ālocanā), repents (pratikramaṇa), and then resolves not to repeat them (pratyakhyana). This triad is central to Jain lay and monastic discipline.\n\nPratyakhyana can be general (sāmānya), such as resolving to avoid all forms of himsā within one’s capacity, or specific (viśeṣa), such as renouncing a particular food item, habit, or harmful activity. In monastic contexts, pratyakhyana may be tied to daily regulation of movement, speech, and consumption. In lay contexts, it appears in the performance of pratikramaṇa, in the renewal of vows, and in ethical decisions such as limiting possessions or reducing harm in daily life.\n\nThe term also appears in karma theory, where pratyakhyana is associated with the cessation of karmic inflow (āsrava) by strengthening restraint. Commentarial traditions emphasize that pratyakhyana is not merely verbal declaration but requires internal conviction (bhāva) and mindful adherence (cāritra). Modern scholarship highlights its role as a psychological and ethical tool for cultivating intentionality, accountability, and nonviolence.\n\nBecause pratyakhyana is a vow-like act, Jain traditions stress that it must be undertaken within one’s capacity and without coercion. Canonical texts repeatedly warn against taking vows that exceed one’s strength or that endanger health, dependents, or social responsibilities. Thus, pratyakhyana is both a spiritual discipline and a practical ethical commitment shaped by context, capability, and guidance from qualified teachers.",
+  "primary_sources": [
+    {
+      "title": "Āvaśyaka Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "पडियक्खाणं कुर्वे",
+      "transliteration": "paḍiyakkhāṇaṃ kurve",
+      "translation": "“I undertake pratyakhyana.”",
+      "notes": "Appears in the daily liturgical cycle of pratikramaṇa. The phrase is part of the sequence of confession, repentance, and resolve. Editions vary; the wording is stable across major Śvetāmbara recensions."
+    },
+    {
+      "title": "Tattvārtha Sūtra 7.15",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "प्रत्याख्यानं च",
+      "transliteration": "pratyākhyānaṃ ca",
+      "translation": "“And [there is] pratyakhyana.”",
+      "notes": "Occurs in the discussion of samvara (stoppage of karmic influx). Commentaries explain pratyakhyana as a mental and verbal renunciation that strengthens restraint."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "पडियक्खाणेण पव्वत्ति निव्वत्तति",
+      "transliteration": "paḍiyakkhāṇeṇa pavvatti nivvattati",
+      "translation": "“By pratyakhyana, activity is brought to cessation.”",
+      "notes": "Used in the context of monastic conduct. The text links pratyakhyana to the regulation of bodily and verbal actions."
+    },
+    {
+      "title": "Daśavaikālika Sūtra 8.36",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "पडियक्खाणेण दुच्चरिअं न होइ",
+      "transliteration": "paḍiyakkhāṇeṇa duccariaṃ na hoi",
+      "translation": "“Through pratyakhyana, misconduct does not arise.”",
+      "notes": "Highlights the preventive function of pratyakhyana. Commentaries emphasize its role in cultivating vigilance."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Pratyakhyana is only a monastic practice and irrelevant for laypeople.",
+      "reality": "Canonical texts present pratyakhyana as integral to both lay and monastic life. Lay pratikramaṇa liturgy explicitly includes pratyakhyana as a vow of ethical renewal."
+    },
+    {
+      "myth": "Pratyakhyana requires extreme renunciation or fasting.",
+      "reality": "Pratyakhyana is a resolve to avoid specific faults or harmful actions. It does not inherently require austerities and must be undertaken within one’s capacity, avoiding health risks or coercive conditions."
+    },
+    {
+      "myth": "Pratyakhyana is merely a verbal formula recited during rituals.",
+      "reality": "While liturgical recitation exists, authoritative commentaries stress that pratyakhyana must be accompanied by sincere intention, ethical commitment, and practical follow-through."
+    }
+  ]
+}

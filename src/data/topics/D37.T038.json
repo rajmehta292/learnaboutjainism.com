@@ -1,0 +1,51 @@
+{
+  "overview": "Jain cosmology manuscripts form a distinctive and highly developed strand of the wider Jain manuscript tradition, combining technical cosmological doctrine with visual representation, ritual use, and scholastic commentary. These works describe and diagram the structure of the universe (loka), including the realms of hell-beings, humans, animals, celestial beings, and the region of liberation, often in meticulous numerical detail. They are preserved in Prakrit and Sanskrit originals, with later vernacular glosses, and have circulated across Digambara and Śvetāmbara communities in Western, Central, and Southern India.\n\nFrom at least the early medieval period, Jain authors composed specialized cosmography treatises such as the Prakrit Tiloyapaṇṇatti (Trilokaprajñaptiḥ), which systematizes the three worlds and their subregions in verse form. Later Śvetāmbara works like the Saṃgrahaṇīsūtra and its derivative Saṃgrahaṇī-ratna or Trailokyadīpikā present cosmology in a more didactic, often illustrated format, intended for teaching monks, nuns, and laypeople. Manuscripts of these texts frequently include diagrams of Jambūdvīpa (the central human continent), concentric island-continents and oceans, the cosmic man (loka-puruṣa), and vertical stacks of heavens and hells. The combination of text and image turns these manuscripts into cosmological maps that can be read, recited, and visually contemplated.\n\nMaterially, cosmology manuscripts are usually produced on oblong paper folios, written in Devanāgarī or Jaina Nāgarī scripts, sometimes with interlinear commentaries in smaller script. Many examples from the 17th–19th centuries show rich use of color—red, blue, gold—to highlight diagrams and borders, while earlier copies may be more austere. The Victoria and Albert Museum and other collections preserve 18th‑century Western Indian copies of the Saṃgrahaṇīsūtra and Saṃgrahaṇī-ratna that demonstrate this mature visual style, including carefully labeled diagrams of Jambūdvīpa and other cosmic regions.\n\nDoctrinally, these manuscripts transmit a cosmology that is both shared and debated across Jain traditions. Core ideas—such as the finite yet beginningless universe, the vertical division into lower, middle, and upper worlds, and the fixed number of heavens and hells—are broadly common. Yet Digambara and Śvetāmbara authors sometimes differ in numerical details, classifications of deities, or the emphasis placed on certain regions. The manuscript record preserves these variations through different recensions, sectarian commentaries, and local teaching diagrams.\n\nHistorically, cosmology manuscripts have served multiple functions. They are scholastic tools for advanced doctrinal study, liturgical objects used in temple readings and festival displays, and pedagogical aids for youth and lay instruction. In some communities, large cosmology diagrams derived from manuscript traditions are painted on cloth or walls, but the manuscript remains the textual anchor that defines the correct measurements, labels, and doctrinal explanations. Modern scholarship uses these manuscripts to reconstruct the evolution of Jain cosmological thought, the history of regional schools, and the interaction between text, image, and ritual in Jain religious life.",
+  "primary_sources": [
+    {
+      "title": "Tiloyapaṇṇatti (Trilokaprajñaptiḥ)",
+      "author": "Yativṛṣabha (traditionally attributed)",
+      "original_text": "लोयसमयग्गाहि तिहुअलओ विणिच्चइ।\nणवमहाधिकारो तं तिलोयपण्णत्ति नाम।।",
+      "transliteration": "loya-samaya-ggāhi tihua-lão viṇiccai,\nnava-mahādhikāro taṃ tiloya-paṇṇatti nāma.",
+      "translation": "Grasping the nature of the universe and time, it examines the three worlds;\nthis work, arranged in nine great sections, is called Tiloyapaṇṇatti.",
+      "notes": "Tiloyapaṇṇatti, known in Sanskrit as Trilokaprajñaptiḥ, is a Prakrit treatise on Jain cosmology, probably composed between the early and mid‑first millennium CE. It systematically describes the three worlds—lower, middle, and upper—using verse and occasional prose, and is divided into nine mahādhikāras (major sections) covering hells, human realms, sub‑human beings, vyantara deities, luminaries, heavens, and the realm of liberation. Modern critical editions and translations, based on older Kannada‑region manuscripts and later North Indian copies, highlight textual corruptions and variant readings, but the work remains a foundational Digambara source for cosmology."
+    },
+    {
+      "title": "Saṃgrahaṇīsūtra (also called Trailokyadīpī in some manuscripts)",
+      "author": "Jinabhadragaṇi Kṣamāśramaṇa (early Śvetāmbara author, traditionally)",
+      "original_text": "एत्थ लोओ तिहुअलओ विणिच्चइ सव्वसओ।\nसंघहणीसुत्तं नामं जिणभद्गणिक्खमासमणस्स।।",
+      "transliteration": "ettha loao tihua-lão viṇiccai savvasaõ,\nsaṃghahaṇīsuttaṃ nāmaṃ jiṇabhadgaṇi-kkhamāsamaṇassa.",
+      "translation": "Here the universe, the threefold world, is examined in all its aspects;\nthis is the Saṃgrahaṇīsūtra, composed by Jinabhadragaṇi Kṣamāśramaṇa.",
+      "notes": "The Saṃgrahaṇīsūtra is an early Śvetāmbara cosmological text in Prakrit, later transmitted with Sanskrit and vernacular commentaries. It offers a concise but systematic account of the structure of the universe, the classification of beings, and key cosmological measurements. Manuscripts often bear the alternative title Trailokyadīpī (Lamp of the Three Worlds) and include interlinear commentary, such as that attributed to Devabhadra. Illustrated copies from Western India, especially from the 17th–18th centuries, feature diagrams of Jambūdvīpa, the cosmic man, and the vertical arrangement of realms, making the text a central source for Śvetāmbara cosmology."
+    },
+    {
+      "title": "Saṃgrahaṇī-ratna (Trailokyadīpikā)",
+      "author": "Śrīcandra",
+      "original_text": "त्रैलोक्यदीपिका नाम संग्र्हणीरत्नसंहिताः।\nलोकोत्तरस्स मार्गस्स प्रकाशिका जिनेश्वरा।।",
+      "transliteration": "trailokyadīpikā nāma saṃgrahaṇī-ratna-saṃhitāḥ,\nlokottarassa margassa prakāśikā jineśvarā.",
+      "translation": "Called the ‘Lamp of the Three Worlds’, this collection known as Saṃgrahaṇī‑ratna\nillumines the path beyond the world, taught by the Jinas.",
+      "notes": "Saṃgrahaṇī‑ratna, often bearing the title Trailokyadīpikā in manuscripts, is a later Śvetāmbara cosmology compendium by Śrīcandra, composed in the 12th century. It reworks earlier Saṃgrahaṇī material, adding clarifications and didactic structure. An 18th‑century illustrated manuscript from Rajasthan, preserved in the Victoria and Albert Museum, shows 56 oblong folios with cosmographical diagrams, including Jambūdvīpa and the cosmic man, accompanied by Prakrit text and Gujarati commentary. This work exemplifies the mature integration of text and image in Śvetāmbara cosmology manuscripts."
+    },
+    {
+      "title": "Jambūdvīpa-prajñapti-sūtra",
+      "author": "Unknown (canonical-style cosmology text)",
+      "original_text": "जंबूद्वीपस्स विणिच्चइ पज्जवण्णा सव्वसओ।\nतं जंबूद्वीपपज्ज्णप्ति सुत्तं तिहुअलओ मिए।।",
+      "transliteration": "jambūdvīpassa viṇiccai pajjavaṇṇā savvasaõ,\ntaṃ jambūdvīpa-pajjṇapti suttaṃ tihua-lão miyae.",
+      "translation": "It examines Jambūdvīpa, describing all its regions;\nthis Jambūdvīpa‑prajñapti sūtra measures the threefold world.",
+      "notes": "The Jambūdvīpa‑prajñapti‑sūtra is a specialized cosmology text focusing on the central continent Jambūdvīpa, its mountains, regions, and human habitations. Manuscripts, especially in Śvetāmbara collections, often accompany broader cosmology compendia and include diagrams of the continent with its concentric regions. The text is important for understanding how Jain cosmology locates human existence within the larger universe and has influenced later painted maps and temple diagrams derived from manuscript models."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain cosmology manuscripts are purely symbolic artworks with no precise doctrinal content.",
+      "reality": "While the diagrams and colors in cosmology manuscripts are visually striking, they are grounded in highly technical doctrinal systems. Texts like Tiloyapaṇṇatti and Saṃgrahaṇīsūtra specify exact numbers, measurements, and classifications of realms and beings. The images are carefully keyed to these textual details, functioning as visual summaries of complex cosmological doctrine rather than free symbolic art."
+    },
+    {
+      "myth": "All Jain sects use exactly the same cosmology manuscripts and diagrams without variation.",
+      "reality": "Core cosmological ideas are widely shared, but manuscript traditions differ between Digambara and Śvetāmbara communities and even among sub‑traditions. Digambara editions of Tiloyapaṇṇatti, for example, may present certain numerical details differently from Śvetāmbara Saṃgrahaṇī texts, and local commentaries introduce further variation. Diagrams in manuscripts reflect these differences in labeling, structure, and emphasis, so there is no single uniform cosmology manuscript across all Jain groups."
+    },
+    {
+      "myth": "Cosmology manuscripts are marginal or secondary compared to canonical texts and have little impact on lay practice.",
+      "reality": "Cosmology manuscripts have played a significant role in both scholastic and lay religious life. They are used in teaching, public readings, and visual displays during festivals, and their diagrams inspire larger painted maps and temple decorations. For many laypeople, these manuscripts provide a concrete way to understand the structure of the universe, karmic destinations, and the path to liberation, making them central rather than marginal in lived Jain practice."
+    }
+  ]
+}

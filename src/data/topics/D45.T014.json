@@ -1,0 +1,27 @@
+{
+  "overview": "Biotechnology is a broad interdisciplinary field that applies biological systems, living organisms, or derivatives of these to develop or modify products and processes for specific uses. It spans molecular biology, genetics, biochemistry, microbiology, engineering, and computational sciences. Modern biotechnology includes genetic engineering, synthetic biology, bioprocessing, bioinformatics, and biomedical innovation. Its applications range from agriculture and environmental management to pharmaceuticals, industrial manufacturing, and healthcare.\n\nHistorically, biotechnology began with traditional practices such as fermentation for bread, yogurt, and alcohol, selective breeding of plants and animals, and early medicinal preparations derived from natural sources. The 20th century introduced molecular biotechnology, marked by the discovery of DNA structure (1953), recombinant DNA technology (1970s), and polymerase chain reaction (1983). These breakthroughs enabled precise manipulation of genetic material, leading to genetically modified organisms (GMOs), targeted therapeutics, and advanced diagnostics.\n\nContemporary biotechnology includes gene editing tools such as CRISPR-Cas systems, which allow targeted modification of genomes with unprecedented accuracy. In medicine, biotechnology supports vaccine development, monoclonal antibodies, cell and gene therapies, and personalized medicine. In agriculture, it enables pest-resistant crops, improved yields, and stress-tolerant varieties. Industrial biotechnology uses microbes and enzymes to produce chemicals, fuels, and materials more sustainably. Environmental biotechnology focuses on bioremediation, wastewater treatment, and conservation genetics.\n\nEthical, regulatory, and societal considerations accompany biotechnology’s rapid growth. Issues include biosafety, bioethics, equitable access, environmental impact, and responsible innovation. While biotechnology offers transformative potential, its development requires careful governance, interdisciplinary collaboration, and ongoing public dialogue.",
+  "primary_sources": [
+    {
+      "title": "No Jain primary text directly addresses modern biotechnology",
+      "author": "N/A",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "Classical Jain scriptures (Āgamas, Śāstras) do not contain references to biotechnology as a modern scientific discipline. When biotechnology intersects with Jain ethical concerns—such as non‑violence (ahiṃsā), environmental stewardship, or medical decision‑making—guidance must be drawn from general principles rather than direct textual instruction. Any application of Jain ethics to biotechnology requires careful interpretation and consultation with qualified human scholars."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Biotechnology only refers to genetic modification.",
+      "reality": "Genetic engineering is one part of biotechnology. The field also includes fermentation, bioprocessing, diagnostics, biopharmaceuticals, environmental applications, and computational biology."
+    },
+    {
+      "myth": "All biotechnology products are unsafe or untested.",
+      "reality": "Biotechnology products undergo extensive regulatory review, safety testing, and long-term monitoring. Many biotechnological innovations, such as insulin and vaccines, have decades of safe use."
+    },
+    {
+      "myth": "Biotechnology is only relevant to medicine.",
+      "reality": "Biotechnology is used in agriculture, industry, environmental management, food production, and conservation biology, in addition to healthcare."
+    }
+  ]
+}

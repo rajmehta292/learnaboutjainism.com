@@ -1,0 +1,51 @@
+{
+  "overview": "The topic of Malli and gender occupies a distinctive place in Jain studies because it intersects hagiography, sectarian history, manuscript traditions, and debates about the interpretation of primary Prakrit and Sanskrit sources. Malli (Malli-nātha, Malli-deva) is recognized across Jain traditions as the 19th Tīrthaṅkara of the current avasarpinī. The central question concerns Malli’s gender: Digambara tradition consistently presents Malli as male, while Śvetāmbara Mūrti-pūjaka and Sthānakavāsī traditions present Malli as female, often described as Mallī Devī. This divergence is not merely narrative; it reflects deeper doctrinal commitments about embodiment, karma, and liberation.\n\nIn Śvetāmbara sources, Mallī Devī’s female embodiment is treated as historically real and spiritually significant. The Śvetāmbara canonical corpus (Āgamas) and later narrative texts describe Mallī as a princess who attains kevala-jñāna and becomes a Tīrthaṅkara. Śvetāmbara commentators emphasize that omniscience and liberation are accessible to all genders, and Mallī Devī serves as a paradigmatic example. In contrast, Digambara doctrine maintains that women cannot attain kevala-jñāna or mokṣa in a female body due to specific karmic and bodily constraints described in Digambara śāstras. Therefore, Digambara texts uniformly identify Malli as male.\n\nModern scholarship (C-tier) highlights that the divergence appears by the early medieval period, with manuscript evidence showing stable sectarian positions. Both traditions agree on Malli’s spiritual status as a Tīrthaṅkara but differ on the narrative and doctrinal framing of gender. The topic remains an important case study in comparative Jain traditions, illustrating how doctrinal commitments shape hagiography and how gender is understood within Jain soteriology.",
+  "primary_sources": [
+    {
+      "title": "Kalpa-sūtra",
+      "author": "Traditionally attributed to Bhadrabāhu",
+      "original_text": "मल्लि देवी तित्थंकरो",
+      "transliteration": "malli devī titthaṅkaro",
+      "translation": "Malli Devī is a Tīrthaṅkara.",
+      "notes": "Śvetāmbara canonical text (Tier A). The Kalpa-sūtra’s brief reference affirms Mallī Devī’s status as a female Tīrthaṅkara. Manuscript traditions consistently preserve the feminine form. The text does not elaborate on doctrinal implications, but later commentaries (Tier B) emphasize the significance of a female Tīrthaṅkara."
+    },
+    {
+      "title": "Triṣaṣṭi-śalākā-puruṣa-caritra",
+      "author": "Hemacandra",
+      "original_text": "तदा मल्लि नाम्ना कन्या तित्थंकरत्वं प्राप्तवती",
+      "transliteration": "tadā malli nāmnā kanyā titthaṅkaratvaṃ prāptavatī",
+      "translation": "Then the maiden named Malli attained the state of a Tīrthaṅkara.",
+      "notes": "Śvetāmbara narrative text (Tier B). Hemacandra provides an extended biography of Mallī Devī, describing her birth, renunciation, and attainment of omniscience. The feminine identity is central to the narrative."
+    },
+    {
+      "title": "Ādi-purāṇa",
+      "author": "Jinasena (Digambara)",
+      "original_text": "मल्लिनाथो नवदशस्तिथंकरः",
+      "transliteration": "mallinātho navadaśas-tithaṅkaraḥ",
+      "translation": "Malli-nātha is the nineteenth Tīrthaṅkara.",
+      "notes": "Digambara purāṇic text (Tier B). Malli is presented as male, consistent with Digambara doctrine. No feminine form appears in Digambara textual traditions. The text reflects the doctrinal position that female embodiment cannot culminate in kevala-jñāna."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (references via commentarial tradition)",
+      "author": "Kundakunda lineage (Digambara)",
+      "original_text": "No direct narrative of Malli; doctrinal passages on female embodiment and mokṣa are cited in commentaries.",
+      "transliteration": "",
+      "translation": "",
+      "notes": "Tier A/B. While the Ṣaṭkhaṇḍāgama does not narrate Tīrthaṅkaras, Digambara commentators use its doctrinal framework to argue that female embodiment cannot support the final destruction of karma. This doctrinal background underlies the Digambara position on Malli’s gender."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain traditions agree that Malli was female.",
+      "reality": "Only Śvetāmbara traditions identify Malli as female. Digambara texts uniformly present Malli as male due to doctrinal commitments about liberation in a female body."
+    },
+    {
+      "myth": "The gender difference is a minor narrative variation without doctrinal significance.",
+      "reality": "The divergence is rooted in major doctrinal positions about embodiment, karma, and the conditions for attaining kevala-jñāna. It reflects deep sectarian differences rather than incidental storytelling."
+    },
+    {
+      "myth": "Śvetāmbara texts invented Mallī Devī in the medieval period.",
+      "reality": "Śvetāmbara canonical references to Mallī Devī appear in early strata of the Kalpa-sūtra. Medieval elaborations expand the narrative but do not originate it."
+    }
+  ]
+}

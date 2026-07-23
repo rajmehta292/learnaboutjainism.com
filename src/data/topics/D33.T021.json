@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, the term **recension** refers to a distinct version of a text that has emerged through processes of transmission, copying, regional variation, sectarian redaction, or deliberate editorial revision. Because Jainism possesses one of the oldest and most complex manuscript cultures in South Asia, the concept of recension is central to understanding how canonical and post‑canonical works have been preserved, altered, and interpreted over time.\n\nA recension is not merely a manuscript copy; it is a *textual lineage*. When scribes, monastic communities, or scholastic traditions transmit a work, they may introduce changes—sometimes accidental, sometimes intentional. These can include orthographic adjustments, dialect shifts (e.g., Ardhamāgadhī to Jaina Śaurasenī), reordering of verses, additions of clarifying passages, or removal of material considered doctrinally inconsistent. Over centuries, such changes accumulate, producing identifiable families of manuscripts.\n\nIn Jainism, recension analysis is especially important for the **Āgamas**, **Niryuktis**, **Bhāṣyas**, **Cūrṇis**, and later scholastic works. For example, Śvetāmbara canonical texts often survive in multiple recensions shaped by regional manuscript traditions in Gujarat and Rajasthan, while Digambara works such as the *Ṣaṭkhaṇḍāgama* and *Kaṣāyapāhuda* have recensions tied to specific monastic lineages and commentarial schools. Modern critical editions rely on comparing these recensions to reconstruct the most reliable textual form.\n\nRecensions also illuminate doctrinal history. Variants may reveal shifts in ritual practice, evolving interpretations of karma theory, or differing sectarian emphases. Scholars therefore treat recension study as both a philological and historical discipline, requiring careful collation, stemmatic analysis, and awareness of sectarian contexts.",
+  "primary_sources": [
+    {
+      "title": "Āyāro (Ācārāṅga Sūtra)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "𑀅𑀬𑀸𑀭𑀺𑀢𑁆𑀢𑀺 𑀫𑀸𑀳𑀺𑀯𑀸𑀭𑀸𑀢𑁆𑀢𑀺",
+      "transliteration": "ayāritti māhivārātti",
+      "translation": "“The conduct taught by Mahāvīra.”",
+      "notes": "The Ācārāṅga survives in multiple Śvetāmbara recensions, including the traditional Mūlabhāṣya line and later manuscript families. Differences include chapter order, presence or absence of narrative sections, and variant Prakrit forms. These variations are central to critical editions such as those produced by the Āgama Research Centre."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama",
+      "author": "Kundakunda lineage (Digambara tradition)",
+      "original_text": "𑀲𑀝𑀓𑀺𑀁𑀥𑀸𑀕𑀫",
+      "transliteration": "ṣaṭkhaṇḍāgama",
+      "translation": "“Scripture in six sections.”",
+      "notes": "The text is preserved through two major recensional streams associated with the *Dhavalā* and *Mahādhavalā* commentaries. Manuscript comparison shows differences in sutra numbering, technical terminology, and arrangement of karma categories."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Anonymous Śvetāmbara redactors",
+      "original_text": "𑀉𑀢𑀭𑀸𑀥𑀺𑀬𑀸𑀢𑁆𑀢𑀺",
+      "transliteration": "uttarādhyāyatti",
+      "translation": "“The later lectures.”",
+      "notes": "This text displays clear recensional variation between older manuscript families that emphasize monastic discipline and later ones that incorporate didactic narratives. Differences in metre and chapter sequence are well documented in critical scholarship."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "A recension is simply a corrupted or inferior version of a text.",
+      "reality": "Recensions are neutral textual lineages. Some preserve older readings; others contain clarifying additions. Philologists evaluate each recension on its own merits."
+    },
+    {
+      "myth": "Jain canonical texts exist in a single fixed form across all sects.",
+      "reality": "Śvetāmbara, Digambara, Sthānakavāsī, and Terāpanth traditions preserve different recensions, reflecting distinct manuscript histories and doctrinal priorities."
+    },
+    {
+      "myth": "Recensional differences are minor and irrelevant for interpretation.",
+      "reality": "Variants can significantly affect doctrinal meaning, ritual instructions, and historical understanding. Critical editions rely on systematic recension analysis."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "overview": "Padmanabh Shrivarma Jaini (1923–2021) was one of the most influential modern scholars of Jainism and Buddhism, widely respected for his philological rigor, sect-sensitive analysis, and ability to bridge insider familiarity with academic method. Born into a Digambara Jain family in Nellikar, near Moodabidri in Karnataka, he grew up within a living Jain environment while gradually turning his attention from devotional and communal life to the critical study of texts, doctrines, and practices across South Asian religious traditions. [[0]](https://en.wikipedia.org/wiki/Padmanabh_Jaini)\n\nHis early education at the Digambara Jain Gurukul in Karanja (Vidarbha, Maharashtra) brought him into contact with major twentieth‑century Jain pandits such as Nathuram Premi, Hiralal Jain, and A. N. Upadhye, and later with the Śvetāmbara community through his work in a hostel in Nashik. These experiences shaped his lifelong commitment to treating Digambara and Śvetāmbara traditions with equal seriousness, resisting simplistic binaries and highlighting the internal diversity of Jain thought. After completing a B.A. (Honours) in Sanskrit and Prakrit and an M.A. in Sanskrit, he pursued advanced study of Pali and Theravāda Buddhism in Sri Lanka, earning the Tipiṭakācārya degree and deepening his expertise in canonical Buddhist literature. [[1]](https://www.bhu.ac.in/Site/Page/1_106_638_6333_Department-of-Pali-And-Buddhist-Studies-Retired-Teachers) [[2]](https://digjainwiki.org/wiki/shri-padmnabh-jain/)\n\nJaini’s academic career took him from Banaras Hindu University to the School of Oriental and African Studies (SOAS) in London, the University of Michigan at Ann Arbor, and finally the University of California, Berkeley, where he served as Professor of Buddhist Studies and co‑founded the Group in Buddhist Studies. At Berkeley he became a central figure in the institutional development of Buddhist and Jain studies, mentoring generations of students and continuing to publish critical editions, translations, and synthetic works even after his formal retirement in 1994. His colleagues and students remember him not only for his scholarship but also for his disciplined lifestyle, daily walks, and sustained engagement with younger researchers, including the establishment of the Padmanabh S. Jaini Graduate Student Award in Buddhist Studies. [[3]](https://buddhiststudies.berkeley.edu/people/padmanabh-jaini) [[4]](https://jainismo.org/jaini/)\n\nIn Jain studies, Jaini’s most widely known book is \"The Jaina Path of Purification\" (1979), a comprehensive, tradition‑aware introduction to Jain doctrine, ethics, ritual, and community life. The work is notable for its balanced treatment of Śvetāmbara and Digambara sources, careful use of canonical and commentarial literature, and attention to contemporary practice. It has become a standard reference for students and scholars, often serving as a bridge between primary texts and modern academic discourse. His \"Gender and Salvation: Jaina Debates on the Spiritual Liberation of Women\" (1991) offers a detailed study of sectarian arguments about women’s capacity for liberation, showing how doctrinal positions are intertwined with social and institutional realities. [[4]](https://jainismo.org/jaini/) [[2]](https://digjainwiki.org/wiki/shri-padmnabh-jain/)\n\nBeyond Jainism, Jaini made major contributions to Buddhist studies, particularly in the field of Abhidharma. His critical edition of the \"Abhidharmadīpa\" and related works, as well as his studies of Pali texts such as the \"Paññāsa‑Jātaka\" and \"Subodhālaṅkāra\", exemplify his meticulous approach to manuscript comparison, textual history, and doctrinal analysis. These editions and monographs are frequently cited as foundational for the study of early Buddhist scholasticism and narrative literature. His collected essays on both Jainism and Buddhism—\"Collected Papers on Jaina Studies\" (2000) and \"Collected Papers on Buddhist Studies\" (2001)—gather decades of research, ranging from technical doctrinal issues to broader reflections on interreligious dialogue and the comparative study of liberation. [[1]](https://www.bhu.ac.in/Site/Page/1_106_638_6333_Department-of-Pali-And-Buddhist-Studies-Retired-Teachers) [[4]](https://jainismo.org/jaini/)\n\nJaini’s work is especially important for modern Jain communities and students of Jainism because it models a way of engaging with the tradition that is both deeply respectful and critically reflective. He consistently distinguished between primary textual evidence, later commentary, and contemporary interpretation, and he was attentive to the ways in which sectarian identities, gender, and historical context shape doctrinal positions. While he never claimed religious authority as an Acharya or monk, his writings have significantly influenced how Jainism is presented in universities, encyclopedias, and interreligious forums. His legacy continues through his publications, his students, and the ongoing use of his works in both academic and community settings.",
+  "primary_sources": [
+    {
+      "title": "The Jaina Path of Purification",
+      "author": "Padmanabh S. Jaini",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "English monograph presenting a comprehensive, sect-balanced account of Jain doctrine, ethics, ritual, and community life.",
+      "notes": "Published in 1979, this work has become a standard academic introduction to Jainism, notable for its careful use of Śvetāmbara and Digambara sources, clear explanations of karma, vows, and cosmology, and attention to both lay and monastic practice. It is frequently cited in university courses and scholarly literature as a reliable, tradition-aware overview of Jain thought and practice."
+    },
+    {
+      "title": "Gender and Salvation: Jaina Debates on the Spiritual Liberation of Women",
+      "author": "Padmanabh S. Jaini",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "English analytical study of doctrinal debates on women’s capacity for liberation in different Jain sects.",
+      "notes": "Published in 1991, this book examines textual arguments and sectarian positions regarding whether women can attain kevala‑jñāna and final liberation, highlighting how doctrinal claims intersect with social structures and institutional norms. It is a key resource for understanding gender in Jain religious discourse and is widely used in courses on religion and gender."
+    },
+    {
+      "title": "Collected Papers on Jaina Studies",
+      "author": "Padmanabh S. Jaini",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "English collection of research articles on various aspects of Jain doctrine, history, and practice.",
+      "notes": "This volume gathers many of Jaini’s previously published essays on Jainism, including technical studies of karma theory, sectarian differences, and historical developments, as well as broader reflections on Jain ethics and interreligious dialogue. It is valuable for advanced students and researchers who wish to see the depth and range of his Jain scholarship."
+    },
+    {
+      "title": "Collected Papers on Buddhist Studies",
+      "author": "Padmanabh S. Jaini",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "English collection of essays on Buddhist doctrine, Abhidharma, textual history, and related topics.",
+      "notes": "Complementing his Jain studies, this volume showcases Jaini’s contributions to Buddhist scholarship, especially in the areas of Abhidharma, Pali literature, and the comparative study of liberation. It illustrates his method of close textual reading combined with historical and doctrinal analysis."
+    },
+    {
+      "title": "Abhidharmadīpa (critical edition and study)",
+      "author": "Padmanabh S. Jaini (editor and scholar)",
+      "original_text": "Abhidharmadīpa-vibhāṣāprabhāvṛtti (in Sanskrit, with reference to Tibetan manuscript traditions)",
+      "transliteration": "Abhidharmadīpa-vibhāṣāprabhāvṛtti",
+      "translation": "Critical edition with scholarly introduction and notes; the work itself is a Vaibhāṣika Abhidharma treatise rather than a full English translation.",
+      "notes": "Jaini’s edition of the Abhidharmadīpa, published in the mid‑twentieth century, is considered a major event in Abhidharma studies. It provides a carefully reconstructed Sanskrit text based on multiple manuscript witnesses, along with an introduction that situates the treatise within the broader history of Buddhist scholasticism. This work established Jaini as a leading authority on Abhidharma and remains an important reference for specialists."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Padmanabh Jaini was a Jain monk or Acharya exercising formal religious authority over Jain communities.",
+      "reality": "Jaini was a lay scholar and university professor, not a monk, Acharya, or Maharaj Saheb. He came from a Digambara Jain family and was deeply engaged with Jain traditions, but his role was academic: producing research, editions, and interpretations rather than issuing binding religious rulings or leading a monastic lineage."
+    },
+    {
+      "myth": "Jaini represented only one Jain sect and wrote from a narrowly Digambara or Śvetāmbara perspective.",
+      "reality": "A hallmark of Jaini’s work is his balanced treatment of both Digambara and Śvetāmbara traditions. He explicitly sought to understand and present multiple sectarian viewpoints, often highlighting internal diversity and debate rather than privileging a single sectarian stance. His major works are widely used precisely because they avoid one‑sided sectarian bias."
+    },
+    {
+      "myth": "The Jaina Path of Purification is merely a devotional or insider text and not suitable for academic study.",
+      "reality": "Although Jaini writes with deep familiarity and respect for Jain tradition, \"The Jaina Path of Purification\" is a rigorously researched academic monograph. It carefully distinguishes between primary sources, commentaries, and contemporary practice, and it has been adopted internationally as a scholarly introduction to Jainism in universities and research settings."
+    },
+    {
+      "myth": "Jaini’s contributions are limited to Jainism and do not significantly impact Buddhist studies.",
+      "reality": "Jaini is equally recognized as a major Buddhist studies scholar, especially in Abhidharma and Pali literature. His critical editions of texts such as the Abhidharmadīpa and Paññāsa‑Jātaka, along with his collected papers on Buddhist studies, are foundational for specialists and have shaped the modern academic understanding of early Buddhist scholastic and narrative traditions."
+    },
+    {
+      "myth": "Because Jaini was an academic, his work is disconnected from lived Jain and Buddhist practice.",
+      "reality": "Jaini’s scholarship is grounded in both textual study and lived experience. He engaged directly with Jain and Buddhist communities, drew on his own upbringing and field encounters, and paid close attention to how doctrines are embodied in ritual, ethics, and community life. His writings often serve as bridges between practitioners and scholars, showing how rigorous study can illuminate, rather than replace, lived religious practice."
+    }
+  ]
+}
+
+
+
+> [0] [Padmanabh Jaini - Wikipedia](https://en.wikipedia.org/wiki/Padmanabh_Jaini)
+>
+> [1] [Banaras Hindu University, [BHU], Varanasi-221005, U.P., India. - Banaras Hindu University, Varanasi, India.](https://www.bhu.ac.in/Site/Page/1_106_638_6333_Department-of-Pali-And-Buddhist-Studies-Retired-Teachers)
+>
+> [2] [Shri Padmnabh Jain - DigJainWiki](https://digjainwiki.org/wiki/shri-padmnabh-jain/)
+>
+> [3] [Padmanabh Jaini | Buddhist Studies](https://buddhiststudies.berkeley.edu/people/padmanabh-jaini)
+>
+> [4] [Padmanabh S. Jaini: gran erudito del jainismo, del budismo y del diálogo interreligioso. - Jainismo.org](https://jainismo.org/jaini/)

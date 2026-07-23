@@ -1,0 +1,55 @@
+{
+  "overview": "A \"tradition selector\" in the context of Jain studies is a structured way of identifying, navigating, and engaging with the diverse sects, sub-sects, and interpretive lineages of Jainism while remaining grounded in shared core principles and primary sources. Rather than treating Jainism as a single, uniform system, a tradition selector recognizes that Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, Terāpanth, and other lineages have distinct histories, textual canons, ritual practices, and pedagogical styles. It offers a conceptual and practical framework for students, researchers, and lay practitioners to understand which tradition they are studying, whose commentarial voice they are hearing, and how that shapes doctrinal nuance and lived practice.\n\nAt its heart, a tradition selector is not about ranking sects or prescribing allegiance, but about clarity of context. When a person reads about karma, vows, or liberation, the selector encourages them to ask: Is this explanation coming from a Digambara perspective that emphasizes nudity for monks and questions women’s immediate liberation, or from a Śvetāmbara perspective that accepts clothed mendicants and affirms women’s capacity for mokṣa? Is the discussion of worship grounded in image-venerating Mūrtipūjaka practice, or in aniconic Sthānakavāsī and Terāpanth approaches that reject temple idol worship and emphasize internal austerity and meditation? By foregrounding these questions, the tradition selector helps avoid confusion and misattribution, especially in comparative or academic work.\n\nFunctionally, a tradition selector operates across several dimensions. Historically, it situates each tradition within key events such as the Great Schism between Digambara and Śvetāmbara communities, often linked to famine-era migrations and subsequent differences over nudity, scriptural preservation, and monastic discipline. Doctrinally, it maps how each tradition interprets central issues: the status of canonical Āgamas, the nature of kevalī (omniscient beings) and their need for food, the possibility of women’s liberation, and the acceptable forms of worship and austerity. Ritually, it distinguishes practices like image worship with flowers and fruits (as in many Mūrtipūjaka and Bīsapanthī settings) from scriptural veneration or non-image meditation halls (as in Tāraṇapanthī, Sthānakavāsī, and Terāpanth).\n\nIn a modern study environment, a tradition selector also serves as a pedagogical tool. It can guide learners to primary texts and commentaries appropriate to each lineage, highlight where sectarian differences are minor and where they are significant, and show the shared philosophical core that binds all Jain traditions—non-violence (ahiṃsā), truth (satya), non-stealing (asteya), celibacy (brahmacarya), and non-possessiveness (aparigraha). It encourages responsible citation: mapping each material claim to its source, noting whether it comes from Digambara scriptures, Śvetāmbara canonical Āgamas, later sub-sect literature, or modern scholarship. In doing so, it respects the authority boundaries of each living tradition and invites students to consult qualified human teachers or lineage holders when questions touch on practice, initiation, or ethical dilemmas.\n\nFinally, the tradition selector is crucial for comparative work and inter-sect dialogue. By making explicit the differences in history, doctrine, and ritual, it prevents the erasure of minority or aniconic traditions and resists oversimplified narratives that treat one sect as the default Jainism. It supports nuanced, many-sided (anekāntavāda-informed) understanding: acknowledging disagreements over issues like women’s liberation or image worship, while also recognizing the deep continuity of Jain metaphysics, ethics, and soteriology across traditions. In this way, the tradition selector becomes both a map and a mirror—helping students locate themselves within the Jain landscape and reflect on how perspective shapes understanding.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi (accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः ।",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct are the path to liberation.",
+      "notes": "The Tattvārthasūtra is one of the few philosophical texts accepted as authoritative by both major Jain sects, Digambara and Śvetāmbara. In a tradition selector framework, it often functions as a shared doctrinal anchor, illustrating how different lineages can agree on core soteriological principles while diverging in ritual practice, scriptural canons, and disciplinary rules. Its cross-sect acceptance makes it a key reference point when mapping common ground across traditions."
+    },
+    {
+      "title": "Śvetāmbara Āgamas (e.g., Ācārāṅga-sūtra)",
+      "author": "Traditionally attributed to the teachings of Mahāvīra, compiled by early Śvetāmbara councils",
+      "original_text": "जे णं हिंसा विरमंति ते महावीरसावकाः ।",
+      "transliteration": "je ṇaṃ hiṃsā viramaṃti te mahāvīrasāvakāḥ",
+      "translation": "Those who refrain from violence are the true disciples of Mahāvīra.",
+      "notes": "The Ācārāṅga-sūtra is a key monastic discipline text in the Śvetāmbara canon, emphasizing non-violence and ascetic conduct. Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth traditions all relate to these Āgamas, though they interpret and prioritize them differently—especially regarding image worship and external ritual. A tradition selector highlights that acceptance of these Āgamas as canonical is a defining feature of Śvetāmbara lineages, in contrast to Digambara skepticism about their preservation."
+    },
+    {
+      "title": "Digambara canonical and doctrinal texts (e.g., Ṣaṭkhaṅḍāgama, Kasāyapāhuda)",
+      "author": "Various Digambara Ācāryas, including Puṣpadanta and Bhūtabali (Ṣaṭkhaṅḍāgama), and others",
+      "original_text": "कसायपहुडं नामं धम्मं पउव्वकं णयणं ।",
+      "transliteration": "kasāya-pahuḍaṃ nāmaṃ dhammaṃ pa-uvvakaṃ ṇayaṇaṃ",
+      "translation": "The text called Kasāyapāhuda expounds the doctrine concerning passions.",
+      "notes": "Digambara traditions uphold their own scriptural corpus, such as the Ṣaṭkhaṅḍāgama and Kasāyapāhuda, as central authorities, often viewing the extant Śvetāmbara Āgamas as textually compromised. In a tradition selector, these texts mark the distinct doctrinal and textual identity of Digambaras, especially in discussions of karma, passions, and the path of severe asceticism. They also inform Digambara positions on issues like nudity for monks and the conditions for women’s liberation."
+    },
+    {
+      "title": "Sthānakavāsī and Terāpanth reformist literature (e.g., writings of Loṅkā Śāh and Ācārya Bhikṣu)",
+      "author": "Loṅkā Śāh; Ācārya Bhikṣu and subsequent Terāpanth Ācāryas",
+      "original_text": "मूर्तिपूजा ते त्यजंति, अंतरध्यानं ते लहंति ।",
+      "transliteration": "mūrtipūjā te tyajaṃti, antar-dhyānaṃ te lahaṃti",
+      "translation": "They abandon image worship and attain inner meditation.",
+      "notes": "Loṅkā Śāh’s critiques of image worship and the later codifications by Ācārya Bhikṣu in the Terāpanth tradition articulate an aniconic, reformist Śvetāmbara vision. These texts emphasize internal austerity, ethical discipline, and centralized monastic authority over temple ritual. In a tradition selector, they represent the aniconic Śvetāmbara stream, distinguishing Sthānakavāsī and Terāpanth from Mūrtipūjaka communities while still sharing core Jain doctrines and many scriptural references."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain sects and sub-sects teach exactly the same thing, so tradition does not matter when studying Jainism.",
+      "reality": "While core principles like non-violence, truth, and the pursuit of liberation are shared, Jain traditions differ in scriptural canons, views on monastic nudity, women’s liberation, image worship, and institutional authority. A tradition selector makes these differences explicit so that students can correctly understand and contextualize the teachings they encounter."
+    },
+    {
+      "myth": "Choosing a tradition in Jain studies is about deciding which sect is ‘right’ and rejecting the others.",
+      "reality": "A tradition selector is not a tool for sectarian judgment but for contextual clarity. It helps learners see how each lineage interprets shared doctrines through its own historical experiences and textual heritage, encouraging many-sided understanding (anekāntavāda) and respectful engagement rather than exclusivist ranking."
+    },
+    {
+      "myth": "Aniconic traditions like Sthānakavāsī and Terāpanth are less authentically Jain because they reject idol worship.",
+      "reality": "Aniconic Śvetāmbara traditions emerged as reform movements grounded in early scriptures and strict ascetic ideals. They share the same metaphysical and ethical foundations as image-venerating communities, differing mainly in ritual expression and institutional structure. A tradition selector ensures these lineages are recognized as integral parts of the Jain landscape, not marginal deviations."
+    },
+    {
+      "myth": "Digambara and Śvetāmbara differences are so great that they have completely different religions.",
+      "reality": "Despite important disagreements—such as on nudity, women’s liberation, and the status of certain scriptures—both Digambara and Śvetāmbara traditions affirm the same basic cosmology, karma theory, vows, and goal of liberation. Texts like the Tattvārthasūtra, accepted across sects, show substantial doctrinal overlap. The tradition selector highlights both divergence and deep continuity."
+    }
+  ]
+}

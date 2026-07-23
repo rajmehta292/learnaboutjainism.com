@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain literature, the term **Vimāna** refers to a celestial palace, mansion, or aerial abode associated primarily with the heavenly realms (devaloka). Unlike the popular modern usage of the word in science‑fiction or Hindu epics, Jain Vimānas are highly structured components of Jain cosmology, described with precise architectural, karmic, and hierarchical details. They are not vehicles but fixed or semi‑fixed palatial dwellings of gods (devas) and goddesses (devīs) who reside in the upper regions of the universe.\n\nIn the canonical cosmology, Vimānas appear in the **three heavens of the lower world (kalpa)** and the **sixteen heavens of the upper world (akalpa)**. Each Vimāna is associated with specific classes of celestial beings, karmic conditions for birth, and prescribed dimensions. Texts such as the *Tiloyapaṇṇatti*, *Saṃgrahaṇī Sūtra*, and *Jambūdvīpa Paṭṭa* provide detailed measurements, layouts, and classifications. Vimānas are often described as multi‑storied, radiant, and ornamented with jewels, banners, and divine music, symbolizing the fruition of meritorious karma.\n\nJain tradition emphasizes that Vimānas are **temporary abodes**. Even celestial beings are subject to saṃsāra, and their residence in Vimānas is conditioned by puṇya karma. Thus, Vimānas illustrate both the grandeur of karmic reward and the impermanence of all worldly states. They serve as cosmological markers, ethical reminders, and architectural elements within Jain sacred diagrams and temple art.",
+  "primary_sources": [
+    {
+      "title": "Saṃgrahaṇī Sūtra",
+      "author": "Attributed to Ācārya Śrīcandra (Śvetāmbara)",
+      "original_text": "देवाणं विमाणं तिहि लोएसु णिव्वुअं।",
+      "transliteration": "devāṇaṃ vimāṇaṃ tihi loesu ṇivvuaṃ",
+      "translation": "The Vimānas of the gods are established in the three worlds.",
+      "notes": "This passage summarizes the placement of Vimānas across the cosmological layers. The text provides classifications of deities and their abodes."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "तह वि अणंतगुणसम्पण्णा देवविमाणा।",
+      "transliteration": "taha vi aṇantaguṇasampaṇṇā devavimāṇā",
+      "translation": "There are celestial Vimānas endowed with innumerable qualities.",
+      "notes": "The *Tiloyapaṇṇatti* gives extensive architectural and dimensional descriptions of Vimānas, including their floors, ornamentation, and inhabitants."
+    },
+    {
+      "title": "Jambūdvīpa Paṭṭa (various manuscript traditions)",
+      "author": "Anonymous traditional cosmological compilers",
+      "original_text": "विमाणाणि तु देवानां ज्योतिरमयाणि।",
+      "transliteration": "vimāṇāṇi tu devānāṃ jyotiramayāṇi",
+      "translation": "The Vimānas of the gods are radiant in nature.",
+      "notes": "Used in cosmological diagrams, this line highlights the luminous quality of Vimānas as depicted in Jain cosmography."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Vimānas in Jainism are flying machines similar to those described in some Hindu epics or modern speculative literature.",
+      "reality": "Jain Vimānas are not vehicles. They are celestial palaces or mansions where gods reside. Their descriptions focus on architecture, hierarchy, and karmic conditions, not transportation."
+    },
+    {
+      "myth": "Vimānas represent eternal heavenly dwellings for liberated souls.",
+      "reality": "Liberated souls (siddhas) do not reside in Vimānas. Vimānas are temporary abodes for celestial beings still bound by karma. Siddhas dwell in Siddhaśilā, beyond all heavens."
+    },
+    {
+      "myth": "All Vimānas are identical across Jain traditions.",
+      "reality": "Digambara and Śvetāmbara texts share core cosmological structures but differ in certain measurements, classifications, and iconographic details of Vimānas."
+    }
+  ]
+}

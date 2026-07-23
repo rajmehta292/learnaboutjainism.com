@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, **Siddhahood** refers to the final, irreversible state of liberation attained by a soul that has completely destroyed all karmic matter. A Siddha is a perfected being who has transcended the cycle of birth, death, and rebirth (saṃsāra) and resides eternally at the apex of the universe, known as **Siddha-śilā**. This state is described across both Digambara and Śvetāmbara traditions with remarkable consistency: a Siddha is bodiless, omniscient, free from all passions, and endowed with infinite attributes such as infinite bliss (ananta-sukha), infinite knowledge (ananta-jñāna), infinite perception (ananta-darśana), and infinite energy (ananta-vīrya).\n\nThe journey to Siddhahood is mapped through the **fourteen guṇasthānas**, a technical schema describing progressive purification of the soul. The final destruction of the four aghātiyā karmas—knowledge-obscuring, perception-obscuring, deluding, and obstructive karmas—occurs at the thirteenth and fourteenth stages. Upon the destruction of the remaining non-destructive karmas (āyu, nāma, gotra, and vedanīya), the soul becomes a Siddha.\n\nJain texts emphasize that Siddhahood is not a reward granted by a deity but the natural consequence of the soul’s inherent capacity for purity once karmic bondage is eliminated. The state is eternal, without change, decay, or return to embodied existence. Siddhas do not intervene in worldly affairs; they remain in a state of perfect stillness and bliss. This understanding forms a cornerstone of Jain metaphysics and soteriology, shaping ethical practices, meditation disciplines, and the broader worldview of nonviolence and self-restraint.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सिद्धाः सिद्धशिलास्थाः",
+      "transliteration": "siddhāḥ siddhaśilāsthāḥ",
+      "translation": "The Siddhas dwell at the Siddha-śilā.",
+      "notes": "Tattvārtha Sūtra 10.5 describes the location and nature of Siddhas. This is one of the most authoritative pan-Jain texts accepted by both Digambara and Śvetāmbara traditions."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Nemicandra Siddhānta Cakravartin",
+      "original_text": "सिद्धो निरवयवो नित्यो मुक्तो निर्ग्रन्थो जिनो जिनः",
+      "transliteration": "siddho niravayavo nityo mukto nirgrantho jino jinaḥ",
+      "translation": "A Siddha is without bodily parts, eternal, liberated, free from all bonds, and victorious.",
+      "notes": "This verse concisely defines the attributes of a Siddha from a Digambara perspective, emphasizing bodilessness and eternal liberation."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "जिणा अणंतदंसणा अणंतणाणं अणंतव्वीरिया",
+      "transliteration": "jiṇā aṇantadaṃsaṇā aṇantaṇāṇaṃ aṇantavvīriyā",
+      "translation": "The Jinas possess infinite perception, infinite knowledge, and infinite energy.",
+      "notes": "Although referring to Jinas, the attributes listed are identical to those of Siddhas, illustrating the shared doctrinal foundation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Siddhas act as gods who intervene in human affairs.",
+      "reality": "Jain doctrine states that Siddhas are completely non-interventionist. They exist in a state of perfect stillness and do not influence worldly events."
+    },
+    {
+      "myth": "Siddhahood is granted by divine grace.",
+      "reality": "Siddhahood arises solely from the soul’s own purification through the destruction of karmas. No external deity bestows liberation."
+    },
+    {
+      "myth": "Siddhas retain subtle bodies or travel through the cosmos.",
+      "reality": "Primary texts affirm that Siddhas are entirely bodiless (niravayava) and remain eternally fixed at Siddha-śilā."
+    }
+  ]
+}

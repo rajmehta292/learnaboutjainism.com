@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain historical studies, “councils” refers to a series of organized gatherings of monks and scholars convened to preserve, compile, or redraft the Jain scriptural corpus during periods of disruption. These councils are not ecumenical in the sense found in some other religious traditions; rather, they are emergency or restorative efforts responding to loss of memory, famine, migration, or fragmentation of lineages. The councils are primarily attested in Śvetāmbara narrative traditions, with Digambara sources offering different accounts of textual transmission and emphasizing that the original scriptures (Pūrvas and Aṅgas) were lost much earlier.\n\nThe most frequently discussed councils are the **Pāṭaliputra Council**, the **Mathurā Council**, and the **Vallabhi Council**. Each is associated with attempts to stabilize the canon after disruptions. The Pāṭaliputra Council, traditionally dated around the time of Sthūlabhadra, is said to have addressed the fading knowledge of the Pūrvas. The Mathurā Council, linked to Skandila, is described as a parallel effort to reorganize teachings in northern regions. The Vallabhi Council (5th–6th century CE), under Devardhigaṇi Kṣamāśramaṇa, is the most historically grounded and is credited in Śvetāmbara tradition with producing the redacted Aṅga and Aṅga-bāhya collections that survive today.\n\nAcross traditions, councils are remembered as moments of crisis management rather than doctrinal innovation. They reflect the Jain commitment to preserving teachings through collective memory, recitation, and manuscript culture. Modern scholarship notes that these councils are described in later narrative layers and that their historicity, chronology, and outcomes vary across sectarian accounts. Nevertheless, they remain central to understanding how Jain communities conceptualize the transmission of scripture and the challenges of maintaining an oral canon over centuries.",
+  "primary_sources": [
+    {
+      "title": "Nandī Sūtra (Śvetāmbara)",
+      "author": "Attributed to Devardhigaṇi Kṣamāśramaṇa (redactor)",
+      "original_text": "पुव्वा णं पव्वयणं, अंगा णं अङ्गाणं",
+      "transliteration": "puvvāṇaṃ pavvayaṇaṃ, aṅgāṇaṃ aṅgāṇaṃ",
+      "translation": "“The Pūrvas are the ancient teachings; the Aṅgas are the limbs of the doctrine.”",
+      "notes": "The Nandī Sūtra provides classificatory descriptions of scriptural categories and is traditionally linked to the Vallabhi redaction. It does not describe councils directly but is used to understand the scriptural framework that councils attempted to preserve."
+    },
+    {
+      "title": "Kalpa Sūtra (Śvetāmbara)",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "तत्थ भद्दबाहू महापुरिसो",
+      "transliteration": "tattha bhaddabāhū mahāpuriso",
+      "translation": "“There the great person Bhadrabāhu…”",
+      "notes": "Later commentarial traditions connect Bhadrabāhu with the fading of the Pūrvas and the need for organized recollection. The Kalpa Sūtra itself does not narrate councils but is central to the period in which council traditions place Bhadrabāhu."
+    },
+    {
+      "title": "Digambara Tradition on Loss of Scriptures",
+      "author": "Recorded in commentaries such as Pūjyapāda’s Sarvārthasiddhi",
+      "original_text": "पूर्वविद्या लुप्ता",
+      "transliteration": "pūrvavidyā luptā",
+      "translation": "“The knowledge of the Pūrvas has been lost.”",
+      "notes": "Digambara sources emphasize that the original scriptures were lost long before any Śvetāmbara councils, offering a contrasting account of textual history. This forms the basis for their rejection of the Śvetāmbara canonical councils."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain traditions agree on the number, dates, and outcomes of the councils.",
+      "reality": "Śvetāmbara traditions preserve detailed narratives of three major councils, while Digambara traditions generally reject their historicity and maintain that the scriptures had already been lost."
+    },
+    {
+      "myth": "Councils created new doctrines or changed Jain philosophy.",
+      "reality": "Council narratives describe efforts to preserve and stabilize existing teachings, not to introduce new doctrines. They are restorative, not innovative."
+    },
+    {
+      "myth": "The Vallabhi Council produced a universally accepted Jain canon.",
+      "reality": "The Vallabhi redaction is authoritative only within Śvetāmbara Mūrtipūjaka and Sthānakavāsī/Terāpanth lineages. Digambaras do not accept this canon."
+    }
+  ]
+}

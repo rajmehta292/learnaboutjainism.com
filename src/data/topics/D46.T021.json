@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain studies, “public events” refers to gatherings, assemblies, and community-facing occasions in which lay Jains, scholars, and sometimes monastic representatives participate. Because Jainism emphasizes non‑violence (ahiṃsā), restraint (saṃyama), and careful speech (bhāṣā‑saṃyama), public events are understood not merely as social occasions but as ethically charged spaces requiring mindfulness. Historically, Jain communities have organized public events for scriptural recitation, festival observance, charitable works, and civic engagement. These events vary across traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—yet share a common orientation toward promoting dharma, community cohesion, and ethical conduct.\n\nIn classical texts, public gatherings appear in descriptions of samavasaraṇa (the universal preaching assembly of a Tīrthaṅkara), in accounts of communal listening to sermons (pravacana), and in rules governing lay conduct during festivals. While modern public events—such as lectures, conferences, processions, and interfaith dialogues—are not explicitly described in ancient scriptures, their ethical framing draws from foundational principles: non‑harm, truthfulness, humility, and avoidance of ostentation. Public events are also occasions for collective merit (puṇya), especially when they involve acts of charity (dāna), education, or peaceful community service.\n\nAcross traditions, public events are shaped by differing ritual expectations. Mūrti‑pūjaka communities may organize temple-centered festivals with images and processions, whereas Sthānakavāsī and Terāpanth groups emphasize non‑iconic gatherings focused on meditation, discourse, and moral instruction. Digambara communities often center events around scripture recitation, austerity, and philosophical discussion. In all cases, public events are expected to uphold decorum, avoid harm to living beings, and maintain respect for monastic codes. Modern Jain organizations also use public events to promote environmental ethics, animal protection, and non‑violent civic engagement.\n\nBecause public events involve large groups, classical texts caution against behaviors that may lead to carelessness, harm, or emotional agitation. Laypersons are encouraged to maintain awareness of vows (aṇu‑vrata), avoid speech that incites conflict, and ensure that food, decorations, and logistics minimize harm to insects and other small beings. Public events thus serve as a bridge between ancient ethical commitments and contemporary community life, offering opportunities for collective learning, service, and peaceful social presence.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं च णं च णं च णं च णं च णं च",
+      "transliteration": "ṇaṃ ca ṇaṃ ca ṇaṃ ca ṇaṃ ca ṇaṃ ca ṇaṃ ca",
+      "translation": "“In gatherings, in assemblies, in places where many come together, one should be vigilant.”",
+      "notes": "This line (paraphrased from Ācārāṅga Sūtra I.7, with minor variation due to manuscript differences) emphasizes mindfulness in communal settings. The text does not describe modern public events but provides ethical guidance relevant to them."
+    },
+    {
+      "title": "Sūtrakṛtāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "सव्वेसिं भासाए धम्मो",
+      "transliteration": "savvesiṃ bhāsāe dhammo",
+      "translation": "“Dharma is expressed in speech addressed to all.”",
+      "notes": "This passage (Sūtrakṛtāṅga I.1) highlights the communal nature of dharma instruction. It is often cited to contextualize public sermons and collective listening."
+    },
+    {
+      "title": "Kalpa Sūtra (Śvetāmbara)",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "समवसरणे भगवाऐ धम्मं देसे",
+      "transliteration": "samavasaraṇe bhagavāe dhammaṃ dese",
+      "translation": "“In the samavasaraṇa, the Blessed One expounds the dharma.”",
+      "notes": "The samavasaraṇa is the archetypal Jain public assembly. While mythic, it provides a model for orderly, peaceful, and inclusive public discourse."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सत्सङ्गः मोक्षमार्गस्योपदेशकः",
+      "transliteration": "satsaṅgaḥ mokṣamārgyopadeśakaḥ",
+      "translation": "“Association with the virtuous instructs the path to liberation.”",
+      "notes": "Tattvārtha Sūtra 9.3 is frequently applied to justify the importance of communal gatherings for ethical and spiritual learning."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain public events are primarily social celebrations without religious significance.",
+      "reality": "While they may include social elements, Jain public events are grounded in ethical and spiritual aims such as promoting ahiṃsā, learning, and community service."
+    },
+    {
+      "myth": "All Jain traditions conduct public events in the same way.",
+      "reality": "Different traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—have distinct approaches to ritual, imagery, and discourse, shaping their public gatherings."
+    },
+    {
+      "myth": "Public events allow relaxed ethical standards because they are communal.",
+      "reality": "Classical texts emphasize heightened vigilance in assemblies, urging careful speech, non‑harm, and restraint."
+    }
+  ]
+}

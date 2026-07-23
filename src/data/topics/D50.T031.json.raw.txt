@@ -1,0 +1,75 @@
+{
+  "overview": "In Jain studies, \"source diversity\" refers to the plurality of textual, linguistic, sectarian, and historical streams through which Jain doctrine, practice, and ethics are transmitted. Rather than a single universally accepted \"Jain Bible,\" the tradition is structured around multiple canons, commentarial lineages, and regional literatures that together form a complex but coherent scriptural ecosystem. Śvetāmbara communities generally recognize a Prakrit Āgama canon preserved through monastic recitation and later redaction, while Digambara communities deny the full authenticity of that canon and locate authority in other early and scholastic works such as the Ṣaṭkhaṅḍāgama, Kasāyapāhuḍa, and philosophical treatises.  [[0]](https://archania.org/p/the-symbolic-world/symbolic-works/literature/religious-texts/jain-agamas) [[1]](https://www.britannica.com/topic/Jaina-canon)\n\nThis diversity is not merely a matter of different book lists; it is embedded in Jain understandings of āgama (\"that which has come down\") and siddhānta (authoritative doctrine). Both terms can refer to bodies of teaching that include sermons, narrative, cosmology, ethical reflection, and ritual manuals, as well as later commentaries and independent works. The Śvetāmbara canon is commonly described as comprising Aṅgas, Upāṅgas, Cheda-sūtras, Prakīrṇakas, Cūlikā-sūtras, and Mūla-sūtras, while Digambara authors emphasize doctrinal continuity through non-Āgama works and philosophical syntheses.  [[0]](https://archania.org/p/the-symbolic-world/symbolic-works/literature/religious-texts/jain-agamas) [[1]](https://www.britannica.com/topic/Jaina-canon)\n\nSource diversity also appears in language and genre. Early canonical materials are primarily in Ardhamāgadhī and related Prakrits, transmitted orally for centuries before being written down. Later Jain literature expands into Sanskrit, regional vernaculars (such as Gujarati, Kannada, Hindi, and Tamil), and modern languages including English. These texts range from ascetic rulebooks and cosmological treatises to narrative epics, hymns, philosophical compendia, and scholastic commentaries. The result is a layered tradition in which doctrinal themes—karma, non-violence, vows, cosmology, and liberation—are articulated differently across time, sect, and audience, yet remain recognizably Jain.  [[2]](https://en.wikipedia.org/wiki/Jain_literature) [[3]](https://philosophy.institute/religions-of-the-world/exploring-sacred-texts-jainism-guide/)\n\nWithin this plurality, Jain thinkers have developed strategies for acknowledging and managing disagreement. Medieval ācāryas such as Haribhadra Sūri and Abhayadeva Sūri used Prakrit and Sanskrit commentaries to reconcile sectarian tensions, emphasizing shared soteriological goals while allowing for divergent textual authorities. Phrases like \"nānā-maggehi eko maggo\" (\"through various paths, one path\") and \"savve jīvā piyāyarā\" (\"all souls are beloved\") exemplify a discourse that validates diversity within unity, framing multiple scriptural streams as converging on the same ethical and liberative horizon.  [[4]](https://horizon-jhssr.com/articles/authors/pdf-version-18/JHSSR-1318-2025.pdf)\n\nFor contemporary study, source diversity has several implications. First, any serious engagement with Jainism must recognize that claims about \"what Jainism teaches\" may rest on different textual bases depending on whether one is working in a Śvetāmbara, Digambara, or sub-sectarian context (such as Sthānakavāsī or Terāpanth). Second, translation and edition choices matter: Prakrit and Sanskrit terms often carry technical meanings that can be flattened or distorted in modern languages, especially when drawn from unverified or secondary compilations. Third, responsible guidance requires mapping doctrinal statements to specific textual strata—canonical Āgamas, early Digambara treatises, medieval commentaries, or modern community education—while clearly indicating where evidence is thin, disputed, or dependent on particular lineages.  [[0]](https://archania.org/p/the-symbolic-world/symbolic-works/literature/religious-texts/jain-agamas) [[2]](https://en.wikipedia.org/wiki/Jain_literature)\n\nFinally, source diversity is a resource rather than a defect. It allows Jain communities to address new ethical questions, social contexts, and intellectual environments by drawing on a wide range of precedents and interpretive tools. At the same time, it demands humility: no single text, translation, or commentator can exhaust the tradition, and many questions—especially those involving initiation, ascetic discipline, or complex ethical dilemmas—properly belong to living lineages and qualified teachers. A careful, source-grounded approach therefore combines respect for canonical and commentarial diversity with transparent citation, acknowledgment of disagreement, and encouragement to consult experienced human guides when decisions carry spiritual, medical, legal, or familial consequences.\n",
+  "primary_sources": [
+    {
+      "title": "Ācāranga-sūtra (Acaranga-sutta)",
+      "author": "Traditionally attributed to the disciples of Mahāvīra; preserved in the Śvetāmbara canon",
+      "original_text": "सव्वे जीवा पियायरा\nsavve jīvā piyāyarā",
+      "transliteration": "savve jīvā piyāyarā",
+      "translation": "“All living beings are dear (beloved).”",
+      "notes": "This Prakrit phrase, cited and echoed in later commentarial literature, encapsulates a core Jain ethical intuition: every jīva is intrinsically worthy of care. In discussions of source diversity, it functions as a shared doctrinal anchor across sects, even when they differ on which texts are canonical. The Ācāranga-sūtra itself is part of the Śvetāmbara Aṅga corpus and focuses on ascetic conduct, non-violence, and the disciplined life of monks and nuns, illustrating how early Prakrit sources ground later, more diverse textual developments.  [[0]](https://archania.org/p/the-symbolic-world/symbolic-works/literature/religious-texts/jain-agamas) [[4]](https://horizon-jhssr.com/articles/authors/pdf-version-18/JHSSR-1318-2025.pdf)"
+    },
+    {
+      "title": "Bhagavatī-sūtra (Vyākhyāprajñapti)",
+      "author": "Traditionally linked to Mahāvīra’s teachings as organized by his chief disciples",
+      "original_text": "णाणं चरित्तं च सुद्धं मोक्कस्स कारणं\nṇāṇaṃ carittaṃ ca suddhaṃ mokkassa kāraṇaṃ",
+      "transliteration": "jñānaṃ caritraṃ ca śuddhaṃ mokṣasya kāraṇam",
+      "translation": "“Pure knowledge and conduct are the causes of liberation.”",
+      "notes": "The Bhagavatī-sūtra is a major Śvetāmbara canonical text, structured as dialogues that explore doctrine, cosmology, and ethics. Its emphasis on right knowledge and right conduct provides a doctrinal core that is later systematized in Sanskrit works like the Tattvārtha-sūtra. In the context of source diversity, Bhagavatī represents the narrative-dialogical strand of the canon, complementing more aphoristic or rule-oriented texts and showing how different genres contribute to a shared liberative framework.  [[0]](https://archania.org/p/the-symbolic-world/symbolic-works/literature/religious-texts/jain-agamas) [[3]](https://philosophy.institute/religions-of-the-world/exploring-sacred-texts-jainism-guide/)"
+    },
+    {
+      "title": "Tattvārtha-sūtra (Tattvārthādhigama-sūtra)",
+      "author": "Umāsvāti / Umāsvāmi (sectarian attribution varies)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः\nsamyagdarśanajñānacāritrāṇi mokṣamārgaḥ",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct are the path to liberation.”",
+      "notes": "The Tattvārtha-sūtra is a concise Sanskrit compendium accepted, with some variations, by both Śvetāmbara and Digambara traditions, making it a key example of cross-sectarian textual authority. Its aphorisms synthesize earlier Prakrit materials into a systematic philosophical framework. In discussions of source diversity, Tattvārtha shows how a single text can bridge canons, providing a shared reference point even when communities disagree about other scriptural lists or commentarial traditions.  [[2]](https://en.wikipedia.org/wiki/Jain_literature) [[3]](https://philosophy.institute/religions-of-the-world/exploring-sacred-texts-jainism-guide/)"
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Kundakunda (Digambara ācārya)",
+      "original_text": "णाणं चरित्तं समयं तस्स भावो हि निच्चलो\nṇāṇaṃ carittaṃ samayaṃ tassa bhāvo hi niccalo",
+      "transliteration": "jñānaṃ caritraṃ samayaṃ tasya bhāvo hi niścalaḥ",
+      "translation": "“Knowledge and conduct are the (true) self; its nature is indeed unwavering.”",
+      "notes": "Samayasāra is a foundational Digambara Prakrit text that explores the nature of the self, karma, and liberation from an inward, contemplative perspective. It exemplifies a non-Āgama but highly authoritative source within Digambara circles, illustrating how doctrinal authority can be grounded in texts outside the Śvetāmbara canon. In the study of source diversity, Samayasāra highlights the importance of recognizing sect-specific philosophical corpora and their commentarial lineages when mapping Jain teachings.  [[2]](https://en.wikipedia.org/wiki/Jain_literature)"
+    },
+    {
+      "title": "Kalpa-sūtra",
+      "author": "Traditionally attributed to Bhadrabāhu; preserved in the Śvetāmbara canon",
+      "original_text": "महावीरस्स णिरवाणं\nmahāvīrassa niravāṇaṃ",
+      "transliteration": "mahāvīrassa nirvāṇaṃ",
+      "translation": "“The nirvāṇa of Mahāvīra.”",
+      "notes": "The Kalpa-sūtra is a Śvetāmbara canonical text, recited especially during Paryuṣaṇa, that narrates the lives of Tīrthaṅkaras, including Mahāvīra. Its ritual and narrative functions show another dimension of source diversity: texts that are central in liturgical and festival contexts may not play the same role in philosophical debates, yet they strongly shape communal memory and identity. Recognizing such ritual texts alongside doctrinal treatises is essential for a full picture of Jain scriptural plurality.  [[2]](https://en.wikipedia.org/wiki/Jain_literature) [[1]](https://www.britannica.com/topic/Jaina-canon)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism has a single universally accepted holy book that all sects recognize as the sole authority.",
+      "reality": "Jain traditions do not center on one exclusive scripture. Śvetāmbara communities preserve a Prakrit Āgama canon, while Digambara communities dispute its authenticity and rely on other early and scholastic works. Both draw on a wide range of canonical, commentarial, and philosophical texts, making source diversity a structural feature of Jainism rather than an anomaly.  [[0]](https://archania.org/p/the-symbolic-world/symbolic-works/literature/religious-texts/jain-agamas) [[1]](https://www.britannica.com/topic/Jaina-canon)"
+    },
+    {
+      "myth": "Texts outside the Śvetāmbara Āgamas are merely secondary and lack real doctrinal authority.",
+      "reality": "Many non-Āgama works—such as Digambara treatises like Samayasāra and Ṣaṭkhaṅḍāgama, and cross-sectarian texts like the Tattvārtha-sūtra—are central doctrinal sources in their respective traditions. They systematize, interpret, and sometimes reframe earlier teachings, and are treated as authoritative by the communities that study and transmit them. Ignoring these corpora leads to a distorted picture of Jain doctrine and practice.  [[2]](https://en.wikipedia.org/wiki/Jain_literature) [[3]](https://philosophy.institute/religions-of-the-world/exploring-sacred-texts-jainism-guide/)"
+    },
+    {
+      "myth": "Sectarian differences in scripture mean that Jainism is internally incoherent or lacks a stable doctrinal core.",
+      "reality": "While Śvetāmbara and Digambara communities disagree about specific canons and textual histories, they share key doctrinal structures: belief in Tīrthaṅkaras, the reality of jīva and karma, the path of right faith, knowledge, and conduct, and the ideal of non-violence. Medieval commentators explicitly articulated formulas such as \"nānā-maggehi eko maggo\" to affirm unity within diversity, showing that source plurality coexists with a recognizable Jain soteriological framework.  [[4]](https://horizon-jhssr.com/articles/authors/pdf-version-18/JHSSR-1318-2025.pdf) [[3]](https://philosophy.institute/religions-of-the-world/exploring-sacred-texts-jainism-guide/)"
+    },
+    {
+      "myth": "Modern translations and compilations can be treated as neutral, complete representations of Jain scripture without attention to provenance.",
+      "reality": "Translations and modern compilations vary widely in quality, scope, and sectarian orientation. Some rely on verified critical editions and traditional commentaries; others draw from partial, unverified, or sect-specific selections. Responsible study requires attention to language, edition, and lineage, as well as awareness of where evidence is disputed or incomplete, rather than assuming that any single modern volume exhausts Jain scriptural diversity.  [[2]](https://en.wikipedia.org/wiki/Jain_literature) [[0]](https://archania.org/p/the-symbolic-world/symbolic-works/literature/religious-texts/jain-agamas)"
+    }
+  ]
+}
+
+
+
+> [0] [Jain Agamas](https://archania.org/p/the-symbolic-world/symbolic-works/literature/religious-texts/jain-agamas)
+>
+> [1] [Jaina canon | Jaina Scriptures, Agamas, Traditions | Britannica](https://www.britannica.com/topic/Jaina-canon)
+>
+> [2] [Jain literature - Wikipedia](https://en.wikipedia.org/wiki/Jain_literature)
+>
+> [3] [Exploring the Sacred Texts of Jainism: A Guide • Philosophy Institute](https://philosophy.institute/religions-of-the-world/exploring-sacred-texts-jainism-guide/)
+>
+> [4] [Horizon J. Hum. Soc. Sci. Res. (2) 66 (202) Journal of Humanities and Social Sciences Research](https://horizon-jhssr.com/articles/authors/pdf-version-18/JHSSR-1318-2025.pdf)

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain ontology, “plant‑bodied” refers to the category of living beings (jīvas) whose embodiment is constituted by a single-sensed organic form classified as *vanaspatikāya*. This term appears across both Śvetāmbara and Digambara canonical lists of the five-sensed, four-sensed, three-sensed, two-sensed, and one-sensed beings. Plant-bodied beings occupy the foundational tier of the *ekendriya* (one-sensed) class, possessing only the sense of touch (*sparśendriya*). They are considered fully sentient, eternal souls temporarily embodied in plant forms due to karmic conditions.\n\nJain texts distinguish two major types of plant-bodied beings: (1) *pratyeka‑vanaspati*—individual plant-bodied beings where one soul occupies one plant organism, and (2) *sādhāraṇa‑vanaspati*—common-bodied plants where innumerable souls share a single physical structure. The latter category is especially emphasized in canonical discussions of nonviolence, because injury to a common-bodied plant harms countless jīvas simultaneously.\n\nPlant-bodied beings are included within the broader cosmological mapping of *saṃsāra*, illustrating the diversity of embodied states conditioned by karma. Their classification is not metaphorical but ontological: Jainism asserts that plants possess life, consciousness, and the capacity to experience pleasure and pain, though in a far more limited manner than multi-sensed beings. Ethical teachings for laypeople and ascetics frequently reference plant-bodied beings to explain the subtleties of *ahiṃsā*, dietary restrictions, and the karmic consequences of harming even the smallest forms of life.\n\nAcross traditions, the plant-bodied category serves as a key example of Jainism’s expansive definition of life. It also provides a conceptual bridge between metaphysics and practice, showing how cosmology directly informs everyday conduct—especially in food, agriculture, and environmental ethics. Modern Jain scholarship often highlights this category to demonstrate the tradition’s early recognition of botanical sentience and ecological interdependence.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "वनस्पतिकायाः",
+      "transliteration": "vanaspatikāyāḥ",
+      "translation": "“Plant-bodied beings.”",
+      "notes": "Appears in Tattvārtha Sūtra 2.13 within the canonical list of one-sensed beings. Commentaries (Digambara and Śvetāmbara) elaborate the distinction between individual and common-bodied plants."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "एगिंदियाणं वणस्पतियं",
+      "transliteration": "egindiyāṇaṃ vaṇaspatiaṃ",
+      "translation": "“Among one-sensed beings are the plant-bodied.”",
+      "notes": "Used in didactic chapters describing the gradation of life forms and the ethical implications of harming them."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Nemicandra Siddhānta Cakravartin (Digambara)",
+      "original_text": "एकेन्द्रियास्तु वनस्पतयः",
+      "transliteration": "ekendriyāstu vanaspatayaḥ",
+      "translation": "“The one-sensed beings are the plant-bodied.”",
+      "notes": "Provides a concise definition of plant-bodied beings within the broader taxonomy of living substances."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Plant-bodied beings are metaphorical or symbolic rather than literal living souls.",
+      "reality": "Jain ontology treats plant-bodied beings as fully real, sentient jīvas with consciousness, though limited to the sense of touch. This is a foundational doctrinal position supported by canonical texts."
+    },
+    {
+      "myth": "All plants contain only one soul.",
+      "reality": "Jain texts distinguish between individual-bodied plants (one soul per organism) and common-bodied plants (innumerable souls in a single physical structure). The latter category is central to discussions of nonviolence."
+    },
+    {
+      "myth": "Plant-bodied beings are insignificant in ethical practice because they possess only one sense.",
+      "reality": "Despite their minimal sensory capacity, harming plant-bodied beings generates karma. Jain ethics emphasizes careful conduct toward all life forms, including plants, especially common-bodied varieties."
+    }
+  ]
+}

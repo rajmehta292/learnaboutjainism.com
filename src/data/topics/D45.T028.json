@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, “defense” is not primarily framed as military strategy or armed protection but as an ethical, philosophical, and karmic category concerning the limits of self‑protection within a nonviolent worldview. Jain traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—share a foundational commitment to ahiṃsā (non‑harm) as the highest virtue. Within this framework, defense is understood as the careful negotiation between preserving life and avoiding intentional injury to any living being.\n\nFor ascetics, defense is almost entirely internal: guarding the mind, speech, and body from passions (kaṣāyas), negligence (pramāda), and harmful actions. The *Pratimā* system for laypeople and the *Guṇasthāna* ladder for all souls describe defense as vigilance against karmic influx (āsrava) and the cultivation of restraint (saṃyama). Defense is thus primarily spiritual—protecting the soul from bondage through disciplined conduct.\n\nFor laypeople (śrāvakas and śrāvikās), Jain texts acknowledge limited forms of physical self‑protection when unavoidable, provided they are free from anger, pride, deceit, and greed, and do not escalate into intentional violence. Classical sources describe householders defending themselves or dependents in emergencies, but always with the moral burden of karmic consequences and the requirement to minimize harm. Defense is therefore a conditional, ethically constrained action rather than a right or duty.\n\nHistorically, Jain communities have participated in civic life, including roles in administration and, in rare cases, defense of cities. However, Jain literature consistently frames such acts as exceptions requiring deep ethical scrutiny. Modern Jain ethics continues this line: defense is permissible only when nonviolent alternatives are exhausted, and even then must be proportionate, compassionate, and aimed at preventing greater harm.\n\nAcross traditions, the central idea remains: true defense is the protection of one’s inner purity, vigilance against passions, and commitment to nonviolence. Physical defense is secondary, tightly bounded, and morally weighty.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non‑violence is the supreme dharma.",
+      "notes": "This widely cited aphorism (TS 7.1 in many editions) establishes the ethical foundation that shapes Jain views on defense. While not directly prescribing defensive conduct, it frames all actions—including self‑protection—within the primacy of non‑harm."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जिवा जीवं न हन्तव्वो",
+      "transliteration": "jīvā jīvaṃ na hantavvo",
+      "translation": "A living being should not be harmed by another living being.",
+      "notes": "This early Śvetāmbara canonical text emphasizes restraint and carefulness (samiti). It describes how ascetics defend themselves not through force but through vigilance, awareness, and avoidance of harm."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra",
+      "author": "Samantabhadra",
+      "original_text": "अहिंसायाṃ यत्नः कार्यः",
+      "transliteration": "ahiṃsāyāṃ yatnaḥ kāryaḥ",
+      "translation": "One must exert effort in non‑violence.",
+      "notes": "A Digambara lay conduct manual. It acknowledges householders may face situations requiring protective action but insists that effort toward non‑violence must guide all decisions."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "सावधानेण भवेय",
+      "transliteration": "sāvadhāneṇa bhaveya",
+      "translation": "One should remain vigilant.",
+      "notes": "Vigilance is described as the primary defense for monks and nuns. Defense is internal—guarding against passions and careless actions that cause harm."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism forbids all forms of self‑defense.",
+      "reality": "Jainism forbids intentional harm, not all protective action. Laypeople may defend themselves in unavoidable situations, provided they minimize harm, avoid passions, and accept karmic responsibility."
+    },
+    {
+      "myth": "Jain monks rely on others for physical protection.",
+      "reality": "Ascetics rely on vigilance, carefulness, and avoidance rather than physical defense. They do not seek armed protection and instead practice non‑resistance grounded in spiritual discipline."
+    },
+    {
+      "myth": "Jain communities historically never engaged in civic defense.",
+      "reality": "While rare, historical records show Jain individuals participating in civic administration and, in exceptional cases, defense. These acts are treated as ethically complex and not normative."
+    }
+  ]
+}

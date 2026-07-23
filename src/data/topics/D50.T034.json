@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain studies, “living-person privacy” refers to the ethical, social, and spiritual obligation to protect the dignity, autonomy, and personal boundaries of individuals who are alive. Although classical Jain texts do not use a modern term equivalent to “privacy,” they articulate closely related principles through ahiṃsā (non‑harm), apramatta (carefulness), brahmacarya (restraint), and the lay vows governing speech, conduct, and interpersonal interaction. In contemporary Jain ethics, privacy is understood as an extension of non‑violence: intruding upon another’s personal life, exposing their information without consent, or surveilling them unnecessarily is considered a form of psychological or social harm.\n\nWithin the broader Jain moral framework, privacy is tied to the protection of jīva (living beings) from distress, fear, and coercion. The tradition emphasizes that harm is not limited to physical injury; verbal, emotional, and reputational injury are also forms of hiṃsā. Thus, revealing sensitive information, spreading rumors, or prying into another’s personal affairs can violate the vow of satya (truthfulness) when done without compassion or when it causes suffering. The vow of asteya (non‑stealing) is also relevant: taking or using someone’s personal information without permission is interpreted by modern scholars as a form of appropriation.\n\nIn community life, privacy is connected to the Jain ideal of self‑restraint. Laypersons are encouraged to avoid gossip, refrain from intrusive questioning, and maintain confidentiality when entrusted with personal matters. Monastic codes, while requiring transparency within the saṅgha, also prohibit monks and nuns from engaging in speech or behavior that exposes or humiliates others. Modern Jain thinkers extend these principles to digital ethics, arguing that protecting personal data, avoiding unauthorized recording, and respecting boundaries in online communication are contemporary expressions of ahiṃsā.\n\nOverall, living-person privacy in Jainism is not a standalone doctrinal category but a synthesis of classical vows and modern ethical interpretation. It reflects the tradition’s commitment to minimizing harm, cultivating compassion, and honoring the inner life of every being.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 7.21",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "अहिंसा सत्यास्तेय ब्रह्मचर्यापरिग्रहाः",
+      "transliteration": "ahiṃsā satyāsteya brahmacaryāparigrahāḥ",
+      "translation": "Non‑violence, truthfulness, non‑stealing, celibacy, and non‑possession are the vows.",
+      "notes": "This foundational list of vows is the basis for later ethical interpretation. Modern Jain ethicists apply ahiṃsā and asteya to privacy, arguing that unauthorized use of personal information constitutes harm and appropriation."
+    },
+    {
+      "title": "Ācārāṅga Sūtra I.4",
+      "author": "Attributed to Mahāvīra’s teachings; compiled by early Śvetāmbara tradition",
+      "original_text": "ण भासइ परस्स अवगुणं",
+      "transliteration": "ṇa bhāsai parassa avaguṇaṃ",
+      "translation": "One should not speak of another’s faults.",
+      "notes": "This passage is frequently cited in discussions of interpersonal ethics. Commentators interpret it as discouraging gossip, humiliation, and unnecessary exposure of personal matters."
+    },
+    {
+      "title": "Dasavaikālika Sūtra 8.36",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "सावज्जं ण कुहे",
+      "transliteration": "sāvajjaṃ ṇ kuhe",
+      "translation": "Do not conceal harmful intent.",
+      "notes": "While directed at ethical transparency, commentators note that it simultaneously prohibits deceptive intrusion into others’ affairs. It is used to frame privacy as protection from manipulative or harmful inquiry."
+    },
+    {
+      "title": "Sarvārthasiddhi (commentary on Tattvārtha Sūtra)",
+      "author": "Pūjyapāda (Digambara)",
+      "original_text": "अहिंसा मनोवाक्कायैः",
+      "transliteration": "ahiṃsā manovākkāyaiḥ",
+      "translation": "Non‑violence is to be practiced through mind, speech, and body.",
+      "notes": "By extending harm to mental and verbal domains, this commentary provides the basis for interpreting privacy violations—such as intrusive questioning or harmful disclosure—as forms of hiṃsā."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain texts do not address privacy, so the tradition has no guidance on modern privacy issues.",
+      "reality": "While classical texts do not use the modern term “privacy,” they contain extensive guidance on non‑harm, restraint, confidentiality, and non‑appropriation. These principles form a strong ethical basis for contemporary privacy norms."
+    },
+    {
+      "myth": "Respecting privacy is only a social courtesy, not a spiritual obligation in Jainism.",
+      "reality": "Jain ethics treat psychological and reputational harm as genuine forms of hiṃsā. Protecting privacy is therefore a spiritual responsibility tied to the vows of ahiṃsā, satya, and asteya."
+    },
+    {
+      "myth": "Monastic transparency means monks and nuns may freely disclose personal information about laypeople.",
+      "reality": "Monastic codes emphasize restraint in speech and prohibit actions that humiliate or harm others. Transparency applies within the monastic community, not to exposing laypersons’ private matters."
+    }
+  ]
+}

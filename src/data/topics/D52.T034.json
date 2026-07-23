@@ -1,0 +1,55 @@
+{
+  "overview": "Within Jain thought, the principle of “no coercion” is a foundational ethical and philosophical commitment grounded in ahiṃsā (non‑violence), anekāntavāda (many‑sidedness), and the voluntary nature of spiritual progress. Jain traditions consistently maintain that religious practice, moral discipline, and ascetic conduct must arise from self‑motivated intention (icchā), not force, manipulation, or pressure. This principle applies to interactions among individuals, within families, between teachers and students, and across communities.\n\nIn classical sources, non‑coercion is expressed through prohibitions against harming others physically, verbally, or mentally. Mental harm includes intimidation, threats, compulsion, or emotional pressure. The vow of ahiṃsā explicitly forbids causing fear (bhaya), distress (duḥkha), or constraint (bandhana) to any living being. Because coercion generates psychological suffering and restricts autonomy, it is treated as a form of hiṃsā.\n\nThe voluntary nature of Jain ethical life is further reinforced by the structure of vows (vrata). Lay vows (aṇu‑vrata), supplementary vows (śīla‑vrata), and ascetic vows (mahā‑vrata) must be undertaken only after reflection and with personal resolve. Texts repeatedly state that vows lose their karmic efficacy if adopted under compulsion. Similarly, renunciation (dikṣā) is valid only when freely chosen; any form of pressure is considered a violation of both ethical and procedural norms.\n\nAcross sectarian traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—the principle of non‑coercion is applied in community life. Teachers may advise, but they cannot command. Parents may guide, but they cannot force religious observance. Community leaders may encourage participation, but they cannot impose rituals or practices. Modern Jain ethics extends this principle to social justice, environmental activism, and interfaith relations, emphasizing persuasion through reason and compassion rather than compulsion.\n\nIn contemporary scholarship, “no coercion” is recognized as a distinctive Jain contribution to global discussions on religious freedom, consent, and ethical autonomy. It aligns with the Jain understanding that spiritual transformation is an internal process shaped by personal effort (puruṣārtha), and that coercion obstructs the clarity, equanimity, and intentionality required for liberation.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "ṇa yaṃ kiṃci jīvaṃ pīḍeha",
+      "transliteration": "ṇa yaṃ kiṃci jīvaṃ pīḍeha",
+      "translation": "“Do not injure any living being in any way.”",
+      "notes": "Ācārāṅga Sūtra I.4 emphasizes that harm includes causing fear, constraint, or distress. Commentators (B) interpret pīḍā as encompassing physical, verbal, and mental coercion."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "bhayaṃ karoti so hiṃsā",
+      "transliteration": "bhayaṃ karoti so hiṃsā",
+      "translation": "“To cause fear is violence.”",
+      "notes": "This passage (Sūtrakṛtāṅga I.11) is frequently cited to show that intimidation or pressure constitutes hiṃsā. Non‑coercion is therefore embedded in the definition of non‑violence."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "saṃjñā‑panāyā‑bhaya‑bandhanāni hiṃsā",
+      "transliteration": "saṃjñā‑panāyā‑bhaya‑bandhanāni hiṃsā",
+      "translation": "“Injury consists of striking, binding, causing fear, and torment.”",
+      "notes": "Tattvārtha Sūtra VII.13 is a key pan‑sectarian authority. The inclusion of ‘causing fear’ (bhaya) and ‘binding’ (bandhana) is used by commentators to argue that coercion is inherently violent."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "icchā‑pūrvakaṃ vrataṃ śreyas",
+      "transliteration": "icchā‑pūrvakaṃ vrataṃ śreyas",
+      "translation": "“A vow undertaken with one’s own intention is auspicious.”",
+      "notes": "Although phrasing varies across editions (E), the theme is consistent: vows must be voluntary. Commentaries stress that coerced vows lack spiritual merit."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain teachers can require students or lay followers to adopt specific practices.",
+      "reality": "Jain teachers may advise or encourage, but coercion is prohibited. All vows and practices must be voluntarily chosen."
+    },
+    {
+      "myth": "Family pressure to perform rituals is acceptable because it promotes religious values.",
+      "reality": "Classical texts classify fear, pressure, and emotional manipulation as forms of hiṃsā. Guidance is allowed; coercion is not."
+    },
+    {
+      "myth": "Renunciation (dikṣā) can be encouraged strongly if it benefits the individual.",
+      "reality": "Dikṣā requires full, autonomous consent. Any compulsion invalidates the act and violates ethical norms across Jain traditions."
+    },
+    {
+      "myth": "Non‑coercion is a modern reinterpretation rather than a classical Jain principle.",
+      "reality": "Primary sources explicitly prohibit causing fear, constraint, or mental distress. Non‑coercion is rooted in canonical definitions of ahiṃsā."
+    }
+  ]
+}

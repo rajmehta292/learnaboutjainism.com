@@ -1,0 +1,43 @@
+{
+  "overview": "Alokākāśa (Sanskrit: अलोकाकाश; Prakrit: अलोयाकास) is one of the fundamental cosmological categories in Jain philosophy, referring to the non-luminous, non-occupied expanse beyond the boundaries of Lokākāśa—the inhabited universe. Jain cosmology divides space (ākāśa) into two vast domains: Lokākāśa, the finite yet immeasurably large region where all substances (dravya) exist and interact; and Alokākāśa, the infinite region beyond it, entirely devoid of dharmastikāya, adharmastikāya, pudgala, jīva, kāla, and motion. In classical Jain metaphysics, Alokākāśa is not merely empty space but a defined ontological category that helps articulate the structure of the cosmos and the limits of worldly existence.\n\nAlokākāśa is described as infinite, while Lokākāśa is finite but vast. The boundary between them is sharply defined: the uppermost region of Lokākāśa (the Siddha-śilā) marks the highest point where liberated souls reside. Beyond this lies only Alokākāśa, which is incapable of supporting motion, life, or karmic activity. The distinction is crucial for Jain soteriology, as it emphasizes that liberation does not mean dissolution into an infinite void but a stable, eternal existence at the summit of Lokākāśa.\n\nAcross Digambara and Śvetāmbara traditions, the definition of Alokākāśa is consistent, though visual cosmological diagrams may differ slightly. Commentarial literature often stresses that Alokākāśa is not a realm to be reached or traversed; it is simply the infinite expanse that frames the finite universe. Its existence underscores the Jain commitment to a structured, multi-substance ontology in which space itself is a real, eternal dravya with distinct functional regions.\n\nModern scholarship highlights Alokākāśa as an example of Jainism’s unique cosmological precision. Unlike many Indian philosophical systems that treat space as homogeneous, Jain texts articulate a dual-space model that supports their broader metaphysical commitments to plurality, eternality, and the non-creationist nature of the universe.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "लोकालोकाकाशः",
+      "transliteration": "lokāloka-ākāśaḥ",
+      "translation": "Space is of two kinds: Lokākāśa and Alokākāśa.",
+      "notes": "Tattvārtha Sūtra 5.18 provides the canonical classification of space. Commentaries such as Pūjyapāda’s Sarvārthasiddhi (Digambara) and Siddhasena’s Tattvārthavṛtti (Śvetāmbara) elaborate that Alokākāśa is infinite and devoid of motion-enabling and rest-enabling substances."
+    },
+    {
+      "title": "Jambūdvīpa Prajñapti (Śvetāmbara)",
+      "author": "Anonymous canonical compiler",
+      "original_text": "अलोयाकासो अनंतो, लोयाकासो पमाणो.",
+      "transliteration": "aloyākāso ananto, loyākāso pamāṇo",
+      "translation": "Alokākāśa is infinite; Lokākāśa is measurable.",
+      "notes": "This text provides detailed cosmological mapping. The passage emphasizes the finite nature of the inhabited universe and the infinite expanse beyond it."
+    },
+    {
+      "title": "Tiloyapaṇṇatti (Digambara)",
+      "author": "Yativṛṣabha",
+      "original_text": "अलोयाकासं अणंतं, तहा लोयाकासं पमाणं।",
+      "transliteration": "aloyākāsaṃ aṇantaṃ, tahā loyākāsaṃ pamāṇaṃ",
+      "translation": "Alokākāśa is infinite, while Lokākāśa is finite in extent.",
+      "notes": "Tiloyapaṇṇatti offers one of the most detailed Digambara cosmological descriptions. It affirms the dual-space structure and provides measurements for Lokākāśa."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Alokākāśa is a mystical realm that liberated souls enter after moksha.",
+      "reality": "Primary texts consistently state that liberated souls reside permanently at the top of Lokākāśa (Siddha-śilā). They do not enter Alokākāśa, which cannot support motion or existence of jīva."
+    },
+    {
+      "myth": "Alokākāśa is equivalent to ‘nothingness’ or ‘void’ in other philosophical systems.",
+      "reality": "In Jain ontology, Alokākāśa is a real dravya (substance) with defined characteristics. It is empty of other substances but not non-existent or illusory."
+    },
+    {
+      "myth": "Alokākāśa can be traversed or expanded into through spiritual practice.",
+      "reality": "Jain cosmology asserts that Alokākāśa is eternally separate from the inhabited universe and cannot be entered or crossed by any being, liberated or otherwise."
+    }
+  ]
+}

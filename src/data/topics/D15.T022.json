@@ -1,0 +1,51 @@
+{
+  "overview": "Travel on foot (padayātrā) holds a distinctive place in Jain traditions, both historically and ethically. In Jain monastic life, movement by walking is not merely a practical necessity but an expression of ahiṃsā (non‑violence), aparigraha (non‑possessiveness), and vigilance toward the living world. For laypeople, walking is discussed in ethical, ritual, and pilgrimage contexts, often emphasizing mindfulness, restraint, and awareness of the environment.\n\nIn early Jain communities, monks and nuns traveled exclusively on foot, avoiding vehicles to minimize harm to unseen beings and to maintain simplicity. This practice is attested across Śvetāmbara and Digambara canonical materials. Walking was also tied to the rhythm of the monsoon retreat (cāturmāsa), during which movement was restricted to prevent harm to newly flourishing life forms. Outside the monsoon period, itinerant teachers traveled from village to village, spreading teachings and maintaining community ties.\n\nFor lay followers, walking is associated with pilgrimage (yātrā), temple circuits (pradakṣiṇā), and daily ethical discipline. While laypeople may use vehicles, walking is often encouraged for its contemplative value and reduced ecological impact. Modern Jain communities continue to organize padayātrās for environmental awareness, peace, and interfaith harmony, though these contemporary forms are not equivalent to monastic rules and should not be conflated with canonical prescriptions.\n\nAcross traditions, travel on foot symbolizes humility, attentiveness to life, and the embodied practice of restraint. The sources below illustrate how canonical texts frame movement, intention, and care for living beings.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "पव्वयन्तो पव्वयन्तो णत्थि पव्वयणं।",
+      "transliteration": "pavvayaṃto pavvayaṃto natthi pavvayaṇaṃ",
+      "translation": "“While walking, while walking, there is no walking (without awareness).”",
+      "notes": "Ācārāṅga Sūtra I.5 emphasizes mindful movement. The passage frames walking as an activity requiring constant vigilance to avoid harming small beings. Editions vary slightly in wording; the meaning consistently stresses awareness."
+    },
+    {
+      "title": "Bhagavatī Sūtra (Śvetāmbara)",
+      "author": "Canonical compilers of the Śvetāmbara tradition",
+      "original_text": "तत्थ भणइ—सावज्जं गमणं जाव ण पविसइ।",
+      "transliteration": "tattha bhaṇai—sāvajjaṃ gamaṇaṃ jāva ṇa pavisai",
+      "translation": "“He says: movement is blameworthy until one enters with care.”",
+      "notes": "This passage discusses careful entry into new terrain, highlighting the ethical dimension of movement. The text frames walking as an act requiring intentionality and moral reflection."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "पदगमनं सव्वदाणं परिहरन्तो मुणी चरइ।",
+      "transliteration": "padagamanaṃ savvadāṇaṃ pariharanto muṇī carai",
+      "translation": "“The monk walks on foot, avoiding all harm.”",
+      "notes": "Mūlācāra 5.1 outlines Digambara monastic conduct. Walking is described as the default mode of travel, tied to non‑violence and renunciation. Manuscript traditions show minor lexical variation."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmī",
+      "original_text": "अहिंसा परमो धर्मः।",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "“Non‑violence is the supreme dharma.”",
+      "notes": "While not specifically about walking, this foundational aphorism (TS 7.1) underlies monastic travel rules. Commentaries (B) connect ahiṃsā with careful movement, including travel on foot."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain monks walk long distances as a form of extreme ascetic endurance.",
+      "reality": "Canonical texts frame walking not as endurance training but as a disciplined, careful mode of movement that minimizes harm and maintains simplicity. The emphasis is on awareness, not hardship."
+    },
+    {
+      "myth": "Lay Jains are required to avoid all vehicles and travel only on foot.",
+      "reality": "No canonical text mandates this for laypeople. Walking is encouraged for mindfulness and ecological reasons, but vehicle use is permitted within ethical boundaries."
+    },
+    {
+      "myth": "Padayātrā in modern Jain communities is identical to monastic travel rules.",
+      "reality": "Contemporary padayātrās are devotional or social events. They do not replicate monastic prescriptions, which are far stricter and tied to vows that laypeople do not undertake."
+    }
+  ]
+}

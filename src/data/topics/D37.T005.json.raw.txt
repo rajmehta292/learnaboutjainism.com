@@ -1,0 +1,54 @@
+{
+  "overview": "Madhyaloka (मध्यलोक) is the central realm of the Jain cosmological universe, positioned between the upper world (Urdhvaloka) and the lower world (Adholoka). It is the only region where embodied beings can attain liberation (moksha), because it contains the human realms in which Tirthankaras are born and where the complete path of right faith, right knowledge, and right conduct can be practiced. Jain cosmology describes Madhyaloka as a vast, disc-shaped expanse with concentric regions, including Jambūdvīpa, Dhātakīkhaṇḍa, and the surrounding oceans and continents.  
+\n\nIn both Digambara and Śvetāmbara traditions, Madhyaloka is understood as the realm of mixed pleasure and pain, unlike the upper heavenly realms (which are pleasurable but lack the conditions for liberation) and the lower hellish realms (which are dominated by suffering). Madhyaloka contains humans, animals, and certain classes of celestial and infernal beings who may temporarily visit or manifest within its boundaries.  
+\n\nThe most detailed classical descriptions appear in cosmological treatises such as the *Tiloyapaṇṇatti*, *Trilokasāra*, *Jambūdvīpaprajñapti*, and *Saṃgrahaṇī Sūtra*. These texts outline the geography, dimensions, inhabitants, and karmic significance of Madhyaloka. The region is described as having fixed spatial dimensions, with Mount Meru at its center, surrounded by concentric continents and oceans.  
+\n\nMadhyaloka’s importance in Jain thought lies not only in its cosmography but also in its soteriological role. It is the only realm where souls can progress through the gunasthānas, attain kevala-jñāna, and ultimately ascend to Siddha-śilā. Thus, Madhyaloka is both a cosmological location and a spiritual opportunity space within Jain doctrine.",
+  "primary_sources": [
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara tradition)",
+      "original_text": "मज्ज्हलोगो तहा जम्बूद्वीओ तहा मेरु तहा तस्स परिक्खेओ।",
+      "transliteration": "majhhalogo tahā jambūdvīo tahā meru tahā tassa parikkheo",
+      "translation": "“The Middle World, then Jambūdvīpa, then Mount Meru, and the description of these.”",
+      "notes": "The *Tiloyapaṇṇatti* (c. 6th century CE) is one of the most detailed Digambara cosmological texts. It provides measurements, spatial relations, and classifications of beings inhabiting Madhyaloka."
+    },
+    {
+      "title": "Jambūdvīpaprajñapti",
+      "author": "Attributed to the Śvetāmbara canon (part of the Cheda-sūtras)",
+      "original_text": "जम्बूद्वीपस्य मध्ये मेरुर्नाम पर्वतः।",
+      "transliteration": "jambūdvīpasya madhye merurnāma parvataḥ",
+      "translation": "“In the middle of Jambūdvīpa stands the mountain called Meru.”",
+      "notes": "This canonical text focuses on the geography of Jambūdvīpa, the central continent of Madhyaloka, and provides foundational descriptions used in Śvetāmbara cosmology."
+    },
+    {
+      "title": "Saṃgrahaṇī Sūtra",
+      "author": "Śvetāmbara tradition; traditionally attributed to Devardhigaṇi Kṣamāśramaṇa (editor of the canon)",
+      "original_text": "मज्ज्हलोगे मनुश्या तव्विहं जोगं लहंति।",
+      "transliteration": "majhhaloge manuśyā tavvihaṃ jogaṃ lahanti",
+      "translation": "“In the Middle World, humans obtain the path (to liberation).”",
+      "notes": "The *Saṃgrahaṇī Sūtra* is a concise cosmological manual widely studied in Śvetāmbara communities. It emphasizes the soteriological uniqueness of Madhyaloka."
+    },
+    {
+      "title": "Trilokasāra",
+      "author": "Nemichandra Siddhānta Cakravartin (Digambara)",
+      "original_text": "मध्यलोकः सुखदुःखमिश्रभोगभूमिः।",
+      "transliteration": "madhyalokaḥ sukhaduḥkhamiśrabhogabhūmiḥ",
+      "translation": "“Madhyaloka is the realm of mixed pleasure and pain.”",
+      "notes": "The *Trilokasāra* synthesizes cosmological teachings and is part of Nemichandra’s broader *Trilokī* corpus. It highlights the karmic conditions unique to Madhyaloka."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Madhyaloka is equivalent to Earth alone.",
+      "reality": "In Jain cosmology, Earth is only a small part of Jambūdvīpa, which itself is only one continent within the vast expanse of Madhyaloka. The Middle World contains multiple continents, oceans, and realms."
+    },
+    {
+      "myth": "Beings in heavenly realms are closer to liberation than humans.",
+      "reality": "Jain doctrine states that liberation is possible only in Madhyaloka. Heavenly beings experience pleasure but lack the conditions necessary for practicing the full path to moksha."
+    },
+    {
+      "myth": "Madhyaloka is metaphorical rather than a structured cosmological region.",
+      "reality": "Classical Jain texts describe Madhyaloka with precise measurements, geography, and classifications of beings. It is a literal cosmological realm within Jain metaphysics."
+    }
+  ]
+}

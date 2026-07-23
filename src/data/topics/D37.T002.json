@@ -1,0 +1,43 @@
+{
+  "overview": "Aloka (Sanskrit: अलोक; Prakrit: अलोइ / अलोक) is a technical term in Jain cosmology referring to the vast, infinite, non‑inhabited region beyond the structured universe known as Lokākāśa. Jain cosmological texts describe the universe as finite in extent but surrounded by an infinite expanse. This surrounding expanse is Aloka, literally meaning “non‑world” or “non‑luminous space.” It is not a realm of beings, karma, or motion; rather, it is the pure, empty space that stretches infinitely in all directions beyond the inhabited cosmos.\n\nWithin Jain metaphysics, Aloka is one of the fundamental divisions of ākāśa‑dravya (space‑substance). Space is divided into Lokākāśa (the finite universe where all substances—jīva, pudgala, dharma, adharma, kāla—exist) and Alokākāśa (the infinite region where only space exists). Aloka contains no dharma‑dravya (medium of motion), no adharma‑dravya (medium of rest), no pudgala (matter), no kāla (time), and no jīva (souls). Because the mediums of motion and rest do not extend into Aloka, movement is impossible there, and thus no embodied or liberated soul can travel into it.\n\nJain texts emphasize that even liberated souls (siddhas) do not enter Aloka. They reside eternally at the top of Lokākāśa, in Siddha‑śilā. Aloka therefore serves as a conceptual boundary: it marks the limit of the universe and reinforces the Jain doctrine that the cosmos is beginningless, eternal, and spatially finite but surrounded by infinite empty space.\n\nAcross Digambara and Śvetāmbara traditions, the definition of Aloka is consistent, though cosmological diagrams and measurements of Lokākāśa vary slightly by tradition. Commentaries often use Aloka to illustrate the precision of Jain cosmology and the distinction between inhabited and uninhabited space. Modern scholarship highlights Aloka as an example of Jainism’s unique cosmological dualism between finite structured reality and infinite empty expanse.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "लोकालोकः",
+      "transliteration": "lokālokaḥ",
+      "translation": "“There is the world (loka) and the non‑world (aloka).”",
+      "notes": "Tattvārtha Sūtra 5.20 concisely defines the fundamental division of space. Commentaries such as Pūjyapāda’s Sarvārthasiddhi (Digambara) and Siddhasena’s Tattvārthavṛtti (Śvetāmbara) elaborate that Aloka is infinite and contains only space‑substance."
+    },
+    {
+      "title": "Tiloyapaṇṇatti (Digambara cosmological text)",
+      "author": "Yativṛṣabha",
+      "original_text": "अलोइअकासं अनंतं, लोइअकासं पमाणस्स सीमं।",
+      "transliteration": "aloi-akāsaṃ anantaṃ, loi-akāsaṃ pamāṇassa sīmaṃ.",
+      "translation": "“Aloka‑space is infinite; Loka‑space has measurable limits.”",
+      "notes": "Tiloyapaṇṇatti provides detailed cosmological measurements and repeatedly contrasts the finite universe with the infinite Aloka."
+    },
+    {
+      "title": "Saṃgrahaṇī Sūtra (Śvetāmbara)",
+      "author": "Attributed to Śrīcandra",
+      "original_text": "अलोयग्गं अणंतं, लोयग्गं पमाणियं।",
+      "transliteration": "aloyaggaṃ aṇantaṃ, loyaggaṃ pamāṇiyaṃ.",
+      "translation": "“The Aloka region is infinite; the Loka region is measurable.”",
+      "notes": "A foundational Śvetāmbara cosmological manual describing the structure of the universe and its boundary with Aloka."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Aloka is a realm that liberated souls enter after attaining moksha.",
+      "reality": "Primary texts state that liberated souls remain eternally at Siddha‑śilā, the top of Lokākāśa. Movement into Aloka is impossible because the mediums of motion and rest do not exist there."
+    },
+    {
+      "myth": "Aloka is a kind of dark or hellish region.",
+      "reality": "Aloka is not a realm of suffering or darkness. It is simply infinite empty space containing only ākāśa‑dravya and no beings, matter, or karma."
+    },
+    {
+      "myth": "Aloka is identical to modern scientific concepts of outer space.",
+      "reality": "While both describe emptiness, Jain Aloka is a metaphysical category defined by the absence of all substances except space. It is not equivalent to physical cosmology."
+    }
+  ]
+}

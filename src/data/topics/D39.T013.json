@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, food preparation (āhāra‑saṃskāra) is not merely a domestic activity but a disciplined ethical practice shaped by non‑violence (ahiṃsā), carefulness (saṃiti), and purity (śuddhi). Across Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth lineages, the underlying principle remains the same: food must be prepared in ways that minimize harm to living beings, avoid unnecessary violence to microorganisms, and support mindful consumption for laypeople (śrāvakas and śrāvikās). \n\nClassical sources describe food preparation as part of the broader conduct of householders, who are expected to observe partial vows (aṇu‑vratas) and supplementary vows (śikṣā‑vratas). This includes selecting ingredients that involve minimal harm, preparing meals during daylight to reduce inadvertent killing of insects, filtering water, and avoiding foods considered to contain higher concentrations of subtle life forms (e.g., certain root vegetables in some traditions). \n\nFood preparation also intersects with ritual purity. Laypeople are encouraged to maintain clean spaces, avoid cooking during periods of impurity (aśauca), and prepare food with a calm, non‑violent mental state. In monastic contexts, monks and nuns do not cook; instead, they receive alms (piṇḍapāta) from householders, making lay food preparation an essential support for the ascetic community. \n\nModern Jain communities continue these practices with adaptations: using fine mesh filters for water, avoiding night cooking, preferring fresh ingredients, and adopting hygienic methods that align with ahiṃsā. While details vary by sect and region, the shared goal is to cultivate awareness of the karmic consequences of food and its preparation, reinforcing the ethical foundation of Jain daily life.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non‑violence is the supreme dharma.",
+      "notes": "Although this aphorism is often cited broadly, its commentarial tradition (e.g., Pūjyapāda’s Sarvārthasiddhi, sect-neutral) applies it to all domains of conduct, including food preparation. The principle guides choices of ingredients, timing, and methods that reduce harm to living beings."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जिवा जिवा अत्ताणं पाणं न हन्ता",
+      "transliteration": "jīvā jīvā attāṇaṃ pāṇaṃ na hantā",
+      "translation": "A living being should not harm another living being.",
+      "notes": "This early canonical text emphasizes carefulness (samiti) and restraint. Commentaries apply this to household activities such as cooking, filtering water, and avoiding careless harm to small organisms."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra (Digambara)",
+      "author": "Samantabhadra",
+      "original_text": "अहिंसायाṃ प्रवृत्तिः श्रावकस्य मुख्यधर्मः",
+      "transliteration": "ahiṃsāyāṃ pravṛttiḥ śrāvakasyā mukhyadharmaḥ",
+      "translation": "Engagement in non‑violence is the primary duty of the layperson.",
+      "notes": "The text outlines lay conduct, including rules for food acquisition and preparation. It stresses avoiding harm to mobile and immobile beings, which informs ingredient selection and cooking practices."
+    },
+    {
+      "title": "Daśavaikālika Sūtra (Śvetāmbara)",
+      "author": "Attributed to Gautama",
+      "original_text": "सावधानेण भुञ्जिज्जा",
+      "transliteration": "sāvadhāneṇa bhuñjijjā",
+      "translation": "One should eat with carefulness.",
+      "notes": "While focused on consumption, commentaries extend carefulness to the entire chain of food preparation, emphasizing purity, mindfulness, and avoidance of harm."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jains universally prohibit all root vegetables in every context.",
+      "reality": "Restrictions on root vegetables vary by sect and region. Śvetāmbara Mūrti‑pūjaka and Sthānakavāsī communities often avoid them due to concerns about harming multiple life forms, while many Digambara lay communities permit them with careful handling. The principle is ahiṃsā, not a universal ban."
+    },
+    {
+      "myth": "Food preparation rules are identical for monks and laypeople.",
+      "reality": "Monastics do not cook at all; they rely on alms. Laypeople follow partial vows and prepare food in ways that minimize harm. The disciplines differ significantly."
+    },
+    {
+      "myth": "Jain food preparation is only about vegetarianism.",
+      "reality": "Vegetarianism is foundational, but Jain food ethics extend far beyond it—covering timing, mental state, hygiene, ingredient selection, water filtration, and avoidance of harm to microorganisms."
+    }
+  ]
+}

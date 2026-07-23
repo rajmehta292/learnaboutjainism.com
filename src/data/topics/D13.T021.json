@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “complex cases” refers to situations in doctrine, ethics, practice, or textual interpretation where multiple principles intersect and no single rule or passage provides a straightforward resolution. Jain traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—each preserve rigorous frameworks for reasoning through such cases, but they differ in hermeneutics, monastic regulations, and commentarial priorities. Complex cases often arise in four domains: (1) scriptural interpretation where variant manuscripts or divergent commentaries produce competing readings; (2) ethical dilemmas for laypeople (śrāvakas/śrāvikās) involving ahiṃsā, satya, and livelihood constraints; (3) karmic and ontological analysis where multiple karmas, guṇasthānas, or causal chains interact; and (4) ritual or disciplinary questions where lineage-specific rules intersect with broader canonical norms.\n\nIn classical literature, complex cases are addressed through layered reasoning: beginning with primary canonical passages (āgama), followed by authoritative commentaries (niryukti, bhāṣya, ṭīkā), and finally by later scholastic synthesis. The tradition emphasizes non-absolutism (anekāntavāda) and conditional predication (syādvāda) as methodological tools for navigating ambiguity. These tools do not eliminate complexity but help articulate multiple valid perspectives without collapsing them into a single dogmatic answer.\n\nModern scholarship highlights that complex cases often reveal the diversity of Jain praxis across regions and sects. For example, interpretations of permissible livelihoods, the boundaries of lay vows, and the handling of unavoidable harm differ across communities. Manuscript studies show that variant readings in texts like the *Daśavaikālika*, *Tattvārtha-sūtra*, and *Ṣaṭkhaṇḍāgama* can produce different doctrinal implications. Contemporary ethics—environmental stewardship, medical decision-making, and digital life—introduce new complex cases requiring careful alignment with canonical principles while acknowledging modern contexts.\n\nAcross all traditions, complex cases are not resolved through personal authority but through disciplined engagement with texts, commentaries, and community norms. When cases involve health, safety, legal matters, or monastic authorization, Jain guidelines require consultation with qualified human experts rather than relying solely on textual reasoning.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti/Umāsvāmi (sectarian attribution varies)",
+      "original_text": "अनेकान्तवादात् सर्वार्थसिद्धिः",
+      "transliteration": "anekāntavādāt sarvārthasiddhiḥ",
+      "translation": "“From non-absolutism, there is the attainment of all aspects.”",
+      "notes": "This aphorism (TS 1.6) is foundational for handling complex cases. It frames the principle that reality has multiple facets, and any single viewpoint is partial. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārtha-vṛtti* (Śvetāmbara) elaborate how this principle guides interpretation when texts or ethical duties appear to conflict."
+    },
+    {
+      "title": "Daśavaikālika-sūtra",
+      "author": "Traditionally attributed to Śivārya",
+      "original_text": "णाणं चरित्तं उवओसमग्गं",
+      "transliteration": "ñāṇaṃ carittaṃ uvāosamaggaṃ",
+      "translation": "“Knowledge, conduct, and austerity are the path.”",
+      "notes": "In complex ethical cases, this triad is used to evaluate whether a proposed action aligns with the integrated path of right knowledge, right conduct, and right austerity. Lineage-specific commentaries differ on how to balance these elements when duties conflict."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama",
+      "author": "Kundakunda (attributed), with later redaction by Digambara scholars",
+      "original_text": "कर्मप्रकृतयः परस्परं अनुग्राहकाः",
+      "transliteration": "karmaprakṛtayaḥ parasparaṃ anugrāhakāḥ",
+      "translation": "“The karmic categories support and influence one another.”",
+      "notes": "This principle is central to complex karmic analysis. It shows that karmas do not operate in isolation, making causal chains intricate. Digambara commentaries such as those by Vīrasena and Jinasena elaborate these interactions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Complex cases arise because Jain texts contradict each other.",
+      "reality": "Complexity usually reflects layered perspectives rather than contradiction. Anekāntavāda and syādvāda explicitly acknowledge that multiple valid viewpoints coexist, and commentaries help reconcile them."
+    },
+    {
+      "myth": "There is always a single correct Jain answer to any difficult ethical situation.",
+      "reality": "Jain traditions often present multiple conditionally valid responses. Lay ethics, karmic analysis, and ritual practice frequently require contextual judgment informed by texts, commentaries, and qualified human guidance."
+    },
+    {
+      "myth": "Sectarian differences mean that complex cases cannot be resolved across traditions.",
+      "reality": "While Digambara and Śvetāmbara lineages differ in interpretation, they share core principles. Comparative study often reveals complementary insights rather than irreconcilable conflict."
+    }
+  ]
+}

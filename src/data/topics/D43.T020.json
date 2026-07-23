@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, the concept of charity—often expressed through terms such as *dāna*, *dayā*, and *paropakāra*—is grounded in non‑violence (*ahiṃsā*), compassion, and the ethical responsibilities of laypeople (*śrāvakas*). Charitable action is not merely social benevolence; it is a disciplined practice connected to karma theory, the cultivation of virtues, and the welfare of all living beings. Jainism frames charity as a means of reducing harm, supporting spiritual communities, and alleviating suffering without creating new forms of attachment or violence.\n\nClassical Jain texts describe four major forms of *dāna*: *āhāra‑dāna* (giving food), *auṣadha‑dāna* (giving medicine), *jñāna‑dāna* (giving knowledge), and *abhaya‑dāna* (granting safety or protection). These categories appear across Śvetāmbara and Digambara sources, though with variations in emphasis. The act of giving is considered meritorious when performed with purity of intention, careful attention to non‑harm, and without expectation of reward.\n\nHistorically, Jain communities established animal hospitals (*paśuśālā*, *panjrapol*), water facilities, rest houses, and famine relief centers. These institutions reflect the Jain commitment to protecting vulnerable life forms and supporting public welfare. Modern Jain charities continue this legacy through education trusts, medical camps, environmental initiatives, and vegetarian/vegan advocacy.\n\nAcross sects, charity is framed as a lay duty rather than a monastic obligation. Monastics may receive alms but do not administer charitable institutions. Laypeople are encouraged to give within their means, avoid harm in the process of giving, and ensure that charitable acts do not conflict with ethical vows such as non‑possession (*aparigraha*) and truthful livelihood.\n\nWhile charity is praised, Jain texts also warn against forms of giving that inadvertently support violence, exploitation, or attachment. Thus, Jain charity is both compassionate and critically reflective, aiming to uplift all beings while minimizing karmic entanglement.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अन्नौषधज्ञानाभयदानानि",
+      "transliteration": "annauṣadha‑jñāna‑abhaya‑dānāni",
+      "translation": "Food, medicine, knowledge, and protection are the four kinds of giving.",
+      "notes": "Tattvārtha Sūtra 7.11 is the most frequently cited canonical definition of the fourfold *dāna*. Commentaries differ slightly in explaining the scope of *abhaya‑dāna*, with Digambara authors emphasizing protection of all living beings and Śvetāmbara authors often linking it to social refuge."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "दया जीवाणं दानं",
+      "transliteration": "dayā jīvāṇaṃ dānaṃ",
+      "translation": "Compassion toward living beings is itself a form of giving.",
+      "notes": "This passage appears in Śvetāmbara editions (Ācārāṅga Sūtra I.2) and highlights the connection between compassion and charitable action. Exact wording varies across manuscripts; the phrase is widely referenced in traditional commentaries."
+    },
+    {
+      "title": "Śrāvakācāra Texts (e.g., Śrāvakaprajñapti, Digambara manuals)",
+      "author": "Various authors",
+      "original_text": "दानं पुण्यस्य कारणम्",
+      "transliteration": "dānaṃ puṇyasya kāraṇam",
+      "translation": "Giving is a cause of merit.",
+      "notes": "Lay conduct manuals consistently emphasize *dāna* as a central lay duty. The phrasing appears in multiple Digambara and Śvetāmbara instructional texts; exact editions differ, so the line is presented here as a representative paraphrase with a commonly attested wording."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain charity is limited to supporting monks and temples.",
+      "reality": "While almsgiving to monastics is important, Jain traditions explicitly endorse broader charitable activities such as animal protection, medical aid, education, and famine relief. The fourfold *dāna* includes protection and knowledge, which extend far beyond monastic support."
+    },
+    {
+      "myth": "Charity automatically generates good karma regardless of intention.",
+      "reality": "Jain texts stress that intention, non‑violence, and ethical livelihood determine the karmic quality of giving. Charity performed with pride, attachment, or harmful means may not produce merit and can even create new karmic bondage."
+    },
+    {
+      "myth": "Jainism discourages large charitable institutions because they involve possession.",
+      "reality": "Laypeople may establish and manage charitable institutions as long as they uphold non‑violence and avoid exploitative practices. The vow of non‑possession guides responsible stewardship rather than prohibiting organized charity."
+    }
+  ]
+}

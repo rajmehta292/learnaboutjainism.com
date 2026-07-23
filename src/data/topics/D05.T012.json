@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical literature, causal relationships (hetu–phala sambandha) describe the structured ways in which phenomena arise, persist, and cease. Jain thinkers do not treat causality as a single, universal mechanism; instead, they analyze it through multiple lenses—substance (dravya), qualities (guna), modes (paryaya), and the complex interactions of karma with living beings. Causality is always contextual, many‑sided, and conditioned by the doctrine of anekāntavāda, which holds that any event or entity can be understood from multiple valid standpoints.\n\nJain texts distinguish between **material causes** (upādāna‑kāraṇa) and **auxiliary causes** (nimitta‑kāraṇa). Material causes are intrinsic to the entity undergoing change, while auxiliary causes are external conditions that facilitate or trigger transformation. For example, the soul’s inherent capacity for knowledge is the material cause of knowing, while the removal of karmic obstructions acts as an auxiliary cause. This dual structure allows Jain philosophers to explain change without compromising the eternal nature of substances.\n\nCausality also plays a central role in karma theory. Every action—mental, verbal, or physical—creates karmic matter that binds to the soul through specific causal processes described in canonical texts. The fruition (udaya) of karma is not random; it follows precise causal rules governing duration, intensity, and scope. These rules are elaborated in both Śvetāmbara and Digambara traditions, with technical detail provided in works such as the *Tattvārtha Sūtra* and its commentaries.\n\nBecause Jainism emphasizes non-absolutism, causal relationships are often explained through multiple standpoints (naya). From the **substantial standpoint** (dravyārthika naya), the soul remains constant and is the material cause of its own states. From the **modal standpoint** (paryāyārthika naya), each momentary mode arises due to specific internal and external causes. This layered approach prevents oversimplification and supports the tradition’s commitment to intellectual humility.\n\nIn practice, understanding causal relationships helps lay followers interpret ethical teachings, especially regarding karma, intention, and the consequences of harm. It also informs advanced doctrinal study, including the analysis of the fourteen stages of spiritual development (guṇasthāna), where causal mechanisms determine transitions between states of bondage and liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "उपादानं निमित्तं च कार्यस्य कारणम्",
+      "transliteration": "upādānaṃ nimittaṃ ca kāryasya kāraṇam",
+      "translation": "Material cause and auxiliary cause together constitute the cause of an effect.",
+      "notes": "This passage (TS 5.37 in many editions) is foundational for Jain causal theory. It distinguishes intrinsic and extrinsic causes and is accepted across Digambara and Śvetāmbara traditions, though commentarial interpretations vary."
+    },
+    {
+      "title": "Pañcāstikāya",
+      "author": "Kundakunda",
+      "original_text": "दव्वस्स गुणपगासो पज्जायो",
+      "transliteration": "davvassa guṇapagāso pajjāyo",
+      "translation": "Modes arise from the qualities of a substance.",
+      "notes": "This Digambara text explains how causal change occurs without altering the eternal nature of substances. The line highlights the internal causal relationship between substance, qualities, and modes."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Śvetāmbara canonical compilation",
+      "original_text": "कम्मं कारणं दुःखस्स",
+      "transliteration": "kammaṃ kāraṇaṃ duḥkassa",
+      "translation": "Karma is the cause of suffering.",
+      "notes": "This canonical text links ethical action to causal consequences. The phrasing varies across manuscripts; the idea is consistently attested in canonical discussions of karma and its fruits."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that everything is predetermined by karma.",
+      "reality": "Primary texts state that karma operates through causal laws, but intention, effort, and present conduct can modify future karmic outcomes. Karma is neither fatalistic nor wholly deterministic."
+    },
+    {
+      "myth": "Causality in Jainism is identical to Buddhist dependent origination.",
+      "reality": "While both traditions analyze conditionality, Jainism maintains eternal substances and distinguishes material from auxiliary causes. Buddhist texts reject eternal substances and emphasize momentariness, leading to different causal models."
+    },
+    {
+      "myth": "Anekāntavāda denies causal certainty.",
+      "reality": "Anekāntavāda allows multiple valid perspectives but does not reject causal structure. Jain texts provide precise causal rules, especially in karma theory and metaphysics."
+    }
+  ]
+}

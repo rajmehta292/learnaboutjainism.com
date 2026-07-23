@@ -1,0 +1,43 @@
+{
+  "overview": "Tamil Jain history encompasses more than two millennia of religious, literary, artistic, and social activity in the Tamil-speaking regions of South India. Jain communities—both Digambara and Śvetāmbara (primarily Mūrtipūjaka in earlier centuries)—played a formative role in shaping Tamil culture, especially in the early historic and medieval periods. Archaeological evidence, inscriptions, and literary sources indicate that Jainism was present in Tamilakam by at least the early centuries CE, with strong patronage from local chieftains, merchant guilds, and certain dynasties.\n\nOne of the most distinctive features of Tamil Jain history is its contribution to classical Tamil literature. The *Tirukkural*, attributed to the Jain poet Tiruvalluvar in several traditional accounts, is widely regarded as a foundational ethical text of Tamil civilization. Jain authors also composed works such as *Nālaṭiyār*, *Pazamoḻi*, and various epics and didactic poems. While modern scholarship debates the precise sectarian identity of some authors, there is broad agreement that Jain intellectuals were central to the Tamil literary renaissance of the early centuries CE.\n\nArchaeologically, Tamil Jain heritage is visible in the cave shelters and beds carved for monks in sites such as Sittannavasal, Muttupatti, Arittapatti, and Kalugumalai. The Sittannavasal complex, with its famous frescoes, demonstrates the artistic sophistication of Jain patronage during the Pandya period. Numerous inscriptions in Tamil-Brahmi and later scripts record donations to Jain ascetics, illustrating the integration of Jain monastic life into local social structures.\n\nHistorically, Jainism in Tamilakam experienced periods of both flourishing and decline. The rise of Śaiva and Vaiṣṇava bhakti movements from the 7th century onward reduced Jain influence in certain regions, yet Jain communities persisted, adapting to changing political and cultural landscapes. By the late medieval period, Tamil Jains were primarily lay communities with smaller monastic networks, but they continued to maintain temples, manuscript traditions, and distinctive cultural practices.\n\nToday, Tamil Jains—often referred to as *Tamil Samanars*—constitute a small but historically significant community. They preserve unique ritual forms, dietary customs, and festivals, and maintain ancient sites that testify to the deep Jain imprint on Tamil history. Modern scholarship continues to refine our understanding of Tamil Jain contributions through epigraphy, archaeology, and comparative literary analysis.",
+  "primary_sources": [
+    {
+      "title": "Tirukkural (select couplets)",
+      "author": "Traditionally attributed to Tiruvalluvar (sectarian identity debated)",
+      "original_text": "அறத்தினூஉங்கொல்லான் உயிர்நோக்கான் ஒல்லாது செய்கலான் தான்அறிவான்",
+      "transliteration": "aṟattinūuṅkollāṉ uyirnōkkāṉ ollātu ceykalāṉ tāṉaṟivāṉ",
+      "translation": "He who understands virtue will not harm life, nor act in ways that cause suffering.",
+      "notes": "Although not a Jain scripture, the *Tirukkural* is frequently cited in Tamil Jain tradition for its ethical universality. Jain commentators from the medieval period interpreted many couplets through the lens of ahiṃsā and self-restraint."
+    },
+    {
+      "title": "Nālaṭiyār (example verse)",
+      "author": "Anonymous Jain authors (early centuries CE)",
+      "original_text": "பொருளல்ல பிறர்க்கு உதவி செய்கையின்\nநெருளல்ல செய்கை நெறி.",
+      "transliteration": "poruḷalla piraṟkku utavi ceykaiyiṉ neruḷalla ceykai neṟi.",
+      "translation": "Aid given to others without expectation is true wealth; conduct without deceit is the right path.",
+      "notes": "Part of the *Patiṉeṇkīḻkkaṇakku* corpus, traditionally associated with Jain moral instruction. The text emphasizes ethical conduct, restraint, and compassion."
+    },
+    {
+      "title": "Tamil-Brahmi Jain Cave Inscriptions",
+      "author": "Various donors (2nd century BCE–3rd century CE)",
+      "original_text": "சமணன் படுக்கை",
+      "transliteration": "samaṇaṉ paṭukkai",
+      "translation": "Bed for the Jain monk.",
+      "notes": "Short donative inscriptions found at sites such as Arittapatti and Muttupatti. These are among the earliest material attestations of Jain monastic presence in Tamilakam."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Tamil Jainism disappeared entirely after the rise of Śaiva and Vaiṣṇava bhakti movements.",
+      "reality": "While Jain influence declined in certain regions, Tamil Jain communities continued to exist, maintain temples, produce manuscripts, and preserve distinctive cultural practices into the modern period."
+    },
+    {
+      "myth": "All classical Tamil ethical literature was authored exclusively by Jains.",
+      "reality": "Jain authors made major contributions, but Tamil literature is multi-traditional. Some works have debated authorship, and not all ethical texts are Jain in origin."
+    },
+    {
+      "myth": "Tamil Jains are identical to North Indian Digambaras in practice and lineage.",
+      "reality": "Tamil Jains historically followed Digambara monastic norms but developed regionally specific customs, temple styles, and community structures distinct from northern traditions."
+    }
+  ]
+}

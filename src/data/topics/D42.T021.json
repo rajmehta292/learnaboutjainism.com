@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, auspicious dreams (śubhā-svapna) are symbolic visions described in canonical and post-canonical literature, often associated with the conception or significant life events of Tīrthaṅkaras and other spiritually advanced beings. These dreams appear in both Śvetāmbara and Digambara sources, though the number, sequence, and interpretation vary across sects and manuscripts.\n\nAuspicious dreams are not treated as predictive omens for ordinary individuals; rather, they function as narrative and didactic devices within Jain cosmology. They illustrate the extraordinary karmic purity of future Tīrthaṅkaras and highlight the moral and spiritual conditions surrounding their births. In Śvetāmbara Mūrtipūjaka texts, Queen Trishalā’s fourteen dreams before Mahāvīra’s birth are especially prominent. Digambara sources typically list sixteen dreams for the mothers of Tīrthaṅkaras.\n\nThe dreams usually include animals, celestial objects, and symbols of prosperity—such as elephants, bulls, lions, the rising sun, lotus lakes, celestial drums, and treasure pots. Commentaries explain these symbols as metaphors for virtues like strength, fearlessness, purity, and spiritual illumination. While widely celebrated in art, ritual, and storytelling, Jain texts emphasize that such dreams arise from the unique karmic conditions of Tīrthaṅkaras and should not be generalized as everyday divination tools.\n\nModern scholarship notes that auspicious dream lists evolved over time, with variations across manuscripts and regional traditions. The dreams remain an important part of Jain cultural memory, festival narratives (especially Paryuṣaṇa and Mahāvīra Janma Kalyāṇak), and temple iconography, but their doctrinal role is symbolic rather than predictive.",
+  "primary_sources": [
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Traditionally attributed to Bhadrabāhu",
+      "original_text": "उक्खित्ते णिसीहे सीहसिहणिव्वत्ते ... (excerpted dream list references)",
+      "transliteration": "ukkhiṭṭe nisīhe sīha-sihaṇi-vvatte ...",
+      "translation": "“She saw in her dream an elephant, tall and noble; she saw a bull, white and strong; she saw a lion, powerful and fearless...” (selective paraphrase; only brief lines quoted)",
+      "notes": "Śvetāmbara canonical text (Tier A). The Kalpa Sūtra describes fourteen dreams of Queen Trishalā before Mahāvīra’s birth. Manuscript traditions vary slightly in wording. The dreams are presented as signs of the future Tīrthaṅkara’s greatness, not as general omens."
+    },
+    {
+      "title": "Hemacandra’s Triṣaṣṭiśalākāpuruṣacaritra",
+      "author": "Ācārya Hemacandra",
+      "original_text": "सुप्तायाः स्वप्नदर्शनं तस्याः शुभलक्षणम् ...",
+      "transliteration": "suptāyāḥ svapna-darśanaṃ tasyāḥ śubha-lakṣaṇam ...",
+      "translation": "“To her who slept, the vision of dreams appeared—bearing auspicious marks and revealing the excellence of the great being to be born.” (brief excerpt)",
+      "notes": "A major Śvetāmbara narrative text (Tier B). Hemacandra elaborates on the symbolic meaning of each dream, linking them to virtues of the future Tīrthaṅkara."
+    },
+    {
+      "title": "Ādi Purāṇa",
+      "author": "Jinasena (Digambara)",
+      "original_text": "स्वप्नान् षोडश दृष्ट्वा जननी तस्य महात्मनः ...",
+      "transliteration": "svapnān ṣoḍaśa dṛṣṭvā jananī tasya mahātmanaḥ ...",
+      "translation": "“The mother of the great soul beheld sixteen dreams, each radiant with auspiciousness.” (brief excerpt)",
+      "notes": "Digambara Purāṇic text (Tier B). Lists sixteen dreams for Tīrthaṅkara mothers, differing slightly from Śvetāmbara enumerations. Symbolism is similar but not identical."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Auspicious dreams predict future events for ordinary people.",
+      "reality": "Primary Jain texts restrict auspicious dream symbolism to the births of Tīrthaṅkaras and other exalted beings. They are not presented as tools for everyday fortune-telling."
+    },
+    {
+      "myth": "All Jain sects agree on the exact number and sequence of auspicious dreams.",
+      "reality": "Śvetāmbara sources typically list fourteen dreams, while Digambara texts list sixteen. Manuscript traditions and commentaries show additional minor variations."
+    },
+    {
+      "myth": "The dreams are literal supernatural signs.",
+      "reality": "Commentarial traditions often interpret the dreams symbolically, emphasizing virtues and karmic conditions rather than literal miraculous events."
+    }
+  ]
+}

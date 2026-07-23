@@ -1,0 +1,43 @@
+{
+  "overview": "Ekatva (Sanskrit/Prakrit: *ekatva*) is a foundational Jain philosophical concept referring to the recognition of the soul’s singularity. In classical Jain ontology, it is one of the **seven tattvas** when expanded in certain pedagogical lists, and more commonly one of the **five samitis** or **twelve bhāvanās** depending on context. In the bhāvanā framework, *ekatva-bhāvanā* is the contemplative reflection on the soul’s solitary nature: each jīva is ultimately responsible for its own karmic bondage and liberation. No other being—human, divine, or otherwise—can merge with, substitute for, or absorb the soul. This reflection is intended to strengthen non‑attachment, ethical discipline, and clarity about the path to mokṣa.\n\nIn Digambara and Śvetāmbara traditions alike, *ekatva* is paired with *anyatva* (otherness). Together, they emphasize that the soul is distinct from all non‑soul substances (pudgala, dharma, adharma, ākāśa, kāla) and also distinct from other souls. This dual recognition prevents metaphysical confusion such as assuming that liberation can be achieved through external agents or ritual intermediaries. It also guards against the belief that karmic consequences can be transferred between individuals.\n\nIn meditative practice, *ekatva* is not a claim of isolation in a social sense; rather, it is a metaphysical assertion that the soul’s essential qualities—consciousness, upayoga, and potential for omniscience—are its own. The contemplative exercise encourages practitioners to focus inwardly on their moral agency and responsibility. Classical commentaries describe *ekatva-bhāvanā* as a tool for weakening passions (kaṣāyas) by reminding the aspirant that worldly relationships, possessions, and identities do not alter the soul’s fundamental nature.\n\nHistorically, the concept appears in early canonical texts such as the *Tattvārtha Sūtra* and in Prakrit sources like the *Uttarādhyayana Sūtra*. Later commentaries elaborate its role in the twelve reflections (dvādaśa-bhāvanā), where *ekatva* supports detachment and vigilance. Modern scholarship interprets *ekatva* as part of Jainism’s broader emphasis on moral autonomy and the non-theistic structure of liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "एकत्वान्यत्वे च",
+      "transliteration": "ekatvānyatve ca",
+      "translation": "“There is (the contemplation of) oneness and otherness.”",
+      "notes": "This brief sūtra (TS 9.7 in many editions) is cited in both Digambara and Śvetāmbara traditions as part of the reflections supporting right conduct. Commentaries explain *ekatva* as recognizing the soul’s individuality and non‑merging nature."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Anonymous; Śvetāmbara canonical text",
+      "original_text": "एगत्तं पविच्चइ",
+      "transliteration": "egattaṃ paviccai",
+      "translation": "“He reflects upon the oneness (of the soul).”",
+      "notes": "Appears in didactic passages on contemplative practice. The text emphasizes that the aspirant should understand the solitary nature of the jīva in its journey through saṃsāra."
+    },
+    {
+      "title": "Dvādaśa-bhāvanā traditional commentaries",
+      "author": "Various Digambara and Śvetāmbara commentators",
+      "original_text": "जीवस्यैकत्वं—नान्येन सह संयोगो न च परस्य कर्मणां भागः",
+      "transliteration": "jīvasya ekatvaṃ—nānyena saha saṃyogo na ca parasya karmaṇāṃ bhāgaḥ",
+      "translation": "“The soul’s oneness means it does not unite with another, nor does it share in another’s karma.”",
+      "notes": "A representative paraphrase from traditional Sanskrit commentarial literature. It clarifies that *ekatva* denies both metaphysical merging and karmic transfer."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Ekatva means social isolation or withdrawal from relationships.",
+      "reality": "Ekatva is a metaphysical principle, not a social prescription. It teaches that the soul is ontologically singular, but it does not require abandoning family or community life. Lay practice texts explicitly integrate *ekatva* with responsible social conduct."
+    },
+    {
+      "myth": "Ekatva implies that all souls are identical in experience and destiny.",
+      "reality": "Jainism holds that each soul has the same inherent potential for liberation, but each soul’s karmic history, choices, and progress are unique. Ekatva emphasizes individuality, not uniformity."
+    },
+    {
+      "myth": "Ekatva means the soul is the only real substance.",
+      "reality": "Jain ontology recognizes six dravyas (substances). Ekatva does not deny the existence of other substances; it asserts that the soul does not merge with them and remains distinct."
+    }
+  ]
+}

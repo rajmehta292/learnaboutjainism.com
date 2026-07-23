@@ -1,0 +1,35 @@
+{
+  "overview": "Bhagavati Ārādhanā (also known as *Bhagavatī Ārādhanā* or *Ārādhanā*) is a foundational Digambara Jain text attributed to the early mendicant tradition and commonly associated with the revered teacher Kundakunda, though modern scholarship debates the attribution. The work is generally dated between the 1st and 5th century CE, with its surviving manuscripts reflecting later redactional layers. It is written in a mixture of Ardhamāgadhī Prakrit and Jain Śaurasenī, and it occupies a central place in Digambara monastic and lay ethical literature.\n\nThe text is structured as a dialogue between Gautama and Mahāvīra, presenting detailed guidance on the conduct of monks, the nature of transgressions, the dynamics of karmic bondage, and the path of purification. It is not a canonical text in the strict Śvetāmbara sense, but it is treated as authoritative within Digambara tradition for its systematic treatment of *ārādhanā*—the disciplined pursuit of liberation through right conduct, vigilance, and austerity.\n\nBhagavati Ārādhanā is especially known for its extensive cataloguing of monastic faults (*doṣa*), careful distinctions between intentional and unintentional transgressions, and its emphasis on *apramatta-yoga* (vigilant, non-negligent conduct). It also contains early formulations of ethical categories that later Digambara authors, such as Asadhara and Vasunandi, expand in their own manuals. The text is frequently cited in discussions of Digambara monastic discipline, the psychology of ethical lapses, and the technical vocabulary of karmic influx (*āsrava*) and stoppage (*saṃvara*).\n\nModern scholarship highlights the text’s role in bridging early canonical-style dialogues with later scholastic treatises. It preserves archaic linguistic features and doctrinal formulations that illuminate the evolution of Digambara ethics. Manuscript traditions show regional variations, and some sections appear to be interpolations or expansions by later redactors. Despite these complexities, Bhagavati Ārādhanā remains a cornerstone for understanding Digambara perspectives on vigilance, ethical purity, and the lived discipline of the mendicant path.",
+  "primary_sources": [
+    {
+      "title": "Bhagavati Ārādhanā",
+      "author": "Traditionally attributed to Kundakunda; actual authorship uncertain",
+      "original_text": "“अप्पमत्तो मुणी धम्मं कारेइ।”",
+      "transliteration": "appamatto muṇī dhammaṃ kārei",
+      "translation": "“The vigilant monk practices the Dharma.”",
+      "notes": "This line appears in several manuscript families and reflects the text’s core emphasis on non-negligence (*apramatta*). The text survives in multiple recensions; critical editions (Tier A/B) note variant readings and occasional interpolations."
+    },
+    {
+      "title": "Bhagavati Ārādhanā (Section on Transgressions)",
+      "author": "Anonymous early Digambara compiler",
+      "original_text": "“दोसाणं कारणं अविज्जा।”",
+      "transliteration": "dosāṇaṃ kāraṇaṃ avijjā",
+      "translation": "“The cause of faults is ignorance.”",
+      "notes": "This passage illustrates the text’s psychological framing of ethical lapses. Manuscripts differ on the surrounding verses, and some commentaries (Tier B) expand the notion of *avijjā* in relation to karmic influx."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Bhagavati Ārādhanā is universally accepted as a canonical Jain scripture.",
+      "reality": "It is authoritative in the Digambara tradition but is not part of the Śvetāmbara canon. Its authorship and redactional history are complex, and it is best understood as a post-canonical ethical manual."
+    },
+    {
+      "myth": "The text was definitively written by Kundakunda.",
+      "reality": "Traditional attribution links it to Kundakunda, but linguistic and historical analysis suggests multiple authors or later redaction. Modern scholarship treats the attribution as uncertain."
+    },
+    {
+      "myth": "Bhagavati Ārādhanā prescribes extreme austerities for all practitioners.",
+      "reality": "The text primarily addresses mendicant discipline and emphasizes vigilance, ethical purity, and avoidance of faults. It does not mandate severe austerities for laypeople and must be interpreted within proper monastic context."
+    }
+  ]
+}

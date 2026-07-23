@@ -1,0 +1,43 @@
+{
+  "overview": "Lanchhanas (Skt. *liṅchana*, Prakrit *lañchhaṇa*) are the distinctive emblematic marks associated with each of the twenty-four Tīrthaṅkaras in Jain tradition. These marks serve as visual identifiers in manuscripts, temple iconography, and ritual memory systems across Śvetāmbara and Digambara lineages. While the physical depiction of Tīrthaṅkaras is intentionally uniform—emphasizing their perfected equality and absence of worldly attributes—the lanchhana provides a symbolic cue that allows devotees and scholars to distinguish one Tīrthaṅkara from another.\n\nIn classical sources, lanchhanas are not treated as magical insignia or personal possessions of the Tīrthaṅkaras. Instead, they function as pedagogical devices: mnemonic symbols that encode the narrative, karmic, and cosmological significance of each enlightened teacher. For example, Ṛṣabhanātha’s bull, Ajitanātha’s elephant, and Pārśvanātha’s serpent are among the most widely recognized lanchhanas. These symbols appear in canonical lists, medieval commentaries, temple inscriptions, and illustrated manuscripts such as the *Kalpasūtra* folios of the Śvetāmbara tradition.\n\nDifferent Jain traditions agree on the core list of lanchhanas, though minor variations in terminology or artistic representation occur across regions and historical periods. Digambara texts often present the lanchhanas in more concise enumerations, while Śvetāmbara narrative literature integrates them into elaborate biographical cycles. Modern scholarship uses lanchhanas to trace iconographic development, manuscript lineage, and sectarian aesthetics.\n\nOverall, lanchhanas are a bridge between narrative memory and visual culture—non-authoritative yet deeply traditional markers that help situate each Tīrthaṅkara within Jain cosmology, history, and devotional practice.",
+  "primary_sources": [
+    {
+      "title": "Kalpasūtra",
+      "author": "Traditionally attributed to Bhadrabāhu",
+      "original_text": "“Ṛṣabhasya lañchhaṇaṃ vṛṣabho.”",
+      "transliteration": "R̥ṣabhasya lañchhaṇaṃ vṛṣabhaḥ.",
+      "translation": "“The emblem of Ṛṣabha is the bull.”",
+      "notes": "Śvetāmbara canonical text (Tier A). The *Kalpasūtra* provides lanchhanas for several Tīrthaṅkaras, especially in sections describing their birth and iconography. Manuscript traditions often illustrate these emblems in the margins."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha",
+      "original_text": "“Ajitanāhassa lañchaṇaṃ gajaṃ.”",
+      "transliteration": "Ajitanāhassa lañchaṇaṃ gajaṃ.",
+      "translation": "“The emblem of Ajitanātha is the elephant.”",
+      "notes": "Digambara cosmological text (Tier A). Provides systematic lists of Tīrthaṅkara attributes, including lanchhanas, within broader cosmological descriptions."
+    },
+    {
+      "title": "Hemacandra’s Triṣaṣṭiśalākāpuruṣacaritra",
+      "author": "Ācārya Hemacandra",
+      "original_text": "“Pārśvasya lañchhaṇaṃ nāgaḥ.”",
+      "transliteration": "Pārśvasya lañchhaṇaṃ nāgaḥ.",
+      "translation": "“The emblem of Pārśva is the serpent.”",
+      "notes": "A major Śvetāmbara narrative text (Tier B). Hemacandra integrates lanchhanas into detailed biographies, linking symbols with karmic episodes and auspicious signs."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Lanchhanas are physical objects owned or carried by the Tīrthaṅkaras.",
+      "reality": "Primary texts describe lanchhanas as symbolic identifiers, not material possessions. They are pedagogical and iconographic markers used by later tradition."
+    },
+    {
+      "myth": "Different Jain sects have completely different lanchhana lists.",
+      "reality": "The core list of twenty-four lanchhanas is consistent across Digambara and Śvetāmbara traditions, with only minor regional or stylistic variations."
+    },
+    {
+      "myth": "Lanchhanas determine the spiritual rank or powers of a Tīrthaṅkara.",
+      "reality": "All Tīrthaṅkaras are spiritually equal; lanchhanas do not indicate hierarchy or special abilities. They simply help identify each teacher in narrative and art."
+    }
+  ]
+}

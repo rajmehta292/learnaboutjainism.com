@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, **indriya** (Skt./Prakrit: *indriya*, often translated as “sense-faculty” or “sense-organ”) refers to the fundamental capacities through which living beings perceive and interact with the world. The doctrine of indriyas is central to Jain ontology, cosmology, ethics, and the classification of living beings (*jīva-samās*). Jainism identifies **five indriyas**—touch, taste, smell, sight, and hearing—but also distinguishes between the **physical sense-organs** (*dravyendriya*) and the **psychic or functional sense-capacities** (*bhāvendriya*). This dual structure allows Jain thinkers to explain perception not merely as a bodily process but as a karmically conditioned activity of the soul.\n\nIndriyas are used to classify beings into **one-sensed through five-sensed** categories, forming the basis of Jain environmental ethics and nonviolence. A one-sensed being (e.g., plants) possesses only touch, while a five-sensed being (e.g., humans) possesses all five. The number of indriyas possessed by a jīva determines its vulnerability, karmic potential, and the severity of harm caused to it. Thus, the doctrine of indriyas is not only descriptive but also normative, shaping the Jain ethic of *ahiṃsā*.\n\nIn Jain epistemology, indriyas are the foundation of **sensory knowledge** (*mati-jñāna*). However, sensory knowledge is considered limited, indirect, and prone to error due to karmic obstructions. Higher forms of knowledge—scriptural (*śruta*), clairvoyance (*avadhi*), telepathy (*manaḥparyāya*), and omniscience (*kevala*)—transcend the indriyas entirely. This hierarchy underscores the Jain view that the soul’s true nature is inherently omniscient, and sensory perception is a karmic limitation rather than an intrinsic property.\n\nAcross Digambara and Śvetāmbara traditions, the classification of indriyas is consistent, though commentarial nuances differ. Digambara texts often emphasize the karmic mechanisms that obstruct or enable sensory functioning, while Śvetāmbara commentaries elaborate on the phenomenology of perception. Both traditions agree that liberation (*mokṣa*) involves the complete dissolution of the karmas that enable and obstruct the indriyas, resulting in the soul’s pure, non-sensory omniscience.\n\nThus, indriya doctrine is a foundational component of Jain metaphysics, ethics, and soteriology, linking the structure of living beings, the mechanics of perception, and the path to liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "द्रव्येन्द्रियं भावेन्द्रियं च ।",
+      "transliteration": "dravyendriyaṃ bhāvendriyaṃ ca",
+      "translation": "“There are physical sense-organs and psychic sense-capacities.”",
+      "notes": "Tattvārtha Sūtra 2.19 establishes the dual nature of indriyas. Subsequent sūtras (2.20–2.25) classify the five senses and explain their karmic conditioning. This is the most authoritative pan-Jain source on indriya doctrine."
+    },
+    {
+      "title": "Saṃgrahaṇī Sūtra (Śvetāmbara)",
+      "author": "Attributed to Śīlāṅka or Abhayadeva (commentarial tradition)",
+      "original_text": "एगिंदियादि पंचिंदिया जिवा।",
+      "transliteration": "egindiyādi pañcindiyā jīvā",
+      "translation": "“Beings possess from one up to five senses.”",
+      "notes": "This text provides detailed cosmological and biological classifications of living beings based on the number of indriyas. It is central to Śvetāmbara pedagogical literature."
+    },
+    {
+      "title": "Gommaṭasāra Jīvakāṇḍa (Digambara)",
+      "author": "Nemichandra Siddhānta Chakravartin",
+      "original_text": "इंदियाणं पञ्चविधं।",
+      "transliteration": "indiyāṇaṃ pañcavidhaṃ",
+      "translation": "“The senses are of five kinds.”",
+      "notes": "Gommaṭasāra elaborates on the karmic structures that enable or obstruct sensory functioning, offering a highly technical Digambara perspective."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Indriyas are merely physical organs like eyes or ears.",
+      "reality": "Jain texts distinguish between physical organs (*dravyendriya*) and the soul’s functional capacities (*bhāvendriya*). Sensory perception is karmically conditioned, not purely biological."
+    },
+    {
+      "myth": "All living beings with multiple senses have similar moral status.",
+      "reality": "Jain ethics assigns different levels of vulnerability and karmic significance to beings based on the number of indriyas. Harming a five-sensed being is considered more severe than harming a one-sensed being."
+    },
+    {
+      "myth": "Liberated souls possess heightened sensory abilities.",
+      "reality": "Liberation involves the complete dissolution of sensory faculties. A liberated soul has omniscience that is non-sensory and not dependent on indriyas."
+    }
+  ]
+}

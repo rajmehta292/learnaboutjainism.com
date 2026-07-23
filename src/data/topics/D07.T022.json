@@ -1,0 +1,43 @@
+{
+  "overview": "Conduct‑deluding karma (cāritra‑mohanīya karma) is one of the two major divisions of the mohanīya or ‘deluding’ karmas in Jain philosophy. Within the canonical karma taxonomy, mohanīya karma is the most powerful category because it directly obscures right conduct and right attitude, thereby preventing the soul from progressing through the guṇasthānas. Conduct‑deluding karma specifically interferes with the soul’s ability to maintain disciplined ethical behavior (cāritra) even after right faith has arisen. It generates impulses, passions, and behavioral distortions that weaken self‑restraint.\n\nJain texts classify conduct‑deluding karma into four primary subtypes: anger (krodha), pride (māna), deceit (māyā), and greed (lobha). These are further divided into degrees of intensity—anantanubandhi, apratyākhyāna, pratyākhyāna, and sañjvalana—each determining how severely the passions obstruct spiritual progress. The most intense form, anantanubandhi, prevents the attainment of right faith entirely, while the milder sañjvalana passions allow right faith but obstruct perfect conduct.\n\nIn the broader karmic framework, conduct‑deluding karma is responsible for the fluctuations between higher and lower guṇasthānas. When weakened, the soul ascends toward states of increasing purity; when strengthened, it descends. The final destruction of conduct‑deluding karma occurs only at the thirteenth guṇasthāna, immediately before liberation, when all passions are eliminated. Traditional commentaries emphasize that this karma is not merely psychological but metaphysical: it is a subtle material aggregate that binds to the soul due to passionate activity and is shed through disciplined ethical practice, meditation, and vigilance.\n\nAcross Jain traditions—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth—the definition of conduct‑deluding karma is consistent, though terminology and interpretive nuances vary. All agree that its removal is essential for liberation and that its presence explains why even knowledgeable beings may fail to act according to their understanding. Modern scholarship highlights its role as an early Jain attempt to analyze moral psychology, linking ethical failure to both internal dispositions and karmic influx.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 8.1–8.3",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "मोहनीयः क्रोधमानमायालोभाः।",
+      "transliteration": "mohanīyaḥ krodha‑māna‑māyā‑lobhāḥ",
+      "translation": "The deluding karmas consist of anger, pride, deceit, and greed.",
+      "notes": "The Tattvārtha Sūtra provides the foundational classification of passions as components of deluding karma. Commentaries distinguish between faith‑deluding and conduct‑deluding karmas, placing these four passions under the latter."
+    },
+    {
+      "title": "Gommatasāra (Karmakāṇḍa) 7.1–7.10",
+      "author": "Nemicandra Siddhānta‑cakravartin",
+      "original_text": "अनन्तानुबन्ध्यप्रत्याख्यानाप्रत्याख्यानसंज्वलनभेदाः।",
+      "transliteration": "anantānubandhy‑apratyākhyāna‑pratyākhyāna‑sañjvalana‑bhedāḥ",
+      "translation": "They are divided into anantānubandhi, apratyākhyāna, pratyākhyāna, and sañjvalana types.",
+      "notes": "This Digambara text elaborates the four intensities of passions and explains how each type affects the soul’s ability to attain or maintain right faith and conduct."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 28",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "कस्स कुदेसो लोभो, कस्स कुदेसो कोहो।",
+      "transliteration": "kassa kudeso lobho, kassa kudeso koho",
+      "translation": "For whom is greed harmful, for whom is anger harmful?",
+      "notes": "This chapter discusses the destructive nature of passions and their role in obstructing spiritual progress, aligning with the broader doctrine of conduct‑deluding karma."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Conduct‑deluding karma is simply a metaphor for psychological emotions.",
+      "reality": "Jain texts describe it as a literal, subtle material karma that binds to the soul. While it manifests through emotions, it is not reducible to them."
+    },
+    {
+      "myth": "Only severe passions count as conduct‑deluding karma.",
+      "reality": "Even mild forms of anger, pride, deceit, and greed are classified as conduct‑deluding karma and influence movement across the guṇasthānas."
+    },
+    {
+      "myth": "Conduct‑deluding karma can be destroyed through knowledge alone.",
+      "reality": "Jain doctrine states that destruction requires both right knowledge and disciplined conduct, including meditation, restraint, and cessation of passionate activity."
+    }
+  ]
+}

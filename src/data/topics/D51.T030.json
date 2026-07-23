@@ -1,0 +1,27 @@
+{
+  "overview": "Version control is a system for tracking changes to files, most commonly used in software development, digital content creation, and collaborative documentation. It allows multiple contributors to work on the same project without overwriting each other’s work, preserving a complete history of modifications over time. By maintaining snapshots of a project at various points, version control enables users to review past states, identify when and why changes occurred, and revert to earlier versions if necessary.\n\nModern version control systems (VCS) fall into two broad categories: centralized and distributed. Centralized systems, such as Subversion (SVN), rely on a single authoritative server that stores the project’s history. Contributors check out files, make changes, and commit them back to the central repository. Distributed systems, such as Git and Mercurial, allow every contributor to maintain a full copy of the repository, including its entire history. This architecture supports offline work, faster operations, and more flexible branching and merging workflows.\n\nVersion control is essential for managing complexity in large projects. It supports branching, which allows developers to experiment or develop features independently, and merging, which integrates these changes back into the main project. It also provides mechanisms for conflict resolution when multiple contributors modify the same parts of a file. Beyond software engineering, version control is increasingly used in fields such as data science, academic research, and digital humanities, where reproducibility and traceability are critical.\n\nThe adoption of version control fosters collaboration, accountability, and transparency. It enables teams to coordinate work efficiently, maintain stable releases, and track contributions. In modern development ecosystems, version control integrates with continuous integration pipelines, issue tracking systems, and code review platforms, forming the backbone of professional software engineering practices.",
+  "primary_sources": [
+    {
+      "title": "No applicable Jain primary text",
+      "author": "N/A",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Version control is a modern computational concept and does not appear in Jain canonical or commentarial literature.",
+      "notes": "Because the requested topic is technological rather than religious or historical, there are no Prakrit or Sanskrit primary sources relevant to version control."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Version control is only useful for programmers.",
+      "reality": "While essential in software development, version control is valuable for writers, researchers, designers, and anyone who needs to track changes or collaborate on digital files."
+    },
+    {
+      "myth": "Version control automatically prevents all conflicts.",
+      "reality": "Version control helps manage conflicts, but human judgment is often required to resolve overlapping changes in complex files."
+    },
+    {
+      "myth": "Distributed version control systems are harder to use than centralized ones.",
+      "reality": "Distributed systems like Git can be more complex initially, but they offer greater flexibility, speed, and reliability once learned."
+    }
+  ]
+}

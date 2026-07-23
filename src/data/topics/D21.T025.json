@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, the paired concepts of **merit (puṇya)** and **aspiration (bhāvanā)** form a foundational framework for understanding ethical causation, spiritual motivation, and the gradual refinement of consciousness. Merit refers to auspicious karmic influx generated through wholesome actions, intentions, and dispositions. Aspiration refers to the cultivated mental attitudes that orient a practitioner toward liberation, compassion, restraint, and clarity. While puṇya is a karmic category within the broader doctrine of karma, bhāvanā is a disciplined psychological and ethical practice emphasized across Śvetāmbara and Digambara traditions.\n\nMerit is not liberation itself. Jain primary texts repeatedly stress that puṇya produces pleasant worldly conditions—health, longevity, wealth, social respect, and favorable circumstances for practice—but does not destroy the fundamental bondage of karma. It is therefore considered a supportive condition rather than the final goal. The aspirational practices (bhāvanās), however, directly shape the soul’s orientation toward right faith (samyak-darśana), right knowledge (samyak-jñāna), and right conduct (samyak-cāritra). They include contemplations on impermanence, solitude of the soul, impurity of karmic matter, and the rarity of true spiritual opportunity.\n\nAcross canonical and commentarial literature, merit and aspiration are intertwined: merit creates conditions conducive to cultivating aspiration, and aspiration refines the ethical quality of actions that generate merit. In the technical framework of the guṇasthānas (stages of spiritual development), puṇya supports early progress by stabilizing ethical life, while bhāvanā becomes increasingly central as the practitioner moves toward higher stages where intention and insight dominate. Both concepts are treated with precision in karma theory, ethical manuals, and meditative guides, with clear distinctions between scriptural statements, interpretive traditions, and modern applications.\n\nModern Jain teachers and scholars emphasize that puṇya should not be pursued for worldly gain alone. Instead, it is best understood as part of a holistic path in which wholesome actions and cultivated aspirations gradually reduce passions (kaṣāyas) and prepare the practitioner for deeper renunciation. Aspiration, when grounded in scriptural contemplations, becomes a transformative discipline that aligns daily conduct with the long-term goal of liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "पुण्यपापे जीवस्य।",
+      "transliteration": "puṇya-pāpe jīvasya",
+      "translation": "Merit and demerit pertain to the soul.",
+      "notes": "Tattvārtha Sūtra 6.1 establishes puṇya and pāpa as fundamental categories of karmic influx. Commentaries such as Pūjyapāda’s Sarvārthasiddhi (Digambara) and Siddhasena’s Tattvārthavṛtti (Śvetāmbara) clarify that merit arises from actions accompanied by mild passions and wholesome intentions."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अनित्यत्वभवनादयो भावनाः।",
+      "transliteration": "anityatva-bhavanādayo bhāvanāḥ",
+      "translation": "Contemplations such as impermanence are the aspirational practices.",
+      "notes": "This passage (TS 9.7) lists the classical bhāvanās, including impermanence, solitude of the soul, impurity of karmic matter, and others. These contemplations refine intention and reduce passions, directly influencing karmic processes."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "पुण्यं च पावं च उवयाएणं।",
+      "transliteration": "puṇyaṃ ca pāvaṃ ca uvayāeṇaṃ",
+      "translation": "Merit and demerit arise from conduct.",
+      "notes": "Uttarādhyayana Sūtra 32 emphasizes ethical conduct as the generator of karmic results. Traditional commentaries highlight intention (bhāva) as the decisive factor in determining whether an act yields puṇya or pāpa."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "भावणा तव्वं जोगं च।",
+      "transliteration": "bhāvaṇā tavvaṃ jogaṃ ca",
+      "translation": "Aspiration, austerity, and discipline.",
+      "notes": "Daśavaikālika Sūtra 8 underscores the role of aspirational cultivation in shaping ethical and meditative practice. Later commentaries connect these bhāvanās to the reduction of passions and the strengthening of right conduct."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Merit guarantees spiritual liberation.",
+      "reality": "Primary texts consistently state that puṇya produces favorable worldly conditions but does not destroy karmic bondage. Liberation requires the cessation of karmic influx and the shedding of existing karma through right faith, knowledge, and conduct."
+    },
+    {
+      "myth": "Aspiration (bhāvanā) is merely emotional positivity.",
+      "reality": "Bhāvanā refers to structured contemplations rooted in canonical teachings. They are precise meditative disciplines aimed at reducing passions and aligning the practitioner with the path to liberation."
+    },
+    {
+      "myth": "Merit and aspiration operate independently.",
+      "reality": "Jain doctrine treats them as mutually reinforcing: merit creates supportive conditions for practice, while aspiration refines intention and reduces passions, improving the ethical quality of actions that generate merit."
+    }
+  ]
+}

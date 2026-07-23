@@ -1,0 +1,59 @@
+{
+  "overview": "The Library of Congress Control Number (LCCN) is a unique, serially based identifier assigned by the Library of Congress in the United States to catalog records created or maintained by the library. It is used primarily for bibliographic records (such as books and serials) and authority records (such as names and subjects), and functions as a stable control number that allows librarians and information systems to distinguish one catalog record from another. Importantly, the LCCN identifies the catalog record itself, not the physical item or its intellectual content, and it should not be confused with the Library of Congress Classification (LCC) system or with commercial identifiers like the ISBN.\n\nThe LCCN system originated in 1898, when the Library of Congress began assigning numbers to printed catalog cards that it produced and distributed to other libraries. At that time, the acronym referred to the “Library of Congress Card Number,” reflecting its role in centralized cataloging: libraries could purchase sets of LC catalog cards and use them in their own catalogs, and the card number helped them order and file the correct cards. As cataloging moved from card-based systems to machine-readable formats in the late twentieth century, the same numbering system was retained but reinterpreted as the “Library of Congress Control Number,” emphasizing its function as a control mechanism for bibliographic data in electronic systems.\n\nStructurally, an LCCN consists of a year portion and a serial number portion, with optional alphabetic prefixes that indicate the type or origin of the record. For numbers assigned between 1898 and 2000, the year portion is represented by two digits, while numbers assigned from 2001 onward use a four-digit year to avoid ambiguity and to accommodate century change. The serial number is six digits long and is typically padded with leading zeros to maintain a fixed length. Historically, some LCCNs also included suffixes or “supplement numbers,” and printed forms often displayed a hyphen between the year and the serial number (for example, “2001-123456”), although in modern practice the hyphen is considered optional and is often omitted in machine-readable contexts.\n\nIn MARC (Machine-Readable Cataloging) records, the LCCN appears in field 010, where it serves as a key control element for bibliographic and authority data. The Library of Congress and other cataloging agencies use the LCCN to manage record creation, distribution, and revision, and many shared cataloging utilities and union catalogs rely on it as a primary identifier. Beyond MARC, the Library of Congress provides an LCCN Permalink service, which converts a valid LCCN into a stable URL that resolves to the corresponding catalog record when it is available. This service supports long-term citation and linking in digital environments, making the LCCN an important bridge between traditional cataloging and web-based discovery.\n\nThe LCCN also plays a role in pre-publication cataloging through programs such as the Preassigned Control Number (PCN) program. Under this program, eligible publishers can request an LCCN for a forthcoming title that is likely to be added to the Library of Congress collections. The number is assigned before publication, allowing cataloging data to be prepared and disseminated more efficiently once the item is received. However, the assignment of an LCCN does not guarantee that the Library of Congress will acquire or retain the item; it simply indicates that a control number has been reserved for a potential catalog record.\n\nIn the broader ecosystem of bibliographic identifiers, the LCCN complements but does not replace other systems such as ISBN (International Standard Book Number) and ISSN (International Standard Serial Number). ISBN and ISSN are content-oriented identifiers assigned by publishers or registration agencies to specific manifestations of works, while the LCCN is a library-centric control number tied to catalog records. A single book may have both an ISBN and an LCCN, each serving different purposes: the ISBN supports commercial distribution and inventory, whereas the LCCN supports library cataloging, authority control, and record management. Because of its longevity, stability, and integration into national and international cataloging practices, the LCCN remains a foundational element of bibliographic control in the United States and an important reference point for libraries worldwide.",
+  "primary_sources": [
+    {
+      "title": "Structure of the LC Control Number",
+      "author": "Library of Congress, Network Development and MARC Standards Office",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This official document describes the historical development and technical structure of the Library of Congress Control Number, including its elements (prefix, year, serial number), the transition from two-digit to four-digit years in 2001, and its representation in MARC records.",
+      "notes": "Primary technical specification for LCCN structure and usage in MARC, used by catalogers to understand and implement control numbers."
+    },
+    {
+      "title": "Descriptive Cataloging Manual: C3. Library of Congress Control Number (LCCN) – Restructuring to Accommodate Century Change",
+      "author": "Library of Congress",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This manual section explains the background of the LCCN, its role in catalog card production and machine-readable records, and the detailed changes made to the LCCN format to handle the transition to the twenty-first century, including the adoption of a four-digit year and the fixed 12-character structure.",
+      "notes": "Provides historical context and cataloging instructions for both the old and new LCCN structures, clarifying how catalogers should input and interpret LCCNs across different time periods."
+    },
+    {
+      "title": "Types of Numbers Found in LC Catalog Records",
+      "author": "Library of Congress",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "An overview document that distinguishes the LCCN from other identifiers found in Library of Congress catalog records, such as classification numbers and standard numbers, and explains the specific function of the LCCN as a control number for catalog records.",
+      "notes": "Useful for understanding the relationship between LCCN and other bibliographic identifiers, and for avoiding confusion between control numbers and classification or standard numbers."
+    },
+    {
+      "title": "LCCN Permalink Service",
+      "author": "Library of Congress",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "A service description that outlines how LCCNs are converted into stable URLs, the scope of records covered, and the intended use of permalinks for citation and long-term access to catalog records.",
+      "notes": "Demonstrates the modern web-based application of LCCNs and their role in persistent linking to bibliographic records."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The LCCN is the same as the Library of Congress Classification (LCC) and tells you where a book is shelved.",
+      "reality": "The LCCN is a control number for catalog records, not a classification code. It does not indicate the subject of the work or its physical location on library shelves. Classification is handled by separate systems such as the Library of Congress Classification, which assigns call numbers based on subject and other factors."
+    },
+    {
+      "myth": "An LCCN is a content-based identifier like an ISBN and uniquely identifies a specific edition or physical copy of a book.",
+      "reality": "The LCCN identifies the catalog record created by the Library of Congress, not the commercial manifestation or physical copy. A single work or edition may have an ISBN assigned by the publisher and an LCCN assigned by the Library of Congress, each serving different purposes. The LCCN is tied to the library’s bibliographic control, while the ISBN is used for publishing, sales, and inventory."
+    },
+    {
+      "myth": "If a book has an LCCN, the Library of Congress is guaranteed to own and permanently keep that book.",
+      "reality": "The assignment of an LCCN, including through pre-publication programs, does not guarantee acquisition or retention. It indicates that a control number has been reserved or used for a catalog record, but items may be removed from the collection or never added, and some LCCNs may not correspond to active records in public search tools or permalink services."
+    },
+    {
+      "myth": "The hyphen in an LCCN (between the year and serial number) is mandatory and always appears in the official form of the number.",
+      "reality": "The hyphen is primarily a display convention and is optional. In machine-readable formats and many cataloging contexts, the LCCN is treated as a continuous string of digits (with optional alphabetic prefixes), and modern instructions often advise publishers not to include the hyphen. Catalogers and systems can interpret the year and serial portions without relying on the hyphen."
+    },
+    {
+      "myth": "Older LCCNs without leading zeros or with unusual prefixes are invalid and should not be used in modern catalogs.",
+      "reality": "Earlier forms of LCCNs, including those without leading zeros or with one- to three-character prefixes, remain valid and are still used in retrospective cataloging. Cataloging manuals and MARC documentation provide guidance on how to input and interpret these numbers so that they can coexist with newer, standardized 12-character LCCNs."
+    }
+  ]
+}

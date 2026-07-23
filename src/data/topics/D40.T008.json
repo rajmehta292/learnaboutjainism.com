@@ -1,0 +1,43 @@
+{
+  "overview": "The Jain New Year, commonly observed on the day following Diwali, is known as *Pratipada* or *Veer Nirvana Samvat* New Year. It marks the beginning of the Jain calendrical cycle that commemorates the liberation (*nirvāṇa*) of Bhagavān Mahāvīra. Unlike many South Asian New Year celebrations that emphasize seasonal or agricultural cycles, the Jain New Year is fundamentally a spiritual observance rooted in scriptural chronology and the remembrance of Mahāvīra’s final teachings.\n\nIn both major traditions—Śvetāmbara and Digambara—the New Year is tied to the historical moment when Mahāvīra attained *nirvāṇa* at Pāvā. According to Śvetāmbara tradition, Gautama Gaṇadhara achieved *kevala-jñāna* the following morning, Pratipada, which gives the day special significance as a moment of renewed knowledge and spiritual awakening. Digambara tradition similarly marks the day as the beginning of the *Veer Nirvana Samvat*, though the narrative emphasis differs slightly in commentarial literature.\n\nThe New Year is not a festival of material prosperity or auspicious beginnings in the conventional sense. Instead, it is a day of scriptural study, reflection on the *tattvas* (fundamental principles), and recommitment to ethical conduct. Laypeople often begin the year by reading or listening to the *Kalpa Sūtra*’s Nirvāṇa section, the *Uttarādhyayana Sūtra*, or commentarial summaries of Mahāvīra’s final sermon. Many communities also perform *pratikramaṇa*, visit temples, or engage in charitable acts.\n\nHistorically, the Jain New Year has been used to anchor the chronology of Jain texts, inscriptions, and community records. The *Veer Nirvana Samvat* calendar begins in 527 BCE (Śvetāmbara) or 528 BCE (Digambara), though scholarly debate continues regarding exact historical dating. Modern Jain communities worldwide observe the New Year as a moment of recommitment to nonviolence, truthfulness, restraint, and compassion.",
+  "primary_sources": [
+    {
+      "title": "Kalpa Sūtra (Nirvāṇa Kāṇḍa)",
+      "author": "Traditionally attributed to Bhadrabāhu",
+      "original_text": "तस्स णं भगवओ महावीरस्स पावाय णिव्वाणं भणियं।",
+      "transliteration": "tassaṇaṃ bhagavao mahāvīrassa pāvāya nivvāṇaṃ bhaṇiyaṃ.",
+      "translation": "“Thus was proclaimed the nirvāṇa of the Blessed Mahāvīra at Pāvā.”",
+      "notes": "Śvetāmbara canonical text (Tier A). The Nirvāṇa section is traditionally recited during Diwali and the New Year. It establishes the calendrical anchor for the Jain New Year."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 36",
+      "author": "Canonical Śvetāmbara text",
+      "original_text": "गोयमस्स णं तहा णं केवलं णाणं उवगंतं।",
+      "transliteration": "goyamassaṇaṃ tahāṇaṃ kevalaṃ ñāṇaṃ uvagantaṃ.",
+      "translation": "“Then Gautama attained the perfect knowledge.”",
+      "notes": "This passage is traditionally associated with the morning after Mahāvīra’s nirvāṇa, giving Pratipada its significance. The linkage is interpretive and supported by commentarial tradition (Tier B)."
+    },
+    {
+      "title": "Tiloyapaṇṇatti (selected chronological verses)",
+      "author": "Yativṛṣabha",
+      "original_text": "वीरनिर्वाणसमयाद् आरभ्य संवत्सराः प्रवर्तन्ते।",
+      "transliteration": "vīra-nirvāṇa-samayād ārabhya saṃvatsarāḥ pravartante.",
+      "translation": "“From the moment of Vīra’s nirvāṇa, the years are reckoned.”",
+      "notes": "Digambara text (Tier A/B). Provides early evidence for the use of the Veer Nirvana Samvat calendar."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Jain New Year is simply the same as the Hindu New Year celebrated at Diwali.",
+      "reality": "While the date coincides with Diwali, the Jain New Year is rooted in Mahāvīra’s nirvāṇa and Gautama’s attainment of kevala-jñāna. Its meaning is doctrinal, not seasonal or mythological."
+    },
+    {
+      "myth": "The Jain New Year is focused on prosperity, wealth, and auspicious beginnings.",
+      "reality": "Jain tradition emphasizes scriptural study, ethical renewal, and remembrance of Mahāvīra’s final teachings. Material prosperity is not a doctrinal focus."
+    },
+    {
+      "myth": "All Jain traditions calculate the New Year using the same historical year for Mahāvīra’s nirvāṇa.",
+      "reality": "Śvetāmbara tradition typically uses 527 BCE, while Digambara tradition often uses 528 BCE. Scholarly debate continues, and exact historical dating remains uncertain."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Tivihar (also spelled *Ti-vihāra*, *Tivihāra*, or *Trivihāra*) is a term found in Jain monastic and lay literature referring to a structured mode of movement, residence, or conduct involving three distinct components. The word is built from the Sanskrit/Prakrit root *vihāra* (dwelling, movement, or mode of conduct) with the prefix *ti-/tri-* indicating ‘three’. In Jain usage, *vihāra* does not merely mean physical travel; it encompasses the ethical, spatial, and ritual conditions under which movement or residence is permitted.\n\nAcross Śvetāmbara and Digambara sources, Tivihar appears in discussions of monastic discipline, especially in relation to *vihāra-dharma* (rules of movement), *cāritra* (conduct), and the constraints placed on ascetics to avoid harm to living beings. In some texts, Tivihar refers to three permissible modes of movement; in others, it refers to three types of residence or threefold conduct associated with movement. Because the term is not universally standardized across sects or manuscripts, scholars treat Tivihar as a technical term whose meaning must be derived from the specific textual context.\n\nIn Śvetāmbara Mūrtipūjaka manuscripts, Tivihar is often linked to the triad of (1) *vihāra* (movement), (2) *śayyā* (resting place), and (3) *āsana* (seating place), forming a threefold discipline governing how an ascetic transitions between these states without causing harm. In Digambara monastic codes, Tivihar is sometimes used to describe three permissible forms of movement: (1) *samiti-vihāra* (movement with carefulness), (2) *paryaṅka-vihāra* (movement within a limited area), and (3) *sthāna-vihāra* (movement between designated places).\n\nIn lay contexts, Tivihar occasionally appears in didactic literature describing the threefold ethical movement of a householder: (1) movement guided by nonviolence, (2) movement guided by truthfulness, and (3) movement guided by restraint. These usages are interpretive expansions rather than strict canonical definitions.\n\nBecause Tivihar is a technical term with variant meanings, modern scholarship emphasizes careful source comparison. Manuscript evidence shows that the term’s meaning evolved across centuries, reflecting changes in monastic mobility, settlement patterns, and the codification of ascetic rules. Tivihar thus offers insight into how Jain communities conceptualized ethical movement and spatial discipline.",
+  "primary_sources": [
+    {
+      "title": "Ācāranga Sūtra (Śvetāmbara)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "“ti-vihāraṃ carejja”",
+      "transliteration": "ti-vihāraṃ carejja",
+      "translation": "“One should practice the threefold mode of movement.”",
+      "notes": "Appears in some Śvetāmbara recensions. Commentaries explain the triad as careful movement, careful seating, and careful resting. Manuscript variation exists; not all editions include this exact phrasing."
+    },
+    {
+      "title": "Bhagavatī Sūtra (Śvetāmbara)",
+      "author": "Śvetāmbara canonical redactors",
+      "original_text": "References to tri-fold movement rules appear in discussions of monastic conduct.",
+      "transliteration": "N/A (passage varies by edition)",
+      "translation": "Describes three regulated modes of movement for ascetics, though the term Tivihar is not always explicit.",
+      "notes": "Used by commentators to support the interpretation of Tivihar as a threefold discipline of movement."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "“trividho vihāraḥ samiti-paryaṅka-sthāna-bhedāt”",
+      "transliteration": "trividho vihāraḥ samiti-paryaṅka-sthāna-bhedāt",
+      "translation": "“Movement is threefold due to the distinctions of careful movement, movement within a limited area, and movement between designated places.”",
+      "notes": "This passage is frequently cited by Digambara commentators to explain Tivihar as a triad of permissible monastic movement."
+    },
+    {
+      "title": "Pravacanasāra (Digambara)",
+      "author": "Kundakunda",
+      "original_text": "Indirect references to tri-fold conduct related to movement.",
+      "transliteration": "N/A",
+      "translation": "Discusses threefold carefulness in movement, though the term Tivihar is not explicitly used.",
+      "notes": "Commentaries link this tri-fold carefulness to the Tivihar concept."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Tivihar is a single, universally defined Jain ritual practiced identically across all sects.",
+      "reality": "Tivihar is a technical term whose meaning varies across Śvetāmbara and Digambara sources. It may refer to threefold movement, threefold residence, or threefold conduct depending on the text."
+    },
+    {
+      "myth": "Tivihar is a lay ritual performed during festivals.",
+      "reality": "Tivihar primarily appears in monastic disciplinary literature. Lay interpretations exist but are secondary expansions rather than canonical definitions."
+    },
+    {
+      "myth": "Tivihar always refers to physical travel.",
+      "reality": "In Jain usage, *vihāra* can mean movement, residence, or conduct. Tivihar may refer to ethical or spatial discipline rather than literal travel."
+    }
+  ]
+}

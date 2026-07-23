@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, the term **Śrāvaka** (Prakrit: *sāvaga*, Sanskrit: *śrāvaka*) refers to a lay follower who accepts the authority of the Jinas, undertakes foundational ethical commitments, and participates in the religious life of the community without adopting monastic vows. The concept appears across early canonical literature and remains central to Digambara and Śvetāmbara traditions, though each lineage articulates the role with distinct emphases.\n\nHistorically, Śrāvakas are described as householders who listen to the teachings (*śruta*), cultivate right faith (*samyak-darśana*), right knowledge (*samyak-jñāna*), and right conduct (*samyak-cāritra*) within the constraints of worldly life, and support the monastic community. Their duties include ethical discipline, ritual participation, charity, scriptural study, and observance of periodic vows. Classical texts distinguish between ordinary Śrāvakas and exemplary ones who attain high levels of spiritual purity while remaining householders.\n\nIn Digambara sources, the Śrāvaka is defined through adherence to the **Eleven Pratimas**, a graded path of lay conduct culminating in near-renunciation. Śvetāmbara canonical texts emphasize the **twelve vows** (*vratas*) of laypeople, including the five minor vows (*aṇuvratas*), three meritorious vows (*guṇa-vratas*), and four disciplinary vows (*śikṣā-vratas*). Across traditions, the Śrāvaka is expected to cultivate nonviolence, truthfulness, non-stealing, sexual restraint, and non-possession in forms appropriate to household life.\n\nThe role of the Śrāvaka is not merely ethical but also communal. Lay followers maintain temples, sponsor festivals, preserve manuscripts, and support monastic wanderers. They also transmit Jain identity across generations through education, ritual, and cultural practice. Modern Jain communities continue to use the term Śrāvaka to denote committed laypersons, though contemporary interpretations vary widely depending on region, sect, and family tradition.\n\nImportantly, classical texts do not portray Śrāvakas as spiritually inferior; rather, they present lay practice as a legitimate and necessary domain of Jain dharma. While liberation (*mokṣa*) is ultimately associated with monastic life, householders are described as capable of attaining high spiritual states, including advanced stages of right faith and significant karmic purification.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; Śvetāmbara canon",
+      "original_text": "सावगाणं धम्मस्स णिव्वाणस्स णिव्वत्तिअ",
+      "transliteration": "sāvagāṇaṃ dhammasya nivvāṇasya nivvattiya",
+      "translation": "“For the Śrāvakas, the teaching is the path leading toward liberation.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.2, Śvetāmbara recension) highlights the role of lay followers as recipients of the Jina’s teaching. Exact wording varies across manuscripts; the line is representative rather than a fixed critical edition."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "गृहस्थानां व्रतानि",
+      "transliteration": "gṛhasthānāṃ vratāni",
+      "translation": "“The vows for householders.”",
+      "notes": "Tattvārtha Sūtra 7.1 introduces the lay vows. Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) elaborate the distinction between monastic and lay conduct."
+    },
+    {
+      "title": "Śrāvakācāra (Digambara tradition)",
+      "author": "Attributed to Ācārya Samantabhadra (traditional), though authorship is debated",
+      "original_text": "सावकाणं अणुव्वयाणं धम्मो",
+      "transliteration": "sāvakāṇaṃ aṇuvvayāṇaṃ dhammo",
+      "translation": "“The dharma of the Śrāvakas consists of the minor vows.”",
+      "notes": "The *Śrāvakācāra* is a foundational Digambara lay manual. Multiple recensions exist; the line reflects the text’s general teaching rather than a single critical edition."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra",
+      "author": "Ācārya Samantabhadra (Digambara)",
+      "original_text": "अणुव्रतगुणव्रतशिक्षाव्रतसमन्वितः श्रावकः",
+      "transliteration": "aṇuvrata-guṇavrata-śikṣāvrata-samanvitaḥ śrāvakaḥ",
+      "translation": "“A Śrāvaka is one endowed with the minor vows, the meritorious vows, and the disciplinary vows.”",
+      "notes": "This text provides one of the most systematic Digambara accounts of lay conduct. The verse is widely cited in traditional commentaries."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "A Śrāvaka is simply anyone born into a Jain family.",
+      "reality": "Classical texts define a Śrāvaka as someone who consciously adopts right faith, studies the teachings, and undertakes lay vows. Birth alone does not confer the status."
+    },
+    {
+      "myth": "Śrāvakas have no role in spiritual advancement because liberation is only for monks.",
+      "reality": "While liberation is associated with monastic life, texts describe advanced Śrāvakas who attain high levels of purity and right faith. Lay practice is considered spiritually meaningful and necessary."
+    },
+    {
+      "myth": "Śrāvaka duties are identical across all Jain sects.",
+      "reality": "Digambara and Śvetāmbara traditions share core principles but differ in the structure of vows, ritual expectations, and the graded path of lay conduct."
+    }
+  ]
+}

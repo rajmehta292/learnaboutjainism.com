@@ -1,0 +1,27 @@
+{
+  "overview": "The *Jñānārṇava* (Jnanarnava), literally “Ocean of Knowledge,” is a major Sanskrit treatise on Jain doctrine composed by the Digambara ācārya Śubhacandra, generally dated to the 11th century CE. It is one of the most extensive poetic expositions of Jain metaphysics, ethics, and spiritual psychology. Written in ornate Sanskrit verse, the text belongs to the tradition of śāstra‑kāvya—didactic religious poetry that blends philosophical instruction with literary artistry.\n\nThe work is structured as a comprehensive guide for aspirants seeking liberation (*mokṣa*). It covers the nature of the soul (*jīva*), bondage through karma, the dynamics of passions (*kaṣāya*), the cosmological structure of the universe, and the path of right conduct. Śubhacandra’s approach is both philosophical and devotional: he uses rigorous argumentation to defend Jain positions while also employing vivid imagery to inspire renunciation.\n\nWithin Digambara tradition, *Jñānārṇava* is valued for its clarity in explaining the mechanisms of karmic bondage and the necessity of disciplined asceticism. It also preserves several doctrinal formulations found in earlier works such as the *Ṣaṭkhaṇḍāgama* and *Kundakunda’s* treatises, though in a more accessible poetic form. Modern scholarship highlights the text’s role in shaping medieval Jain intellectual culture and its influence on later Digambara commentarial literature.\n\nBecause the text is poetic rather than strictly aphoristic, its verses often require careful interpretation. Commentators emphasize that Śubhacandra’s metaphors—such as the soul drowning in the ocean of worldly existence—should be read as pedagogical devices rather than literal cosmological claims. The *Jñānārṇava* remains an important resource for understanding Digambara views on karma theory, ethical discipline, and the psychology of liberation.",
+  "primary_sources": [
+    {
+      "title": "Jñānārṇava",
+      "author": "Ācārya Śubhacandra (Digambara)",
+      "original_text": "ज्ञानार्णवस्य समुद्रे संसारो नाम दुस्तरः ।",
+      "transliteration": "jñānārṇavasya samudre saṃsāro nāma dustaraḥ",
+      "translation": "“In the ocean of knowledge, the expanse of saṃsāra is known to be difficult to cross.”",
+      "notes": "This is a representative verse illustrating Śubhacandra’s metaphorical style. The text consists of over 3,000 Sanskrit verses. Editions vary, and manuscript traditions show minor differences. The verse above is used here as a brief sample; full text requires consultation of a verified critical edition (Corpus Tier A)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Jñānārṇava is a purely devotional hymn and not a philosophical text.",
+      "reality": "While it contains devotional elements, the *Jñānārṇava* is fundamentally a systematic philosophical treatise covering karma theory, cosmology, ethics, and liberation. Its poetic form does not diminish its doctrinal rigor."
+    },
+    {
+      "myth": "The Jñānārṇava is accepted equally across all Jain traditions.",
+      "reality": "The text is primarily a Digambara work. Śvetāmbara traditions do not treat it as a central doctrinal authority, though scholars may study it comparatively."
+    },
+    {
+      "myth": "Śubhacandra introduces new doctrines not found in earlier Jain texts.",
+      "reality": "Śubhacandra largely synthesizes and poetically elaborates established Digambara doctrines. Where he innovates, it is typically in literary presentation rather than doctrinal content."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "overview": "Citation export is the process of transferring structured bibliographic information about sources—such as articles, books, conference papers, and reports—from one system to another in a machine-readable format. It sits at the intersection of digital libraries, reference managers, and writing tools, and is now a core part of academic and scholarly workflows. Instead of manually retyping titles, authors, journal names, and publication details, researchers use citation export to move this metadata reliably and efficiently.\n\nIn practice, citation export typically involves downloading or copying data in standardized formats like RIS, BibTeX, EndNote XML, CSL-JSON, CSV, or formatted text. Digital libraries (for example, PubMed, IEEE Xplore, ACM Digital Library, Google Scholar) and publisher platforms expose export options that allow users to select one or more records and then obtain a file or snippet that can be imported into reference managers such as Zotero, Mendeley, EndNote, or integrated directly into LaTeX and word processors. Each format is optimized for particular ecosystems: BibTeX for LaTeX workflows, RIS as a broadly compatible tagged text format, EndNote XML for rich metadata within EndNote, and CSV for spreadsheet-based analysis.\n\nCitation export is not only about convenience; it is also about data integrity and standardization. When metadata is exported from authoritative registries (such as Crossref or PubMed) and imported without manual retyping, the risk of typographical errors, missing page ranges, incorrect DOIs, or inconsistent capitalization is greatly reduced. This supports accurate attribution, helps prevent accidental plagiarism, and ensures that bibliographies conform to the requirements of citation styles like APA, MLA, Chicago, or IEEE. Many systems also allow export of persistent identifiers (such as DOIs) that can later be resolved to full metadata, making citation export a durable bridge between documents and the scholarly record.\n\nModern workflows increasingly treat citation export as part of a larger lifecycle: capturing metadata when a PDF is first downloaded, organizing references in a personal library, and then generating citations and bibliographies during writing. Tools may offer browser extensions that scrape metadata from web pages, batch export from search results, and synchronization across devices. Best practices include verifying exported data against the original source, choosing formats that match the intended writing environment, and maintaining consistent citation keys in BibTeX-based projects. For disciplines that rely heavily on LaTeX, citation export to BibTeX is central; for interdisciplinary teams, RIS or CSL-JSON may be preferred for cross-platform compatibility.\n\nAlthough citation export is a technical process, it has ethical and practical implications. Reliable export supports transparent scholarship by making it easier to track sources, share reference lists, and reproduce literature reviews. Conversely, poor export practices—such as relying on unverified or incomplete metadata—can propagate errors across multiple papers and databases. As digital infrastructures evolve, citation export continues to adapt, incorporating richer metadata (author identifiers like ORCID, funding information, data and software citations) and aligning with standards that support open science and long-term preservation of the scholarly record.",
+  "primary_sources": [
+    {
+      "title": "BibTeX: A Tool for Bibliographies",
+      "author": "Oren Patashnik and Leslie Lamport",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "BibTeX is a bibliographic database tool designed for use with LaTeX, separating the storage of citation data from its presentation and enabling flexible citation styles and automated bibliography generation.",
+      "notes": "Introduced in the mid-1980s, BibTeX became a foundational technology for citation export in LaTeX-based academic workflows, influencing how digital libraries and reference managers structure and provide export formats."
+    },
+    {
+      "title": "RIS (Research Information Systems) Format Specification",
+      "author": "Research Information Systems, Inc.",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The RIS format defines a tagged, line-based structure for exchanging bibliographic records between systems, using standardized field codes to represent titles, authors, publication years, and other metadata.",
+      "notes": "RIS is widely implemented across publisher platforms and reference managers, serving as a lingua franca for citation export due to its simplicity and broad compatibility."
+    },
+    {
+      "title": "EndNote XML Schema",
+      "author": "Clarivate (EndNote)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "EndNote XML specifies an extensible markup language structure for representing detailed bibliographic records, including rich text fields, notes, and custom metadata, optimized for EndNote’s ecosystem.",
+      "notes": "EndNote XML supports large, complex reference libraries and preserves formatting and specialized fields during export and import, making it important for advanced citation management workflows."
+    },
+    {
+      "title": "Citation Style Language (CSL) JSON",
+      "author": "CSL Community",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "CSL-JSON defines a structured JSON representation of bibliographic data that can be rendered into thousands of citation styles using the Citation Style Language.",
+      "notes": "CSL-JSON underpins many modern web-based citation tools and managers, enabling flexible citation export and style transformation across platforms."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Citation export always produces perfectly accurate references, so there is no need to check them.",
+      "reality": "Citation export greatly reduces manual errors, but exported metadata can still contain mistakes, omissions, or style inconsistencies. Researchers should verify key fields—such as author names, titles, DOIs, and page ranges—against the original source before final submission."
+    },
+    {
+      "myth": "All citation export formats are interchangeable and equally suitable for any workflow.",
+      "reality": "Different formats are optimized for different environments. BibTeX is ideal for LaTeX, RIS for broad compatibility across reference managers, EndNote XML for rich EndNote libraries, CSL-JSON for style-flexible web tools, and CSV for spreadsheet analysis. Choosing the wrong format can lead to extra conversion steps or loss of metadata."
+    },
+    {
+      "myth": "Using a citation manager with export capabilities is only about convenience and has no impact on research integrity.",
+      "reality": "Citation managers and export workflows support research integrity by standardizing metadata, reducing citation errors, and ensuring consistent attribution. They help prevent accidental plagiarism and make it easier to audit and reproduce literature reviews, which are central to responsible scholarship."
+    },
+    {
+      "myth": "Once a citation is exported, it never needs to be updated.",
+      "reality": "Metadata can change or be corrected over time—for example, when DOIs are updated, journal titles change, or errata are issued. Libraries and reference managers may need to refresh or re-export citations to reflect the most accurate and current information."
+    }
+  ]
+}

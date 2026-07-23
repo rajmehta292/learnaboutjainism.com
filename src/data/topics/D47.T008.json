@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain studies, the term “narrative” refers to the broad category of stories, accounts, and illustrative episodes used across Śvetāmbara, Digambara, and other Jain traditions to convey ethical principles, cosmological structures, karmic mechanics, and the lived examples of tīrthaṅkaras, śrāvakas, and śrāvikās. Jain narratives serve as pedagogical instruments rather than doctrinal authorities; they illuminate the consequences of actions, the workings of karma, and the cultivation of virtues such as ahiṃsā, satya, and aparigraha.\n\nNarratives appear in early canonical literature (Āgamas), later commentarial expansions, medieval story collections, and regional vernacular retellings. They range from brief exempla embedded within doctrinal texts to elaborate biographies of tīrthaṅkaras and moral tales about laypeople. Across traditions, narrative is used to make abstract philosophical concepts—such as guṇasthāna progression, karmic bondage, and cosmological geography—accessible to general audiences.\n\nBecause Jainism emphasizes non-absolutism (anekāntavāda), narrative traditions often preserve multiple versions of the same story. These variations reflect regional manuscript lineages, sectarian redactions, and differing pedagogical aims. Scholars treat narrative as a dynamic genre: not fixed scripture, but a living medium through which communities transmit values, negotiate identity, and interpret canonical teachings.\n\nIn modern Jain education, narratives continue to play a central role. Youth curricula, temple discourses, and community publications frequently rely on stories to introduce foundational ethics. However, academic study distinguishes between primary canonical sources (Tier A), authoritative commentaries (Tier B), and later devotional or didactic literature (Tier D–F). This separation ensures clarity about what constitutes scriptural authority versus cultural storytelling.",
+  "primary_sources": [
+    {
+      "title": "Uttarādhyayana-sūtra 1.1 (Śvetāmbara)",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "ṇaṁ se bhikkhū aṇuśāsati—‘jāva jīvaṁ, jāva jīvaṁ, dhammaṁ carejja’",
+      "transliteration": "ṇaṃ se bhikkhū anuśāsati — jāva jīvaṃ, jāva jīvaṃ, dhammaṃ carejja",
+      "translation": "He instructs the monks: “As long as one lives, as long as one lives, one should practice the teaching.”",
+      "notes": "This passage introduces a narrative frame in which Mahāvīra addresses disciples. The text frequently embeds short illustrative stories to clarify ethical conduct. Edition: Jacobi (Jaina Sūtras, 1895)."
+    },
+    {
+      "title": "Kalpa-sūtra (Śvetāmbara Mūrtipūjaka)",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "tassa kāle Vaddhamāṇo nāma kumāro jāto",
+      "transliteration": "tassa kāle Vardhamāṇo nāma kumāro jāto",
+      "translation": "At that time, a boy named Vardhamāna was born.",
+      "notes": "The Kalpa-sūtra provides narrative biographies of Ṛṣabha, Mahāvīra, and other tīrthaṅkaras. These accounts are devotional and biographical, not doctrinal treatises. Edition: Stevenson (1929)."
+    },
+    {
+      "title": "Ādi-purāṇa (Digambara)",
+      "author": "Jinasena",
+      "original_text": "ṛṣabhasya caritaṁ puṇyaṁ sarvalokahitāya",
+      "transliteration": "ṛṣabhasya caritaṃ puṇyaṃ sarvalokahitāya",
+      "translation": "The sacred life-story of Ṛṣabha is for the welfare of all beings.",
+      "notes": "A major Digambara narrative text elaborating the life of Ṛṣabha. It blends cosmology, ethics, and royal narratives. Edition: P. S. Jaini (1977)."
+    },
+    {
+      "title": "Hemacandra’s Triṣaṣṭi-śalākā-puruṣa-caritra (Śvetāmbara Mūrtipūjaka)",
+      "author": "Hemacandra",
+      "original_text": "śalākā-puruṣāṇāṁ caritraṁ kathayāmi",
+      "transliteration": "śalākā-puruṣāṇāṃ caritraṃ kathayāmi",
+      "translation": "I narrate the life-stories of the illustrious persons.",
+      "notes": "A comprehensive medieval narrative compendium covering tīrthaṅkaras, cakravartins, and other exemplary figures. Edition: Johnson (1931–1962)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain narratives are canonical scripture.",
+      "reality": "Only the Āgamas and select early texts are canonical. Many popular stories come from later purāṇas, commentaries, or regional literature and do not carry scriptural authority."
+    },
+    {
+      "myth": "Narratives provide literal historical accounts of tīrthaṅkaras and cosmic events.",
+      "reality": "Jain narrative literature blends symbolic, cosmological, and didactic elements. Scholars treat many episodes as moral exempla rather than empirical history."
+    },
+    {
+      "myth": "Different sects share identical narrative traditions.",
+      "reality": "Digambara and Śvetāmbara traditions preserve distinct narrative lineages, including variations in biographies, cosmological details, and moral framing."
+    }
+  ]
+}

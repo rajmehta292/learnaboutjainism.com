@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain philosophical and ethical literature, **verbal action** (vāṅmaya karma / bhāṣā‑yoga) refers to all forms of speech—spoken, recited, commanded, or implied—that bind karma when driven by passions (kaṣāyas). Jainism classifies human activity into three broad yogas: bodily (kāya‑yoga), verbal (vāṅ‑yoga), and mental (mano‑yoga). Verbal action is therefore one of the fundamental channels through which intention manifests and karmic influx (āsrava) occurs.\n\nAcross Śvetāmbara and Digambara traditions, verbal action is treated as ethically significant because speech can harm, deceive, or disturb others even without physical violence. The canonical texts repeatedly emphasize that speech is a powerful medium of both ahiṃsā and hiṃsā. Verbal action includes not only overt statements but also subtle forms such as gossip, harshness, falsehood, boasting, and speech motivated by attachment or aversion.\n\nIn the broader Jain moral framework, verbal action is evaluated through the **five vows** (vratas), especially satya (truthfulness) and ahiṃsā (non‑harm). The layperson’s vow of satya explicitly prohibits speech that harms living beings, misleads others, or distorts reality. Monastic codes go further, regulating tone, volume, intention, and even the frequency of speech. The karmic consequences of verbal action are described in detail in the karma theory, where certain types of speech bind specific karmas such as **knowledge‑obscuring karma (jñānāvaraṇa)**, **perception‑obscuring karma (darśanāvaraṇa)**, and **deluding karma (mohanīya)**.\n\nIn practice, Jain traditions encourage mindful speech: speaking only when necessary, avoiding speech that inflames passions, and cultivating silence (mauna) as a discipline. Verbal action is thus not merely communication but a moral and spiritual activity that shapes one’s karmic trajectory and progress through the guṇasthānas (stages of spiritual development).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (shared across traditions)",
+      "original_text": "वाङ्मययोगः",
+      "transliteration": "vāṅmaya‑yogaḥ",
+      "translation": "“Verbal activity (is one of the yogas).”",
+      "notes": "Tattvārtha Sūtra 6.1 lists verbal action as one of the three yogas through which karmic influx occurs. Commentaries (B: Pūjyapāda’s Sarvārthasiddhi; Siddhasena’s Tattvārtha‑bhāṣya) explain that verbal action includes both internal intention to speak and external articulation."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "ण वि भासे, ण वि भासे—अहिंसा सव्वभूएसु।",
+      "transliteration": "ṇa vi bhāse, ṇa vi bhāse—ahiṃsā savvabhūesu.",
+      "translation": "“Do not speak, do not speak—non‑harm toward all living beings.”",
+      "notes": "This passage emphasizes restraint in speech as part of ahiṃsā. The text warns that careless or passionate speech can cause harm and bind karma."
+    },
+    {
+      "title": "Daśavaikālika Sūtra (Śvetāmbara)",
+      "author": "Traditional attribution to Śivārya",
+      "original_text": "सच्चं भणेज्जा, नो असच्चं।",
+      "transliteration": "sacchaṃ bhaṇejjā, no asacchaṃ.",
+      "translation": "“Speak what is true, not what is untrue.”",
+      "notes": "A foundational injunction for lay and monastic conduct. Commentaries highlight that truth must also be non‑harmful; harmful truth is still considered karmically binding."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "भाषायोगाद् भावनया चास्रवः।",
+      "transliteration": "bhāṣā‑yogād bhāvanayā cāsravaḥ.",
+      "translation": "“From verbal activity and from intention, there is karmic influx.”",
+      "notes": "The Digambara canonical text explains that speech driven by passions is a direct cause of karmic bondage. The Dhavalā commentary (B) elaborates on categories of harmful speech."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Verbal action in Jainism refers only to lying or telling untruths.",
+      "reality": "Primary texts define verbal action broadly: harsh speech, gossip, boasting, flattery, speech driven by anger or pride, and even unnecessary talking can bind karma when motivated by passions."
+    },
+    {
+      "myth": "Silence (mauna) is required for all Jains.",
+      "reality": "Silence is a monastic discipline and a recommended practice for laypeople, not an absolute requirement. The goal is mindful, non‑harmful speech, not total silence."
+    },
+    {
+      "myth": "Speech has no karmic effect unless it physically harms someone.",
+      "reality": "Jain karma theory holds that verbal action binds karma through intention and passion, even if no physical harm occurs. Emotional harm, deception, or agitation are considered forms of hiṃsā."
+    }
+  ]
+}

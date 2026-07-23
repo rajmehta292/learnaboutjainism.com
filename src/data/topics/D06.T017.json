@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical and ritual literature, **Nāma** (Sanskrit/Prakrit: *nāma*, meaning “name,” “designation,” or “identity‑mark”) is a multivalent term whose meaning depends on context. In everyday usage within Jain communities, *nāma* refers simply to a personal name or the act of naming. In doctrinal and technical contexts, however, *Nāma* is most prominently known as **Nāma‑karma**, one of the eight primary categories of karmic matter (*mūla‑karma*) described in both Śvetāmbara and Digambara traditions.\n\nAs a karmic category, Nāma‑karma determines the **physical form, bodily attributes, and structural characteristics** of a living being. It is not “name” in the linguistic sense, but rather the karmic forces that shape embodiment. Classical Jain texts describe 93 subdivisions (*pradeśas*) of Nāma‑karma, including determinants of species, bodily configuration, limbs, color, odor, and other physical features. These karmas arise from actions rooted in passions, violence, deceit, and attachment, and they bind to the soul until destroyed through right conduct and meditative purification.\n\nIn ritual contexts, *nāma* may also appear in **stotras**, **prayers**, and **lists of epithets** for Jinas, where it refers to the “name” or “title” of a Tīrthaṅkara. This usage is linguistic rather than karmic. The distinction between these senses is essential: Nāma‑karma is a technical doctrinal category, whereas *nāma* in devotional literature refers to reverential naming.\n\nAcross Jain traditions, Nāma‑karma is treated as a foundational concept in cosmology, karma theory, and the study of the **guṇasthānas** (stages of spiritual development). Its interpretation is consistent across Digambara and Śvetāmbara lineages, though the enumeration of subtypes may vary slightly depending on manuscript tradition and commentary. Modern scholarship emphasizes that Nāma‑karma is not fatalistic; rather, it is one part of a complex karmic system in which ethical discipline and right knowledge can transform future embodiment.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "नामकर्म",
+      "transliteration": "nāma‑karma",
+      "translation": "“The Nāma‑karma determines the body and its characteristics.” (paraphrase of TS 8.13)",
+      "notes": "The Tattvārtha Sūtra (Tier A) provides the most concise canonical definition of Nāma‑karma. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Tier B) elaborate the 93 subtypes, including species‑determining karma (*jāti‑nāma‑karma*) and body‑determining karma (*śarīra‑nāma‑karma*)."
+    },
+    {
+      "title": "Gommatasāra (Karmakāṇḍa)",
+      "author": "Nemicandra Siddhānta Cakravartin",
+      "original_text": "णामकम्म",
+      "transliteration": "ṇāma‑kamma",
+      "translation": "“Nāma‑karma is that which causes the soul to obtain its bodily form.” (paraphrase of GK 389–392)",
+      "notes": "A Digambara technical treatise (Tier A/B) offering detailed enumeration of Nāma‑karma’s subdivisions. Nemicandra’s analysis is central to Digambara karma theory."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "णामं",
+      "transliteration": "ṇāmaṃ",
+      "translation": "“Name is a conventional designation.” (paraphrase of US 28.15)",
+      "notes": "Here *nāma* is used in the linguistic sense, illustrating the non‑karmic meaning of the term. This passage is often cited to show the distinction between conventional naming and karmic Nāma‑karma."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Nāma‑karma determines a person’s social name, caste name, or family identity.",
+      "reality": "Nāma‑karma has nothing to do with linguistic naming or social identity. It refers strictly to karmic forces shaping physical embodiment, such as species, bodily structure, and sensory attributes."
+    },
+    {
+      "myth": "Nāma‑karma is fatalistic and cannot be changed.",
+      "reality": "Jain doctrine states that all karmas, including Nāma‑karma, can be weakened, transformed, or destroyed through right conduct, meditation, and the progression through the guṇasthānas."
+    },
+    {
+      "myth": "Nāma‑karma is interpreted differently by Digambara and Śvetāmbara traditions.",
+      "reality": "Both traditions agree on the core definition and function of Nāma‑karma. Differences appear only in the enumeration or naming of subtypes due to manuscript and commentary variations."
+    }
+  ]
+}

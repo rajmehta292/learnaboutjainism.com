@@ -1,0 +1,43 @@
+{
+  "overview": "“Identity through change” is a central philosophical concern in Jainism, explored through the doctrines of *anekāntavāda* (many‑sidedness), *pariṇāma* (momentary modification), and the metaphysics of *dravya* (substance) and *guṇa/paryāya* (qualities and modes). Jain thinkers argue that all entities—souls and non‑souls—possess a persistent underlying substance (*dravya*) that remains continuous, while simultaneously undergoing ceaseless change in their modes (*paryāya*). This dual structure allows Jainism to affirm both permanence and impermanence without contradiction.\n\nIn Jain ontology, a substance is defined as that which persists through its transformations. A soul (*jīva*) retains its essential qualities—consciousness, energy, and the capacity for knowledge—even as its experiential states shift due to karmic influx, passions, and ethical conduct. This continuity-through-change is not static; rather, it is dynamic, shaped by the karmic processes that bind and obscure the soul’s innate capacities. Liberation (*mokṣa*) is understood as the final transformation in which all obscuring karmas are shed, revealing the soul’s pure identity.\n\nThe doctrine of *anekāntavāda* further refines this view by insisting that identity cannot be captured from a single perspective. Something may be permanent in one respect (its substance) and impermanent in another (its modes). Jain philosophers such as Kundakunda and Umāsvāti emphasize that failing to distinguish these layers leads to philosophical error. Thus, identity is neither a fixed essence nor a mere flux; it is a structured continuity that accommodates real change.\n\nThis framework has ethical implications for lay and monastic life. Recognizing that one’s identity evolves through actions encourages responsibility, nonviolence, and self‑discipline. At the same time, acknowledging the soul’s enduring nature provides a foundation for long-term spiritual aspiration. Modern Jain scholarship often uses this doctrine to engage with contemporary discussions on personal identity, psychological change, and moral development, while remaining grounded in classical sources.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "द्रव्यगुणपर्यायोऽस्ति",
+      "transliteration": "dravya-guṇa-paryāyo'sti",
+      "translation": "A substance exists with its qualities and modes.",
+      "notes": "Tattvārtha Sūtra 5.37 (Tier A). This aphorism establishes the foundational triad of substance, qualities, and modes, forming the basis for Jain explanations of continuity and change."
+    },
+    {
+      "title": "Pañcāstikāya",
+      "author": "Kundakunda",
+      "original_text": "दव्वं णिअणुगुणपरिणामि",
+      "transliteration": "davvaṃ ṇiaṇuguṇapariṇāmi",
+      "translation": "A substance undergoes modifications while retaining its intrinsic qualities.",
+      "notes": "Pañcāstikāya 8 (Tier A/B). Kundakunda clarifies that change occurs at the level of modes, not at the level of essential qualities."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Kundakunda",
+      "original_text": "जोगं जोगं परिणामं, दव्वस्स अव्विण्णं",
+      "transliteration": "jogaṃ jogaṃ pariṇāmaṃ, davvassa avviṇṇaṃ",
+      "translation": "Each moment is a new modification, yet the substance remains undivided.",
+      "notes": "Samayasāra gāthā 62 (Tier A/B). This passage highlights momentariness of modes while affirming the unity of the underlying substance."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that everything is completely permanent and unchanging.",
+      "reality": "Jain ontology asserts that substances are permanent in their existence but constantly changing in their modes. Permanence and change coexist without contradiction."
+    },
+    {
+      "myth": "Identity in Jainism is fixed and unaffected by karma or conduct.",
+      "reality": "The soul’s essential qualities persist, but its experiential identity—knowledge, perception, emotional states—changes continuously due to karmic processes and ethical actions."
+    },
+    {
+      "myth": "Anekāntavāda means that all perspectives are equally true.",
+      "reality": "Anekāntavāda states that truth is many‑sided, but perspectives must be grounded in valid ontological distinctions. Some views are partial, others erroneous, and only a synthesis captures the full structure of identity through change."
+    }
+  ]
+}

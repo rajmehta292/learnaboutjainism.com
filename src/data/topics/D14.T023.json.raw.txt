@@ -1,0 +1,79 @@
+{
+  "overview": "In Jainism, festival observance (parva–utsava) is woven into the rhythm of the religious year as a disciplined practice of self-purification rather than mere social celebration. Important days in the Jain calendar are called parvan, and they are typically marked by fasting, scriptural study, confession, and communal forgiveness, alongside temple worship and family gatherings. The major festivals cluster around the four‑month monsoon period (caturmāsa/chaumāsā), when monks and nuns traditionally remain in one place, allowing sustained contact between ascetics and laity. [[0]](https://www.britannica.com/topic/Jainism/Festivals) [[1]](https://en.wikipedia.org/wiki/Jain_festivals)\n\nMany principal Jain festivals are linked to the five auspicious events (pañca‑kalyāṇaka) in the lives of the Tirthankaras—conception, birth, renunciation, attainment of omniscience, and final liberation (nirvāṇa). Mahāvīra’s birth (Mahāvīr janma‑kalyāṇaka), his nirvāṇa (commemorated at Diwali), and the annual season of repentance and forgiveness (Paryuṣaṇa/Daśalakṣaṇa) are central examples. On these occasions, lay Jains intensify observances such as fasting (upavāsa), temporary adoption of ascetic vows (pauṣadha), collective recitation of texts, and participation in processions and temple rituals, always framed by the core ethical principles of ahiṃsā (non‑violence), aparigraha (non‑possessiveness), and self‑restraint. [[0]](https://www.britannica.com/topic/Jainism/Festivals) [[2]](https://jainworld.jainworld.com/jainbooks/guideline/46.htm)\n\nParyuṣaṇa Parva—eight days for Śvetāmbaras and ten days as Daśalakṣaṇa Parva for Digambaras—is widely regarded as the most important annual observance. It is explained as a time of “abiding” or “coming together,” when Jains turn inward through fasting, listening to scriptural discourses, and performing pratikramaṇa (ritual self‑examination and repentance). Śvetāmbara communities traditionally focus on public reading of the Kalpa Sūtra, while Digambara communities center Daśalakṣaṇa Parva on the Tattvārtha‑sūtra and the ten dharmas (qualities) such as kṣamā (forgiveness) and ārjava (straightforwardness). The final day, Samvatsarī, is marked by the practice of universal forgiveness—seeking and granting pardon for harms committed knowingly or unknowingly during the year. [[0]](https://www.britannica.com/topic/Jainism/Festivals) [[1]](https://en.wikipedia.org/wiki/Jain_festivals) [[2]](https://jainworld.jainworld.com/jainbooks/guideline/46.htm)\n\nMahāvīr Janma Kalyāṇaka, celebrated in the month of Caitra, commemorates the birth of Mahāvīra with temple worship, ceremonial bathing (abhiṣeka) of the Jina image, processions, and discourses on his teachings. Diwali, falling on the new‑moon night of Kārtika, is observed by Jains as the nirvāṇa of Mahāvīra at Pāvāpuri and, in many traditions, as the occasion linked with Gautama Svāmī’s attainment of kevala‑jñāna (omniscience). Lamps symbolize the light of right knowledge rather than worldly prosperity, and the day often marks the beginning of a new religious year, followed by Jñāna Pañcamī, a festival dedicated to honoring scriptures and spiritual knowledge. [[0]](https://www.britannica.com/topic/Jainism/Festivals) [[3]](https://bhaktilipi.in/jain-festivals-diwali-paryushan-mahavir-jayanti/) [[4]](https://jainsattva.com/jain-philosophy/jain-festival-list-celebration-traditions/)\n\nBeyond these widely known observances, Jain calendars include many other festivals such as Navapad Oli and Asṭāhnikā Parva, which emphasize austerity, worship of specific siddha‑cakras (sacred diagrams), and remembrance of scriptural narratives like the story of Śrīpāla and Māyānā. Regional and sectarian variations are significant: Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth communities differ in their use of images and temple rituals, while Digambara communities may emphasize distinct textual recitations and pilgrimage practices. Yet across these differences, the inner orientation of Jain festival observance remains consistent—turning celebration into an opportunity for renunciation, ethical renewal, and deepened awareness of the path to liberation. [[1]](https://en.wikipedia.org/wiki/Jain_festivals) [[2]](https://jainworld.jainworld.com/jainbooks/guideline/46.htm) [[4]](https://jainsattva.com/jain-philosophy/jain-festival-list-celebration-traditions/)",
+  "primary_sources": [
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Traditionally attributed to Bhadrabāhu (Śvetāmbara canon)",
+      "original_text": "तत्थ महावीरस्स जनणं, वेसालियं नगरं, क्षत्रियकुंडे गामे, सिद्धार्थमहासाहुओ च देवानन्दायाए च।",
+      "transliteration": "tattha mahāvīrassa janaṇaṃ, vesāliyaṃ nagaraṃ, kṣatriyakuṇḍe gāme, siddhārthamahāsāhuo ca devānandāyāe ca.",
+      "translation": "There was the birth of Mahāvīra in the city of Vaiśālī, in the village Kṣatriya‑kuṇḍa, to the great lord Siddhārtha and to Devānandā.",
+      "notes": "The Kalpa Sūtra is a key Śvetāmbara canonical text publicly recited during Paryuṣaṇa. Its narrative sections on Mahāvīra’s life form the scriptural basis for Mahāvīr Janma Kalyāṇaka observances, including processions and ritual readings during the festival season."
+    },
+    {
+      "title": "Tattvārtha‑sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "धर्मो दशलक्षणः। क्षमा मार्दव आर्जव शौच सत्य संयम तपो त्याग आकिंचन्य ब्रह्मचर्यम्॥",
+      "transliteration": "dharmo daśalakṣaṇaḥ. kṣamā mārdava ārjava śauca satya saṃyama tapo tyāga ākiñcanya brahmacaryam.",
+      "translation": "Religion has ten characteristics: forgiveness, humility, straightforwardness, purity, truth, self‑restraint, austerity, renunciation, non‑attachment, and chastity.",
+      "notes": "This sutra is central to the Digambara Daśalakṣaṇa Parva, where each day is devoted to one of the ten dharmas. Public exposition of the Tattvārtha‑sūtra during the festival links lay observance with a systematic doctrinal text, emphasizing ethical qualities rather than external festivity."
+    },
+    {
+      "title": "Āvaśyaka‑sūtra (Pratikramaṇa section)",
+      "author": "Canonical Śvetāmbara text; multiple redactional layers",
+      "original_text": "मिच्छा मि दुक्कडं, मिच्छा मि दुक्कडं, मिच्छा मि दुक्कडं। खमेमि सव्वे जिवे, सव्वे जिवा खमंतु मे।",
+      "transliteration": "micchā mi dukkadaṃ, micchā mi dukkadaṃ, micchā mi dukkadaṃ. khamemi savve jive, savve jivā khamaṃtu me.",
+      "translation": "My faults are wrong, my faults are wrong, my faults are wrong. I ask forgiveness of all living beings, may all living beings forgive me.",
+      "notes": "Formulas from the Āvaśyaka‑sūtra underlie the Samvatsarī pratikramaṇa and the practice of universal forgiveness at the close of Paryuṣaṇa. The liturgical language shapes the annual ritual of seeking pardon from all beings and from specific individuals, often expressed in the phrase ‘Micchāmi Dukkaḍaṃ’."
+    },
+    {
+      "title": "Uttarādhyayana‑sūtra",
+      "author": "Canonical Śvetāmbara text",
+      "original_text": "उवसग्गहरं, पवमाणसिरं, जिणवरेण विण्णयं, जिणचंदसूरिं।",
+      "transliteration": "uvasaggaharaṃ, pavamāṇasiraṃ, jiṇavareṇa viṇṇayaṃ, jiṇacandasūriṃ.",
+      "translation": "Destroyer of obstacles, remover of sins, praised by the supreme Jina, (is) Jina‑Candra Sūri.",
+      "notes": "Verses from the Uttarādhyayana‑sūtra and related stotras are frequently recited during festival days, especially in temple congregations. While not tied to a single festival, this text exemplifies how scriptural recitation and praise of the Jinas form a core component of Jain festival observance."
+    },
+    {
+      "title": "Jñāna Pañcamī liturgical verses (various manuscripts)",
+      "author": "Later liturgical compositions; anonymous",
+      "original_text": "ज्ञान पंचमी महापर्वे, वंदामि जिनशासनं। ग्रंथदेव नमस्कारेण, मोक्षमार्ग प्रदर्शकं॥",
+      "transliteration": "jñāna pañcamī mahāparve, vandāmi jinaśāsanaṃ. granthadeva namaskāreṇa, mokṣamārga pradarśakaṃ.",
+      "translation": "On the great festival of Jñāna Pañcamī, I bow to the teaching of the Jina. By saluting the divine scriptures, which show the path to liberation.",
+      "notes": "Although not part of the early canonical corpus, such verses are used in contemporary Jñāna Pañcamī observances, where scriptures are ceremonially displayed and worshipped. They illustrate how later liturgical traditions extend canonical themes—knowledge as a path to liberation—into specific festival practices."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain festivals are primarily social celebrations similar to other Indian religious festivals, focused on enjoyment and prosperity.",
+      "reality": "Jain festival observance is centered on renunciation, ethical self‑examination, fasting, scriptural study, and forgiveness. While there are processions, lamps, and family gatherings, the inner emphasis is on reducing karma and strengthening the path to liberation rather than seeking worldly prosperity or entertainment. [[0]](https://www.britannica.com/topic/Jainism/Festivals) [[2]](https://jainworld.jainworld.com/jainbooks/guideline/46.htm)"
+    },
+    {
+      "myth": "Diwali has the same meaning for Jains as it does in broader Hindu practice, focusing on Lakshmi and material wealth.",
+      "reality": "For Jains, Diwali commemorates Mahāvīra’s nirvāṇa and, in many traditions, Gautama Svāmī’s attainment of omniscience. Lamps symbolize the light of spiritual knowledge, and the day often marks the start of a new religious year, with emphasis on worship, meditation, and charity rather than wealth and auspicious business beginnings. [[0]](https://www.britannica.com/topic/Jainism/Festivals) [[3]](https://bhaktilipi.in/jain-festivals-diwali-paryushan-mahavir-jayanti/) [[4]](https://jainsattva.com/jain-philosophy/jain-festival-list-celebration-traditions/)"
+    },
+    {
+      "myth": "All Jains observe festivals in exactly the same way, with identical rituals and durations across sects.",
+      "reality": "Festival observance varies significantly among Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth traditions. For example, Śvetāmbaras observe Paryuṣaṇa for eight days with Kalpa Sūtra readings, while Digambaras celebrate Daśalakṣaṇa Parva for ten days centered on the Tattvārtha‑sūtra and the ten dharmas. Image‑worship, types of recitation, and local customs also differ, even though the underlying aims of self‑restraint and purification are shared. [[0]](https://www.britannica.com/topic/Jainism/Festivals) [[1]](https://en.wikipedia.org/wiki/Jain_festivals) [[4]](https://jainsattva.com/jain-philosophy/jain-festival-list-celebration-traditions/)"
+    },
+    {
+      "myth": "Fasting during Jain festivals is always extreme and mandatory for all participants, regardless of age or health.",
+      "reality": "Jain texts and community practice treat fasting as a voluntary austerity to be undertaken according to one’s capacity, with many graded options—from partial fasts and dietary restraint to more intensive vows. Responsible teachers and communities emphasize that health, age, and circumstances must be considered, and that the essence of festival observance lies in inner transformation, not in competitive or harmful austerity. (For specific medical or health situations, guidance from qualified professionals and experienced religious teachers is essential.) [[2]](https://jainworld.jainworld.com/jainbooks/guideline/46.htm) [[4]](https://jainsattva.com/jain-philosophy/jain-festival-list-celebration-traditions/)"
+    },
+    {
+      "myth": "Festival observance in Jainism is only about temple rituals and has little to do with everyday ethical life.",
+      "reality": "Major festivals such as Paryuṣaṇa and Daśalakṣaṇa explicitly connect ritual practices with ethical renewal—reaffirming vows of non‑violence, truthfulness, non‑stealing, chastity, and non‑possessiveness. The annual practice of seeking forgiveness, charitable acts, and intensified study during festival periods are meant to reshape daily conduct, not remain confined to the temple or a single day of celebration. [[0]](https://www.britannica.com/topic/Jainism/Festivals) [[1]](https://en.wikipedia.org/wiki/Jain_festivals) [[3]](https://bhaktilipi.in/jain-festivals-diwali-paryushan-mahavir-jayanti/)"
+    }
+  ]
+}
+
+
+
+> [0] [Jainism - Festivals, Rituals, Celebrations | Britannica](https://www.britannica.com/topic/Jainism/Festivals)
+>
+> [1] [Jain festivals - Wikipedia](https://en.wikipedia.org/wiki/Jain_festivals)
+>
+> [2] [The Jain Festivals](https://jainworld.jainworld.com/jainbooks/guideline/46.htm)
+>
+> [3] [Jain Festivals: Diwali, Paryushan & Mahavir Jayanti](https://bhaktilipi.in/jain-festivals-diwali-paryushan-mahavir-jayanti/)
+>
+> [4] [Jain Festival List: Celebrating Spiritual Traditions and Rituals - Jain Sattva](https://jainsattva.com/jain-philosophy/jain-festival-list-celebration-traditions/)

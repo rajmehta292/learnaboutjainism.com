@@ -1,0 +1,19 @@
+{
+  "overview": "The Tattvarthasutra, authored by Acharya Umaswati, is a foundational text in Jain philosophy that systematically presents the core principles of Jainism. It is considered the first philosophical text in Jainism to combine elements from both the Svetambara and Digambara traditions, making it a crucial source for understanding Jain metaphysics, ethics, and epistemology. The Tattvarthasutra is composed of 10 chapters and around 350 aphorisms, covering various topics such as the nature of reality, the soul, karma, cosmology, and the path to liberation. The text is noted for its precision, depth, and comprehensiveness, offering a structured approach to the understanding of Jain concepts such as the five astikayas (substances), the seven tattvas (fundamental truths), and the stages of spiritual development (gunasthanas). The Tattvarthasutra is highly revered and studied by both laypersons and monks, serving as a guide for ethical living and spiritual advancement.",
+  "primary_sources": [
+    {
+      "title": "Tattvarthasutra",
+      "author": "Acharya Umaswati",
+      "original_text": "तत्त्वार्थसूत्राणि",
+      "transliteration": "Tattvārthasūtrāṇi",
+      "translation": "That which relates to the nature of reality",
+      "notes": "This text synthesizes Jain philosophy and presents it in a concise sutra format, making it accessible for both scholarly study and practical application."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Tattvarthasutra is only relevant to the Svetambara sect.",
+      "reality": "While the Tattvarthasutra is studied extensively by the Svetambara sect, it is also recognized and respected by the Digambara sect, highlighting its cross-sectarian importance in Jain philosophy."
+    }
+  ]
+}

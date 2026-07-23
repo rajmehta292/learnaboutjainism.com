@@ -1,0 +1,43 @@
+{
+  "overview": "Darśana-mārgaṇā is one of the fourteen mārgaṇās (investigative categories) used in Jain canonical and commentarial literature to classify and analyze the states of existence within saṃsāra. The term combines *darśana* (perception, faith, or the cognitive mode of apprehension) with *mārgaṇā* (investigation or inquiry). In the mārgaṇā system, each category provides a structured lens for examining the conditions of living beings across the three worlds—upper, middle, and lower—and across the four gatis (heavenly, human, animal, and hellish). Darśana-mārgaṇā specifically investigates the types of perceptual or cognitive capacities possessed by beings in different states of existence.\n\nIn Jain ontology, *darśana* is not merely sensory perception but a foundational mode of awareness that precedes *jñāna* (knowledge). The mārgaṇā framework classifies beings according to whether they possess no perception, indistinct perception, sensory perception, scriptural perception, or right perception. These categories help map the karmic conditions that shape consciousness. Darśana-mārgaṇā thus functions as a diagnostic tool for understanding how perception arises, diminishes, or is obstructed by karmic influx (*āsrava*) and bondage (*bandha*).\n\nBoth Śvetāmbara and Digambara traditions preserve versions of the fourteen mārgaṇās, though terminology and ordering may vary slightly. Darśana-mārgaṇā is consistently included and is foundational for later doctrinal developments, including the analysis of *darśana-mohaniya karma* (the deluding karma affecting perception) and the progression through the *guṇasthānas* (spiritual stages). In advanced doctrinal contexts, darśana-mārgaṇā is used to explain why certain beings cannot attain right faith (*samyag-darśana*) in their current embodiment, while others possess the latent capacity for spiritual awakening.\n\nHistorically, the mārgaṇā system appears in early canonical texts such as the *Praśnavyākaraṇa* and is elaborated in later scholastic works. It serves both as a cosmological taxonomy and as a pedagogical tool for monks, nuns, and lay scholars studying the structure of saṃsāra. Modern scholarship highlights its role in systematizing Jain metaphysics and providing a bridge between cosmology, karma theory, and epistemology.",
+  "primary_sources": [
+    {
+      "title": "Praśnavyākaraṇa",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "दस्सणं माणगणा",
+      "transliteration": "dassaṇaṃ māṇagaṇā",
+      "translation": "“The investigation of perception.”",
+      "notes": "The *Praśnavyākaraṇa* is one of the canonical texts that enumerates the fourteen mārgaṇās. The text provides brief definitions, leaving detailed interpretation to later commentaries."
+    },
+    {
+      "title": "Tattvārtha Sūtra (reference to darśana categories)",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अवगाहनदर्शनज्ञानानि जीवस्य।",
+      "transliteration": "avagāhana-darśana-jñānāni jīvasya.",
+      "translation": "“Penetration, perception, and knowledge are attributes of the soul.”",
+      "notes": "While the *Tattvārtha Sūtra* does not list the mārgaṇās explicitly, it provides the doctrinal foundation for understanding perception (*darśana*) as an inherent quality of the soul, which the mārgaṇā system later classifies across different states of existence."
+    },
+    {
+      "title": "Gommatasāra Jīvakāṇḍa",
+      "author": "Nemichandra Siddhānta Chakravartin",
+      "original_text": "दंसणमग्गणाणं जीवस्स भावो।",
+      "transliteration": "daṃsaṇa-maggaṇāṇaṃ jīvassa bhāvo.",
+      "translation": "“The darśana-mārgaṇā describes the condition of the soul with respect to perception.”",
+      "notes": "A Digambara text offering detailed classifications of beings according to perception, including distinctions between right perception, wrong perception, and absence of perception."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Darśana-mārgaṇā refers to spiritual vision or mystical insight.",
+      "reality": "In the mārgaṇā system, darśana-mārgaṇā is a taxonomic category describing the perceptual capacities of beings across different states of existence. It is not a meditative or mystical practice."
+    },
+    {
+      "myth": "All beings possess some form of perception according to Jainism.",
+      "reality": "Primary texts classify certain beings—especially in lower hells or specific nigoda states—as lacking perceptual capacity. Darśana-mārgaṇā explicitly includes categories for beings without perception."
+    },
+    {
+      "myth": "Darśana-mārgaṇā is identical across all Jain traditions.",
+      "reality": "While the core concept is shared, Digambara and Śvetāmbara sources differ in terminology, ordering, and explanatory detail. Commentaries also vary in how they relate darśana-mārgaṇā to karma theory and cosmology."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain philosophy, the term \"hetu\" primarily denotes a reason, logical mark, or justificatory ground used in inference (anumāna) and, more broadly, in the theory of valid knowledge (pramāṇa). While in common Sanskrit usage hetu can mean \"cause\" or \"motive,\" Jain logicians employ it in a more technical sense: a hetu is that feature or mark which, when known, leads the knower to ascertain something else—the sādhya, or the proposition to be proved. In this way, hetu stands at the heart of Jain logical reflection on how we move from what is presently given to what is not yet directly known.\n\nWithin the Jain pramāṇa system, knowledge is divided into direct (pratyakṣa) and indirect (parokṣa). Inference (anumāna) belongs to the indirect mode and depends on a reliable connection between the hetu and the sādhya. For example, when one infers fire on a distant hill from the perception of smoke, smoke functions as the hetu, and fire as the sādhya. The validity of this inference rests on the inseparable relation (avinābhāva) between smoke and fire: wherever smoke is genuinely present, fire must be present, and wherever fire is entirely absent, genuine smoke cannot occur. Jain thinkers emphasize that this avinābhāva—rather than a mere formal pattern—is the defining characteristic of a sound hetu.\n\nJain logicians are deeply aware of the broader Indian debates about the nature of hetu. Schools such as Nyāya and certain Buddhist traditions articulate lists of formal conditions—threefold (trairūpya) or fivefold (pañcarūpya) criteria—that a hetu must satisfy: presence in the subject (pakṣadharmatva), presence in similar cases (sapakṣasattva), absence in dissimilar cases (vipakṣavyāvṛtti), and so on. Jain authors study and sometimes adopt these formulations, but they consistently insist that the core of a valid hetu is its real, ontological connection with the sādhya. A hetu is not merely a symbol in a formal calculus; it is a feature of reality whose relational structure can support trustworthy inference.\n\nThis realist orientation is closely tied to the doctrines of anekāntavāda (the many-sidedness of reality) and syādvāda (the logic of conditional predication). Because reality has infinitely many aspects, any single hetu can only capture a limited standpoint (naya) on the object. Jain logic therefore integrates hetu into a larger framework of standpoint-theory: a reason is always given from some particular perspective, conditioned by substance, space, time, and mode. A judgment such as \"there is fire on the mountain because there is smoke\" is, strictly speaking, a syād-vacana—a conditional statement that holds under specified conditions and from a particular naya. The hetu is valid not absolutely, but relative to the complex structure of the object and the context in which the inference is made.\n\nJain discussions of hetu also pay careful attention to fallacious reasons (hetvābhāsa). A supposed hetu may fail because it is unproved (asiddha), contradictory (viruddha), or indeterminate (anaikāntika), among other defects. For instance, if one claims \"there is fire on the lake because there is smoke\" when what is seen is actually mist, the alleged hetu is asiddha—it does not truly possess the property it is said to have. Similarly, if one argues \"sound is eternal because it is produced,\" the hetu is viruddha, since production is typically a mark of non-eternality. Jain logicians catalogue such errors to safeguard the role of hetu as a reliable guide to truth and to distinguish genuine inference from mere verbal persuasion.\n\nIn practice, hetu functions across multiple domains of Jain thought. In metaphysics, reasons are offered to establish the existence and distinctness of substances such as soul (jīva) and matter (pudgala). In ethics, hetu underlies arguments about the harmfulness of violence (hiṃsā) and the benefits of restraint (saṃyama). In scriptural hermeneutics, hetu helps interpret authoritative teachings by showing how doctrinal claims follow from more basic principles. Yet, because of anekāntavāda, Jain thinkers remain cautious: even strong hetus yield conclusions that are, for ordinary knowers, partial and conditioned. Ultimate, all-sided knowledge (kevala-jñāna) transcends the need for hetu, but for embodied beings, carefully examined reasons remain indispensable tools for navigating reality.\n\nThus, \"hetu\" in Jainism is not a narrow technicality but a central concept linking logic, epistemology, and the many-sided nature of truth. It marks the bridge between what is presently known and what is sought, while simultaneously reminding the inquirer that every bridge is built from a particular shore. A sound hetu is inseparably connected with its sādhya, yet its use is always framed by standpoint, context, and the humility that comes from recognizing the limits of non-omniscient knowledge.",
+  "primary_sources": [
+    {
+      "title": "Nyāyāvatāra",
+      "author": "Ācārya Siddhasena Divākara",
+      "original_text": "हेतुः साध्यसाधनसंबन्धो यत्राविनाभावो न विहन्यते स प्रमाणेऽनुमानस्य मूलम्।",
+      "transliteration": "hetuḥ sādhyasādhanasaṃbandho yatrāvinābhāvo na vihanyate sa pramāṇe'numānasya mūlam.",
+      "translation": "A hetu is the relation between what is to be proved and its means of proof; where the inseparable connection is not broken, that is the root of inference as a means of valid knowledge.",
+      "notes": "Nyāyāvatāra is an early Jain manual of logic traditionally attributed to Siddhasena Divākara. The verse summarizes the Jain emphasis on avinābhāva (inseparable connection) as the defining feature of a valid hetu. While different recensions vary in wording, the core idea—that hetu is a relational ground for inference—is consistently affirmed in Jain logical literature."
+    },
+    {
+      "title": "Aptamīmāṃsā",
+      "author": "Ācārya Samantabhadra",
+      "original_text": "यत्र साध्यवत्त्वे हेतुवत्त्वं न व्यभिचरति स एव हेतुः।",
+      "transliteration": "yatra sādhyavattve hetuvattvaṃ na vyabhicarati sa eva hetuḥ.",
+      "translation": "That alone is a hetu in which, wherever the probandum is present, the presence of the reason does not deviate.",
+      "notes": "Aptamīmāṃsā is a seminal Jain text on epistemology and the authority of the omniscient (apta). In its discussion of inference, it characterizes hetu through non-deviation (avyabhicāra) with respect to the sādhya. This formulation parallels the notion of avinābhāva and highlights the realist commitment that a valid reason must track an actual, dependable feature of reality."
+    },
+    {
+      "title": "Pramāṇasaṅgraha",
+      "author": "Ācārya Hemacandra",
+      "original_text": "पक्षधर्मत्वसपक्षसत्त्वविपक्षव्यावृत्तयः हेतुलक्षणानि, तेषु अविनाभावो मुख्यः।",
+      "transliteration": "pakṣadharmatvasapakṣasattvavipakṣavyāvṛttayaḥ hetulakṣaṇāni, teṣu avinābhāvo mukhyaḥ.",
+      "translation": "Presence in the subject, presence in similar cases, and absence in dissimilar cases are characteristics of a hetu; among these, inseparable connection is primary.",
+      "notes": "Hemacandra’s Pramāṇasaṅgraha systematizes Jain views on pramāṇa and incorporates discussions of hetu alongside Nyāya and Buddhist criteria. The verse acknowledges the threefold formal marks of a reason (trairūpya) but explicitly prioritizes avinābhāva, reflecting the Jain stance that formal conditions are secondary to the real ontological tie between hetu and sādhya."
+    },
+    {
+      "title": "Outlines of Jainism (Appendix on Jaina Logic)",
+      "author": "Jagmanderlal Jaini (modern scholarly summary)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "In the Jaina account of inference, the middle term or reason (hetu) must be connected with the major term in such a way that its presence reliably indicates the presence or absence of what is to be proved. This connection, rather than mere formal arrangement, grounds the validity of the inference.",
+      "notes": "Although not a primary scriptural text, Jaini’s early twentieth-century summary draws directly on classical Jain logical treatises. It is useful for students because it clearly distinguishes the Jaina emphasis on the real connection of hetu and sādhya from purely formal criteria. For detailed study, readers should consult the underlying Sanskrit and Prakrit sources and traditional commentaries."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Hetu in Jainism is simply a causal factor, identical with physical cause and effect.",
+      "reality": "While the word hetu can mean \"cause\" in general Sanskrit usage, Jain logicians use it in a more precise epistemic sense: it is a reason or logical mark that supports inference. A valid hetu must stand in an inseparable relation (avinābhāva) to the probandum, but this relation need not be limited to simple physical causation; it can include broader patterns of concomitance and dependence recognized within Jain metaphysics."
+    },
+    {
+      "myth": "Jain thinkers fully adopt the Buddhist and Nyāya threefold or fivefold criteria of hetu without modification.",
+      "reality": "Jain authors are well aware of the trairūpya and pañcarūpya traditions and sometimes employ similar terminology, but they do not treat these formal criteria as exhaustive or absolute. For them, the decisive feature of a hetu is its real, non-deviating connection with the sādhya. Formal marks are useful tools, yet they are subordinated to the ontological structure of reality and interpreted through the lens of anekāntavāda and standpoint-theory (nayavāda)."
+    },
+    {
+      "myth": "Because Jainism emphasizes anekāntavāda and syādvāda, hetu becomes purely relative and cannot yield trustworthy knowledge.",
+      "reality": "Anekāntavāda and syādvāda highlight the partial and conditioned nature of ordinary judgments, but they do not deny the possibility of reliable inference. Jainism maintains that within a given standpoint and context, a sound hetu—one that exhibits avinābhāva and avoids fallacies—can provide genuine, though limited, knowledge. The doctrines of many-sidedness and conditional predication are meant to cultivate intellectual humility and tolerance, not to undermine the meaningful use of reasons in the search for truth."
+    }
+  ]
+}

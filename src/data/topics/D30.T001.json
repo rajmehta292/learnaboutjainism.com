@@ -1,0 +1,43 @@
+{
+  "overview": "Niryukti (Prakrit: *ṇiyutti*, Sanskrit: *niryukti*) refers to an early stratum of canonical exegesis in the Jain tradition, composed primarily in Prakrit verse. It represents one of the oldest layers of interpretive literature attached to the Śvetāmbara Āgamas, though Digambara scholastic traditions also acknowledge analogous early exegetical materials. Niryuktis are typically attributed to the early commentator Bhadrabāhu (traditionally dated around the 4th–3rd century BCE), though modern scholarship notes that the attribution is not uniformly supported by manuscript evidence.\n\nA Niryukti is not a full commentary in the later sense. Instead, it provides mnemonic, often aphoristic gāthās (verses) that outline key doctrinal points, narrative cues, lists, and interpretive frameworks for the associated canonical text. These verses served as pedagogical scaffolding for oral instruction, enabling teachers to expand upon the terse canonical sutras. Later commentaries—such as Cūrṇis and Ṭīkās—frequently cite Niryukti verses as authoritative interpretive anchors.\n\nWithin the Śvetāmbara Mūrtipūjaka tradition, Niryuktis survive for several major Āgamas, including the *Āvaśyaka*, *Daśavaikālika*, *Sūtrakṛtāṅga*, and *Bhagavatī Sūtra*. The *Āvaśyaka Niryukti* is the most extensive, containing thousands of verses that elaborate ritual, ethics, cosmology, and monastic conduct. In Digambara circles, while the canonical corpus differs, early mnemonic commentarial layers—sometimes also labeled *niryukti* in secondary scholarship—are recognized as precursors to later Sanskrit commentaries.\n\nNiryuktis are crucial for understanding the evolution of Jain hermeneutics. They reveal how early teachers interpreted terse canonical sutras, how doctrinal categories were organized, and how ritual and ethical instructions were transmitted. They also show the transition from Prakrit oral pedagogy to more elaborate Sanskrit scholasticism. Because many Niryuktis survive only in partial or regionally transmitted manuscripts, textual criticism remains an active area of research.\n\nIn contemporary Jain studies, Niryuktis are treated as Tier A primary sources when verified editions are available. Their language, structure, and interpretive method provide insight into early Jain pedagogy, the formation of doctrinal lists, and the historical development of commentarial traditions. However, due to fragmentary transmission and uncertain authorship, scholars emphasize careful source comparison and transparency about textual uncertainty.",
+  "primary_sources": [
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Traditionally attributed to Bhadrabāhu; authorship uncertain in modern scholarship",
+      "original_text": "“ṇaṃ jāṇaṃti savva-bhūe dhammaṃ”",
+      "transliteration": "ṇaṃ jāṇaṃti savva-bhūe dhammaṃ",
+      "translation": "“The wise know the dharma that applies to all beings.”",
+      "notes": "This verse appears in several manuscript traditions of the Āvaśyaka Niryukti. It illustrates the pedagogical style: a brief aphorism used to introduce broader discussions on universal ethics. Manuscript variants exist, and the precise line order differs across regional recensions."
+    },
+    {
+      "title": "Daśavaikālika Niryukti",
+      "author": "Traditionally attributed to Bhadrabāhu; uncertain",
+      "original_text": "“sūyaṃ samāhiyaṃ kāle”",
+      "transliteration": "sūyaṃ samāhiyaṃ kāle",
+      "translation": "“One should study with concentration at the proper time.”",
+      "notes": "This verse is cited in later Cūrṇis and Ṭīkās as a foundational mnemonic for monastic study discipline. The Niryukti provides thematic cues rather than detailed commentary."
+    },
+    {
+      "title": "Sūtrakṛtāṅga Niryukti",
+      "author": "Traditionally attributed to Bhadrabāhu; uncertain",
+      "original_text": "“duvihaṃ pāvaṃ bhāsanti”",
+      "transliteration": "duvihaṃ pāvaṃ bhāsanti",
+      "translation": "“They speak of two kinds of sin.”",
+      "notes": "This verse introduces a doctrinal classification expanded in later commentaries. Surviving manuscripts show variation in the surrounding verses, indicating layered transmission."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Niryuktis are complete and uniform commentaries authored by a single historical figure.",
+      "reality": "Niryuktis are early mnemonic verse commentaries with layered transmission. While tradition attributes them to Bhadrabāhu, modern textual study shows multiple hands, regional variations, and uncertain authorship."
+    },
+    {
+      "myth": "All Jain traditions preserve the same Niryuktis.",
+      "reality": "Śvetāmbara Mūrtipūjaka traditions preserve extensive Niryuktis for several Āgamas, while Digambara traditions have different canonical corpora and only analogous early exegetical materials. The term “niryukti” is not uniformly applied across traditions."
+    },
+    {
+      "myth": "Niryuktis provide exhaustive doctrinal explanations.",
+      "reality": "Niryuktis offer mnemonic cues, lists, and thematic verses. Full doctrinal elaboration appears in later Cūrṇis, Vṛttis, and Ṭīkās that build upon Niryukti material."
+    }
+  ]
+}

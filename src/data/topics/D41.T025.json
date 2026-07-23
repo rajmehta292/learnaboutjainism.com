@@ -1,0 +1,43 @@
+{
+  "overview": "Stone sculpture refers to the artistic and technical practice of shaping natural stone into figurative, architectural, or symbolic forms. Across world civilizations, stone has served as one of the most enduring mediums for religious icons, commemorative monuments, and decorative art. In Jain traditions specifically, stone sculpture has played a central role in temple architecture, tīrtha iconography, and the preservation of sacred narratives. The durability of stone allows sculptors to create works that withstand centuries of environmental exposure, making it a preferred material for both monumental and portable art.\n\nStone sculpture involves several stages: selecting the appropriate stone, roughing out the form, refining details, and polishing. Different stones—such as sandstone, marble, granite, and schist—offer distinct textures, hardness levels, and aesthetic qualities. Marble, for example, is prized for its fine grain and ability to hold intricate detail, while granite is valued for its strength and longevity. Techniques vary across regions and historical periods, but common methods include chiseling, abrasion, drilling, and carving with metal tools.\n\nIn Jain contexts, stone sculpture often reflects theological principles such as non-attachment, equanimity, and the idealized form of the Jina. Sculptures of Tīrthaṅkaras typically emphasize symmetrical posture, serene expression, and minimal ornamentation, aligning with canonical descriptions found in primary texts. Beyond Jainism, stone sculpture encompasses a vast global heritage—from prehistoric carvings to classical Greek statuary, South Asian temple art, and contemporary sculptural installations—each shaped by cultural values, available materials, and evolving artistic techniques.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "𑀅𑀘𑀸𑀭𑀸𑀁𑀕𑀁 𑀲𑀽𑀢𑁄",
+      "transliteration": "ācārāṅgaṃ sūtro",
+      "translation": "“The Jina is described as motionless, steady, and free from attachment.”",
+      "notes": "While the text does not describe stone sculpture directly, its canonical descriptions of the Jina’s posture and attributes inform the iconographic norms followed by sculptors creating stone images of Tīrthaṅkaras."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha",
+      "original_text": "𑀢𑀺𑀮𑁄𑀬𑀧𑀡𑁆𑀡𑀢𑁆𑀢𑀺",
+      "transliteration": "tiloyapaṇṇatti",
+      "translation": "“Descriptions of cosmic structures and sacred spaces appear throughout the text.”",
+      "notes": "The architectural and cosmological descriptions in this Digambara text influenced later temple layouts and sculptural programs, including stone reliefs depicting cosmic diagrams."
+    },
+    {
+      "title": "Pratiṣṭhā-sāroddhāra",
+      "author": "Various authors in different recensions",
+      "original_text": "प्रतिष्ठा सारोद्धार",
+      "transliteration": "pratiṣṭhā sāroddhāra",
+      "translation": "“Guidelines for consecration and proper depiction of images are provided.”",
+      "notes": "Although primarily ritual in nature, these manuals outline proportions and iconographic rules that sculptors follow when carving stone images for Jain temples."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Stone sculpture is always created using heavy machinery or modern tools.",
+      "reality": "Traditional stone sculpture across South Asia—including Jain temple art—was historically carved using hand tools such as chisels, hammers, and abrasives. Many artisans continue to use these methods today."
+    },
+    {
+      "myth": "All stone sculptures are meant to be highly detailed and ornate.",
+      "reality": "Stone sculpture varies widely in style. Jain Tīrthaṅkara images, for example, often emphasize simplicity, symmetry, and minimal ornamentation, reflecting theological ideals rather than decorative excess."
+    },
+    {
+      "myth": "Stone sculpture is primarily decorative and has no religious significance.",
+      "reality": "In Jainism and many other traditions, stone sculptures serve as central objects of devotion, ritual, and cultural identity. Their forms are guided by canonical descriptions and ritual requirements."
+    }
+  ]
+}

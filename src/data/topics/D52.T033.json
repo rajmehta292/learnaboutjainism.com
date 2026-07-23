@@ -1,0 +1,47 @@
+{
+  "overview": "In Jain thought, the principle of “no spiritual ranking” refers to the refusal to assign hierarchical spiritual status to living individuals based on external markers such as caste, wealth, social position, gender, or personal charisma. While Jainism contains a detailed cosmology of spiritual states (gunasthanas) and classifications of souls (jīva-jāti), these are doctrinal descriptions of inner karmic conditions rather than social rankings. The tradition consistently warns against judging the spiritual condition of others, emphasizing instead self-examination, humility, and non-comparative progress.\n\nAcross Jain traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—the idea appears in teachings on ahiṃsā, anukampā (compassion), and aparigraha (non-possession). The ethical implication is that spiritual development is an inward process, invisible to others, and cannot be measured through external behavior alone. Even monastic status does not guarantee spiritual superiority; texts repeatedly state that only the destruction of karmas determines liberation, and this is not visible to ordinary observers.\n\nThe principle also functions as a safeguard against egoism (māna). Ranking oneself above others is considered a subtle form of violence because it fosters pride, comparison, and attachment. Jain teachers often stress that spiritual comparison leads to competition rather than equanimity. Instead, practitioners are encouraged to cultivate samatā (equanimity) and to view all beings as possessing the potential for liberation.\n\nModern Jain ethics applies this principle to community life, discouraging caste-based distinctions, ritual privilege, and claims of spiritual authority without scriptural grounding. It also supports inclusive lay practice, affirming that householders, women, and individuals from all backgrounds can progress spiritually without needing to conform to social hierarchies. The principle ultimately reinforces the Jain ideal that liberation is a solitary, inward journey, and that humility and non-judgment are essential components of right conduct.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "मोहक्षयो ज्ञानदर्शनचारित्राणि च मोक्षमार्गः",
+      "transliteration": "mohakṣayo jñāna-darśana-cāritrāṇi ca mokṣa-mārgaḥ",
+      "translation": "The destruction of delusion, along with right knowledge, right perception, and right conduct, is the path to liberation.",
+      "notes": "This passage (TS 1.1) establishes that liberation depends on internal qualities, not social or ritual status. Commentaries emphasize that one cannot infer another’s spiritual progress from external behavior."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "णं णंतेणं पव्वंति, णं णंतेणं उवसग्गा",
+      "transliteration": "ṇaṃ ṇaṃteṇaṃ pavvaṃti, ṇaṃ ṇaṃteṇaṃ uvasaggā",
+      "translation": "One does not know another’s path; one does not know another’s obstacles.",
+      "notes": "This early Śvetāmbara text warns against assuming knowledge of another’s spiritual condition. It is often cited to discourage spiritual comparison."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "जो सो अहं, अहं सो जो",
+      "transliteration": "jo so ahaṃ, ahaṃ so jo",
+      "translation": "The true self is the same in all; all are the same in the true self.",
+      "notes": "A Digambara foundational text emphasizing the equality of souls in their pure state. Commentators use this to argue against assigning spiritual rank based on external differences."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Monks and nuns are always spiritually superior to laypeople.",
+      "reality": "Jain texts state that spiritual advancement depends on the destruction of karmas, not on social or institutional status. A layperson may be more advanced internally than a monastic, though this cannot be externally verified."
+    },
+    {
+      "myth": "Caste or birth determines spiritual potential in Jainism.",
+      "reality": "Primary texts repeatedly affirm that all souls have equal potential for liberation. Caste distinctions are social constructs without spiritual significance."
+    },
+    {
+      "myth": "Visible austerities indicate higher spiritual rank.",
+      "reality": "Austerities can support spiritual progress, but texts warn that external practices may coexist with pride or delusion. Only internal transformation matters, and it is not visible to others."
+    },
+    {
+      "myth": "Spiritual comparison motivates better practice.",
+      "reality": "Jain ethics holds that comparison fosters egoism and subtle violence. Humility and equanimity are considered more conducive to genuine progress."
+    }
+  ]
+}

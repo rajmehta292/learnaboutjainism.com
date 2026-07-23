@@ -1,0 +1,19 @@
+{
+  "overview": "Anuyogadvara refers to the methods of exposition and analysis used in Jain literature to elucidate complex doctrinal concepts. It serves as a framework for understanding and interpreting the vast body of Jain scriptures, which are often intricate and multifaceted. The Anuyogadvara methods categorize scriptural expositions into four primary types: Prathamanu-yoga (narrative exposition), Karananu-yoga (exposition on the nature of the universe), Charananu-yoga (practical conduct and ethics), and Dravyanu-yoga (philosophical principles and ontology). These methods aid in systematically presenting Jain teachings, ensuring clarity and comprehensive understanding for practitioners and scholars alike. By employing these methods, Jain texts address diverse aspects of doctrine, ranging from cosmology and metaphysics to ethics and spiritual practices, therefore providing a holistic approach to spiritual education.",
+  "primary_sources": [
+    {
+      "title": "Tattvartha Sutra",
+      "author": "Umaswati",
+      "original_text": "तत्त्वार्थ सूत्र",
+      "transliteration": "Tattvārtha Sūtra",
+      "translation": "That which pertains to the nature of reality",
+      "notes": "A key Jain text that outlines the philosophical tenets of Jainism, often interpreted using Anuyogadvara methods."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Anuyogadvara is a specific text.",
+      "reality": "Anuyogadvara is not a single text but a methodological framework used in Jain scriptural analysis."
+    }
+  ]
+}

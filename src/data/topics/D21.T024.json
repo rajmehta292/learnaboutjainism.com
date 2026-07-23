@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, pilgrimage ritual—often referred to through terms such as *tīrtha-yātrā*, *tīrtha-kṣetra darśana*, or *siddha-kṣetra yātrā*—is a lay devotional practice centered on visiting sites associated with the tīrthaṅkaras, kevalins, revered ascetics, and historically significant monastic communities. Unlike traditions in which pilgrimage is mandated, Jainism frames pilgrimage as an optional, merit-generating activity (*puṇya-karmopacaya*) that supports ethical purification, deepens reverence for liberated beings, and strengthens communal identity. The practice is shaped by regional traditions, sectarian interpretations, and the historical development of sacred geography.\n\nAcross Digambara and Śvetāmbara lineages, pilgrimage ritual typically includes preparatory vows, mindful travel, ritual bathing (*snātra* or *jalābhiṣeka* where appropriate), circumambulation (*pradakṣiṇā*), recitation of canonical hymns, and acts of charity. Sites such as Śatruñjaya, Sammed Śikhar, Girnar, Shravanabelagola, and Kundadri are treated as *tīrthas*—places where the presence or activity of a tīrthaṅkara or other spiritually advanced beings is remembered. Pilgrimage is not a substitute for ethical conduct or meditation; rather, it is understood as a supportive practice that inspires renewed commitment to ahiṃsā, satya, and self-restraint.\n\nRitual manuals from different traditions emphasize non-violence during travel, careful food practices, and avoidance of harm to living beings. The ritual is framed as an opportunity to cultivate humility, reduce passions, and reflect on the impermanence of worldly life. Modern Jain communities continue to adapt pilgrimage practices, organizing environmentally conscious yātrās, accessibility-focused routes, and educational programs that contextualize sacred sites within historical and scriptural frameworks.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "तीर्थं कुर्वन्ति साधवः",
+      "transliteration": "tīrthaṃ kurvanti sādhavaḥ",
+      "translation": "“The sages create the tīrtha.”",
+      "notes": "TS 4.1 identifies the meaning of *tīrtha* not as a physical location but as the community of ascetics, teachers, and scriptures. Later tradition extends the term to sacred sites associated with tīrthaṅkaras. This passage is often cited to explain why pilgrimage is devotional rather than obligatory."
+    },
+    {
+      "title": "Śvetāmbara Āvaśyaka Niryukti",
+      "author": "Attributed to Bhadrabāhu (traditional attribution)",
+      "original_text": "तिट्ठए णमो करेमि",
+      "transliteration": "tiṭṭhae ṇamo karemi",
+      "translation": "“I offer reverence at the tīrtha.”",
+      "notes": "Used in the context of *tīrtha-vandana*, this verse reflects early Śvetāmbara liturgical practice of venerating sacred sites. The niryukti provides interpretive guidance for ritual actions performed during visits to tīrthas."
+    },
+    {
+      "title": "Digambara Mūlācāra",
+      "author": "Vattakera",
+      "original_text": "तीर्थानां दर्शनं पुण्यं",
+      "transliteration": "tīrthānāṃ darśanaṃ puṇyaṃ",
+      "translation": "“Beholding the tīrthas is meritorious.”",
+      "notes": "This line appears in discussions of lay conduct. It frames pilgrimage as a voluntary act that generates merit when performed with right intention and adherence to non-violence."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Pilgrimage is mandatory for all Jains and required for spiritual progress.",
+      "reality": "No canonical Jain text mandates pilgrimage. It is an optional lay practice that supports devotion and ethical reflection but is not a prerequisite for liberation."
+    },
+    {
+      "myth": "Sacred sites possess supernatural powers that guarantee karmic purification.",
+      "reality": "Primary texts emphasize intention, conduct, and non-violence as the basis for karmic transformation. Pilgrimage is meritorious only when accompanied by ethical discipline and right mental states."
+    },
+    {
+      "myth": "All Jain sects perform identical pilgrimage rituals.",
+      "reality": "While the underlying devotional aims are shared, Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth traditions differ in ritual forms, liturgical texts, and attitudes toward images and temple-centered worship."
+    }
+  ]
+}

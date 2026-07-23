@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, the term **Derasar** (also spelled *Devasar*, *Devrasar*, or *Jin Mandir*) refers to a Jain temple—specifically within the **Śvetāmbara Mūrti-pūjaka** community, though the term is also used colloquially by other Jain groups in Gujarat and Rajasthan. A Derasar is a consecrated space dedicated to the worship (*pūjā*) of the Jinas, the liberated beings who have attained kevala-jñāna (omniscience) and moksha. The architectural, ritual, and cultural dimensions of a Derasar reflect centuries of Jain devotional practice, regional craftsmanship, and scriptural norms governing temple purity, icon installation, and daily rites.\n\nA Derasar typically contains one or more **mūrtis** (icons) of Tīrthaṅkaras, often carved in marble and installed through a formal *pratiṣṭhā* ceremony. The sanctum (*garbha-gṛha*) houses the principal Jina image, while surrounding halls may include subsidiary shrines, spaces for scriptural recitation, and areas for community gatherings. Śvetāmbara Mūrti-pūjaka Derasars often feature intricate marble carvings, toranas (ornamental arches), and richly decorated ceilings. Many follow the *śikhar* (spire) style common to western Indian temple architecture.\n\nDaily activities in a Derasar include **pūjā**, **āratī**, **pradakṣiṇā**, **sāmāyika**, and scriptural study. Laypeople visit to perform devotional rituals, meditate, or participate in community events. While Derasars are devotional spaces, they are also centers of ethical education, manuscript preservation, and cultural continuity. Their rules of conduct—such as restrictions on food, leather items, and cleanliness—are grounded in canonical texts and commentarial traditions.\n\nHistorically, Derasars have served as hubs for Jain artistic patronage, producing some of the finest examples of temple sculpture in India. Notable Derasars include those at **Ranakpur**, **Taranga**, **Palitana**, and **Hutheesing** in Ahmedabad. Each reflects regional styles while adhering to Jain principles of nonviolence, purity, and reverence for the Jinas.",
+  "primary_sources": [
+    {
+      "title": "Ācāranga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; Śvetāmbara canon",
+      "original_text": "तत्थ एगं ठाणं जहा भिक्खूणं पवेसो न होइ",
+      "transliteration": "tattha egaṃ ṭhāṇaṃ jahā bhikkhūṇaṃ paveso na hoi",
+      "translation": "There are places where entry is not permitted for monks.",
+      "notes": "While the Ācāranga Sūtra does not describe Derasars directly, it establishes early norms of spatial purity and restrictions for monastics. Later temple regulations draw on these purity principles."
+    },
+    {
+      "title": "Vasudevahindī (for early temple references)",
+      "author": "Saṅghadāsagaṇi",
+      "original_text": "देवसयरे जिनस्स पउज्झा करन्ति",
+      "transliteration": "devasayare jinassa paujjhā karanti",
+      "translation": "In the temple (devasayara), they perform worship of the Jina.",
+      "notes": "One of the earliest narrative references to Jina temples in Śvetāmbara literature. The term *devasayara* is an early form of *derasar*."
+    },
+    {
+      "title": "Pratiṣṭhā-sāroddhāra (ritual manuals)",
+      "author": "Various ritualists; medieval Śvetāmbara texts",
+      "original_text": "प्रतिष्ठायां जिनप्रतिमायाः शुद्धिः प्रथमं विधीयते",
+      "transliteration": "pratiṣṭhāyāṃ jinapratimāyāḥ śuddhiḥ prathamaṃ vidhīyate",
+      "translation": "In consecration, the purification of the Jina image is prescribed first.",
+      "notes": "Temple consecration texts outline the ritual requirements for installing mūrtis in Derasars, including purity rules, icon preparation, and ceremonial sequences."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "A Derasar is simply a place for idol worship.",
+      "reality": "While mūrti-pūjā is central in Mūrti-pūjaka practice, Derasars also function as centers for meditation, ethical instruction, manuscript preservation, and community learning."
+    },
+    {
+      "myth": "All Jain traditions use the term Derasar and practice identical temple rituals.",
+      "reality": "The term is primarily associated with Śvetāmbara Mūrti-pūjaka communities. Sthānakavāsī and Terāpanth traditions do not practice mūrti-pūjā and therefore do not maintain Derasars in the same sense."
+    },
+    {
+      "myth": "Derasars must follow a single architectural style.",
+      "reality": "Jain temples vary widely—from marble complexes in Rajasthan to modern urban temples—while maintaining core principles of purity, symmetry, and sacred spatial organization."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "Within Jain studies, the phrase “sacred tradition and academic history” refers to the interplay between two distinct yet complementary ways of understanding Jainism. Sacred tradition (āgama-paramparā) encompasses the transmitted teachings, ritual practices, ethical disciplines, and lineage-based interpretations preserved by Jain communities—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth. Academic history, by contrast, is the modern scholarly reconstruction of Jain origins, textual development, sectarian formation, and social contexts using philology, archaeology, manuscript studies, and comparative historiography.\n\nSacred tradition emphasizes continuity with authoritative scriptures, the lived authority of monastic lineages, and the preservation of practices believed to originate with the tīrthaṅkaras. It is grounded in canonical texts, commentarial traditions, and ritual memory. Academic history situates these same materials within broader South Asian intellectual and cultural developments, examining how texts were compiled, redacted, or lost; how sects emerged; and how Jain communities interacted with Buddhist, Brahmanical, and regional traditions.\n\nThe relationship between these two modes is dynamic. Sacred tradition preserves meaning, ethical orientation, and soteriological purpose. Academic history provides critical tools for understanding chronology, manuscript variation, and historical change. When used together—carefully and respectfully—they illuminate how Jainism has been both a continuous religious tradition and a historically evolving community. Scholars emphasize that neither mode invalidates the other: sacred tradition offers internal coherence and spiritual authority, while academic history offers external analysis and contextual clarity.\n\nIn Jain studies, responsible scholarship acknowledges the limits of historical reconstruction, the diversity of sectarian perspectives, and the importance of distinguishing between textual quotation, traditional interpretation, and modern academic inference. This dual approach allows students to appreciate Jainism as both a living sacred tradition and a subject of rigorous historical inquiry.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to the Gaṇadharas",
+      "original_text": "णं च देसं च विणयं च सव्वं जोगं समायरे",
+      "transliteration": "ṇaṃ ca desaṃ ca viṇayaṃ ca savvaṃ jogaṃ samāyare",
+      "translation": "“One should cultivate restraint, discipline, and all forms of right conduct.”",
+      "notes": "Tier A canonical Śvetāmbara text. Used in sacred tradition to articulate early monastic discipline. Academic history studies its linguistic layers and manuscript variants to understand early Jain community formation."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (sectarian attribution varies)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyagdarśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "Tier A pan-Jain philosophical text. Sacred tradition treats it as a concise summary of doctrine. Academic history analyzes its commentaries and sectarian receptions to trace doctrinal development."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "जिवाजिवाणं गुणपगासो",
+      "transliteration": "jivājivāṇaṃ guṇapagāso",
+      "translation": "“The qualities of jīva and ajīva are expounded.”",
+      "notes": "Tier A Digambara canonical text. Central to sacred tradition for karma theory. Academic history studies its commentarial tradition (Dhavalā, Mahādhavalā) to understand medieval scholastic systems."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sacred tradition and academic history must always agree.",
+      "reality": "They serve different purposes. Sacred tradition preserves spiritual meaning and lineage authority, while academic history reconstructs historical development using critical methods. Divergence does not imply error in either mode."
+    },
+    {
+      "myth": "Academic history replaces the authority of Jain scriptures.",
+      "reality": "Academic history does not issue religious rulings. It analyzes texts, contexts, and manuscripts. Sacred authority remains within Jain lineages and communities."
+    },
+    {
+      "myth": "Sectarian differences arose suddenly and are fully documented.",
+      "reality": "Historical evidence shows gradual differentiation over centuries. Manuscript gaps and regional variations mean that some developments remain uncertain or debated."
+    }
+  ]
+}

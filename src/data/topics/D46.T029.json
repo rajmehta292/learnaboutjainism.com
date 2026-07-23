@@ -1,0 +1,83 @@
+{
+  "overview": "Animal ethics comparison examines how different religious and philosophical traditions understand the moral status of animals, the permissibility of harming or killing them, and the obligations humans bear toward non-human life. In South Asian traditions, especially Jainism, Buddhism, and Hinduism, the concept of ahiṃsā (non-violence) provides a shared vocabulary, yet each tradition develops distinct metaphysical and practical frameworks. In many Western religious and philosophical systems, animal ethics is framed more in terms of stewardship, dominion, or rights, producing different emphases on compassion, utility, and hierarchy.\n\nWithin Jainism, animal ethics is grounded in a radical extension of moral concern to all jīvas (embodied souls), from humans and large animals down to insects and even micro-organisms. Ahiṃsā is the highest dharma, and any injury to living beings is understood to bind karmic particles to the soul. As a result, Jain ethics demands strict vegetarianism, increasing interest in veganism, careful avoidance of professions that involve harm to animals, and detailed rules to minimize violence in daily life. The Jain view is not merely sentimental; it is built on a cosmology in which all living beings possess consciousness and the potential for spiritual liberation, so harming animals is both morally wrong and spiritually self-destructive.\n\nBuddhist animal ethics also affirms the sentience of animals and prohibits killing through the First Precept, but its framework differs from Jainism. While many Buddhist communities encourage vegetarianism, early monastic rules allowed the consumption of meat not specifically killed for the monk, emphasizing intention and causal responsibility rather than an absolute ban on all forms of harm. Compassion (karuṇā) and loving-kindness (mettā) are cultivated toward all beings, and animal suffering is taken seriously, yet the metaphysical account of karma and rebirth does not lead to the same level of everyday restriction as in Jainism. This produces a spectrum of practice, from strict vegetarianism in some Mahāyāna contexts to more permissive attitudes elsewhere.\n\nHindu traditions present a complex picture. On one side, sacrificial rituals historically involved animal offerings, and certain texts permit meat-eating under specific conditions. On the other side, ahiṃsā, vegetarianism, and reverence for particular animals (such as cows) have become central to many Hindu communities. Dharma is interpreted through caste, stage of life, and context, so animal ethics is often negotiated between ritual obligations, social norms, and ideals of compassion. Compared to Jainism, Hinduism tends to allow more contextual flexibility, even while sharing the broader karmic and rebirth framework that recognizes animals as sentient beings within the same cosmic cycle.\n\nIn Abrahamic traditions such as Judaism, Christianity, and Islam, animals are generally placed within a hierarchy where humans are granted a special status and authority, yet cruelty is condemned and kindness is praised. Dietary laws regulate which animals may be eaten and how they must be slaughtered, emphasizing ritual propriety and avoidance of unnecessary suffering rather than a blanket prohibition on killing. Modern Christian and Islamic ethical discussions increasingly engage with animal welfare, factory farming, and environmental concerns, sometimes drawing closer to the compassion-centered language found in Indic traditions, but the underlying metaphysics of human dominion and unique spiritual status remains influential.\n\nModern philosophical animal ethics—utilitarian, rights-based, and care-focused—often intersects with these religious frameworks. Utilitarian approaches, such as those inspired by Peter Singer, prioritize minimizing suffering and may advocate strong restrictions on animal use. Rights-based theories argue that animals possess inherent moral claims that cannot be overridden by human interests. Jainism’s insistence on the spiritual equality of all jīvas resonates with these modern critiques of speciesism, yet it differs by rooting moral concern in karmic causality and liberation rather than in secular notions of rights or utility. Comparative study shows that Jain animal ethics offers one of the most stringent and systematically articulated models of non-violence, challenging both religious and secular traditions to reconsider the depth of their commitments to animal welfare.\n\nAcross these traditions, key points of disagreement include whether killing animals can ever be morally justified, how intention versus outcome should be weighed, and whether human spiritual status grants morally relevant privileges. Jainism stands at one pole, treating virtually all harm to animals as spiritually harmful and ethically unacceptable, while other traditions allow graded permissions under ritual, dietary, or contextual rules. Translation and interpretation issues also arise: terms like ahiṃsā, karuṇā, and dharma carry layered meanings that cannot be fully captured by single English equivalents such as “non-violence” or “compassion.” A careful comparative approach therefore distinguishes between direct textual quotation, traditional commentary, and modern application, recognizing that contemporary debates about veganism, industrial slaughter, and ecological crisis often push these ancient frameworks into new ethical terrain.",
+  "primary_sources": [
+    {
+      "title": "Ācāranga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "सव्वे पाणे पाणिणो दुःखं इच्छंति न हि कंचि दुःखं इच्छंति। तस्मा न हनंति न घातयंति।",
+      "transliteration": "savve pāṇe pāṇiṇo duḥkhaṃ icchanti na hi kañci duḥkhaṃ icchanti. tasmā na hanaṃti na ghātayaṃti.",
+      "translation": "All living beings desire happiness; none wishes suffering. Therefore, one should not kill nor cause others to kill.",
+      "notes": "This early Jain canonical text (Śvetāmbara canon) articulates the foundational principle of ahiṃsā toward all living beings. It is often cited to show that animals and even the smallest organisms are included within the moral community. The passage underlines both the universality of the desire to avoid pain and the ethical imperative not to harm, forming a core basis for Jain vegetarianism and broader animal ethics."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "जं जीवं न विहिंसइ सव्वेसु पाणेसु सो महाव्रतधारी।",
+      "transliteration": "jaṃ jīvaṃ na vihiṃsai savvesu pāṇesu so mahāvratadhārī.",
+      "translation": "One who does not harm any living being among all creatures is a bearer of the great vows.",
+      "notes": "The Uttarādhyayana Sūtra elaborates the conduct of ascetics and emphasizes the great vows (mahāvratas), with ahiṃsā at the forefront. This verse connects non-harm to spiritual discipline, showing that refraining from violence against animals is not optional but central to the path of liberation. Commentarial traditions use such verses to argue for strict avoidance of professions and practices that involve animal killing."
+    },
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "प्राणातिपातो हिंसा।",
+      "transliteration": "prāṇātipāto hiṃsā.",
+      "translation": "Injury to living beings is violence.",
+      "notes": "This aphorism from the Tattvārthasūtra provides a concise technical definition of hiṃsā. Later verses classify types of violence by intention, means, and approval, extending responsibility beyond direct physical acts. The text is canonical for both Digambara and Śvetāmbara traditions and is frequently cited in discussions of animal ethics, as it frames any injury to animals as karmically significant, regardless of scale."
+    },
+    {
+      "title": "Dhammapada (Buddhist Pāli Canon)",
+      "author": "Attributed to the Buddha",
+      "original_text": "सबे तस्सन्ति दंडस्स, सबे भायन्ति मरणा। अतानं उपमं कत्वा, न हन्ये न घातये।",
+      "transliteration": "sabe tassanti daṇḍassa, sabe bhāyanti maraṇā. attānaṃ upamaṃ katvā, na haneyya na ghātaye.",
+      "translation": "All tremble at the rod; all fear death. Comparing others with oneself, one should not kill nor cause another to kill.",
+      "notes": "This verse (Dhammapada 129) is a key Buddhist statement on non-killing. It highlights empathy and shared vulnerability as the basis for refraining from violence. While Buddhist practice around meat-eating has varied historically, this text is central to arguments for compassionate treatment of animals and for vegetarianism in some Buddhist communities."
+    },
+    {
+      "title": "Mahābhārata, Anuśāsana Parva",
+      "author": "Attributed to Vyāsa; composite authorship",
+      "original_text": "अहिंसा परमो धर्मः।",
+      "transliteration": "ahiṃsā paramo dharmaḥ.",
+      "translation": "Non-violence is the highest dharma.",
+      "notes": "This famous line from the Mahābhārata is often quoted in Hindu, Jain, and Buddhist contexts. In the epic itself, the statement coexists with narratives of warfare and sacrifice, leading to complex interpretive debates. For animal ethics, it serves as a scriptural anchor for Hindu arguments favoring vegetarianism and compassionate treatment of animals, even though other passages permit meat-eating under certain conditions."
+    },
+    {
+      "title": "Bible, Genesis 1:28–29",
+      "author": "Traditionally attributed to multiple authors; part of the Hebrew Bible",
+      "original_text": "And God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth. And God said, Behold, I have given you every herb bearing seed... to you it shall be for meat.",
+      "transliteration": "English original; no standard transliteration required.",
+      "translation": "As above (English canonical text).",
+      "notes": "These verses are central to Jewish and Christian views of human dominion over animals. They have been interpreted both to justify extensive human use of animals and to support a stewardship model emphasizing care and responsibility. In comparative animal ethics, this passage is often contrasted with Jain and Buddhist texts that stress equality or shared vulnerability rather than dominion."
+    },
+    {
+      "title": "Qur’an 6:141 and related verses",
+      "author": "Revealed text in Islamic tradition",
+      "original_text": "وَهُوَ الَّذِي أَنشَأَ جَنَّاتٍ مَّعْرُوشَاتٍ وَغَيْرَ مَعْرُوشَاتٍ ... كُلُوا مِن ثَمَرِهِ إِذَا أَثْمَرَ وَآتُوا حَقَّهُ يَوْمَ حَصَادِهِ وَلَا تُسْرِفُوا إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ",
+      "transliteration": "wa huwa alladhī anshaʾa jannātin maʿrūshātin wa ghayra maʿrūshāt ... kulū min thamarihi idhā athmara wa ātū ḥaqqahu yawma ḥaṣādihi wa lā tusrifū innahu lā yuḥibbu al-musrifīn.",
+      "translation": "He it is who produces gardens, trellised and untrellised... Eat of their fruit when they bear fruit, and pay their due on the day of harvest, and do not be wasteful; surely He does not love the wasteful.",
+      "notes": "While this verse focuses on plant produce, Islamic scripture and hadith literature also regulate animal slaughter, insisting on minimizing suffering and avoiding waste. In comparative animal ethics, Islamic sources are discussed for their emphasis on lawful slaughter (ḥalāl), gratitude, and avoidance of cruelty, which differ from Jainism’s absolute prohibition on killing animals but still impose moral limits on human use of animals."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism simply teaches vegetarianism, similar to other religions that encourage avoiding meat.",
+      "reality": "Jain animal ethics is not limited to dietary rules; it is a comprehensive system grounded in the belief that all living beings, including insects and micro-organisms, possess souls and that any harm binds karmic matter to the perpetrator’s soul. This leads to detailed prescriptions about professions, travel, agriculture, and even speech, making Jain ahiṃsā one of the most far-reaching ethical frameworks concerning animals."
+    },
+    {
+      "myth": "All Indian religions have the same view on animals because they share the concept of ahiṃsā.",
+      "reality": "While Jainism, Buddhism, and many Hindu traditions affirm ahiṃsā, they interpret and apply it differently. Jainism generally prohibits intentional killing of animals in all contexts, Buddhism often focuses on intention and allows meat not killed specifically for the consumer in some early texts, and Hindu traditions may permit meat-eating or animal sacrifice under certain ritual or social conditions. The shared term masks significant doctrinal and practical diversity."
+    },
+    {
+      "myth": "Western religious traditions do not care about animal welfare because they emphasize human dominion.",
+      "reality": "Jewish, Christian, and Islamic sources include strong prohibitions against cruelty and commands to treat animals with kindness, even while affirming human authority over them. Contemporary theologians and ethicists in these traditions increasingly engage with issues such as factory farming and ecological crisis, sometimes drawing on or converging with the compassion-centered language found in Jain and Buddhist thought."
+    },
+    {
+      "myth": "Modern philosophical animal ethics is entirely separate from religious views and cannot be meaningfully compared.",
+      "reality": "Modern theories such as utilitarianism and rights-based approaches often address concerns similar to those found in religious traditions, including suffering, moral status, and speciesism. Jainism’s insistence on the spiritual equality of all jīvas and its critique of violence can be fruitfully compared with secular critiques of speciesism, even though they arise from different metaphysical assumptions. Comparative study helps clarify both convergences and deep differences."
+    },
+    {
+      "myth": "Translation of terms like ahiṃsā or karuṇā into English fully captures their ethical meaning.",
+      "reality": "Words such as ahiṃsā (“non-violence”), karuṇā (“compassion”), and dharma (“duty, law, righteousness”) carry layered philosophical and ritual connotations that are not exhausted by single English equivalents. Misunderstandings in comparative animal ethics often arise when these terms are treated as simple moral slogans rather than as parts of complex doctrinal systems, so careful attention to primary texts and traditional commentaries is essential."
+    }
+  ]
+}

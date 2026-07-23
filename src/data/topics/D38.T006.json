@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain ontology, “earth‑bodied” beings (Sanskrit: *pṛthivī‑kāyika*; Prakrit: *paḍhivī‑kāya*) constitute one of the five classes of single‑sensed (*ekendriya*) organisms. Jainism teaches that all living beings, regardless of their sensory complexity, possess *jīva* (sentience) and are subject to karmic bondage. Earth‑bodied beings are those whose bodies are composed of earth‑matter—clay, sand, metal ores, crystal, and other mineral forms—yet are understood to contain living souls. They are not metaphorical entities; they are treated as actual life‑forms within the Jain cosmological and biological framework.\n\nJain texts describe earth‑bodied beings as pervasive, subtle, and often imperceptible. They are said to arise through spontaneous generation when karmic conditions allow a soul to embody earth‑substance. Their life‑span, karmic capacities, and modes of injury are explained in detail in canonical works such as the *Tattvārtha Sūtra*, *Śvetāmbara Āgamas*, and Digambara *Śāstras*. Because they are extremely vulnerable, harming earth‑bodied beings—through digging, burning, crushing, or excessive exploitation of soil and minerals—is considered a form of violence (*hiṃsā*). This principle shapes Jain environmental ethics, influencing practices such as careful land use, avoidance of unnecessary earth‑disturbance, and mindful construction.\n\nWithin the broader Jain classification, earth‑bodied beings belong to the category of *sthāvara jīvas* (immobile beings), alongside water‑bodied, fire‑bodied, air‑bodied, and plant‑bodied organisms. They possess only the sense of touch, and their consciousness is described as extremely limited compared to multi‑sensed beings. Yet they remain full participants in the karmic cycle, capable of liberation after countless transformations. Their inclusion reflects the radical Jain commitment to universal sentience and non‑violence, extending moral consideration to even the most subtle forms of life.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "पृथिवीकायिकाः",
+      "transliteration": "pṛthivī‑kāyikāḥ",
+      "translation": "“Earth‑bodied beings.” (TS 2.13)",
+      "notes": "This sutra lists the five classes of immobile beings. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārtha‑bhāṣya* (Śvetāmbara) explain that earth‑bodied beings include organisms embodied in earth‑substances such as clay, sand, and minerals."
+    },
+    {
+      "title": "Śvetāmbara Āgamas – Sūtrakṛtāṅga",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जे पडिवीकाया तेसिं णाणं फासं दंसणं",
+      "transliteration": "je paḍivī‑kāyā tesiṃ ṇāṇaṃ phāsaṃ daṃsaṇaṃ",
+      "translation": "“Those who are earth‑bodied have knowledge, feeling, and perception.”",
+      "notes": "This passage affirms that even single‑sensed beings possess consciousness, though limited. The text warns against harming earth‑bodied organisms through digging or crushing."
+    },
+    {
+      "title": "Digambara Tradition – Gommaṭasāra Jīvakāṇḍa",
+      "author": "Nemichandra Siddhānta‑cakravartin",
+      "original_text": "पडिवीकायो एगिंदियाणं",
+      "transliteration": "paḍivī‑kāyo egindiyāṇaṃ",
+      "translation": "“Earth‑bodied beings are single‑sensed.”",
+      "notes": "The *Gommaṭasāra* provides detailed taxonomies of earth‑bodied beings, describing their karmic capacities and the conditions under which souls embody earth‑matter."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Earth‑bodied beings refer only to symbolic or metaphorical life in soil.",
+      "reality": "Jain texts treat earth‑bodied beings as literal living organisms composed of earth‑substance, possessing touch‑sense and consciousness."
+    },
+    {
+      "myth": "Earth‑bodied beings are identical to modern scientific microbes in soil.",
+      "reality": "While both involve life in earth‑substrates, Jain ontology is a metaphysical system describing souls embodied in earth‑matter, not a biological taxonomy aligned with modern microbiology."
+    },
+    {
+      "myth": "Harming earth‑bodied beings is a minor concern in Jain ethics.",
+      "reality": "Canonical texts consistently classify injury to earth‑bodied beings as *hiṃsā*, shaping Jain environmental and ascetic practices."
+    }
+  ]
+}

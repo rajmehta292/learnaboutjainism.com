@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, **pride**—most commonly referred to as *māna* (Sanskrit/Prakrit)—is classified as one of the primary internal passions (*kaṣāyas*) that bind the soul to saṃsāra. Pride is not merely an emotional state but a subtle distortion of self-perception that inflates one’s sense of superiority, achievement, lineage, knowledge, austerity, or virtue. Jain texts treat pride as a deeply obstructive mental condition because it strengthens ego (*ahaṃkāra*) and prevents the cultivation of humility, equanimity, and right conduct.\n\nJainism identifies *māna* as one of the four major passions—anger (*krodha*), pride (*māna*), deceit (*māyā*), and greed (*lobha*)—each capable of producing karmic bondage. Pride is especially dangerous because it can masquerade as virtue: a person may become proud of their learning, charity, asceticism, or spiritual progress. This self-congratulatory attitude generates *mohaniya karma* (deluding karma), obstructing right faith (*samyak-darśana*) and right knowledge (*samyak-jñāna*).\n\nClassical Jain psychology further divides pride into **seven types**, each linked to a specific basis of superiority: pride of body, family, strength, wealth, learning, asceticism, and spiritual attainment. These categories help practitioners identify subtle forms of ego that may arise even during sincere religious practice. The ultimate goal is not self-negation but accurate self-understanding—recognizing one’s capacities without exaggeration or attachment.\n\nAcross Digambara and Śvetāmbara traditions, pride is consistently portrayed as a barrier to spiritual progress. Commentaries emphasize that humility (*vinaya*) is not passive self-deprecation but an active discipline of perceiving oneself truthfully and treating others with respect. Modern Jain teachers often frame pride as a psychological habit that can be reduced through introspection, meditation, and ethical living. While interpretations vary, the core principle remains: pride distorts perception, fuels attachment, and obstructs liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "माना माया लोभः कषायाः",
+      "transliteration": "mānā māyā lobhaḥ kaṣāyāḥ",
+      "translation": "Pride, deceit, and greed are passions.",
+      "notes": "Tattvārtha Sūtra 7.6 lists pride as one of the principal passions. Commentaries (Digambara and Śvetāmbara) explain that these passions cause bondage of the most harmful karmas, especially the deluding karmas."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "माणो महा पावो",
+      "transliteration": "māṇo mahā pāvo",
+      "translation": "Pride is a great sin.",
+      "notes": "This passage appears in discussions of monastic conduct, emphasizing that pride disrupts humility and obstructs spiritual discipline."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Pūjyapāda’s tradition; foundational Digambara scripture",
+      "original_text": "माणस्य बन्धहेतुत्वम्",
+      "transliteration": "māṇasya bandha-hetutvam",
+      "translation": "Pride is a cause of karmic bondage.",
+      "notes": "The text analyzes how passions, including pride, bind specific karmas. Later commentaries elaborate the sevenfold classification of pride."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Pride only refers to arrogance about wealth or social status.",
+      "reality": "Jain texts describe seven forms of pride, including pride in learning, austerity, and spiritual progress. Even subtle self-satisfaction can be a form of māna."
+    },
+    {
+      "myth": "Humility in Jainism means denying one’s abilities or worth.",
+      "reality": "Humility means accurate self-perception without exaggeration or attachment. Jainism encourages recognizing one’s strengths while avoiding egoistic inflation."
+    },
+    {
+      "myth": "Pride is less harmful than anger or greed.",
+      "reality": "Pride is considered equally harmful because it strengthens delusion and obstructs right faith. Some commentaries argue that pride can be more subtle and therefore more dangerous."
+    }
+  ]
+}

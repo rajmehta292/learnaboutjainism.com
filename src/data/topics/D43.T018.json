@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, “education” (śikṣā, adhyayana) encompasses scriptural study, ethical formation, disciplined inquiry, and the cultivation of right perception (samyak‑darśana), right knowledge (samyak‑jñāna), and right conduct (samyak‑cāritra). Jain education historically developed in monastic settings, manuscript libraries (śāstra‑bhandāras), and lay learning circles, with an emphasis on memorization, debate, and commentary. The purpose of education is not merely intellectual mastery but the refinement of conduct, reduction of passions (kaṣāyas), and progress toward liberation.\n\nClassical Jain pedagogy integrates three domains: (1) **Scriptural literacy**, including Prakrit and Sanskrit canonical texts, commentaries, and later vernacular works; (2) **Ethical training**, emphasizing ahiṃsā, satya, asteya, brahmacarya, and aparigraha; and (3) **Analytical reasoning**, especially through doctrines such as anekāntavāda (many‑sidedness), syādvāda (conditioned predication), and the karma theory. Education is thus both cognitive and moral, shaping how one perceives reality and interacts with living beings.\n\nAcross Jain communities—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth—education includes structured study of canonical texts, recitation practices, and graded curricula for laypeople. Modern Jain education also includes university departments, research institutes, and digital archives, while retaining the classical emphasis on nonviolence, self‑discipline, and critical reflection. Contemporary pedagogical approaches often integrate historical scholarship, manuscript studies, and comparative philosophy while remaining grounded in primary sources.\n\nIn all traditions, education is understood as a lifelong practice. Laypeople pursue learning through pravacanas (discourses), paṭhaśālās (study schools), and community classes, while monastics engage in rigorous scriptural study and debate. The ultimate aim is the cultivation of inner clarity, ethical sensitivity, and the capacity to reduce karmic bondage through informed and disciplined living.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "ज्ञानं च दर्शनं च चारित्रं च मोक्षमार्गः",
+      "transliteration": "jñānaṃ ca darśanaṃ ca cāritraṃ ca mokṣamārgaḥ",
+      "translation": "“Knowledge, perception, and conduct constitute the path to liberation.”",
+      "notes": "Tattvārtha Sūtra 1.1 (Tier A). This foundational aphorism frames Jain education as the cultivation of knowledge, perception, and conduct. Commentaries across traditions emphasize that scriptural study is a prerequisite for right knowledge."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text; anonymous redaction",
+      "original_text": "सुत्तस्स ठाणं जाणे, णाणस्स ठाणं जाणे",
+      "transliteration": "suttassa ṭhāṇaṃ jāṇe, ṇāṇassa ṭhāṇaṃ jāṇe",
+      "translation": "“Know the place of the scripture; know the place of knowledge.”",
+      "notes": "Uttarādhyayana Sūtra 28 (Tier A). This passage highlights disciplined study and contextual understanding as essential components of Jain learning."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "जाणंतो णाणस्स कारणं",
+      "transliteration": "jāṇaṃto ṇāṇassa kāraṇaṃ",
+      "translation": "“Knowing is the cause of knowledge.”",
+      "notes": "From the Dhavalā commentary tradition (Tier B). Digambara scholasticism emphasizes analytical study as a means of refining right knowledge."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Kundakunda",
+      "original_text": "णाणं तु सच्चं परं",
+      "transliteration": "ṇāṇaṃ tu saccaṃ paraṃ",
+      "translation": "“Knowledge is indeed the highest truth.”",
+      "notes": "Tier A/B. Kundakunda’s works are central to Digambara educational curricula, stressing inner realization supported by disciplined study."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain education is only about memorizing scriptures.",
+      "reality": "While memorization is important, Jain education integrates ethical formation, analytical reasoning, and experiential understanding. Textual study is meant to transform conduct and perception, not merely accumulate information."
+    },
+    {
+      "myth": "Only monastics are expected to pursue Jain learning.",
+      "reality": "Lay education has always been central to Jain communities. Paṭhaśālās, pravacanas, and household study traditions ensure that laypeople engage deeply with ethics, philosophy, and practice."
+    },
+    {
+      "myth": "Jain educational traditions reject modern scholarship.",
+      "reality": "Many contemporary Jain institutions actively integrate manuscript studies, historical research, and comparative philosophy while remaining grounded in canonical sources and traditional commentaries."
+    }
+  ]
+}

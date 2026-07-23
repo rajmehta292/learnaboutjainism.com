@@ -1,0 +1,43 @@
+{
+  "overview": "Eastern India refers to the broad cultural‑historical region encompassing the modern states of West Bengal, Odisha, Bihar, Jharkhand, and often the eastern Himalayan areas such as Sikkim and parts of Assam. Across centuries, this region has served as a major crossroads of Indo‑Gangetic, Himalayan, and coastal Bay of Bengal civilizations. Its geography ranges from the fertile Gangetic plains and the Chota Nagpur plateau to the deltaic wetlands of the Sundarbans and the long littoral of Odisha.\n\nHistorically, Eastern India was home to influential ancient polities such as Magadha, Anga, and Kalinga. Magadha, centered in present‑day Bihar, became the nucleus of several imperial formations including the Maurya and Gupta empires. Kalinga, corresponding largely to coastal Odisha, developed a distinct maritime culture with documented trade links to Sri Lanka and Southeast Asia. Bengal, with its riverine networks and deltaic ecology, evolved into a major agrarian and literary center, producing rich Sanskrit, Pali, Prakrit, Bengali, and Odia traditions.\n\nReligiously and philosophically, Eastern India has been a cradle for Jainism, Buddhism, and various Hindu traditions. Jain canonical literature frequently references Magadha and Anga, and archaeological evidence from sites such as Paharpur, Champa, and Kurkihar indicates long-standing Jain presence. Buddhism emerged strongly in this region, with Bodh Gaya and Nalanda serving as global centers of learning. Over time, Vaishnava, Shakta, and tribal traditions also shaped the region’s cultural fabric.\n\nEconomically, Eastern India has historically relied on agriculture, riverine trade, artisanal crafts, and later mining and heavy industry in the plateau regions. Its cultural output includes classical Odissi dance, Bengali and Odia literature, terracotta temple architecture, and diverse folk traditions. Today, Eastern India remains a linguistically and culturally plural region with deep historical continuity and dynamic modern development.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Digambara and Śvetāmbara recensions)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "तत्थ मगधेसु विहरन्तो…",
+      "transliteration": "tattha magadhesu viharanto…",
+      "translation": "“There, dwelling in the land of Magadha…”",
+      "notes": "This passage (Śvetāmbara Ācārāṅga Sūtra I.8) situates Mahāvīra’s wanderings in Magadha, a core region of Eastern India. Editions vary, and Digambara traditions preserve related material in commentarial form. The text provides early geographic references relevant to Jain activity in Eastern India."
+    },
+    {
+      "title": "Bhagavatī Sūtra (Śvetāmbara)",
+      "author": "Traditionally attributed to Gautama and the early Jain Saṅgha",
+      "original_text": "अंगेषु मगधेषु च…",
+      "transliteration": "aṅgeṣu magadheṣu ca…",
+      "translation": "“In the lands of Anga and Magadha…”",
+      "notes": "The Bhagavatī Sūtra frequently mentions Anga and Magadha as settings for dialogues and itineraries. These references help reconstruct the socio‑religious landscape of Eastern India during the early Jain period."
+    },
+    {
+      "title": "Harivaṁśa Purāṇa (Digambara)",
+      "author": "Jinasena",
+      "original_text": "कलिङ्गदेशो रमणीयः…",
+      "transliteration": "kaliṅga-deśo ramaṇīyaḥ…",
+      "translation": "“The land of Kalinga is delightful…”",
+      "notes": "Although primarily a Jain Purāṇa, Jinasena’s work includes geographic descriptions of Kalinga (Odisha). These passages reflect the broader cultural geography of Eastern India as understood in medieval Jain literature."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Eastern India has always been culturally uniform.",
+      "reality": "Eastern India is highly diverse, encompassing Indo‑Aryan, Dravidian, Tibeto‑Burman, and Austroasiatic linguistic groups, as well as varied religious and artistic traditions."
+    },
+    {
+      "myth": "Eastern India’s historical importance is limited to Bengal.",
+      "reality": "Magadha, Anga, Kalinga, and the plateau regions played equally significant roles in ancient political, religious, and economic history."
+    },
+    {
+      "myth": "Jainism had little presence in Eastern India.",
+      "reality": "Primary Jain texts repeatedly reference Magadha and Anga, and archaeological evidence confirms sustained Jain activity in Bihar, Bengal, and Odisha."
+    }
+  ]
+}

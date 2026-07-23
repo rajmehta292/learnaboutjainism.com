@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, “sacred time” refers to ritually significant temporal structures through which aspirants understand cosmology, moral decline and ascent, auspicious periods for practice, and the cyclical nature of the universe. Unlike linear or creation-based models of time, Jainism presents an eternal, beginningless cosmos governed by rhythmic cycles of ascent (*utsarpiṇī*) and descent (*avasarpiṇī*). Sacred time is therefore not a divine imposition but a natural, measurable, and morally consequential pattern.\n\nAt the cosmological level, Jain texts describe vast temporal arcs divided into six eras (*kālacakra*), each with distinct ethical, physical, and spiritual conditions. These eras determine the availability of Tīrthaṅkaras, the ease or difficulty of spiritual practice, and the nature of human lifespan and strength. Sacred time thus frames the historical appearance of Mahāvīra and other Tīrthaṅkaras within the fifth era of the descending cycle.\n\nAt the ritual level, sacred time includes annual observances such as *Paryuṣaṇa* (Śvetāmbara) or *Daśalakṣaṇa* (Digambara), *Ayambil Oḷī*, *Śramaṇa Sūtra* recitation periods, and fasts aligned with lunar phases. These observances are not merely commemorative; they are structured around cosmological and karmic principles. The lunar calendar (*pañcāṅga*) determines auspicious days (*tithis*) for intensified restraint, confession, and meditation.\n\nAt the ethical level, sacred time emphasizes the relationship between karmic processes and temporal cycles. The doctrine of *guṇasthāna* (spiritual stages) is not tied to calendrical time but is often studied alongside cosmological time to understand how spiritual progress unfolds within an eternal universe. Sacred time also includes the remembrance of historical events—such as the *nirvāṇa* of Mahāvīra on Dīpāvalī—anchoring ethical reflection in cosmological chronology.\n\nAcross Jain traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—the interpretation of sacred time varies in emphasis but remains grounded in canonical cosmology. All agree that time is eternal, cyclical, and morally structured, and that understanding sacred time helps laypeople and monastics situate their practice within the broader Jain vision of liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (disputed between Śvetāmbara and Digambara traditions)",
+      "original_text": "कालः पदार्थानां परिवर्तनहेतुः",
+      "transliteration": "kālaḥ padārthānāṃ parivartanahetuḥ",
+      "translation": "Time is the cause of the continuity and change of substances.",
+      "notes": "Tattvārtha Sūtra 5.22 defines time as a real substance (*dravya*) enabling change. Commentaries (tier B) explain that cosmological eras arise from this inherent temporality."
+    },
+    {
+      "title": "Sthānāṅga Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "उसरपिणी अवसरपिणी कालचक्कं",
+      "transliteration": "usarapiṇī avasarapiṇī kālacakkaṃ",
+      "translation": "The ascending and descending cycles of time.",
+      "notes": "This canonical text (tier A) outlines the cyclical nature of time and the six eras within each half-cycle."
+    },
+    {
+      "title": "Tiloya Paṇṇatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "कालेणं लोयप्पवत्ति",
+      "transliteration": "kāleṇaṃ loyappavatti",
+      "translation": "By time, the world proceeds.",
+      "notes": "A Digambara cosmological text (tier A/B) giving detailed measurements of cosmic time, including durations of eras and cycles."
+    },
+    {
+      "title": "Kalpasūtra",
+      "author": "Śvetāmbara canonical tradition",
+      "original_text": "महावीरस्य निर्वाणकालः",
+      "transliteration": "mahāvīrasya nirvāṇakālaḥ",
+      "translation": "The time of Mahāvīra’s liberation.",
+      "notes": "Used during Paryuṣaṇa; provides sacred historical time markers such as Mahāvīra’s birth, renunciation, and nirvāṇa."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain sacred time is identical to Hindu yugas or Buddhist kalpas.",
+      "reality": "While Jainism shares the idea of vast cosmic cycles, its structure of six eras within ascending and descending cycles, and its precise durations, differ significantly from other Indian traditions."
+    },
+    {
+      "myth": "Sacred time determines personal spiritual progress directly.",
+      "reality": "Jain doctrine holds that liberation depends on individual effort and karmic conditions, not on the era. Sacred time shapes the environment, not the inevitability of attainment."
+    },
+    {
+      "myth": "Sacred time implies divine intervention or creation.",
+      "reality": "Jain cosmology is non-theistic; time is an eternal substance enabling change, not a divine act or command."
+    }
+  ]
+}

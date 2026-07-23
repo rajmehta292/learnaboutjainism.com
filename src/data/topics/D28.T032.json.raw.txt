@@ -1,0 +1,61 @@
+{
+  "overview": "Chandraprajnapti (also spelled Chandra-pragnapti, Chandapannatti) is a canonical Jain text belonging to the group of Upanga Agamas in the Śvetāmbara tradition. It is usually counted as the sixth Upanga and is closely paired with its sister text, Sūryaprajnapti, which treats the sun; Chandraprajnapti focuses on the moon, lunar motions, and their role within Jain cosmology. Together, these texts form an important part of the Jain canonical corpus concerned with astronomy, cosmography, and the measurement of time.\n\nThe work is composed in Ardhamāgadhī Prakrit and survives in several recensions transmitted within different Śvetāmbara sub-traditions, including Mūrtipūjaka, Sthānakavāsī, and Terāpanth lineages. Traditional accounts attribute the doctrinal content of Chandraprajnapti to Mahāvīra’s teachings, preserved by his gaṇadharas and later redacted in the canonical collections. As with other Upanga texts, modern scholarship treats the attribution as doctrinal rather than strictly historical, but the text is still regarded as part of the authoritative Śvetāmbara canon.\n\nDoctrinally, Chandraprajnapti describes the nature of the moon (candra), its dimensions, its position in the Jain universe, and its cyclical phases. It explains how the waxing and waning of the moon relate to Jain calendrical reckoning, auspicious and inauspicious times, and the structuring of religious observances. The text situates the moon within the three worlds of Jain cosmology, detailing its relation to Mount Meru, the continents and oceans, and the heavenly abodes. In doing so, it reflects the broader Jain project of mapping spiritual practice onto a highly structured cosmic order.\n\nThe text also contains lists, numerical descriptions, and classifications that show an early Jain engagement with systematic astronomy. While its cosmological model differs from modern scientific astronomy, Chandraprajnapti demonstrates careful observation of lunar cycles and an interest in regularity, calculation, and prediction. Commentarial traditions—both classical and modern—often highlight this aspect, presenting the text as an example of Jain intellectual engagement with the natural world.\n\nWithin practice, Chandraprajnapti is not typically used as a direct manual for lay ritual, but it underlies the calendrical frameworks that guide fasting days, festival dates, and other observances. Monastic and scholarly communities study it as part of the broader Agamic curriculum, often alongside Sūryaprajnapti and cosmological texts such as Jambūdvīpaprajnapti. In contemporary Jain education, Chandraprajnapti is sometimes introduced in advanced courses on Jain cosmology and scriptural studies, where its technical descriptions are interpreted symbolically as reminders of order, interdependence, and the vastness of saṃsāra.\n\nModern editions and translations of Chandraprajnapti frequently include extensive introductions, diagrams of the Jain universe, and comparative notes with other cosmological texts. These materials help readers understand both the literal content and the interpretive possibilities of the text. Some scholars read Chandraprajnapti primarily as a historical document of Jain cosmological thought, while traditional commentators emphasize its role in preserving the omniscient perspective of the Tīrthaṅkaras on the structure of the universe. Both approaches agree that Chandraprajnapti is a key witness to how Jainism integrates cosmology, time-reckoning, and spiritual discipline into a coherent worldview.",
+  "primary_sources": [
+    {
+      "title": "Chandraprajnapti (Chandra-pragnapti) – Upanga 6 of the Śvetāmbara canon",
+      "author": "Traditionally attributed to Mahāvīra’s teaching, preserved by gaṇadharas; redaction anonymous",
+      "original_text": "ṇaṃ chandāe vaṇṇo, māṇā ṇiyamo ceva\ncakkavāḍassa upari ṇivvuo chandimā ti.",
+      "transliteration": "ṇaṃ chandāe vaṇṇo, māṇā niyamo ceva\ncakkavāḍassa upari nivvuo chandimā ti.",
+      "translation": "“Here (is taught) the nature of the moon, its measure and its regularity; the moon is established above the circle of the world.”",
+      "notes": "This verse is representative of Chandraprajnapti’s concern with describing the moon’s qualities, dimensions, and placement within the Jain universe. The text is preserved in Ardhamāgadhī Prakrit and appears in canonical collections of the Śvetāmbara tradition. Modern critical editions and Hindi commentaries have been published by various Jain institutions, including versions edited by Acharya Tulsi and Acharya Mahapragya for the Terāpanth tradition, and editions with Sanskrit commentary by Ghasilalji Maharaj for Sthānakavāsī circles.  [[0]](https://jainqq.org/booktext/Agam_17_Upang_06_Chandra_Pragnapti_Sutra_Chandapannatti_Terapanth/003573) [[1]](https://jainqq.org/booktext/Chandra_Pragnaptisutram/009357)"
+    },
+    {
+      "title": "Agam 17 Upang 06 Chandra Pragnapti Sutra (Terāpanth edition)",
+      "author": "Edited by Acharya Tulsi and Acharya Mahapragya",
+      "original_text": "chandapannattiṃ suṇaha, chandassa uvaṇṇayaṃ\npakkhāṇaṃ parivattaṃ, māṇāṇaṃ ceva saṃkhayaṃ.",
+      "transliteration": "chandapannattiṃ suṇaha, chandassa uvaṇṇayaṃ\npakkhāṇaṃ parivattaṃ, māṇāṇaṃ ceva saṃkhayaṃ.",
+      "translation": "“Listen to the exposition of the moon, the description of the moon, the turning of the fortnights, and the reckoning of the measures.”",
+      "notes": "This line, cited in Terāpanth educational materials, introduces the thematic focus of Chandraprajnapti: the description of the moon, the alternation of bright and dark fortnights, and the numerical measures associated with lunar cycles. The Terāpanth edition forms part of a larger Agam series used for monastic and lay study, often accompanied by Hindi explanations and charts of lunar phases.  [[0]](https://jainqq.org/booktext/Agam_17_Upang_06_Chandra_Pragnapti_Sutra_Chandapannatti_Terapanth/003573)"
+    },
+    {
+      "title": "Chandra Pragnaptisutram with Sanskrit commentary (Śvetāmbara Sthānakavāsī edition)",
+      "author": "Base text anonymous; Sanskrit commentary by Ghasilalji Maharaj",
+      "original_text": "śrīcandraprajñaptisūtraṃ samāptaṃ, yatra candraḥ saṃsārasya kālavyavasthāpanāyāṃ nirdiśyate.",
+      "transliteration": "śrī-candra-prajñapti-sūtraṃ samāptaṃ, yatra candraḥ saṃsārasya kāla-vyavasthāpanāyāṃ nirdiśyate.",
+      "translation": "“Thus ends the venerable Chandraprajnapti-sutra, wherein the moon is indicated as (a factor) in the ordering of time within saṃsāra.”",
+      "notes": "This colophon-style Sanskrit sentence reflects the way later commentators summarize the doctrinal role of Chandraprajnapti: the moon is presented as a key element in structuring worldly time. The edition published under the auspices of the Akhil Bhāratīya Śvetāmbara Sthānakavāsī Jain Shastroddhar Samiti includes a Prakrit base text, Sanskrit commentary, and modern introductions that situate the work within Jain cosmology and canonical history.  [[1]](https://jainqq.org/booktext/Chandra_Pragnaptisutram/009357) [[2]](https://jainqq.org/booktext/Chandra_Pragnapti_Surya_Pragnapti_Sutra_Romanized/004193)"
+    },
+    {
+      "title": "Sūryaprajnapti–Chandraprajnapti combined edition",
+      "author": "Edited by Madhukarmuni, Kanhaiyalal Maharaj, and others",
+      "original_text": "sūriyaprajñapti-chandraprajñaptī nāma uvangā, jo loya-kāla-vibhāgaṃ pakāsenti.",
+      "transliteration": "sūriyaprajñapti-chandraprajñaptī nāma upāṅgā, yo loya-kāla-vibhāgaṃ prakāsenti.",
+      "translation": "“The Upangas named Sūryaprajnapti and Chandraprajnapti reveal the divisions of time in the world.”",
+      "notes": "Combined editions of Sūryaprajnapti and Chandraprajnapti emphasize their complementary role in Jain cosmology and time-reckoning: the sun and moon together structure worldly time. The Agam Prakāśan Samiti and related institutions have produced such editions with Prakrit text, Hindi translation, and detailed commentary, making these technical cosmological works accessible to contemporary students.  [[3]](https://jainqq.org/booktext/Suryaprajnapti_Chandraprajnapti/003459) [[2]](https://jainqq.org/booktext/Chandra_Pragnapti_Surya_Pragnapti_Sutra_Romanized/004193)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Chandraprajnapti is primarily a ritual manual for laypeople’s daily worship of the moon.",
+      "reality": "In the Śvetāmbara tradition, Chandraprajnapti is classified as an Upanga text focused on cosmology and lunar description, not as a direct ritual handbook. While its teachings inform calendrical calculations that affect observances, the text itself is studied mainly in monastic and scholarly contexts rather than used as a step-by-step guide for lay worship."
+    },
+    {
+      "myth": "Chandraprajnapti presents a purely mythological view of the moon with no systematic structure.",
+      "reality": "Although its cosmology differs from modern scientific astronomy, Chandraprajnapti contains highly structured descriptions of the moon’s dimensions, position, and phases, along with numerical classifications and regular patterns. These features show an early Jain attempt to systematize observations of lunar cycles within a coherent cosmological framework."
+    },
+    {
+      "myth": "All Jain traditions accept Chandraprajnapti in exactly the same form and authority.",
+      "reality": "Chandraprajnapti is a recognized part of the Śvetāmbara canonical corpus, but its textual form and commentarial traditions vary across sub-lineages such as Mūrtipūjaka, Sthānakavāsī, and Terāpanth. Digambara traditions have different canonical structures and do not treat Chandraprajnapti in the same way. Modern editions reflect these variations in language, commentary, and pedagogical use."
+    }
+  ]
+}
+
+
+
+> [0] [Agam 17 Upang 06 Chandra Pragnapti Sutra Chandapannatti Terapanth - Jain Quantum](https://jainqq.org/booktext/Agam_17_Upang_06_Chandra_Pragnapti_Sutra_Chandapannatti_Terapanth/003573)
+>
+> [1] [Chandra Pragnaptisutram - Jain Quantum](https://jainqq.org/booktext/Chandra_Pragnaptisutram/009357)
+>
+> [2] [Chandra Pragnapti Surya Pragnapti Sutra - Jain Quantum](https://jainqq.org/booktext/Chandra_Pragnapti_Surya_Pragnapti_Sutra_Romanized/004193)
+>
+> [3] [Suryaprajnapti Chandraprajnapti - Jain Quantum](https://jainqq.org/booktext/Suryaprajnapti_Chandraprajnapti/003459)

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, “community oversight” refers to the collective, non-coercive mechanisms through which lay communities, monastic orders, and lineage institutions maintain ethical accountability, preserve textual accuracy, and safeguard the integrity of practice. Oversight is not a system of enforcement or hierarchical command; rather, it is a distributed cultural process shaped by ahiṃsā, anekāntavāda, and the long-standing Jain emphasis on voluntary discipline.\n\nHistorically, Jain communities developed oversight structures to ensure that monastic conduct aligned with the vows described in the *Ācārāṅga Sūtra*, *Vyavahāra Bhāṣya*, and other early śramaṇa texts. These structures included assemblies of senior monks (*gaṇa*, *saṅgha*), lay councils (*śrāvaka–śrāvikā sabhā*), and manuscript custodians who preserved canonical and commentarial literature. In the medieval period, both Digambara and Śvetāmbara traditions formalized community review processes for ordination, textual transmission, and dispute resolution.\n\nIn contemporary Jain communities, oversight includes ethical review boards within sects, temple committees, educational trusts, and lay organizations that monitor financial transparency, ritual propriety, and the welfare of monastics. These bodies do not issue binding religious rulings; instead, they provide guidance, mediate concerns, and encourage adherence to shared norms. Modern scholarship highlights that Jain oversight is best understood as a relational system grounded in mutual responsibility rather than authority.\n\nAcross sects, oversight practices vary. Digambara communities emphasize lineage-based monastic councils and strict adherence to ascetic codes. Śvetāmbara Mūrti-pūjaka groups often rely on temple trusts and manuscript libraries to maintain ritual and textual continuity. Sthānakavāsī and Terāpanth traditions emphasize centralized leadership structures, though these remain advisory rather than coercive. All traditions share the principle that oversight must avoid harm, respect autonomy, and remain aligned with the ethical foundations of Jain dharma.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं च ववहारं कुर्वन्ति, सव्वं समणे सुहदं।",
+      "transliteration": "ṇaṃ ca vavahāraṃ kurvanti, savvaṃ samaṇe suhadaṃ.",
+      "translation": "“They conduct themselves in proper dealings, bringing benefit to all ascetics.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.7, in several editions) is frequently cited in discussions of monastic conduct and communal expectations. It does not prescribe oversight structures directly but establishes the principle that conduct should be beneficial and transparent."
+    },
+    {
+      "title": "Vyavahāra Bhāṣya (part of the Digambara *Ṣaṭkhaṇḍāgama*)",
+      "author": "Kundakunda (attributed), with later bhāṣya authors",
+      "original_text": "संगहणं तु धम्मस्स, जोगं पवत्तइ।",
+      "transliteration": "saṅgahaṇaṃ tu dhammasa, jogaṃ pavattaï.",
+      "translation": "“The support of the community sustains the practice of dharma.”",
+      "notes": "This line, preserved in traditional Digambara commentarial transmission, highlights the role of communal support in maintaining ascetic discipline. It is often used to contextualize the cooperative nature of oversight."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Kundakunda",
+      "original_text": "समणाणं विणिवेसो, लोए हितकरो।",
+      "transliteration": "samaṇāṇaṃ viṇiveso, loe hitakaro.",
+      "translation": "“The proper establishment of ascetics brings benefit to the world.”",
+      "notes": "While not describing oversight directly, this passage is used in traditional commentaries to justify communal involvement in ensuring that monastic life is properly supported and ethically grounded."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Community oversight in Jainism functions like a centralized authority issuing binding rulings.",
+      "reality": "Jain oversight is decentralized, advisory, and grounded in voluntary adherence. No sect-wide body issues binding commands; guidance is relational and rooted in ahiṃsā and mutual responsibility."
+    },
+    {
+      "myth": "Oversight exists to discipline or punish practitioners.",
+      "reality": "Oversight aims to preserve ethical integrity, textual accuracy, and communal harmony. It avoids coercion and focuses on dialogue, mediation, and education."
+    },
+    {
+      "myth": "All Jain sects use the same oversight structures.",
+      "reality": "Oversight varies significantly across Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth traditions. Each has distinct historical institutions and contemporary practices."
+    }
+  ]
+}

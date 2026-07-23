@@ -1,0 +1,43 @@
+{
+  "overview": "Combinatorics is a branch of mathematics concerned with counting, arranging, and analyzing discrete structures. It studies finite or countable sets and the ways elements within these sets can be combined, permuted, or partitioned. As a foundational area of discrete mathematics, combinatorics underlies probability theory, graph theory, coding theory, optimization, and computer science.\n\nAt its core, combinatorics asks questions such as: How many ways can objects be arranged? How many distinct structures satisfy given constraints? What patterns emerge when discrete elements interact? These questions lead to several major subfields. *Enumerative combinatorics* focuses on counting the number of configurations that meet certain criteria, often using generating functions, recurrence relations, and bijective proofs. *Extremal combinatorics* studies the maximum or minimum size of collections of finite objects that satisfy specific properties. *Graph theory*, often considered part of combinatorics, examines networks of vertices and edges, providing tools for modeling relationships, connectivity, and optimization problems.\n\nAnother important area is *combinatorial design theory*, which investigates structured arrangements such as block designs and Latin squares, with applications in statistics, experiment design, and cryptography. *Probabilistic combinatorics* uses probability to analyze the behavior of random structures, while *algebraic combinatorics* applies group theory, representation theory, and symmetric functions to combinatorial problems.\n\nCombinatorics has deep historical roots, with early contributions from Indian, Greek, and Arabic mathematicians, and major modern developments from figures such as Euler, Cayley, Pólya, and Erdős. Today, it remains a vibrant field with applications ranging from algorithm design and data structures to molecular biology and communication networks.",
+  "primary_sources": [
+    {
+      "title": "Chandas (Prosody) Sections of the Ṛgveda and Later Sanskrit Works",
+      "author": "Various Vedic poets; later systematization by Pingala",
+      "original_text": "मात्राच्छन्दोऽनुक्रमणम् (from Pingala’s Chandaḥsūtra)",
+      "transliteration": "mātrācchando'nukramaṇam",
+      "translation": "“A sequential method for metrical counting.”",
+      "notes": "Although not a combinatorics text in the modern sense, Pingala’s Chandaḥsūtra (c. 2nd century BCE) contains the earliest known descriptions of binary representations and recursive combinatorial enumeration of metrical patterns. The meru-prastāra described in later commentaries corresponds to what is now known as Pascal’s triangle."
+    },
+    {
+      "title": "Lilavati (Arithmetic Section)",
+      "author": "Bhāskara II",
+      "original_text": "योजनानां विन्यासः कथं स्यात्",
+      "transliteration": "yojanānāṃ vinyāsaḥ kathaṃ syāt",
+      "translation": "“How should the arrangements be made?”",
+      "notes": "Bhāskara II’s Lilavati (12th century CE) includes problems on permutations, combinations, and arrangements of objects. These are early examples of combinatorial reasoning in the Indian mathematical tradition."
+    },
+    {
+      "title": "Ars Conjectandi",
+      "author": "Jakob Bernoulli",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Not applicable (Latin text; no Sanskrit/Prakrit original).",
+      "notes": "Published posthumously in 1713, this foundational work formalized combinations, permutations, and the binomial theorem, establishing combinatorics as a distinct mathematical discipline in Europe."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Combinatorics is only about counting objects.",
+      "reality": "Counting is central, but combinatorics also includes graph theory, design theory, extremal problems, probabilistic methods, and algebraic techniques."
+    },
+    {
+      "myth": "Combinatorics is a purely theoretical field with no real-world applications.",
+      "reality": "Combinatorial methods are essential in computer algorithms, cryptography, network design, error-correcting codes, statistical experiment design, and bioinformatics."
+    },
+    {
+      "myth": "Combinatorial problems are always simple because they deal with discrete objects.",
+      "reality": "Many combinatorial problems are computationally hard (NP-complete or worse), and some remain unsolved despite decades of research."
+    }
+  ]
+}

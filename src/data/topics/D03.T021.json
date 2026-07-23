@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical and karmic theory, “body‑making matter” refers to the category of karma known as **śarīra‑nāma‑karma**, one of the eight primary types of nāma‑karma that determine the physical form a soul (jīva) acquires in a given embodiment. Jainism teaches that all embodied existence arises from the interaction between the soul’s inherent qualities and the subtle material particles (pudgala) it attracts through passions (kaṣāya) and activities (yoga). Among these particles, body‑making karma is responsible for shaping the structural, functional, and aesthetic aspects of the body—whether human, animal, celestial, or infernal.\n\nBody‑making matter is not a single substance but a **complex cluster of karmic subtypes** that govern the emergence of different bodily systems. Classical Jain texts describe multiple subdivisions, including the gross physical body (audārika), the fluid or transformation body (vaikriya), the fiery or energy body (taijasa), and the karmic body (kārmaṇa). Each of these arises from specific karmic causes and serves distinct functions in the soul’s journey through saṃsāra.\n\nThe audārika body is the familiar biological body of humans and animals. The vaikriya body is subtle and shape‑changing, associated with celestial and infernal beings. The taijasa body is composed of fiery matter and is essential for digestion and vitality. The kārmaṇa body is the most subtle, serving as the carrier of karmic particles across lifetimes. Body‑making matter thus forms the bridge between metaphysical karma theory and the observable diversity of living forms.\n\nJain philosophers emphasize that body‑making karma does not operate mechanically. It is shaped by ethical conduct, mental states, and spiritual development. For example, intense passions may lead to the formation of lower‑realm bodies, while restraint and virtue contribute to higher or more auspicious embodiments. The doctrine is therefore both cosmological and ethical, illustrating how physical existence is inseparable from moral causation.\n\nAcross Digambara and Śvetāmbara traditions, the core structure of body‑making karma remains consistent, though enumerations of subtypes and interpretive nuances may differ. Modern scholarship highlights the sophistication of Jain karmic physiology, noting its attempt to explain embodiment without invoking a creator deity, relying instead on natural moral causation and the interaction of soul and matter.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "शरीरनामकर्म",
+      "transliteration": "śarīra‑nāma‑karma",
+      "translation": "“The body‑making (nāma) karma is that which causes the formation of the body.”",
+      "notes": "Tattvārtha Sūtra 8.13–8.14 outlines the categories of nāma‑karma, including the karmas responsible for producing different types of bodies. Commentaries such as Pūjyapāda’s Sarvārthasiddhi (Digambara) and Siddhasena’s Tattvārthavṛtti (Śvetāmbara) elaborate on the subdivisions of body‑making karma."
+    },
+    {
+      "title": "Gommatasāra (Karmakāṇḍa)",
+      "author": "Nemicandra Siddhānta Cakravartin",
+      "original_text": "अौदारिक-वैक्रिय-तैजस-कर्मण-शरीराणि",
+      "transliteration": "audārika‑vaikriya‑taijasa‑kārmaṇa‑śarīrāṇi",
+      "translation": "“The bodies are of four kinds: gross, fluid (transformation), fiery, and karmic.”",
+      "notes": "Gommatasāra Karmakāṇḍa provides one of the most detailed Digambara expositions of the four bodies and the karmic processes that generate them. It is a key source for technical Jain karma theory."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "कम्मस्स देहो",
+      "transliteration": "kammasa deho",
+      "translation": "“The body is (formed) from karma.”",
+      "notes": "This passage appears in discussions of embodiment and karmic causation. The text emphasizes moral causality as the determinant of physical form."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Body‑making matter is a physical substance similar to biological tissues.",
+      "reality": "In Jainism, body‑making matter refers to karmic particles (pudgala) that are subtle, non‑biological, and imperceptible. They condition the emergence of physical tissues but are not themselves gross matter."
+    },
+    {
+      "myth": "All souls automatically receive the same type of body‑making karma.",
+      "reality": "Body‑making karma varies widely based on ethical conduct, passions, and previous karmic states. Different beings—humans, animals, celestial beings, infernal beings—receive distinct karmic configurations."
+    },
+    {
+      "myth": "Body‑making karma determines destiny in a fatalistic way.",
+      "reality": "Jain doctrine stresses that karmic influx and bondage are shaped by voluntary actions and can be altered through ethical discipline, meditation, and right conduct."
+    }
+  ]
+}

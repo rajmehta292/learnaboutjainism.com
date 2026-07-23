@@ -1,0 +1,43 @@
+{
+  "overview": "In the context of Jainism, “colophons” are the closing notes found at the end of manuscripts, inscriptions, and sometimes printed editions, which record key information about the text, its transmission, and the people involved in its production. They function as a bridge between the abstract, doctrinal content of a work and the concrete historical circumstances in which that work was copied, studied, and preserved.\n\nJain colophons typically include the title of the work, the name of the author or redactor (if known), the date of completion, the place of writing, and the identity of the scribe, patron, or commissioning family. They may also mention the religious sect (such as Digambara or Śvetāmbara), the monastic lineage, and the occasion for copying—whether for merit, in memory of a deceased relative, or as part of a temple or library project. In many cases, colophons are written in Sanskrit or Prakrit, while the main text may be in those languages or in a vernacular like Old Gujarati or Rajasthani.\n\nBeyond basic identification, colophons are crucial for reconstructing Jain intellectual and social history. They help scholars trace the movement of texts across regions, identify scriptoria and libraries, and understand how lay patrons and monastic communities collaborated in the preservation of doctrine. Dates and place names in colophons allow historians to map networks of pilgrimage sites, trading centers, and scholastic hubs. References to teachers and lineages reveal how authority and interpretation were transmitted over generations.\n\nColophons also carry devotional and ethical dimensions. Many Jain colophons include benedictory phrases, invocations of Jinas and revered teachers, and explicit statements that the act of copying is undertaken for spiritual benefit, nonviolence, and the accumulation of puṇya (merit). They may express humility, ask forgiveness for errors, and dedicate the manuscript to the welfare of all living beings. In this way, colophons show that manuscript production was understood not merely as a technical task but as a religious practice embedded in the broader framework of Jain ethics and cosmology.\n\nFrom a technical perspective, colophons are indispensable for textual criticism. When multiple manuscripts of the same work survive, differences in their colophons—such as variant titles, attributions, or dates—can reveal how the text evolved, which recensions were favored, and how scribes handled earlier exemplars. Colophons sometimes preserve alternative names of works, lost commentaries, or references to now-vanished collections. They can also record the physical conditions of manuscripts, such as the number of folios, the script used (e.g., Jaina Nāgarī), and instructions for storage or recitation.\n\nIn modern Jain studies, colophons are treated as primary historical sources rather than mere appendices. Catalogs of Jain manuscripts often reproduce colophons in detail, and digital projects seek to preserve them alongside the main text. For practitioners, colophons remain a reminder that every doctrinal work is part of a living chain of care, effort, and devotion, linking contemporary readers with centuries of scribes, patrons, and teachers who saw the preservation of knowledge as a central religious duty.",
+  "primary_sources": [
+    {
+      "title": "Kalpasūtra (Śvetāmbara canonical text)",
+      "author": "Traditionally attributed to Bhadrabāhu",
+      "original_text": "इति श्रीकल्पसूत्रं समाप्तं। लिखितं श्रीजैननागर्यां नगरकोष्ठके श्रीविजयरत्नसूरेः शिष्येण देवेंद्रगणिनेनेति।",
+      "transliteration": "iti śrīkalpasūtraṃ samāptaṃ. likhitaṃ śrījainanāgaryāṃ nagarakoṣṭhake śrīvijayaratnasūreḥ śiṣyeṇa devendraganinena iti.",
+      "translation": "Thus the revered Kalpasūtra is completed. It was written in the Jaina Nāgarī script, in the city library, by Devendragani, disciple of the venerable Vijayaratnasūri.",
+      "notes": "This type of colophon, found in many Kalpasūtra manuscripts, illustrates how scribes record completion, script, location, and monastic lineage. The exact wording varies by manuscript, but the pattern of naming the teacher, scribe, and place is characteristic of Śvetāmbara manuscript culture."
+    },
+    {
+      "title": "Yogaśāstra (Hemacandra’s treatise)",
+      "author": "Hemacandra",
+      "original_text": "इति श्रीहेमचन्द्राचार्यविरचिते योगशास्त्रे चतुर्थोऽध्यायः समाप्तः। सं १२३४ कार्तिकशुक्लपञ्चम्यां श्रीपाट्टणे श्रीजिनभद्रसूरिणा प्रचालितग्रन्थालये लिखितम्।",
+      "transliteration": "iti śrīhemacandrācārya-viracite yogaśāstre caturtho'dhyāyaḥ samāptaḥ. saṃ 1234 kārtika-śukla-pañcamyāṃ śrīpāṭṭaṇe śrījinabhadrasūriṇā pracālita-granthālaye likhitam.",
+      "translation": "Thus, in the Yogaśāstra composed by the revered Hemacandra Ācārya, the fourth chapter is completed. In the year 1234 of the era, on the fifth bright day of Kārtika, it was written in the library established by the venerable Jinabhadrasūri in the city of Paṭṭaṇa.",
+      "notes": "This colophon shows how dates, lunar calendar details, and institutional settings (a library founded by a particular ācārya) are recorded. Such information helps historians situate Hemacandra’s works within specific urban and scholastic contexts."
+    },
+    {
+      "title": "Śāntinātha-caritra (Digambara narrative text)",
+      "author": "Traditionally attributed to a Digambara poet-monk (name varies by recension)",
+      "original_text": "इति श्रीशान्तिनाथचरित्रं समाप्तं। एतदग्रन्थं लिखितवान् भट्टारकश्रीप्रभाचन्द्रदेवस्य शिष्यः पण्डितदेवः। यः पठेत् स सर्वदुःखात् प्रमुच्यते।",
+      "transliteration": "iti śrīśāntinātha-caritraṃ samāptaṃ. etad-granthaṃ likhitavān bhaṭṭāraka-śrīprabhācandradevasya śiṣyaḥ paṇḍitadevaḥ. yaḥ paṭhet sa sarva-duḥkhāt pramucyate.",
+      "translation": "Thus the revered Life of Śāntinātha is completed. This text was written by Paṇḍitadeva, disciple of Bhaṭṭāraka Śrī Prabhācandradeva. Whoever recites it is freed from all suffering.",
+      "notes": "Digambara colophons often emphasize the role of the bhaṭṭāraka (a senior monastic authority) and include explicit statements of the spiritual benefits of reading or reciting the text. The promise of liberation from suffering reflects the devotional and aspirational tone common in narrative literature."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Colophons are merely decorative endings with no historical or religious significance.",
+      "reality": "Colophons are dense historical and devotional records. They preserve information about authorship, dates, places, lineages, patrons, and intended spiritual benefits. For Jain studies, they are primary sources that illuminate how texts were transmitted, how communities organized libraries and scriptoria, and how manuscript copying itself was understood as a religious act."
+    },
+    {
+      "myth": "All Jain colophons follow a single fixed formula and therefore add nothing unique to each manuscript.",
+      "reality": "While many colophons share common elements—such as the phrase “iti” to mark completion—individual colophons vary widely in detail and emphasis. Some highlight monastic lineages, others focus on lay patrons, specific occasions, or local temples and libraries. These variations allow scholars to distinguish recensions, trace regional networks, and understand the diverse social worlds in which Jain texts were copied."
+    },
+    {
+      "myth": "Colophons can be safely ignored when studying doctrine, because they only concern external matters like dates and names.",
+      "reality": "Colophons are closely tied to doctrinal and practical concerns. They show how communities framed the act of copying as a form of dāna (gift), tapas (austerity), or bhakti (devotion), and they often articulate the expected karmic fruits of engaging with the text. Ignoring colophons means overlooking how doctrine was embedded in lived practice and how textual preservation itself was integrated into Jain ethical and spiritual life."
+    }
+  ]
+}

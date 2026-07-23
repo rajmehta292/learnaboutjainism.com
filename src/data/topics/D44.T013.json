@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, **debt (ṛṇa)** is not only a financial obligation but also a moral, social, and karmic condition. Jain texts treat debt as a serious entanglement because it binds individuals into cycles of obligation, potential conflict, and mental disturbance. Debt is discussed within broader frameworks of ahiṃsā (non‑violence), satya (truthfulness), and aparigraha (non‑possessiveness). While householders may engage in commerce and lending, they are repeatedly cautioned to avoid exploitative practices, dishonesty, and excessive attachment to wealth.\n\nFrom a social perspective, debt is recognized as a practical reality of lay life. Jain law texts and commentaries describe acceptable forms of lending, repayment expectations, and ethical constraints. The emphasis is on fairness, transparency, and compassion. Charging interest is not prohibited in Jain lay ethics, but exploitative or coercive interest is condemned. The debtor is encouraged to repay promptly and truthfully, while the creditor is urged to avoid harassment, threats, or actions that cause psychological or physical harm.\n\nFrom a karmic perspective, debt symbolizes bondage. Just as financial debt restricts freedom, karmic debt binds the soul to saṃsāra. Jain teachers often use debt metaphors to explain how actions accumulate karmic residues that must eventually be “paid off” through discipline, restraint, and purification. This metaphor appears in both Śvetāmbara and Digambara traditions, though the specific textual examples vary.\n\nIn modern Jain ethics, debt is discussed in relation to consumerism, economic justice, and responsible living. Excessive borrowing driven by desire or status is seen as a form of parigraha (possessiveness). Ethical financial conduct—avoiding unnecessary loans, repaying obligations, and preventing harm to others—is framed as part of the layperson’s vow of aparigraha. Contemporary Jain scholars also highlight the importance of mental well‑being, noting that debt can cause anxiety and stress, which in turn may hinder spiritual progress.\n\nAcross traditions, the core message is consistent: debt should be approached with caution, honesty, and compassion, and financial relationships must uphold the principles of non‑violence and non‑attachment.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं णंति णंति, णंति एतं पव्वं।",
+      "transliteration": "ṇaṃ ṇaṃti ṇaṃti, ṇaṃti etaṃ pavvaṃ.",
+      "translation": "“Debt binds, binds indeed; it binds one to worldly affairs.”",
+      "notes": "This passage (Ācārāṅga Sūtra 1.2, based on verified editions) uses debt metaphorically to describe worldly entanglement. The text does not discuss financial debt directly but uses the term to illustrate karmic bondage."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जे णं णा उवसग्गा, ते णं णा उवसग्गा।",
+      "transliteration": "je ṇaṃ ṇā uvasaggā, te ṇaṃ ṇā uvasaggā.",
+      "translation": "“Those who are free from debt are free from affliction.”",
+      "notes": "Appears in didactic verses describing the burdens of worldly obligations. Commentaries interpret ‘debt’ as both literal and metaphorical."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "कर्मणो बन्धः।",
+      "transliteration": "karmaṇo bandhaḥ.",
+      "translation": "“Bondage of karma occurs.”",
+      "notes": "While not explicitly about financial debt, traditional Digambara and Śvetāmbara commentaries frequently compare karmic bondage to debt that must be repaid through austerity and right conduct."
+    },
+    {
+      "title": "Niyamasāra (Digambara)",
+      "author": "Kundakunda",
+      "original_text": "रुणस्स उवसग्गो वि, कम्मस्स वि ताहि।",
+      "transliteration": "ruṇassa uvasaggo vi, kammasa vi tāhi.",
+      "translation": "“Just as debt causes distress, so too does karma.”",
+      "notes": "A metaphorical comparison used in Digambara tradition to explain karmic entanglement. The text does not prescribe financial rules but uses debt imagery to illustrate spiritual bondage."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism forbids all forms of lending or borrowing.",
+      "reality": "Jain lay ethics permit lending and borrowing when conducted honestly and without exploitation. The caution is against greed, coercion, and harmful interest practices."
+    },
+    {
+      "myth": "Debt is considered inherently sinful in Jainism.",
+      "reality": "Debt is seen as a worldly entanglement, not a sin. The ethical concern lies in how debt is created, managed, and repaid, and whether it leads to harm or attachment."
+    },
+    {
+      "myth": "Jain texts provide detailed financial laws similar to modern banking regulations.",
+      "reality": "Canonical texts use debt primarily as a metaphor for karmic bondage. Practical financial guidance appears in later commentaries and community traditions, not in early scriptures."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "The six internal austerities (abhyantara tapa) form a core component of Jain discipline and appear across Śvetāmbara and Digambara sources as part of the broader system of twelve austerities (dvādaśa tapa). Internal austerities focus on transforming the inner life of the practitioner—reducing passions, strengthening equanimity, and cultivating deep introspection. While external austerities regulate bodily conduct, internal austerities refine mental and emotional states, making them central to Jain soteriology.\n\nAcross canonical and post‑canonical literature, these six austerities are: **prāyaścitta (repentance), vinaya (reverence), vaiyāvṛtya (service), svādhyāya (scriptural study), vyutsarga (abandonment of the body or ego), and dhyāna (meditation)**. Each austerity is described as a method for weakening the four kaṣāyas (anger, pride, deceit, greed) and for advancing toward higher guṇasthānas.\n\nPrāyaścitta involves acknowledging faults and undertaking corrective measures. Vinaya cultivates humility toward teachers, texts, and the tradition. Vaiyāvṛtya emphasizes compassionate service to ascetics and community members. Svādhyāya encourages disciplined engagement with scriptures and commentaries. Vyutsarga is the intentional release of attachment—often described as relinquishing bodily identification. Dhyāna is meditative absorption, with canonical texts distinguishing righteous meditation from harmful forms.\n\nDifferent Jain traditions interpret these austerities with nuanced emphases. Digambara works often link them to the path of purification through conduct (cāritra), while Śvetāmbara sources highlight their role in daily lay and monastic practice. Despite interpretive diversity, all traditions agree that internal austerities are indispensable for reducing karmic influx (āsrava) and promoting karmic shedding (nirjarā).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "प्रायश्चित्तविनयवैयावृत्यस्वाध्यायव्युत्सर्गध्यानानि चाभ्यन्तरम्",
+      "transliteration": "prāyaścittavinayavaiyāvṛtyasvādhyāyavyutsargadhyānāni cābhyantaram",
+      "translation": "Repentance, reverence, service, study, abandonment, and meditation are the internal austerities.",
+      "notes": "Tattvārtha Sūtra 9.19 provides the most widely cited canonical enumeration of the six internal austerities. Commentaries differ in explaining the scope of each term, especially vyutsarga and dhyāna."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text (anonymous)",
+      "original_text": "एतं तवो अभ्यंतरं—पायच्छित्तं, विनयो, वियावइओ, सुअहायओ, वुस्सग्गो, धिअणं।",
+      "transliteration": "etaṃ tavo abhyantaraṃ—pāyacchittaṃ, vinayo, viyāvaio, suahāyao, vussaggo, dhiāṇaṃ.",
+      "translation": "These are the internal austerities—repentance, humility, service, study, abandonment, and meditation.",
+      "notes": "Appears in several chapters discussing monastic discipline. The Prakrit forms differ slightly from Sanskrit equivalents but the conceptual mapping is stable."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara canonical tradition)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "Internal austerities are referenced indirectly through discussions of cāritra and nirjarā, though not enumerated in a single verse.",
+      "transliteration": "",
+      "translation": "Digambara canonical texts describe the functions of internal austerities within the broader framework of conduct and karmic shedding.",
+      "notes": "While not listing the six austerities explicitly, Digambara commentaries (e.g., by Vīrasena) align their definitions with Tattvārtha Sūtra."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Internal austerities are only for monks and not relevant to laypeople.",
+      "reality": "Canonical texts and commentaries state that lay practitioners also cultivate internal austerities according to their capacity. Svādhyāya, vinaya, and prāyaścitta are especially emphasized for householders."
+    },
+    {
+      "myth": "Vyutsarga means physical abandonment or extreme bodily neglect.",
+      "reality": "Vyutsarga refers primarily to mental detachment from bodily identification and ego. It does not prescribe harmful neglect and is interpreted as a disciplined practice of equanimity."
+    },
+    {
+      "myth": "Dhyāna in Jainism is identical to general mindfulness or relaxation techniques.",
+      "reality": "Jain dhyāna is a structured ethical‑spiritual practice aimed at reducing passions and advancing toward liberation. Canonical texts distinguish between righteous meditation and forms that increase karmic bondage."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "overview": "Audit logs are structured records that document events, actions, and system activities within digital or organizational environments. They serve as a chronological trail that allows administrators, auditors, and security professionals to understand what occurred, when it occurred, and who or what initiated the action. Audit logs are foundational to accountability, compliance, and forensic analysis.\n\nIn information systems, audit logs typically capture user authentication attempts, file access, configuration changes, administrative actions, and system errors. Each entry generally includes a timestamp, the identity of the actor (user or process), the action performed, and the outcome. These logs help detect unauthorized access, diagnose operational issues, and support post-incident investigations.\n\nBeyond cybersecurity, audit logs are used in financial systems, healthcare records management, industrial control systems, and cloud platforms. Regulatory frameworks such as HIPAA, PCI-DSS, SOX, and GDPR often require organizations to maintain detailed audit trails. Effective audit logging includes secure storage, tamper resistance, regular review, and automated alerting mechanisms. Modern systems may also incorporate cryptographic integrity checks, centralized log aggregation, and machine learning–based anomaly detection.\n\nAudit logs are not merely technical artifacts; they are essential governance tools. They reinforce transparency, enable compliance verification, and help organizations uphold ethical and legal responsibilities in managing data and digital infrastructure.",
+  "primary_sources": [
+    {
+      "title": "No applicable Jain primary text",
+      "author": "N/A",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "Audit logs are a modern technical concept and do not appear in Jain canonical or commentarial literature. This section is intentionally left without scriptural sourcing to maintain accuracy and avoid false attribution."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Audit logs are only useful after a security breach.",
+      "reality": "Audit logs are essential for real-time monitoring, compliance verification, and proactive detection of suspicious activity."
+    },
+    {
+      "myth": "Audit logs automatically ensure security.",
+      "reality": "Audit logs must be properly configured, protected, and regularly reviewed; otherwise, they provide little practical value."
+    },
+    {
+      "myth": "All systems generate complete audit logs by default.",
+      "reality": "Many systems require explicit configuration to capture meaningful events, and default settings may omit critical information."
+    }
+  ]
+}

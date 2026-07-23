@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain historical studies, **royal patronage** refers to the support—material, administrative, ritual, and cultural—offered by kings, queens, princes, and regional rulers to Jain communities, mendicants, temples, and literary activity. This patronage is documented from the earliest strata of Jain tradition and continues through the classical, medieval, and early modern periods. Royal patronage is not portrayed in Jain texts as a source of spiritual authority; instead, it is framed as a worldly condition that can either assist or hinder the flourishing of the Jain saṅgha.\n\nAcross both Digambara and Śvetāmbara traditions, royal patronage appears in inscriptions, narrative literature, and monastic chronicles. Rulers provided land grants, protection for monastic wanderers, construction of temples and maṇḍapas, commissioning of manuscripts, and support for councils that standardized canonical texts. In return, Jain mendicants often offered ethical counsel, nonviolent statecraft advice, and moral exemplars through stories and sermons. The relationship is consistently depicted as one of **mutual benefit**, not hierarchical religious authority.\n\nHistorically, Jainism received patronage from dynasties such as the Mauryas, Kadambas, Western Ganga kings, Rāṣṭrakūṭas, Chalukyas, and various regional rulers in Gujarat and Rajasthan. Inscriptions from Shravanabelagola, Khandagiri–Udayagiri, and Mount Abu show how royal support shaped the physical and literary landscape of Jainism. However, Jain texts also warn that patronage is impermanent and should not be mistaken for spiritual progress; true liberation depends on personal conduct, not royal favor.\n\nIn modern scholarship, royal patronage is studied as a key factor in the spread of Jain art, architecture, and manuscript culture. It is also analyzed comparatively to understand how Jain communities negotiated their identity within broader political systems while maintaining strict commitments to ahiṃsā and monastic discipline.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "ṇa rājāṇaṃ pasayāṇaṃ, na gahāṇaṃ pasayāṇaṃ",
+      "transliteration": "ṇa rājāṇaṃ pasayāṇaṃ, na gahāṇaṃ pasayāṇaṃ",
+      "translation": "“He should not seek the favor of kings nor the favor of householders.”",
+      "notes": "Tier A. This passage (Ācārāṅga Sūtra I.7) emphasizes that mendicants must avoid dependence on royal or lay patronage for spiritual practice. It does not forbid kings from supporting Jainism; rather, it instructs monks to maintain independence from worldly power."
+    },
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "Mahāvīro… rājāṇaṃ bahumāṇaṃ labbhati",
+      "transliteration": "Mahāvīro… rājāṇaṃ bahumāṇaṃ labbhati",
+      "translation": "“Mahāvīra received great honor from kings.”",
+      "notes": "Tier A. The Kalpa Sūtra’s narrative sections describe kings showing respect to Mahāvīra. This is not depicted as spiritual endorsement but as worldly recognition of his ethical stature."
+    },
+    {
+      "title": "Hemacandra’s Triṣaṣṭiśalākāpuruṣacaritra",
+      "author": "Hemacandra",
+      "original_text": "rājā dharmam upāśritya jinadharmasya paripālakah",
+      "transliteration": "rājā dharmam upāśritya jinadharmasya paripālakah",
+      "translation": "“The king, taking refuge in dharma, became a protector of the Jina’s teaching.”",
+      "notes": "Tier B. Hemacandra’s 12th‑century narrative describes ideal kings who support Jain dharma through nonviolent governance and patronage of temples and scholars. It reflects Śvetāmbara Mūrtipūjaka perspectives on righteous kingship."
+    },
+    {
+      "title": "Shravanabelagola Inscriptions",
+      "author": "Various donors and royal scribes",
+      "original_text": "Śrī‑Gangarājena pratishṭhāpitam",
+      "transliteration": "Śrī‑Gaṅgarājena pratiṣṭhāpitam",
+      "translation": "“Established by King Śrī Gaṅgarāja.”",
+      "notes": "Tier A epigraphy. Western Ganga inscriptions (c. 5th–10th century CE) document extensive Digambara royal patronage, including temple construction, endowments, and support for monastic lineages."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism spread primarily because kings adopted it as a state religion.",
+      "reality": "No major dynasty made Jainism an exclusive state religion. Patronage was significant but Jainism’s growth depended on merchant networks, monastic wanderers, and community institutions."
+    },
+    {
+      "myth": "Royal patronage implies that Jain monks served as political advisors or court officials.",
+      "reality": "Primary texts emphasize monastic independence from political roles. While some monks offered ethical counsel, they did not hold administrative positions."
+    },
+    {
+      "myth": "All Jain temples were built by kings.",
+      "reality": "Many temples were funded by merchants, guilds, and lay communities. Royal patronage represents only one part of a diverse donor landscape."
+    }
+  ]
+}

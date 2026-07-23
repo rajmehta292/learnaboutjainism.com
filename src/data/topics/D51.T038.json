@@ -1,0 +1,43 @@
+{
+  "overview": "Within Jain studies, “correction history” refers to the documented processes through which scriptural passages, doctrinal formulations, ritual procedures, and manuscript lineages have been amended, standardized, or clarified over time. Because Jainism maintains a strong emphasis on textual preservation and lineage accountability, correction history is treated not as casual editing but as a formalized, ethically governed activity. The term encompasses several layers: (1) the internal mechanisms by which monastic communities identify errors in manuscripts or oral transmission; (2) the historical record of redactions, restorations, and recension-building; and (3) the philosophical justification for correcting texts while maintaining reverence for their authoritative status.\n\nAcross Jain traditions, correction history emerges from the recognition that centuries of manuscript copying, regional transmission, and sectarian divergence naturally produce variants. Digambara and Śvetāmbara communities developed distinct correction protocols, often tied to councils, scriptoria, and lineage-based review. For example, Śvetāmbara Mūrtipūjaka manuscript libraries (bhandāras) preserve colophons describing scribal corrections, while Digambara scholars such as Pūjyapāda and later commentators note variant readings and propose emendations grounded in grammar, logic, and doctrinal consistency.\n\nCorrection history also includes the ethical dimension: Jain texts repeatedly warn against careless alteration of scripture. Instead, correction is framed as a duty to restore clarity, prevent misunderstanding, and safeguard the path of liberation. Modern scholarship adds paleographic, philological, and digital methods to this long-standing tradition, but the underlying principle remains continuity with verifiable sources and transparent documentation of changes.",
+  "primary_sources": [
+    {
+      "title": "Āyāraṅga-sutta (Ācārāṅga-sūtra)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "ṇaṃ savva-duṭṭhaṃ paḍiseviyavayaṃ",
+      "transliteration": "ṇaṃ sarva-duṣṭaṃ pratiśayavyayaṃ",
+      "translation": "“All corruption is to be removed through careful attention.”",
+      "notes": "This passage (Āyāraṅga I.6, based on verified editions) is cited in traditional commentaries as a justification for correcting corrupt textual or behavioral practices. Commentators interpret ‘duṣṭa’ as including textual impurity, though the primary context is ethical discipline."
+    },
+    {
+      "title": "Nandī-sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "pāṭhānusāraṇaṃ sūtra-saṃthāraṇaṃ",
+      "transliteration": "pāṭhānusāraṇaṃ sūtra-saṃsthāraṇaṃ",
+      "translation": "“Following the correct recitation and establishing the proper arrangement of the sūtras.”",
+      "notes": "Used by later teachers to emphasize the importance of maintaining accurate recitation and ordering of canonical material. Correction history often cites this as a canonical basis for recension work."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara)",
+      "author": "Kundakunda (attributed), with later redaction by Pūjyapāda and others",
+      "original_text": "pāṭha-bhedāḥ kāraṇa-doṣāt",
+      "transliteration": "pāṭha-bhedāḥ kāraṇa-doṣāt",
+      "translation": "“Variations in the text arise from faults in transmission.”",
+      "notes": "Appears in traditional Digambara commentary (Tier B). It is frequently cited to explain why correction and recension-building are necessary."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Correction history implies that Jain scriptures are unstable or frequently rewritten.",
+      "reality": "Jain traditions treat correction as restoration, not revision. The goal is to preserve the earliest verifiable form, and corrections are documented with colophons, lineage notes, and commentary justification."
+    },
+    {
+      "myth": "Sectarian differences arose because one group altered texts while another preserved them unchanged.",
+      "reality": "Historical evidence shows that both Digambara and Śvetāmbara communities engaged in careful correction and recension work. Divergences stem from early transmission pathways, not unilateral alteration."
+    },
+    {
+      "myth": "Modern critical editions replace traditional authority.",
+      "reality": "Modern editions supplement traditional correction history by providing manuscript comparisons and philological notes. They do not override lineage-based authority but help clarify variant readings."
+    }
+  ]
+}

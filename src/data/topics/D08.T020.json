@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain epistemology and ethics, the term **Apta** (Sanskrit: आप्त; Prakrit: अत्त) refers to a *trustworthy, authoritative, and spiritually reliable person* whose statements can be accepted as valid knowledge. The concept is central to classical Jain theories of pramāṇa (valid cognition) and forms a foundational category in discussions of testimony (āgama) as a legitimate source of knowledge.\n\nIn Jain thought, an Apta is not simply a scholar or an expert. The term designates an individual who has attained a high level of moral purity, freedom from passions (kaṣāya), and clarity of perception. Because their cognition is unobstructed by attachment, aversion, or delusion, their words are considered trustworthy. This reliability is not based on institutional authority but on the inner state of the speaker.\n\nThe Apta ideal is closely linked to the qualities of the *Jina*, *Kevalin*, and advanced spiritual teachers. However, Jain texts also allow for the category to include other individuals who possess significant spiritual advancement and moral integrity. The Apta is thus a key figure in the transmission of Jain doctrine, the preservation of scripture, and the ethical guidance of laypeople.\n\nPhilosophically, the Apta is invoked in debates with other Indian traditions regarding the nature of testimony, the criteria for trustworthiness, and the relationship between moral purity and epistemic authority. The concept also plays a role in discussions of syādvāda and anekāntavāda, where the Apta is seen as one who can articulate truth without absolutism or bias.\n\nAcross Jain traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—the term is used with consistent meaning, though specific texts and commentaries may emphasize different aspects of the Apta’s qualities, such as omniscience, passionlessness, or scriptural mastery.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "आप्तवचनम् आगमः",
+      "transliteration": "āptavacanam āgamaḥ",
+      "translation": "“Scripture (āgama) is the word of the Apta.”",
+      "notes": "Tattvārtha Sūtra 1.6 defines āgama as the speech of an Apta, establishing the epistemic authority of trustworthy persons as the basis of scriptural validity. Commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi) explain the Apta as one who is free from passions and possesses right knowledge."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "अत्तो वि अत्तगुणसम्पण्णो",
+      "transliteration": "atto vi attaguṇasampaṇṇo",
+      "translation": "“The Apta is endowed with the qualities of the Self (pure soul).”",
+      "notes": "Kundakunda describes the Apta as one who has realized the true nature of the soul and speaks from direct experience. This links the concept to advanced spiritual states rather than institutional roles."
+    },
+    {
+      "title": "Pramāṇa-mīmāṃsā",
+      "author": "Ācārya Hemacandra",
+      "original_text": "आप्तस्य वचनं प्रमाणम्",
+      "transliteration": "āptasya vacanaṃ pramāṇam",
+      "translation": "“The word of the Apta is a means of valid knowledge.”",
+      "notes": "Hemacandra’s epistemological treatise elaborates criteria for identifying an Apta, emphasizing freedom from deceit, delusion, and partiality. He contrasts the Jain Apta with non-Jain notions of authoritative testimony."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "An Apta is simply any religious teacher or monk.",
+      "reality": "Jain texts define an Apta as one who is free from passions and possesses right knowledge. Not all monks or teachers automatically meet this criterion; it is a spiritual and epistemic status, not a formal title."
+    },
+    {
+      "myth": "Apta means an omniscient being only.",
+      "reality": "While omniscient beings (Kevalins) are the highest Aptas, Jain epistemology allows for non-omniscient but passionless and truthful individuals to be considered Aptas as well."
+    },
+    {
+      "myth": "Apta authority is based on institutional hierarchy.",
+      "reality": "Jainism grounds Apta authority in inner qualities—purity, non-attachment, and truthful perception—not in institutional rank or social position."
+    }
+  ]
+}

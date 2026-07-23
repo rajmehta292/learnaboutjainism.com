@@ -1,0 +1,55 @@
+{
+  "overview": "Jain understandings of death emerge from a highly technical moral–metaphysical framework in which death (maraṇa) is neither an annihilation nor a transition controlled by external divine agency. Instead, it is the cessation of a particular embodied state of the jīva (sentient soul), governed by karmic fruition (karma‑udaya) and the soul’s own accumulated dispositions (bhāva). Across Jain traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—death is interpreted through the broader doctrines of saṃsāra, karma, and the guṇasthāna (stages of spiritual development).\n\nJain texts distinguish between ordinary death (āpadmaraṇa or akāmamaraṇa) and spiritually disciplined death (saṃlekhana‑maraṇa or samādhi‑maraṇa). Ordinary death occurs when karmic conditions determining lifespan (āyuḥ‑karma) reach exhaustion. The soul immediately takes a new birth according to the remaining karmic configuration. This process is described in detail in canonical works such as the *Tattvārtha Sūtra* and the *Uttarādhyayana Sūtra*, which outline how the soul moves through cosmic realms (gati) based on its ethical and mental states at the moment of dying.\n\nSpiritually disciplined death, described in primary texts but strictly regulated in practice, refers to a gradual, voluntary reduction of passions (kaṣāya) and bodily dependence undertaken only under specific conditions and with extensive ethical safeguards. It is not a means to escape suffering but a culmination of lifelong ascetic discipline. Modern Jain communities emphasize that such practices require guidance from qualified human teachers and are not appropriate for individuals with medical or psychological vulnerabilities.\n\nJain philosophy also treats death as a moment of heightened moral significance. The mental state at death (maraṇa‑samaya‑bhāva) can influence future karmic bondage. Therefore, cultivating equanimity (samatā), non‑violence (ahiṃsā), and awareness (upayoga) is considered essential. Rituals surrounding death—such as pratikramaṇa, recitation of sūtras, and reflection on impermanence—aim to support clarity and non‑attachment rather than grief-driven ritualism.\n\nAcross sects, death is framed as a natural and inevitable transformation within the endless cycle of rebirth. Jainism rejects the idea of a final judgment by a deity; instead, karmic law operates automatically. Liberation (mokṣa) is achieved only when all karmas are destroyed, ending the cycle of death and rebirth entirely. Until then, death is one transition among many, shaped by ethical conduct, mental discipline, and the soul’s intrinsic capacity for omniscience and freedom.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "आयुः कर्म क्षयोपशमात् देहान्तः",
+      "transliteration": "āyuḥ karma kṣayopaśamāt dehāntaḥ",
+      "translation": "The end of the body occurs through the exhaustion or subsidence of lifespan‑determining karma.",
+      "notes": "A foundational pan‑Jain text (Tier A) describing the mechanics of death, rebirth, and karmic processes. Commentaries differ slightly across Digambara and Śvetāmbara traditions."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Anonymous; part of Śvetāmbara canon",
+      "original_text": "जिवो गच्छति गतीं भावसमुद्गमात्",
+      "transliteration": "jivo gacchati gatīṃ bhāvasamudgamāt",
+      "translation": "The soul moves to its next realm according to the emergence of its mental states.",
+      "notes": "Frequently cited for teachings on impermanence, the moment of death, and the importance of equanimity. Sectarian editions vary."
+    },
+    {
+      "title": "Bhagavatī Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "मरणे समये उपशान्तकषायो भवति",
+      "transliteration": "maraṇe samaye upaśāntakaṣāyo bhavati",
+      "translation": "At the time of death, the one whose passions are pacified attains clarity.",
+      "notes": "Provides dialogues on karmic conditions at death and the mental states conducive to auspicious rebirth."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "आयुः क्षये देहवियोगः",
+      "transliteration": "āyuḥ kṣaye dehaviyogaḥ",
+      "translation": "When lifespan‑karma is exhausted, separation from the body occurs.",
+      "notes": "A major Digambara canonical text offering technical descriptions of karmic fruition, including the mechanics of death."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that death is desirable or should be hastened for spiritual reasons.",
+      "reality": "Primary texts emphasize equanimity and non‑attachment, not the pursuit of death. Any disciplined end‑of‑life practice is tightly regulated, requires qualified human guidance, and is only considered for advanced practitioners under specific conditions. Modern Jain communities stress medical and ethical safeguards."
+    },
+    {
+      "myth": "Jains believe that death leads immediately to liberation.",
+      "reality": "Liberation occurs only when all karmas are destroyed. Most deaths lead to rebirth according to karmic law. Only a kevalin (omniscient being) attains liberation at death."
+    },
+    {
+      "myth": "Jainism views death as punishment from a deity.",
+      "reality": "Jain doctrine rejects divine judgment. Death results from the automatic fruition of lifespan‑determining karma, shaped by one’s own actions and mental states."
+    },
+    {
+      "myth": "All Jain sects perform identical death rituals.",
+      "reality": "While core philosophical principles are shared, ritual practices differ across Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth traditions, especially regarding mourning customs and scriptural recitations."
+    }
+  ]
+}

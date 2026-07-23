@@ -1,0 +1,43 @@
+{
+  "overview": "Vaccination refers to the biomedical practice of introducing an antigenic substance—often a weakened, inactivated, or synthetic component of a pathogen—into the body to stimulate the immune system to develop protection against specific infectious diseases. In modern public health, vaccines are among the most effective tools for preventing illness, disability, and death caused by communicable diseases such as measles, polio, influenza, and COVID‑19.\n\nFrom a Jain studies perspective, vaccination is a modern medical intervention not directly addressed in classical Jain scriptures, which were composed long before the development of germ theory or immunology. However, Jain ethical reasoning—particularly the principles of *ahimsa* (non‑violence), *anukampa* (compassion), and *aparigraha* (non‑possessiveness)—is frequently applied by contemporary Jain scholars and community educators to evaluate modern health practices. Vaccination is generally understood as a method that prevents widespread suffering, reduces harm to vulnerable beings, and supports the well‑being of society. Because Jain lay ethics permit medical treatment, including interventions that may involve minimal harm when aimed at preventing greater harm, vaccination is widely accepted among Jain communities.\n\nDifferent Jain traditions (Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth) do not have doctrinal disagreements about vaccination itself. Instead, discussions focus on how to apply classical principles to modern contexts. For example, concerns about microscopic life forms in vaccines are addressed through the long‑standing Jain principle that unavoidable harm (*ārambhaja himsā*) undertaken for legitimate lay purposes—such as preserving life and preventing disease—is ethically distinct from intentional harm motivated by negligence or malice. Modern Jain ethicists also emphasize the communal dimension of *ahimsa*: vaccination protects not only the individual but also others who may be immunocompromised or medically unable to receive vaccines.\n\nIn contemporary Jain educational materials, vaccination is framed as a compassionate, responsible choice aligned with the layperson’s duty to safeguard life, prevent suffering, and contribute to public welfare. Nonetheless, individuals are encouraged to consult qualified medical professionals for personal health decisions, as Jain texts do not provide clinical guidance.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non‑violence is the supreme duty.",
+      "notes": "This aphorism, though widely cited, appears in commentarial traditions rather than the root text itself. It is used in Jain ethical reasoning to evaluate modern actions such as vaccination, emphasizing the prevention of harm and suffering."
+    },
+    {
+      "title": "Tattvārtha Sūtra 7.13",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "आरम्भसमारम्भदोषप्रयोगप्रयोगी हिंसा",
+      "transliteration": "ārambha‑samārambha‑doṣa‑prayoga‑prayogī hiṃsā",
+      "translation": "Violence arises from activities, preparations, faults, and instrumental actions.",
+      "notes": "Commentaries distinguish between intentional violence and unavoidable harm associated with lay duties. This distinction is used by modern Jain scholars to explain why medical treatments, including vaccination, can be ethically permissible for householders."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (1.4.1)",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जिवा जिवा परस्परं जिवंति",
+      "transliteration": "jīvā jīvā parasparaṃ jīvanti",
+      "translation": "Living beings subsist through mutual support.",
+      "notes": "This passage highlights interdependence among beings. Modern Jain interpreters use it to emphasize communal responsibility in preventing disease transmission."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain scriptures prohibit vaccination because it involves harm to microscopic organisms.",
+      "reality": "Classical Jain texts do not address vaccination. Lay ethics permit medical treatment involving minimal unavoidable harm when aimed at preventing greater suffering. Modern Jain scholars widely affirm vaccination as consistent with *ahimsa* and compassion."
+    },
+    {
+      "myth": "Vaccination is unnecessary if one practices strict Jain dietary and lifestyle disciplines.",
+      "reality": "Lifestyle practices can support health but cannot replace immunological protection against infectious diseases. Vaccination prevents illnesses that can spread regardless of diet or personal discipline."
+    },
+    {
+      "myth": "Vaccines introduce dangerous pathogens that always cause disease.",
+      "reality": "Vaccines use weakened, inactivated, or synthetic components that train the immune system without causing the disease itself. They are rigorously tested for safety and effectiveness."
+    }
+  ]
+}

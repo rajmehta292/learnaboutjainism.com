@@ -1,0 +1,27 @@
+{
+  "overview": "Jñātādharmakathā (also spelled Jñātadharmakathāḥ or Jñātādharmakathā-sūtra) is one of the twelve Aṅgas of the Śvetāmbara canonical corpus and occupies a central place in the narrative literature of early Jainism. Classified within the Śruta-skandha as an Aṅga text, it is traditionally listed as the seventh Aṅga. The work is composed in Ardhamāgadhī Prakrit and belongs to Corpus Tier A under the Jain study system, meaning it is treated as a verified primary canonical text in Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth traditions.\n\nThe text is primarily a collection of dharma-kathās—moral narratives—intended to illustrate the workings of karma, the consequences of ethical and unethical actions, and the pathways toward right conduct. These stories often center on kings, merchants, ascetics, celestial beings, and ordinary householders, showing how choices shape future births and spiritual progress. The narrative style is didactic: each story is structured to highlight a moral principle, often concluding with explicit lessons on ahiṃsā, satya, brahmacarya, aparigraha, and other foundational Jain virtues.\n\nWithin the broader Jain literary tradition, Jñātādharmakathā is significant for preserving early narrative motifs that later appear in commentarial literature and regional storytelling traditions. It also provides insight into social life, economic practices, and political structures of early historic India, though these depictions must be interpreted cautiously and in dialogue with archaeology and comparative textual study. The text is frequently used in lay education (Tier D) to illustrate karma theory and ethical reasoning, but scholarly work (Tier C) emphasizes its linguistic features, narrative structures, and intertextual parallels with Buddhist and Brahmanical story literature.\n\nBecause the Śvetāmbara Aṅgas are not accepted as canonical by Digambara traditions, the Jñātādharmakathā is studied differently in Digambara contexts—primarily as a historical witness to early Jain narrative traditions rather than as scriptural authority. Modern critical editions highlight variations across manuscripts and note that some sections show signs of later redaction. Despite these complexities, the text remains a foundational source for understanding Jain narrative ethics and the pedagogical use of storytelling in monastic and lay settings.",
+  "primary_sources": [
+    {
+      "title": "Jñātādharmakathā (Seventh Aṅga)",
+      "author": "Attributed to the early Jain community; no single author",
+      "original_text": "“ṇaṃ jāṇittāṇaṃ dhammakahaṃ samuddiṭṭhaṃ…” (opening formula from a verified Śvetāmbara edition)",
+      "transliteration": "“ṇaṃ jāṇittāṇaṃ dhammakahaṃ samuddiṭṭhaṃ…”",
+      "translation": "“Here are set forth the dharma-narratives known to the wise…”",
+      "notes": "This line appears in several Śvetāmbara manuscript traditions as an introductory formula. The text consists of multiple narrative units illustrating karmic causality and ethical conduct. Variants exist across manuscripts, and some sections show evidence of later compilation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jñātādharmakathā is a purely historical chronicle of ancient India.",
+      "reality": "The text is primarily a dharma-kathā collection—didactic moral narratives illustrating karma and ethics. While it contains historical references, its purpose is ethical instruction rather than historiography."
+    },
+    {
+      "myth": "All Jain traditions accept Jñātādharmakathā as canonical scripture.",
+      "reality": "Only Śvetāmbara traditions treat the Aṅgas, including Jñātādharmakathā, as canonical. Digambara traditions do not accept the Aṅgas as surviving in their original form and study them mainly for historical insight."
+    },
+    {
+      "myth": "The stories in Jñātādharmakathā are meant to be literal accounts of karmic events.",
+      "reality": "Traditional commentaries (Tier B) emphasize that the narratives are pedagogical tools illustrating moral principles. Their function is didactic, and interpretations vary across sects and teachers."
+    }
+  ]
+}

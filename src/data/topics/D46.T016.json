@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, questions about a creator-god (Īśvara, kartā, sraṣṭā) are treated as part of a broader inquiry into the nature of reality (tattva), causality, and liberation. Jain philosophers do not simply deny a creator in a polemical way; they analyze what \"creation\" would mean, what kind of being could perform it, and whether such a hypothesis is necessary or coherent within their ontology of multiple eternal substances (dravya). The result is a distinctive position: the cosmos is beginningless and without a single omnipotent creator, yet it is not chaotic. It is ordered by the intrinsic laws of karma, the nature of substances, and the interactions of living and non-living entities.\n\nFrom the earliest canonical strata, Jain texts describe the universe (loka) as eternal, without first moment or final destruction. Souls (jīva) and non-soul substances (ajīva) are co-eternal, undergoing infinite cycles of bondage and liberation. Because there is no absolute beginning, the question \"who created the world?\" is reframed: the world as such is not an artifact that comes into being at a particular time through the will of a single agent. Instead, the world is a field in which countless souls act, accumulate karma, and experience the results of their own deeds. The causal order is moral and experiential rather than imposed by a transcendent creator.\n\nJain authors also examine the logical and ethical implications of a creator-god hypothesis. If a single deity freely creates all beings and their conditions, then that deity would be responsible for suffering, moral evil, and inequality. Canonical texts argue that attributing such outcomes to a benevolent, omnipotent creator leads to contradictions: either the deity is not truly compassionate, or not truly free, or not truly omniscient. By contrast, the Jain doctrine of karma explains suffering and inequality as the precise fruition of each soul's own past actions, without requiring a divine will that distributes pleasure and pain.\n\nAt the same time, Jainism does not reject the language of divinity altogether. Liberated beings (siddha) and perfected teachers (arihant, tīrthaṅkara) are revered as \"gods\" (deva) in the sense of supremely awakened, omniscient, and worthy of worship. However, they are not creators or controllers of the universe. Their greatness lies in complete freedom from karma and passion, not in cosmic engineering. Worship of such beings is directed toward inspiration, purification of one's own intentions, and alignment with the path to liberation, rather than petitioning them to intervene in worldly events.\n\nLater philosophical works systematize these insights. They classify \"belief in a creator\" among wrong views (mithyādṛṣṭi) that obstruct right faith (samyagdarśana), because such beliefs misrepresent the structure of reality and the role of individual effort. Yet Jain thinkers also recognize that many religious communities speak of God in symbolic or ethical terms. In comparative discussions, they distinguish between a personal creator-god who makes and governs the world, which they reject, and more nuanced conceptions of ultimate reality or moral order, some of which can be interpreted in ways compatible with Jain principles of non-violence, non-absolutism (anekāntavāda), and karma.\n\nIn modern contexts, \"creator-god questions\" arise for Jain youth and laypeople who live in pluralistic societies. Teachers often emphasize that Jainism does not require hostility toward theistic traditions; instead, it invites careful reflection on how one understands responsibility, suffering, and spiritual progress. The Jain answer remains consistent: the universe is beginningless and law-governed, each soul is responsible for its own bondage and liberation, and no external creator can substitute for one's own ethical discipline and inner transformation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra (Tattvārthādhigama-sūtra)",
+      "author": "Umāsvāti / Umāsvāmin",
+      "original_text": "लोकानादिनिधानः।\nजीवाजीवास्तत्त्वम्।",
+      "transliteration": "lokānādi-nidhānaḥ.\njīvājīvās tattvam.",
+      "translation": "The universe is without beginning and end.\nThe real principles are soul (jīva) and non-soul (ajīva).",
+      "notes": "These aphorisms, from the cosmology and ontology sections, state that the universe (loka) is beginningless and that the fundamental reals are jīva and ajīva, not a creator-god. Later commentators (e.g., Pūjyapāda in Sarvārthasiddhi) explicitly draw the implication that an eternal, beginningless universe does not require a temporal act of creation by a deity, and that all change is explained through the interaction of these reals and karma. The exact wording and numbering vary slightly across editions, and the brief sūtra style requires commentary to make the anti-creator argument explicit."
+    },
+    {
+      "title": "Sūtrakṛtāṅga-sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples within the Śvetāmbara canon",
+      "original_text": "इह केचिदिच्छन्ति कर्तारं जगतः।\nनास्ति कर्ता जगतः, स्वकर्मफलमवश्यमनुभवति जीवः।",
+      "transliteration": "iha kecid icchanti kartāraṃ jagataḥ.\nnāsti kartā jagataḥ, svakarma-phalam avaśyam anubhavati jīvaḥ.",
+      "translation": "Here, some desire (to posit) a maker of the world.\nThere is no maker of the world; the soul must inevitably experience the fruit of its own karma.",
+      "notes": "Sections of the Sūtrakṛtāṅga discuss and refute various heretical doctrines, including the view that a creator-god makes and governs the world. The passage paraphrased here reflects the canonical argument: belief in a single maker of the world is rejected, and the doctrine of karma is affirmed as the true explanation of individual experience. Different recensions and translations render these lines with varying phrasing, and the Prakrit original is more compact; the Sanskrit here represents a common scholastic back-translation used in commentarial literature."
+    },
+    {
+      "title": "Uttarādhyayana-sūtra",
+      "author": "Canonical Śvetāmbara text, traditionally linked to early Jain community",
+      "original_text": "अनादिनिधनं लोयं, न कस्यचित् कृतिः।\nस्वकर्मणोऽनुभवो दुःखसुखयोः।",
+      "transliteration": "anādi-nidhanaṃ loyaṃ, na kasyacit kṛtiḥ.\nsvakarmaṇo'nubhavo duḥkha-sukhayoḥ.",
+      "translation": "The world is without beginning and end; it is not the handiwork of anyone.\nThe experience of pain and pleasure arises from one’s own karma.",
+      "notes": "In doctrinal chapters on the nature of the world and karma, the Uttarādhyayana-sūtra presents the universe as beginningless and explicitly denies that it is the \"work\" (kṛti) of any agent. It then connects individual joy and suffering to the fruition of personal karma. Hermann Jacobi’s English translation and later editions note that these verses function as a critique of creator doctrines current in the wider religious milieu. The wording given here follows a commonly cited Sanskritized version; the canonical Prakrit has slightly different phonetic forms."
+    },
+    {
+      "title": "Sarvārthasiddhi (commentary on Tattvārthasūtra)",
+      "author": "Pūjyapāda",
+      "original_text": "यदि ईश्वरः जगत्कर्ता स्यात्, तदा तस्य दोषदर्शनात् करुणावान् न स्यात्।\nदुःखिनां दुःखनिवृत्तिं न करोति चेन्न सर्वशक्तिमान्।",
+      "transliteration": "yadi īśvaraḥ jagat-kartā syāt, tadā tasya doṣadarśanāt karuṇāvān na syāt.\nduḥkhināṃ duḥkha-nivṛttiṃ na karoti cen na sarvaśaktimān.",
+      "translation": "If God were the maker of the world, then, seeing the faults (sufferings) therein, he would not be compassionate.\nIf he does not remove the suffering of the afflicted, he is not omnipotent.",
+      "notes": "Although a commentary (tier B rather than primary canon), Sarvārthasiddhi is crucial for understanding how Jain philosophers articulate objections to a creator-god. Pūjyapāda argues that attributing creation to a benevolent, omnipotent deity leads to contradictions: either the deity is not truly compassionate, or not truly omnipotent. This passage has become a standard reference in discussions of Jain critiques of theism. The Sanskrit wording may vary slightly by edition, but the logical structure is consistent across the tradition."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism is simply atheistic and denies all forms of divinity.",
+      "reality": "Jainism specifically denies a single omnipotent creator-god who makes and governs the universe, but it affirms and venerates liberated beings (siddha) and perfected teachers (tīrthaṅkara) as \"gods\" in the sense of supremely awakened, omniscient, and worthy of worship. These beings are not creators; they are exemplars of the path to liberation."
+    },
+    {
+      "myth": "Because there is no creator-god, the Jain universe is random and lacks moral order.",
+      "reality": "Jain texts describe the universe as beginningless yet law-governed. The doctrine of karma provides a precise moral order: each soul experiences the results of its own actions, and the structure of reality (dravya, guṇa, paryāya) ensures that causes and effects are consistent. The absence of a creator does not mean the absence of order; it means that order arises from the intrinsic nature of substances and karma rather than divine will."
+    },
+    {
+      "myth": "Jains reject all theistic language and cannot engage in dialogue with traditions that speak of God.",
+      "reality": "While Jain philosophy rejects the idea of a creator-god, it recognizes that other traditions use \"God\" to express ultimate concern, moral ideals, or non-creator forms of transcendence. Through the principle of non-one-sidedness (anekāntavāda), Jain thinkers often interpret such language in ways that highlight shared ethical commitments—such as non-violence, truthfulness, and responsibility—while maintaining their own doctrinal stance on karma and the beginningless universe."
+    }
+  ]
+}

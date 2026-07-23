@@ -1,0 +1,43 @@
+{
+  "overview": "Primary-source-only mode is a disciplined way of studying and presenting Jainism that restricts itself to corpus tier A materials—verified primary texts and editions—without relying on later commentaries, modern scholarship, or community explanations. In this mode, the focus is on what can be directly grounded in canonical and classical Jain works, such as āgamas, niryuktis, bhāṣyas, and foundational śāstras, as they survive in critically edited form. The aim is not to replace teachers or living traditions, but to create a clear, traceable line from any claim back to a specific passage in an authoritative text.\n\nIn practice, primary-source-only mode requires careful separation of quotation, literal translation, and minimal paraphrase. Quotations are given in the original language where possible (Prakrit or Sanskrit), accompanied by transliteration and a sober, non-interpretive English rendering. Any necessary explanation is kept at the level of clarifying grammar, basic doctrinal vocabulary, and historical context of the text itself, rather than offering prescriptive guidance or sectarian positions. This protects the boundary between what the text actually says and how different traditions have understood it.\n\nThis mode also foregrounds uncertainty. When manuscripts differ, when a passage’s meaning is debated, or when a term has multiple possible senses, primary-source-only mode explicitly notes the variation instead of silently harmonizing it. It avoids synthesizing across texts in ways that would imply a settled doctrinal system unless that synthesis is itself stated in a primary source. Because Jainism is transmitted through living lineages, this mode repeatedly reminds the reader that textual data alone cannot substitute for guidance from qualified teachers, especially in matters of practice, vows, or ethical decision-making.\n\nWithin the broader Jain study architecture, primary-source-only mode functions as a foundational layer. Other guide modes—such as Digambara Study Guide, Śvetāmbara Mūrtipūjaka Study Guide, or Modern Ethics Guide—may add commentary, sectarian perspectives, and contemporary analysis. But they are built on the bedrock of this mode, which insists that every material claim be traceable to a specific passage, edition, and textual context. This helps students see where interpretation begins, where traditions legitimately disagree, and where the evidence is thin or missing. It cultivates intellectual honesty, respect for the complexity of the Jain canon, and humility about what can and cannot be concluded from texts alone.\n\nFinally, primary-source-only mode is closely tied to the system’s authority boundary and escalation rules. Because it does not claim the status of a guru or ācārya, it refuses to issue binding religious rulings or practical instructions in high-risk areas such as fasting, sallekhanā, or medical decisions. Instead, it can show relevant passages, note their textual status, and then explicitly recommend consultation with a qualified human authority. In this way, primary-source-only mode honors both the depth of Jain scriptures and the ethical responsibility to avoid overstepping the limits of textual expertise.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः ।",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct are the path to liberation.",
+      "notes": "This aphorism is a central statement of the three jewels (ratnatraya) and is often used as a structural backbone for later Jain doctrinal systems. In primary-source-only mode, the sutra is cited as-is, with minimal explanation of key terms (such as samyag-darśana) and without importing later sectarian elaborations about their exact stages or qualifications."
+    },
+    {
+      "title": "Ācārāṅga-sūtra (Śvetāmbara canon)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; redacted by later councils",
+      "original_text": "पणिहि लोए अणुगहं करेसु ।",
+      "transliteration": "paṇihi loe aṇugahaṃ karesu",
+      "translation": "Having understood the world, one should extend compassion.",
+      "notes": "The Ācārāṅga-sūtra is among the earliest Śvetāmbara canonical texts, emphasizing ascetic conduct and nonviolence. In primary-source-only mode, passages like this are presented with attention to their manuscript tradition and basic doctrinal vocabulary, but without turning them directly into prescriptive rules for modern lay practice, which would require guidance from living teachers."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara canon)",
+      "author": "Puṣpadanta and Bhūtabali (traditionally), based on teachings of Lord Mahāvīra",
+      "original_text": "कर्मणां बन्धो जीवस्य हेतुः ।",
+      "transliteration": "karmaṇāṃ bandho jīvasya hetuḥ",
+      "translation": "The bondage of karmas is the cause of the soul’s (condition).",
+      "notes": "The Ṣaṭkhaṅḍāgama is a foundational Digambara canonical text on karma and ontology. In primary-source-only mode, such a line is used to show how karma-bondage is described in the earliest strata, while carefully distinguishing this from later, more systematized karma theories found in commentaries and sub-commentaries."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Primary-source-only mode can fully replace the need for living teachers, monks, nuns, or ācāryas.",
+      "reality": "Primary-source-only mode is a textual discipline, not a living lineage. It can show what canonical and classical texts say, where manuscripts differ, and where meanings are uncertain, but it cannot provide initiation, authorize vows, or give context-sensitive guidance. Jain practice and many doctrinal questions require consultation with qualified human authorities."
+    },
+    {
+      "myth": "If something is not found in a primary-source-only search, it must be un-Jain or illegitimate.",
+      "reality": "Many Jain practices and interpretations arise from later commentaries, regional traditions, and living communities. Primary-source-only mode is intentionally narrow: it reports only what can be traced to verified texts. Absence of evidence in this mode does not automatically mean a practice is invalid; it simply means the textual basis has not been located or may lie in other tiers of the corpus."
+    },
+    {
+      "myth": "Primary-source-only mode always yields clear, unambiguous answers about doctrine and ethics.",
+      "reality": "Jain primary texts are complex, sometimes fragmentary, and transmitted through diverse manuscript traditions. Different sects and scholars interpret the same passages in distinct ways. Primary-source-only mode highlights these ambiguities instead of smoothing them over, which can result in multiple plausible readings rather than a single definitive conclusion."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, the concept of birthplaces (janma-sthāna) holds significance for understanding the lives of the Tīrthaṅkaras, revered ascetics, and notable historical figures. Birthplaces are not objects of worship in themselves; rather, they serve as geographical anchors for studying sacred biographies (caritra) and for situating doctrinal developments within historical and cultural landscapes. Jain texts—particularly the Kalpa Sūtra (Śvetāmbara), the Ādi Purāṇa and Mahāpurāṇa (Digambara), and various commentarial traditions—describe the birthplaces of Tīrthaṅkaras with attention to cosmology, auspicious signs, and the moral conditions of their parents.\n\nAcross sects, the birthplaces of the twenty-four Tīrthaṅkaras in the current avasarpinī are consistently located in the region of Bhārat Kṣetra, though details vary slightly between Śvetāmbara and Digambara narrative traditions. For example, Ṛṣabhanātha is universally said to be born in Ayodhyā, while Mahāvīra’s birthplace is identified as Kuṇḍagrāma near Vaiśālī. These sites are often associated with pilgrimage (yātrā), but the doctrinal emphasis remains on the ethical and spiritual trajectory of the Tīrthaṅkara rather than the sanctity of the physical location.\n\nBirthplaces also appear in discussions of karma theory, particularly in relation to the fruition of nāma-karma (body-making karma) and gotra-karma (status-determining karma). The auspicious circumstances surrounding a Tīrthaṅkara’s birth are interpreted as the result of specific karmic conditions described in canonical and commentarial literature. In historical studies, birthplaces help scholars trace the development of Jain communities, manuscript transmission, and regional artistic traditions.\n\nBecause Jainism spans multiple sects and centuries, birthplaces must be studied with attention to textual variation, archaeological evidence, and the interpretive frameworks of different communities. The topic intersects with cosmology, hagiography, pilgrimage studies, and regional history, making it a multidisciplinary subject within Jain scholarship.",
+  "primary_sources": [
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Traditionally attributed to Bhadrabāhu (Śvetāmbara)",
+      "original_text": "कुण्डगामे वेसालियाणं महावीरस्स जनणं",
+      "transliteration": "kuṇḍagāme vesāliyaāṇaṃ mahāvīrassa janaṇaṃ",
+      "translation": "Mahāvīra’s birth took place in Kuṇḍagrāma of the Vaiśālī region.",
+      "notes": "This passage appears in the Mahāvīra-caritra section of the Kalpa Sūtra (Śvetāmbara, Tier A). It establishes the traditional birthplace of Mahāvīra and is cited in both monastic and lay educational contexts."
+    },
+    {
+      "title": "Ādi Purāṇa",
+      "author": "Jinasena (Digambara)",
+      "original_text": "अयोध्यायां नृपतिसुतो ऋषभो जातः",
+      "transliteration": "ayodhyāyāṃ nṛpatisuto ṛṣabho jātaḥ",
+      "translation": "Ṛṣabha, the son of the king, was born in Ayodhyā.",
+      "notes": "The Ādi Purāṇa (Tier B) provides a detailed Digambara narrative of Ṛṣabhanātha’s life, including his birthplace, family lineage, and early teachings."
+    },
+    {
+      "title": "Mahāpurāṇa",
+      "author": "Jinasena and Guṇabhadra (Digambara)",
+      "original_text": "वसन्तपुरे जन्म भीमस्य नाभेः सुतस्य",
+      "transliteration": "vasantapure janma bhīmasya nābheḥ sutasya",
+      "translation": "In Vasantapura occurred the birth of Bhīma, son of Nābha.",
+      "notes": "This text expands on the lives of several figures and provides geographical details that help contextualize Jain cosmological geography."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain sects list identical birthplaces for every Tīrthaṅkara.",
+      "reality": "While most birthplaces are shared across traditions, some narrative details differ between Śvetāmbara and Digambara texts. These variations reflect differing hagiographical emphases rather than doctrinal conflict."
+    },
+    {
+      "myth": "Birthplaces are worshipped as sacred objects in Jainism.",
+      "reality": "Jain practice emphasizes the teachings and conduct of the Tīrthaṅkaras, not the sanctity of physical locations. Pilgrimage to birthplaces is a cultural and devotional practice, not a doctrinal requirement."
+    },
+    {
+      "myth": "Archaeological sites always confirm traditional Jain birthplaces.",
+      "reality": "Some sites have strong historical evidence, while others rely primarily on textual tradition. Scholars distinguish between textual authority and archaeological verification."
+    }
+  ]
+}

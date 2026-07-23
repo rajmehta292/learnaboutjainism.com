@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, the term “catalogs” refers to the structured lists, inventories, and classificatory systems used across canonical literature, commentarial traditions, manuscript culture, and modern scholarship. Catalogs serve as an essential intellectual technology in Jainism, enabling the organization of vast doctrinal material, the preservation of manuscripts, and the systematic presentation of ethical, cosmological, and philosophical knowledge.\n\nWithin the canonical strata, catalogs appear as enumerations of vows, categories of karma, divisions of cosmology, lists of substances (dravya), qualities (guna), and modes (paryaya). These lists are not merely mnemonic devices; they reflect a deep commitment to analytical clarity and ontological precision. Jain epistemology and ontology rely heavily on such structured enumerations to articulate the complexity of reality while maintaining logical coherence.\n\nIn manuscript culture, catalogs (often called *pothi-patrikas*, *grantha-suchis*, or *bhandara-namelists*) were indispensable for preserving texts across centuries. Jain libraries—especially in Śvetāmbara Mūrti-pūjaka centers such as Patan, Jaisalmer, and Koba—developed sophisticated cataloging systems that recorded titles, authors, script, material condition, and lineage of transmission. Digambara traditions likewise maintained catalogs in monastic and lay repositories, though many were lost due to historical disruptions.\n\nModern Jain scholarship continues this tradition through critical editions, descriptive catalogs of manuscripts, digital inventories, and thematic catalogs of doctrinal categories. These tools help researchers navigate the immense textual corpus, which spans Prakrit, Sanskrit, Apabhraṃśa, and vernacular languages. Catalogs thus form a bridge between ancient textual practices and contemporary academic methodologies, preserving continuity while enabling new forms of study.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "जीवाजिवपुद्गलधर्माधर्माकाशकालपुण्यपापास्रवसंवरनिर्जरबन्धमोक्षास्तत्त्वम्",
+      "transliteration": "jīvājivapudgaladharmādharmākāśakālapuṇyapāpāsravasamvaranirjarabandhamokṣās tattvam",
+      "translation": "Living beings, non-living beings, matter, dharma, adharma, space, time, merit, demerit, influx, stoppage, shedding, bondage, and liberation are the categories of reality.",
+      "notes": "This opening catalog of the fourteen *tattvas* exemplifies the Jain use of enumerative structure to define the fundamental constituents of reality. The sutra is a pan-sectarian text accepted by both Digambara and Śvetāmbara traditions, though commentaries differ."
+    },
+    {
+      "title": "Sthānāṅga Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "एकस्थाणं, द्विस्थाणं, त्रिस्थाणं ...",
+      "transliteration": "ekasthāṇaṃ, dvisthāṇaṃ, tristhāṇaṃ ...",
+      "translation": "One-fold categories, two-fold categories, three-fold categories ...",
+      "notes": "The entire text is structured as a catalog of doctrinal items grouped numerically. It is one of the most explicit examples of catalog-based pedagogy in Jain canonical literature."
+    },
+    {
+      "title": "Gommatasāra (Karmakāṇḍa)",
+      "author": "Nemichandra Siddhānta Cakravartin",
+      "original_text": "कर्माणि अष्टविधानि",
+      "transliteration": "karmāṇi aṣṭavidhāni",
+      "translation": "Karmas are of eight kinds.",
+      "notes": "A Digambara text that uses cataloging extensively to classify karmic types, subtypes, durations, intensities, and fruition patterns. Its systematic lists form the backbone of Digambara karma theory."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Catalogs in Jain texts are merely mnemonic devices without deeper philosophical significance.",
+      "reality": "Jain catalogs encode ontological, epistemological, and ethical structures. They are integral to how Jainism organizes reality, analyzes karma, and transmits doctrine."
+    },
+    {
+      "myth": "Catalogs are only a feature of Śvetāmbara canonical literature.",
+      "reality": "Both Digambara and Śvetāmbara traditions use catalogs extensively. Digambara works such as *Gommatasāra*, *Ṣaṭkhaṇḍāgama*, and *Kashāyapāhuda* rely heavily on enumerative classification."
+    },
+    {
+      "myth": "Manuscript catalogs are modern inventions and did not exist in pre-colonial Jain communities.",
+      "reality": "Jain libraries have maintained detailed catalogs for centuries. Many medieval catalogs survive and are crucial for reconstructing textual transmission and lineage."
+    }
+  ]
+}

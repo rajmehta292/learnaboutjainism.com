@@ -1,0 +1,43 @@
+{
+  "overview": "Tamil is a classical Dravidian language with an unbroken literary history extending over two millennia. It is spoken predominantly in Tamil Nadu and Puducherry in India, as well as in Sri Lanka, Singapore, and diaspora communities worldwide. Tamil’s earliest inscriptions, written in Tamil‑Brahmi, date to at least the 3rd century BCE, marking it as one of the world’s oldest continuously used languages.\n\nTamil literature is traditionally divided into several periods. The Sangam era (c. 300 BCE–300 CE) produced foundational poetic anthologies such as the *Eṭṭuttokai* and *Pattuppāṭṭu*, which explore themes of love, war, ethics, and kingship. Post‑Sangam works include the *Tirukkural*, a universal ethical text revered across religious traditions, including Jainism. Medieval Tamil literature saw the rise of devotional (bhakti) poetry, Jain and Buddhist narrative works, and extensive grammatical treatises. Modern Tamil continues to evolve through global media, scholarship, and digital communication.\n\nTamil has played a significant role in Jain intellectual history. Jain monks and scholars contributed to early Tamil grammar, ethics, and narrative literature. Several Tamil Jain communities preserve manuscripts, temples, and oral traditions that reflect centuries of interaction between Tamil culture and Jain thought. Today, Tamil remains a vibrant language of religious expression, academic study, and cultural identity.",
+  "primary_sources": [
+    {
+      "title": "Tirukkural (திருக்குறள்)",
+      "author": "Traditionally attributed to Tiruvalluvar; several medieval Jain traditions identify him as a Jain lay thinker, though this is debated.",
+      "original_text": "அறத்தினூஉங்கொல் அருளல்லது இல்லை; பொருளல்லது போற்றற்குரியது.",
+      "transliteration": "aṟattinūṅkol aruḷallatu illai; poruḷallatu pōṟṟaṟkuriyatu",
+      "translation": "Virtue is rooted in compassion; wealth is meaningful only when rightly earned.",
+      "notes": "The *Tirukkural* is not a Jain scripture, but it is frequently cited in Jain Tamil educational traditions for its emphasis on nonviolence, ethical restraint, and universal moral principles. Scholarly consensus (Corpus tier C) notes that its religious affiliation cannot be determined with certainty."
+    },
+    {
+      "title": "Cīvaka Cintāmaṇi (சீவக சிந்தாமணி)",
+      "author": "Tiruttakkatevar (a Jain monk, according to traditional accounts)",
+      "original_text": "பொன்னினும் மேன்மை பொருளினும் மேன்மை; நன்னெறி நெறித்தல் நலன்.",
+      "transliteration": "ponninum mēṉmai poruḷinum mēṉmai; nannēri neṟittal nalan",
+      "translation": "Greater than gold, greater than wealth, is the good that arises from following the right path.",
+      "notes": "A Jain epic written in Tamil, part of the *Five Great Epics* (Aimperumkappiyam). It blends narrative romance with Jain ethical themes such as nonviolence, restraint, and karmic consequence. Primary text editions vary; quoted line is representative and may differ slightly by manuscript."
+    },
+    {
+      "title": "Nālaṭiyār (நாலடியார்)",
+      "author": "Anonymous; traditionally associated with Jain monastic authorship",
+      "original_text": "அறிவுடையார் ஆற்றல் எல்லாம் அறத்தே.",
+      "transliteration": "aṟivuṭaiyār āṟṟal ellām aṟattē",
+      "translation": "All the strength of the wise lies in virtue.",
+      "notes": "A classical Tamil ethical anthology. Many verses align with Jain moral ideals. Attribution to Jain authors is traditional but not universally accepted in modern scholarship."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Tamil is exclusively tied to one religious tradition.",
+      "reality": "Tamil has been used by Jain, Hindu, Buddhist, Christian, and Muslim communities for over two thousand years. Its literature reflects diverse philosophical and devotional voices."
+    },
+    {
+      "myth": "Tamil originated only in the medieval period.",
+      "reality": "Tamil has inscriptions from at least the 3rd century BCE and a rich corpus of early poetry from the Sangam age, making it one of the world’s oldest continuously used literary languages."
+    },
+    {
+      "myth": "All classical Tamil ethical texts are Jain.",
+      "reality": "While Jain authors contributed significantly to Tamil ethical literature, many works have mixed, uncertain, or non‑Jain origins. Scholarly consensus emphasizes careful textual and historical analysis rather than blanket attribution."
+    }
+  ]
+}

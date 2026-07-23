@@ -1,0 +1,43 @@
+{
+  "overview": "Computational tables are structured numerical or symbolic arrays designed to simplify repeated calculations, organize quantitative knowledge, and make complex operations accessible to practitioners who may not wish to recompute results from first principles each time. Historically, they have appeared in many cultures in the form of multiplication tables, astronomical ephemerides, trigonometric tables, calendrical tables, and tables of logarithms. In the broad history of Indian mathematics, including Jain contributions, such tables were essential tools for astronomy (jyotiṣa), calendrical reckoning (pāñcāṅga), and practical arithmetic in trade and ritual contexts.\n\nIn the Jain intellectual world, computational thinking appears early in the form of systematic number classifications, combinatorial counts, and cosmological measures. While the canonical āgamas focus more on ethical, philosophical, and cosmological content than on explicit numerical tables, later Jain mathematical texts—especially in the Digambara tradition—show a clear tendency to tabulate results for ease of use. Works such as Mahāvīrācārya’s \"Gaṇitasārasaṅgraha\" and Nemicandra’s \"Gommatasāra\" (Jīvakanda and Karmakanda) organize numerical information in highly regular patterns that function much like computational tables, even when not laid out in modern grid form.\n\nMore broadly, computational tables serve several key purposes: they reduce cognitive load by storing precomputed values; they standardize results across a community of users; and they enable more complex modeling—such as astronomical prediction or karmic accounting—by providing stable reference data. In Jain cosmology, for example, the vast measures of space, time, and living beings are often given in sequences and hierarchical lists that can be read as proto-tabular structures. In Indian mathematical practice, including Jain authors, tables of squares, cubes, interest calculations, and partition counts allowed merchants, temple administrators, and scholars to perform reliable calculations without advanced algebraic notation.\n\nIn modern computational science, the idea of a table has evolved into data structures such as matrices, arrays, and databases, but the underlying principle remains similar: organize information in a regular, indexed format to enable efficient retrieval and manipulation. Historical computational tables can be seen as early, human-readable databases optimized for specific domains—astronomy, finance, calendrics, or cosmology. Studying these tables, including those found in or implied by Jain mathematical and cosmological texts, helps us understand how pre-modern scholars conceptualized number, regularity, and prediction, and how religious and philosophical frameworks shaped the design and use of quantitative tools.",
+  "primary_sources": [
+    {
+      "title": "Gaṇitasārasaṅgraha",
+      "author": "Mahāvīrācārya (Digambara Jain mathematician)",
+      "original_text": "यावद्वित्तं तावद् व्ययः।\nतावद्व्ययः स्यात् फललाभः॥",
+      "transliteration": "yāvadvittaṁ tāvad vyayaḥ |\ntāvadvyayaḥ syāt phalalābhaḥ ||",
+      "translation": "As much is the capital, so much is the expenditure;\nfrom such expenditure arises the gain of profit.",
+      "notes": "Mahāvīrācārya’s Gaṇitasārasaṅgraha (c. 9th century CE) is a major Jain mathematical treatise. While it does not present large printed tables in the modern sense, it systematically organizes rules and worked examples for arithmetic, geometry, and combinatorics. Many sections implicitly rely on tabulated values—such as repeated interest calculations, series of powers, and combinatorial counts—that would have been memorized or written out in tabular form by practitioners. The text reflects a Jain scholarly milieu in which quantitative reasoning and structured numerical organization were valued."
+    },
+    {
+      "title": "Gommatasāra (Jīvakanda)",
+      "author": "Nemicandra Siddhānta Cakravartin",
+      "original_text": "जीवाणं संख्या अनन्ता।\nतस्स विहिण्णा बहुविधा॥",
+      "transliteration": "jīvāṇaṁ saṅkhyā anantā |\ntassa vihiṇṇā bahuvidhā ||",
+      "translation": "The number of souls is infinite;\nthat infinity is divided in many ways.",
+      "notes": "Gommatasāra Jīvakanda is a Digambara Jain text that classifies souls according to various attributes (such as bondage, spiritual level, and types of bodies). The text often presents lists and structured classifications that can be rendered as tables of categories and counts. Although not a computational table in the modern mathematical sense, its systematic arrangement of entities and attributes exemplifies a tabular mindset: organizing complex information into regular, repeatable patterns that facilitate doctrinal understanding and, in some commentarial traditions, numerical reckoning of karmic states."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (traditionally attributed)",
+      "original_text": "सागरपरिमाणं तु बहुसंख्यं निरूपितं।\nलोकपरिमाणे तस्स विवरणं सुचिक्कणं॥",
+      "transliteration": "sāgaraparimāṇaṁ tu bahusaṅkhyaṁ nirūpitaṁ |\nlokaparimāṇe tassa vivaraṇaṁ sucikkaṇaṁ ||",
+      "translation": "The measure of the oceans is described as exceedingly numerous;\nits detailed exposition is given in the account of the universe.",
+      "notes": "Tiloyapaṇṇatti is a Prakrit cosmological text that describes the structure and measures of the Jain universe, including vast numerical magnitudes for continents, oceans, and time cycles. These descriptions often appear as sequences of quantities and layered classifications that can be arranged into computational tables for cosmological modeling. Later commentators and teachers sometimes present these cosmological measures in tabular form to aid memorization and comparative study, illustrating how doctrinal content can be transformed into computationally useful structures."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Computational tables are purely modern tools that emerged only with European mathematics and printing technology.",
+      "reality": "Structured numerical tables and proto-tabular arrangements have existed for millennia across many cultures, including Indian and Jain traditions. Astronomical ephemerides, multiplication tables, interest tables, and cosmological number lists were used long before modern printing, often written on palm-leaf manuscripts or memorized orally. Modern spreadsheets and databases continue an ancient practice of organizing numbers in regular, indexed formats."
+    },
+    {
+      "myth": "Religious or philosophical traditions, such as Jainism, are concerned only with ethics and metaphysics and have no connection to computational tables or quantitative organization.",
+      "reality": "Jain traditions include rich engagements with number, classification, and measurement—especially in cosmology, karma theory, and later mathematical works. Texts like Gaṇitasārasaṅgraha, Gommatasāra, and Tiloyapaṇṇatti show systematic numerical and categorical organization that can be expressed in tabular form. While their primary aim is doctrinal or practical rather than abstract computation, they demonstrate that religious and philosophical frameworks can actively shape and utilize computational tables."
+    },
+    {
+      "myth": "A computational table is valuable only if it contains advanced functions or complex algorithms.",
+      "reality": "Even simple tables—such as basic multiplication tables, lists of squares, or categorized counts—are powerful tools. They reduce cognitive effort, standardize results, and enable reliable calculations for everyday tasks like trade, calendrical reckoning, and ritual scheduling. Historical Jain and Indian mathematical texts often rely on such simple but carefully structured tables, showing that computational value lies in clarity, reliability, and usability, not only in complexity."
+    }
+  ]
+}

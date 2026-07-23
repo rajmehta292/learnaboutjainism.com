@@ -1,0 +1,47 @@
+{
+  "overview": "In Jain thought, the relationship between learning (śruta), belief (darśana), and observance (cāritra) forms a foundational triad for understanding spiritual development. This triad appears across both Digambara and Śvetāmbara traditions and is embedded in the broader framework of the guṇasthānas, the fourteen stages of spiritual progress. Learning refers to the acquisition of correct knowledge through scriptures, reasoning, and guidance from qualified teachers. Belief refers to the internal assent to the truths taught by the Jinas—especially the reality of the soul, karma, nonviolence, and liberation. Observance refers to the practical embodiment of these truths through ethical conduct, restraint, and disciplined practice.\n\nJainism consistently emphasizes that learning alone is insufficient without right belief, and belief alone is incomplete without observance. The Tattvārtha Sūtra (a pan-sectarian text accepted by most Jain traditions) describes liberation as arising from the unity of samyak-darśana (right belief), samyak-jñāna (right knowledge), and samyak-cāritra (right conduct). This triadic structure is not merely philosophical; it shapes lay ethics, monastic vows, ritual practice, and the cultivation of nonviolence in daily life.\n\nLearning is valued because it provides clarity about the nature of reality and the path to liberation. However, Jain texts warn that learning without internal transformation can become a source of pride or distraction. Belief is essential because it aligns the practitioner’s intentions with the teachings of the Jinas, but belief without practice risks becoming passive or ritualistic. Observance is the culmination of learning and belief, yet observance without understanding can become mechanical, and observance without belief may lack sincerity.\n\nAcross traditions, the balance between these three elements is interpreted differently. Digambara authors often emphasize the transformative power of conduct, especially ascetic discipline, while Śvetāmbara Mūrtipūjaka sources highlight the role of scriptural study and ritual devotion in cultivating right belief. Sthānakavāsī and Terāpanth traditions place strong emphasis on internalized observance and meditative discipline, often reducing ritual complexity to focus on ethical practice.\n\nDespite these differences, all Jain traditions agree that learning, belief, and observance must reinforce one another. The practitioner gradually moves from intellectual understanding to heartfelt conviction and finally to embodied ethical discipline. This progression is central to Jain soteriology and remains a guiding principle for both monastic and lay communities today.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (sectarian attribution varies)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right belief, right knowledge, and right conduct are the path to liberation.",
+      "notes": "This sutra (TS 1.1) is foundational for understanding the interdependence of learning, belief, and observance. It is accepted across Digambara and Śvetāmbara traditions, though commentarial interpretations differ."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to the early Śvetāmbara canon",
+      "original_text": "णं जाणा, णं दंसणा, णं चरिआ—एव मुहं पव्वं",
+      "transliteration": "ṇaṃ jāṇā, ṇaṃ daṃsaṇā, ṇaṃ carijā—eva muhaṃ pavvaṃ",
+      "translation": "Knowledge, faith, and conduct—these are the foremost gateways.",
+      "notes": "This passage emphasizes the triad in the context of monastic discipline and the cultivation of nonviolence."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda (Digambara)",
+      "original_text": "दंसणं नाणं चरित्तं तिहि णिव्वाणस्स कारणं",
+      "transliteration": "daṃsaṇaṃ nāṇaṃ carittaṃ tihi nivvāṇassa kāraṇaṃ",
+      "translation": "Faith, knowledge, and conduct—these three are the causes of liberation.",
+      "notes": "Kundakunda’s text provides a Digambara perspective, stressing internal purity and the soul’s true nature."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Learning alone is sufficient for spiritual progress in Jainism.",
+      "reality": "Jain texts repeatedly state that learning must be accompanied by right belief and ethical observance. Knowledge without conduct is considered incomplete and potentially harmful."
+    },
+    {
+      "myth": "Belief is purely emotional and does not require scriptural understanding.",
+      "reality": "Right belief in Jainism is grounded in discernment and clarity about the nature of reality. It is cultivated through learning and reflection, not blind acceptance."
+    },
+    {
+      "myth": "Observance is only for monks and not relevant to laypeople.",
+      "reality": "Lay practice includes vows, ethical disciplines, and daily observances. While monastic conduct is more rigorous, lay observance is essential for cultivating nonviolence and reducing karmic bondage."
+    },
+    {
+      "myth": "Different Jain sects disagree fundamentally about the importance of learning, belief, and observance.",
+      "reality": "All major Jain traditions uphold the triad of right belief, right knowledge, and right conduct. Differences lie in emphasis and interpretation, not in the core principle."
+    }
+  ]
+}

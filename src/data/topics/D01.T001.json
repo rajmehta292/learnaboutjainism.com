@@ -1,0 +1,47 @@
+{
+  "overview": "Jainism is an ancient South Asian religious and philosophical tradition centered on non‑violence (ahiṃsā), many‑sided understanding (anekāntavāda), and the disciplined pursuit of liberation (mokṣa). Emerging in the same broad cultural milieu as early Buddhism and Vedic traditions, Jainism identifies a lineage of twenty‑four tīrthaṅkaras—ford‑makers who rediscover and teach the path to freedom from saṃsāra. The most recent tīrthaṅkara, Mahāvīra (traditionally dated 599–527 BCE in Śvetāmbara chronology and 540–468 BCE in Digambara chronology), is revered not as a creator or savior but as a perfected teacher who fully realized the state of kevala‑jñāna (omniscience).\n\nAt its core, Jainism teaches that every living being possesses an eternal jīva (soul) characterized by consciousness and capable of infinite knowledge, perception, bliss, and energy. Bondage arises when karmic matter adheres to the jīva due to passions (kaṣāyas) and actions. Liberation is achieved through ethical discipline, meditation, and the gradual purification of karma. The tradition outlines detailed cosmology, ethics, and psychology, including the fourteen stages of spiritual development (guṇasthānas) and the intricate taxonomy of karmas.\n\nJain practice varies across communities—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—but all share foundational commitments to ahiṃsā, truthfulness (satya), non‑stealing (asteya), celibacy (brahmacarya), and non‑possessiveness (aparigraha). Laypeople (śrāvakas and śrāvikās) follow graded vows suited to household life, while monastics undertake more rigorous renunciant vows. Rituals, festivals, and temple traditions differ by sect, yet the underlying aim remains the cultivation of equanimity and the reduction of harm.\n\nJainism has contributed significantly to Indian intellectual history—logic, grammar, mathematics, ethics, and metaphysics—and continues to shape global conversations on animal ethics, environmental stewardship, and non‑violent living. It is not a theistic tradition in the creator‑god sense; instead, it emphasizes self‑effort, moral responsibility, and the possibility of perfectibility inherent in all living beings.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to the early Śvetāmbara canon; compiler unknown",
+      "original_text": "सव्वे पाणाः अणुग्रहो जिवाणं",
+      "transliteration": "savve pāṇā aṇugraho jivāṇaṃ",
+      "translation": "“All living beings deserve compassion.”",
+      "notes": "One of the earliest Śvetāmbara canonical texts (Tier A). Emphasizes Mahāvīra’s teachings on non‑violence, restraint, and monastic conduct. Exact wording varies by manuscript tradition; this line is representative of the text’s ethical orientation."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (accepted across sects with minor interpretive differences)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "A foundational philosophical text (Tier A) accepted by both Digambara and Śvetāmbara traditions. Commentaries differ on technical details, but the triad of right faith, knowledge, and conduct is universally affirmed."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text; compiler unknown",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "“Non‑violence is the supreme duty.”",
+      "notes": "Widely cited in Jain teaching (Tier A/B). Although the phrase appears in multiple Jain and non‑Jain sources, its thematic presence in the Uttarādhyayana Sūtra is central to Jain ethical identity."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism is simply a branch of Hinduism or Buddhism.",
+      "reality": "Jainism is an independent śramaṇa tradition with its own scriptures, cosmology, monastic orders, and lineage of tīrthaṅkaras. While it shares cultural and philosophical dialogue with other Indian traditions, its doctrines on karma, soul, and liberation are distinct."
+    },
+    {
+      "myth": "Jains worship gods who grant liberation.",
+      "reality": "Jainism does not posit a creator or savior deity. Worship focuses on venerating perfected beings (tīrthaṅkaras) as ideals of spiritual achievement, not as grantors of grace. Liberation is attained through one’s own disciplined effort."
+    },
+    {
+      "myth": "Ahiṃsā only means vegetarianism.",
+      "reality": "Ahiṃsā is a comprehensive ethical principle encompassing speech, thought, livelihood, and daily conduct. Vegetarianism is one expression of minimizing harm, but Jain ethics also address environmental impact, interpersonal behavior, and mental states."
+    },
+    {
+      "myth": "All Jains follow identical rituals and practices.",
+      "reality": "Jain communities differ in scripture collections, monastic attire, temple worship, and ritual forms. Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth traditions share core doctrines but maintain distinct practices."
+    }
+  ]
+}

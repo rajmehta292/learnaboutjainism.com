@@ -1,0 +1,43 @@
+{
+  "overview": "Beginner accessibility in Jain studies refers to the structured, compassionate, and text-grounded ways in which newcomers—regardless of background, age, or prior exposure—can approach Jain philosophy, ethics, history, and practice. Within the authority boundaries of Jain traditions, accessibility does not mean simplification of doctrine; rather, it means providing clear pathways into complex ideas while maintaining fidelity to primary sources and acknowledging interpretive diversity.\n\nFor beginners, accessibility typically involves three pillars: (1) conceptual orientation, such as understanding ahiṃsā, anekāntavāda, and the basic cosmological framework; (2) practical orientation, such as learning how lay vows (aṇu-vrata) function and how daily practices are adapted for householders; and (3) textual orientation, which introduces newcomers to foundational scriptures in a responsible, guided manner. Because Jainism spans multiple traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—accessibility also requires acknowledging differences in scripture, ritual, and pedagogy.\n\nHistorically, Jain teachers and communities have emphasized graded learning (adhikāra-bheda), meaning that teachings are offered according to the learner’s capacity. This principle appears in both monastic and lay contexts, ensuring that beginners are not overwhelmed by advanced metaphysics or ascetic disciplines. Modern accessibility efforts include translations, community education programs, youth curricula, and introductory courses that rely on verified editions of primary texts and reviewed commentaries.\n\nIn contemporary settings, accessibility also involves ethical safeguards: avoiding coercion, respecting personal circumstances, and ensuring that practices such as fasting or meditation are introduced with proper guidance. The goal is to help beginners develop a grounded understanding of Jain values while encouraging them to consult qualified human teachers for deeper study or practice decisions.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non-harm is the supreme duty.",
+      "notes": "Although this line is widely cited in Jain tradition and inscriptions, it does not appear verbatim in all critical editions of the Tattvārtha Sūtra. It is nonetheless used as an accessible entry point for beginners to understand the centrality of ahiṃsā."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं चेसु णं दंसणं, णं चेसु णं चित्तं",
+      "transliteration": "ṇaṃ cesu ṇaṃ daṃsaṇaṃ, ṇaṃ cesu ṇaṃ cittaṃ",
+      "translation": "Where there is carefulness, there is insight; where there is carefulness, there is mindfulness.",
+      "notes": "This passage highlights the importance of attentive conduct, a foundational concept for beginners learning about Jain ethical discipline."
+    },
+    {
+      "title": "Samayasāra (Digambara)",
+      "author": "Kundakunda",
+      "original_text": "सोउ णिज्जाणं मोक्षो",
+      "transliteration": "sou nijjāṇaṃ mokṣo",
+      "translation": "Self-realization is liberation.",
+      "notes": "Samayasāra is often introduced to beginners in paraphrased or guided formats because its metaphysics are advanced. This line is frequently used to illustrate the centrality of self-knowledge."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Beginners must immediately adopt strict ascetic practices such as prolonged fasting or renunciation.",
+      "reality": "Jain traditions emphasize graded practice (adhikāra-bheda). Laypersons begin with small, sustainable commitments such as basic dietary awareness, simple meditation, or introductory study. Advanced austerities require qualified human guidance and are never expected of beginners."
+    },
+    {
+      "myth": "Jain philosophy is too complex for newcomers without prior knowledge of Indian religions.",
+      "reality": "While Jain metaphysics is intricate, many foundational concepts—non-harm, many-sidedness, and ethical self-discipline—are accessible with proper guidance. Primary texts often include structured explanations intended for learners at different levels."
+    },
+    {
+      "myth": "All Jain traditions teach beginners in the same way.",
+      "reality": "Different traditions use distinct pedagogical methods. For example, Śvetāmbara Mūrti-pūjaka communities may introduce beginners through temple rituals, while Sthānakavāsī and Terāpanth traditions emphasize non-iconic meditation and structured lay study programs."
+    }
+  ]
+}

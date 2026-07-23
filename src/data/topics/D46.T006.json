@@ -1,0 +1,51 @@
+{
+  "overview": "Jainism and Islam are two distinct religious traditions with different historical origins, metaphysical frameworks, and ritual practices, yet they have interacted across centuries in South Asia. Jainism, emerging from the śramaṇa movements of ancient India, emphasizes nonviolence (ahiṃsā), many-sidedness of truth (anekāntavāda), and liberation through self-effort. Islam, originating in 7th‑century Arabia, centers on monotheism (tawḥīd), prophecy, and submission to the will of God as revealed in the Qur’an. Their encounters occurred primarily in medieval and early‑modern India, where Jain communities lived under various Islamic dynasties including the Delhi Sultanate and the Mughal Empire.\n\nHistorically, Jain merchants, scholars, and monks engaged with Muslim administrators and intellectuals in matters of trade, taxation, manuscript production, and ethical discourse. Some Jain texts record respectful dialogues with Muslim rulers, while Persian chronicles mention Jain ascetics known for strict nonviolence. The Mughal emperor Akbar’s court is a notable site of interaction: Jain leaders such as Hiravijaya Suri (Śvetāmbara Mūrti‑pūjaka) and Jinaprabha Suri participated in interreligious discussions, influencing imperial policies on animal slaughter and pilgrimage taxation.\n\nPhilosophically, Jainism’s non-theistic framework differs from Islam’s monotheism, yet both traditions value ethical discipline, charity, and truthfulness. Jainism teaches liberation through purification of karma and attainment of kevala‑jñāna, while Islam teaches salvation through faith, righteous action, and divine mercy. Both traditions developed rich legal and ethical literatures—Jain śāstras and Islamic fiqh—that shaped community life. Modern scholarship highlights areas of mutual respect, occasional tension, and shared cultural space, especially in regions such as Gujarat and Rajasthan.\n\nIn contemporary interfaith dialogue, Jain and Muslim thinkers explore themes such as nonviolence, environmental ethics, pluralism, and peaceful coexistence. These discussions emphasize historical complexity, avoiding simplistic narratives of conflict or harmony. The study of Jain–Islam relations requires careful use of primary sources, attention to sectarian diversity within Jainism, and awareness of regional historical contexts.",
+  "primary_sources": [
+    {
+      "title": "Vividhatīrthakalpa",
+      "author": "Jinaprabha Suri (Śvetāmbara Mūrti‑pūjaka)",
+      "original_text": "अहिंसा परमो धर्मो",
+      "transliteration": "ahiṃsā paramo dharmo",
+      "translation": "Nonviolence is the supreme duty.",
+      "notes": "The Vividhatīrthakalpa (14th century CE) includes accounts of Jain interactions with Muslim rulers during the Delhi Sultanate. The quoted line is a well‑known Jain aphorism appearing in multiple texts; here it reflects the ethical emphasis Jain leaders presented in interreligious encounters."
+    },
+    {
+      "title": "Kalpasūtra",
+      "author": "Attributed to Bhadrabāhu (Śvetāmbara canonical tradition)",
+      "original_text": "सव्वे पाणाः सुखा इच्छन्ति",
+      "transliteration": "savve pāṇāḥ sukhā icchanti",
+      "translation": "All living beings desire happiness.",
+      "notes": "This canonical text is central to Śvetāmbara tradition. Its ethical teachings were often referenced by Jain monks in discussions with Islamic courts, emphasizing universal compassion."
+    },
+    {
+      "title": "Qur’an",
+      "author": "Revealed to Prophet Muhammad",
+      "original_text": "لَا إِكْرَاهَ فِي الدِّينِ",
+      "transliteration": "lā ikrāha fī d-dīn",
+      "translation": "There is no compulsion in religion.",
+      "notes": "Qur’an 2:256 is frequently cited in interfaith dialogue. While not a Jain text, it is a primary Islamic source relevant to discussions of religious coexistence."
+    },
+    {
+      "title": "Akbarnāma",
+      "author": "Abu’l‑Fazl",
+      "original_text": "—",
+      "transliteration": "—",
+      "translation": "No verbatim quotation provided due to copyright restrictions.",
+      "notes": "The Akbarnāma (16th century CE) describes Jain scholars at Akbar’s court, including Hiravijaya Suri. It is a key historical source for Jain–Islam interactions under the Mughal Empire."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism and Islam have always been in conflict.",
+      "reality": "Historical evidence shows periods of cooperation, intellectual exchange, and mutual respect, especially in trade networks and at the Mughal court. Relations varied by region and era."
+    },
+    {
+      "myth": "Jainism is a branch of Islam or vice versa.",
+      "reality": "They are entirely distinct traditions with different origins, doctrines, and practices. Their interactions occurred through historical contact, not shared lineage."
+    },
+    {
+      "myth": "Jains reject all forms of religious dialogue with Muslims.",
+      "reality": "Jain leaders have participated in interfaith discussions for centuries, emphasizing ahiṃsā, compassion, and ethical living."
+    }
+  ]
+}

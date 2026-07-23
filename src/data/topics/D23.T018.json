@@ -1,0 +1,43 @@
+{
+  "overview": "Vasupujya is revered in Jain tradition as the twelfth Tīrthaṅkara of the present avasarpinī (descending time cycle). Both Śvetāmbara and Digambara traditions accept his historicity and position within the canonical lineage of twenty‑four Tīrthaṅkaras. Traditional accounts describe his birth in Campāpurī (modern-day Champapur near Bhagalpur, Bihar) to King Vasupūjya and Queen Jaya, with his kṣatriya lineage traced to the Ikṣvāku dynasty. His life narrative is preserved primarily through hagiographical sources, which emphasize his extraordinary purity, compassion, and spiritual attainment.\n\nAccording to the canonical time-structure, Vasupujya attained kevalajñāna (omniscience) after intense austerities and profound meditation, subsequently delivering discourses (divya‑dhvani) that formed the basis of the Jain dharma for his era. He is particularly associated with the destruction of all ghātiyā karmas and the perfection of ahiṃsā, equanimity, and universal benevolence. His nirvāṇa is traditionally located at Champāpurī, where both Śvetāmbara and Digambara communities maintain pilgrimage sites.\n\nIconographically, Vasupujya is represented with the emblem of the buffalo (mahīṣa), though the traditions differ slightly in stylistic conventions. Digambara depictions follow the nude ascetic form, while Śvetāmbara images are clothed and ornamented. His narrative is frequently used in Jain pedagogy to illustrate the ideal of serene kingship transformed into renunciation, and the possibility of liberation through disciplined ethical conduct and meditative insight.\n\nHistorically, Vasupujya’s story appears in several medieval Jain texts, commentaries, and regional traditions. While these accounts vary in detail, they consistently portray him as a figure of moral clarity and spiritual authority. Modern scholarship situates his narrative within the broader development of Jain cosmology and hagiography, noting the interplay between regional devotional practices and pan‑Jain canonical structures.",
+  "primary_sources": [
+    {
+      "title": "Kalpasūtra",
+      "author": "Traditionally attributed to Bhadrabāhu",
+      "original_text": "वसुपूज्यो नाम तीरथंकरो चम्पापुरे जातः।",
+      "transliteration": "vasupūjyo nāma tīrthaṅkaro campāpure jātaḥ",
+      "translation": "The Tīrthaṅkara named Vasupujya was born in Campāpurī.",
+      "notes": "Śvetāmbara canonical text (Tier A). The Kalpasūtra provides brief biographical notices of Tīrthaṅkaras. The reference to Vasupujya is concise, and expanded narratives appear in later commentaries."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha",
+      "original_text": "वसुपूइय तित्थयरा णामं, णिव्वाणं चम्पापुरे।",
+      "transliteration": "vasupūiya titthayarā ṇāmaṃ, ṇivvāṇaṃ campāpure",
+      "translation": "The Tīrthaṅkara named Vasupujya attained liberation at Campāpurī.",
+      "notes": "Digambara cosmological text (Tier A). Provides cosmological placement and nirvāṇa details rather than narrative biography."
+    },
+    {
+      "title": "Hemacandra’s Triṣaṣṭiśalākāpuruṣacaritra",
+      "author": "Ācārya Hemacandra",
+      "original_text": "ततः वसुपूज्यो महापुरुषो लोकहिताय तत्त्वं प्रवर्तयामास।",
+      "transliteration": "tataḥ vasupūjyo mahāpuruṣo lokahitāya tattvaṃ pravartayāmāsa",
+      "translation": "Then Vasupujya, the great person, established the doctrine for the welfare of the world.",
+      "notes": "Śvetāmbara narrative text (Tier B). Hemacandra expands the life story with literary embellishment, reflecting medieval Jain scholastic tradition."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Vasupujya is associated with a unique philosophical doctrine distinct from other Tīrthaṅkaras.",
+      "reality": "Primary sources do not attribute a separate doctrinal system to Vasupujya. Jain tradition holds that all Tīrthaṅkaras teach the same eternal dharma, though narrative details of their lives differ."
+    },
+    {
+      "myth": "Vasupujya’s emblem (buffalo) implies a historical connection to animal sacrifice or pastoral rituals.",
+      "reality": "The emblem is symbolic and used for iconographic identification. Jain tradition uniformly rejects animal sacrifice, and no primary text links Vasupujya to pastoral ritual practices."
+    },
+    {
+      "myth": "Champāpurī’s association with Vasupujya is purely legendary.",
+      "reality": "While archaeological evidence is limited, both Digambara and Śvetāmbara traditions consistently preserve Champāpurī as his birthplace and nirvāṇa site across canonical texts, commentaries, and pilgrimage records."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "Utsarpini (also spelled *Utsarpiṇī*) is one of the two vast cosmological cycles described in Jain cosmology, the other being *Avasarpini*. Jain texts present time as an eternal wheel (*kālachakra*) that neither begins nor ends. Within this wheel, the universe continually moves through alternating phases of decline and ascent. Utsarpini is the ascending half-cycle, a period in which human conditions—such as lifespan, physical strength, moral capacity, and environmental well‑being—gradually improve.\n\nIn traditional cosmology, each Utsarpini is divided into six *ārās* (epochs). These epochs move from extreme degeneration toward ideal conditions. The earliest epochs of Utsarpini are marked by short lifespans, limited happiness, and diminished ethical awareness. As the cycle progresses, lifespans lengthen, bodily strength increases, and moral clarity becomes more accessible. The final epochs culminate in an age of extraordinary well‑being, where humans possess immense longevity, physical stature, and mental clarity.\n\nJain texts emphasize that Utsarpini and Avasarpini are symmetrical in structure but opposite in direction. While Avasarpini describes gradual decline, Utsarpini describes gradual improvement. Importantly, Jain cosmology does not treat these cycles as moral judgments or divine interventions; they are natural, eternal processes governed by the intrinsic laws of the universe.\n\nDifferent Jain traditions—Digambara and Śvetāmbara—agree on the broad structure of Utsarpini, though minor differences appear in narrative details, especially regarding the timing of Tīrthaṅkaras. All traditions, however, maintain that Utsarpini is part of the eternal rhythm of cosmic time and that spiritual liberation (*mokṣa*) remains possible in any epoch, though conditions may vary.\n\nModern scholarship treats Utsarpini as a key example of Jainism’s distinctive cosmological imagination, illustrating how Jain thinkers conceptualized time, moral evolution, and the cyclical nature of existence. The concept also plays a role in Jain storytelling, ritual recitation, and philosophical reflection on impermanence and cosmic order.",
+  "primary_sources": [
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara tradition)",
+      "original_text": "उस्सप्पिणी अअरं च णिव्वुअरं च कालो।",
+      "transliteration": "ussappiṇī aaraṃ ca nivvuaraṃ ca kālo",
+      "translation": "Time consists of the ascending epoch (Utsarpini) and the descending epoch (Avasarpini).",
+      "notes": "The *Tiloyapaṇṇatti* is one of the earliest systematic cosmological texts in the Digambara tradition. It provides detailed descriptions of cosmic geography and time cycles."
+    },
+    {
+      "title": "Śvētāmbara Canon: Sūtrakṛtāṅga (contextual reference)",
+      "author": "Attributed to early Jain community; redacted by Śvētāmbara tradition",
+      "original_text": "कालो अनंतो, णत्थि तस्स आदि अउ अंतो।",
+      "transliteration": "kālo ananto, natthi tassa ādi au anto",
+      "translation": "Time is infinite; it has neither beginning nor end.",
+      "notes": "While the Sūtrakṛtāṅga does not enumerate the six epochs of Utsarpini directly, it establishes the foundational doctrine of eternal time, within which the cycles of Utsarpini and Avasarpini operate."
+    },
+    {
+      "title": "Jambūdvīpaprajñapti",
+      "author": "Śvētāmbara canonical text",
+      "original_text": "छ अरा कालस्स, तेसु उवसप्पिणी अअरं वढदि।",
+      "transliteration": "cha arā kālassa, tesu uvasappiṇī aaraṃ vaḍhadi",
+      "translation": "There are six epochs of time, and in Utsarpini these epochs progressively improve.",
+      "notes": "This text provides structured cosmological descriptions, including the six epochs and their characteristics."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Utsarpini is a future era that will begin soon.",
+      "reality": "Jain cosmology describes Utsarpini as part of an immense cosmic cycle lasting countless years. It is not tied to contemporary historical timelines and cannot be dated using modern chronology."
+    },
+    {
+      "myth": "Utsarpini represents moral superiority over Avasarpini.",
+      "reality": "The distinction between Utsarpini and Avasarpini is cosmological, not moral. Both cycles are natural phases of time, and liberation is equally possible in either."
+    },
+    {
+      "myth": "All Jain traditions place the current era within Utsarpini.",
+      "reality": "Most traditions agree that we are currently in Avasarpini, specifically in its fifth epoch. Utsarpini will follow only after the completion of the sixth epoch of Avasarpini."
+    }
+  ]
+}

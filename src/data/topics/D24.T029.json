@@ -1,0 +1,43 @@
+{
+  "overview": "The principle of “no invented quotations” is a methodological and ethical guideline within Jain studies that insists on strict fidelity to verifiable textual sources. In academic, monastic, and community-based Jain scholarship, the accuracy of scriptural citation is essential because Jain traditions rely heavily on canonical authority, lineage-based transmission, and careful preservation of Prakrit and Sanskrit manuscripts. Inventing quotations—whether by attributing statements to canonical texts that do not contain them, paraphrasing without disclosure, or blending multiple passages into a single fabricated line—creates serious risks. It can distort doctrinal meaning, misrepresent sectarian positions, and introduce teachings that have no grounding in the canonical or commentarial record.\n\nWithin Jainism, scriptural authority is distributed across multiple canons: the Śvetāmbara Āgamas, Digambara canonical and semi-canonical works, and later scholastic treatises. Because these corpora differ in content, language, and historical transmission, accurate quotation is necessary to avoid conflating traditions or projecting ideas backward into texts that never expressed them. The rule against invented quotations also protects the integrity of comparative work, ensuring that differences between sects, eras, and commentarial lineages are represented faithfully.\n\nIn modern scholarship, the guideline serves as a safeguard against misinformation, especially in digital environments where unattributed or fabricated “scriptural quotes” circulate widely. It encourages researchers, students, and practitioners to verify passages using critical editions, manuscript catalogs, and peer-reviewed translations. When a passage is paraphrased, the guideline requires clear labeling of the paraphrase and identification of the underlying source. When a passage cannot be located in any canonical or commentarial text, the guideline mandates disclosure of the absence of evidence.\n\nUltimately, “no invented quotations” is not merely a technical rule but a commitment to intellectual honesty, textual precision, and respect for the Jain tradition’s long-standing philological rigor. It ensures that interpretations, teachings, and modern applications remain grounded in authentic sources rather than imaginative reconstructions.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "प्रमाणं ज्ञानम्",
+      "transliteration": "pramāṇaṃ jñānam",
+      "translation": "Knowledge is a means of valid cognition.",
+      "notes": "This aphorism (TS 1.6) is frequently cited in discussions of epistemic rigor. It underscores that valid knowledge must arise from reliable means, a principle extended in Jain scholarship to the accurate use of textual sources."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "सुत्तस्स णाणं णिस्सइ",
+      "transliteration": "suttassa ṇāṇaṃ nissai",
+      "translation": "Scriptural knowledge depends on the text itself.",
+      "notes": "This line emphasizes reliance on the actual wording of scripture. It is often invoked in Digambara study traditions to caution against paraphrasing that obscures the original meaning."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Anonymous Śvetāmbara redactors",
+      "original_text": "एवं मे सुयमाणं",
+      "transliteration": "evaṃ me suyamāṇaṃ",
+      "translation": "Thus have I heard.",
+      "notes": "A recurring formula in Śvetāmbara canonical texts, signaling transmission from an authoritative source. It highlights the tradition’s emphasis on accurate preservation of received teachings."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Invented quotations are harmless if they convey the general spirit of Jain teachings.",
+      "reality": "Even well‑intentioned fabricated quotations can misrepresent doctrine, blur sectarian distinctions, and introduce ideas not supported by canonical or commentarial sources."
+    },
+    {
+      "myth": "If a quotation is widely circulated online, it must come from a Jain scripture.",
+      "reality": "Many popular sayings attributed to Jain texts have no verifiable source. Digital circulation does not constitute evidence of authenticity."
+    },
+    {
+      "myth": "Paraphrasing a passage without labeling it is equivalent to quoting the original text.",
+      "reality": "Paraphrases must be clearly identified as such. Presenting them as direct quotations violates scholarly norms and can distort doctrinal meaning."
+    }
+  ]
+}

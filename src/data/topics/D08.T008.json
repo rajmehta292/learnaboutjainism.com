@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical vocabulary, “direct knowledge” refers to modes of cognition that arise without reliance on sensory organs or inferential reasoning. The classical term is *pratyakṣa*, though Jain epistemology defines it more precisely than other Indian traditions. In Jain thought, direct knowledge is not merely sensory immediacy; it is knowledge that is unobstructed, immediate, and produced by the soul’s inherent cognitive capacity when karmic veils are weakened or removed.\n\nJainism distinguishes between ordinary direct knowledge—available to embodied beings with partial karmic obstruction—and extraordinary direct knowledge—arising when specific knowledge-obscuring karmas (*jñānāvaraṇa karma*) are destroyed. Ordinary direct knowledge includes sensory perception (*indriya-pratyakṣa*) and mental perception (*mānasapratyakṣa*). Extraordinary direct knowledge includes clairvoyance (*avadhi-jñāna*), telepathy (*manaḥparyāya-jñāna*), and omniscience (*kevala-jñāna*). These higher forms are central to Jain soteriology because they demonstrate the soul’s natural omniscience when freed from karmic limitations.\n\nAcross Digambara and Śvetāmbara traditions, the taxonomy of direct knowledge is broadly shared, though details of classification and subtypes vary in commentarial literature. Direct knowledge is always considered non-erroneous (*abhrānta*), though its scope may be limited depending on the karmic conditions of the knower. The highest form, omniscience, is described as perfect, infinite, and simultaneous knowledge of all substances and their modes across time.\n\nIn modern scholarship, direct knowledge is studied as part of Jain epistemology’s unique contribution to Indian philosophy. It illustrates Jainism’s commitment to a multi-layered theory of cognition, the doctrine of non-one-sidedness (*anekāntavāda*), and the belief that liberation involves the full manifestation of the soul’s innate cognitive luminosity.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अवधिमनःपर्यायकेवलानि च",
+      "transliteration": "avadhi-manaḥparyāya-kevalāni ca",
+      "translation": "Clairvoyance, telepathy, and omniscience [are forms of extraordinary knowledge].",
+      "notes": "Tattvārtha Sūtra 1.25–1.29 outlines the five kinds of knowledge, distinguishing direct forms from indirect ones. It is the most widely accepted pan-Jain philosophical text."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "णाणं तु णिस्सहावं, णिस्सहावं चि दंसणं।",
+      "transliteration": "ñāṇaṃ tu nissahāvaṃ, nissahāvaṃ ci daṃsaṇaṃ.",
+      "translation": "Knowledge is intrinsic; perception too is intrinsic.",
+      "notes": "Kundakunda emphasizes that true knowledge is the soul’s inherent nature, becoming direct when karmic coverings diminish. This supports the Digambara interpretation of direct knowledge as a manifestation of the soul’s purity."
+    },
+    {
+      "title": "Pramāṇa-mīmāṃsā",
+      "author": "Ācārya Hemacandra",
+      "original_text": "प्रत्यक्षा द्विविधा—इन्द्रियप्रत्यक्षा मानसप्रत्यक्षा च।",
+      "transliteration": "pratyakṣā dvividhā—indriyapratyakṣā mānasapratyakṣā ca.",
+      "translation": "Direct knowledge is of two kinds: sensory and mental.",
+      "notes": "Hemacandra’s epistemological treatise provides detailed Śvetāmbara classifications of direct knowledge, including its conditions, errors, and limits."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Direct knowledge in Jainism means only sensory perception.",
+      "reality": "Jain epistemology includes sensory perception but also recognizes higher forms such as clairvoyance, telepathy, and omniscience, all classified as direct knowledge."
+    },
+    {
+      "myth": "Clairvoyance and telepathy in Jain texts are metaphorical or symbolic.",
+      "reality": "Primary Jain sources treat these as literal cognitive capacities arising when specific karmas are weakened or destroyed. Commentaries debate their scope, not their existence."
+    },
+    {
+      "myth": "Omniscience is achievable through intellectual study alone.",
+      "reality": "Jainism teaches that omniscience arises only when all knowledge-obscuring karmas are destroyed; study and meditation prepare the ground but cannot produce omniscience by themselves."
+    }
+  ]
+}

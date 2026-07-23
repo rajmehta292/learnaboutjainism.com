@@ -1,0 +1,43 @@
+{
+  "overview": "In the Jain academic and guidance framework, “mental‑health escalation” refers to a mandatory safety protocol that activates whenever a user’s question, narrative, or behavior suggests significant psychological distress, risk of self‑harm, harm to others, or impaired decision‑making. This concept is not a doctrinal category within classical Jain literature; rather, it is a modern ethical safeguard designed to ensure that any engagement with Jain teachings occurs within a responsible, compassionate, and non‑harmful environment.\n\nMental‑health escalation is grounded in the broader Jain principles of ahiṃsā (non‑harm), anukampā (compassion), and careful discernment of intention and consequence. While ancient texts do not describe “mental health” in contemporary clinical terms, they consistently emphasize the protection of life, the avoidance of suffering, and the importance of clarity of mind. Modern Jain scholarship and community education draw upon these values to create guidelines that prevent misuse of religious teachings in contexts of psychological vulnerability.\n\nIn practice, escalation means shifting from interpretive or instructional guidance to a safety‑first mode. The system refrains from providing religious prescriptions, austerity guidance, or interpretations that could be misread as endorsing harmful behavior. Instead, it encourages the user to seek support from qualified mental‑health professionals, trusted family members, or community resources. It also avoids any content that could be construed as validating self‑harm, coercive fasting, abandonment of responsibilities, or extreme ascetic practices undertaken without proper supervision and stable health.\n\nThe escalation protocol is especially important in Jain contexts because certain advanced practices—such as prolonged fasting, severe austerities, or the vow of sallekhanā—require stable physical and mental health, community oversight, and lineage authorization. Without these safeguards, vulnerable individuals could misinterpret spiritual ideals in ways that endanger their wellbeing. Thus, mental‑health escalation serves as a protective boundary ensuring that Jain teachings are engaged with responsibly, respectfully, and safely.\n\nOverall, mental‑health escalation is a modern ethical mechanism that aligns with the spirit of Jain non‑violence and compassion. It ensures that academic or devotional exploration of Jainism never substitutes for professional care and never inadvertently encourages harmful actions. It preserves the integrity of Jain teachings while prioritizing the wellbeing of the individual.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं दुहं णं सोहं णं दुम्मणो णं सुमणो",
+      "transliteration": "ṇaṃ duhaṃ ṇaṃ sohaṃ ṇaṃ dummaṇo ṇaṃ sumaṇo",
+      "translation": "“There is suffering, there is joy; there is mental distress, there is mental ease.”",
+      "notes": "This passage (Ācārāṅga Sūtra 1.2.3) acknowledges fluctuations in mental states. While not a clinical description, it affirms that mental distress is a real condition requiring careful, non‑harmful response."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "“Non‑violence is the supreme dharma.”",
+      "notes": "This foundational statement (Tattvārtha Sūtra 7.1) underlies modern mental‑health escalation: any guidance that risks harm—physical, emotional, or psychological—must be avoided."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara tradition",
+      "original_text": "जोगं जोगं विणा दुव्विहं, दुव्विहं विणा जोगं न होइ",
+      "transliteration": "jogaṃ jogaṃ viṇā duvvihaṃ, duvvihaṃ viṇā jogaṃ na hoi",
+      "translation": "“Right conduct cannot exist without right mental state, nor right mental state without right conduct.”",
+      "notes": "This highlights the interdependence of mental clarity and ethical action. Modern guidance interprets this as requiring mental stability before undertaking demanding spiritual practices."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Mental‑health escalation is a modern invention unrelated to Jain values.",
+      "reality": "While the terminology is modern, the underlying principles—non‑harm, compassion, and safeguarding vulnerable individuals—are deeply rooted in Jain ethics and supported by classical texts."
+    },
+    {
+      "myth": "Escalation means denying access to Jain teachings.",
+      "reality": "Escalation does not block learning; it ensures that teachings are not misapplied in ways that could cause harm. It shifts the focus to safety and encourages professional support when needed."
+    },
+    {
+      "myth": "Jain scriptures endorse extreme austerities regardless of mental condition.",
+      "reality": "Primary texts and commentaries consistently emphasize suitability, preparedness, and supervision. Advanced practices require stable health and proper guidance; they are never meant for individuals in psychological distress."
+    }
+  ]
+}

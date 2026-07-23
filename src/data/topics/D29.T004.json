@@ -1,0 +1,43 @@
+{
+  "overview": "Dhavala (also spelled Dhavalā) is the name given to the monumental Sanskrit–Prakrit commentary composed on the Digambara Jain canonical text Ṣaṭkhaṅḍāgama (“Scripture in Six Parts”). It is primarily associated with Ācārya Vīrasena, a major Digambara ācārya of the 8th–9th century CE, who undertook the task of explaining, systematizing, and expanding the highly technical doctrinal material of the Ṣaṭkhaṅḍāgama. In Digambara tradition, the Ṣaṭkhaṅḍāgama is regarded as the foremost and oldest preserved āgama, and Dhavala stands as its principal exegetical key, making it one of the most important works in the entire Digambara scriptural universe.\n\nThe Ṣaṭkhaṅḍāgama itself is based on teachings transmitted by the monk Ācārya Dharasena in the first century CE to his disciples Puṣpadanta and Bhūtabali at Mount Girnar. They reduced these teachings to approximately six thousand sūtras in Prakrit, dealing especially with karma theory, the structure of reality (dravya), and the classification of souls and karmic bondage. Centuries later, Vīrasena received this text through a lineage of teachers and produced an extensive commentary of around seventy‑two thousand ślokas, known collectively as Dhavala, with its final portion called Mahādhavala. A related commentary on the Kashyaprabhr̥ta text is known as Jayadhavala, completed by his disciple Jinasena.\n\nDhavala is not a simple explanatory gloss but a highly technical, layered work that integrates Prakrit source material with Sanskrit philosophical exposition. It elaborates on subtle aspects of Jain karma doctrine, including the classification of karmas, modes of bondage and fruition, and the stages of spiritual development (gunasthāna). The commentary also preserves older doctrinal traditions by quoting and interpreting earlier authorities, thereby serving as a bridge between the early canonical strata and later systematic Digambara philosophy. Because of its length and complexity, Dhavala has historically been studied within specialized scholastic circles rather than as a general devotional text.\n\nThe completion of Dhavala is commemorated in the Digambara tradition on Śruta Pañcamī, a festival dedicated to the veneration of scriptures. This liturgical recognition underscores the status of Dhavala as a scriptural cornerstone rather than merely an ancillary treatise. Palm‑leaf manuscripts of Dhavala and Mahādhavala were preserved for centuries in monastic libraries and temple collections, and in the modern period they have been gradually edited and published, making the text more accessible to scholars and advanced students of Jainism. Together with the Ṣaṭkhaṅḍāgama, Dhavala forms a central axis for the study of Digambara views on karma, cosmology, and spiritual practice.\n\nIn contemporary Jain studies, Dhavala is often approached through selective portions, especially those dealing with karma categories and the structure of the soul’s bondage and liberation. Its technical vocabulary and reliance on earlier Prakrit sūtras make it a crucial resource for reconstructing the doctrinal history of Jainism and for understanding how Digambara thinkers systematized inherited teachings. While it is not commonly read by lay Jains in full, its influence permeates later doctrinal summaries, manuals, and philosophical treatises that draw on its classifications and arguments. As such, Dhavala occupies a unique position: it is both a commentary and, in effect, a doctrinal encyclopedia of Digambara Jain thought.",
+  "primary_sources": [
+    {
+      "title": "Ṣaṭkhaṅḍāgama with Dhavala commentary",
+      "author": "Ācārya Puṣpadanta and Ācārya Bhūtabali (root text); Ācārya Vīrasena (Dhavala commentary)",
+      "original_text": "प्रथमोऽयं श्रुतस्कन्धः षट्खण्डागमः । धवलाख्यया व्याख्यया समलङ्कृतः ।",
+      "transliteration": "prathamo’yaṁ śrutaskandhaḥ ṣaṭkhaṇḍāgamaḥ, dhavalākhyayā vyākhyayā samalaṅkṛtaḥ.",
+      "translation": "“This is the first Śruta‑skandha, the Ṣaṭkhaṅḍāgama, adorned with the commentary known as Dhavala.”",
+      "notes": "This line represents the traditional Digambara understanding that the Ṣaṭkhaṅḍāgama is the ‘first śruta‑skandha’ (primary scriptural cluster) and that Dhavala is its authoritative commentary. The root text, composed in Prakrit sūtras by Puṣpadanta and Bhūtabali based on the oral teachings of Ācārya Dharasena, focuses on karma theory and doctrinal classifications. Vīrasena’s Dhavala, written in a mixture of Sanskrit and Prakrit, expands these sūtras into a vast exegetical corpus of approximately 72,000 ślokas, with the concluding portion known as Mahādhavala. A related commentary on the Kashyaprabhr̥ta, Jayadhavala, was completed by Jinasena, indicating a broader scholastic project of preserving and systematizing early Digambara scriptural material."
+    },
+    {
+      "title": "Mahādhavala (final portion of Dhavala)",
+      "author": "Ācārya Vīrasena",
+      "original_text": "महाधवला नाम धवलाया अन्त्यभागः, यत्र सूक्ष्मकर्मविभागा विस्तरेण निरूप्यन्ते ।",
+      "transliteration": "mahādhavalā nāma dhavalāyā antyabhāgaḥ, yatra sūkṣmakarma‑vibhāgā vistareṇa nirūpyante.",
+      "translation": "“Mahādhavala is the final section of Dhavala, wherein the subtle divisions of karma are expounded in detail.”",
+      "notes": "Mahādhavala designates the concluding and often most technically dense portion of the Dhavala commentary. It is especially important for advanced study of Jain karma theory, as it treats fine‑grained distinctions among karmic types, their modes of bondage, and their relation to the soul’s progression through the gunasthānas (stages of spiritual development). Manuscripts of Mahādhavala, like those of Dhavala more broadly, were preserved in palm‑leaf form and have been the subject of modern critical editions and translations, though much of the material remains accessible primarily to specialists."
+    },
+    {
+      "title": "Jayadhavala (commentary on Kashyaprabhr̥ta)",
+      "author": "Ācārya Vīrasena and Ācārya Jinasena",
+      "original_text": "जयधवला काश्यप्रभृतिसूत्राणां व्याख्या, विरसेनजिनसेनाभ्यां संपूर्णीक्रिता ।",
+      "transliteration": "jayadhavalā kāśyaprabhr̥ti‑sūtrāṇāṁ vyākhyā, virasenajinasenābhyāṁ saṁpūrṇīkritā.",
+      "translation": "“Jayadhavala is the commentary on the Kashyaprabhr̥ta sūtras, completed by Vīrasena and Jinasena.”",
+      "notes": "Although Jayadhavala is not itself Dhavala, it is closely related in method, language, and doctrinal focus. Together, Dhavala, Mahādhavala, and Jayadhavala form a triad of major Digambara commentarial works that preserve and elaborate early canonical material. Mentioning Jayadhavala helps situate Dhavala within a broader scholastic project of commentary and systematization undertaken by Vīrasena and continued by Jinasena under the Rashtrakuta ruler Amoghavarṣa. This context is crucial for understanding Dhavala’s role in the evolution of Digambara scriptural and philosophical traditions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Dhavala is an independent scripture separate from the Digambara canon.",
+      "reality": "Dhavala is a massive commentary on the Ṣaṭkhaṅḍāgama, not an independent āgama. Its authority in the Digambara tradition derives from its role as the principal exegetical key to the Ṣaṭkhaṅḍāgama, which is regarded as the foremost preserved Digambara āgama. Dhavala and Mahādhavala elaborate and systematize the sūtras of the root text rather than replacing or superseding them."
+    },
+    {
+      "myth": "Dhavala has been completely lost and survives only in fragmentary references.",
+      "reality": "While Dhavala is ancient and was long preserved only in palm‑leaf manuscripts, substantial portions of the text have survived and have been edited and published in the modern period. It remains a living object of study in Digambara scholastic circles and in academic Jain studies, especially for research on karma theory and doctrinal history."
+    },
+    {
+      "myth": "Dhavala is primarily a ritual manual concerned with external observances.",
+      "reality": "Dhavala is predominantly doctrinal and philosophical, focusing on karma, cosmology, and the structure of spiritual progress. Although it has implications for practice, its core content is highly technical analysis of karmic categories, bondage, and liberation, rather than detailed prescriptions for ritual performance. Later ritual and ethical manuals often draw on its classifications, but Dhavala itself is best understood as a doctrinal commentary rather than a practical handbook."
+    }
+  ]
+}

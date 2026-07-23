@@ -1,0 +1,43 @@
+{
+  "overview": "Jnana-margana (also spelled jñāna-mārgaṇa) is a technical term found in Jain epistemology and soteriology, referring to the disciplined inquiry into the nature, conditions, and means of valid knowledge. The term combines *jñāna* (knowledge) with *mārgaṇa* (search, investigation, or examination), and is used across both Digambara and Śvetāmbara traditions to describe the systematic effort to understand how knowledge arises, how it is classified, and how it functions in the path to liberation.\n\nIn classical Jain thought, knowledge is not merely intellectual acquisition but an intrinsic quality of the soul (*jīva*). Jnana-margana therefore involves examining the obscurations caused by karmic matter—specifically *jñānāvaraṇīya karma*—and understanding how these obscurations can be reduced through ethical conduct, meditation, and right perception. The inquiry also includes studying the canonical categories of knowledge: *mati-jñāna* (sensory-mental cognition), *śruta-jñāna* (scriptural cognition), *avadhi-jñāna* (clairvoyance), *manaḥparyāya-jñāna* (telepathy), and *kevala-jñāna* (omniscience).\n\nWithin the broader Jain path, jnana-margana is part of the triad of right faith (*samyak-darśana*), right knowledge (*samyak-jñāna*), and right conduct (*samyak-cāritra*). It is the analytical and contemplative dimension of right knowledge, guiding practitioners to distinguish between valid and invalid cognition, understand the limits of perception, and appreciate the role of scriptural authority. Commentarial traditions often treat jnana-margana as a prerequisite for deeper study of karma theory, cosmology, and the *gunasthāna* (stages of spiritual development).\n\nModern scholarship interprets jnana-margana as a structured epistemic discipline that integrates logic, ontology, and spiritual psychology. It is not a ritual practice but a conceptual framework for understanding how liberation becomes possible through the gradual purification of the soul’s inherent cognitive luminosity.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "ज्ञानावरणीयं कर्म",
+      "transliteration": "jñānāvaraṇīyaṃ karma",
+      "translation": "The knowledge-obscuring karma.",
+      "notes": "This sutra (TS 8.1) provides the doctrinal foundation for understanding why jnana-margana is necessary: knowledge is inherently present in the soul but obstructed by karmic matter. Inquiry into knowledge therefore requires understanding the mechanisms of karmic obscuration."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Kundakunda",
+      "original_text": "णाणं तु णिस्संसयम्",
+      "transliteration": "ṇāṇaṃ tu nissaṃsayam",
+      "translation": "Knowledge is free from doubt.",
+      "notes": "Kundakunda’s works emphasize the intrinsic purity of knowledge in the soul. Jnana-margana in Digambara traditions often draws on this perspective, highlighting the distinction between empirical cognition and the soul’s inherent omniscience."
+    },
+    {
+      "title": "Pramāṇa-mīmāṃsā (Śvetāmbara tradition)",
+      "author": "Hemacandra",
+      "original_text": "प्रमाणं ज्ञानं",
+      "transliteration": "pramāṇaṃ jñānaṃ",
+      "translation": "Valid cognition is knowledge.",
+      "notes": "Hemacandra’s epistemological treatise elaborates the criteria for valid knowledge. Jnana-margana is closely related to the analysis of pramāṇa, especially in Śvetāmbara scholastic traditions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jnana-margana is a meditative ritual or esoteric practice.",
+      "reality": "Jnana-margana is an intellectual and contemplative inquiry into the nature of knowledge, not a ritual. It involves studying epistemology, karma theory, and the classifications of cognition."
+    },
+    {
+      "myth": "Jnana-margana refers only to scriptural study.",
+      "reality": "While scriptural study is part of the process, jnana-margana also includes examining perception, inference, clairvoyance, and the soul’s inherent omniscience. It is a comprehensive epistemic discipline."
+    },
+    {
+      "myth": "Jnana-margana is identical across all Jain traditions.",
+      "reality": "The core meaning is shared, but Digambara and Śvetāmbara commentaries differ in emphasis—Digambara texts often highlight the soul’s inherent purity, while Śvetāmbara scholastic works focus more on pramāṇa theory and scriptural authority."
+    }
+  ]
+}

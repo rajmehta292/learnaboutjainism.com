@@ -1,0 +1,39 @@
+{
+  "overview": "In Jain philosophical literature, “universals” (sāmānya, jāti) refer to the conceptual structures that allow multiple particular entities to be grouped under shared characteristics. Jain thinkers—across both Digambara and Śvetāmbara traditions—developed a distinctive realist yet qualified account of universals that differs from the strict realism of Nyāya and the conceptualism of Buddhist schools. Universals are treated as one of the seven *tattvas* of predication within the broader doctrine of *anekāntavāda* (non-one-sidedness) and *syādvāda* (conditioned predication). They help explain how diverse substances (dravya), modes (paryāya), and qualities (guṇa) can be meaningfully spoken about without collapsing their individuality.\n\nJain philosophers generally affirm that universals exist, but only as *real abstractions* dependent on substances. A universal is neither an independent entity nor merely a mental fiction; it is a structural feature of reality that emerges from the shared qualities of substances. For example, “living being” (jīva-jāti) is a universal grounded in the intrinsic characteristics of all souls, while “pot-ness” (ghaṭatva) is a universal grounded in the shared form and function of pots. Universals are thus relational and context-sensitive, always tied to the specific standpoint (*naya*) from which an object is analyzed.\n\nThis treatment of universals is inseparable from Jain epistemology. Because every entity possesses infinite aspects, any universal captures only one dimension of its identity. A universal is therefore true only under a specific conditional standpoint. This prevents universals from becoming rigid metaphysical categories and preserves the Jain commitment to pluralism. The result is a sophisticated middle path: universals are real enough to support meaningful discourse and classification, yet flexible enough to avoid metaphysical absolutism.\n\nIn later scholastic works, especially those of the Digambara logicians like Akalaṅka and Vidyānanda, universals are analyzed through the lens of *syādvāda* to show how they can be affirmed, denied, or qualified depending on the standpoint. Śvetāmbara authors such as Haribhadra and Abhayadeva also integrate universals into discussions of ontology and logic, emphasizing their role in scriptural interpretation and ethical reasoning. Across traditions, universals serve as a bridge between the multiplicity of the world and the structured knowledge required for liberation-oriented practice.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "सामान्यविशेषाव्यवहारः",
+      "transliteration": "sāmānya-viśeṣa-vyavahāraḥ",
+      "translation": "“The usage of generality and particularity.”",
+      "notes": "Tattvārtha Sūtra 5.37 briefly acknowledges universals (sāmānya) and particulars (viśeṣa) as essential to correct predication. Commentaries from both Digambara and Śvetāmbara lineages elaborate that universals are grounded in shared qualities of substances but do not exist independently."
+    },
+    {
+      "title": "Aṣṭaśatī (Commentary on Tattvārtha Sūtra)",
+      "author": "Akalaṅka",
+      "original_text": "जातिः पदार्थानां सामान्यलक्षणम्",
+      "transliteration": "jātiḥ padārthānāṃ sāmānya-lakṣaṇam",
+      "translation": "“A universal is the mark of generality among entities.”",
+      "notes": "Akalaṅka’s commentary provides one of the clearest Digambara definitions of universals, emphasizing their dependence on substances and their role in logical inference."
+    },
+    {
+      "title": "Anekāntajayapatākā",
+      "author": "Haribhadra Sūri",
+      "original_text": "सामान्यं नाम गुणानां साम्यं यत्",
+      "transliteration": "sāmānyaṃ nāma guṇānāṃ sāmyaṃ yat",
+      "translation": "“A universal is the similarity of qualities.”",
+      "notes": "Haribhadra’s Śvetāmbara perspective highlights universals as relational structures emerging from shared qualities, aligning them with the broader doctrine of non-one-sidedness."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism rejects universals entirely because of its emphasis on multiplicity.",
+      "reality": "Jainism accepts universals as real but conditioned. They exist as structural features of substances, affirmed under specific standpoints, and never as independent or absolute entities."
+    },
+    {
+      "myth": "Universals in Jainism function the same way as in Nyāya realism.",
+      "reality": "Nyāya treats universals as eternal, independent entities. Jainism treats them as dependent abstractions grounded in substances and qualified by standpoint, avoiding metaphysical absolutism."
+    }
+  ]
+}

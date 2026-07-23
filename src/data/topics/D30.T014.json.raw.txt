@@ -1,0 +1,50 @@
+{
+  "overview": "Haribhadra (often styled Haribhadrasūri or Haribhadra Yākinīputra) is one of the most influential Jain philosophers and doxographers of the classical period. He is generally associated with the Śvetāmbara tradition and is renowned for his extensive writings in Sanskrit and Prakrit on Jain doctrine, ethics, yoga, and comparative philosophy. Traditional accounts place him around 459–529 CE, but modern scholarship—based on his familiarity with Buddhist philosopher Dharmakīrti and references in later texts—more commonly situates him in the 7th–8th centuries CE.\n\nHagiographical narratives describe Haribhadra as a highly learned Brahmin, originally trained in Vedic literature and logic. In one widely transmitted story, he vows to become a disciple of anyone who can utter a sentence he cannot understand. A Jain nun, Yākinī Mahattarā, recites a verse that puzzles him, leading him to seek instruction from her teacher, Jinabhaṭasūri. After accepting initiation into Jainism, he receives the name Yākinīputra—“spiritual son of Yākinī”—and becomes a prominent monk of the Vidyādhara Kula, an ancient renunciant lineage now extinct.\n\nHistorically, Haribhadra is celebrated for his comparative and dialogical approach. In works such as the Ṣaḍdarśanasamuccaya and Yogadṛṣṭisamuccaya, he surveys major Indian philosophical systems—Jain, Buddhist, Nyāya-Vaiśeṣika, Sāṃkhya, Mīmāṃsā, Vedānta—and various yoga traditions. Rather than presenting them merely polemically, he analyzes their doctrines, methods, and soteriological aims, often emphasizing that different paths can share a common ultimate truth. This attitude is closely linked to the Jain doctrine of anekāntavāda (non-absolutism), which affirms the many-sidedness of reality and cautions against dogmatic one-sided views.\n\nHaribhadra’s Yogadṛṣṭisamuccaya is especially important for Jain yoga. It offers a systematic eightfold scheme of yoga—Mitrā, Tārā, Balā, Dīprā, Sthirā, Kāntā, Prabhā, and Parā—while engaging with Patañjali’s Yogasūtra and other Buddhist and Vedāntic yoga models. He retains a clear Jain identity, grounding yoga in non-violence, ethical discipline, and the goal of kevalajñāna (omniscience), yet he acknowledges that liberated beings across traditions teach a fundamentally similar truth, even if expressed in different languages and conceptual frameworks.\n\nIn the Ṣaḍdarśanasamuccaya, Haribhadra presents and evaluates six major philosophical systems, offering a concise doxography that became a key source for later Jain and non-Jain scholars. His writings also include works on logic, narrative literature, and devotional practice. Over time, the corpus attributed to “Haribhadra” expanded, and modern researchers distinguish at least two figures—Haribhadra Virahāṅka and Haribhadra Yākinīputra—based on differences in doctrinal emphasis and historical references. This has led to ongoing debates about the precise dating and authorship of individual texts.\n\nWithin Jain intellectual history, Haribhadra stands out as a bridge-builder: a monk who combined rigorous Jain commitment with openness to dialogue, careful study of rival systems, and a willingness to learn from them without surrendering his own tradition’s core principles. His works continue to be studied in Jain seminaries and universities, and they remain central for understanding how Jain thinkers engaged with the broader landscape of Indian philosophy, yoga, and interreligious conversation.",
+  "primary_sources": [
+    {
+      "title": "Yogadṛṣṭisamuccaya",
+      "author": "Haribhadrasūri (Yākinīputra)",
+      "original_text": "यद्येकं शिक्षणं स्यात्, श्रोतारो बहवो भवन्ति।\nअचिन्त्यपुण्यप्रभावात्, नानारूपेण प्रकाशते।",
+      "transliteration": "yad ekaṁ śikṣaṇaṁ syāt, śrotāro bahavo bhavanti.\nacintyapuṇya-prabhāvāt, nānā-rūpeṇa prakāśate.",
+      "translation": "“Even if the teaching is one, there are many who hear it. Because of the inconceivable merit it bestows, it shines forth in various forms.”",
+      "notes": "The Yogadṛṣṭisamuccaya is a Sanskrit compendium of 228 verses on yoga attributed to Haribhadrasūri. It compares Jain, Buddhist, and Brahmanical yoga systems and proposes an eightfold Jain yoga path: Mitrā (friendly), Tārā (protective), Balā (powerful), Dīprā (radiant), Sthirā (firm), Kāntā (pleasing), Prabhā (luminous), and Parā (supreme). Haribhadra draws on Patañjali’s Yogasūtra while reinterpreting yoga in line with Jain ethics and the goal of liberation (mokṣa/kevala). The quoted verse expresses his pluralistic view that a single liberating truth can manifest in diverse doctrinal and linguistic forms."
+    },
+    {
+      "title": "Ṣaḍdarśanasamuccaya",
+      "author": "Haribhadrasūri",
+      "original_text": "जैनबौद्धन्यायवैशेषिकसांख्यमीमांसावेदान्तानां दर्शनानां संक्षेपः अत्र निरूप्यते।",
+      "transliteration": "jaina-baudha-nyāya-vaiśeṣika-sāṅkhya-mīmāṁsā-vedāntānāṁ darśanānāṁ saṁkṣepaḥ atra nirūpyate.",
+      "translation": "“Here a concise account of the doctrines of Jainism, Buddhism, Nyāya-Vaiśeṣika, Sāṅkhya, Mīmāṁsā, and Vedānta is set forth.”",
+      "notes": "The Ṣaḍdarśanasamuccaya is a doxographical work that surveys six major Indian philosophical systems. Haribhadra outlines their key doctrines, methods, and soteriological aims, often from a Jain vantage point but with notable fairness and clarity. The text is a crucial source for understanding how Jain scholars systematized and evaluated rival schools. It belongs to the genre of samuccaya (compendia) and reflects Haribhadra’s broader project of comparative philosophy and inter-school dialogue."
+    },
+    {
+      "title": "Anekāntajayapatākā",
+      "author": "Haribhadrasūri",
+      "original_text": "अनेकान्तो विजिगीषुर्धर्मो नानाभावप्रकाशकः।\nएकान्तदृष्टिनिर्मुक्तो नित्यं सत्यावबोधकः॥",
+      "transliteration": "anekānto vijigīṣur dharmo nānā-bhāva-prakāśakaḥ.\nekānta-dṛṣṭi-nirmukto nityaṁ satyāvabodhakaḥ.",
+      "translation": "“The doctrine of non-absolutism, seeking victory, reveals reality in its many modes. Freed from one-sided views, it constantly awakens understanding of truth.”",
+      "notes": "Anekāntajayapatākā (“The Banner of Victory of Non-Absolutism”) is traditionally attributed to Haribhadra and defends the Jain doctrine of anekāntavāda. The work argues that reality has multiple aspects and that any single, dogmatic standpoint is incomplete. By articulating and defending this principle, Haribhadra provides a philosophical foundation for his comparative and dialogical approach in other texts. The verse given is representative of the text’s emphasis on many-sidedness and the rejection of rigid absolutism."
+    },
+    {
+      "title": "Yogabindu (attributed)",
+      "author": "Haribhadrasūri (attribution debated)",
+      "original_text": "यस्य चित्तं समाहितं, यः शीलव्रतसंयुतः।\nतस्य योगः प्रसिद्धोऽत्र, मोक्षमार्गप्रदीपकः॥",
+      "transliteration": "yasya cittaṁ samāhitaṁ, yaḥ śīla-vrata-saṁyutaḥ.\ntasya yogaḥ prasiddho ’tra, mokṣa-mārga-pradīpakaḥ.",
+      "translation": "“One whose mind is collected and who is endowed with conduct and vows—his yoga is renowned here as a lamp on the path to liberation.”",
+      "notes": "Yogabindu is a shorter yoga treatise often linked to Haribhadra, though modern scholarship distinguishes between Haribhadra Virahāṅka and Haribhadra Yākinīputra, making attribution complex. The text emphasizes ethical discipline, concentration, and the integration of vows (vrata) with meditative practice. It complements the more expansive Yogadṛṣṭisamuccaya and illustrates the Jain view that genuine yoga is inseparable from non-violence, right conduct, and the pursuit of liberation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Haribhadra was exclusively a sectarian polemicist who attacked non-Jain traditions.",
+      "reality": "While Haribhadra clearly writes from a Jain standpoint and defends Jain doctrines, his major works—especially Yogadṛṣṭisamuccaya and Ṣaḍdarśanasamuccaya—are notable for their comparative and dialogical tone. He studies Buddhist, Nyāya, Sāṅkhya, Mīmāṁsā, and Vedānta systems carefully, often acknowledging their strengths and shared soteriological aims. His emphasis on anekāntavāda leads him to present multiple viewpoints rather than simply dismissing them, making him a pioneer of inter-school philosophical engagement."
+    },
+    {
+      "myth": "There was only one historical figure named Haribhadra, and all texts attributed to ‘Haribhadra’ come from a single author.",
+      "reality": "Traditional accounts often treat ‘Haribhadra’ as a single, unified author, but modern research distinguishes at least two figures: Haribhadra Virahāṅka and Haribhadra Yākinīputra. Differences in doctrinal emphasis, references to other thinkers, and historical colophons suggest that the corpus attributed to Haribhadra spans multiple centuries and authors. As a result, the precise attribution and dating of some texts—especially shorter yoga treatises and devotional works—remain debated among scholars."
+    },
+    {
+      "myth": "Haribhadra’s openness to other traditions implies that he considered all religions identical and abandoned distinctively Jain teachings.",
+      "reality": "Haribhadra’s pluralistic statements—such as the idea that liberated beings across traditions teach a common truth—do not erase Jain distinctiveness. In his yoga and doxographical works, he consistently grounds practice in Jain ethics (ahiṁsā, vows, right conduct) and the goal of kevalajñāna. His recognition of shared insights among Buddhists, Vedāntins, and others is framed within anekāntavāda: different perspectives can illuminate aspects of the same reality, but they are not simply collapsed into one undifferentiated system. He remains a committed Jain monk while advocating intellectual humility and inter-traditional learning."
+  ]
+}

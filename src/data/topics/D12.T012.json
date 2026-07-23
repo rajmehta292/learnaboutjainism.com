@@ -1,0 +1,51 @@
+{
+  "overview": "Bhavyatva (भव्यत्व) is a technical Jain doctrinal category referring to the innate capacity of a soul (jīva) to attain liberation (mokṣa). In classical Jain ontology, every soul is beginningless and possesses infinite potential; however, Jain philosophers distinguish between souls that are *bhavya*—capable of generating the necessary dispositions (bhāva) for liberation—and *abhavya*—those that, due to specific karmic configurations and dispositions, will never initiate the path leading to mokṣa.\n\nThe concept appears across Digambara and Śvetāmbara traditions, though with nuanced differences. In both, bhavyatva is not a moral judgment but a metaphysical classification. A bhavya soul may wander through saṃsāra for countless lifetimes before generating the right insight (samyagdarśana). An abhavya soul, by contrast, lacks the internal disposition required to begin the path, even though it remains ontologically identical in substance to all other souls.\n\nJain texts emphasize that bhavyatva is not externally knowable by ordinary beings. Only omniscient beings (kevalins) are said to perceive the bhavya/abhavya distinction. For laypersons and ascetics, the practical implication is that one must assume bhavyatva and strive for right conduct, since ethical effort itself is considered a sign of bhavyatva.\n\nPhilosophically, bhavyatva intersects with discussions of free will, karmic determinism, and the nature of spiritual potential. Commentators debate whether bhavyatva is an inherent quality of the soul or a contingent state arising from karmic conditions. Some Digambara authors treat it as a permanent classification, while certain Śvetāmbara commentators allow for more interpretive flexibility, emphasizing the unknowability of the category and its non-prescriptive role in practice.\n\nIn modern scholarship, bhavyatva is studied as part of Jain soteriology and metaphysics, illustrating how Jainism balances universal spiritual equality with nuanced karmic differentiation. It remains a foundational concept for understanding why some souls progress toward liberation while others do not, without implying superiority or inferiority among beings.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "भव्याभव्यत्वं च",
+      "transliteration": "bhavyābhavyatvaṃ ca",
+      "translation": "“There are souls capable of liberation and souls not capable of liberation.”",
+      "notes": "This brief sūtra (Tattvārtha Sūtra 2.10) is the most cited primary reference. Commentaries differ on whether ‘abhavya’ is an eternal category or a contingent karmic condition."
+    },
+    {
+      "title": "Gommatasāra Jīvakāṇḍa",
+      "author": "Nemicandra Siddhānta Cakravartin",
+      "original_text": "भव्यो मोक्षमार्गे प्रवर्तते, अभव्यस्तु न प्रवर्तते",
+      "transliteration": "bhavyo mokṣamārge pravartate, abhavyastu na pravartate",
+      "translation": "“The bhavya engages in the path to liberation; the abhavya does not engage in it.”",
+      "notes": "A Digambara text offering a more elaborated distinction, often interpreted as indicating a permanent classification discernible only to omniscients."
+    },
+    {
+      "title": "Pravacanasāra (with commentaries)",
+      "author": "Kundakunda",
+      "original_text": "भव्यभावो हि मोक्षहेतु",
+      "transliteration": "bhavyabhāvo hi mokṣahetu",
+      "translation": "“The disposition of being bhavya is indeed the cause of liberation.”",
+      "notes": "Kundakunda emphasizes internal disposition (bhāva) rather than metaphysical categorization, influencing later Digambara interpretations."
+    },
+    {
+      "title": "Āvaśyaka Niryukti (Śvetāmbara)",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "भव्याणं सम्यग्दस्सणं होइ",
+      "transliteration": "bhavyāṇaṃ samyag-dassaṇaṃ hoi",
+      "translation": "“For the bhavya, right insight arises.”",
+      "notes": "Śvetāmbara sources often frame bhavyatva in relation to the arising of right insight, emphasizing practical soteriology rather than fixed metaphysical classification."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Bhavyatva means some souls are inherently superior to others.",
+      "reality": "Jain ontology holds all souls as fundamentally equal, infinite, and capable in essence. Bhavyatva is a technical soteriological category describing dispositions toward liberation, not moral or ontological superiority."
+    },
+    {
+      "myth": "Ordinary people can determine whether someone is bhavya or abhavya.",
+      "reality": "Classical texts state that only omniscient beings can know this distinction. For all practical purposes, Jain ethics assumes bhavyatva for oneself and others."
+    },
+    {
+      "myth": "Abhavya souls are permanently doomed in a punitive sense.",
+      "reality": "The term does not imply punishment. It describes the absence of the disposition leading to liberation. Interpretations vary on whether this state is permanent or karmically contingent, and traditions emphasize that it has no practical bearing on ethical effort."
+    }
+  ]
+}

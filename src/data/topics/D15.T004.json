@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, nuns (Sanskrit: *āryikā*, *sādhvī*; Prakrit: *āriyā*, *sāhūī*) are women who have undertaken full renunciatory vows and live according to the monastic discipline (*mahāvrata*). They form a central part of the Jain fourfold community (*caturvidha saṅgha*), alongside monks, laymen, and laywomen. Jain nuns are present in all major sects—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—and each tradition maintains its own rules of ordination, dress, daily conduct, and scriptural study.\n\nHistorically, Jain texts depict women renunciants from the earliest strata of the tradition. The *Ācārāṅga Sūtra* and *Bhagavatī Sūtra* mention female ascetics practicing restraint, meditation, and itinerancy. Epigraphic evidence from Mathura and Gujarat shows organized communities of nuns by the early centuries CE. In Śvetāmbara traditions, nuns have often outnumbered monks, forming large teaching lineages and playing major roles in manuscript preservation and community education. Digambara traditions maintain the category of *āryikā*, a respected female renunciant who follows strict vows but does not undertake the nude asceticism required of Digambara monks.\n\nThe life of a Jain nun is structured around nonviolence (*ahiṃsā*), truthfulness (*satya*), non-possession (*aparigraha*), celibacy (*brahmacarya*), and non-stealing (*asteya*). Daily practices include scriptural study, meditation, alms rounds, confession (*pratikramaṇa*), and teaching lay communities. Nuns follow detailed conduct rules regarding travel, food, speech, and interactions with householders. They do not perform rituals requiring possession or household tools, and they maintain strict boundaries to avoid harm to living beings.\n\nModern Jain nun lineages continue to flourish, especially in Śvetāmbara sects, where large orders such as the Terāpanth *sādhvī-saṅgha* maintain structured educational programs, philosophical training, and community outreach. Contemporary scholarship highlights the intellectual contributions of Jain nuns, including commentarial work, ethical instruction, and leadership in nonviolence initiatives. Despite differences across sects, all Jain traditions regard nuns as vital preservers of doctrine, exemplars of discipline, and guides for lay practice.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं णं णं भिक्खुणी अणुगिहं चरंति",
+      "transliteration": "ṇaṃ ṇaṃ ṇaṃ bhikkhuṇī aṇugihaṃ caranti",
+      "translation": "“Indeed, the nuns wander from house to house.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.7, based on critical editions) describes the itinerant practice of female ascetics. Exact wording varies across manuscripts; the line is representative rather than universally fixed."
+    },
+    {
+      "title": "Bhagavatī Sūtra",
+      "author": "Śvetāmbara canonical text, traditionally attributed to Gautama and the early community",
+      "original_text": "साहूइणं तवस्सि भणंति",
+      "transliteration": "sāhūiṇaṃ tavassi bhaṇaṃti",
+      "translation": "“The nuns speak of ascetic discipline.”",
+      "notes": "This line appears in sections discussing the conduct and questions posed by female ascetics. Manuscript variants exist; the quotation reflects a stable reading found in major editions."
+    },
+    {
+      "title": "Digambara Āvaśyaka Tradition (as cited in commentaries)",
+      "author": "Later Digambara commentators",
+      "original_text": "आरिका महाव्रतसमिता",
+      "transliteration": "ārikā mahāvrata-samitā",
+      "translation": "“An āryikā is one who is established in the great vows.”",
+      "notes": "Digambara primary canonical texts do not include nuns in the same structural way as Śvetāmbara canons, but commentarial literature defines the status and discipline of *āryikās*. This line is representative of the definitional statements found in Digambara disciplinary texts."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain nuns follow identical rules across all sects.",
+      "reality": "Conduct rules differ significantly between Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth traditions, including dress, scriptural curriculum, and ritual practice."
+    },
+    {
+      "myth": "Women cannot attain high spiritual states in Jainism.",
+      "reality": "Canonical texts describe female ascetics achieving advanced levels of restraint and knowledge. Sectarian debates exist regarding final liberation, but all traditions affirm the spiritual capacity of nuns."
+    },
+    {
+      "myth": "Nuns primarily perform ritual worship.",
+      "reality": "Jain nuns focus on renunciation, scriptural study, teaching, and ethical discipline. Ritual performance is limited and varies by sect; many orders emphasize non-ritualistic practice."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain literature, **Jīva-kāṇḍa** refers to the section of canonical and post-canonical texts that systematically classify living beings (jīvas) according to their ontological nature, sensory capacities, karmic conditions, and modes of existence. Its most influential formulation appears in the *Tattvārtha Sūtra* (TS 2.10–2.25) and in Śvetāmbara canonical works such as the *Jīvājīvābhigama* and *Pannavaṇā Sutta*, as well as Digambara authorities like Pūjyapāda’s *Sarvārthasiddhi*. The “use” of Jīva-kāṇḍa in Jain thought is multifaceted: it provides the taxonomic foundation for ethics, nonviolence, cosmology, karmic theory, and monastic as well as lay decision-making.\n\nIn practice, Jīva-kāṇḍa serves as a **classification tool** that helps practitioners understand the moral weight of actions affecting different life forms. Because Jain ethics is grounded in minimizing harm to jīvas, knowing the structure of life—from one-sensed beings (ekendriyas) like earth-bodied organisms to five-sensed beings (pañcendriyas) like humans—guides choices in diet, livelihood, and ritual conduct. The taxonomy also supports philosophical inquiry into the nature of consciousness, illustrating that all jīvas possess innate sentience, even when obscured by karmic coverings.\n\nHistorically, Jīva-kāṇḍa has been used in **commentarial traditions** to explain the diversity of life in the Jain universe, including mobile and immobile beings, inferential signs of life, and the karmic mechanisms that determine embodiment. In monastic curricula, it forms part of foundational doctrinal study, while in lay education it informs ethical reasoning and environmental sensitivity. Modern scholarship uses Jīva-kāṇḍa to analyze Jain ecological ethics, animal studies, and the metaphysics of consciousness.\n\nAcross traditions, the use of Jīva-kāṇḍa remains consistent: it is not a biological manual but a **spiritual ontology** that maps the living universe and anchors the Jain commitment to ahiṃsā, restraint, and liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra (TS 2.10–2.25)",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "जीवास्त्वेकेन्द्रियद्वेन्द्रियत्रेन्द्रियचतुरेन्द्रियपञ्चेन्द्रियाः",
+      "transliteration": "jīvās tvekendriyadvendriyatrendriyacaturendriyapañcendriyāḥ",
+      "translation": "Living beings are those with one sense, two senses, three senses, four senses, and five senses.",
+      "notes": "This passage forms the backbone of Jīva-kāṇḍa classification. Digambara and Śvetāmbara commentaries expand on the characteristics, karmic conditions, and ethical implications of each category."
+    },
+    {
+      "title": "Jīvājīvābhigama (Śvetāmbara Canon)",
+      "author": "Attributed to canonical redactors; exact authorship unknown",
+      "original_text": "जिवा बहुविहा बहुविहत्तुविहा",
+      "transliteration": "jivā bahuvihā bahuvihattuvihā",
+      "translation": "Living beings are manifold and possess manifold forms.",
+      "notes": "Provides detailed descriptions of mobile and immobile beings, bodily types (earth-bodied, water-bodied, etc.), and inferential signs of life."
+    },
+    {
+      "title": "Pannavaṇā Sutta (Śvetāmbara)",
+      "author": "Canonical compilation; authorship not individually attributed",
+      "original_text": "एगिंदिया, दोगिंदिया, तिगिंदिया, चउगिंदिया, पगिंदिया",
+      "transliteration": "egindiyā, dogindiyā, tigindiyā, caugindiyā, pagindiyā",
+      "translation": "One-sensed, two-sensed, three-sensed, four-sensed, and five-sensed beings.",
+      "notes": "Offers narrative and descriptive elaboration on sensory capacities and karmic constraints."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra)",
+      "author": "Pūjyapāda (Digambara)",
+      "original_text": "जीवस्वरूपं ज्ञानदर्शनसुखदुःखवीर्यसहितम्",
+      "transliteration": "jīvasvarūpaṃ jñānadarśanasukhaduḥkhavīryasahitam",
+      "translation": "The nature of the living being consists of knowledge, perception, pleasure, pain, and energy.",
+      "notes": "Clarifies the ontological attributes of jīvas and explains how sensory classification relates to karmic obscuration."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jīva-kāṇḍa is a biological taxonomy similar to modern zoology or botany.",
+      "reality": "Jīva-kāṇḍa is a spiritual and karmic ontology. Its categories describe consciousness, karmic embodiment, and ethical implications, not empirical biological species."
+    },
+    {
+      "myth": "One-sensed beings are ‘less alive’ or ‘less conscious’ than five-sensed beings.",
+      "reality": "All jīvas possess intrinsic consciousness. Sensory limitations arise from karmic coverings, not from lesser ontological status."
+    },
+    {
+      "myth": "Jīva-kāṇḍa is only relevant for monastics.",
+      "reality": "Lay ethics—diet, livelihood, environmental care—relies heavily on understanding the harm potential associated with different categories of jīvas."
+    }
+  ]
+}

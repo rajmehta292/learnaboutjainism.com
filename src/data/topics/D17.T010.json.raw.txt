@@ -1,0 +1,71 @@
+{
+  "overview": "Devavandana (also written Dev Vandana, Deva-vandana) in Jainism refers to the structured act of reverential salutation and devotional praise offered to the Tirthankaras and other spiritually exalted beings, typically performed in front of a Jina image or at a chaitya (shrine). It is both a liturgical sequence of verses and physical prostrations, and an inner discipline of humility, surrender of ego, and cultivation of right faith (samyak-darśana).\n\nIn practice, Devavandana usually combines three dimensions: physical bowing (vandan or praṇāma), vocal recitation of canonical or semi-canonical hymns (stotra, stuti, stavan), and contemplative reflection on the qualities of the Arihants, Siddhas, Ācāryas, Upādhyāyas, and all sādhus and sādhvīs. The most fundamental mantra in many Devavandana sequences is the Navkār (Namokāra) Mantra, which bows to these five categories of spiritually advanced beings and is regarded as a universal salutation that destroys sins and brings auspiciousness.  [[0]](https://jainknowledge.com/question/5016/dev-vadan-shlok)\n\nThe physical component often includes the traditional five-point prostration (pañcāṅga praṇām), in which the devotee touches the floor with two hands, two knees, and the forehead, symbolizing complete surrender of pride and worldly preoccupations. This is accompanied by a devotional attitude (bhāva) of inner purity, non-violence, and aspiration for right knowledge, right faith, and right conduct. Devavandana is not merely a request for worldly favors; rather, it is an offering of reverence to the qualities of the Jinas and an occasion to align one’s own soul with those qualities.  [[1]](https://jainknowledge.com/question/14475/process-of-dev-vandan)\n\nAcross Jain traditions, Devavandana is embedded in daily temple worship and special observances. In Śvetāmbara Mūrtipūjaka practice, a typical Devavandana sequence may begin with the Navkār Mantra, followed by hymns such as Logassa Ujjuyāre, Namutthunam, and Jai Vīyarāya, along with specific vandan to the presiding Tirthankara of the temple, kṣamāpanā (asking forgiveness), and optional stotras like Śāntikaraṇa, Uvāsagga-haraṇa, or Bhaktāmara.  [[0]](https://jainknowledge.com/question/5016/dev-vadan-shlok) Devavandana texts are often collected in liturgical anthologies such as “Devvandanmala” and “Stavan Sangraha Devvandana Sahit,” which organize hymns for daily worship, festivals, and chaityavandana, and provide narrative and doctrinal context for the verses.  [[2]](https://jaingpt.org/knowledge/devvandanmala_032403_032403) [[3]](https://jaingpt.org/knowledge/stavan_sangraha_devvandana_sahit_008666_008666)\n\nIn Digambara settings, the core intent of Devavandana is similar, though the exact sequence of verses and ritual details may differ. Devotees recite the Navkār Mantra (sometimes in a Sanskritized form) and hymns like “Namostu Vītarāgāya,” as well as selected stotras such as Bhaktāmara or Kalyāṇa Maṇḍira Stotra, often integrated into deva-pūjā and daily worship.  [[0]](https://jainknowledge.com/question/5016/dev-vadan-shlok) The diversity of Devavandana literature—seen in compilations like “Dev Vandana Stuti Stavan Sangrah” by Ācārya Buddhisagar Suri—reflects the Jain recognition that different devotees resonate with different poetic and philosophical styles, while the underlying aim remains the same: to purify the soul, deepen devotion, and orient the practitioner toward liberation (mokṣa).  [[4]](https://jaingpt.org/knowledge/dev_vandana_stuti_stavan_sangrah_008557_008557)\n\nFrom a doctrinal perspective, Devavandana is closely linked to the Jain understanding of karma and spiritual progress. By repeatedly contemplating and praising the qualities of the Jinas and other advanced beings, the practitioner cultivates śraddhā (trustful faith) in the path of non-violence, restraint, and self-realization, and weakens passions such as pride, anger, and greed. The verses often include universal wishes for the welfare of all living beings, reinforcing the ethic of ahiṁsā and the recognition of the interconnectedness of all jīvas. In this way, Devavandana functions as both a devotional and ethical practice, integrating liturgy, philosophy, and daily conduct into a single, coherent discipline.\n\nHistorically, Devavandana collections have grown as Jain poets, monks, and scholars composed new hymns that respond to the spiritual needs of their communities, while remaining anchored in the core doctrinal framework. Modern compilations frequently include brief biographies of the composers, explanations of the occasions for which each Devavandana is intended (such as Gyan Panchami, Caturmāsa observances, or Maun Ekādaśī), and guidance on correct performance.  [[2]](https://jaingpt.org/knowledge/devvandanmala_032403_032403) [[3]](https://jaingpt.org/knowledge/stavan_sangraha_devvandana_sahit_008666_008666) This living tradition underscores that Devavandana is not a static ritual, but an evolving expression of Jain devotion, continually reinterpreted in light of contemporary experience while remaining faithful to the ideals of the Tirthankaras.",
+  "primary_sources": [
+    {
+      "title": "Navkār (Namokāra) Mantra",
+      "author": "Traditionally regarded as an eternal mantra; no single human author",
+      "original_text": "णमो अरिहंताणं\nणमो सिद्धाणं\nणमो आयरियाणं\nणमो उवज्झायाणं\nणमो लोए सव्वसाहूणं",
+      "transliteration": "Namo arihaṇtāṇaṁ\nNamo siddhāṇaṁ\nNamo āyariyāṇaṁ\nNamo uvajjhāyāṇaṁ\nNamo loe savva-sāhūṇaṁ",
+      "translation": "I bow to the Arihants.\nI bow to the Siddhas.\nI bow to the Ācāryas.\nI bow to the Upādhyāyas.\nI bow to all the sādhus and sādhvīs in the world.",
+      "notes": "This mantra is the foundational salutation in Jainism and forms the core of many Devavandana sequences in both Śvetāmbara and Digambara traditions. It is believed to destroy sins and bring auspiciousness, and it encapsulates the hierarchical reverence offered during Devavandana.  [[0]](https://jainknowledge.com/question/5016/dev-vadan-shlok)"
+    },
+    {
+      "title": "Logassa Ujjuyāre (Logassa Devavandana verse)",
+      "author": "Canonical Prakrit verse; traditional attribution within Jain liturgical corpus",
+      "original_text": "लोगस्स उज्जुयारे, धम्मतिट्ठं पवित्तयं;\nअरिहंताणं उवज्झायं, आयरियाणं च वंदियं।\nसिद्धे भगवं तए, इच्छामि खंसु सव्वजीवे;\nसव्वे जीवाः खेयं भवन्तु, सव्वदुक्खा पमुच्चइ.",
+      "transliteration": "Logassa ujjuyāre, dhamma-titthaṁ pavittayaṁ;\nArihantāṇaṁ uvajjhāyaṁ, āyariyāṇaṁ ca vandiya.\nSiddhe bhagavam tae, icchāmi khaṁasu savva-jīve;\nSavve jīvā khemaṁ bhavantu, savva-dukkhā pamuccai.",
+      "translation": "I adore the holy ford (tīrtha) of the Jinas; I bow to the Arihants, Upādhyāyas, and Ācāryas; I honor the Siddhas. May all living beings be safe and may they be freed from all suffering.",
+      "notes": "Logassa is a central Devavandana hymn in Śvetāmbara Mūrtipūjaka practice. It combines praise of the Jinas and their tīrtha with universal wishes for the welfare of all beings, embodying the ethical and devotional dimensions of Devavandana.  [[0]](https://jainknowledge.com/question/5016/dev-vadan-shlok)"
+    },
+    {
+      "title": "Namutthunam (Namutthunam gandhahattīṇam)",
+      "author": "Canonical Prakrit verse; traditional liturgical source",
+      "original_text": "नमुत्थुणं गंधहत्तीणं,\nनमुत्थुणं वासधारीणं;\nनमुत्थुणं जिनवराणं,\nनमुत्थुणं विज्जाधारीणं.",
+      "transliteration": "Namutthuṇaṁ gandha-hattīṇaṁ,\nNamutthuṇaṁ vāsa-dhārīṇaṁ;\nNamutthuṇaṁ jinavarāṇaṁ,\nNamutthuṇaṁ vijjā-dhārīṇaṁ.",
+      "translation": "Obeisance to the Supreme Jinas, fragrant with virtues; obeisance to those who bear the garland of qualities; obeisance to the best among the Jinas; obeisance to the bearers of perfect knowledge.",
+      "notes": "Namutthunam is frequently included in Devavandana sequences as a concentrated praise of the Jinas’ virtues and omniscience. It reinforces the contemplative focus on the qualities that the devotee seeks to emulate through devotion and ethical conduct.  [[0]](https://jainknowledge.com/question/5016/dev-vadan-shlok)"
+    },
+    {
+      "title": "Jai Vīyarāya (Victory to Lord Vīra)",
+      "author": "Traditional Jain hymn in Prakrit",
+      "original_text": "जइ वीयराय! वीर जिने, इंदमहणिय! भू-सुरगण-वंदित;\nजइ दुहियणवीर! जइ संजमायरय! जइ जिनेस्सर! जगदिट्ठ.",
+      "transliteration": "Jai vīyarāya! vīra jine, inda-mahaṇiya! bhū-suragaṇa-vandita;\nJai duviyaṇa-vīra! jai saṁjamā-raya! jai jineśvara! jagadiṭṭha.",
+      "translation": "Victory to Lord Vīra (Mahāvīra), revered by gods and sages; victory to the Conqueror of two worlds, to the Lord of Restraint, to the Jineśvara seen by the world.",
+      "notes": "This hymn is a prominent component of many Śvetāmbara Devavandana sequences, focusing specifically on Mahāvīra as the twenty-fourth Tirthankara. It highlights his conquest of inner passions and outer obstacles, and his embodiment of restraint (saṁyama).  [[0]](https://jainknowledge.com/question/5016/dev-vadan-shlok)"
+    },
+    {
+      "title": "Namostu Vītarāgāya",
+      "author": "Traditional Sanskrit hymn used in Digambara Devavandana",
+      "original_text": "नमोस्तु वीतरागाय, स्वाधर्माय च मे सदा;\nजिनेभ्यो जैनधर्माय, नमस्तेऽस्तु पुनः पुनः.",
+      "transliteration": "Namostu vītarāgāya, svādharmāya ca me sadā;\nJinebhyo jaina-dharmāya, namas-te’stu punaḥ punaḥ.",
+      "translation": "Obeisance to the passionless (Jinas) and always to my true dharma; salutations again and again to the Jinas and to Jain Dharma.",
+      "notes": "In many Digambara temples, this verse is recited as part of Devavandana or deva-pūjā. It emphasizes the vītarāga (passionless) nature of the Jinas and the devotee’s commitment to true dharma, aligning the ritual of reverence with the doctrinal ideal of non-attachment.  [[0]](https://jainknowledge.com/question/5016/dev-vadan-shlok)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Devavandana is primarily a way to ask the Tirthankaras and deities for worldly favors such as wealth, success, or protection.",
+      "reality": "Traditional Jain sources and liturgical explanations emphasize that Devavandana is an offering of reverence to the qualities of the Arihants, Siddhas, Ācāryas, Upādhyāyas, and sādhus/sādhvīs, aimed at spiritual purification and alignment with right faith, knowledge, and conduct. While devotees may express general wishes for well-being, the core intent is not transactional petitioning for material gains but the cultivation of devotion, humility, and detachment.  [[1]](https://jainknowledge.com/question/14475/process-of-dev-vandan) [[4]](https://jaingpt.org/knowledge/dev_vandana_stuti_stavan_sangrah_008557_008557)"
+    },
+    {
+      "myth": "Only one fixed set of verses and procedures counts as ‘authentic’ Devavandana, and any variation by sect or locality is incorrect.",
+      "reality": "Historical and contemporary compilations such as “Devvandanmala” and “Stavan Sangraha Devvandana Sahit” show that Devavandana practice includes a wide range of hymns, sequences, and ritual details that vary by sect, gaccha/saṅgha, temple tradition, and occasion. The essential intent—reverence for the Jinas and advanced beings, and cultivation of pure bhāva—remains constant, while the specific verses and order are legitimately diverse within the Jain tradition.  [[0]](https://jainknowledge.com/question/5016/dev-vadan-shlok) [[2]](https://jaingpt.org/knowledge/devvandanmala_032403_032403) [[3]](https://jaingpt.org/knowledge/stavan_sangraha_devvandana_sahit_008666_008666)"
+    },
+    {
+      "myth": "Devavandana is a purely external ritual with little connection to ethical conduct or inner transformation.",
+      "reality": "Devavandana texts repeatedly link praise of the Jinas and other exalted beings with aspirations for non-violence, restraint, and the welfare of all living beings. Verses such as Logassa explicitly pray for the safety and freedom from suffering of all jīvas, and commentarial and modern explanations stress that genuine devotion must be accompanied by understanding and ethical practice. Devavandana is therefore intended as a bridge between liturgy and lived ethics, not an isolated external performance.  [[0]](https://jainknowledge.com/question/5016/dev-vadan-shlok) [[4]](https://jaingpt.org/knowledge/dev_vandana_stuti_stavan_sangrah_008557_008557)"
+    }
+  ]
+}
+
+
+
+> [0] [dev vadan shlok | JainGPT by Jain Knowledge](https://jainknowledge.com/question/5016/dev-vadan-shlok)
+>
+> [1] [Process of dev vandan | JainGPT by Jain Knowledge](https://jainknowledge.com/question/14475/process-of-dev-vandan)
+>
+> [2] [Devvandanmala - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/devvandanmala_032403_032403)
+>
+> [3] [Stavan Sangraha Devvandana Sahit - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/stavan_sangraha_devvandana_sahit_008666_008666)
+>
+> [4] [Dev Vandana Stuti Stavan Sangrah - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/dev_vandana_stuti_stavan_sangrah_008557_008557)

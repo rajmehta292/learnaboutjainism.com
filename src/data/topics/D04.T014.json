@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain thought, **Nigoda** refers to the lowest, most rudimentary category of living beings within the vast cosmology of *jīva*. Nigodas are described as infinitesimal, extremely subtle organisms that exist in dense clusters and possess only the barest degree of life-function. They are typically classified as **one-sensed beings (ekendriya jīvas)**, but even within this category they occupy the lowest rung of vitality, consciousness, and karmic development.\n\nNigodas are important in Jainism for several reasons. First, they illustrate the tradition’s expansive definition of life: Jain philosophers argue that the universe is filled with living beings far beyond human perception, and Nigodas represent the smallest and most numerous of these. Second, Nigodas play a role in discussions of **karmic bondage and transmigration**. Some texts describe Nigodas as beings whose karmic obscurations are so dense that they remain in a nearly static state for extremely long periods. Third, Nigodas are invoked in ethical reasoning—especially in the context of *ahiṃsā*—to emphasize that harm to life is pervasive and subtle, requiring careful attention from practitioners.\n\nDifferent Jain traditions describe Nigodas with slight variations. Digambara sources often emphasize their role in cosmological cycles and karmic density, while Śvetāmbara sources provide more detailed taxonomies of Nigoda clusters. Across traditions, Nigodas are not considered mythic beings but part of a systematic attempt to map all forms of life, from the most developed to the most rudimentary.\n\nScholars note that Nigoda descriptions serve both metaphysical and ethical functions: they articulate a universe teeming with life and reinforce the Jain commitment to minimizing harm. However, the exact nature of Nigodas—whether they are literal biological entities, metaphysical constructs, or both—remains a subject of interpretive debate within commentarial literature.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "निगोदास्तिर्यगायाः",
+      "transliteration": "nigodās tiryagāyāḥ",
+      "translation": "Nigodas belong to the category of beings with a horizontal (tiryak) mode of existence.",
+      "notes": "This brief reference appears within the broader classification of living beings. Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) elaborate that Nigodas are extremely minute, densely clustered organisms with minimal life-functions."
+    },
+    {
+      "title": "Jīvājīvābhigama (Śvetāmbara canonical text)",
+      "author": "Attributed to ancient canonical compilers",
+      "original_text": "एतेषां जीवानाṃ नानाप्रकारा भवन्ति, तत्र निगोदाः सूक्ष्मतमाḥ",
+      "transliteration": "eteṣāṃ jīvānāṃ nānāprakārā bhavanti, tatra nigodāḥ sūkṣmatamāḥ",
+      "translation": "Among the many kinds of living beings, Nigodas are the most subtle.",
+      "notes": "This passage situates Nigodas within the canonical taxonomy of life. The text emphasizes their subtlety and extremely limited sensory capacity."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra)",
+      "author": "Pūjyapāda",
+      "original_text": "निगोदाः सघनसमूहेन जीवाः, अल्पप्राणाः",
+      "transliteration": "nigodāḥ saghanasamūhena jīvāḥ, alpaprāṇāḥ",
+      "translation": "Nigodas are beings existing in dense clusters, possessing very little vital capacity.",
+      "notes": "A traditional Digambara commentary that expands on the terse sūtra reference. It describes Nigodas as having minimal *prāṇa* (vitalities) and existing in compact masses."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Nigodas are fictional or symbolic beings invented to teach nonviolence.",
+      "reality": "Primary Jain texts treat Nigodas as part of a systematic taxonomy of life. While interpretations vary, they are not presented as mere allegory but as actual forms of subtle living beings."
+    },
+    {
+      "myth": "Nigodas are identical to modern microorganisms such as bacteria.",
+      "reality": "Although Nigodas are described as extremely minute and numerous, Jain texts define them through metaphysical criteria—such as karmic density and sensory capacity—not biological taxonomy. Any overlap with microbiology is interpretive, not textual."
+    },
+    {
+      "myth": "Nigodas can evolve into higher life forms through ordinary biological processes.",
+      "reality": "Jain doctrine states that movement out of Nigoda existence requires specific karmic conditions and is extremely rare. It is not framed as biological evolution but as karmic transformation."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "Critical editions are scholarly reconstructions of a text based on the systematic comparison of multiple manuscripts, inscriptions, or early printed witnesses. In Jain studies, they serve as the foundational tools for establishing the most reliable version of canonical and post‑canonical works across Śvetāmbara, Digambara, and mixed manuscript traditions. Because Jain literature spans more than two millennia, with transmission through palm‑leaf manuscripts, paper codices, regional recensions, and sectarian redactions, critical editions aim to recover the earliest attainable form of a text while documenting all significant variants.\n\nA critical edition typically begins with the identification and cataloguing of available manuscripts. Scholars assess each witness for age, script, lineage, scribal habits, and signs of contamination or interpolation. Using stemmatic analysis (when possible), editors reconstruct genealogical relationships among manuscripts to determine which readings are likely original and which are later additions. In Jain contexts, this process is complicated by the coexistence of multiple Prakrit dialects (Ardhamāgadhī, Śaurasenī, Jaina Māhārāṣṭrī), Sanskrit commentarial layers, and sectarian redactions that may reflect doctrinal priorities.\n\nThe final product of a critical edition includes a main text representing the editor’s reconstruction, an apparatus criticus listing variant readings, and often a second apparatus documenting parallels, quotations, or commentarial interpretations. Critical editions are essential for reliable translation, doctrinal analysis, karma theory reconstruction, and historical study. They also help distinguish between canonical strata, later scholastic expansions, and regional scribal practices. In Jainism, critical editions underpin modern scholarship on the Āgamas, Digambara śāstras, narrative literature, and technical treatises on karma, cosmology, and logic.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "तत्त्वार्थसूत्रम् १.१: सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "tattvārthasūtram 1.1: samyagdarśanajñānacāritrāṇi mokṣamārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "Critical editions of the Tattvārtha-sūtra compare Śvetāmbara and Digambara recensions, which differ in chapter divisions, terminology, and commentarial traditions. Editors document variant readings from manuscripts in Devanāgarī, Jaina Śāradā, and Grantha scripts."
+    },
+    {
+      "title": "Ācārāṅga-sūtra (Śvetāmbara canon)",
+      "author": "Attributed to early Jain community; redactional layers present",
+      "original_text": "सीयालोगपाहुडं — āyāro १.१: णं चेज्जा ववहारं चेज्जा",
+      "transliteration": "sīyālogapāhuḍaṃ — āyāro 1.1: ṇaṃ cejjā vavahāraṃ cejjā",
+      "translation": "One should not injure living beings; one should restrain conduct.",
+      "notes": "Critical editions rely on palm‑leaf manuscripts from Patan, Jaisalmer, and Cambay, noting differences in Ardhamāgadhī orthography, chapter ordering, and embedded narrative expansions."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara canon)",
+      "author": "Kundakunda lineage; compiled by Puṣpadanta and Bhūtabali",
+      "original_text": "प्रथमखण्डः — जीवकाण्डः: जीवास्ति",
+      "transliteration": "prathamakhaṇḍaḥ — jīvakaṇḍaḥ: jīvāsti",
+      "translation": "The living being exists.",
+      "notes": "Critical editions compare manuscripts from Mudbidri and other southern repositories. The apparatus records extensive variant readings due to damaged folios, scribal corrections, and regional transmission."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "A critical edition is simply a modern reprint of a traditional text.",
+      "reality": "Critical editions are scholarly reconstructions based on comparing multiple manuscripts and documenting variants. They do not merely reprint a single manuscript or traditional version."
+    },
+    {
+      "myth": "Critical editions remove all later additions and produce a single universally accepted text.",
+      "reality": "Critical editions aim to reconstruct the earliest recoverable form, but they also preserve later readings in the apparatus. Different editors may reach different conclusions based on manuscript evidence."
+    },
+    {
+      "myth": "Sectarian differences disappear once a critical edition is produced.",
+      "reality": "Critical editions often highlight sectarian divergences in transmission, terminology, and doctrinal emphasis. They do not erase these differences but make them more visible for study."
+    }
+  ]
+}

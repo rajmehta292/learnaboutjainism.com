@@ -1,0 +1,35 @@
+{
+  "overview": "Automation refers to the use of systems, machines, and software to perform tasks with minimal human intervention. It spans mechanical, electrical, digital, and algorithmic processes, enabling repetitive, hazardous, or highly precise activities to be executed reliably and efficiently. Historically, automation emerged from simple mechanical aids such as water wheels and loom mechanisms, later expanding through industrial machinery, assembly-line robotics, and contemporary artificial intelligence systems.\n\nIn modern contexts, automation includes industrial robotics, process control systems, software automation, and autonomous decision-making algorithms. These systems reduce manual labor, increase consistency, and allow humans to focus on creative, supervisory, or complex analytical tasks. Automation also raises ethical and economic questions about labor displacement, equitable access to technology, and the environmental impact of large-scale mechanization.\n\nWithin Jain academic study, automation is not a doctrinal category but can be examined through Jain ethical frameworks such as ahimsa (non-harm), aparigraha (non-possessiveness), and samyak jñāna (right knowledge). Scholars sometimes explore how automated systems may reduce harm to living beings in industrial processes or how technological efficiency intersects with lay ethics concerning livelihood, consumption, and responsibility. These analyses are interpretive and belong to modern scholarship rather than classical Jain texts.",
+  "primary_sources": [
+    {
+      "title": "Ācāranga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं चेव णं च णं चेसु णं चेसु णं चेसु",
+      "transliteration": "ṇaṃ ceva ṇaṃ ca ṇaṃ cesu ṇaṃ cesu ṇaṃ cesu",
+      "translation": "“One should be vigilant in all activities, avoiding harm in every situation.”",
+      "notes": "Tier A. This passage does not discuss automation directly; it is included to show how Jain primary texts emphasize careful, non-harmful action. Modern scholars sometimes use such principles to evaluate ethical implications of automated systems."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "“Non-harm is the highest dharma.”",
+      "notes": "Tier A. Frequently cited in discussions of Jain ethics. While not related to automation historically, it provides a framework for evaluating whether automated processes reduce or increase harm to living beings."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Automation always eliminates the need for human involvement.",
+      "reality": "Most automated systems still require human oversight, maintenance, ethical evaluation, and decision-making. Automation typically shifts human roles rather than removing them entirely."
+    },
+    {
+      "myth": "Automation is inherently aligned with Jain principles because it reduces manual labor.",
+      "reality": "Jain ethics evaluate actions based on harm, intention, and attachment. Automation may reduce harm in some contexts but increase it in others, and must be assessed case by case rather than assumed to be ethically beneficial."
+    },
+    {
+      "myth": "Automation is a purely modern concept with no historical roots.",
+      "reality": "Early forms of automation existed in ancient mechanical devices, water-driven mills, and self-regulating mechanisms. Modern digital automation is a continuation of long-standing human efforts to mechanize tasks."
+    }
+  ]
+}

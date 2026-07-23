@@ -1,0 +1,43 @@
+{
+  "overview": "Whistleblowing refers to the act of disclosing information about wrongdoing, corruption, negligence, or unethical conduct within an organization—whether governmental, corporate, or nonprofit. In modern ethics, including Jain-informed perspectives, whistleblowing is examined through the lenses of truthfulness (satya), non-harm (ahimsa), and responsibility to society. The practice often involves significant personal risk, as whistleblowers may face retaliation, job loss, legal challenges, or social pressure. Yet whistleblowing can also serve as a vital mechanism for accountability, transparency, and the protection of vulnerable populations.\n\nIn secular contexts, whistleblowing is typically defined by legal frameworks such as the U.S. Whistleblower Protection Act or international conventions that safeguard individuals who expose misconduct. These frameworks attempt to balance organizational confidentiality with the public interest. Ethical discussions emphasize the tension between loyalty to an employer and moral duty to prevent harm.\n\nFrom a Jain-informed ethical standpoint, whistleblowing intersects with several foundational principles. Satya encourages truthful speech, but only when it does not cause unnecessary harm. Ahimsa requires minimizing violence, including psychological or social harm, while still acknowledging the duty to prevent greater harm to others. Aparigraha (non-possessiveness) and anitya (impermanence) can support the courage needed to speak out without attachment to status or fear of loss. Jain texts do not explicitly discuss whistleblowing as a modern phenomenon, but they do address truthful speech, moral courage, and the exposure of harmful conduct. These principles provide a framework for evaluating when and how whistleblowing may be ethically justified.\n\nIn contemporary Jain communities, scholars and ethicists debate how whistleblowing aligns with lay conduct (śrāvakācāra). Many argue that exposing systemic harm—such as environmental destruction, financial fraud, or abuse—can be consistent with Jain ethics when done with careful intention, minimal harm, and respect for due process. Others caution that speech causing severe harm, even when truthful, must be weighed carefully. Thus, whistleblowing is understood as a complex moral act requiring discernment, compassion, and adherence to non-harm.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmī",
+      "original_text": "सत्यं वचनम्",
+      "transliteration": "satyaṃ vacanam",
+      "translation": "Truthful speech.",
+      "notes": "Tattvārtha Sūtra 7.11 defines satya as truthful speech that does not cause harm. Commentaries (B) emphasize that truth must be spoken with care, intention, and awareness of consequences. This principle is often used in modern Jain ethics to evaluate whether exposing wrongdoing aligns with non-harm."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non-harm is the supreme duty.",
+      "notes": "Although this phrase is widely cited in Jain tradition, its exact wording appears in later commentarial traditions rather than the earliest manuscripts. The Ācārāṅga Sūtra repeatedly emphasizes avoiding harm through speech, action, and intention. Modern interpreters use this principle to assess whether whistleblowing prevents greater harm."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Unknown (Śvetāmbara canonical text)",
+      "original_text": "सावज्जं वचनं न वदेज्ज",
+      "transliteration": "sāvajjaṃ vacanaṃ na vadejja",
+      "translation": "One should not speak words that cause harm.",
+      "notes": "This passage highlights the ethical responsibility of speech. In whistleblowing contexts, scholars note that exposing wrongdoing may prevent larger harm, but the speech must be measured and intentional."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Whistleblowing is always an act of disloyalty to one’s organization.",
+      "reality": "Ethical frameworks, including Jain-informed perspectives, recognize that loyalty does not override the duty to prevent harm. Whistleblowing can be an act of moral responsibility aimed at protecting the public or vulnerable individuals."
+    },
+    {
+      "myth": "Whistleblowing is purely a legal matter and does not involve moral considerations.",
+      "reality": "Whistleblowing is deeply ethical. It involves truthfulness, non-harm, courage, and responsibility. Legal protections exist, but moral discernment is essential to determine when and how to disclose wrongdoing."
+    },
+    {
+      "myth": "Speaking the truth is always harmless and therefore always justified.",
+      "reality": "Jain ethics emphasize that truth must be spoken with care and non-harm. Truthful speech that causes unnecessary suffering is discouraged. Whistleblowing requires evaluating consequences and minimizing harm."
+    }
+  ]
+}

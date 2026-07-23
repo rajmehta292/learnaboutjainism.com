@@ -1,0 +1,51 @@
+{
+  "overview": "“Inference for oneself” (svārthānumāna or *svārthānumiti*) is a foundational concept in Jain epistemology, especially within the broader classification of *pramāṇa* (valid means of knowledge). Jain philosophers distinguish between knowledge acquired directly (*pratyakṣa*) and knowledge acquired indirectly (*parokṣa*). Inference belongs to the latter category. \n\nIn Jain thought, inference for oneself refers to the internal cognitive process by which an individual arrives at knowledge through reasoning, without necessarily expressing that reasoning to others. It is contrasted with “inference for others” (*parārthānumāna*), which is the formal, communicable presentation of inferential reasoning meant to convince or instruct another person. \n\nJain epistemologists—such as Umāsvāti/Umāsvāmi, Akalaṅka, Vidyānandi, and Hemacandra—describe inference as arising from the recognition of a *liṅga* (sign) or *hetu* (reason) that is invariably connected with a particular *sādhya* (probandum). For example, seeing smoke and inferring fire is a classic case. Inference for oneself is the internal recognition of this connection, grounded in prior experience and reliable patterns (*vyāpti*). \n\nJainism’s distinctive contribution lies in its insistence that inference must be contextualized within *anekāntavāda* (the doctrine of many-sidedness) and *syādvāda* (the doctrine of conditioned predication). Thus, inferential knowledge is valid but always partial, conditioned, and subject to perspectival limits. This prevents dogmatic overreach and encourages intellectual humility. \n\nWithin the Jain pramāṇa system, inference for oneself is classified under *parokṣa pramāṇa* and is considered a reliable but indirect means of knowledge. It plays a crucial role in philosophical reasoning, ethical deliberation, and scriptural interpretation. It is also essential for understanding karmic processes, metaphysics, and the path of liberation, where many truths are not directly observable but must be inferred from authoritative teachings and logical analysis.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अनुमानं तद् लिङ्गलिङ्गिनोः सम्बन्धात्",
+      "transliteration": "anumānaṃ tad liṅgaliṅginoḥ sambandhāt",
+      "translation": "Inference arises from the relation between a sign and what it signifies.",
+      "notes": "This sutra (Tattvārthasūtra 1.6–1.7, depending on edition) is one of the earliest systematic Jain definitions of inference. It does not explicitly distinguish inference for oneself versus for others, but later commentators make this distinction."
+    },
+    {
+      "title": "Tattvārthasūtra — Sarvārthasiddhi Commentary",
+      "author": "Ācārya Pūjyapāda",
+      "original_text": "स्वार्थानुमानं तु स्वबुद्ध्युपपन्नम्",
+      "transliteration": "svārthānumānaṃ tu svabuddhy-upapannam",
+      "translation": "Inference for oneself is that which is established within one’s own cognition.",
+      "notes": "Pūjyapāda clarifies the internal nature of svārthānumāna, distinguishing it from the communicative function of parārthānumāna."
+    },
+    {
+      "title": "Nyāyāvatāra",
+      "author": "Ācārya Siddhasena Divākara",
+      "original_text": "लिङ्गाद् धियं स्वार्थे परार्थे चानुमानम्",
+      "transliteration": "liṅgād dhiyaṃ svārthe parārthe cānumānam",
+      "translation": "From a sign arises cognition, which is inference for oneself and for others.",
+      "notes": "This verse identifies the dual function of inference and is frequently cited in Jain logic manuals."
+    },
+    {
+      "title": "Pramāṇamīmāṃsā",
+      "author": "Ācārya Akalaṅka",
+      "original_text": "स्वार्थानुमानं लिङ्गव्याप्तिज्ञानपूर्वकम्",
+      "transliteration": "svārthānumānaṃ liṅga-vyāpti-jñāna-pūrvakam",
+      "translation": "Inference for oneself is preceded by knowledge of the pervasion of the sign.",
+      "notes": "Akalaṅka emphasizes the necessity of recognizing *vyāpti* (invariable concomitance) for valid inference."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Inference for oneself is a lesser or unreliable form of knowledge compared to direct perception.",
+      "reality": "Jain epistemology treats inference as a fully valid pramāṇa. While indirect, it is not inferior; it is essential for understanding many truths that cannot be directly perceived, such as karmic processes or metaphysical realities."
+    },
+    {
+      "myth": "Inference for oneself is purely subjective and varies arbitrarily from person to person.",
+      "reality": "Although internal, svārthānumāna is grounded in objective patterns of concomitance (*vyāpti*) and must meet strict logical criteria. It is not subjective opinion but a disciplined cognitive process."
+    },
+    {
+      "myth": "Inference for oneself and inference for others are entirely separate systems of logic.",
+      "reality": "They share the same logical foundation. The difference lies in communicability: svārthānumāna is internal reasoning, while parārthānumāna is the structured presentation of that reasoning to others."
+    }
+  ]
+}

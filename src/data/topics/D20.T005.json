@@ -1,0 +1,51 @@
+{
+  "overview": "Samādhi-maraṇa (also spelled *samādhi-maraṇ*, *samādhi-maraṇam*, or *samādhi-maraṇa*) is a classical Jain term referring to a spiritually prepared, ethically regulated, and consciously embraced death undertaken with full awareness, equanimity, and non-attachment. It is described in early Jain scriptures as the ideal culmination of a life lived in accordance with ahiṃsā, self-restraint, and right faith. In Jain thought, samādhi-maraṇa is not an act of self-harm, suicide, or impulsive renunciation; rather, it is a state of profound meditative clarity at the moment of natural death, or in rare cases a ritually supervised vow-based death undertaken only under strict conditions and with guidance from qualified human authorities.\n\nThe term encompasses several modes of death described in the canonical and commentarial literature, including *pāṇḍita-maraṇa* (the wise person’s death), *bāla-maraṇa* (the unprepared death), and *samādhi-maraṇa* (the meditative death). Among these, samādhi-maraṇa is considered the highest, because it reflects the soul’s detachment from bodily identity and karmic agitation. The Digambara and Śvetāmbara traditions both preserve detailed discussions of samādhi-maraṇa, though terminology and classifications vary.\n\nIn practice, samādhi-maraṇa is closely associated with the final stages of spiritual development, particularly the higher guṇasthānas, where passions are attenuated and awareness is heightened. It is also linked to the Jain doctrine of karma, which holds that the mental state at the moment of death significantly influences future rebirth. A calm, lucid, and passionless death is therefore considered spiritually beneficial.\n\nModern Jain communities emphasize that samādhi-maraṇa must never be confused with coercive fasting, medical neglect, or any form of self-harm. Contemporary acharyas, scholars, and community educators stress that any vow-based death requires careful evaluation of health, age, responsibilities, and mental state, and must be supervised by qualified human authorities. Laypersons are encouraged to understand samādhi-maraṇa primarily as an ideal of equanimity at life’s natural end rather than a practice to be undertaken without guidance.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "समाहि-णाणं णाण-समाहि",
+      "transliteration": "samāhi‑ṇāṇaṃ ṇāṇa‑samāhi",
+      "translation": "“Meditation is knowledge, and knowledge is meditation.” (A brief excerpt illustrating the linkage between awareness and meditative steadiness at life’s end.)",
+      "notes": "The Ācārāṅga Sūtra (Śvetāmbara canon, Tier A) describes the ideal death of a monk who remains in equanimity, free from attachment and aversion. While the text does not use the term samādhi-maraṇa explicitly, it provides the foundational description of meditative death."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Traditionally attributed to early Jain teachers",
+      "original_text": "णिव्वाणं पवेस्सइ",
+      "transliteration": "nivvāṇaṃ pavesaï",
+      "translation": "“He enters liberation.”",
+      "notes": "Chapter 26 describes the death of Keśī and other monks who pass away in full awareness. Commentaries identify this as a paradigmatic example of samādhi-maraṇa."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "मरणसमये भावः",
+      "transliteration": "maraṇa‑samaye bhāvaḥ",
+      "translation": "“The state of mind at the moment of death [is of great significance].”",
+      "notes": "Tattvārtha Sūtra 9.6 (Tier A) is a key pan-Jain source. Traditional commentaries (Tier B) explain that samādhi-maraṇa is the ideal mental state at death, characterized by passionlessness and clarity."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "समाधिना मरणं",
+      "transliteration": "samādhinā maraṇaṃ",
+      "translation": "“Death through meditation.”",
+      "notes": "The Mūlācāra (Tier A/B) explicitly discusses meditative death for advanced ascetics, outlining conditions such as absence of delusion, supervision by teachers, and natural bodily decline."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Samādhi-maraṇa is a form of suicide or self-harm.",
+      "reality": "Jain texts explicitly distinguish samādhi-maraṇa from suicide. Suicide arises from passion, despair, or aversion, whereas samādhi-maraṇa requires equanimity, non-attachment, and natural bodily decline. Modern Jain authorities require strict supervision and prohibit any form of self-harm."
+    },
+    {
+      "myth": "Samādhi-maraṇa is a practice that laypeople can undertake independently.",
+      "reality": "Primary texts and commentaries restrict vow-based meditative death to advanced ascetics under guidance. Laypersons are encouraged to cultivate equanimity at life’s natural end, not to initiate vow-based death without qualified human oversight."
+    },
+    {
+      "myth": "Samādhi-maraṇa always involves fasting.",
+      "reality": "While some forms of vow-based death may include regulated fasting, samādhi-maraṇa primarily refers to the mental state of equanimity at death. Many scriptural examples describe natural death occurring in meditation without prolonged fasting."
+    }
+  ]
+}

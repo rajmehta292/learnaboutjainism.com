@@ -1,0 +1,27 @@
+{
+  "overview": "A review dashboard is a structured, visual interface designed to consolidate evaluation data, progress indicators, and analytical insights into a single, accessible space. In academic, organizational, and digital contexts, review dashboards serve as central hubs where users can monitor performance, track changes over time, and identify areas requiring attention. They typically integrate multiple data streams—quantitative metrics, qualitative feedback, timelines, and status markers—into a coherent display that supports informed decision‑making.\n\nIn educational and research environments, review dashboards help instructors, students, and administrators observe learning outcomes, assignment completion, and engagement trends. In project management, they provide real‑time visibility into milestones, resource allocation, and risk factors. Digital platforms often use review dashboards to summarize user activity, system health, or content moderation outcomes. Regardless of the domain, the core purpose remains the same: to transform dispersed information into actionable understanding.\n\nA well‑designed review dashboard emphasizes clarity, hierarchy, and interpretability. It avoids overwhelming users with excessive detail and instead highlights the most relevant indicators through charts, tables, color coding, and concise summaries. Modern dashboards may incorporate automation, predictive analytics, and customizable views, allowing users to tailor the interface to their specific goals. Although review dashboards are not inherently tied to Jain studies or religious practice, they can be used in academic Jain research—for example, to track manuscript cataloging, compare textual variants, or organize study progress across different traditions—without implying any ritual or authoritative function.",
+  "primary_sources": [
+    {
+      "title": "No direct Jain primary text on review dashboards",
+      "author": "N/A",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "Review dashboards are modern analytical tools and do not appear in Jain canonical literature. When used in Jain studies, they serve purely as organizational aids for research, manuscript comparison, or curriculum planning, not as religious instruments."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "A review dashboard is only a technical or corporate tool.",
+      "reality": "While common in business analytics, review dashboards are adaptable to academic research, digital humanities, education, and personal study organization."
+    },
+    {
+      "myth": "More data automatically makes a review dashboard better.",
+      "reality": "Effective dashboards prioritize clarity and relevance. Excessive or poorly structured data can reduce usability and obscure important insights."
+    },
+    {
+      "myth": "Dashboards must be complex to be useful.",
+      "reality": "Many of the most effective dashboards are simple, focusing on a few key indicators that directly support decision‑making or learning."
+    }
+  ]
+}

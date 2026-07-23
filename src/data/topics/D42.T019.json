@@ -1,0 +1,51 @@
+{
+  "overview": "Temple diagrams in Jainism—often called *prāsāda-racanā*, *pratimā-sthāpanā-vidhi*, or *caitya-vinyāsa* in Sanskrit and Prakrit—refer to schematic, proportional, and symbolic layouts used to plan, consecrate, and interpret Jain temples. These diagrams are not merely architectural blueprints; they encode cosmological, ritual, and ethical meaning. Across Digambara and Śvetāmbara traditions, temple diagrams help ensure that the spatial arrangement of images, altars, circumambulatory paths, and ritual zones aligns with canonical ideals of non-violence, purity, and meditative orientation.\n\nHistorically, temple diagrams emerge from broader Indian architectural traditions such as *vāstu-vidyā* and *śilpa-śāstra*, but Jain texts adapt these frameworks to emphasize the centrality of the Jina image, the hierarchy of sacred spaces, and the ethical symbolism of symmetry and proportion. Diagrams often include the *garbha-gṛha* (sanctum), *gūḍha-maṇḍapa* (inner hall), *navacaukī* (nine-square grid for ritual), and *pradakṣiṇā-patha* (circumambulatory route). In medieval manuscripts, diagrams appear as geometric grids, mandala-like squares, or annotated floor plans.\n\nIn practice, temple diagrams guide architects, sculptors, and ritual specialists during construction and consecration (*pratiṣṭhā*). They also serve as pedagogical tools for laypeople learning about temple symbolism, cosmology, and ritual movement. While no single diagram is universally authoritative across Jain traditions, shared principles—centrality of the Jina, purity of the sanctum, and ordered spatial progression—remain consistent.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Acaranga Sutra)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "𑀅𑀘𑀸𑀭𑀁𑀕𑀁 𑀲𑀼𑀢𑁆𑀭",
+      "transliteration": "Acārāṅgaṃ sūtra",
+      "translation": "“One should remain in places that are pure, level, and free from harm.”",
+      "notes": "Although the text does not describe temple diagrams, its emphasis on purity of space is foundational for later architectural prescriptions."
+    },
+    {
+      "title": "Vāstuvidyā (Jain adaptations of Vāstu texts)",
+      "author": "Anonymous śilpa-śāstra compilers",
+      "original_text": "प्रासादस्य विन्यासो यथाविधि समन्वितः",
+      "transliteration": "prāsādasya vinyāso yathāvidhi samanvitaḥ",
+      "translation": "“The layout of the temple must be arranged according to proper method.”",
+      "notes": "Jain manuscripts adapt broader Indian architectural rules to emphasize the centrality of the Jina image and ritual purity."
+    },
+    {
+      "title": "Pratiṣṭhā-sāroddhāra (Śvetāmbara ritual manual)",
+      "author": "Attributed to medieval ritual specialists",
+      "original_text": "नवचौकी विन्यासः सर्वकर्मसु मुख्यः",
+      "transliteration": "navacaukī vinyāsaḥ sarvakarmasu mukhyaḥ",
+      "translation": "“The nine-square layout is primary in all consecration rites.”",
+      "notes": "Describes the ritual grid used during image installation; often depicted as a diagram in manuscripts."
+    },
+    {
+      "title": "Śilpa-sāra (Digambara architectural treatise)",
+      "author": "Anonymous",
+      "original_text": "जिनप्रतिमायाः मध्यभागे स्थापने नियतं",
+      "transliteration": "jinapratimāyāḥ madhyabhāge sthāpane niyataṃ",
+      "translation": "“The placement of the Jina image in the central position is prescribed.”",
+      "notes": "Provides proportional rules for sanctum layout and image placement."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Temple diagrams are identical across all Jain traditions.",
+      "reality": "While core principles are shared, Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth traditions differ in architectural emphasis, ritual zones, and the use or avoidance of images."
+    },
+    {
+      "myth": "Temple diagrams are purely technical architectural tools.",
+      "reality": "They encode cosmology, ethics, and ritual symbolism, guiding both physical construction and spiritual orientation."
+    },
+    {
+      "myth": "Every temple must follow a single canonical diagram.",
+      "reality": "Jain texts provide principles and proportional guidelines, but historical temples show regional, sectarian, and artistic variation."
+    }
+  ]
+}

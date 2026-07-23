@@ -1,0 +1,55 @@
+{
+  "overview": "Consulting a human teacher (ācārya, upādhyāya, pravartak, or lay scholar) in Jain traditions is understood as a careful, respectful, and mutually responsible process. Across Digambara and Śvetāmbara lineages, guidance from a qualified human teacher is framed not as blind obedience but as a relationship grounded in humility, inquiry, and discernment. Primary texts emphasize approaching teachers with reverence, asking questions that clarify doctrine, and verifying teachings against canonical sources. A human teacher is valued for lived experience, lineage-based training, and the ability to contextualize scriptural principles for contemporary life.\n\nIn practice, consulting a teacher begins with identifying the appropriate type of guidance: scriptural study, ethical clarification, ritual instruction, or personal spiritual questions. Jain texts repeatedly stress that teachers must be approached with non-harming intentions, without coercion, and with awareness of one’s own responsibilities as a layperson. The student is encouraged to prepare questions, listen attentively, and confirm understanding through dialogue. Teachers are not considered infallible; rather, they are respected interpreters whose insights must be cross-checked with canonical sources.\n\nModern Jain communities also emphasize logistical and ethical considerations: ensuring the teacher is comfortable, respecting their time, and avoiding topics requiring formal authorization (such as vows beyond lay capacity). When questions involve health, mental well‑being, family obligations, or legal matters, Jain ethics require consulting qualified professionals in those domains rather than relying solely on religious teachers. The goal of consulting a human teacher is to cultivate clarity, compassion, and grounded understanding while maintaining personal responsibility and critical reflection.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "श्रुतज्ञानोपदेशः साधुसमागमो धर्ममार्गप्रवेशः",
+      "transliteration": "śrutajñānopadeśaḥ sādhusamāgamo dharmamārgapraveśaḥ",
+      "translation": "Instruction in scriptural knowledge and association with sādhus are entryways into the path of dharma.",
+      "notes": "TS 1.3–1.4 highlights the importance of approaching knowledgeable teachers and monastics for correct understanding. Commentaries note that such association must be grounded in humility and verification against scripture."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "गुरुं पृच्छेच्छुश्रूषेत्",
+      "transliteration": "guruṃ pṛcchecchuśrūṣet",
+      "translation": "One should ask the teacher and listen attentively.",
+      "notes": "Chapter 28 emphasizes respectful questioning, attentive listening, and the student’s responsibility to clarify doubts rather than assume understanding."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "सावज्जं न पृच्छे",
+      "transliteration": "sāvajjaṃ na pṛcche",
+      "translation": "One should not ask harmful or inappropriate questions.",
+      "notes": "This passage underscores ethical boundaries when consulting teachers, including avoiding coercive, harmful, or ill‑intentioned inquiries."
+    },
+    {
+      "title": "Mūlācāra",
+      "author": "Vattakera (Digambara)",
+      "original_text": "गुरुवचनश्रवणं धर्मलाभस्य कारणम्",
+      "transliteration": "guruvacanaśravaṇaṃ dharmalābhasya kāraṇam",
+      "translation": "Listening to the teacher’s words is a cause of gaining dharma.",
+      "notes": "Digambara monastic code emphasizes respectful listening and verification of teachings through disciplined study."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "A human teacher provides absolute, unquestionable answers.",
+      "reality": "Jain texts consistently state that teachings must be examined, compared with scripture, and understood through personal reasoning. Teachers guide; they do not replace individual discernment."
+    },
+    {
+      "myth": "Any respected elder or community figure can serve as a spiritual teacher.",
+      "reality": "Traditional sources specify qualifications such as scriptural training, ethical conduct, and lineage-based learning. Respect alone does not guarantee doctrinal reliability."
+    },
+    {
+      "myth": "Consulting a teacher means surrendering personal responsibility.",
+      "reality": "Jain ethics emphasize that laypeople retain responsibility for decisions, especially in health, family, legal, or financial matters. Teachers provide spiritual context, not authoritative directives in non-religious domains."
+    },
+    {
+      "myth": "Teachers must be consulted for every spiritual or ethical question.",
+      "reality": "Primary texts encourage self-study, reflection, and verification. Teachers are one resource among many, not the sole avenue for understanding."
+    }
+  ]
+}

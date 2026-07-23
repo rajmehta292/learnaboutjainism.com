@@ -1,0 +1,63 @@
+{
+  "overview": "The **twelve anuprekṣās** (also called *dvādaśa‑anuprekṣā*, *bhāvanā*, or contemplative reflections) are a foundational Jain meditative framework used across Śvetāmbara and Digambara traditions. They are not ritual acts but disciplined contemplations meant to cultivate detachment (*vairāgya*), ethical clarity, and right worldview (*samyag‑darśana*). The term *anuprekṣā* derives from Sanskrit/Prakrit roots meaning “to reflect repeatedly,” emphasizing sustained, analytical contemplation rather than passive remembrance.\n\nIn classical sources, the twelve anuprekṣās appear as part of the layperson’s daily reflections, the mendicant’s meditative curriculum, and the broader doctrinal system of cultivating right faith. They are closely tied to the doctrines of impermanence, karma, bondage, and liberation. While the exact ordering varies slightly across sectarian manuals, the core twelve are stable: (1) impermanence, (2) helplessness, (3) the cycle of rebirth, (4) loneliness of the soul, (5) separateness of the soul from the body, (6) impurity of the body, (7) influx of karma, (8) stoppage of karma, (9) shedding of karma, (10) the universe, (11) rarity of right faith, and (12) difficulty of liberation.\n\nTradition emphasizes that these contemplations must be grounded in scriptural study and guided by qualified teachers. They are not meant to induce despair or withdrawal from life but to orient the practitioner toward ethical restraint, compassion, and clarity about the nature of reality. Each reflection is tied to specific doctrinal nodes in Jain ontology—such as *dravya*, *guṇa*, *paryāya*, *āsrava*, *saṃvara*, and *nirjarā*—and thus serve as bridges between philosophical theory and lived practice.\n\nBecause the anuprekṣās appear in multiple canonical and post‑canonical sources, their interpretation varies. Digambara manuals often emphasize their role in ascetic progress, while Śvetāmbara Mūrti‑pūjaka and Sthānakavāsī traditions integrate them into daily *sāmāyika*. Modern Jain teachers present them as tools for ethical mindfulness, ecological awareness, and nonviolent living. Despite these differences, all traditions agree that the twelve anuprekṣās are central contemplative pillars for cultivating right orientation toward liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अशुभानुप्रेक्षा च",
+      "transliteration": "aśubhānuprekṣā ca",
+      "translation": "There should also be contemplation on what is unpleasant (or impure).",
+      "notes": "TS 9.7 is one of the earliest aphoristic references to anuprekṣā‑type contemplations. While it does not list all twelve, later commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) expand this into a structured set of reflections."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text (author not individually named)",
+      "original_text": "णिच्चं दुक्खं संसारो",
+      "transliteration": "niccaṃ dukkhaṃ saṃsāro",
+      "translation": "Saṃsāra is forever full of suffering.",
+      "notes": "Used in Śvetāmbara tradition to support the anuprekṣā on the nature of saṃsāra. The text provides thematic material for several contemplations, including impermanence and the cycle of rebirth."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जोगं जोगं विणिच्छइ",
+      "transliteration": "jogaṃ jogaṃ viṇicchai",
+      "translation": "The wise person examines (reflects upon) conduct again and again.",
+      "notes": "UAS 28 and 29 contain passages used in traditional curricula for the contemplations on karma influx, stoppage, and shedding."
+    },
+    {
+      "title": "Samāyika‑pāṭha (various sectarian recensions)",
+      "author": "Later liturgical compilers",
+      "original_text": "अनिच्चा भावा",
+      "transliteration": "aniccā bhāvā",
+      "translation": "All states are impermanent.",
+      "notes": "Commonly recited in Śvetāmbara Mūrti‑pūjaka and Sthānakavāsī practice. This supports the first anuprekṣā on impermanence."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "एगं एगेणं",
+      "transliteration": "egaṃ egeṇaṃ",
+      "translation": "Alone one is born; alone one dies.",
+      "notes": "A foundational source for the anuprekṣā on the soul’s loneliness and separateness from the body."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The twelve anuprekṣās are a monastic-only practice.",
+      "reality": "Primary sources and traditional manuals explicitly include them in lay *sāmāyika*, daily reflections, and ethical cultivation. They are universal contemplations, not restricted to monks or nuns."
+    },
+    {
+      "myth": "The anuprekṣās promote pessimism or withdrawal from life.",
+      "reality": "Their purpose is clarity, ethical restraint, and nonviolent living. They highlight impermanence and karmic processes to encourage mindful action, compassion, and responsibility—not despair."
+    },
+    {
+      "myth": "All Jain traditions list the twelve anuprekṣās in exactly the same order and wording.",
+      "reality": "While the core twelve are stable, Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth traditions differ slightly in phrasing, ordering, and pedagogical emphasis."
+    },
+    {
+      "myth": "The anuprekṣās are meant to be recited mechanically.",
+      "reality": "Classical texts emphasize analytical reflection (*bhāvanā*)—a deliberate, reasoned contemplation. Mechanical recitation without understanding is considered insufficient."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Satya, commonly translated as “truthfulness,” is one of the five fundamental vows (pañca‑vrata) in Jain ethics and a core virtue shaping both monastic and lay conduct. In Jain thought, satya is not merely factual accuracy; it is a disciplined commitment to speech that does not harm living beings (jīva-himsā). Because Jainism defines moral action primarily through the principle of nonviolence (ahiṃsā), satya is always interpreted within that larger ethical frame. A statement may be factually correct yet still violate satya if it causes unnecessary fear, injury, conflict, or spiritual harm.\n\nJain philosophers across traditions—Śvetāmbara, Digambara, and Sthānakavāsī—emphasize that satya requires restraint, intention, and awareness of consequences. Truth must be spoken only when it is beneficial, non-hurtful, and timely. Silence is preferred when truth would cause harm. This makes satya a relational virtue: it governs how one communicates, how one listens, and how one evaluates the karmic implications of speech.\n\nIn classical Jain karma theory, harmful speech binds paṅca‑anubhāga karma (karmas determining suffering and experience) and obstructs progress through the guṇasthānas (stages of spiritual development). Conversely, truthful and non-harmful speech supports the cultivation of samyaktva (right faith) and the gradual refinement of conduct. Laypeople observe satya as one of the aṇu‑vratas (small vows), while monastics observe it as a mahā‑vrata (great vow), requiring absolute adherence.\n\nSatya also appears in narrative literature—such as the Uttarādhyayana-sūtra and various commentarial stories—where truthful speech is portrayed as a marker of moral clarity and spiritual maturity. Modern Jain teachers often extend satya to digital communication, emphasizing responsible sharing, avoidance of misinformation, and mindful speech in online spaces.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "सत्यं हितमितं च यथार्थवचनम्",
+      "transliteration": "satyaṃ hitamitaṃ ca yathārthavacanam",
+      "translation": "Truth is speech that is beneficial, measured, and corresponds to reality.",
+      "notes": "This definition (TS 7.13 in many editions) is foundational. Commentaries across traditions stress that ‘beneficial’ (hita) and ‘measured’ (mita) prevent truth from becoming harmful."
+    },
+    {
+      "title": "Ācārāṅga-sūtra (Śvetāmbara)",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "सच्चं भासे, नो असच्चं भासे",
+      "transliteration": "saccaṃ bhāse, no asaccaṃ bhāse",
+      "translation": "Speak what is true, do not speak what is untrue.",
+      "notes": "Appears in early disciplinary sections. The surrounding passages emphasize that speech must avoid harm and agitation."
+    },
+    {
+      "title": "Sarvārthasiddhi (Digambara commentary on Tattvārtha-sūtra)",
+      "author": "Pūjyapāda",
+      "original_text": "हितं वचनं सत्यं, अहितं तु न सत्यं",
+      "transliteration": "hitaṃ vacanaṃ satyaṃ, ahitaṃ tu na satyaṃ",
+      "translation": "Speech that is beneficial is truth; speech that is harmful is not truth.",
+      "notes": "Pūjyapāda clarifies that factual accuracy alone does not qualify as satya if the speech causes harm."
+    },
+    {
+      "title": "Uttarādhyayana-sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "सच्चं न भासे जावं भासे अहिंसाए",
+      "transliteration": "saccaṃ na bhāse jāvaṃ bhāse ahiṃsāe",
+      "translation": "One should not speak truth if it leads to violence; one should speak only in a way that accords with nonviolence.",
+      "notes": "This passage is frequently cited to show the primacy of ahiṃsā over satya."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Satya means telling the truth at all costs.",
+      "reality": "Jain texts consistently state that truth must never cause harm. If truthful speech leads to violence, fear, or conflict, silence is required."
+    },
+    {
+      "myth": "Satya is only about avoiding lies.",
+      "reality": "Satya also prohibits gossip, harsh speech, exaggeration, disclosure of harmful information, and speech that disturbs others’ spiritual progress."
+    },
+    {
+      "myth": "Satya is identical across all Indian traditions.",
+      "reality": "While other traditions value truth, Jainism uniquely subordinates satya to ahiṃsā, making non-harm the decisive criterion for truthful speech."
+    }
+  ]
+}

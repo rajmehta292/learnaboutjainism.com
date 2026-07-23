@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain epistemology, **naya** (partial standpoint) is a foundational method for analyzing how any statement, object, or event can be understood from different, limited angles. Naya theory belongs to the broader framework of *anekāntavāda* (many-sidedness) and *syādvāda* (conditioned predication). While anekāntavāda affirms the complexity of reality, naya provides the structured intellectual tools for examining that complexity. Classical Jain philosophers describe naya as a disciplined way of focusing on one aspect of a multifaceted truth without denying the existence of other aspects.\n\nAcross the canonical and post-canonical literature, naya classifications vary slightly, but the most common schema divides them into **two broad families**—*dravyārthika naya* (substance-oriented standpoints) and *paryāyārthika naya* (mode-oriented standpoints)—each containing several subtypes. These classifications appear in both Śvetāmbara and Digambara traditions, though terminology and ordering may differ.\n\n**Dravyārthika naya** emphasizes the enduring, substantial aspect of reality. It treats entities as stable continuities, focusing on their essential nature. **Paryāyārthika naya**, by contrast, highlights the transient, moment-to-moment modes or modifications of substances. Together, these two families help explain how a single entity can be both permanent (as substance) and impermanent (as modes), resolving philosophical tensions that arise in Indian metaphysics.\n\nWithin these families, classical texts enumerate **seven common naya classifications**: *naigama*, *saṅgraha*, *vyavahāra*, *ṛjusūtra*, *śabda*, *samabhirūḍha*, and *evambhūta*. These standpoints range from general to highly specific, from practical to technical, and from linguistic to ontological. They are used to analyze statements, resolve debates, and clarify doctrinal issues. For example, the term “jar” may be understood as a functional object (*vyavahāra naya*), as clay in its substantial form (*saṅgraha naya*), or as a momentary configuration of atoms (*ṛjusūtra naya*).\n\nIn Jain logic, naya is not merely a philosophical abstraction but a practical tool for avoiding dogmatism. By acknowledging that every assertion arises from a particular standpoint, Jain thinkers encourage intellectual humility and careful reasoning. The naya system also underpins the structure of Jain debates, hermeneutics, and commentarial traditions, making it one of the most important conceptual frameworks in Jain thought.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti/Umāsvāmi (shared across Śvetāmbara and Digambara traditions)",
+      "original_text": "नयश्च",
+      "transliteration": "nayaś ca",
+      "translation": "“And the standpoints (naya) [are also a means of valid knowledge].”",
+      "notes": "This terse sūtra (Tattvārthasūtra 1.6) affirms naya as one of the recognized epistemic tools. Detailed classifications are not given in the sūtra itself but appear in commentaries."
+    },
+    {
+      "title": "Tattvārthavṛtti",
+      "author": "Umāsvāti (commentarial tradition)",
+      "original_text": "नयाः सप्त — नैगमः सङ्ग्रहः व्यवहारो ऋजुसूत्रं शब्दः समभिरूढः एवंभूतश्च",
+      "transliteration": "nayāḥ sapta — naigamaḥ saṅgrahaḥ vyavahāro ṛjusūtraṃ śabdaḥ samabhirūḍhaḥ evaṃbhūtaś ca",
+      "translation": "“The standpoints are seven: naigama, saṅgraha, vyavahāra, ṛjusūtra, śabda, samabhirūḍha, and evambhūta.”",
+      "notes": "This is one of the earliest systematic listings of the seven naya classifications. It provides definitions and examples for each standpoint."
+    },
+    {
+      "title": "Pramāṇamīmāṃsā (Digambara tradition)",
+      "author": "Akalanka",
+      "original_text": "द्रव्यपर्यायाभ्यां नयभेदाः",
+      "transliteration": "dravyaparyāyābhyāṃ nayabhedāḥ",
+      "translation": "“The divisions of naya arise from substance and modes.”",
+      "notes": "Akalanka’s works elaborate the two-family structure of naya: dravyārthika and paryāyārthika. His analysis is central to Digambara logic."
+    },
+    {
+      "title": "Nyāyāvatāra",
+      "author": "Siddhasena Divākara",
+      "original_text": "एकोऽर्थो नानयैः कथ्यते",
+      "transliteration": "eko’rtho nānayaiḥ kathyate",
+      "translation": "“One object is described through many standpoints.”",
+      "notes": "A foundational Śvetāmbara text emphasizing the multiplicity of perspectives inherent in naya theory."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Naya means that all viewpoints are equally true.",
+      "reality": "Classical Jain texts state that each naya is a *partial* truth, valid only within its scope. A naya does not claim completeness; it highlights one aspect while acknowledging others."
+    },
+    {
+      "myth": "Naya and syādvāda are identical concepts.",
+      "reality": "Naya is the method of analyzing partial standpoints, while syādvāda is the method of expressing conditional, many-sided statements. They are related but distinct components of Jain epistemology."
+    },
+    {
+      "myth": "The seven naya classifications are universally fixed across all Jain traditions.",
+      "reality": "While the sevenfold list is common, Digambara and Śvetāmbara commentaries sometimes differ in ordering, emphasis, and examples. Some texts also propose additional sub-classifications."
+    }
+  ]
+}

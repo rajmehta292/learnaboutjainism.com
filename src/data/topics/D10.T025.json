@@ -1,0 +1,63 @@
+{
+  "overview": "Prabhācandra (often anglicized as Prabhachandra) was an influential Jain ācārya of roughly the 11th century CE, best known as a philosopher, logician, and commentator within the Digambara tradition, though some modern catalogues and encyclopedic entries describe him as Śvetāmbara, reflecting ongoing scholarly debate about sectarian attribution. He stands at a crucial point in the history of Jain philosophy, when earlier foundational works on logic and epistemology by figures such as Akalaṅka, Māṇikyanandi, and Pūjyapāda were being systematized, clarified, and transmitted to later generations.\n\nHis major contributions lie in the fields of Jain logic (nyāya), epistemology (pramāṇa), and doctrinal exegesis. Through extensive commentaries on key texts—such as Akalaṅka’s *Laghīyastraya*, Māṇikyanandi’s *Parīkṣāmukha*, Pūjyapāda’s *Sarvārthasiddhi* and *Jainendra-vyākaraṇa*, and Kundakunda’s *Pravacanasāra*—Prabhācandra helped stabilize technical terminology, refine arguments, and integrate doctrinal positions into a coherent scholastic framework. His works are frequently cited in later Digambara philosophical literature as authoritative expositions of Jain views on perception, inference, omniscience, bondage and liberation, and the structure of reality.\n\nBeyond strictly philosophical writing, Prabhācandra is also associated with the historical-biographical text *Prabhāvakacarita* (“Life of the Prominent”), a Sanskrit work that narrates the lives of important Jain ācāryas and associated rulers from roughly the first century of the Vikrama era up to the time of Hemacandra. This text, preserved and edited in modern critical editions, has become a major source for reconstructing the social, religious, and intellectual history of medieval Jain communities. It includes accounts of figures such as Vajrasvāmin, Kālaka, Haribhadra, Bappabhaṭṭi, Mānatuṅga, Mahendrasūri, and Hemacandra, and it concludes with a praśasti (eulogy) of the author himself.\n\nIn the realm of ethics and gender, Prabhācandra is noted—often critically in modern scholarship—for his view that women cannot attain the same intensity of karmic action (whether auspicious or inauspicious) as men. This position, grounded in his reading of Jain karma theory and the hierarchy of bodies and capacities, has been discussed as an example of how medieval Jain scholasticism negotiated doctrinal universality with social and gendered assumptions of its time. Contemporary Jain thinkers and scholars frequently contextualize or challenge this view, emphasizing broader scriptural affirmations of the spiritual potential of all living beings.\n\nTaken together, Prabhācandra’s corpus illustrates the mature phase of classical Jain scholasticism: meticulous commentary, careful engagement with rival schools of Indian philosophy, and an effort to preserve historical memory of Jain teachers and patrons. His works remain important for specialists studying Jain logic, epistemology, grammar, and intellectual history, and they continue to be consulted in both traditional monastic curricula and modern academic research.",
+  "primary_sources": [
+    {
+      "title": "Nyāyakumudacandra",
+      "author": "Prabhācandra",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Nyāyakumudacandra is Prabhācandra’s detailed commentary on Akalaṅka’s Laghīyastraya, a foundational Digambara treatise on Jain logic and epistemology. In this work, Prabhācandra explicates the structure of valid cognition (pramāṇa), the nature of perception and inference, and the Jain critique of rival schools such as Nyāya and Buddhist logic. His commentary clarifies technical terms, offers examples, and systematizes Akalaṅka’s often dense arguments, making the text a central resource for later Jain logicians.",
+      "notes": "Corpus tier A/B. Primary base text: Akalaṅka’s Laghīyastraya (A). Prabhācandra’s Nyāyakumudacandra is a traditional commentary (B) widely cited in modern scholarship on Jain logic. Sectarian attribution as Digambara is supported by Bharatpedia and Wikiwand entries, and by Jayandra Soni’s study of Prabhācandra’s place in Jain philosophical history.\nSources: Bharatpedia entry on Prabhācandra; Wikiwand summary; Jayandra Soni, “Prabhācandra’s Status in the History of Jaina Philosophy,” International Journal of Jaina Studies."
+    },
+    {
+      "title": "Prameyakamalamārtaṇḍa",
+      "author": "Prabhācandra",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Prameyakamalamārtaṇḍa is Prabhācandra’s commentary on Māṇikyanandi’s Parīkṣāmukha, another key Digambara text on epistemology and the classification of knowable objects (prameya). The commentary elaborates the categories of substances, qualities, modes, and the various standpoints (naya) from which reality can be described. Prabhācandra’s treatment of pramāṇa and prameya here complements his work in Nyāyakumudacandra, providing a more systematic doctrinal map of Jain ontology and epistemology.",
+      "notes": "Corpus tier A/B. Base text: Māṇikyanandi’s Parīkṣāmukha (A). Prabhācandra’s Prameyakamalamārtaṇḍa (B) is recognized in Digambara scholastic tradition as a major commentary. Modern references list it among his principal works on Jain philosophy.\nSources: Bharatpedia and Wikiwand entries on Prabhācandra; Soni, “Prabhācandra’s Status in the History of Jaina Philosophy.”"
+    },
+    {
+      "title": "Tattvārtha-vṛtti-pada-vivaraṇa",
+      "author": "Prabhācandra",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This work is Prabhācandra’s commentary on Pūjyapāda’s Sarvārthasiddhi, itself a seminal Digambara commentary on Umāsvāti/Umāsvāmi’s Tattvārthasūtra. In Tattvārtha-vṛtti-pada-vivaraṇa, Prabhācandra offers word-by-word explanations and doctrinal clarifications of key passages dealing with the seven or nine tattvas (fundamental realities), bondage and liberation, right faith, right knowledge, and right conduct. His exegesis helps bridge the gap between terse sūtra-style formulations and the lived doctrinal understanding of monastic and lay communities.",
+      "notes": "Corpus tier A/B. Base text: Pūjyapāda’s Sarvārthasiddhi (A/B), a classical Digambara commentary on Tattvārthasūtra. Prabhācandra’s Tattvārtha-vṛtti-pada-vivaraṇa (B) is cited in lists of his works as a significant doctrinal commentary.\nSources: Bharatpedia and Wikiwand entries on Prabhācandra; general scholarly consensus on the centrality of Sarvārthasiddhi in Digambara exegesis."
+    },
+    {
+      "title": "Pravacanasāra-saroja-bhāskara",
+      "author": "Prabhācandra",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Pravacanasāra-saroja-bhāskara is Prabhācandra’s commentary on Ācārya Kundakunda’s Pravacanasāra, a foundational Digambara text on the nature of the self, right faith, and the path to liberation. In this commentary, Prabhācandra interprets Kundakunda’s often cryptic verses, explaining the distinction between the pure soul and its empirical states, and clarifying the role of right insight in transcending karmic bondage. The work has been translated into modern Indian languages, including a Hindi translation by Muni Pranamyasagar, and remains important in contemporary Digambara study.",
+      "notes": "Corpus tier A/B/D. Base text: Kundakunda’s Pravacanasāra (A). Prabhācandra’s commentary (B) is a traditional scholastic work. Modern Hindi translation by Muni Pranamyasagar (D) facilitates lay and monastic study today.\nSources: Bharatpedia and Wikiwand entries on Prabhācandra; references to the Hindi translation in Jain community literature."
+    },
+    {
+      "title": "Prabhāvakacarita (Prabhavaka Charita)",
+      "author": "Prabhācandra",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Prabhāvakacarita, often translated as “Life of the Prominent,” is a Sanskrit historical-biographical text attributed to Prabhācandra. It narrates the lives of twenty-two prominent Jain ācāryas and associated rulers and poets, from the early centuries of the Vikrama era up to Hemacandra’s time. The work provides valuable information on monastic lineages, royal patronage, intellectual networks, and social conditions. Modern editions and studies highlight its importance for reconstructing medieval Jain history and its interweaving of religious biography with broader political and cultural narratives.",
+      "notes": "Corpus tier A/B/C. The text itself (A/B) is a primary historical source within the Jain tradition. Modern critical editions (e.g., Singhi Jaina Series) and scholarly analyses (C) treat it as a key source for medieval Jain and regional history. There is some sectarian ambiguity: certain sources describe Prabhācandra here as a Śvetāmbara ācārya, while others maintain Digambara affiliation. This disagreement is noted in contemporary scholarship and reflects complexities of historical transmission.\nSources: Wikipedia entry on Prabhāvakacarita; Bharatpedia and Wikiwand entries on Prabhācandra; editorial notes in Singhi Jaina Series editions; discussions in John E. Cort, Open Boundaries: Jain Communities and Cultures in Indian History."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Prabhācandra is uniformly and uncontestedly identified as either a Digambara or a Śvetāmbara monk, with no disagreement.",
+      "reality": "Modern reference works and online encyclopedias differ in their sectarian attribution of Prabhācandra. Some describe him as a Digambara ācārya, especially in connection with his commentaries on Digambara texts, while others present him as a Śvetāmbara monk, particularly in relation to Prabhāvakacarita. Scholars note this ambiguity and treat sectarian identification as a matter requiring careful textual and historical analysis rather than a settled fact."
+    },
+    {
+      "myth": "Prabhācandra was primarily an original author of new doctrinal treatises, independent of earlier Jain philosophical tradition.",
+      "reality": "Prabhācandra’s major contributions are predominantly in the form of commentaries on earlier foundational works—Akalanka’s Laghīyastraya, Māṇikyanandi’s Parīkṣāmukha, Pūjyapāda’s Sarvārthasiddhi and Jainendra-vyākaraṇa, and Kundakunda’s Pravacanasāra. His originality lies in interpretation, systematization, and clarification, not in replacing or discarding the earlier tradition. He is best understood as a key transmitter and elaborator of classical Jain philosophy rather than as a solitary innovator detached from his predecessors."
+    },
+    {
+      "myth": "Prabhācandra’s statement about women’s limited karmic intensity represents the universal and timeless Jain position on gender.",
+      "reality": "Prabhācandra’s view that women cannot attain the same intensity of karmic action as men reflects a particular medieval scholastic interpretation shaped by its social context. Jain canonical and post-canonical literature also contains affirmations of the spiritual potential of all beings, including women, and later Jain thinkers have reinterpreted or challenged gender-restrictive readings. Contemporary Jain communities and scholars generally do not treat Prabhācandra’s position as a binding or exhaustive statement of Jain doctrine on gender."
+    },
+    {
+      "myth": "The mention of a parachute-like device in Prabhāvakacarita proves that ancient Jain monks possessed advanced modern aeronautical technology.",
+      "reality": "The reference to a parachute-like device in Prabhāvakacarita is a literary and historical anecdote that suggests knowledge of controlled descent or imaginative devices, but it does not constitute evidence of fully developed modern aeronautical engineering. Scholars treat such passages cautiously, as part of a broader narrative context, and avoid overstating their technological implications beyond what the text reasonably supports."
+    }
+  ]
+}

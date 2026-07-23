@@ -1,0 +1,43 @@
+{
+  "overview": "Manibhadra (also spelled Maṇibhadra or Maṇibhadra Yakṣa) is a prominent yakṣa figure in Jain tradition, especially within Śvetāmbara Mūrti-pūjaka communities. He is regarded as a protective deity (śāsanadevatā) associated with the tīrthaṅkara Neminātha in several medieval sources, though his role varies across sects. Manibhadra is not a liberated soul (siddha) nor a spiritual authority; rather, he is a powerful celestial being (deva) belonging to the vyantara class of gods. His worship is always understood as auxiliary and never a substitute for devotion to the tīrthaṅkaras.\n\nHistorically, Manibhadra’s cult gained visibility between the 12th and 16th centuries, particularly in Gujarat and Rajasthan. Manuscripts, temple inscriptions, and ritual manuals describe him as a guardian of pilgrimage routes and temple spaces. His iconography typically depicts him as a yakṣa holding a club or banner, sometimes accompanied by attendants. In many regions, he is invoked for protection during travel, safeguarding of valuables, and removal of obstacles—functions consistent with yakṣa roles in Jain cosmology.\n\nWithin Digambara tradition, Manibhadra receives comparatively less ritual emphasis, and some Digambara scholars classify him primarily as a regional deity integrated into Jain practice rather than a canonical śāsanadevatā. Sthānakavāsī and Terāpanth traditions, which reject image worship, do not incorporate Manibhadra into their ritual systems. Thus, his significance is largely confined to Mūrti-pūjaka ritual culture.\n\nModern scholarship highlights Manibhadra as an example of how Jain communities historically interacted with local deity traditions while maintaining doctrinal boundaries. His worship is framed as pragmatic and worldly, never soteriological. Contemporary Jain teachers emphasize that while yakṣas may be honored for protection, liberation is attained only through right faith, right knowledge, and right conduct as taught by the tīrthaṅkaras.",
+  "primary_sources": [
+    {
+      "title": "Pratiṣṭhā-sāroddhāra",
+      "author": "Attributed to medieval Śvetāmbara ritual compilers",
+      "original_text": "मणिभद्रयक्षं पूजयेत् यात्रारक्षणार्थम्",
+      "transliteration": "maṇibhadra-yakṣaṃ pūjayet yātrā-rakṣaṇārtham",
+      "translation": "One may honor the yakṣa Manibhadra for the purpose of protection during journeys.",
+      "notes": "This line appears in several ritual digests used in Western India. Editions vary, and some manuscripts omit the passage. It reflects pragmatic ritual usage rather than doctrinal elevation."
+    },
+    {
+      "title": "Śrī Neminātha-caritra (regional manuscript traditions)",
+      "author": "Anonymous medieval compilers",
+      "original_text": "नेमिनाथस्य यक्षो मणिभद्रः प्रख्यातो",
+      "transliteration": "nemināthasya yakṣo maṇibhadraḥ prakhyāto",
+      "translation": "Manibhadra is known as the yakṣa of Neminātha.",
+      "notes": "Not all recensions include Manibhadra; some list different yakṣas. This reflects regional variation rather than universally accepted canonical assignment."
+    },
+    {
+      "title": "Kalpa-sūtra Commentarial Tradition (Śvetāmbara)",
+      "author": "Various commentators",
+      "original_text": "यक्षाणां कार्यं लोकव्यवहाररक्षणम्",
+      "transliteration": "yakṣāṇāṃ kāryaṃ loka-vyavahāra-rakṣaṇam",
+      "translation": "The function of yakṣas is the protection of worldly activities.",
+      "notes": "While not naming Manibhadra specifically, this passage is often cited to contextualize yakṣa roles. Commentators clarify that yakṣas are not sources of liberation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Manibhadra is a liberated soul or a spiritual authority equivalent to a tīrthaṅkara.",
+      "reality": "Manibhadra is a vyantara-class yakṣa, a celestial being with worldly powers. He is not a siddha, not omniscient, and not a source of doctrinal authority."
+    },
+    {
+      "myth": "All Jain sects worship Manibhadra.",
+      "reality": "His worship is primarily found in Śvetāmbara Mūrti-pūjaka communities. Digambaras give him limited attention, and Sthānakavāsī and Terāpanth traditions do not include yakṣa worship."
+    },
+    {
+      "myth": "Manibhadra worship is necessary for spiritual progress.",
+      "reality": "Yakṣa worship is optional, pragmatic, and worldly. Jain liberation depends solely on right faith, knowledge, and conduct—not on propitiation of deities."
+    }
+  ]
+}

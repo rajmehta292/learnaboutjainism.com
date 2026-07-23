@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, **vinaya** refers to the disciplined reverence, humility, and respectful conduct expected toward teachers, scriptures, elders, and the path of liberation. Although the term appears across Indic traditions, in Jainism it has a distinct ethical and soteriological meaning: vinaya is both a virtue cultivated by aspirants and a structural principle governing proper relationships within the fourfold community (monks, nuns, laymen, laywomen). It is not merely etiquette; it is a foundational disposition that supports right faith (*samyak-darśana*) and reduces passions (*kaṣāyas*) such as pride and anger.\n\nClassical Jain texts describe vinaya as essential for learning, for receiving instruction, and for maintaining harmony within the sangha. It includes respectful speech, non-intrusive behavior, careful listening, and acknowledgment of one’s own limitations. Vinaya also encompasses reverence toward the *pañca-parameṣṭhī* (Arihant, Siddha, Ācārya, Upādhyāya, Sādhu), toward canonical scriptures, and toward the discipline of nonviolence. In Digambara and Śvetāmbara traditions, vinaya is treated as a prerequisite for advanced study and meditation, because humility is considered necessary for dissolving karmic obstructions.\n\nIn ethical practice, vinaya is expressed through gestures such as salutation (*vandana*), careful observance of monastic hierarchy, and avoidance of arrogance. Laypeople cultivate vinaya through respectful engagement with teachers, proper conduct during rituals, and adherence to guidance without coercion or blind submission. Modern Jain education emphasizes vinaya as a universal virtue applicable in family life, professional settings, and interreligious dialogue, highlighting its role in reducing ego-driven conflict and fostering compassion.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "विनयो ज्ञानमार्गः",
+      "transliteration": "vinayo jñānamārgaḥ",
+      "translation": "Humility is a path to knowledge.",
+      "notes": "This brief aphorism (Tattvārtha Sūtra 9.6 in some editions) is frequently cited in both Digambara and Śvetāmbara commentarial traditions. It frames vinaya as an epistemic virtue: without humility, one cannot properly receive instruction or overcome delusion. Commentators such as Pūjyapāda (Digambara) and Siddhasena Gaṇi (Śvetāmbara) elaborate that vinaya reduces pride, enabling clearer perception."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "णमो अरिहंताणं, णमो सिद्धाणं, णमो आयरियाणं...",
+      "transliteration": "ṇamo arihaṃtāṇaṃ, ṇamo siddhāṇaṃ, ṇamo āyariyāṇaṃ...",
+      "translation": "Homage to the Arihants, homage to the Siddhas, homage to the Ācāryas...",
+      "notes": "The opening verses of the *Namaskāra* formula exemplify vinaya through reverential salutation. While not defining vinaya explicitly, the text models the attitude of humility and respect foundational to Jain practice. The Ācārāṅga also describes the respectful conduct expected of monks toward teachers and fellow ascetics."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "विणएणं सव्वं जिणसासणं ठिरं होइ",
+      "transliteration": "viṇaenaṃ savvaṃ jiṇasāsaṇaṃ ṭhiraṃ hoi",
+      "translation": "Through vinaya, the entire teaching of the Jina becomes stable.",
+      "notes": "This passage emphasizes that humility and respectful conduct preserve the integrity of the Jain community and its teachings. Commentaries highlight vinaya as a stabilizing force preventing disputes and ego-driven fragmentation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Vinaya is only about showing obedience to religious authorities.",
+      "reality": "Jain vinaya is not blind obedience; it is a cultivated inner virtue of humility that supports learning, reduces ego, and fosters nonviolence. It applies to relationships with teachers, peers, scriptures, and the ethical path itself."
+    },
+    {
+      "myth": "Vinaya is relevant only for monks and nuns.",
+      "reality": "While monastic texts emphasize vinaya strongly, laypeople are also expected to cultivate respectful conduct, humility, and reverence. Jain ethics treat vinaya as a universal virtue necessary for spiritual progress."
+    },
+    {
+      "myth": "Vinaya means suppressing one’s individuality or critical thinking.",
+      "reality": "Classical Jain sources encourage inquiry and reasoned understanding. Vinaya tempers pride and aggression, enabling constructive dialogue and deeper comprehension, not suppression of thought."
+    }
+  ]
+}

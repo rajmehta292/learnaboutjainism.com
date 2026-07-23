@@ -1,0 +1,67 @@
+{
+  "overview": "In Jain philosophy, \"dravyas\" are the fundamental substances that constitute reality. The doctrine of six dravyas is central to Jain metaphysics and appears across both Digambara and Śvetāmbara traditions, with minor differences in terminology but broad agreement on the core structure. A dravya is defined as that which possesses attributes (guṇa) and undergoes modes (paryāya), yet retains a persistent identity. The six dravyas together form a comprehensive ontology that explains the existence of souls, matter, space, time, and the conditions that allow motion and rest.\n\nThe six dravyas are: jīva (sentient soul), pudgala (matter), dharma (principle of motion), adharma (principle of rest), ākāśa (space), and kāla (time). Among these, jīva is the only conscious substance, characterized by knowledge, perception, bliss, and energy. All living beings—from one-sensed organisms to highly developed humans and celestial beings—are manifestations of jīva bound by karmic matter. Pudgala, by contrast, is non-sentient and includes all forms of physical existence, from gross bodies and objects to subtle karmic particles. It is characterized by qualities such as touch, taste, smell, and color, and is infinitely divisible.\n\nDharma and adharma, in the Jain sense, are not moral categories but cosmological principles. Dharma-dravya is the condition that enables motion, while adharma-dravya is the condition that enables rest. They do not cause movement or stillness by themselves but function as necessary environmental factors, analogous to how water allows fish to swim or land allows beings to stand. These two dravyas pervade the entire loka (the inhabited universe) but do not extend beyond it.\n\nĀkāśa, or space, is the substance that accommodates all other dravyas. Jain texts distinguish between lokākāśa (space within the universe where other dravyas exist) and alokākāśa (empty space beyond the universe where only space itself is present). Space is infinite, but the universe—where souls, matter, dharma, adharma, and time operate—is finite and structured. Kāla, time, is the dravya that allows change and succession of modes. Classical Jain works often describe time in two ways: as real time (dravya-kāla), which is continuous and infinite, and as conventional time (vyavahāra-kāla), measured in units like moments, hours, and years.\n\nThe six dravyas are often grouped into sentient (jīva) and non-sentient (ajīva). Ajīva comprises pudgala, dharma, adharma, ākāśa, and kāla. This distinction underlies Jain ethics and soteriology: liberation (mokṣa) is the state in which jīva is completely free from the influence and bondage of pudgala (karmic matter), yet still coexists with the other non-sentient dravyas in the highest regions of the universe. The interplay of dravyas, their attributes, and modes provides the framework for understanding bondage, transmigration, and liberation.\n\nFrom a doctrinal perspective, the six-dravya schema is closely linked to other core Jain categories such as tattvas (fundamental realities) and guṇasthānas (stages of spiritual development). While tattvas focus on the dynamics of bondage and liberation (e.g., karma, influx, stoppage, annihilation), dravyas focus on the ontological building blocks of existence. Together, they form a coherent system: jīva and pudgala interact within ākāśa, under the enabling conditions of dharma and adharma, across the flow of kāla. This integrated view allows Jain thinkers to explain both the empirical world and the path to spiritual freedom without invoking a creator deity.\n\nDifferent Jain acharyas and texts elaborate the six dravyas with varying levels of technical detail. Some emphasize their infinite nature and mutual interpenetration; others focus on their role in karmic processes and cosmology. Despite interpretive nuances, the six-dravya doctrine remains a shared foundation across major Jain sects and serves as a key entry point for understanding Jain metaphysics, ethics, and spiritual practice.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "जीवाजीवास्तत्त्वम् ।\nधर्माधर्माकाशकालनाः द्रव्याणि ।",
+      "transliteration": "jīvājīvās tattvam.\ndharmādharmākāśakālanāḥ dravyāṇi.",
+      "translation": "Living and non-living are (among) the realities.\nDharma, adharma, space, and time are substances.",
+      "notes": "The Tattvārthasūtra is a foundational Jain philosophical text accepted by both Digambara and Śvetāmbara traditions, though with some differences in commentary and recension. In early chapters, it enumerates the basic categories of reality, including jīva and ajīva, and explicitly lists dharma, adharma, ākāśa, and kāla as dravyas. Pudgala (matter) is discussed as part of ajīva and elaborated in subsequent sūtras. The text provides a concise but authoritative basis for the six-dravya doctrine, which later acharyas expand in detail."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Nemichandra Siddhānta Cakravartin (Digambara)",
+      "original_text": "जीवो द्रव्यं तदजिवो द्रव्यं च षड्विधम् ।\nधर्माधर्माकाशकालनाः पुड्गलोऽजिवः स्मृतः ॥",
+      "transliteration": "jīvo dravyaṃ tad ajivo dravyaṃ ca ṣaḍvidham.\ndharmādharmākāśakālanāḥ puḍgalo'jivaḥ smṛtaḥ.",
+      "translation": "The soul is a substance, and the non-soul is also a substance of six kinds.\nDharma, adharma, space, time, and matter are remembered as non-soul.",
+      "notes": "Dravyasaṃgraha is a concise Digambara manual on the six substances, systematically defining each dravya and its attributes. It explicitly distinguishes jīva from ajīva and enumerates the five non-sentient dravyas: pudgala, dharma, adharma, ākāśa, and kāla. The work is widely used in traditional curricula to introduce students to Jain ontology and is accompanied by commentaries that clarify technical terms and sectarian nuances."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda (Digambara)",
+      "original_text": "दव्वं निच्चं गुणपज्जायधारि ।\nजिवपुग्गलादि णाणव्विहं दव्वं ॥",
+      "transliteration": "davvaṃ niccaṃ guṇapajjāyadhāri.\njivapuggalādi ṇāṇavvihaṃ davvaṃ.",
+      "translation": "A substance is eternal, bearing attributes and modes.\nSubstances such as soul and matter are known in many forms.",
+      "notes": "Samayasāra, composed in Jain Śaurasenī Prakrit, is a highly influential text focusing on the nature of the self and reality. Kundakunda defines dravya as that which is eternal yet manifests changing modes, a definition that underpins the six-dravya framework. While the text emphasizes jīva and its pure nature, it also acknowledges pudgala and other dravyas as part of the broader ontological scheme. Commentaries by later acharyas connect these verses explicitly to the standard list of six dravyas."
+    },
+    {
+      "title": "Gommaṭasāra (Jīvakāṇḍa)",
+      "author": "Ācārya Nemichandra (Digambara)",
+      "original_text": "जिवो दव्वं गुणपज्जायधारि ।\nअनंतदेसव्वगुणसमुदायो जिवो ॥",
+      "transliteration": "jivo davvaṃ guṇapajjāyadhāri.\nanantadesavvaguṇasamudāyo jivo.",
+      "translation": "The soul is a substance, bearing attributes and modes.\nThe soul is a collection of infinite, specific, and general qualities.",
+      "notes": "Gommaṭasāra, especially its Jīvakāṇḍa section, elaborates the nature of jīva as one of the six dravyas. It describes the soul's infinite qualities and its relationship to karmic matter. While the text focuses primarily on jīva, it presupposes the broader six-dravya ontology and is often studied alongside Dravyasaṃgraha and Tattvārthasūtra to give a complete picture of Jain metaphysics."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārthasūtra)",
+      "author": "Ācārya Pūjyapāda (Digambara)",
+      "original_text": "धर्माधर्माकाशकालनां द्रव्यत्वं नित्यत्वादिभिः सिद्धम् ।",
+      "transliteration": "dharmādharmākāśakālanāṃ dravyatvaṃ nityatvādibhiḥ siddham.",
+      "translation": "The status of dharma, adharma, space, and time as substances is established by their eternality and other characteristics.",
+      "notes": "Sarvārthasiddhi is a classical Sanskrit commentary on Tattvārthasūtra that systematically defends the six-dravya doctrine. Pūjyapāda explains why dharma, adharma, ākāśa, and kāla must be considered dravyas, addressing potential objections and clarifying their roles as enabling conditions rather than moral entities. This commentary is a key traditional source for understanding the technical reasoning behind the Jain ontology of six substances."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Dharma and adharma dravyas in Jainism refer to moral righteousness and sin.",
+      "reality": "In the context of six dravyas, dharma and adharma are cosmological principles, not ethical categories. Dharma-dravya is the condition that enables motion, and adharma-dravya is the condition that enables rest. They do not reward or punish beings and are distinct from the moral notions of dharma and adharma used in other Indian traditions."
+    },
+    {
+      "myth": "Only jīva and pudgala are real, while the other four dravyas are abstract concepts or metaphors.",
+      "reality": "Classical Jain texts consistently treat all six—jīva, pudgala, dharma, adharma, ākāśa, and kāla—as real substances (dravyas) with specific attributes and functions. Dharma and adharma are real enabling conditions, ākāśa is real space accommodating all dravyas, and kāla is real time allowing change. They are not mere metaphors but integral parts of Jain ontology."
+    },
+    {
+      "myth": "Kāla (time) in Jainism is only a conventional measure like hours and days, not a true substance.",
+      "reality": "Jain philosophy distinguishes between dravya-kāla (real time as a substance) and vyavahāra-kāla (conventional time units). As one of the six dravyas, kāla is an ontological reality that enables the succession of modes in all other substances. Conventional units such as moments, hours, and years are practical expressions of this underlying time-substance."
+    },
+    {
+      "myth": "The six-dravya doctrine is accepted only by one Jain sect and rejected by others.",
+      "reality": "Despite differences in terminology, emphasis, and commentary, the basic framework of six dravyas is shared across major Jain sects, including Digambara and Śvetāmbara traditions. Both accept jīva, pudgala, dharma, adharma, ākāśa, and kāla as fundamental substances, even though they may interpret certain details differently."
+    },
+    {
+      "myth": "Liberation (mokṣa) means that the soul leaves the universe and no longer exists within any dravya.",
+      "reality": "In Jain doctrine, a liberated soul (siddha) remains a jīva-dravya located at the top of the universe (siddha-śilā) within lokākāśa. It is eternally free from karmic pudgala but still coexists with other dravyas such as space, dharma, adharma, and time. Liberation is freedom from bondage and impurity, not annihilation or departure from all substances."
+    }
+  ]
+}

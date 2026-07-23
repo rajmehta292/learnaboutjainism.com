@@ -1,0 +1,39 @@
+{
+  "overview": "In Jain studies, “prosody” refers to the structured science of poetic meters (chandas) used in Prakrit and Sanskrit compositions across canonical, commentarial, and later literary traditions. Jain authors—both Śvetāmbara and Digambara—participated in the broader Indian chandas tradition while also developing distinctive metrical preferences in didactic, narrative, and philosophical works. Prosody governs syllable count, mora (mātrā) structure, rhythmic pattern, and permissible variations, ensuring that verses are both aesthetically pleasing and mnemonically stable.\n\nJain canonical texts in Ardhamāgadhī and Jaina Śaurasenī often employ simple, rhythmically regular meters suited for oral recitation, such as anuṣṭubh-like patterns and mixed prose‑verse forms. Later narrative works—like the *Paumacariya* or *Yasastilaka*—use more elaborate Sanskrit meters including śārdūlavikrīḍita, mandākrāntā, and vasantatilakā. Jain scholastic texts on karma theory, logic, and ethics frequently adopt concise metrical forms to encode technical material, reflecting the tradition’s emphasis on memorization.\n\nProsody also plays a role in Jain manuscript culture. Metrical regularity assists scribes in detecting textual corruption, and metrical colophons sometimes indicate lineage, region, or pedagogical context. While Jain prosody draws heavily on pan‑Indian authorities such as Piṅgala’s *Chandaḥsūtra*, Jain commentators often adapt these frameworks to Prakrit phonology and to the needs of doctrinal exposition. Thus, prosody in Jainism is both a shared classical discipline and a tradition‑specific tool for preserving and transmitting teachings.",
+  "primary_sources": [
+    {
+      "title": "Chandaḥsūtra",
+      "author": "Piṅgala (traditionally attributed)",
+      "original_text": "अनुष्टुप् पादः षोडशाक्षरः",
+      "transliteration": "anuṣṭup pādaḥ ṣoḍaśākṣaraḥ",
+      "translation": "“The anuṣṭubh meter has sixteen syllables per quarter.”",
+      "notes": "Although not a Jain text, Piṅgala’s treatise (Tier A) is foundational for all later Indian prosody, including Jain usage. Jain commentators and poets rely on its definitions when composing in Sanskrit meters."
+    },
+    {
+      "title": "Uttarādhyayana-sūtra",
+      "author": "Śvetāmbara canonical text; author unknown",
+      "original_text": "धम्मो मग्गं पवण्णइ, जं जहा णवओ पओसओ।",
+      "transliteration": "dhammo maggaṃ pavaṇṇai, jaṃ jahā ṇavao paosao.",
+      "translation": "“The Dharma describes the path, just as a navigator charts the course.”",
+      "notes": "This verse (Tier A) illustrates simple, rhythmically regular Prakrit prosody used in didactic canonical works. Metrical consistency supports oral transmission."
+    },
+    {
+      "title": "Paumacariya",
+      "author": "Vimalasūri (Digambara)",
+      "original_text": "सुरवरनुतपादपङ्कजं जयति रामो रघुकुलदीपकः।",
+      "transliteration": "suravara‑nuta‑pāda‑paṅkajaṃ jayati rāmo raghukula‑dīpakaḥ",
+      "translation": "“Victorious is Rāma, lamp of the Raghu lineage, whose lotus feet are praised by the best of gods.”",
+      "notes": "A Sanskrit verse in an ornate meter (Tier A/B). Jain narrative poets frequently employ classical meters to elevate epic retellings."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Prosody in Jainism is identical to general Sanskrit prosody.",
+      "reality": "While Jain poets use classical Sanskrit meters, Jain Prakrit texts have distinct phonological patterns and metrical conventions. Canonical works often favor simpler, mnemonic meters adapted to Prakrit."
+    },
+    {
+      "myth": "Prosody is only relevant for poetry and has no doctrinal significance.",
+      "reality": "Many Jain doctrinal texts encode ethical, karmic, and philosophical teachings in verse. Metrical structure aids memorization, transmission, and detection of textual corruption."
+    }
+  ]
+}

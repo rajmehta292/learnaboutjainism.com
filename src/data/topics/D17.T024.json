@@ -1,0 +1,43 @@
+{
+  "overview": "Terapanth practice refers to the disciplined religious life shaped by the Śvetāmbara Terāpanth tradition, founded by Ācārya Bhikṣu in 1760 CE in Rajasthan. The tradition is known for its strong emphasis on unity of leadership (ekādhyayan), strict ethical discipline, and a codified system of lay and monastic conduct. Terāpanth practice is built around the authority of a single Ācārya, whose guidance structures both monastic and lay life. This model was intended to prevent sectarian fragmentation and ensure consistent interpretation of doctrine.\n\nCentral to Terāpanth practice is the cultivation of ahiṃsā (non‑violence), aparigraha (non‑possessiveness), and disciplined self‑restraint. The tradition is also distinguished by its non‑image worship orientation, aligning with the broader Sthānakavāsī lineage from which it emerged. Rituals focus on meditation, svādhyāya (scriptural study), pratikramaṇa (ethical reflection), and internal purification rather than temple‑based mūrti‑pūjā.\n\nIn the modern period, Terāpanth practice has been shaped significantly by the development of Prekṣā Dhyāna, a meditation system articulated by Ācārya Tulsi and Ācārya Mahāprajña. This system integrates canonical Jain concepts of perception, attention, and restraint with structured meditative techniques aimed at ethical transformation. Lay practice often includes participation in Anuvrat, a movement initiated by Ācārya Tulsi to encourage small vows for ethical living among both Jains and non‑Jains.\n\nMonastic practice in Terāpanth is highly regulated. Monks and nuns follow strict itinerancy, celibacy, dietary discipline, and rules of speech and conduct. Lay followers engage in regular svādhyāya, community gatherings (sabha), and observances such as Paryuṣaṇa and Ayambil Oli, though fasting practices are moderated according to health and safety considerations. The tradition emphasizes gradual ethical development, community harmony, and disciplined spiritual progress.",
+  "primary_sources": [
+    {
+      "title": "Ācārya Bhikṣu’s *Nav Padārth Sadbhāva*",
+      "author": "Ācārya Bhikṣu",
+      "original_text": "अहिंसा परमो धर्मो, तस्स भावो सुदेसियं।",
+      "transliteration": "ahiṃsā paramo dhammo, tassa bhāvo sudesiyaṃ.",
+      "translation": "Non‑violence is the supreme dharma; its true nature must be rightly understood.",
+      "notes": "This verse is cited in Terāpanth monastic curricula as a foundational articulation of Bhikṣu’s emphasis on ethical purity and correct understanding of ahiṃsā. Editions vary, and some lines attributed to Bhikṣu appear differently across manuscripts."
+    },
+    {
+      "title": "*Sāmāyika‑pāṭha* (Terāpanth recensional tradition)",
+      "author": "Anonymous Śvetāmbara lineage",
+      "original_text": "सामायिकेण भावेण, जोगं पविज्जहं।",
+      "transliteration": "sāmāyikeṇa bhāveṇa, jogaṃ pavijjahaṃ.",
+      "translation": "With the disposition of sāmāyika, enter into disciplined concentration.",
+      "notes": "Used in Terāpanth sāmāyika practice. The text is part of a broader Śvetāmbara liturgical corpus; Terāpanth uses a standardized, commentary‑guided version without image‑worship elements."
+    },
+    {
+      "title": "Canonical basis for meditation: *Ācārāṅga Sūtra* 1.6",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जोगं जोगेहि, जोगं जोगेहि।",
+      "transliteration": "jogaṃ jogehi, jogaṃ jogehi.",
+      "translation": "Practice concentration; practice concentration.",
+      "notes": "This passage is frequently referenced in Terāpanth commentaries on Prekṣā Dhyāna to show continuity between canonical meditative instruction and modern Terāpanth techniques. Exact phrasing varies by edition."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Terāpanth is simply a branch of Sthānakavāsī Jainism without distinct practices.",
+      "reality": "While emerging from the Sthānakavāsī lineage, Terāpanth developed a unique centralized leadership structure, codified monastic discipline, and distinctive modern movements such as Prekṣā Dhyāna and Anuvrat."
+    },
+    {
+      "myth": "Terāpanth forbids all forms of ritual practice.",
+      "reality": "Terāpanth avoids image‑worship but maintains structured rituals such as sāmāyika, pratikramaṇa, svādhyāya, and collective sabhā practices, all oriented toward ethical and meditative discipline."
+    },
+    {
+      "myth": "Prekṣā Dhyāna is a modern invention unrelated to Jain scripture.",
+      "reality": "Prekṣā Dhyāna is presented by Terāpanth ācāryas as a system grounded in canonical teachings on perception, restraint, and attention, though its techniques represent a modern pedagogical synthesis."
+    }
+  ]
+}

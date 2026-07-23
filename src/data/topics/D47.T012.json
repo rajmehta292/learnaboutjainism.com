@@ -1,0 +1,43 @@
+{
+  "overview": "Prosody, in the context of Jain studies and broader Indian literary traditions, refers to the systematic study of poetic meters (chandas), rhythmic patterns, and phonological structures that govern verse composition. In Sanskrit and Prakrit literature—including canonical Jain texts, commentaries, and later scholastic works—prosody serves as both an aesthetic and mnemonic framework. Jain authors employed metrical discipline to preserve doctrinal accuracy, facilitate oral transmission, and embed philosophical meaning within rhythmic structures.\n\nIn classical Indian poetics, prosody is treated as a technical science (chandas-śāstra). Jain scholars contributed to this tradition by adapting and elaborating metrical forms for Ardhamāgadhī, Śaurasenī, and other Prakrits used in canonical and narrative literature. Meters such as anuṣṭubh, triṣṭubh, and jagatī appear in Jain Sanskrit texts, while Prakrit meters like dohā, āryā, and gāthā dominate narrative and didactic works. Prosody also plays a role in Jain ritual recitation, where metrical regularity supports clarity, devotion, and meditative focus.\n\nAcross Jain traditions—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth—prosody is not itself a doctrinal category but a literary and pedagogical tool. Its study intersects with grammar, lexicography, and hermeneutics, enabling scholars to interpret canonical verses accurately. Modern Jain scholarship continues to analyze prosody to reconstruct manuscript lineages, understand linguistic evolution, and clarify the structure of early canonical compositions.",
+  "primary_sources": [
+    {
+      "title": "Chandaḥsūtra (Selections referenced in Jain scholastic tradition)",
+      "author": "Piṅgala (attributed)",
+      "original_text": "अनुष्टुप् चतुर्विंशत्यक्षरा ।",
+      "transliteration": "anuṣṭup caturviṃśatyakṣarā.",
+      "translation": "“The anuṣṭubh meter consists of twenty‑four syllables.”",
+      "notes": "Although not a Jain text, Piṅgala’s Chandaḥsūtra is foundational for all Indian prosody. Jain commentators and poets frequently rely on its metrical definitions when composing Sanskrit verses or analyzing canonical meters."
+    },
+    {
+      "title": "Āryā Meter in Prakrit Canonical Literature",
+      "author": "Anonymous canonical redactors",
+      "original_text": "अहिंसा परमो धम्मो ।",
+      "transliteration": "ahiṃsā paramo dhammo.",
+      "translation": "“Non‑violence is the supreme dharma.”",
+      "notes": "This famous line appears in āryā‑style gāthā form across multiple Jain Prakrit sources. The āryā meter is central to Jain narrative and didactic literature, including portions of the Uttarajjhayaṇa and other Śvetāmbara canonical texts."
+    },
+    {
+      "title": "Gāthā Verses in Digambara Texts",
+      "author": "Kundakunda (attributed)",
+      "original_text": "पव्वयणं निच्चं धम्मं ।",
+      "transliteration": "pavvayaṇaṃ niccaṃ dhammaṃ.",
+      "translation": "“Right reflection is perpetual dharma.”",
+      "notes": "Kundakunda’s works, though primarily philosophical, include gāthā‑style verses. Digambara scholastic tradition often analyzes these verses using Prakrit prosodic rules to clarify doctrinal meaning."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Prosody is only relevant for poetry and has no role in Jain canonical study.",
+      "reality": "Prosody is essential for understanding Jain canonical verses, many of which rely on metrical structure for meaning, memorization, and accurate recitation."
+    },
+    {
+      "myth": "All Jain texts use the same meters across traditions.",
+      "reality": "Different Jain traditions and genres employ distinct metrical preferences—Sanskrit philosophical works often use classical meters, while Prakrit narrative and canonical texts rely heavily on āryā and gāthā forms."
+    },
+    {
+      "myth": "Prosody is purely aesthetic and unrelated to doctrinal transmission.",
+      "reality": "Metrical discipline historically ensured stable oral transmission of Jain teachings, reducing variation and supporting precise preservation of doctrinal content."
+    }
+  ]
+}

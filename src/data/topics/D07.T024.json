@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, humility (*vinaya*, *nivvatta*, *mārdava*) is a foundational ethical disposition that shapes how one perceives oneself, others, and the broader moral universe. It is not merely modesty or politeness; it is a disciplined softening of ego that enables receptivity to truth, compassion toward all beings, and progress on the path toward liberation. Jain traditions consistently treat humility as both a virtue and a method—an inner condition that reduces karmic bondage and an outward practice that supports harmonious community life.\n\nHumility is closely linked to *māna* (pride), one of the principal passions (*kaṣāyas*) that obstruct spiritual advancement. The reduction of pride is essential for weakening karmic influx (*āsrava*) and promoting karmic shedding (*nirjarā*). In the *Gunasthāna* framework, humility becomes increasingly refined as the aspirant moves from deluded conduct toward right conduct and ultimately toward omniscience. It is also central to lay ethics, where humility manifests as respectful speech, non-domination, willingness to learn, and recognition of the limits of one’s knowledge.\n\nAcross Digambara and Śvetāmbara traditions, humility is expressed through reverence for teachers, careful listening, and the avoidance of harshness or arrogance. It is also embedded in ritual forms such as *vandana* (reverence), *pratikramana* (reflective repentance), and *sāmāyika* (equanimity practice). Modern Jain ethics extends humility to ecological responsibility, interfaith dialogue, and social conduct, emphasizing that humility is not self-negation but a realistic awareness of interdependence and the moral weight of one’s actions.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "माना क्रोधमानमायालोभाः कषायाः",
+      "transliteration": "mānā krodha-māna-māyā-lobhāḥ kaṣāyāḥ",
+      "translation": "Anger, pride, deceit, and greed are the passions.",
+      "notes": "TS 7.3 identifies pride (*māna*) as a core passion. Humility is understood as the antidote to pride, reducing karmic bondage. The text does not define humility directly but frames it through the negation of pride."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "विनयसम्पन्नो भिक्खु धम्मं सुणइ",
+      "transliteration": "vinaya-sampanno bhikkhu dhammaṃ suṇai",
+      "translation": "The monk endowed with humility listens to the teaching.",
+      "notes": "This passage (Ācārāṅga Sūtra I.2, in Śvetāmbara recension) emphasizes humility as a prerequisite for receiving and understanding Dharma. Listening with humility is framed as a moral and cognitive discipline."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "विनयस्य मूलं ज्ञानम्",
+      "transliteration": "vinayasya mūlaṃ jñānam",
+      "translation": "The root of humility is knowledge.",
+      "notes": "This aphorism highlights the Jain view that humility arises from accurate understanding of reality, impermanence, and the limits of one’s own perspective."
+    },
+    {
+      "title": "Pañcāstikāya",
+      "author": "Kundakunda (Digambara)",
+      "original_text": "मादवो हि गुणो मोक्षस्स",
+      "transliteration": "mādavo hi guṇo mokṣassa",
+      "translation": "Humility is indeed a virtue leading toward liberation.",
+      "notes": "Kundakunda explicitly identifies *mārdava* (gentleness, humility) as a liberating virtue. The Digambara tradition often lists *mārdava* among the essential dispositions of the true self."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Humility in Jainism means self-deprecation or believing oneself to be worthless.",
+      "reality": "Jain humility is not self-negation but the softening of ego and recognition of interdependence. It is grounded in accurate knowledge of the self and the karmic process, not in lowering one’s intrinsic worth."
+    },
+    {
+      "myth": "Humility is only required of monks and nuns.",
+      "reality": "While monastic texts emphasize humility, laypeople are equally encouraged to cultivate it through respectful conduct, non-harmful speech, and openness to learning. Humility is a universal Jain virtue."
+    },
+    {
+      "myth": "Humility is merely a social courtesy.",
+      "reality": "In Jain philosophy, humility has deep metaphysical significance. It reduces karmic influx, supports right faith, and is essential for progress through the *gunasthānas*. It is far more than etiquette."
+    }
+  ]
+}

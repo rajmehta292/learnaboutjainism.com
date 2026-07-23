@@ -1,0 +1,55 @@
+{
+  "overview": "Jainism and Buddhism emerged in the mid-first millennium BCE in northern India as part of a broader śramaṇa (renunciant) movement that questioned Vedic ritualism, hereditary hierarchy, and the authority of Brahmanical priests. Both traditions emphasized liberation from saṃsāra, cultivated disciplined ethical conduct, and developed monastic communities. Yet they diverged significantly in metaphysics, soteriology, and the nature of the self.\n\nHistorically, both traditions arose in regions such as Magadha and Kosala, interacting with similar social and intellectual currents. Early Buddhist texts refer to Nigaṇṭhas (Jains), and Jain texts mention Buddhists (Bauddhas), indicating mutual awareness and occasional debate. Both traditions developed sophisticated philosophical systems, canonical literatures, and monastic rules, though their textual languages differ: Jainism primarily uses Ardhamāgadhī and other Prakrits, while Buddhism uses Pāli, Sanskrit, and regional vernaculars.\n\nDoctrinally, Jainism affirms an eternal, individual jīva (soul) endowed with consciousness, obscured by karmic matter that binds through passions and actions. Liberation (mokṣa) is achieved through the complete removal of karmic particles via right faith, right knowledge, and right conduct. Buddhism, by contrast, teaches anātman (non-self), asserting that beings are aggregates (skandhas) without a permanent essence. Liberation (nirvāṇa) is attained through extinguishing craving and ignorance, not through the purification of a metaphysical soul.\n\nEthically, both traditions emphasize nonviolence (ahiṃsā), but Jainism interprets it with maximal rigor, extending to microscopic life and requiring strict dietary and behavioral rules. Buddhism upholds non-harm as foundational but allows more flexibility in daily practice. Jain asceticism is often more austere, involving practices such as prolonged fasting, careful movement to avoid harming life, and meticulous attention to speech and thought. Buddhist monasticism emphasizes the Middle Way, avoiding extremes of self-indulgence and self-mortification.\n\nIn historical development, both traditions produced influential philosophical schools, artistic traditions, and monastic institutions. Jainism remained primarily within the Indian subcontinent, while Buddhism spread widely across Asia, evolving into Theravāda, Mahāyāna, and Vajrayāna forms. Comparative study highlights shared cultural roots and distinct doctrinal trajectories, offering insight into the diversity of ancient Indian religious thought.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to the early Jain community; preserved in Śvetāmbara canon",
+      "original_text": "𑀅𑀘𑀸𑀭𑀸𑀁𑀕𑀁 𑀲𑀽𑀢𑁆𑀭𑀺 — \"ṇaṃ se bhikkhūṇaṃ icchāmi jīviyāe\"",
+      "transliteration": "naṃ se bhikkhūṇaṃ icchāmi jīviyāe",
+      "translation": "“Thus I say to the monks: I desire that you live (rightly).”",
+      "notes": "A foundational Jain text (Tier A) describing the conduct of ascetics, emphasizing nonviolence, restraint, and awareness. The passage illustrates the prescriptive tone of early monastic guidance."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Early Jain community; Śvetāmbara canon",
+      "original_text": "𑀚𑀺𑀯𑀸 𑀓𑀺𑀭𑁆𑀫𑀸 𑀓𑀺𑀢𑁆𑀭𑀺 — \"jīvā kiriyā kittī\"",
+      "transliteration": "jīvā kiriyā kittī",
+      "translation": "“Living beings are known through their activity.”",
+      "notes": "This text contains doctrinal discussions and critiques of rival traditions, including Buddhists. It is a key source for understanding early Jain metaphysics and debates."
+    },
+    {
+      "title": "Dīgha Nikāya (Sāmaññaphala Sutta)",
+      "author": "Early Buddhist community; Pāli Canon",
+      "original_text": "“Nigaṇṭhā nāma samaṇā…”",
+      "transliteration": "Nigaṇṭhā nāma samaṇā",
+      "translation": "“There are ascetics called Nigaṇṭhas…”",
+      "notes": "This sutta (Tier A) describes contemporary renunciant groups, including Jains, and outlines their practices from a Buddhist perspective. It is a primary source for intertradition encounters."
+    },
+    {
+      "title": "Majjhima Nikāya (Alagaddūpama Sutta)",
+      "author": "Early Buddhist community; Pāli Canon",
+      "original_text": "“Sabbe dhammā anattā.”",
+      "transliteration": "sabbe dhammā anattā",
+      "translation": "“All phenomena are without self.”",
+      "notes": "A central Buddhist doctrinal statement contrasting with Jain affirmation of an eternal jīva. Included to highlight philosophical divergence."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism and Buddhism teach the same form of nonviolence.",
+      "reality": "Both value non-harm, but Jainism applies ahiṃsā with maximal strictness, extending to minute life forms and requiring extensive ascetic precautions. Buddhism upholds nonviolence but allows more pragmatic flexibility."
+    },
+    {
+      "myth": "Both traditions deny the existence of the soul.",
+      "reality": "Buddhism teaches anātman (non-self), rejecting a permanent essence. Jainism affirms an eternal, individual jīva that undergoes karmic bondage and liberation."
+    },
+    {
+      "myth": "Buddhism and Jainism originated as offshoots of Hinduism.",
+      "reality": "Both arose within the broader śramaṇa movement, parallel to Vedic traditions, sharing cultural contexts but developing independently with distinct scriptures and doctrines."
+    },
+    {
+      "myth": "Jain asceticism and Buddhist monasticism follow identical rules.",
+      "reality": "Jain asceticism is generally more austere, emphasizing meticulous avoidance of harm and karmic accumulation. Buddhist monasticism follows the Middle Way, avoiding extremes of self-mortification."
+    }
+  ]
+}

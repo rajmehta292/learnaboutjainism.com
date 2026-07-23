@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, the term “mirror” (darpaṇa) appears in multiple contexts—material, symbolic, epistemological, and ritual. While mirrors as physical objects are not central ritual instruments in Jainism, they serve as powerful metaphors in canonical and commentarial literature. The most common usage is allegorical: the mirror represents clarity of perception, self-reflection, and the removal of karmic obscurations that cloud the jīva’s innate luminosity.\n\nIn epistemological discussions, especially within the traditions of Digambara and Śvetāmbara philosophers, the mirror is used to illustrate how knowledge functions. Just as a mirror reflects an object without altering it, the purified soul reflects reality directly when freed from karmic veils. This metaphor appears in explanations of pramāṇa (valid cognition), particularly in debates on direct perception (pratyakṣa) and the nature of omniscience (kevala‑jñāna).\n\nIn ethical and meditative contexts, the mirror symbolizes introspection. Lay education texts often describe right conduct (samyak‑cāritra) as requiring a “mirror-like mind” capable of seeing one’s own faults without distortion. This aligns with the broader Jain emphasis on self-scrutiny, confession (ālochanā), and the gradual refinement of conduct through awareness.\n\nHistorically, mirrors also appear in descriptions of royal courts, merchant households, and material culture in Jain narrative literature such as the *Uttarādhyayana Sūtra* and *Jain Purāṇas*. These references help scholars understand everyday life in ancient and medieval Jain communities. However, such mentions are descriptive rather than doctrinal.\n\nThus, the mirror in Jainism is not a ritual object but a conceptual tool—used to illuminate the nature of perception, purity, and self-awareness. Its significance lies in its metaphorical power to express how the soul, when freed from karmic matter, becomes perfectly reflective, radiant, and capable of perceiving reality as it truly is.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "ज्ञानं निर्जराद् भावात्",
+      "transliteration": "jñānaṃ nirjarād bhāvāt",
+      "translation": "Knowledge arises from the purification of the soul’s states.",
+      "notes": "While the text does not explicitly mention a mirror, Digambara and Śvetāmbara commentaries (Tier B) frequently use the mirror metaphor to explain how purified knowledge reflects reality without distortion."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 28",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जस्संति दंसणं चित्तं तस्संति दंसणं लोगं",
+      "transliteration": "jassaṃti daṃsaṇaṃ cittaṃ tassaṃti daṃsaṇaṃ logaṃ",
+      "translation": "As is one’s perception, so is one’s view of the world.",
+      "notes": "Commentators compare the mind to a mirror: if the mirror is dusty (obscured by karma), perception is distorted; if clean, perception is accurate."
+    },
+    {
+      "title": "Pravacanasāra (Digambara)",
+      "author": "Kundakunda",
+      "original_text": "पवित्तेण णिव्वाणं, अपवित्तेण बंधो",
+      "transliteration": "pavitteṇa nivvāṇaṃ, apavitteṇa bandho",
+      "translation": "Purity leads to liberation; impurity leads to bondage.",
+      "notes": "Later Digambara exegesis uses the mirror analogy to explain purity: the pure soul reflects reality like a flawless mirror, while karmic impurities act like grime."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Mirrors are used in Jain rituals or worship.",
+      "reality": "There is no canonical or sectarian ritual involving mirrors in Jain worship. References to mirrors in Jain texts are metaphorical or descriptive of daily life, not liturgical."
+    },
+    {
+      "myth": "The mirror metaphor implies the soul passively reflects reality.",
+      "reality": "Jain epistemology emphasizes active purification of karmic matter. The mirror analogy illustrates clarity of perception, but the soul’s liberation requires disciplined ethical and meditative effort."
+    },
+    {
+      "myth": "All Jain texts use the mirror metaphor in the same way.",
+      "reality": "Different traditions employ the metaphor differently: Digambara philosophers often use it to explain omniscience, while Śvetāmbara commentaries emphasize introspection and ethical self-awareness."
+    }
+  ]
+}

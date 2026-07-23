@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, “community access norms” refers to the shared expectations, rules, and ethical frameworks that govern how individuals—monastics, laypeople, visitors, and those from outside the tradition—interact with Jain spaces, resources, and communal activities. These norms are not uniform across all sects; they emerge from scriptural foundations, historical developments, and local community practices. They aim to preserve non‑violence (ahimsa), respect for sacred spaces, and equitable participation while acknowledging the diverse capacities and roles of community members.\n\nAt their core, access norms regulate entry into temples, upashrayas, libraries (jnan bhandars), ritual areas, and community halls. They also shape expectations around purity practices, food preparation, participation in puja, attendance at pravachans, and engagement with monastic orders. For example, Digambara spaces may restrict certain ritual areas to maintain nudity‑based ascetic norms, while Śvetāmbara Murtipujaka temples often emphasize rules around cleanliness, leather avoidance, and food restrictions before entering the sanctum.\n\nHistorically, these norms developed from early Jain monastic codes that distinguished between the conduct of monks and laypeople. Over time, as temple culture expanded and lay communities grew, additional guidelines emerged to ensure orderly worship, protect manuscripts, and maintain the sanctity of rituals. Modern communities also incorporate accessibility considerations, gender‑inclusive policies, and guidelines for respectful interfaith participation.\n\nCommunity access norms today balance fidelity to tradition with practical needs. They help ensure that sacred spaces remain conducive to spiritual practice while welcoming newcomers, scholars, and interfaith visitors. They also serve as a framework for ethical behavior—emphasizing non‑harm, humility, and mutual respect—rather than functioning as rigid gatekeeping mechanisms. Differences across sects reflect distinct theological emphases, but all share the goal of supporting a harmonious and non‑violent communal environment.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं चेव अण्णं चेव णं च अण्णं च",
+      "transliteration": "ṇaṃ ceva aṇṇaṃ ceva ṇaṃ ca aṇṇaṃ ca",
+      "translation": "“One should be mindful of oneself and mindful of others.”",
+      "notes": "From Ācārāṅga Sūtra I.2; used in traditional commentaries to justify norms of careful movement, respectful conduct, and non‑harm within communal spaces."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Early Jain canonical compilers",
+      "original_text": "अहिंसा परमो धम्मो",
+      "transliteration": "ahiṃsā paramo dhammo",
+      "translation": "“Non‑violence is the supreme dharma.”",
+      "notes": "Although widely quoted, this phrase appears in variant forms across manuscripts. It is used to ground access norms that prohibit leather items, food harm, and careless movement in sacred areas."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यक् चरित्रं च",
+      "transliteration": "samyak caritraṃ ca",
+      "translation": "“And right conduct.”",
+      "notes": "From Tattvārtha Sūtra 1.1; commentaries interpret ‘right conduct’ as including respectful behavior in communal and ritual spaces."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Community access norms are identical across all Jain sects.",
+      "reality": "Access norms vary significantly. Digambara, Śvetāmbara Murtipujaka, Sthānakavāsī, and Terāpanth communities maintain distinct expectations shaped by theology, ritual practice, and historical development."
+    },
+    {
+      "myth": "Access norms are meant to exclude outsiders or non‑Jains.",
+      "reality": "Most Jain communities welcome visitors and interfaith guests. Norms focus on non‑violence, cleanliness, and respect rather than exclusion."
+    },
+    {
+      "myth": "Temple entry rules are purely ritual and have no ethical basis.",
+      "reality": "Norms are grounded in ethical principles such as ahimsa, aparigraha, and humility. They aim to protect living beings, sacred objects, and the spiritual focus of practitioners."
+    }
+  ]
+}

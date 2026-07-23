@@ -1,0 +1,43 @@
+{
+  "overview": "Pañcāstikāya is a foundational Jain philosophical category describing the five fundamental kinds of real, existent substances (dravya) that possess astikāya—meaning they extend through space by having innumerable spatial units (pradeśas). The term appears prominently in both Digambara and Śvetāmbara traditions, forming a core component of classical ontology. In Jain metaphysics, reality is composed of six dravyas, but only five qualify as astikāyas: jīva (sentient substance), pudgala (matter), dharma (the medium of motion), adharma (the medium of rest), and ākāśa (space). The sixth dravya, kāla (time), does not possess spatial extension and therefore is not counted among the astikāyas.\n\nThe concept is closely tied to the Jain commitment to pluralism, realism, and eternal substances. Each astikāya is beginningless and endless, undergoing modes (paryāya) while retaining its essential nature (guṇa). The Pañcāstikāya doctrine is used to explain cosmology, karma theory, liberation, and the structure of the universe. Digambara texts such as *Pañcāstikāya-sāra* by Kundakunda provide a systematic treatment, while Śvetāmbara canonical texts like the *Tattvārtha-sūtra* offer a shared, pan-sectarian articulation.\n\nJīva-astikāya refers to all living beings, from one-sensed organisms to liberated siddhas. Pudgala-astikāya includes all forms of matter, from paramāṇus to gross bodies. Dharma-astikāya and adharma-astikāya are unique Jain categories functioning as passive conditions enabling motion and rest. Ākāśa-astikāya encompasses the entire spatial expanse, divided into lokākāśa (the inhabited universe) and alokākāśa (the infinite empty space beyond). Together, these five astikāyas form the structural framework of Jain cosmology and metaphysics.\n\nScholars note that the Pañcāstikāya doctrine is one of the most distinctive features of Jain thought, differing sharply from Buddhist momentariness and Hindu monism. It preserves the Jain emphasis on multiplicity, permanence-with-change, and the independent existence of substances. Traditional commentaries highlight that understanding astikāyas is essential for grasping the nature of bondage and liberation, since jīva interacts with pudgala through karma within the spatial and causal conditions provided by dharma, adharma, and ākāśa.",
+  "primary_sources": [
+    {
+      "title": "Pañcāstikāya-sāra",
+      "author": "Kundakunda (Digambara)",
+      "original_text": "जिवपुग्गलधम्माधम्मआयासाया पञ्चअस्सिकाया।",
+      "transliteration": "jivapuggala-dhammā-dhammā-āyāsāyā pañca-assikāyā",
+      "translation": "The five astikāyas are: jīva, pudgala, dharma, adharma, and ākāśa.",
+      "notes": "A foundational Digambara treatise systematically explaining the nature, attributes, and modes of each astikāya. The text emphasizes the eternal and independent existence of each substance and its role in liberation."
+    },
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti/Umāsvāmi (accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "जीवपुद्गलधर्माधर्माकाशास्तिकायाः।",
+      "transliteration": "jīva-pudgala-dharma-adharma-ākāśāstikāyāḥ",
+      "translation": "The astikāyas are jīva, pudgala, dharma, adharma, and ākāśa.",
+      "notes": "Chapter 5 of the *Tattvārtha-sūtra* provides a concise definition of astikāyas and distinguishes them from time (kāla). Commentaries by Pūjyapāda, Akalaṅka, and Siddhasena offer detailed expositions."
+    },
+    {
+      "title": "Saṃgrahaṇī-sūtra",
+      "author": "Śvetāmbara canonical tradition",
+      "original_text": "पञ्चास्तिकाया नाम जीवो पुद्गलो धम्मो अद्धम्मो अकाशो।",
+      "transliteration": "pañcāstikāyā nāma jīvo pudgalo dhammo addhammo akāso",
+      "translation": "The five astikāyas are jīva, pudgala, dharma, adharma, and ākāśa.",
+      "notes": "A cosmological text describing the universe’s structure, including detailed classifications of jīva and pudgala. It reinforces the canonical understanding of astikāyas."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Pañcāstikāya refers to five elements similar to earth, water, fire, air, and ether.",
+      "reality": "Jainism does not use the classical Indian five-element model. Pañcāstikāya refers to five ontological substances with spatial extension, including dharma and adharma as unique causal conditions."
+    },
+    {
+      "myth": "Time (kāla) is also an astikāya because it is one of the six dravyas.",
+      "reality": "Although kāla is a dravya, it does not possess spatial extension (pradeśas) and therefore is not counted among the astikāyas."
+    },
+    {
+      "myth": "Dharma and adharma astikāyas are moral categories.",
+      "reality": "In Jain ontology, dharma and adharma are not ethical concepts but physical conditions enabling motion and rest. They do not act or intervene; they simply provide the necessary medium."
+    }
+  ]
+}

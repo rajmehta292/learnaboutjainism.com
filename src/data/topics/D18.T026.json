@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, “self‑contemplation” refers to sustained, disciplined reflection on the nature of the self (*jīva*), its bondage to karmic matter, and its potential for liberation. It is not a vague introspective exercise but a structured meditative and doctrinal practice grounded in canonical teachings. Across Śvetāmbara and Digambara lineages, self‑contemplation is linked to *bhāvanā* (reflective meditations), *anuprekṣā* (contemplations), and *svādhyāya* (scriptural study). These practices aim to cultivate right view (*samyag‑darśana*), reduce passions (*kaṣāya*), and strengthen ethical restraint.\n\nIn classical sources, self‑contemplation centers on recognizing the distinction between the soul and non‑soul (*jīva–ajīva viveka*), understanding the mechanisms of karmic influx (*āsrava*) and bondage (*bandha*), and contemplating impermanence, solitude, and the inevitability of change. It is also closely tied to the *twelve anuprekṣās*, which provide a systematic framework for reflecting on cosmology, ethics, and liberation.\n\nIn practice, self‑contemplation may involve silent reflection, recitation of canonical passages, or guided meditation under qualified teachers. Lay practitioners engage with these contemplations through daily *svādhyāya*, ethical decision‑making, and periodic retreats. Monastic traditions integrate them into formal meditation regimens. While the terminology varies across sects, the underlying purpose remains consistent: to transform perception, reduce delusion, and orient the practitioner toward liberation (*mokṣa*).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "जीवाजिवकर्मबंधमोक्षाः तत्त्वम्",
+      "transliteration": "jīvājiva‑karma‑bandha‑mokṣāḥ tattvam",
+      "translation": "“The realities are soul, non‑soul, karma, bondage, and liberation.”",
+      "notes": "TS 1.4 establishes the foundational categories that self‑contemplation repeatedly examines. Both Digambara and Śvetāmbara traditions accept the text, though commentarial interpretations differ."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text (anonymous ancient redaction)",
+      "original_text": "अत्ताणं पच्छत्था एयाणं धम्मस्स सारो",
+      "transliteration": "attāṇaṃ pacchatthā eyaṇaṃ dhammasa sāro",
+      "translation": "“Self‑reflection is the essence of the teaching.”",
+      "notes": "This passage (UttS 28.1, based on standard Śvetāmbara editions) emphasizes introspection as central to ethical and spiritual progress. Exact wording varies slightly across manuscripts."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "णिज्जो अत्तो परो नत्थि",
+      "transliteration": "nijjo atto paro natthi",
+      "translation": "“The true self exists; the other is not the self.”",
+      "notes": "A core Digambara text focusing on discerning the pure soul from karmic and material associations. Self‑contemplation is framed as recognizing the soul’s intrinsic purity."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "अप्पाणं पच्छत्था",
+      "transliteration": "appāṇaṃ pacchatthā",
+      "translation": "“Reflect upon the self.”",
+      "notes": "A succinct injunction that anchors monastic and lay contemplative practice. Often cited in Śvetāmbara Mūrtipūjaka and Sthānakavāsī teaching lineages."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Self‑contemplation in Jainism is identical to general mindfulness or modern introspective techniques.",
+      "reality": "Jain self‑contemplation is doctrinally structured, rooted in canonical categories such as *jīva*, *ajīva*, *āsrava*, *bandha*, and *mokṣa*. It is not merely awareness of thoughts but a disciplined reflection on metaphysical truths and ethical commitments."
+    },
+    {
+      "myth": "Self‑contemplation encourages withdrawal from responsibilities or emotional detachment from family life.",
+      "reality": "Lay‑oriented Jain texts emphasize that contemplation should strengthen ethical engagement, compassion, and responsibility. Withdrawal from duties is neither prescribed nor supported without monastic authorization."
+    },
+    {
+      "myth": "Self‑contemplation is a monastic-only practice.",
+      "reality": "While monastic traditions formalize contemplative routines, lay practitioners are explicitly encouraged to engage in daily *svādhyāya*, *bhāvanā*, and *anuprekṣā*, adapted to household life."
+    }
+  ]
+}

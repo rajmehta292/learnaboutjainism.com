@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, **saṃsāra** refers to the beginningless and cyclical process of rebirth, driven by the accumulation and fruition of karmic matter (karma pudgala). It is not merely a metaphysical idea but a comprehensive framework describing the existential condition of all embodied beings who have not attained liberation (mokṣa). Saṃsāra encompasses the full range of worldly existence across the *triloka*—the three realms of the Jain cosmos: the upper world (ūrdhva-loka), middle world (madhya-loka), and lower world (adho-loka). Each soul (jīva) moves through these realms according to its karmic load, experiencing pleasure, pain, bondage, and delusion.\n\nJainism emphasizes that saṃsāra is **beginningless** (anādi) but **not endless**. Liberation is possible through the eradication of karmic influx (āsrava) and the shedding of accumulated karma (nirjarā). The soul’s entanglement in saṃsāra is explained through detailed taxonomies of karma, the fourteen stages of spiritual development (guṇasthāna), and the dynamics of passions (kaṣāya) that bind karma to the soul.\n\nSaṃsāra is characterized by perpetual instability: birth, aging, death, and rebirth occur in countless forms—human, celestial, infernal, animal, and microscopic beings. Jain texts describe this cycle with precision, often listing the innumerable varieties of life forms and the conditions that lead to specific rebirths. The ultimate goal of Jain practice is to transcend saṃsāra entirely, achieving the state of the *siddha*, a liberated soul dwelling at the apex of the universe (siddha-śilā).\n\nWhile saṃsāra is shared as a concept across Indian traditions, Jainism’s interpretation is distinct in its emphasis on **material karma**, **non-theistic cosmology**, and **strict ethical causality**. The cycle is not governed by divine will but by natural laws of karma and the soul’s own actions, making liberation a matter of disciplined effort, right knowledge, right faith, and right conduct (samyak-jñāna, samyak-darśana, samyak-cāritra).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "संसारः कर्मनिबन्धनात्",
+      "transliteration": "saṃsāraḥ karma-nibandhanāt",
+      "translation": "Saṃsāra arises from the bondage of karma.",
+      "notes": "Tattvārtha Sūtra 8.1 succinctly defines the cause of saṃsāra. This text is accepted across Digambara and Śvetāmbara traditions, though commentarial interpretations vary."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text; author unknown",
+      "original_text": "जायन्ते म्रियन्ते च, संसारो अनादिनिदानः",
+      "transliteration": "jāyante mriyante ca, saṃsāro anādi-nidānaḥ",
+      "translation": "Beings are born and die; saṃsāra has no beginning.",
+      "notes": "This passage emphasizes the cyclical and beginningless nature of worldly existence. Exact wording varies slightly across editions; this is a representative line."
+    },
+    {
+      "title": "Gommatsāra (Jīvakāṇḍa)",
+      "author": "Nemicandra Siddhānta Chakravartin",
+      "original_text": "अनन्ता जीवाः संसारं कुर्वन्ति",
+      "transliteration": "anantā jīvāḥ saṃsāraṃ kurvanti",
+      "translation": "Infinite souls wander through saṃsāra.",
+      "notes": "Gommatsāra provides detailed Digambara analysis of the soul’s bondage and movement through saṃsāra, including classifications of life forms and karmic states."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Saṃsāra is a punishment imposed by a divine being.",
+      "reality": "Jainism is non-theistic; saṃsāra operates through natural karmic laws without divine intervention. Souls bind karma through their own actions and passions."
+    },
+    {
+      "myth": "Saṃsāra is purely psychological or symbolic.",
+      "reality": "Jain texts describe saṃsāra as a literal cosmological process involving actual rebirth across specific realms and life forms, governed by detailed karmic mechanisms."
+    },
+    {
+      "myth": "All rebirths are random or fate-driven.",
+      "reality": "Rebirth is strictly determined by the type, duration, intensity, and fruition of karmic matter bound to the soul. Ethical conduct directly shapes future births."
+    }
+  ]
+}

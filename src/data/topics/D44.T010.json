@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, the treatment of employees—whether artisans, agricultural laborers, domestic helpers, or any person engaged in remunerated work—is framed within the broader ethical architecture of ahiṃsā (non‑violence), satya (truthfulness), and aparigraha (non‑possessiveness). Jain texts do not use the modern term “employee,” yet they contain extensive guidance on how householders should interact with dependents, hired workers, and those under their care. These teachings appear in the āvaśyaka literature, śrāvakācāra manuals, and narrative texts that illustrate proper conduct through exemplars.\n\nAcross traditions, the central principle is that economic relationships must never become a vehicle for exploitation, coercion, or harm. Payment must be fair, promises must be kept, and the dignity of the worker must be protected. The employer–employee relationship is treated as a moral contract: the employer provides just wages, humane conditions, and truthful communication; the employee offers honest labor without deceit or injury. Jain authors repeatedly emphasize that wealth gained through exploitation generates demerit (pāpa) and binds karma associated with violence, theft, and falsehood.\n\nDigambara and Śvetāmbara sources both highlight the responsibility of the householder to prevent suffering. This includes ensuring adequate rest, food, and safety for workers, avoiding verbal aggression, and refraining from overburdening them. The karmic consequences of mistreating employees are described in detail: causing physical or mental distress is classified as hiṃsā; withholding wages is a form of adattādāna (taking what is not given); and manipulating workers through threats or dishonesty violates satya and anṛta‑tyāga (renunciation of falsehood).\n\nModern Jain ethics extends these principles to contemporary workplaces. Scholars and community educators argue that Jain values support equitable labor practices, transparent contracts, non‑discriminatory hiring, and compassionate leadership. While these applications are interpretive rather than scripturally mandated, they reflect the long-standing Jain commitment to minimizing harm in all social and economic interactions.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अहिंसा सत्यम् अस्तेयम् ब्रह्मचर्यम् अपरिग्रहः",
+      "transliteration": "ahiṃsā satyam asteyam brahmacaryam aparigrahaḥ",
+      "translation": "Non‑violence, truthfulness, non‑stealing, celibacy, and non‑possessiveness are the vows.",
+      "notes": "TS 7.1 lists the five vows for householders and ascetics. In commentarial tradition (B), asteya is interpreted to include fair treatment of workers and avoidance of wage theft or coercive labor practices."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Attributed to early Jain community",
+      "original_text": "णं तं जं णहिंसइ, तं जं णहिंसइए, तं जं णहिंसइच्छइ",
+      "transliteration": "ṇaṃ taṃ jaṃ ṇahiṃsaï, taṃ jaṃ ṇahiṃsaïe, taṃ jaṃ ṇahiṃsaïcchai",
+      "translation": "One should not harm, cause others to harm, or consent to harm.",
+      "notes": "Applied by later śrāvakācāra authors to economic relationships: employers must avoid direct, indirect, or consented harm to workers."
+    },
+    {
+      "title": "Śrāvakācāra of Amitagati (Digambara)",
+      "author": "Amitagati",
+      "original_text": "अदत्तादानपरित्यागो गृहस्थस्य विशेषः",
+      "transliteration": "adattādāna‑parityāgo gṛhasthasya viśeṣaḥ",
+      "translation": "Renunciation of taking what is not given is a special duty of the householder.",
+      "notes": "Commentaries explain that withholding agreed wages or exploiting labor counts as adattādāna. This is a key textual basis for ethical employer conduct."
+    },
+    {
+      "title": "Upāsakadaśāḥ (Śvetāmbara)",
+      "author": "Canonical text",
+      "original_text": "सहायाणं अनुकम्पा",
+      "transliteration": "sahāyāṇaṃ anukampā",
+      "translation": "Compassion toward those who assist (or work for) one.",
+      "notes": "Used in tradition to emphasize humane treatment of dependents, servants, and laborers."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain texts do not address employer–employee relationships because they are modern constructs.",
+      "reality": "While the term “employee” is modern, Jain scriptures and commentaries contain extensive guidance on the ethical treatment of dependents, servants, and hired workers. These principles map directly onto contemporary labor ethics."
+    },
+    {
+      "myth": "Fair wages are a secular concept and not part of Jain ethics.",
+      "reality": "Jain śrāvakācāra literature explicitly condemns adattādāna (taking what is not given), which includes withholding or manipulating wages. Fair compensation is treated as a moral obligation."
+    },
+    {
+      "myth": "Non‑violence only concerns physical harm, not workplace stress or exploitation.",
+      "reality": "Jain definitions of hiṃsā include mental distress, coercion, and exploitation. Overworking or intimidating employees is considered a form of harm with karmic consequences."
+    }
+  ]
+}

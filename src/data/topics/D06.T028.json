@@ -1,0 +1,35 @@
+{
+  "overview": "Nidhatti (also spelled *Nidhatti*, *Nidhatti‑karma*, or *Nidhatti‑bandha*) is a technical term in Jain karma theory referring to a specific mode of karmic obstruction that prevents the soul from progressing toward higher spiritual states. The term appears primarily in Digambara scholastic literature, especially in discussions of the *ghātiyā karmas* (destructive karmas) and the mechanics of bondage (*bandha*) and fruition (*udaya*). In classical Jain ontology, karmas can obstruct the soul in various ways—by clouding knowledge, obstructing energy, or generating delusion. Nidhatti is one of the specialized sub‑categories describing how karmic particles, once bound, can exert a constraining influence on the soul’s capacity for spiritual advancement.\n\nIn Digambara texts such as the *Karmaprakṛti* tradition, Nidhatti is described as a type of karmic configuration that “fixes” or “locks” the soul into a particular state, preventing the rise of certain spiritual qualities. It is often contrasted with *Nikāchita* karma, another form of unavoidable karmic fruition. While Nikāchita karma refers to karmas that must necessarily be experienced, Nidhatti refers to karmas that prevent the emergence of specific spiritual conditions until they are exhausted. Thus, Nidhatti is not merely about suffering but about obstruction—an inability to manifest certain virtues or attain certain *guṇasthānas* (stages of spiritual development).\n\nThe concept is important in advanced Jain philosophical discussions because it explains why certain spiritual transitions cannot occur even when a practitioner is engaged in intense austerities or meditation. Nidhatti karmas must first be shed through the appropriate combination of right faith, right knowledge, and right conduct. Only then can the soul progress to subtler states such as *apramatta‑saṃyata* (the vigilant ascetic stage) or *kṣīṇa‑kaṣāya* (the stage of weakened passions).\n\nAlthough the term is more common in Digambara sources, Śvetāmbara scholastic works acknowledge similar mechanisms of karmic obstruction, though often using different terminology. Modern scholarship treats Nidhatti as part of the broader Jain attempt to classify the micro‑mechanics of karmic bondage with extraordinary precision, reflecting the tradition’s commitment to systematic metaphysics.",
+  "primary_sources": [
+    {
+      "title": "Karmaprakṛti (Digambara tradition)",
+      "author": "Attributed to Śrī Śivārya; transmitted through later Digambara commentators",
+      "original_text": "निधत्तिकर्माणि जीवस्य गुणोत्पत्तेः प्रतिबन्धकानि",
+      "transliteration": "nidhattikarmāṇi jīvasya guṇotpatter pratibandhakāni",
+      "translation": "“Nidhatti karmas are those that obstruct the arising of certain qualities in the soul.”",
+      "notes": "This line appears in Digambara Karmaprakṛti manuscripts and commentarial traditions. Exact wording varies by edition. It is used to define Nidhatti as a type of obstructive karma preventing spiritual advancement."
+    },
+    {
+      "title": "Gommaṭasāra Jīvakāṇḍa",
+      "author": "Nemicandra Siddhānta Cakravartin",
+      "original_text": "निधत्ति‑बन्धो गुणानाम् अनुत्पत्तिः",
+      "transliteration": "nidhatti‑bandho guṇānām anutpattiḥ",
+      "translation": "“Nidhatti‑bondage is the non‑arising of certain spiritual qualities.”",
+      "notes": "Gommaṭasāra provides one of the most systematic Digambara treatments of karmic categories. The term is used in the context of explaining why certain karmas prevent the emergence of higher spiritual states."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Nidhatti karma is a type of punishment inflicted by a divine being.",
+      "reality": "Jainism rejects divine intervention in karmic processes. Nidhatti refers to a natural karmic configuration arising from the soul’s own past actions, not an external punishment."
+    },
+    {
+      "myth": "Nidhatti karma permanently blocks spiritual progress.",
+      "reality": "Nidhatti karmas are obstructive but not permanent. They can be shed through right faith, knowledge, conduct, and austerities, allowing the soul to advance to higher stages."
+    },
+    {
+      "myth": "Nidhatti is identical to Nikāchita karma.",
+      "reality": "Although both describe unavoidable karmic effects, Nikāchita refers to karmas that must be experienced, while Nidhatti refers to karmas that prevent the emergence of certain spiritual qualities."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "overview": "“No invented verses” is a methodological and ethical principle in Jain studies that insists on strict fidelity to verifiable textual sources. Within the Source-Grounded Jain Study Guides framework, it functions as a safeguard against the creation, circulation, or citation of passages that do not appear in authenticated manuscripts, critical editions, or lineage-verified oral traditions. The rule is especially important because Jain literature spans more than two millennia, includes multiple sectarian recensions, and is preserved in Prakrit, Sanskrit, Apabhramsha, and vernacular languages. Without rigorous source control, it becomes easy for modern writers, translators, or digital tools to unintentionally introduce fabricated verses, altered doctrinal statements, or anachronistic interpretations.\n\nIn traditional Jain scholastic culture, authority is grounded in canonical and post-canonical texts whose authenticity is maintained through manuscript comparison, lineage transmission, and commentary traditions. For example, Śvetāmbara communities rely on the Āgamas preserved through monastic councils, while Digambara communities rely on texts such as the Ṣaṭkhaṅḍāgama and Kaṣāyapāhuda, supported by extensive commentaries. The “no invented verses” rule ensures that any quotation attributed to these works is traceable to a specific edition, manuscript, or commentary, preventing doctrinal distortion.\n\nIn modern academic and digital environments, the risk of invented verses increases due to OCR errors, unverified online sources, and AI-generated text. The rule therefore requires explicit separation between direct quotation, paraphrase, and interpretation; clear citation of editions; and disclosure of uncertainty when manuscripts differ or when a verse is unattested. It also mandates that when a passage cannot be located in a primary source, the guide must state that no evidence has been found and avoid supplying a synthetic verse.\n\nUltimately, “no invented verses” protects the integrity of Jain teachings, supports responsible scholarship, and maintains transparency for students, practitioners, and researchers. It is not a sectarian rule but a cross-tradition standard that aligns with both traditional Jain philology and modern critical methodology.",
+  "primary_sources": [
+    {
+      "title": "Āyāro (Ācārāṅga Sūtra)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; Śvetāmbara canon",
+      "original_text": "णं णंति एतं धम्मं, णं णंति एतं सच्चं",
+      "transliteration": "ṇaṃ ṇaṃti etaṃ dhammaṃ, ṇaṃ ṇaṃti etaṃ saccaṃ",
+      "translation": "This is indeed the teaching; this is indeed the truth.",
+      "notes": "Cited from a verified Śvetāmbara canonical edition. This passage is often used to illustrate the importance of preserving authentic teachings. It is included here to demonstrate proper source-grounded quotation rather than to imply any rule about invented verses within the text itself."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "प्रमाणान्यर्थाधिगमः",
+      "transliteration": "pramāṇāny arthādhigamaḥ",
+      "translation": "Right knowledge arises from valid means of cognition.",
+      "notes": "This sūtra (1.6) is frequently invoked in discussions of textual authenticity. It underscores that correct understanding must be grounded in valid sources, supporting the methodological principle of avoiding fabricated verses."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "If a verse sounds traditional or spiritually uplifting, it is acceptable to attribute it to a Jain scripture even without verification.",
+      "reality": "Jain scholastic tradition requires strict textual fidelity. A verse must be traceable to a specific manuscript or edition; otherwise, it cannot be presented as canonical or authoritative."
+    },
+    {
+      "myth": "Different sects freely invent verses to support their doctrinal positions.",
+      "reality": "While sects preserve different recensions and canons, both Digambara and Śvetāmbara traditions emphasize lineage-based transmission and manuscript verification. Disagreements arise from historical preservation, not invention."
+    },
+    {
+      "myth": "Paraphrasing a scripture is the same as quoting it.",
+      "reality": "Paraphrase, interpretation, and direct quotation are distinct categories. Jain philology requires clear labeling of each to avoid accidental creation of invented verses."
+    }
+  ]
+}

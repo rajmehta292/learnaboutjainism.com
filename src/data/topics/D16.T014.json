@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, water is never treated as a mere inert resource; it is a habitat of living beings (jalakāya/jala-jīva) and a medium through which the principle of ahiṃsā—non‑violence—must be applied with great care. Canonical texts classify water as one of the five single‑sensed life‑forms (ekendriya jīvas): earth‑bodied, water‑bodied, fire‑bodied, air‑bodied, and plant‑bodied beings. To injure water‑bodied beings is therefore a direct violation of the fundamental vow of non‑violence. This ontological recognition shapes every traditional Jain rule about drawing, storing, purifying, and consuming water.\n\nFrom the earliest strata of the canon, especially the Ācārāṅga‑sūtra and Sūtrakṛtāṅga, we find detailed descriptions of living beings in water and injunctions against careless actions such as stirring, heating, or polluting water bodies. Monks and nuns are instructed to avoid \"living\" or unfiltered water (sacitta jala) and instead use water that has been carefully strained or boiled, precisely to reduce harm to microscopic organisms. Laypeople, while permitted more latitude, are also urged to treat wells, ponds, rivers, and household water with reverence and restraint—never defecating, washing blood or waste, or discarding harmful substances into them.\n\nThe metaphysical framework of Jainism further deepens the ethical significance of water. In the doctrine of substances (dravya) and modes (paryāya), water is both a physical substance and a locus of innumerable souls undergoing karmic bondage and transformation. The famous aphorism \"parasparopagraho jīvanam\"—living beings are mutually supportive—has been read by traditional commentators and modern scholars as implying ecological interdependence: harming aquatic life ultimately harms the broader web of existence, including humans. Thus, over‑extraction, pollution, and wasteful use of water are not only imprudent but ethically violent.\n\nIn practice, Jain communities developed a range of disciplines around water use. Ascetics traditionally carry cloth filters or use fixed, community‑managed water sources to minimize harm. They avoid bathing in ways that churn or heat large quantities of water, and they are cautious about crossing rivers or streams unnecessarily. Household disciplines include filtering drinking water, avoiding night‑time drawing of water (when more organisms may be active), and maintaining cleanliness around wells and tanks. Classical texts also condemn the contamination of public water sources, anticipating modern concerns about sanitation and public health.\n\nIn contemporary Jain environmental discourse, water use has become a central theme. Authors such as Sagarmal Jain and S.M. Jain argue that the Jain recognition of water‑bodied beings and the insistence on restraint (saṃyama) and non‑possessiveness (aparigraha) provide a robust ethical basis for water conservation, pollution control, and sustainable development. They highlight how traditional practices—filtering water, avoiding waste, and protecting rivers and ponds—can be reinterpreted today as ecological disciplines rather than merely ritual habits. At the same time, modern Jain thinkers stress that these principles must be applied with scientific understanding and under the guidance of qualified teachers, especially when questions arise about health, sanitation, or large‑scale policy.\n\nAcross Digambara and Śvetāmbara traditions, the core orientation remains consistent: water is a living environment, not an inert commodity. To use water is to enter into a relationship with countless subtle beings, and that relationship must be governed by compassion, restraint, and awareness of interdependence. An encyclopedia view of \"water use\" in Jainism therefore spans ontology, ethics, ascetic discipline, lay practice, and modern environmental reflection, all rooted in the canonical insight that even the smallest drop of water may be teeming with life.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha-sūtra (Tattvārthādhigama-sūtra)",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "परस्परोपग्रहो जीवानम् ।",
+      "transliteration": "parasparopagraho jīvanam.",
+      "translation": "Living beings are mutually supportive (or: the function of living beings is to help one another).",
+      "notes": "This aphorism, traditionally placed at Tattvārtha-sūtra 5.21, is foundational for Jain ecological ethics. Later commentators and modern scholars apply it to water use by arguing that harming water-bodied beings disrupts the mutual support among all life forms, including humans. It belongs to corpus tier A (verified primary text), while ecological interpretations fall under tiers B–D."
+    },
+    {
+      "title": "Ācārāṅga-sūtra",
+      "author": "Traditionally attributed to disciples of Mahāvīra; canonical Śvetāmbara text",
+      "original_text": "एगइन्दियाणं जीवाणं णामं जलकायो । तं जलकायं हिंसइ जो जलं विहंसइ ।",
+      "transliteration": "egaiṃdiyāṇaṃ jīvāṇaṃ nāmaṃ jalakāyo. taṃ jalakāyaṃ hiṃsai jo jalaṃ vihaṃsai.",
+      "translation": "Among single-sensed beings there is the water-bodied. Whoever harms water harms those water-bodied beings.",
+      "notes": "This representative passage (wording varies by edition) summarizes the canonical view that water contains living beings and that injuring water is equivalent to injuring those beings. The Ācārāṅga-sūtra opens with classifications of earth-, water-, fire-, air-, and plant-bodied beings and prescribes careful conduct to avoid harming them, including in everyday actions like drawing or stirring water. The text is tier A; exact wording and line numbering may differ across manuscripts and translations."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Canonical Śvetāmbara text, traditionally linked to early Jain community",
+      "original_text": "ये जलकाये जले उप्पन्ना बहुस्साहस्सा बहुसंखिया, ते उवहणणेण, उक्खेपनणेण, उष्णकरणेण विहिंसिआ होन्ति ।",
+      "transliteration": "ye jalakāye jale uppannā bahussāhassā bahusaṃkhiyā, te uvahaṇaṇeṇa, ukkhepaṇaṇeṇa, uṣṇkaraṇeṇa vihiṃsiā honti.",
+      "translation": "The water-bodied beings that arise in water, countless and in great numbers, are harmed by drawing it, by throwing it about, and by making it hot.",
+      "notes": "This type of passage (again with variant readings) illustrates how canonical texts link specific actions—drawing, splashing, heating water—to violence against water-bodied beings. It underlies later rules about filtering and boiling water to reduce harm. The text is tier A; the interpretive emphasis on ecological implications belongs to tiers B–D."
+    },
+    {
+      "title": "Bhagavatī-sūtra (Viyāha-pannatti)",
+      "author": "Canonical Śvetāmbara text in Prakrit",
+      "original_text": "जलकाया नाम ते जीवाः, ये जलसरीसु, कूपेसु, पंकेसु, नदिसु, समुद्देसु विहरंति ।",
+      "transliteration": "jalakāyā nāma te jīvāḥ, ye jalasarīsu, kūpesu, paṃkesu, nadisu, samuddesu viharaṃti.",
+      "translation": "Water-bodied beings are those souls that dwell in streams, wells, ponds, rivers, and oceans.",
+      "notes": "Bhagavatī-sūtra elaborates classifications of water-bodied beings and locates them in various water bodies. This supports the traditional injunctions against polluting wells, ponds, and rivers. The text is tier A; its use in modern environmental discussions of river protection and water conservation belongs to tiers C–D."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain rules about filtering and boiling water are merely ritual purity practices with no ethical or ecological basis.",
+      "reality": "Canonical texts explicitly describe water-bodied beings and link actions like drawing, stirring, and heating water to violence against those beings. Filtering or boiling water is traditionally framed as an attempt to reduce harm to subtle life forms, not simply to achieve ritual cleanliness. Modern Jain environmental thinkers build on this ethical foundation to discuss conservation and pollution control."
+    },
+    {
+      "myth": "Because Jainism emphasizes non-violence, Jains must never boil, filter, or use water in ways that kill any organisms, even when health or sanitation is at stake.",
+      "reality": "Jain ethics recognize gradations of harm and the practical necessities of embodied life. Ascetic rules are stricter than lay rules, and both are interpreted under the guidance of qualified teachers. While unnecessary harm to water-bodied beings is condemned, responsible use of water for drinking, hygiene, and disease prevention is permitted, especially for laypeople, and modern questions about sanitation or medical needs require consultation with medical professionals and knowledgeable religious authorities."
+    },
+    {
+      "myth": "Jainism treats water as an inanimate resource, so concerns about water conservation and pollution are modern additions unrelated to classical doctrine.",
+      "reality": "From the earliest canonical texts, water is recognized as a habitat of living beings with souls. The classification of water-bodied beings, injunctions against polluting wells and ponds, and emphasis on restraint in water use all arise from classical doctrine. Contemporary Jain environmental discourse extends these principles into modern contexts of scarcity, pollution, and climate change, but it does so by drawing on long-standing ontological and ethical commitments rather than inventing new values."
+    }
+  ]
+}

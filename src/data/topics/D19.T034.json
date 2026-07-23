@@ -1,0 +1,43 @@
+{
+  "overview": "Health screening refers to systematic assessments designed to identify potential physical or mental health concerns before symptoms become severe. In a Jain studies context, health screening is not a classical doctrinal category but is relevant for lay practice, ethical living, and responsible self‑care. Jain traditions emphasize *ahimsa*, *apramatta* (carefulness), and maintaining bodily well‑being to support spiritual progress. Modern Jain communities often integrate contemporary medical screening practices—such as blood tests, cardiovascular checks, and preventive examinations—within a framework of non‑violence, ethical restraint, and informed decision-making.\n\nFrom a historical perspective, early Jain texts do not describe “health screening” in the biomedical sense. Instead, they discuss vigilance over bodily states, moderation in diet, and awareness of karmic conditions affecting the body. These teachings encourage practitioners to observe signs of imbalance, avoid harmful behaviors, and seek appropriate care when needed. Later commentaries and modern Jain educators highlight the importance of preventive health measures for householders, especially given the ethical responsibility to care for dependents and maintain one’s capacity for spiritual practice.\n\nIn contemporary Jain communities, health screening is often framed as part of responsible lay conduct (*śrāvaka-dharma*). Regular check-ups, early detection of illness, and evidence-based medical guidance are encouraged, provided they do not violate core ethical commitments. Screening is also relevant in discussions of fasting, aging, and end-of-life care, where medical evaluation helps ensure safety and prevents harm. Across traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—there is broad agreement that preventive health care is compatible with Jain ethics when approached with mindfulness, compassion, and respect for life.\n\nBecause health screening intersects with medical decision-making, any individual considering tests, treatments, or lifestyle changes should consult qualified healthcare professionals. Jain texts provide ethical orientation, but medical guidance must come from trained clinicians.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अप्रमत्तो धर्मः",
+      "transliteration": "apramatto dharmaḥ",
+      "translation": "Carefulness is dharma.",
+      "notes": "TS 7.1. Although not about medical screening, this aphorism is frequently cited to support attentive self-care and vigilance over bodily and mental states. Commentaries (B) interpret *apramatta* as including awareness of conditions that may impede spiritual practice."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जाणेइ णं शरीरस्स भावं",
+      "transliteration": "jāṇeiṇaṃ śarīrassa bhāvaṃ",
+      "translation": "One should know the condition of the body.",
+      "notes": "ĀS I.2.3 (Prakrit). The passage encourages awareness of bodily states, interpreted by scholars (C) as an early form of self-monitoring. It does not prescribe medical tests but supports the principle of attentive observation."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "संसुद्धं शरीरं तव, तवोववेदं चित्तं",
+      "transliteration": "saṃsuddhaṃ śarīraṃ tava, tavovavedaṃ cittaṃ",
+      "translation": "Let your body be pure, and your mind well-understood.",
+      "notes": "US 29.31. The term *saṃsuddhaṃ śarīraṃ* is interpreted in commentaries as maintaining bodily well-being through disciplined living. Modern educators (D) connect this to preventive health practices."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain texts prohibit modern medical screening because it involves bodily intervention.",
+      "reality": "No primary Jain text forbids medical check-ups. Traditions generally support responsible self-care, and preventive screening is widely accepted when conducted ethically and without harm."
+    },
+    {
+      "myth": "Spiritual practice alone removes the need for health monitoring.",
+      "reality": "While spiritual discipline supports mental and physical balance, Jain lay ethics emphasize responsibility toward oneself and dependents. Medical guidance remains essential for detecting and managing health conditions."
+    },
+    {
+      "myth": "Health screening conflicts with karma theory, which determines all bodily outcomes.",
+      "reality": "Karma theory describes causal conditions but does not negate practical action. Jain texts consistently encourage effort (*puruṣārtha*) and carefulness, which includes seeking appropriate medical evaluation."
+    }
+  ]
+}

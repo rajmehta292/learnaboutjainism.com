@@ -1,0 +1,51 @@
+{
+  "overview": "Ritual variation in Jainism refers to the diverse ways in which devotional, ethical, and communal practices are performed across sects, regions, historical periods, and family traditions. Although Jain communities share foundational commitments—nonviolence (ahiṃsā), non-possession (aparigraha), and the pursuit of liberation (mokṣa)—the outward forms of worship, liturgy, and daily observances differ significantly. These variations arise from doctrinal interpretations, monastic lineages, geographic influences, linguistic environments, and evolving social contexts.\n\nAcross the major traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Śvetāmbara Terāpanth—ritual variation is most visible in the presence or absence of images, the structure of temple worship, the use of Prakrit or Sanskrit liturgy, and the role of lay participation. Digambara communities emphasize austerity and often maintain distinct temple architectures and pūjā sequences. Śvetāmbara Mūrti-pūjaka traditions center image-veneration (mūrti-pūjā) with elaborate offerings, while Sthānakavāsī and Terāpanth traditions reject image worship and focus on meditation, scriptural recitation, and ethical discipline.\n\nRitual variation also appears in daily practices such as pratikramaṇa (reflective repentance), sāmāyika (periods of equanimity), and fasting. Textual prescriptions in the Āgamas and commentaries provide frameworks, but communities adapt them to local needs. For example, pratikramaṇa may be performed in Prakrit, Sanskrit, Gujarati, Hindi, or Kannada, with differing lengths and formats. Similarly, temple consecration rites (pratiṣṭhā) vary by sect, with Digambara and Śvetāmbara traditions preserving distinct procedural manuals.\n\nHistorical manuscripts show that ritual variation is not a modern development. Early canonical texts already describe multiple acceptable forms of worship, and medieval commentaries record debates over proper ritual conduct. Modern scholarship emphasizes that variation is not a sign of inconsistency but a reflection of Jainism’s adaptability and its emphasis on intention (bhāva) over external form (dravya).",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं चित्तं समणो धरेइ",
+      "transliteration": "ṇaṃ cittaṃ samaṇo dhareī",
+      "translation": "“A monk should hold his mind in restraint.”",
+      "notes": "Tier A canonical text. While not prescribing specific ritual forms, the Ācārāṅga emphasizes inner discipline, which later traditions interpret as allowing diversity in external ritual practice."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Traditionally attributed to early Śvetāmbara redactors",
+      "original_text": "एवं खु समणे धम्मं कारेइ",
+      "transliteration": "evaṃ khu samaṇe dhammaṃ kāreī",
+      "translation": "“Thus indeed does the ascetic practice the dharma.”",
+      "notes": "Tier A text. Chapters describe multiple modes of practice, including meditation, recitation, and ethical conduct, forming a basis for later ritual variation."
+    },
+    {
+      "title": "Bhagavatī Sūtra",
+      "author": "Śvetāmbara canonical compilers",
+      "original_text": "पुणो पुच्छइ — केणं भणियं, केणं कारियं",
+      "transliteration": "puṇo pucchai — keṇaṃ bhaṇiyaṃ, keṇaṃ kāriyaṃ",
+      "translation": "“He asks again: ‘By what is it spoken, by what is it done?’”",
+      "notes": "Tier A text. Dialogues illustrate interpretive flexibility in conduct and practice, later used to justify differing ritual forms."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara)",
+      "author": "Kundakunda and later redactors",
+      "original_text": "भावो मोक्षस्स कारणं",
+      "transliteration": "bhāvo mokṣassa kāraṇaṃ",
+      "translation": "“Inner disposition is the cause of liberation.”",
+      "notes": "Tier A Digambara canonical text. Emphasizes intention over external ritual form, supporting the legitimacy of diverse lay practices."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain sects follow the same ritual structure and worship style.",
+      "reality": "Ritual variation is foundational to Jain practice. Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth traditions maintain distinct liturgies, temple practices, and devotional forms."
+    },
+    {
+      "myth": "Ritual differences indicate doctrinal conflict or fragmentation.",
+      "reality": "Most variations arise from historical, linguistic, and regional developments. Core ethical and philosophical commitments remain shared across traditions."
+    },
+    {
+      "myth": "Image worship is universally required in Jainism.",
+      "reality": "Sthānakavāsī and Terāpanth traditions explicitly reject image worship, focusing instead on meditation, scriptural recitation, and ethical discipline."
+    }
+  ]
+}

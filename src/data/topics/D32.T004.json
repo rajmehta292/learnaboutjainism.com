@@ -1,0 +1,43 @@
+{
+  "overview": "Sanskrit is an Indo‑Aryan language with a documented history extending more than three millennia, forming one of the principal classical languages of South Asia. Within Jain studies, Sanskrit occupies a dual position: it is both a pan‑Indic literary language and a medium through which many later Jain philosophical, cosmological, and ritual texts were composed. While early Jain scriptures are primarily in Ardhamāgadhī Prakrit and other Middle Indo‑Aryan dialects, Sanskrit becomes increasingly prominent from roughly the early Common Era onward, especially in scholastic, commentarial, and narrative literature.\n\nAs a linguistic system, Sanskrit is characterized by a highly structured grammar codified in Pāṇini’s *Aṣṭādhyāyī* (circa 4th century BCE). Its phonology, morphology, and syntax are governed by precise rules, making it one of the most systematically described languages in human history. Classical Sanskrit (saṃskṛta, “refined” or “perfected”) differs from Vedic Sanskrit, the older form preserved in the Vedic corpus. Jain authors typically employ Classical Sanskrit, though they occasionally preserve older forms or regional features.\n\nIn Jain intellectual traditions, Sanskrit becomes a vehicle for metaphysics, logic, karma theory, cosmology, and ethics. Digambara and Śvetāmbara scholars alike produced extensive Sanskrit treatises—commentaries on Prakrit scriptures, independent philosophical works, and narrative literature. Sanskrit also served as a bridge language for inter‑tradition dialogue, allowing Jain thinkers to participate in broader Indian philosophical debates with Buddhists, Nyāya scholars, Mīmāṃsakas, and Vedāntins.\n\nModern scholarship treats Sanskrit as both a historical language and a living tradition. It remains used in ritual, recitation, pedagogy, and academic study. In Jain contexts, Sanskrit literacy supports access to later commentaries, cosmological diagrams, karma theory treatises, and sectarian histories. However, responsible study requires careful attention to textual provenance, manuscript variation, and the relationship between Sanskrit works and earlier Prakrit foundations.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti/Umāsvāmin (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "A foundational Jain philosophical text composed in Sanskrit, accepted across major Jain traditions. The language is concise sūtra‑style Sanskrit. Manuscript traditions vary slightly, and commentaries expand doctrinal interpretation."
+    },
+    {
+      "title": "Gommatasāra (Jīvakāṇḍa opening verse)",
+      "author": "Nemicandra Siddhānta‑cakravartin",
+      "original_text": "जीवास्तत्त्वमिह प्रोक्तं नेमिकन्द्रेण धीमता",
+      "transliteration": "jīvās tattvam iha proktaṃ Nemicandreṇa dhīmatā",
+      "translation": "Here the nature of the soul is taught by the wise Nemicandra.",
+      "notes": "Although much of the Digambara canon is in Prakrit, Nemicandra’s works often include Sanskrit verses framing or summarizing doctrinal content. Editions differ, and some verses appear only in later manuscripts."
+    },
+    {
+      "title": "Hemacandra’s Abhidhāna‑Cintāmaṇi (lexicographical verse)",
+      "author": "Hemacandra",
+      "original_text": "शब्दार्थज्ञानसंपत्तिः सर्वविद्याप्रवर्तिका",
+      "transliteration": "śabdārtha‑jñāna‑saṃpattiḥ sarva‑vidyā‑pravartikā",
+      "translation": "Mastery of words and meanings sets all knowledge in motion.",
+      "notes": "Hemacandra, a Śvetāmbara polymath, composed major Sanskrit works on grammar, lexicography, and prosody. His Sanskrit treatises interact with Prakrit traditions and serve as bridges between Jain and broader Sanskritic scholarship."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sanskrit is the original and primary language of all Jain scriptures.",
+      "reality": "Early Jain canonical literature is predominantly in Ardhamāgadhī Prakrit and related Middle Indo‑Aryan dialects. Sanskrit becomes prominent later, especially in commentaries and philosophical treatises."
+    },
+    {
+      "myth": "Sanskrit is a single, unchanging language across all periods.",
+      "reality": "Sanskrit has historical layers—Vedic, early Classical, and later scholastic styles. Jain authors typically use Classical Sanskrit but incorporate regional and sectarian features."
+    },
+    {
+      "myth": "All Sanskrit texts attributed to Jain authors are uniform across traditions.",
+      "reality": "Manuscript evidence shows variation, sectarian redaction, and differing commentarial traditions. Responsible study requires attention to provenance and textual history."
+    }
+  ]
+}

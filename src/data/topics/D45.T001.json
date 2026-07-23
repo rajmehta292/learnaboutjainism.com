@@ -1,0 +1,43 @@
+{
+  "overview": "Principle‑based reasoning refers to a mode of ethical and philosophical analysis in which decisions, judgments, and interpretations are guided by stable, articulated principles rather than by ad hoc preferences, personal authority, or purely consequential calculations. In Jain intellectual traditions, this style of reasoning appears across epistemology, ethics, karma theory, and monastic as well as lay conduct literature. It emphasizes consistency, non‑harm, and the disciplined application of foundational doctrines.\n\nIn classical Jain thought, principle‑based reasoning is closely tied to the commitment to *ahiṃsā* (non‑violence), *anekāntavāda* (many‑sidedness), and *aparigraha* (non‑possessiveness). These principles function not merely as moral ideals but as analytic constraints: any argument or action must be evaluated in light of how well it aligns with these core commitments. For example, discussions of permissible lay occupations, food practices, or speech conduct often proceed by examining whether a given action coherently upholds non‑harm and restraint.\n\nThis mode of reasoning also appears in Jain logic (*nyāya*) and epistemology (*pramāṇa*). The doctrine of *anekāntavāda* encourages the use of principles such as perspectival analysis (*naya*) and conditional predication (*syādvāda*) to avoid absolutist claims. Here, principles serve as methodological rules that structure how knowledge claims are formulated and evaluated.\n\nIn modern Jain scholarship, principle‑based reasoning is used to interpret classical texts for contemporary ethical issues—environmental stewardship, dietary choices, business ethics, and non‑violent conflict resolution. Scholars emphasize that while applications may evolve, the underlying principles remain stable anchors for interpretation. This approach helps maintain fidelity to tradition while enabling thoughtful engagement with new contexts.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non‑violence is the supreme principle.",
+      "notes": "This widely cited aphorism (TS 7.1 in many editions) is foundational for principle‑based ethical reasoning in Jainism. Although the exact phrasing appears in multiple Jain and non‑Jain sources, the Tattvārthasūtra’s articulation of non‑violence as a supreme principle guides reasoning across conduct rules, karma theory, and social ethics."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "णियमेणं धम्मो",
+      "transliteration": "ṇiyameṇaṃ dhammo",
+      "translation": "Dharma is grounded in disciplined principles.",
+      "notes": "Kundakunda emphasizes that right conduct arises from adherence to essential principles rather than external ritual or social convention. This text is central in Digambara philosophical reasoning and highlights the primacy of internal principles over external actions."
+    },
+    {
+      "title": "Aptamīmāṃsā",
+      "author": "Ācārya Samantabhadra",
+      "original_text": "स्यान्नयैः सत्यनिर्णयः",
+      "transliteration": "syān‑nayaiḥ satya‑nirṇayaḥ",
+      "translation": "Truth is determined through conditional and perspectival principles.",
+      "notes": "This text elaborates the methodological principles of *syādvāda* and *naya*, showing how they structure reasoning to avoid dogmatism. It is a key source for understanding principle‑based reasoning in Jain epistemology."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Principle‑based reasoning in Jainism means rigid, inflexible rule‑following.",
+      "reality": "Jain principles are stable, but their application is context‑sensitive. Texts such as the *Aptamīmāṃsā* and commentaries on the *Tattvārthasūtra* emphasize conditional reasoning (*syādvāda*) and perspectival analysis (*naya*), which prevent rigid absolutism."
+    },
+    {
+      "myth": "Principle‑based reasoning ignores consequences entirely.",
+      "reality": "While principles guide the evaluation of actions, Jain texts also consider karmic outcomes and practical effects. The principles serve as the primary evaluative framework, but consequences are analyzed within that framework rather than replacing it."
+    },
+    {
+      "myth": "Only monastic texts use principle‑based reasoning.",
+      "reality": "Lay conduct manuals, ethical treatises, and modern Jain educational materials also rely on principle‑based reasoning, especially in discussions of diet, livelihood, environmental ethics, and interpersonal conduct."
+    }
+  ]
+}

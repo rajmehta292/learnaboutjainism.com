@@ -1,0 +1,55 @@
+{
+  "overview": "Sanskrit pronunciation (śikṣā or svara‑śikṣā) refers to the systematic articulation of sounds in classical Sanskrit as preserved in Vedic recitation lineages and codified in ancient phonetic treatises. It is a highly structured system built on precise distinctions of place of articulation (sthāna), manner of articulation (prayatna), voicing, aspiration, and length. Sanskrit’s phonology is unusually transparent: each written character corresponds to a specific phonetic value, and traditional grammarians such as Pāṇini treat pronunciation as foundational to grammar, meter, and meaning.\n\nClassical Sanskrit pronunciation is organized around the varṇamālā, the ordered “garland of sounds,” beginning with vowels (a, ā, i, ī, u, ū, ṛ, ṝ, ḷ, ḹ, e, ai, o, au) and followed by consonants grouped by articulatory location: gutturals (ka‑varga), palatals (ca‑varga), retroflexes (ṭa‑varga), dentals (ta‑varga), and labials (pa‑varga). Additional consonants include semivowels (ya, ra, la, va), sibilants (śa, ṣa, sa), and the aspirate (ha). Each sound is defined by its sthāna (place), karaṇa (mechanism), and internal effort (prayatna), ensuring consistency across recitation traditions.\n\nVedic Sanskrit preserves additional phonetic features—such as pitch accents (udātta, anudātta, svarita)—that are essential for correct chanting of mantras. While Classical Sanskrit largely loses pitch distinctions, it retains strict rules for sandhi (euphonic combination), which govern how sounds change at word boundaries. These rules ensure fluid, rhythmic speech and are central to both spoken and chanted Sanskrit.\n\nAcross Jain traditions, Sanskrit pronunciation is relevant for scriptural study, mantra recitation, and comparative philology. Jain Sanskrit texts often preserve Prakrit-influenced phonology, yet formal recitation still follows classical śikṣā norms. Modern pedagogy emphasizes clarity of vowels, correct aspiration, and avoidance of regional substitutions, while acknowledging that living recitation traditions may differ in minor details.",
+  "primary_sources": [
+    {
+      "title": "Ṛgveda Prātiśākhya",
+      "author": "Attributed to Śaunaka",
+      "original_text": "वर्णानाम् उच्चारणं स्थानं च प्रायत्नं च निर्दिशति",
+      "transliteration": "varṇānām uccāraṇaṃ sthānaṃ ca prāyatnaṃ ca nirdiśati",
+      "translation": "It sets forth the pronunciation of sounds, their places of articulation, and their efforts.",
+      "notes": "A foundational Vedic phonetic manual (Tier A) describing articulation, accent, and sandhi rules for Vedic recitation."
+    },
+    {
+      "title": "Taittirīya Prātiśākhya",
+      "author": "Traditionally linked to the Taittirīya school",
+      "original_text": "स्वरितो वर्णो दीर्घः, उदात्तो ह्रस्वः",
+      "transliteration": "svarito varṇo dīrghaḥ, udātto hrasvaḥ",
+      "translation": "A svarita syllable is long; an udātta syllable is short.",
+      "notes": "Explains pitch accent and its relationship to syllable length in Vedic chanting."
+    },
+    {
+      "title": "Pāṇini’s Aṣṭādhyāyī (with Śikṣā references)",
+      "author": "Pāṇini",
+      "original_text": "अ इ उ ऋ ऌ इति स्वराः",
+      "transliteration": "a i u ṛ ḷ iti svarāḥ",
+      "translation": "The vowels are: a, i, u, ṛ, ḷ.",
+      "notes": "Pāṇini’s sutras (Tier A) define the phonemic inventory and form the basis for classical Sanskrit pronunciation."
+    },
+    {
+      "title": "Jain Siddhahem Śabdānuśāsana (phonetic sections)",
+      "author": "Hemacandra",
+      "original_text": "स्थानप्रयत्नविज्ञानं वर्णोच्चारणहेतुः",
+      "transliteration": "sthānaprayatnavijñānaṃ varṇoccāraṇahetuḥ",
+      "translation": "Knowledge of place and effort is the cause of correct sound articulation.",
+      "notes": "Hemacandra’s grammar (Tier B) integrates Sanskrit and Prakrit phonology, influential in Jain scholastic traditions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sanskrit pronunciation varies freely by region and has no fixed standards.",
+      "reality": "While accents differ, classical śikṣā texts provide precise phonetic rules. Regional variations exist, but they do not replace the canonical definitions of articulation."
+    },
+    {
+      "myth": "All Sanskrit vowels are pronounced like English vowels.",
+      "reality": "Sanskrit vowels have fixed lengths and qualities. For example, 'a' is a short central vowel, not the English 'a' in 'cat' or 'father'."
+    },
+    {
+      "myth": "Retroflex sounds (ṭ, ḍ, ṇ) are interchangeable with dentals (t, d, n).",
+      "reality": "Retroflex and dental consonants are distinct phonemes with different places of articulation, and confusing them can change meaning."
+    },
+    {
+      "myth": "Aspiration in Sanskrit is optional.",
+      "reality": "Aspiration (e.g., kha vs. ka) is phonemic and essential. Mispronouncing aspiration can alter the meaning of words."
+    }
+  ]
+}

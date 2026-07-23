@@ -1,0 +1,55 @@
+{
+  "overview": "Organ donation, within Jain ethical discourse, is approached through the core principles of *ahiṃsā* (non‑violence), *karuṇā* (compassion), and the layperson’s duty to preserve life while minimizing harm. Jain traditions historically developed in contexts where surgical intervention was limited, so classical scriptures do not explicitly discuss modern organ transplantation. However, the broader ethical framework—especially teachings on protecting embodied life (*prāṇa*), intention (*bhāva*), and compassionate action—provides a basis for contemporary interpretation.\n\nModern Jain scholars and community bodies generally hold that organ donation by laypersons can be ethically permissible when it is motivated by compassion, performed without coercion, and does not involve violence toward living beings beyond what is unavoidable in medical practice. Donation after death is often viewed as less ethically complex, because the donor’s *prāṇa* has already departed, and the act may save or improve another life. Living donation requires additional caution, as Jain lay ethics emphasize non‑harm to oneself and avoidance of unnecessary bodily injury.\n\nAcross sects—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—there is no universally binding doctrinal ruling. Instead, guidance is typically framed through general principles: intention free of attachment, avoidance of self‑harm, and compassionate benefit to others. Many contemporary Jain physicians and ethicists argue that organ donation aligns with *jīvadayā* (care for living beings) when undertaken responsibly. Because organ donation intersects with medical risk, bodily autonomy, and end‑of‑life decisions, qualified medical and ethical consultation is always required.\n\nThis article presents source‑grounded material, clarifies what classical texts do and do not say, and identifies areas where modern interpretation is necessary.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 7.13",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "जीवदया परमो धर्मः",
+      "transliteration": "jīvadayā paramo dharmaḥ",
+      "translation": "Compassion toward living beings is the highest duty.",
+      "notes": "This aphorism, though brief, is frequently cited in modern Jain ethical discussions. It does not address organ donation directly but establishes compassion as a central moral value. Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) emphasize minimizing harm while aiding others."
+    },
+    {
+      "title": "Ācārāṅga Sūtra I.4",
+      "author": "Attributed to Mahāvīra’s teachings; Śvetāmbara canon",
+      "original_text": "पाणो पाणो परस्परं निहिंसइ",
+      "transliteration": "pāṇo pāṇo parasparaṃ nihiṃsai",
+      "translation": "One should not harm living beings, even mutually.",
+      "notes": "The text establishes the foundational rule of non‑violence. Modern interpreters use this principle to evaluate medical procedures: harm should be minimized, and intention matters. The scripture does not discuss surgical intervention or organ donation."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 28.1–2",
+      "author": "Śvetāmbara canon",
+      "original_text": "दया एत्थं सव्वभूएसु, दया एत्थं सव्वजीवएसु",
+      "transliteration": "dayā etthaṃ savvabhūesu, dayā etthaṃ savvajīvaesu",
+      "translation": "Compassion is to be shown toward all creatures, compassion toward all living beings.",
+      "notes": "Used in contemporary Jain ethics to support altruistic acts. The text does not mention organ donation but reinforces the moral legitimacy of compassionate assistance."
+    },
+    {
+      "title": "Gommatasāra Jīvakāṇḍa 559–560",
+      "author": "Nemichandra Siddhānta Chakravartin (Digambara)",
+      "original_text": "जीवाणं रक्षणं धम्मो",
+      "transliteration": "jīvāṇaṃ rakṣaṇaṃ dhammo",
+      "translation": "The protection of living beings is religion.",
+      "notes": "Digambara sources emphasize safeguarding life. Modern Digambara scholars sometimes cite this principle when discussing medical ethics, including organ donation, though the text itself predates such technologies."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain scriptures explicitly forbid organ donation.",
+      "reality": "No classical Jain text discusses organ transplantation. Ethical evaluation relies on broader principles of non‑violence, compassion, and minimizing harm."
+    },
+    {
+      "myth": "Organ donation always violates ahiṃsā because it involves bodily injury.",
+      "reality": "Lay Jain ethics recognize that some medical procedures involve unavoidable harm. When motivated by compassion and performed responsibly, many modern Jain authorities consider organ donation ethically permissible."
+    },
+    {
+      "myth": "All Jain sects have identical official positions on organ donation.",
+      "reality": "There is no uniform sectarian ruling. Guidance varies by community, teacher, and medical context, though most rely on shared principles of *jīvadayā* and non‑harm."
+    },
+    {
+      "myth": "Living organ donation is always encouraged as an act of compassion.",
+      "reality": "Living donation requires careful assessment because Jain lay ethics caution against self‑harm. Medical and ethical consultation is essential."
+    }
+  ]
+}

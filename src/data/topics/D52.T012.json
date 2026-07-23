@@ -1,0 +1,47 @@
+{
+  "overview": "In Jain studies—and in academic work more broadly—the distinction between **quotation** and **paraphrase** is essential for clarity, intellectual honesty, and accurate transmission of meaning. A **quotation** reproduces the original wording of a source exactly, preserving its linguistic form, idiom, and stylistic features. Quotations are used when the precise phrasing carries interpretive significance, when doctrinal precision is required, or when the authority of a text must be shown directly. In Jainism, quoting primary texts such as the *Ācārāṅga Sūtra*, *Tattvārtha Sūtra*, or *Samayasāra* allows readers to see the canonical or classical language—often Ardhamāgadhī, Śaurasenī Prakrit, or Sanskrit—without alteration.\n\nA **paraphrase**, by contrast, restates the meaning of a passage in new words. It aims to convey the sense, not the form, of the original. Paraphrasing is valuable for explaining difficult Prakrit or Sanskrit passages, summarizing long doctrinal sections, or presenting ideas in modern language for lay audiences. However, paraphrase must be clearly marked as interpretation, not original wording. In Jain hermeneutics, commentaries (such as those by Abhayadeva, Pūjyapāda, or later Digambara and Śvetāmbara scholars) often paraphrase sutras to unpack terse aphorisms.\n\nThe distinction matters because Jain canonical and philosophical texts frequently use compact, technical phrasing. A single term—such as *jīva*, *ajīva*, *lesyā*, or *nirjarā*—may carry layers of meaning. Quoting preserves these layers; paraphrasing interprets them. Responsible scholarship and tradition-aware study require both modes, used with transparency and proper citation. This ensures that readers can distinguish between what a text *says* and what an interpreter *explains*.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; Śvetāmbara canon",
+      "original_text": "𑀅𑀘𑀸𑀭𑀁𑀕𑀁 𑀲𑀼𑀢𑁆𑀭𑀸 𑀫𑀸 𑀲𑀺𑀢𑀺",
+      "transliteration": "acāraṃgaṃ sūtrā mā siti",
+      "translation": "“Thus have I heard: the discipline is to be practiced with vigilance.”",
+      "notes": "This brief line illustrates quotation: the original Prakrit wording is preserved. A paraphrase would explain the meaning—e.g., that the text emphasizes mindful conduct—but would not reproduce the original phrasing."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "A quotation preserves the sutra exactly. A paraphrase might say: “Liberation is attained through cultivating correct worldview, understanding, and ethical behavior.” The paraphrase conveys meaning but not the sutra’s precise structure."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "णिज्जम्मसुद्धो जीवो",
+      "transliteration": "nijjamma-suddho jīvo",
+      "translation": "“The soul is pure by its own nature.”",
+      "notes": "Commentaries often paraphrase this line to explain that impurities arise from karmic association, not from the soul’s essence. The paraphrase expands doctrinal implications but is not a verbatim reproduction."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "A paraphrase is just a shorter quotation.",
+      "reality": "A paraphrase is an interpretive restatement in new words. It may be longer or shorter than the original, but it is never identical wording."
+    },
+    {
+      "myth": "Quoting a Jain text in English is still an exact quotation.",
+      "reality": "A true quotation preserves the original language. An English rendering is a translation, which already involves interpretive choices."
+    },
+    {
+      "myth": "Paraphrasing canonical texts is less respectful or less authoritative.",
+      "reality": "Traditional Jain commentaries frequently paraphrase sutras to clarify meaning. Both quotation and paraphrase are legitimate when used transparently."
+    },
+    {
+      "myth": "If a passage is paraphrased, it does not need citation.",
+      "reality": "Paraphrases still require clear citation of the source to avoid misrepresentation and to maintain scholarly integrity."
+    }
+  ]
+}

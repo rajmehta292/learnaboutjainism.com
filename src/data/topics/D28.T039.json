@@ -1,0 +1,19 @@
+{
+  "overview": "Pindaniryukti is a significant text within the Jain tradition, attributed to the revered Acharya Bhadrabahu. This text is part of the Niryukti literature, which serves as a commentary in verse form on the canonical texts, particularly those of the Svetambara sect. Pindaniryukti provides insights into the rules and practices surrounding the collection of alms, a critical aspect of the monastic lifestyle. It delves into the ethics, methods, and spiritual significance of alms-gathering, emphasizing non-attachment and the sustenance of the body solely for spiritual progress. The text is also instrumental in understanding the historical and cultural contexts of ancient Jain monastic practices.",
+  "primary_sources": [
+    {
+      "title": "Pindaniryukti",
+      "author": "Acharya Bhadrabahu",
+      "original_text": "पिण्डनिर्युक्ति",
+      "transliteration": "Pindaniryukti",
+      "translation": "The Treatise on Alms",
+      "notes": "The text serves as a critical commentary on the practice of alms collection, offering insights into monastic discipline and the Jain understanding of non-possession."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Pindaniryukti dictates alms collection for all Jains.",
+      "reality": "Pindaniryukti specifically addresses monastic practitioners within the Jain tradition, outlining the principles and practices applicable to monks and nuns, rather than laypeople."
+    }
+  ]
+}

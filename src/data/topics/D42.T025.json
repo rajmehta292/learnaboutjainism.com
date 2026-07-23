@@ -1,0 +1,43 @@
+{
+  "overview": "Sectarian variation in Jainism refers to the historical, doctrinal, ritual, linguistic, and monastic differences that emerged among Jain communities over more than two millennia. While all Jain traditions affirm the core teachings of the Jinas—nonviolence (ahiṃsā), non-possession (aparigraha), the reality of karma, and the path to liberation—they developed distinct interpretations of scripture, monastic codes, ritual practice, and community organization. These variations are not merely disagreements; they reflect regional histories, manuscript transmission, differing responses to social change, and diverse hermeneutical approaches to Prakrit and Sanskrit canonical materials.\n\nThe major sectarian families include Digambara and Śvetāmbara, each with further sub‑traditions such as Mūrtipūjaka, Sthānakavāsī, and Terāpanth within Śvetāmbara, and various bhaṭṭāraka and monastic lineages within Digambara. Sectarian variation also appears in the interpretation of nudity as a monastic ideal, the status of canonical texts, the role of images in worship, the nature of kevalajñāna, and the historical memory of early councils. Despite these differences, Jain sects share a deep commitment to the ethical and metaphysical foundations of the tradition, and modern scholarship emphasizes that sectarian identities often overlap in practice, especially among lay communities.\n\nUnderstanding sectarian variation requires careful attention to primary sources, commentarial traditions, and manuscript history. It also requires acknowledging areas where evidence is incomplete or where traditions preserve divergent accounts. Sectarian variation is therefore best approached as a dynamic, historically layered phenomenon rather than a set of rigid divisions.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to the Śvetāmbara canon redactors",
+      "original_text": "𑀅𑀘𑀸𑀭𑀸𑀁𑀕𑀁 𑀲𑀽𑀢𑁆𑀭",
+      "transliteration": "ācārāṅgaṃ sūtra",
+      "translation": "“The scripture on conduct.” (Representative line: ‘Na hiṃsayā savva‑pāṇe’ — ‘One should not harm any living being.’)",
+      "notes": "Tier A canonical text for Śvetāmbara traditions. Digambara traditions accept much of its content but maintain that their own versions of early scriptures were lost. Sectarian variation arises in how monastic conduct rules are interpreted and which recension is considered authoritative."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "𑀲𑀝𑀓𑀁𑀥𑀸𑀕𑀫",
+      "transliteration": "ṣaṭkhaṅḍāgama",
+      "translation": "“The scripture of six sections.” (Representative line: ‘Jīva‑karma‑bandhaḥ’ — ‘The soul is bound by karma.’)",
+      "notes": "Tier A Digambara canonical text. Central to Digambara karma theory. Śvetāmbara traditions do not use this text, illustrating sectarian divergence in scriptural canons."
+    },
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "𑀓𑀮𑀧𑀲𑀽𑀢𑁆𑀭",
+      "transliteration": "kalpa‑sūtra",
+      "translation": "“The ritual manual.” (Representative line: ‘Vīra‑nirvāṇa‑samayaṃ’ — ‘The time of the nirvāṇa of Vīra.’)",
+      "notes": "Śvetāmbara Mūrtipūjaka ritual text used during Paryuṣaṇa. Digambara traditions do not accept it as canonical, reflecting sectarian differences in ritual authority."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sectarian differences mean that Jain sects disagree on fundamental principles.",
+      "reality": "All Jain sects affirm the core teachings of the Jinas, including nonviolence, karma theory, and the path to liberation. Differences arise in interpretation, practice, and textual transmission, not in foundational metaphysics."
+    },
+    {
+      "myth": "Digambara and Śvetāmbara sects formed because of a single historical dispute.",
+      "reality": "Modern scholarship shows that sectarian formation was gradual, shaped by regional developments, manuscript loss, differing monastic rules, and evolving ritual practices over centuries."
+    },
+    {
+      "myth": "Image worship is universally accepted or universally rejected within Jainism.",
+      "reality": "Image worship is central to Digambara and Śvetāmbara Mūrtipūjaka traditions, while Sthānakavāsī and Terāpanth Śvetāmbara communities emphasize non‑iconic practice. These differences reflect distinct interpretations of early teachings, not a rejection of core Jain values."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "overview": "The International Standard Book Number (ISBN) is a globally recognized numeric identifier used to uniquely distinguish books and certain book-like products in the commercial and library ecosystem. It was introduced in 1970 as a 10-digit code and later expanded to a 13-digit format in 2007 to harmonize with the EAN-13 barcode system used in retail. An ISBN is assigned to each distinct edition and format of a work—for example, hardcover, paperback, ebook, and audiobook versions of the same title each receive their own ISBN—so that they can be unambiguously identified, ordered, cataloged, and tracked.\n\nStructurally, a modern ISBN-13 consists of five logical elements, usually separated by hyphens or spaces: the prefix element (currently 978 or 979), the registration group element (indicating a country, region, or language area), the registrant element (identifying the publisher or imprint), the publication element (identifying a specific edition and format), and a final check digit. The check digit is calculated using a defined mathematical formula to detect common transcription errors. This structure allows the ISBN system to encode both the identity of the work and the publisher, which is crucial for distribution, rights management, and metadata exchange.\n\nThe ISBN system is governed by the International ISBN Agency, headquartered in London, which oversees the standard defined in ISO 2108 and delegates responsibility to national or regional ISBN agencies. Publishers and self-publishers obtain blocks of ISBNs from their local agency and are responsible for assigning them correctly to their publications. The system is designed for books and book-like products made available to the public; internal documents, ephemeral materials, or items not intended for sale typically do not receive ISBNs. While an ISBN is often represented in machine-readable form via a barcode on the back cover of a book, the ISBN itself is the number, not the barcode.\n\nHistorically, the move from ISBN-10 to ISBN-13 addressed the need for a larger numbering capacity and closer integration with global retail systems. ISBN-10 used a different check-digit algorithm and did not include the 3-digit prefix element. Existing ISBN-10 numbers were converted to ISBN-13 by prefixing 978 and recalculating the check digit. Today, ISBNs are central to the publishing supply chain: they support cataloging in libraries, discovery in online bookstores, inventory management in physical shops, and interoperability among databases and metadata services. They do not, however, encode information about the content’s quality, genre, or rights status; they are purely identifiers.\n\nIn practice, the presence of a valid ISBN helps readers, booksellers, librarians, and distributors avoid confusion between similar titles, track specific editions, and ensure that orders and citations refer to the correct work. For authors and publishers, proper use of ISBNs is a basic requirement for professional participation in the global book trade. As digital formats and new distribution channels have expanded, the ISBN system has adapted by treating each format as a distinct product, while maintaining the same underlying principles of uniqueness, structured allocation, and international coordination.",
+  "primary_sources": [
+    {
+      "title": "ISO 2108: Information and documentation — International Standard Book Number (ISBN)",
+      "author": "International Organization for Standardization",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This international standard defines the structure, assignment rules, and use of the International Standard Book Number (ISBN) as a unique identifier for monographic publications and certain related products.",
+      "notes": "ISO 2108 is the primary normative document governing the ISBN system. It specifies the 13-digit format, the roles of the International ISBN Agency and national agencies, the composition of the prefix, registration group, registrant, publication elements, and the check digit calculation. It also clarifies which types of publications are eligible for ISBNs and sets out responsibilities for publishers and agencies."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "An ISBN identifies the content of a book, including its subject, quality, or rights status.",
+      "reality": "An ISBN is purely an identifier. It encodes information about the publisher, registration group, and specific edition or format, but it does not describe the book’s subject matter, evaluate its quality, or indicate copyright or licensing details."
+    },
+    {
+      "myth": "All versions of a book share the same ISBN, regardless of format or edition.",
+      "reality": "Each distinct format and edition of a book—such as hardcover, paperback, ebook, or revised edition—must have its own ISBN. Only unchanged reprints of the same edition retain the same ISBN."
+    },
+    {
+      "myth": "An ISBN is the same thing as a barcode on the back of a book.",
+      "reality": "The ISBN is the number itself. It is often encoded into an EAN-13 barcode for scanning in retail environments, but the barcode is just a machine-readable representation of the ISBN and price information, not the identifier itself."
+    },
+    {
+      "myth": "Self-published authors can use any number they like as an ISBN, or buy ISBNs from any company without consequences.",
+      "reality": "ISBNs must be obtained from an official national or regional ISBN agency. Using numbers not issued by an authorized agency, or buying ISBNs from unofficial intermediaries, can lead to incorrect publisher identification and problems in the publishing supply chain, including cataloging and distribution errors."
+    },
+    {
+      "myth": "Since the system changed to 13 digits, older 10-digit ISBNs are invalid and cannot be used.",
+      "reality": "ISBN-10 numbers assigned before 2007 remain valid and can be converted to ISBN-13 by adding the 978 prefix and recalculating the check digit. Many databases and systems support both formats, though new assignments are always 13-digit."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "Alocanā (also spelled *ālocanā*) is a foundational practice in Jain lay and monastic discipline, referring to the act of confessing one’s faults before a qualified teacher or senior practitioner. In classical Jain usage, the term appears in both Śvetāmbara and Digambara sources, though with differences in procedure and ritual framing. At its core, alocanā is a reflective, truth‑telling practice meant to purify the mind, acknowledge lapses in vows, and restore attentiveness to ethical conduct.\n\nIn the broader Jain ethical system, alocanā is paired with *pratikramaṇa* (the systematic review of one’s actions) and *pratyākhyāna* (renewed resolve or renunciation of harmful actions). While pratikramaṇa is introspective and often performed individually, alocanā specifically requires disclosure to another person—traditionally a monk, nun, or senior lay teacher—who is considered capable of guiding the practitioner toward clarity and restraint. Because Jainism emphasizes intentionality (*bhāva*) as the root of karmic bondage, alocanā functions as a corrective process: by openly acknowledging faults, the practitioner reduces the karmic weight associated with concealment (*gupti*) and delusion (*mithyātva*).\n\nAcross traditions, alocanā is not a sacrament, absolution, or ritual forgiveness. Instead, it is a disciplined ethical exercise grounded in self‑awareness, humility, and accountability. Śvetāmbara Mūrti‑pūjaka communities often integrate alocanā into daily or fortnightly pratikramaṇa, whereas Sthānakavāsī and Terāpanth traditions emphasize its role in non‑iconic, introspective practice. Digambara texts describe alocanā as part of the monastic *āvaśyaka* duties, with laypeople performing simplified versions. In all cases, the purpose remains the same: to reduce karmic accumulation by removing the mental burden of hidden faults.\n\nModern Jain teachers describe alocanā as a psychological and ethical tool that encourages transparency, reduces guilt, and strengthens commitment to non‑violence, truthfulness, and restraint. However, classical sources maintain clear boundaries: alocanā must be voluntary, non‑coercive, and conducted with a qualified guide. It is not a substitute for professional mental‑health or legal assistance, and it does not override personal safety or wellbeing.",
+  "primary_sources": [
+    {
+      "title": "Āvaśyaka Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "अलोचना-कारणं पापस्य निवृत्तिः",
+      "transliteration": "alocanā-kāraṇaṃ pāpasya nivṛttiḥ",
+      "translation": "“The purpose of alocanā is the cessation of sin (fault).”",
+      "notes": "This line appears in the context of the six obligatory duties (*āvaśyaka*) and frames alocanā as a confessional act that removes karmic burden. Editions vary, and some manuscripts include expanded descriptions of the types of faults to be confessed."
+    },
+    {
+      "title": "Tattvārtha Sūtra (with Digambara and Śvetāmbara commentaries)",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "प्रतिक्रमणालोचनप्रत्याख्यानानि च",
+      "transliteration": "pratikramaṇālocanapratyākhyānāni ca",
+      "translation": "“There are pratikramaṇa, alocanā, and pratyākhyāna.”",
+      "notes": "This sutra (TS 7.16 in many editions) lists the three core practices related to the removal of transgressions. Commentaries by Pūjyapāda (Digambara) and Siddhasena (Śvetāmbara) explain alocanā as verbal confession before a teacher, distinguishing it from internal reflection."
+    },
+    {
+      "title": "Mūlācāra",
+      "author": "Vattakera (Digambara)",
+      "original_text": "अलोचना गुरवे निवेदनीया",
+      "transliteration": "alocanā gurave nivedanīyā",
+      "translation": "“Alocanā is to be submitted to the teacher.”",
+      "notes": "The Mūlācāra outlines monastic conduct and emphasizes that confession must be directed to a qualified guru. Digambara commentators note that this prevents self‑deception and reinforces discipline."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Alocanā is a ritual of absolution where a teacher forgives sins.",
+      "reality": "Jain doctrine does not include absolution by another person. Alocanā is a self‑driven ethical disclosure meant to reduce karmic effects by removing concealment, not a ritual of forgiveness."
+    },
+    {
+      "myth": "Alocanā is only for monks and nuns.",
+      "reality": "While monastic texts describe detailed procedures, laypeople also practice alocanā—often in simplified forms—during pratikramaṇa or when seeking guidance from knowledgeable teachers."
+    },
+    {
+      "myth": "Alocanā requires revealing every personal detail or private matter.",
+      "reality": "Classical sources specify confession of ethical lapses related to vows and conduct. They do not mandate disclosure of unrelated personal information, and modern safety guidelines emphasize voluntary, non‑coercive practice."
+    }
+  ]
+}

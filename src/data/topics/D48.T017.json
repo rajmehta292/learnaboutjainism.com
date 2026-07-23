@@ -1,0 +1,31 @@
+{
+  "overview": "Flashcards are compact study aids that present information in a two‑sided format, typically with a prompt, term, or question on one side and an answer, definition, or explanation on the other. Their core purpose is to strengthen memory through active recall and spaced repetition—two learning mechanisms well supported in cognitive science. Flashcards can be physical cards made of paper or digital cards stored in specialized applications.\n\nIn academic and religious studies, including Jain studies, flashcards help learners break down complex material—terminology, doctrinal categories, historical timelines, Prakrit/Sanskrit vocabulary—into manageable units. Because each card isolates a single concept, students can repeatedly test themselves, identify weak areas, and gradually build mastery.\n\nFlashcards are also adaptable: they can include images, transliterations, short quotations, or hierarchical structures. In traditions with technical taxonomies—such as karma theory, gunasthanas, or canonical terminology—flashcards allow learners to review material without altering or oversimplifying the underlying sources. They are not substitutes for primary texts or commentaries but serve as memory scaffolds that support deeper reading and reflection.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "ज्ञानावरणीयं कर्म",
+      "transliteration": "jñānāvaraṇīyaṃ karma",
+      "translation": "The knowledge‑obscuring karma.",
+      "notes": "This sūtra (Tattvārthasūtra 8.1) is an example of a concise canonical statement often used in study materials. Flashcards may present such short sūtras alongside definitions from approved commentaries, but the card itself must not replace full study of the text."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "णियमो सारा",
+      "transliteration": "ṇiyamo sārā",
+      "translation": "The essence is restraint.",
+      "notes": "A brief aphoristic line from a Digambara canonical‑adjacent text. Flashcards may help students remember key aphorisms, but interpretation requires guidance from traditional commentaries."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Flashcards oversimplify religious or philosophical study and therefore distort doctrine.",
+      "reality": "Flashcards are memory tools, not interpretive authorities. When used responsibly—paired with primary texts, commentaries, and qualified teachers—they help learners retain terminology and structure without replacing deeper study."
+    },
+    {
+      "myth": "Flashcards are only useful for rote memorization and cannot support conceptual understanding.",
+      "reality": "While flashcards emphasize recall, they can also reinforce conceptual frameworks when designed with layered prompts, cross‑references, and contextual notes. They support understanding when integrated into a broader study plan."
+    }
+  ]
+}

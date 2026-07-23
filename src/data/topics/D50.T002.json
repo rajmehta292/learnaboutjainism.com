@@ -1,0 +1,59 @@
+{
+  "overview": "In Jain studies, the term “traditional sources” refers to the layered corpus of canonical scriptures, commentarial literature, sectarian compilations, and scholastic works that have shaped Jain doctrine, practice, and identity over more than two millennia. These sources are not uniform: they differ by sect (Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, Terāpanth), by linguistic era (Ardhamāgadhī, Śaurasenī, Sanskrit, Apabhraṃśa), and by the degree of preservation or loss. Traditional sources also include ritual manuals, monastic codes, narrative literature, and philosophical treatises that provide context for how doctrines such as ahiṃsā, anekāntavāda, karma theory, and the path of liberation were understood in different periods.\n\nWithin the Jain tradition, authority is tiered. Canonical texts (āgamas for Śvetāmbaras; preserved śāstras for Digambaras) hold the highest status, followed by early commentaries, medieval scholastic syntheses, and later sectarian expositions. Because the transmission history is complex—marked by debates over authenticity, loss of manuscripts, and divergent redaction traditions—traditional sources must be studied with attention to provenance, sectarian context, and manuscript evidence. Modern critical editions and peer-reviewed scholarship help clarify variant readings, historical development, and doctrinal disagreements.\n\nTraditional sources also include narrative works such as the *Kalpasūtra*, *Paumacariya*, and *Mahāpurāṇa*, which provide mythic and historical frameworks for Jain cosmology and ethics. Philosophical treatises like Umāsvāti’s *Tattvārthasūtra* and Kundakunda’s *Samayasāra* articulate core metaphysical principles. Monastic codes such as the *Chedasūtras* and Digambara *Mūlācāras* regulate conduct and discipline. Together, these sources form the backbone of Jain intellectual and religious life, offering insight into both doctrinal foundations and lived practice.\n\nBecause Jainism emphasizes non-absolutism (anekāntavāda), traditional sources often preserve multiple viewpoints, interpretive layers, and sectarian debates. A responsible study of these materials requires distinguishing between direct quotations, paraphrase, commentary, and later interpretation, while acknowledging uncertainties in transmission and translation. Traditional sources remain central to understanding Jain ethics, cosmology, liberation theory, and the evolution of Jain communities across history.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to early Jain community; associated with Mahāvīra’s teachings",
+      "original_text": "“ṇa yaṃ kiṃci pāṇāṇaṃ ghāe”",
+      "transliteration": "ṇa yaṃ kiṃci pāṇāṇaṃ ghāe",
+      "translation": "“One should not injure any living being.”",
+      "notes": "A Śvetāmbara canonical text (Tier A) focusing on monastic conduct and the foundational principle of ahiṃsā. Preserved in Ardhamāgadhī; Digambara tradition considers the canonical corpus lost."
+    },
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi (sectarian attribution debated)",
+      "original_text": "“samyagdarśanajñānacāritrāṇi mokṣamārgaḥ”",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "A pan-Jain philosophical treatise (Tier A/B) accepted by both Digambara and Śvetāmbara traditions, though commentaries differ. Central to Jain metaphysics and soteriology."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Kundakunda",
+      "original_text": "“jīvo paramatthena suddho”",
+      "transliteration": "jīvo paramatthena śuddho",
+      "translation": "“The soul is pure in its highest reality.”",
+      "notes": "A Digambara foundational text (Tier A/B) emphasizing the distinction between the pure soul and karmic bondage. Widely commented upon in medieval Digambara literature."
+    },
+    {
+      "title": "Kalpasūtra",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "Short ritual and biographical passages; full text not quoted due to copyright restrictions.",
+      "transliteration": "",
+      "translation": "Contains accounts of Mahāvīra’s life, monastic rules for Paryuṣaṇa, and genealogies of teachers.",
+      "notes": "A Śvetāmbara Mūrti-pūjaka ritual and biographical text (Tier B/C). Used during Paryuṣaṇa; not part of Digambara canon."
+    },
+    {
+      "title": "Mūlācāra",
+      "author": "Vattakera",
+      "original_text": "Selected verses regulate monastic conduct; full text not quoted due to copyright restrictions.",
+      "transliteration": "",
+      "translation": "Outlines Digambara monastic discipline, including rules for movement, speech, and austerities.",
+      "notes": "A Digambara monastic code (Tier B). Important for understanding sectarian differences in ascetic practice."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain sects share the same canonical scriptures.",
+      "reality": "Śvetāmbara traditions preserve an extensive āgama canon, while Digambaras hold that the original canon was lost and rely on later śāstras such as Kundakunda’s works and Umāsvāti’s *Tattvārthasūtra*."
+    },
+    {
+      "myth": "Traditional sources present a single, unified interpretation of Jain doctrine.",
+      "reality": "Jain literature preserves multiple viewpoints, debates, and sectarian interpretations. Anekāntavāda encourages recognition of partial perspectives, so doctrinal diversity is expected."
+    },
+    {
+      "myth": "Narrative texts like the *Kalpasūtra* or *Paumacariya* are purely historical records.",
+      "reality": "These works blend history, myth, ritual, and sectarian theology. They must be read with attention to genre, symbolism, and redaction history."
+    }
+  ]
+}

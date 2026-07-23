@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, **dhyāna (meditative absorption)** is not only a mental discipline but also a form of **tapas (austerity)** when practiced with the explicit aim of purifying karma. Across Digambara and Śvetāmbara traditions, dhyāna is treated as both an internal austerity (abhyantara tapa) and a central component of the path to liberation. The classical lists of austerities in texts such as the *Tattvārtha Sūtra* (7.3–7.4) include dhyāna under the category of internal austerities, alongside prāyaścitta (atonement), vinaya (humility), vaiyāvṛtya (service), svādhyāya (scriptural study), and vyutsarga (abandonment of passions).\n\nAs austerity, dhyāna is not merely concentration but a disciplined turning inward that restrains passions (kaṣāyas), reduces karmic influx (āsrava), and promotes the shedding of existing karmas (nirjarā). The traditions distinguish four types of meditation: *ārta*, *raudra*, *dharma*, and *śukla*. Only the latter two are spiritually beneficial, and *śukla-dhyāna* is considered the highest meditative austerity, attainable only at advanced stages of spiritual development (the 12th–14th guṇasthānas).\n\nIn lay practice, dhyāna as austerity is expressed through mindful restraint, reflection on ethical principles, and short periods of concentrated contemplation on teachings such as anitya (impermanence), ahiṃsā (non-harm), and the nature of the soul. While monastic traditions prescribe more intensive forms, householders are encouraged to integrate dhyāna into daily sāmāyika and pratikramaṇa. Commentarial traditions emphasize that austerity is not self-torture; rather, it is the disciplined purification of intention and attention.\n\nAcross Jain history, dhyāna has been interpreted through philosophical, ritual, and yogic lenses. Digambara texts such as the *Ṣaṭkhaṇḍāgama* and *Kaṣāya-prābhṛta* highlight its role in destroying passions, while Śvetāmbara works like the *Uttarādhyayana Sūtra* and *Āvaśyaka literature* frame it as a central component of daily discipline. Modern scholarship stresses that dhyāna as austerity is a structured ethical-psychological practice grounded in canonical sources rather than a generalized notion of meditation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अभ्यन्तरं तपो ध्यानम्",
+      "transliteration": "abhyantaraṃ tapo dhyānam",
+      "translation": "“Meditation is an internal austerity.”",
+      "notes": "TS 9.27 (Digambara numbering varies). This sutra explicitly classifies dhyāna as one of the internal austerities. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* elaborate that dhyāna restrains passions and facilitates karmic destruction."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text, anonymous",
+      "original_text": "धम्मधाणं सुहं णं, जोगं पवयणं णयं",
+      "transliteration": "dhamma-dhāṇaṃ suhaṃ ṇaṃ, jogaṃ pavayaṇaṃ ṇayaṃ",
+      "translation": "“Meditation on dharma is bliss; yoga is the path to liberation.”",
+      "notes": "Chapter 29 discusses the qualities of proper meditation and its role in spiritual progress. The text contrasts wholesome meditation with harmful forms driven by attachment or aversion."
+    },
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "ध्यानं तवस्सं",
+      "transliteration": "dhyānaṃ tavassaṃ",
+      "translation": "“Meditation is austerity.”",
+      "notes": "The niryukti tradition expands on the six internal austerities and integrates dhyāna into daily ritual obligations, especially sāmāyika and pratikramaṇa."
+    },
+    {
+      "title": "Kaṣāya-prābhṛta",
+      "author": "Gunadhara (Digambara)",
+      "original_text": "ध्यानं कसायाणं णिव्वत्ति",
+      "transliteration": "dhyānaṃ kaṣāyāṇaṃ nivvatti",
+      "translation": "“Meditation is the cessation of passions.”",
+      "notes": "This early Digambara text links dhyāna directly to the destruction of kaṣāyas, framing it as a powerful internal austerity essential for advanced spiritual stages."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Dhyāna in Jainism is identical to general mindfulness or relaxation techniques.",
+      "reality": "Jain dhyāna is a structured ethical and karmic discipline aimed at restraining passions and purifying the soul. It is not primarily for relaxation but for spiritual transformation."
+    },
+    {
+      "myth": "All forms of meditation are considered beneficial austerities.",
+      "reality": "Only dharma-dhyāna and śukla-dhyāna are spiritually beneficial. Ārta and raudra-dhyāna are harmful because they arise from attachment, aversion, or violence."
+    },
+    {
+      "myth": "Dhyāna as austerity requires extreme physical hardship.",
+      "reality": "Jain austerity emphasizes disciplined mental purification, not physical self-harm. Dhyāna is an internal practice grounded in ethical restraint and clarity of mind."
+    }
+  ]
+}

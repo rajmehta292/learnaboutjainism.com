@@ -1,0 +1,43 @@
+{
+  "overview": "Sankramana (also spelled *saṅkramaṇa*) is a technical term in Jain karma theory referring to the **transmission or transfer of karmic fruition from one locus to another within the same soul**, not between different souls. It appears primarily in Digambara and Śvetāmbara scholastic discussions of karma‑bandha (bondage), udaya (fruition), and the dynamics of how karmic particles modify consciousness. The term is most commonly used when explaining how one type of karmic result can intensify, diminish, or shift due to the activation of another karmic category.\n\nIn classical Jain ontology, karma is a material substance (*pudgala*) that binds to the soul (*jīva*) due to passions and activities. When karmas mature, they produce specific experiences—pleasure, pain, delusion, lifespan, body, status, and so on. Sankramana describes the **internal reconfiguration** of these karmic effects: how the fruition of one karma can influence the manifestation of another, or how karmic potency moves from latent to active states. It is therefore a concept used to clarify the mechanics of karmic interaction, especially in advanced discussions of the *Gunasthāna* (stages of spiritual development).\n\nJain philosophers use sankramana to explain why karmic results may appear sequentially, overlap, or shift in intensity even though karmas are bound at different times. It is not a mystical transfer but a doctrinal explanation of how karmic matter behaves according to fixed rules described in canonical and post‑canonical texts. The term is closely related to *udaya*, *anubhāga*, *sthiti*, and *udīraṇa*, forming part of the technical vocabulary of Jain karma theory.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "कर्मणामुदयबन्धस्थित्यनुभागानां संक्रामणम्",
+      "transliteration": "karmaṇām udaya-bandha-sthiti-anubhāgānāṃ saṅkrāmaṇam",
+      "translation": "The shifting (sankramana) of karmas occurs with respect to their fruition, bondage, duration, and intensity.",
+      "notes": "This line appears in commentarial traditions rather than the root sutras themselves; the concept is discussed in the *Sarvārthasiddhi* commentary (Śvetāmbara) and Digambara expositions such as Pūjyapāda’s *Sarvārthasiddhi* and Akalaṅka’s works. It is used to explain how karmic states transition internally."
+    },
+    {
+      "title": "Gommatasāra (Karmakāṇḍa)",
+      "author": "Nemichandra Siddhānta Chakravartin",
+      "original_text": "संक्रमणं नाम कर्मफलस्यान्तरवृत्तिः",
+      "transliteration": "saṅkramaṇaṃ nāma karma-phalasya antaravṛttiḥ",
+      "translation": "Sankramana is the internal movement or shift of karmic results.",
+      "notes": "A Digambara technical text detailing the nature of karmic matter. Sankramana is explained as the internal adjustment of karmic fruition without implying any transfer between souls."
+    },
+    {
+      "title": "Karmaprakṛti (as cited in later commentaries)",
+      "author": "Attributed to Devendra or other early scholastics",
+      "original_text": "उदयस्थस्य कर्मणः संक्रामणं भवति",
+      "transliteration": "udayasthasya karmaṇaḥ saṅkrāmaṇaṃ bhavati",
+      "translation": "Sankramana occurs in the karma that has reached the stage of fruition.",
+      "notes": "Used in scholastic discussions to clarify that sankramana applies to karmas in or near the stage of activation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sankramana means karmas move from one soul to another.",
+      "reality": "Jain doctrine explicitly denies any transfer of karma between souls. Sankramana refers only to internal shifts within the same soul’s karmic complex."
+    },
+    {
+      "myth": "Sankramana is a supernatural or miraculous process.",
+      "reality": "Classical Jain texts describe sankramana as a natural, rule‑governed behavior of karmic matter, consistent with the broader Jain metaphysics of pudgala."
+    },
+    {
+      "myth": "Sankramana allows karmas to be removed without austerity or right conduct.",
+      "reality": "Sankramana does not eliminate karma; it only explains how karmic effects shift. Removal of karma requires *nirjarā* through austerity and the cessation of new bondage through *saṃvara*."
+    }
+  ]
+}

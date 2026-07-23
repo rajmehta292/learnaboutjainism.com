@@ -1,0 +1,75 @@
+{
+  "overview": "Digambara (Sanskrit: दिगम्बर, digambara, “sky-clad”) is one of the two principal sects of Jainism, alongside Śvetāmbara (“white-clad”). The term combines dik (direction, space, sky) and ambara (garment), expressing the ideal that the monk’s only ‘clothing’ is the open sky, symbolizing radical non-possession and complete detachment from material objects. [[0]](https://en.wikipedia.org/wiki/Digambara) [[1]](https://www.wikiwand.com/en/articles/Digambar_Jain)\n\nHistorically, Digambara communities consolidated mainly in the Deccan and southern India, especially in present-day Karnataka and parts of Tamil Nadu, while also maintaining strong presences in central and northern regions such as Madhya Pradesh, Maharashtra, Rajasthan, Uttar Pradesh, Delhi, Bihar, and Jharkhand. [[2]](https://www.britannica.com/topic/Jainism/Early-medieval-developments-500-1100) [[1]](https://www.wikiwand.com/en/articles/Digambar_Jain) Epigraphic and literary evidence shows that Digambara monks and scholars were closely connected with ruling dynasties like the Gangas, Rashtrakutas, and Hoysalas, who patronized Jain temples, monasteries, and philosophical literature. The colossal statue of Bahubali (Gommateśvara) at Śravaṇabeḷagoḷa, commissioned by the Ganga general Cāmuṇḍarāya in the 10th century, is a famous monument of Digambara devotion and art. [[2]](https://www.britannica.com/topic/Jainism/Early-medieval-developments-500-1100)\n\nTraditional narratives about the origin of the Digambara–Śvetāmbara division are themselves sectarian and historically layered. A well-known Digambara account places the schism around the 4th century BCE, during a famine in the time of Candragupta Maurya, when the leader Bhadrabāhu is said to have migrated south with a group of monks who maintained nudity, while Sthūlabhadra in the north permitted white robes. [[3]](https://www.britannica.com/topic/Digambara) [[4]](https://en.bharatpedia.org/wiki/Digambara_Jainism) Modern scholarship, however, suggests that the differentiation of the two sects was gradual and became formalized by the 5th century CE, especially after the Council of Valabhī (453/466 CE), where Śvetāmbara scriptures were codified without Digambara participation. [[3]](https://www.britannica.com/topic/Digambara)\n\nDoctrinally, Digambaras share the core Jain philosophical framework—non-violence (ahiṃsā), non-attachment (aparigraha), karma theory, the path of right faith, knowledge, and conduct, and the goal of liberation (mokṣa). Yet they articulate distinctive positions on certain issues. For example, Digambaras hold that a fully perfected being (kevalin) does not require food, that Mahāvīra never married, and that women cannot attain liberation in a female body and must be reborn as men before achieving mokṣa. [[3]](https://www.britannica.com/topic/Digambara) [[1]](https://www.wikiwand.com/en/articles/Digambar_Jain) These views contrast with Śvetāmbara interpretations, which allow for clothed monks, affirm that kevalins may still eat, and maintain that women and eunuchs can attain liberation.\n\nMonastic practice is central to Digambara identity. Ideal Digambara monks renounce all possessions, including clothing, and live as naked ascetics, though in contemporary practice there are also partially clothed ascetics in some contexts. They carry a community-owned picchī (a broom made of fallen peacock feathers) to gently sweep the ground before sitting or walking, thereby avoiding harm to small living beings, and they may use a small water gourd for drinking. [[0]](https://en.wikipedia.org/wiki/Digambara) [[4]](https://en.bharatpedia.org/wiki/Digambara_Jainism) Monks beg for food, typically eating once a day, and follow strict rules of non-violence, truthfulness, non-stealing, celibacy, and non-possession. Bathing is generally avoided, partly because it is seen as a worldly concern and partly to prevent harm to organisms in the water. [[3]](https://www.britannica.com/topic/Digambara)\n\nDigambara literature, as far as surviving manuscripts show, is traceable from roughly the mid–first millennium CE onward. The earliest extant Digambara scripture is the Ṣaṭkhaṅḍāgama (“Scripture in Six Parts”), attributed to the teacher Dharaśena and preserved in the famous Moodabidri manuscripts. [[0]](https://en.wikipedia.org/wiki/Digambara) [[4]](https://en.bharatpedia.org/wiki/Digambara_Jainism) Another foundational text is the Kaṣāyapāhuḍa, dealing with passions (kaṣāya) and their role in bondage and liberation. Later, the works of the monk-scholar Kundakunda—such as Samayasāra, Pravacanasāra, and Niyamasāra—became central to Digambara philosophical reflection on the nature of the self, right faith, and conduct. [[0]](https://en.wikipedia.org/wiki/Digambara) [[4]](https://en.bharatpedia.org/wiki/Digambara_Jainism) Digambara authors also contributed to commentarial traditions on the Tattvārthasūtra, a text accepted across Jain sects, and produced extensive literature in Prakrit, Sanskrit, and regional languages like Kannada.\n\nIn ritual and iconography, Digambara temples typically depict the Tīrthaṅkaras in a standing or seated posture without clothing, emphasizing the ideal of complete renunciation. The images are usually unadorned, without jewelry or elaborate garments, and the eyes are often left unpainted, in contrast to many Śvetāmbara images. [[4]](https://en.bharatpedia.org/wiki/Digambara_Jainism) [[1]](https://www.wikiwand.com/en/articles/Digambar_Jain) Worship practices include circumambulation, offering of flowers and lamps, recitation of hymns, and meditation, but the theological focus remains on the qualities of the liberated beings rather than on petitionary prayer.\n\nWithin Digambara Jainism, there are further sub-traditions and lineages, including different monastic orders and regional styles of practice. Over time, Digambara communities have engaged with modernity, education, and social change, while continuing to uphold the central ideals of non-violence, ascetic discipline, and spiritual liberation. Contemporary Digambara laypeople generally wear normal clothing, follow household vows (aṇuvrata), support monastic communities, and participate in festivals such as Mahāvīra Jayantī and Diwali, integrating ancient ascetic ideals with modern family and professional life.",
+  "primary_sources": [
+    {
+      "title": "Ṣaṭkhaṅḍāgama",
+      "author": "Traditionally Dharaśena; compiled by Puṣpadanta and Bhūtabali",
+      "original_text": "प्रथमं खण्डं सम्यग्दर्शनलक्षणं।",
+      "transliteration": "prathamaṃ khaṇḍaṃ samyagdarśana-lakṣaṇam.",
+      "translation": "The first section concerns the characteristics of right faith.",
+      "notes": "The Ṣaṭkhaṅḍāgama (“Scripture in Six Parts”) is regarded as the earliest extant Digambara canonical text, preserved in the Moodabidri manuscripts. It analyzes the structure of karma, the categories of reality (dravya), and the stages of spiritual development, forming a technical foundation for later Digambara doctrine. [[0]](https://en.wikipedia.org/wiki/Digambara) [[4]](https://en.bharatpedia.org/wiki/Digambara_Jainism)"
+    },
+    {
+      "title": "Kaṣāyapāhuḍa",
+      "author": "Guṇabhadra (traditionally associated)",
+      "original_text": "लोयणं पव्वयणं च, कसायाणं च बन्धणं।",
+      "transliteration": "loyaṇaṃ pavvayaṇaṃ ca, kasāyāṇaṃ ca bandhaṇaṃ.",
+      "translation": "Perception and scriptural knowledge, and the bondage caused by passions.",
+      "notes": "The Kaṣāyapāhuḍa is a key Digambara text on kaṣāya (passions such as anger, pride, deceit, and greed). It explains how these inner states bind karma to the soul and obstruct liberation, complementing the more structural analysis of karma in the Ṣaṭkhaṅḍāgama. It is often studied together with commentaries that systematize Digambara views on ethical psychology."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "समो हि सारा जीवो, न देहो न च बन्धणं।",
+      "transliteration": "samo hi sārā jīvo, na deho na ca bandhaṇaṃ.",
+      "translation": "The essence is the soul in its equanimity, not the body nor its bondage.",
+      "notes": "Samayasāra (“Essence of the Self/Doctrine”) is one of the most influential Digambara philosophical works. Kundakunda distinguishes the pure standpoint (niścaya-naya), which sees the soul as inherently pure and free, from the conventional standpoint (vyavahāra-naya), which describes worldly bondage and ethical practice. This text deeply shapes Digambara interpretations of self, karma, and liberation. [[0]](https://en.wikipedia.org/wiki/Digambara) [[4]](https://en.bharatpedia.org/wiki/Digambara_Jainism)"
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः।",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ.",
+      "translation": "Right faith, right knowledge, and right conduct are the path to liberation.",
+      "notes": "Pravacanasāra (“Essence of the Teaching”) presents the path of liberation in terms of right faith, knowledge, and conduct, elaborating how vows, meditation, and detachment purify the soul. It is central to Digambara soteriology and is frequently cited in discussions of monastic discipline and lay ethics."
+    },
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti/Umāsvāmi (accepted across Jain sects, with Digambara commentarial traditions)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः॥",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ.",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "Although Tattvārthasūtra is shared by both Digambara and Śvetāmbara traditions, Digambara commentators interpret its concise aphorisms in line with their doctrinal positions—for example, on the nature of kevalin, the status of women, and the ideal of nudity. It serves as a bridge between sectarian literatures and a common Jain philosophical framework."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Digambara Jains, including laypeople, must be naked.",
+      "reality": "In Digambara tradition, nudity is an ideal specifically for fully renounced monks, symbolizing complete non-possession and detachment. Laypeople and most nuns wear clothing and live within household or community settings, following adapted vows (aṇuvrata) appropriate to their station. Contemporary Digambara practice includes a range of monastic and lay lifestyles, not universal nudity. [[0]](https://en.wikipedia.org/wiki/Digambara) [[3]](https://www.britannica.com/topic/Digambara)"
+    },
+    {
+      "myth": "Digambaras reject all Jain scriptures and rely only on oral tradition.",
+      "reality": "Digambara Jainism has a rich textual heritage, including the Ṣaṭkhaṅḍāgama, Kaṣāyapāhuḍa, and the works of Kundakunda such as Samayasāra and Pravacanasāra, as well as commentaries on the Tattvārthasūtra. While Digambaras do not accept the Śvetāmbara canonical Āgamas as preserved today, they affirm their own scriptural corpus and philosophical treatises, transmitted through manuscripts and scholastic lineages. [[0]](https://en.wikipedia.org/wiki/Digambara) [[4]](https://en.bharatpedia.org/wiki/Digambara_Jainism)"
+    },
+    {
+      "myth": "Digambara and Śvetāmbara sects differ completely in philosophy and share almost nothing in common.",
+      "reality": "Both Digambara and Śvetāmbara traditions share the core Jain framework: non-violence, karma theory, the goal of liberation, and the path of right faith, knowledge, and conduct. Their differences lie mainly in monastic discipline (nudity vs. white robes), certain doctrinal details (such as views on women’s liberation and the kevalin’s need for food), ritual styles, and canonical collections. The underlying metaphysics and ethical ideals remain closely related. [[3]](https://www.britannica.com/topic/Digambara) [[1]](https://www.wikiwand.com/en/articles/Digambar_Jain)"
+    },
+    {
+      "myth": "The Digambara–Śvetāmbara split is precisely dated and fully explained by a single famine story.",
+      "reality": "Traditional accounts, especially the famine narrative involving Bhadrabāhu and Sthūlabhadra, are important to sectarian memory but are historically complex and partly partisan. Modern scholarship suggests that the division between Digambara and Śvetāmbara communities emerged gradually over several centuries, with debates about monastic nudity, property, and scriptural preservation culminating in formal separation by the 5th century CE. [[3]](https://www.britannica.com/topic/Digambara) [[2]](https://www.britannica.com/topic/Jainism/Early-medieval-developments-500-1100)"
+    }
+  ]
+}
+
+
+
+> [0] [Digambara - Wikipedia](https://en.wikipedia.org/wiki/Digambara)
+>
+> [1] [Digambara - Wikiwand](https://www.wikiwand.com/en/articles/Digambar_Jain)
+>
+> [2] [Jainism - Ahimsa, Dharma, Digambara | Britannica](https://www.britannica.com/topic/Jainism/Early-medieval-developments-500-1100)
+>
+> [3] [Digambara | History, Beliefs, Practices & Significance | Britannica](https://www.britannica.com/topic/Digambara)
+>
+> [4] [Digambara Jainism - Bharatpedia](https://en.bharatpedia.org/wiki/Digambara_Jainism)

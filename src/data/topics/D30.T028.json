@@ -1,0 +1,55 @@
+{
+  "overview": "Digital alignment, in a Jain philosophical frame, refers to the effort to bring digital systems—especially algorithmic and AI-driven technologies—into ethical harmony with the core Jain commitments of ahiṃsā (non‑violence), satya (truthfulness), asteya (non‑stealing), brahmacarya (self‑restraint), and aparigraha (non‑possessiveness), as well as the epistemic discipline of anekāntavāda (many‑sidedness of truth). Rather than treating technology as morally neutral, digital alignment asks whether the design, deployment, and governance of digital tools reduce harm to living beings, restrain unnecessary consumption, and acknowledge the limits and plurality of any single perspective.\n\nFrom a Jain standpoint, every action—physical, verbal, or mental—binds karma to the soul (jīva) when driven by passions such as anger, pride, deceit, and greed. In the digital sphere, these passions can be amplified by recommender systems, attention‑maximizing platforms, surveillance architectures, and manipulative interfaces. Digital alignment therefore means configuring technologies so that they do not intensify these inner defilements, but instead support restraint, clarity, and compassion. This includes minimizing psychological harm (addiction, anxiety, polarization), social harm (hate speech, misinformation, exploitation), and ecological harm (energy‑intensive computation, e‑waste), all of which are forms of hiṃsā in Jain ethics.\n\nPractically, digital alignment can be described along three interrelated axes. First, harm‑minimization: systems should be evaluated and redesigned to reduce direct and indirect injury to humans, animals, and even microscopic life, in line with the expansive Jain understanding of living beings. Second, resource restraint: data centers, devices, and software should be developed with frugality and efficiency, echoing aparigraha by avoiding needless expansion of computational power, storage, and consumption when simpler solutions suffice. Third, epistemic humility: interfaces and algorithms should avoid presenting outputs as absolute or infallible, instead signaling uncertainty, context, and alternative viewpoints in the spirit of anekāntavāda.\n\nDigital alignment is not a formal doctrinal category in classical Jain texts, but it is a contemporary application of long‑standing principles. Modern Jain scholars and ethicists have begun to explore how ahiṃsā, anekāntavāda, and aparigraha can guide AI and digital design, especially in domains like healthcare, sustainability, and human rights. In healthcare, for example, Jain‑inspired alignment would require that AI tools respect patient autonomy, avoid bias and discrimination, protect privacy, and remain accountable to compassionate human oversight. In environmental contexts, alignment would mean prioritizing energy‑efficient architectures and fair labor practices in data annotation and content moderation.\n\nBecause Jainism emphasizes personal transformation rather than merely external regulation, digital alignment also has a subjective dimension: users, developers, and institutions are encouraged to cultivate inner vigilance (apramāda) about how they engage with technology. This includes mindful use of devices, critical reflection on algorithmic influence, and voluntary limits on consumption and sharing. In this way, digital alignment becomes both a design philosophy and a lived discipline, seeking to ensure that the rapidly expanding digital world does not deepen karmic bondage, but instead supports a more non‑violent, restrained, and many‑sided way of living.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "अहिंसा-सत्य-अस्तेय-ब्रह्मचर्य-अपरिग्रहाः साधु-धर्मः ।",
+      "transliteration": "ahiṃsā-satya-asteya-brahmacarya-aparigrahāḥ sādhu-dharmaḥ.",
+      "translation": "Non-violence, truth, non-stealing, celibacy, and non-possessiveness are the dharma of the ascetic.",
+      "notes": "This aphorism (often cited from Tattvārthasūtra 7.1) summarizes the five central vows that structure Jain ethics. In the context of digital alignment, these vows provide the normative backbone: technologies should be evaluated by how they affect non‑violence, truthfulness, non‑appropriation, self‑restraint, and non‑attachment. For example, systems that spread misinformation violate satya; attention‑extracting platforms that foster addiction challenge brahmacarya and aparigraha; and energy‑intensive infrastructures that contribute to ecological harm conflict with ahiṃsā."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; compiled by early Jain community",
+      "original_text": "सव्वे पाणाः दुखा भायन्ति, न हन्तव्वा, न घातव्वा ।",
+      "transliteration": "savve pāṇā dukkhā bhāyanti, na hantavvā, na ghātavvā.",
+      "translation": "All living beings are afraid of suffering; they should not be killed, nor harmed.",
+      "notes": "The Ācārāṅga Sūtra is one of the earliest Jain canonical texts, emphasizing the radical extension of ahiṃsā to all forms of life, including subtle and microscopic beings. Applied to digital alignment, this passage reminds designers and policymakers that harm is not limited to immediate physical injury. Ecological damage from data centers, psychological distress from manipulative interfaces, and social fragmentation from polarizing algorithms are all forms of suffering that must be considered when assessing whether a digital system is aligned with Jain non‑violence."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Early Jain canonical text, author traditionally anonymous",
+      "original_text": "जोगा जोगं च कुज्जा, अजोगं च परिज्जहा ।",
+      "transliteration": "jogā jogaṃ ca kujjā, ajogaṃ ca parijjahā.",
+      "translation": "Practice what is fitting (wholesome), and abandon what is unfitting (unwholesome).",
+      "notes": "This verse encapsulates the practical discernment expected of a Jain practitioner: one must actively choose wholesome conduct and renounce unwholesome patterns. In digital alignment, this becomes a criterion for evaluating technologies and usage habits. Tools that foster clarity, compassion, and restraint can be embraced; those that encourage deceit, aggression, or attachment should be limited or redesigned. The emphasis on ongoing discernment aligns with the need for continuous auditing and revision of digital systems as their impacts become clearer."
+    },
+    {
+      "title": "Samayasāra (selected verse on many-sidedness)",
+      "author": "Śrī Kundakunda",
+      "original_text": "एकेण नयएण न होइ तत्त्वं, बहु-नय-समवायो तस्स लक्षणं ।",
+      "transliteration": "ekeṇa nayaeṇa na hoi tattvaṃ, bahu-naya-samavāyo tassa lakṣaṇaṃ.",
+      "translation": "Reality is not grasped by a single standpoint; its mark is the convergence of many standpoints.",
+      "notes": "Although formulations vary across editions, Kundakunda’s works articulate the spirit of anekāntavāda and nayavāda—the doctrines of many‑sidedness and standpoint analysis. For digital alignment, this underpins the call for epistemic humility in AI and digital systems. Outputs should not be presented as absolute; interfaces should allow for context, alternative interpretations, and user agency. Governance structures should include diverse stakeholders rather than concentrating interpretive power in a few institutions or models."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Digital alignment in a Jain sense simply means using technology for religious purposes, such as streaming discourses or sharing scriptures online.",
+      "reality": "While devotional and educational uses of technology can be valuable, Jain‑informed digital alignment is much broader. It concerns the entire lifecycle of digital systems—their energy use, labor conditions, data practices, psychological effects, and social impacts—and asks whether these align with ahiṃsā, aparigraha, and anekāntavāda. A platform can host religious content yet still be misaligned if it exploits attention, spreads misinformation, or contributes to ecological harm."
+    },
+    {
+      "myth": "Because Jainism emphasizes renunciation, the only aligned stance is to reject modern digital technology altogether.",
+      "reality": "Classical Jain texts emphasize restraint and vigilance, not blanket rejection of tools. Lay and monastic codes distinguish between necessary and unnecessary use, encouraging careful evaluation of consequences. In the digital era, this translates into selective, mindful engagement and ethical design rather than total withdrawal. Technologies that genuinely reduce harm, support compassion, and respect limits can be consistent with Jain values when approached with awareness and responsibility."
+    },
+    {
+      "myth": "Digital alignment is just another name for generic AI safety or corporate compliance, with no distinct Jain contribution.",
+      "reality": "Jain philosophy adds specific, rigorous lenses to contemporary debates on AI and digital ethics. Ahiṃsā extends concern to all living beings and to subtle forms of harm; aparigraha challenges the assumption that bigger, faster, and more data‑hungry systems are always better; anekāntavāda questions epistemic absolutism in algorithmic outputs. These principles can reshape design goals, success metrics, and governance structures in ways that go beyond minimal legal compliance or narrow safety checks."
+    },
+    {
+      "myth": "If a digital system does not directly cause physical injury, it is already aligned with Jain ethics.",
+      "reality": "Jain ethics recognize mental, verbal, social, and ecological forms of violence as morally significant. Systems that foster addiction, amplify hatred, erode privacy, or accelerate environmental degradation are not aligned, even if they never directly injure a body. Digital alignment requires attention to indirect, long‑term, and systemic harms, as well as to the inner passions that technologies may inflame."
+    }
+  ]
+}

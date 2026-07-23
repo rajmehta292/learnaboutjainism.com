@@ -1,0 +1,63 @@
+{
+  "overview": "Art history is the systematic study of visual and material culture across time, place, and tradition. It examines how images, objects, buildings, and performances are produced, used, and interpreted, and how they embody social, religious, political, and economic meanings. In modern academia, art history combines close visual analysis with historical research, philology, anthropology, and philosophy to understand both the formal qualities of works of art and the worlds that created them.\n\nWithin the Jain tradition, art history focuses on temples, statuary, manuscript painting, ritual objects, and pilgrimage images that express core doctrines such as non‑violence (ahimsa), non‑attachment (aparigraha), and non‑absolutism (anekantavada). Jain communities have patronized major architectural complexes, including sites like Mount Shatrunjaya and Shikharji, as well as urban temples and monastic libraries (bhandars). These spaces are not merely decorative; they are structured environments for worship, scriptural recitation, and ethical reflection, and their visual programs often follow scriptural and shilpa‑śāstra (art‑technical) guidelines.\n\nA distinctive contribution of Jain art history is the study of illustrated manuscripts, especially from western India (Gujarat and Rajasthan) between the 11th and 18th centuries. Palm‑leaf and later paper manuscripts of texts such as the Kalpasutra were produced with painted folios and carved wooden covers (patli), often commissioned by merchant patrons and royal dynasties like the Chaulukyas (Solankis). These manuscripts were used in temple rituals such as jñāna‑pūjā (worship of knowledge) and remain central to festivals like Paryushana, where the Kalpasutra is recited and venerated.  [[0]](https://www.metmuseum.org/essays/jain-manuscript-painting) [[1]](https://artsandculture.google.com/story/nwUxc4-Wwf3BwA?hl=en)\n\nArt historians also study Jain iconography—the codified visual representation of Tirthankaras and other figures. Over centuries, distinct sectarian conventions emerged between Digambara and Śvetāmbara traditions, and within Śvetāmbara sub‑sects such as Mūrtipūjaka, Sthānakavāsī, and Terāpanth. Recent scholarship has mapped how attributes like posture, clothing or nudity, attendant deities, and emblem (lāñchana) vary across regions and periods, drawing on canonical texts, shilpa‑śāstra literature, inscriptions, and field observation.  [[2]](https://english.dainikjagranmpcg.com/new-scholarly-work-maps-the-evolution-of-jain-tirthankara-iconography/article-18814) [[3]](https://jainastudies.soas.ac.uk/ijjs/ijjs-2204-2026.pdf)\n\nAnother important field is the study of tirtha‑paṭa—large, often cartographic paintings of sacred sites used especially in Śvetāmbara Mūrtipūjaka practice. These works depict mountains, temple clusters, narrative scenes, and ritual activities associated with pilgrimage places, and are treated as visual embodiments (avatāra) of the tirtha itself. Displayed in temples and homes, they facilitate bhāva‑yātrā, an internal or emotional pilgrimage understood to carry spiritual merit comparable to physical travel. Contemporary research uses object‑based analysis, interviews with artists, and observation of rituals to reconstruct the history, functions, and meanings of these images.  [[4]](https://openresearch-repository.anu.edu.au/items/09f47065-2f32-417e-8b29-17b58a462655/full)\n\nBeyond specifically Jain materials, art history as a discipline engages with broader questions: how patronage shapes artistic production; how trade routes and migrations transmit styles; how technologies (from stone carving to digital imaging) transform visual culture; and how modern museums, archives, and digital platforms preserve, interpret, or sometimes distort religious art. For Jain communities, these questions intersect with concerns about accurate representation of doctrine, ethical treatment of sacred images, and the preservation of manuscripts and sculptures in both temple bhandars and public institutions.\n\nMethodologically, Jain art history requires careful distinction between primary sources (canonical texts, inscriptions, original artworks), traditional commentaries, and modern scholarship. It also demands sensitivity to living practice: images are not only historical artifacts but ongoing objects of devotion. Responsible study therefore combines textual citation, visual analysis, and consultation with qualified teachers and practitioners, while acknowledging areas of uncertainty, contested interpretation, and gaps in the surviving material record.",
+  "primary_sources": [
+    {
+      "title": "Kalpasutra",
+      "author": "Traditionally attributed to Bhadrabahu",
+      "original_text": "कल्लसुत्तं / कल्पसूत्र (various Prakrit and Sanskrit recensions)",
+      "transliteration": "Kalpasūtra",
+      "translation": "“Book of Sacred Precepts”; a canonical Śvetāmbara text containing biographies of Tirthankaras, especially Pārśvanātha and Mahāvīra, along with monastic regulations and festival observances.",
+      "notes": "Tier A (verified primary text). The Kalpasutra is the most frequently illustrated Jain manuscript, especially in western Indian painting from the 13th century onward. Its narrative sections—such as the dreams of Queen Triśalā, the birth and renunciation of Mahāvīra, and key episodes in the lives of other Tirthankaras—provide the textual basis for miniature paintings on folios and carved or painted manuscript covers (patli). During Paryushana, the text is ritually recited and the manuscript itself is venerated, making it central to the intersection of scripture, image, and ritual in Jain art history.  [[0]](https://www.metmuseum.org/essays/jain-manuscript-painting) [[1]](https://artsandculture.google.com/story/nwUxc4-Wwf3BwA?hl=en)"
+    },
+    {
+      "title": "Jain palm‑leaf and paper manuscript colophons",
+      "author": "Various scribes and patrons",
+      "original_text": "Colophon inscriptions in Sanskrit, Prakrit, and regional languages (e.g., Gujarati, Rajasthani)",
+      "transliteration": "Various, e.g. “śrīmad‑kalpasūtraṃ samāptam… likhitaṃ śrī‑patanapurī‑vasinā… ”",
+      "translation": "Typical colophons record the completion of a manuscript, naming the text, date, place, scribe, patron, and sometimes the intended ritual use or dedication.",
+      "notes": "Tier A/B (primary inscriptions with traditional interpretation). Colophons are crucial primary sources for art history: they document where and when manuscripts were produced, who commissioned them, and for what purpose. In Jain contexts, they reveal the role of royal dynasties such as the Chaulukyas and later merchant patrons in sustaining illustrated manuscript production and temple libraries (bhandars). They also help trace stylistic changes in painting and calligraphy across regions and centuries.  [[0]](https://www.metmuseum.org/essays/jain-manuscript-painting)"
+    },
+    {
+      "title": "Tirtha‑paṭa paintings of Mount Śatrunjaya and other sites",
+      "author": "Anonymous Jain artists (15th–21st centuries)",
+      "original_text": "Painted inscriptions and labels in Gujarati, Rajasthani, Hindi, and Sanskrit on cloth or paper",
+      "transliteration": "Examples: “śrī‑śatruñjaya‑tirtha‑paṭa”, “bhāva‑yātrā‑darśana”",
+      "translation": "Inscriptions typically identify the sacred site, name donors, record dates, and sometimes describe the spiritual benefits of viewing or sponsoring the image.",
+      "notes": "Tier A (original artworks) with Tier C commentary. Tirtha‑paṭa are primary visual sources for Jain art history, especially within Śvetāmbara Mūrtipūjaka practice. Their inscriptions and imagery document changing temple layouts, pilgrimage routes, and ritual practices, while their use in bhāva‑yātrā ceremonies shows how art functions as a medium for internalized pilgrimage. Modern theses and articles analyze these works using art‑historical and material‑culture methods, but the paintings themselves remain the foundational evidence.  [[4]](https://openresearch-repository.anu.edu.au/items/09f47065-2f32-417e-8b29-17b58a462655/full)"
+    },
+    {
+      "title": "Stone statuary and inscriptions from Dhar and Mandu (Paramāra period)",
+      "author": "Various sculptors and donors",
+      "original_text": "Sanskrit dedicatory inscriptions carved on pedestals and back‑slabs of Tirthankara images",
+      "transliteration": "Examples: “śrī‑nemi‑svāmī‑pratimā… dānaṃ śrī‑[donor‑name]… samvat‑[date]”",
+      "translation": "Typical inscriptions name the Tirthankara, donor, sometimes the sectarian affiliation, and the date of consecration.",
+      "notes": "Tier A (epigraphic primary sources) with Tier C scholarly edition. The corpus of statues from Dhar and Mandu, dated to the Paramāra kingdom of Malwa (10th–13th centuries), provides key evidence for regional Jain iconography and patronage. Epigraphic analysis clarifies sectarian identity (e.g., Śvetāmbara indicators), stylistic chronology, and the social background of donors. These objects and inscriptions are central to reconstructing the art‑historical context of medieval Jain communities in central India.  [[3]](https://jainastudies.soas.ac.uk/ijjs/ijjs-2204-2026.pdf)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Art history is only about judging beauty and ranking artworks as ‘good’ or ‘bad’.",
+      "reality": "Academic art history is not primarily an aesthetic rating system. It studies how images and objects function within specific historical, religious, and social contexts, using evidence from texts, inscriptions, patronage records, and material analysis. In Jain contexts, this means asking how a manuscript, statue, or tirtha‑paṭa expresses doctrine, supports ritual, and reflects community life, rather than simply declaring it beautiful or otherwise."
+    },
+    {
+      "myth": "Jainism has little or no visual art because it emphasizes renunciation and non‑attachment.",
+      "reality": "While Jain doctrine stresses non‑attachment, Jain communities have produced a rich visual and architectural heritage: major temple complexes, intricately carved statuary, illustrated manuscripts, and pilgrimage paintings. These works are understood not as indulgent luxury but as disciplined, doctrinally guided supports for devotion, ethical reflection, and scriptural transmission. The prosperity of merchant communities and royal patrons in regions like Gujarat and Rajasthan enabled extensive artistic patronage that remains central to Indian art history.  [[0]](https://www.metmuseum.org/essays/jain-manuscript-painting) [[1]](https://artsandculture.google.com/story/nwUxc4-Wwf3BwA?hl=en)"
+    },
+    {
+      "myth": "Sectarian differences in Jain images are random or purely regional variations without scriptural basis.",
+      "reality": "Differences in Jain iconography—such as Digambara emphasis on nude Tirthankara images and Śvetāmbara use of clothed figures, or specific emblem and attendant‑deity conventions—are shaped by doctrinal interpretations, monastic lineages, and shilpa‑śāstra traditions, not mere randomness. Modern scholarship shows that these variations can often be traced to canonical texts, technical treatises, and historically documented debates within and between sects, even though some details remain contested or under‑researched.  [[2]](https://english.dainikjagranmpcg.com/new-scholarly-work-maps-the-evolution-of-jain-tirthankara-iconography/article-18814) [[3]](https://jainastudies.soas.ac.uk/ijjs/ijjs-2204-2026.pdf)"
+    }
+  ]
+}
+
+
+
+> [0] [Jain Manuscript Painting - The Metropolitan Museum of Art](https://www.metmuseum.org/essays/jain-manuscript-painting)
+>
+> [1] [Jain Art — Google Arts & Culture](https://artsandculture.google.com/story/nwUxc4-Wwf3BwA?hl=en)
+>
+> [2] [New scholarly work maps the evolution of Jain Tirthankara Iconography across sects and centuries - Dainik Jagran English](https://english.dainikjagranmpcg.com/new-scholarly-work-maps-the-evolution-of-jain-tirthankara-iconography/article-18814)
+>
+> [3] [JAIN STATUARY FROM DHAR AND MANDU IN MADHYA PRADESH](https://jainastudies.soas.ac.uk/ijjs/ijjs-2204-2026.pdf)
+>
+> [4] [Moving mountains: tracing the history, creation and meaning of Jain sacred-site images (tirtha pata)](https://openresearch-repository.anu.edu.au/items/09f47065-2f32-417e-8b29-17b58a462655/full)

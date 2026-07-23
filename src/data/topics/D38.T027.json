@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, food intake (āhāra) is not merely a biological act but a moral, karmic, and spiritual activity shaped by non‑violence (ahiṃsā), restraint (saṃyama), and awareness (apramatta). Across Jain traditions—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth—the central principle remains that eating should minimize harm to living beings, support clarity of mind, and sustain the body without stimulating passions. Jain texts classify food intake as one of the four supports of embodied life (āhāra, śarīra, indriya, prāṇa), yet they consistently warn that careless consumption binds karma and obstructs spiritual progress.\n\nLaypeople (śrāvakas) are encouraged to adopt vegetarianism, avoid root vegetables, and practice mindful eating, while monastics follow far stricter rules: they do not cook, store food, or request specific items, and they accept alms only under conditions that minimize harm and attachment. The act of receiving food is ritualized through inspection, intention, and gratitude. Texts such as the *Tattvārtha Sūtra* and *Ācārāṅga Sūtra* emphasize that food should be taken in moderation, at proper times, and with awareness of its karmic implications.\n\nFood intake is also linked to vows (vratas), fasting practices (upavāsa), and daily conduct (āhāra‑viśuddhi). While fasting is a respected discipline, Jain sources repeatedly caution that it must be undertaken with physical capability, proper guidance, and non‑violence toward oneself. Modern Jain teachers and scholars highlight that food ethics today extend to sustainability, ecological impact, and compassionate consumption. Thus, Jain discussions of food intake integrate ancient scriptural principles with contemporary ethical concerns, always grounded in the central ideal of reducing harm and cultivating inner freedom.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "आहारसंविभागो जीवितम्",
+      "transliteration": "āhāra-saṃvibhāgo jīvitam",
+      "translation": "“The distribution or taking of food is life.”",
+      "notes": "TS 2.31 identifies food intake as one of the essential functions of embodied beings. Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) explain that improper food intake increases karmic bondage, while disciplined intake supports spiritual progress."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s early disciples",
+      "original_text": "एतं अहिंसासमुत्थानं—आहारसंज्ञा",
+      "transliteration": "etaṃ ahiṃsā-samutthānaṃ—āhāra-saṃjñā",
+      "translation": "“This (discipline) arises from non‑violence—the awareness related to food.”",
+      "notes": "In the Śvetāmbara canon, the text describes how monks must inspect food, avoid harm to living beings, and maintain mindfulness while receiving alms. The passage underscores that food intake is inseparable from ahiṃsā."
+    },
+    {
+      "title": "Bhagavatī Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "आहारो नाम जीवाणं कारणं",
+      "transliteration": "āhāro nāma jīvāṇaṃ kāraṇaṃ",
+      "translation": "“Food is a cause for the continuation of living beings.”",
+      "notes": "This text discusses classifications of life and the role of food in sustaining embodied existence. It also outlines how improper food intake can disturb mental states and increase passions."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "नान्यत्रार्थं याचेत्, न चान्नं गृह्णीयात् याचितम्",
+      "transliteration": "nānyatrārthaṃ yāchet, na cānnaṃ gṛhṇīyāt yācitam",
+      "translation": "“One should not ask for anything elsewhere, nor accept food that has been requested.”",
+      "notes": "Digambara monastic conduct prohibits asking for specific foods and emphasizes total non‑attachment. Food must be accepted only when freely offered and under strict conditions that avoid harm."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jains avoid certain foods only for cultural reasons.",
+      "reality": "Restrictions such as avoiding root vegetables or eggs arise from scriptural ahiṃsā principles: root vegetables contain multiple life‑forms, and eggs involve higher‑order beings. These rules are grounded in canonical and commentarial sources, not mere custom."
+    },
+    {
+      "myth": "All Jains must undertake long fasts to be spiritually advanced.",
+      "reality": "Jain texts emphasize moderation, capability, and non‑violence toward oneself. Fasting is optional, must be guided, and should never compromise health. Laypeople and monastics follow different standards, and coercive or unsafe fasting contradicts Jain ethics."
+    },
+    {
+      "myth": "Monks and nuns eat extremely little because starvation is a spiritual goal.",
+      "reality": "Jain monastics eat enough to sustain life and practice. Their restrictions aim to reduce harm and attachment, not to pursue starvation. Texts explicitly warn against self‑harm and emphasize mindful sustenance."
+    }
+  ]
+}

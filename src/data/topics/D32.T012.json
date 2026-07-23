@@ -1,0 +1,43 @@
+{
+  "overview": "Marathi is an Indo‑Aryan language spoken predominantly in the Indian state of Maharashtra and parts of neighboring regions such as Goa, Karnataka, Madhya Pradesh, and Gujarat. With over 80 million speakers, it is one of India’s major languages and holds official status in Maharashtra and Goa. Marathi has a long literary history, with inscriptions dating back to around the 8th–9th century CE, making it one of the oldest documented modern Indo‑Aryan languages.\n\nThe language evolved from Maharashtri Prakrit, which was widely used in western and central India during the early medieval period. Over time, it absorbed influences from Sanskrit, Persian, Arabic, and later Portuguese and English due to historical contact and political changes. Marathi literature spans devotional poetry, saint traditions, courtly chronicles, modern novels, and contemporary media. The Bhakti movement, particularly the Varkari tradition, played a major role in shaping Marathi literary identity through poets such as Dnyaneshwar, Namdev, Eknath, Tukaram, and Ramdas.\n\nMarathi is written primarily in the Devanagari script today, though historically it also used the Modi script for administrative purposes. Modern Marathi includes several dialects, including Varhadi, Zadi, Khandeshi, and coastal Konkani‑influenced varieties. The language continues to thrive in education, cinema, digital media, and diaspora communities, maintaining a strong cultural presence in India and abroad.",
+  "primary_sources": [
+    {
+      "title": "Dnyaneshwari (Bhavarth Deepika)",
+      "author": "Sant Dnyaneshwar",
+      "original_text": "अर्जुन उवाच ।\nकथं भीष्ममहं संख्ये द्रोणं च मधुसूदन ।\nइषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन ॥",
+      "transliteration": "arjuna uvāca:\nkathaṁ bhīṣmam ahaṁ saṅkhye droṇaṁ ca madhusūdana |\niṣubhiḥ pratiyotsyāmi pūjārhāv ari-sūdana ||",
+      "translation": "Arjuna said: O Madhusudana, how shall I fight in battle with Bhishma and Drona, who are worthy of reverence?",
+      "notes": "The *Dnyaneshwari* (1290 CE) is a Marathi commentary on the Bhagavad Gita. It is one of the earliest and most influential works of Marathi literature, blending philosophical exposition with poetic expression. The quoted verse is from the Gita itself (Bhagavad Gita 2.4), included here because Dnyaneshwar’s commentary is built around such verses."
+    },
+    {
+      "title": "Eknathi Bhagwat",
+      "author": "Sant Eknath",
+      "original_text": "जैसा जळातें मीण मिसळे । तैसा भक्त भगवंत मिळे ।",
+      "transliteration": "jaisā jaḷāte mīṇ misaḷe | taisā bhakta bhagavanta miḷe |",
+      "translation": "As salt dissolves completely in water, so does the devotee unite with the Divine.",
+      "notes": "The *Eknathi Bhagwat* (16th century) is a major Marathi devotional text commenting on the eleventh book of the Bhagavata Purana. It shaped Marathi Bhakti literature and the Varkari tradition."
+    },
+    {
+      "title": "Tukaram Gatha",
+      "author": "Sant Tukaram",
+      "original_text": "जे का रंजले गांजले । त्यासी म्हणे जो आपुले ।",
+      "transliteration": "je kā rañjale gāñjale | tyāsī mhaṇe jo āpule |",
+      "translation": "One who calls the distressed and suffering his own is truly noble.",
+      "notes": "The *Tukaram Gatha* (17th century) is a foundational text of Marathi devotional poetry. Tukaram’s abhangas emphasize compassion, humility, and devotion to Vitthala."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Marathi and Konkani are the same language.",
+      "reality": "Although Marathi and Konkani share historical roots in Maharashtri Prakrit and have influenced each other, they developed as distinct languages with separate literary traditions, phonological features, and sociolinguistic identities."
+    },
+    {
+      "myth": "Marathi has always been written in Devanagari.",
+      "reality": "While Devanagari is the modern standard, Marathi historically used the Modi script extensively for administrative and commercial writing until the 20th century."
+    },
+    {
+      "myth": "Marathi literature began only with the Bhakti saints.",
+      "reality": "Although the Bhakti movement produced some of the most influential Marathi works, earlier Marathi inscriptions and texts from the 8th–12th centuries show that the language had a literary presence before the saint-poets."
+    }
+  ]
+}

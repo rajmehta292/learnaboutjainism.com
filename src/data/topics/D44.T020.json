@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain philosophical and ethical literature, “competition” is not treated as a standalone doctrinal category, yet the underlying behaviors associated with rivalry, comparison, and adversarial striving are addressed extensively through discussions of kashāyas (passions), vyavahāra (worldly conduct), and the cultivation of ahiṃsā, aparigraha, and samatā. Jainism views competition primarily through the lens of mental states: rivalry that generates anger, pride, deceit, or greed is understood as a cause of bondage (bandha) and a hindrance to equanimity. The tradition does not prohibit skill, excellence, or disciplined effort; rather, it evaluates the intention and emotional texture behind actions.\n\nIn social life, Jain texts acknowledge that householders (śrāvakas) operate within economic, professional, and communal environments where comparison and striving naturally arise. The Lay Conduct literature (śrāvakācāra) encourages diligence, competence, and ethical livelihood while warning against competitive behaviors that harm others, provoke hostility, or intensify attachment. Competition becomes spiritually problematic when it leads to himsā (harm), exploitation, or the reinforcement of ego-driven identity.\n\nPhilosophically, Jainism frames competition as a manifestation of moha (delusion) when it is rooted in the belief that one’s worth depends on surpassing others. The doctrine of anekāntavāda (many-sidedness) provides a counterbalance by encouraging recognition of multiple perspectives and reducing the absolutist thinking that fuels rivalry. In monastic contexts, competition is explicitly discouraged: monks and nuns are instructed to avoid comparison of austerities, learning, or status, as such tendencies obstruct humility and right conduct.\n\nModern Jain communities often reinterpret competition in light of contemporary life. Healthy striving—such as academic excellence, professional achievement, or athletic discipline—is considered acceptable when grounded in non-harm, fairness, and inner detachment. The emphasis remains on transforming competitive impulses into self-improvement rather than adversarial dominance. Thus, Jainism does not reject competition outright; it reframes it as an ethical and psychological challenge requiring awareness, restraint, and compassion.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "कषायाः बन्धहेतवः",
+      "transliteration": "kaṣāyāḥ bandhahetavaḥ",
+      "translation": "The passions are the causes of bondage.",
+      "notes": "TS 8.1 identifies anger, pride, deceit, and greed as central forces binding the soul. Competitive behavior that intensifies these passions is interpreted as spiritually harmful."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "णत्थि परस्स विणासो, णत्थि परस्स उवरोधो",
+      "transliteration": "natthi parassa vināso, natthi parassa uvarodho",
+      "translation": "There should be no destruction of another, no obstruction of another.",
+      "notes": "This passage (ĀS 1.4) emphasizes non-harm and non-obstruction, providing a foundation for evaluating competitive actions that may impede or injure others."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Traditional Śvetāmbara attribution",
+      "original_text": "माणो लोए दुहं करोति",
+      "transliteration": "māṇo loe duhaṃ karoti",
+      "translation": "Pride causes suffering in the world.",
+      "notes": "Competitive environments often cultivate pride; this verse is frequently cited in commentaries discussing ego-driven conduct."
+    },
+    {
+      "title": "Śrāvakācāra (various authors)",
+      "author": "Haribhadra, Amitagati, and others",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non-harm is the supreme duty.",
+      "notes": "Lay conduct texts apply ahiṃsā to economic and social life, discouraging competitive practices that exploit or injure others."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism forbids all forms of competition.",
+      "reality": "Jainism discourages harmful, ego-driven rivalry but does not prohibit disciplined striving or excellence. The ethical evaluation depends on intention, emotional state, and impact on others."
+    },
+    {
+      "myth": "Any competitive success increases karma.",
+      "reality": "Karmic bondage arises from passions, not from achievement itself. Success pursued with equanimity and non-harm does not inherently generate negative karma."
+    },
+    {
+      "myth": "Monastic teachings on non-competition apply equally to householders.",
+      "reality": "Monastic rules are stricter. Laypeople may engage in worldly activities, including competitive ones, provided they uphold ahiṃsā, fairness, and restraint."
+    }
+  ]
+}

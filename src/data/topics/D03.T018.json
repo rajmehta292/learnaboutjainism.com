@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical literature, “atoms and aggregates” (paramāṇu and skandha) form the foundational ontology of physical reality. Jainism maintains one of the oldest and most detailed atomistic systems in South Asia, describing matter (pudgala) as composed of eternal, indivisible atoms that combine to form perceptible bodies. Atoms are considered the smallest units of pudgala, possessing qualities such as touch, taste, smell, and color. They are not merely theoretical constructs but are treated as real, subtle entities that interact according to karmic, physical, and cosmological laws.\n\nAggregates (skandha) are combinations of atoms that form all material objects, from the smallest particles to the largest cosmic structures. Jain texts classify aggregates into categories based on the number of atoms, perceptibility, and function. The tradition distinguishes between gross aggregates (sthūla skandha), which are visible and tangible, and subtle aggregates (sūkṣma skandha), which may be imperceptible to ordinary senses. This classification is essential for understanding karmic matter, which binds to the soul in subtle forms and influences its spiritual condition.\n\nThe atomistic theory is closely tied to Jain cosmology and soteriology. Atoms combine and separate according to natural laws, but karmic aggregates bind to the soul through activities driven by passions (kaṣāyas). Thus, the study of atoms and aggregates is not only a physical inquiry but also a moral and spiritual one. Jain thinkers such as Umāsvāti, Kundakunda, and later commentators systematized these concepts, ensuring consistency across Digambara and Śvetāmbara traditions while preserving nuanced differences.\n\nModern scholarship recognizes Jain atomism as a unique system that integrates metaphysics, ethics, and physics. It differs from Greek, Buddhist, and Vaiśeṣika atomisms by emphasizing the moral dimension of matter and its role in liberation. The theory remains central to advanced study of Jain ontology, karma theory, and cosmology.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "पुद्गलास्त्यणुस्त्वग्गन्धवर्णरसाः",
+      "transliteration": "pudgalāsty aṇus tvag-gandha-varṇa-rasāḥ",
+      "translation": "Matter exists; atoms possess touch, smell, color, and taste.",
+      "notes": "Tattvārtha Sūtra 5.19 is one of the most cited passages for defining the qualities of atoms. The text is accepted across Digambara and Śvetāmbara traditions, though commentaries differ in technical elaboration."
+    },
+    {
+      "title": "Pañcāstikāya",
+      "author": "Kundakunda",
+      "original_text": "पग्गलाहि अणू णिव्वाणं, स्कंधा होन्ति बन्धणं।",
+      "transliteration": "paggalāhi aṇū nivvāṇaṃ, skandhā honti bandhaṇaṃ",
+      "translation": "From pudgala arise atoms; aggregates form through their binding.",
+      "notes": "A Prakrit verse describing the relationship between atoms and aggregates. The text emphasizes the eternal nature of atoms and the contingent formation of aggregates."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Nemicandra Siddhānta Cakravartin",
+      "original_text": "अणु पुद्गलस्स परमानु, तहेव स्कंधो पुद्गलस्स संहतिः।",
+      "transliteration": "aṇu pudgalassa paramāṇu, taheva skandho pudgalassa saṃhatiḥ",
+      "translation": "The atom is the smallest unit of matter; an aggregate is the combination of matter.",
+      "notes": "A concise definition used in Digambara monastic and lay curricula. The text clarifies the distinction between paramāṇu and skandha."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain atoms are identical to modern scientific atoms.",
+      "reality": "Jain paramāṇus are metaphysical entities with sensory qualities and karmic relevance. They do not correspond to scientific atoms, which are defined by subatomic structure and lack inherent color, taste, or smell."
+    },
+    {
+      "myth": "Aggregates are always visible and tangible.",
+      "reality": "Jain texts explicitly describe subtle aggregates that are imperceptible, including karmic matter. Only gross aggregates are visible to ordinary senses."
+    },
+    {
+      "myth": "Atoms combine randomly without moral significance.",
+      "reality": "While physical laws govern atomic combination, karmic aggregates bind to the soul due to ethically charged actions. Thus, matter has both physical and moral dimensions in Jainism."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "overview": "In Jainism, “scriptural sources” refers not to a single universally accepted canon but to a layered, sect-specific and historically evolving body of texts that transmit doctrine, ethics, cosmology, and monastic discipline. The most frequently used terms for scripture are “āgama” (that which has come down) and “siddhānta” (authoritative doctrine). These words point to transmission and validity rather than to one fixed list of books. As a result, Jain scriptural authority is plural: different communities recognize different corpora as canonical while still sharing a common world of Jinas, souls (jīvas), karma, vows, and liberation.\n\nHistorically, Śvetāmbara traditions preserve a Prakrit canon known as the Jain Āgamas, believed to transmit Mahāvīra’s teaching through lines of disciples and later teachers. This canon is commonly described as consisting of 45 texts organized into Aṅgas (core texts), Upāṅgas (subsidiary texts), Prakīrṇakas (miscellaneous works), Cheda-sūtras (disciplinary texts), Cūlikā-sūtras (epistemological and doctrinal supplements), and Mūla-sūtras (foundational manuals). The Aṅgas include early doctrinal and disciplinary materials, such as the Ācāranga-sūtra, while the Bhagavatī-sūtra (Vyākhyāprajñapti) preserves extensive dialogues attributed to Mahāvīra. The Kalpa-sūtra, though not an Aṅga, is central in ritual life, especially during Paryuṣaṇa, for its biographies of Tīrthaṅkaras and monastic regulations.\n\nDigambara traditions dispute the authenticity of the Śvetāmbara Āgamas, holding that the original canonical texts were lost. For Digambaras, scriptural authority is located instead in early scholastic works and systematic treatises composed by ācāryas over several centuries. Texts such as Kundakunda’s Samayasāra, Pravacanasāra, and Niyamasāra, and Umāsvāti/Umāsvāmī’s Tattvārtha-sūtra, function as doctrinal anchors, articulating the path of liberation, the nature of substances (dravya), and the structure of karma. These works are not “secondary” in practice; they are treated as normative expositions of the Jina’s teaching, even though they are not framed as verbatim records of Mahāvīra’s sermons.\n\nBeyond the canons, Jain scriptural sources extend into vast commentarial and narrative literatures. The four anuyogas—Prathama (narrative), Caraṇa (conduct), Karaṇa (cosmology), and Dravya (philosophy)—organize this wider corpus. Narrative texts such as the Padma-purāṇa and Harivaṃśa-purāṇa retell lives of Tīrthaṅkaras and exemplary devotees; conduct texts like Ratnakaraṇḍa-śrāvakācāra codify lay ethics; cosmological works such as Sūryaprajñapti and Candraprajñapti describe the universe; philosophical treatises like Gommatasāra and Sarvārthasiddhi systematize doctrine. These works are not merely “literature” in a secular sense—they are scriptural in function, shaping ritual practice, ethical reflection, and doctrinal understanding.\n\nLinguistically, early Jain scriptures are predominantly in Ardhamāgadhī and other Prakrits, reflecting the spoken milieu of early ascetic communities. From the Gupta period onward, Sanskrit becomes increasingly prominent, especially in philosophical and commentarial works, allowing Jain thinkers to participate in wider intellectual debates. Modern vernaculars (Gujarati, Hindi, Kannada, etc.) and English now serve as vehicles for teaching and translation, but traditional communities still emphasize recitation and study of the original Prakrit and Sanskrit texts as a form of discipline and devotion.\n\nFrom a historical-critical perspective, Jain scriptural sources must be read with awareness of sectarian disagreements, transmission gaps, and the difference between primary texts and later interpretations. Śvetāmbara claims about the preservation of Mahāvīra’s words through councils such as that of Valabhī coexist with Digambara claims that the original canon was lost. Modern scholarship and community-based repositories distinguish between verified editions and translations, traditional commentaries, and exploratory or AI-generated translations that are suitable only for preliminary discovery. For serious religious guidance, Jain traditions consistently recommend study under qualified teachers (ācāryas, upādhyāyas, paṇḍits) who can situate scriptural passages within the broader discipline of right faith, right knowledge, and right conduct.\n\nIn practice, therefore, “scriptural sources” in Jainism form a multi-tiered landscape: canonical Āgamas (for Śvetāmbaras), doctrinal treatises and anuyoga literature (especially for Digambaras), commentaries that interpret and systematize doctrine, and modern translations and study guides. Understanding this landscape requires careful attention to which tradition is speaking, which corpus is being cited, and whether a given text is being quoted, paraphrased, interpreted, or applied to contemporary ethical questions.",
+  "primary_sources": [
+    {
+      "title": "Ācāranga-sūtra (Acaranga Sutra)",
+      "author": "Traditionally attributed to the disciples of Mahāvīra; preserved in the Śvetāmbara canon",
+      "original_text": "णमो अरिहंताणं, णमो सिद्धाणं, णमो आयरियाणं, णमो उवज्झायाणं, णमो लोए सव्वसाहूणं।",
+      "transliteration": "ṇamo arihaṃtāṇaṃ, ṇamo siddhāṇaṃ, ṇamo āyariyāṇaṃ, ṇamo uvajjhāyāṇaṃ, ṇamo loe savvasāhūṇaṃ.",
+      "translation": "Homage to the Arhats, homage to the Siddhas, homage to the Ācāryas, homage to the Upādhyāyas, homage to all the Sādhus in the world.",
+      "notes": "The Ācāranga-sūtra is one of the oldest Śvetāmbara Aṅgas and a foundational disciplinary text. It details the ascetic conduct of Mahāvīra and early monks, emphasizing non-violence, restraint, and careful movement to avoid harming living beings. Its language is Ardhamāgadhī Prakrit, and it is central to Śvetāmbara understandings of monastic discipline. Digambara traditions, while respecting its themes, do not accept the Śvetāmbara Aṅga canon as historically preserved scripture."
+    },
+    {
+      "title": "Bhagavatī-sūtra (Vyākhyāprajñapti)",
+      "author": "Traditionally linked to Gautama and other chief disciples; preserved in the Śvetāmbara canon",
+      "original_text": "एवं मे सुतं— एकस्मिन् समये भगवाँ महावीरः...",
+      "transliteration": "evaṃ me sutaṃ— ekasmin samaye bhagavāṃ mahāvīraḥ...",
+      "translation": "Thus have I heard—at one time the Blessed Mahāvīra...",
+      "notes": "The Bhagavatī-sūtra is the largest of the Śvetāmbara Aṅgas and presents extensive dialogues between Mahāvīra and his disciples on cosmology, karma, ethics, and metaphysics. It includes important historical notices, such as references to the sixteen Mahājanapadas and interactions with contemporaneous teachers. Its dialogical form makes it a key source for doctrinal exposition, though its historicity and exact wording are debated in modern scholarship."
+    },
+    {
+      "title": "Kalpa-sūtra",
+      "author": "Traditionally attributed to Ācārya Bhadrabāhu",
+      "original_text": "जिणे महावीरए भगवए नमो, जिणे पारसए भगवए नमो...",
+      "transliteration": "jiṇe mahāvīrae bhagavae namo, jiṇe pārasae bhagavae namo...",
+      "translation": "Homage to the Jina Mahāvīra, the Blessed One; homage to the Jina Pārśva, the Blessed One...",
+      "notes": "The Kalpa-sūtra is a Śvetāmbara text recited prominently during Paryuṣaṇa. It contains biographies of Tīrthaṅkaras (especially Mahāvīra), accounts of monastic lineages, and rules for ascetic conduct. While not an Aṅga, it functions as a ritual and narrative scripture in Śvetāmbara Mūrtipūjaka communities. Digambaras do not treat it as canonical but may know its narratives through other sources."
+    },
+    {
+      "title": "Tattvārtha-sūtra (Tattvārthādhigama-sūtra)",
+      "author": "Umāsvāti / Umāsvāmī (accepted by both Digambara and Śvetāmbara traditions, with some sectarian differences)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः।",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ.",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "The Tattvārtha-sūtra is a concise Sanskrit treatise systematically presenting Jain doctrine: the nature of substances (dravya), categories of reality (tattva), karma, vows, and the path to liberation. It is unique in being accepted, with minor differences, by both major sects as an authoritative doctrinal text. Commentaries such as Pujyapāda’s Sarvārthasiddhi (Digambara) and Śvetāmbara expositions interpret its aphorisms for different communities."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda (Digambara)",
+      "original_text": "समयसारो नामोयं जीवस्वरूपविचारो।",
+      "transliteration": "samayasāro nāmoyaṃ jīva-svarūpa-vicāro.",
+      "translation": "This work called Samayasāra is an inquiry into the true nature of the soul.",
+      "notes": "Samayasāra is a central Digambara philosophical text focusing on the pure soul (śuddha-jīva) and its distinction from karmic bondage. Written in Prakrit with later Sanskrit commentaries, it emphasizes internal realization over external ritual. For many Digambara communities, Kundakunda’s works function as scriptural expositions of the Jina’s teaching, even though they are not part of a preserved canonical Āgama."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Ācārya Kundakunda (Digambara)",
+      "original_text": "प्रवचनसारो नामोयं जिनवचनविचारो।",
+      "transliteration": "pravacanasāro nāmoyaṃ jina-vacana-vicāro.",
+      "translation": "This work called Pravacanasāra is an inquiry into the essence of the Jina’s teaching.",
+      "notes": "Pravacanasāra complements Samayasāra by focusing on the structure of right teaching and the stages of spiritual development. It is part of the Dravya-anuyoga (philosophical exposition) and is treated as a doctrinal scripture in Digambara study. Its authority rests on Kundakunda’s status as an early ācārya and on the alignment of its teachings with broader Jain doctrine."
+    },
+    {
+      "title": "Ratnakaraṇḍa-śrāvakācāra",
+      "author": "Ācārya Samantabhadra (Digambara)",
+      "original_text": "श्रावकाचारो हि धर्मस्य मूलं।",
+      "transliteration": "śrāvakācāro hi dharmasya mūlaṃ.",
+      "translation": "The conduct of the lay follower is indeed the root of dharma.",
+      "notes": "Ratnakaraṇḍa-śrāvakācāra is a key Digambara text on lay ethics, detailing vows, supplementary observances, and the graded path for householders. It belongs to the Caraṇa-anuyoga (conduct literature) and functions as a normative scriptural guide for lay practice. Modern translations and commentaries make it accessible to contemporary communities while emphasizing that detailed guidance should be sought from qualified teachers."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism has a single, universally accepted ‘Bible’ that all sects recognize as the same canon.",
+      "reality": "Jain scriptural authority is plural. Śvetāmbara traditions preserve a Prakrit Āgama canon, while Digambara traditions hold that the original canon was lost and instead treat early scholastic works and doctrinal treatises as authoritative. Both share core doctrines but differ on which texts count as preserved scripture."
+    },
+    {
+      "myth": "All texts labeled ‘Āgama’ or ‘siddhānta’ are identical across Jain communities and have never been disputed.",
+      "reality": "The scope and authenticity of Āgamas and siddhānta are debated. Śvetāmbara lists of canonical texts, including the Aṅgas and related works, are not accepted by Digambaras, who rely on other sources. Even within a sect, councils and redactions have shaped the canon over time, and modern scholarship notes transmission gaps and historical uncertainties."
+    },
+    {
+      "myth": "Modern translations—especially machine-generated or unverified ones—can be treated as fully authoritative replacements for the original Prakrit and Sanskrit scriptures.",
+      "reality": "Community repositories explicitly warn that many modern translations are suitable only for discovery and general understanding. Verified translations by trained scholars and traditional teachers are distinguished from exploratory or AI-generated versions. Serious doctrinal or practical questions are expected to be studied with reference to established editions and under the guidance of qualified ācāryas, upādhyāyas, or paṇḍits."
+    },
+    {
+      "myth": "Digambara doctrinal texts like Samayasāra and Pravacanasāra are merely secondary commentaries and not true scriptural sources.",
+      "reality": "In Digambara practice, works by Kundakunda, Samantabhadra, Pujyapāda, and others function as core doctrinal scriptures, articulating the path of liberation and the nature of reality. They are treated as authoritative expositions of the Jina’s teaching, even though they are not framed as verbatim sermons of Mahāvīra. Calling them ‘secondary’ in a dismissive sense misrepresents their status in living traditions."
+    },
+    {
+      "myth": "Scriptural study in Jainism is purely intellectual and detached from ethical or ascetic practice.",
+      "reality": "Jain scriptural sources are embedded in a discipline of right faith, right knowledge, and right conduct. Texts such as the Ācāranga-sūtra, Tattvārtha-sūtra, and Ratnakaraṇḍa-śrāvakācāra explicitly link doctrinal understanding to vows, restraint, and compassion. Traditional study involves recitation, memorization, and practical application under guidance, not merely abstract reading."
+    }
+  ]
+}

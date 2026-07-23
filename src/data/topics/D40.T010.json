@@ -1,0 +1,43 @@
+{
+  "overview": "Akshaya Tritiya—also known in Jain tradition as *Akṣaya Tṛtīyā* or *Akha Teej*—is a spring festival observed across several Indian religious communities, including Jains, Hindus, and certain regional traditions. Within Jainism, its significance is rooted primarily in the narrative of Lord Ṛṣabhanātha (Ādinātha), the first Tīrthaṅkara. According to Śvetāmbara and Digambara textual lineages, Akshaya Tritiya marks the day when Ṛṣabhanātha ended his year‑long fast after receiving *ikṣu‑rasa* (sugarcane juice) from King Śreyāṃsa. This event is interpreted as the establishment of the first *āhāra‑dāna* (alms-giving) protocol for Jain mendicants.\n\nThe festival typically falls on the third lunar day (*tṛtīyā*) of the bright fortnight (*śukla pakṣa*) of the month of Vaiśākha. In Jain communities, Akshaya Tritiya is associated with themes of generosity, correct ritual offering, and remembrance of the Tīrthaṅkara’s role in shaping mendicant-lay relations. Lay Jains often engage in acts of charity, *dāna*, and scriptural study. Unlike certain Hindu interpretations that emphasize auspicious beginnings or material prosperity, Jain observance centers on restraint, ethical giving, and historical commemoration.\n\nAcross sects, the festival is interpreted with slight variations. Digambara traditions emphasize the austerity of Ṛṣabhanātha’s fast and the doctrinal importance of *āhāra‑samiti* (carefulness in receiving food). Śvetāmbara Mūrti‑pūjaka communities may incorporate temple rituals, *snatra pūjā*, and recitation of Ādinātha-related hymns. Sthānakavāsī and Terāpanth traditions, which do not practice image worship, focus on scriptural discourse, meditation, and ethical reflection. Despite these differences, Akshaya Tritiya remains one of the few festivals universally acknowledged across Jain sects due to its grounding in early narrative literature.\n\nModern Jain communities often use the day to promote vegetarianism, nonviolence, and environmental ethics. Educational programs highlight the symbolic meaning of *akṣaya*—“non-diminishing”—as referring not to material gain but to the inexhaustible merit generated through pure intention, disciplined conduct, and compassionate giving.",
+  "primary_sources": [
+    {
+      "title": "Ādi Purāṇa (Digambara tradition)",
+      "author": "Jinasena and Guṇabhadra",
+      "original_text": "इक्षुरसस्य दानेन तृप्तो ऋषभो मुनेः ।",
+      "transliteration": "ikṣurasasya dānena tṛpto ṛṣabho muneḥ",
+      "translation": "By the offering of sugarcane juice, the sage Ṛṣabha was satisfied.",
+      "notes": "The Ādi Purāṇa (Corpus Tier B–C depending on edition) narrates the episode of King Śreyāṃsa offering *ikṣu‑rasa* to Ṛṣabhanātha, ending his long fast. The text emphasizes the establishment of proper alms-giving and the ethical relationship between mendicants and laypeople."
+    },
+    {
+      "title": "Kalpa Sūtra (Śvetāmbara tradition)",
+      "author": "Attributed to Bhadrabāhu",
+      "original_text": "तत्थ णं इक्षुरसओ दिण्णो, तहा तस्स भत्तं भुञ्जिउं।",
+      "transliteration": "tatthaṇaṃ ikṣurasao diṇṇo, tahā tassa bhattaṃ bhuñjiuṃ",
+      "translation": "There, sugarcane juice was offered, and thus he took nourishment.",
+      "notes": "The Kalpa Sūtra (Corpus Tier A) briefly references the episode within its broader biographical account of Ṛṣabhanātha. Variants exist across manuscripts, and some editions provide only abbreviated references."
+    },
+    {
+      "title": "Triṣaṣṭiśalākāpuruṣacaritra",
+      "author": "Hemacandra",
+      "original_text": "श्रेयान्सेन दत्तेन रसनेन तृप्तिम् अवाप सः।",
+      "transliteration": "śreyānsena dattena rasanena tṛptim avāpa saḥ",
+      "translation": "He attained satisfaction through the juice given by Śreyāṃsa.",
+      "notes": "Hemacandra’s 12th‑century Sanskrit narrative (Corpus Tier C) elaborates on the symbolic meaning of the offering, linking it to the emergence of mendicant discipline and lay responsibility."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Akshaya Tritiya is primarily a Jain festival for purchasing gold or beginning new business ventures.",
+      "reality": "The association with gold and commercial auspiciousness comes from certain Hindu traditions and modern marketing practices. Jain sources emphasize austerity, alms-giving, and remembrance of Ṛṣabhanātha’s fast, not material prosperity."
+    },
+    {
+      "myth": "The term 'akṣaya' means that any action performed on this day yields infinite material benefit.",
+      "reality": "In Jain interpretation, 'akṣaya' refers to the non-diminishing merit of ethically pure actions such as charity, restraint, and devotion. It does not imply guaranteed worldly gain."
+    },
+    {
+      "myth": "All Jain sects celebrate Akshaya Tritiya with identical rituals.",
+      "reality": "While the historical narrative is shared, practices differ: Digambaras emphasize austerity, Śvetāmbara Mūrti‑pūjaka communities may perform temple rituals, and Sthānakavāsī/Terāpanth traditions focus on non-iconic study and meditation."
+    }
+  ]
+}

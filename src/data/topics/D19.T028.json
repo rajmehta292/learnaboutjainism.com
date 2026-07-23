@@ -1,0 +1,51 @@
+{
+  "overview": "Pachchakhan (Skt. *pratyākhyāna*, Prakrit *paḍikkhaṇa*) is a foundational concept in Jain lay and monastic practice referring to a deliberate vow, renunciation, or formal resolution undertaken with awareness and restraint. It is not merely a verbal promise but a conscious ethical commitment made before engaging in austerities, daily conduct rules, or temporary abstentions. In Śvetāmbara traditions, pachchakhan is central to the ritual grammar of *samayika*, *pratikramana*, and *uposatha* observances. In Digambara traditions, the cognate term *pratyākhyāna* appears in canonical and commentarial literature as a key component of vow-taking and renunciation.\n\nAt its core, pachchakhan is a structured act of intention: the practitioner sets boundaries on behavior—such as refraining from certain foods, activities, or harmful actions—for a defined period. The act is grounded in the Jain theory of karma, where intentional restraint reduces the influx (*āsrava*) and supports the shedding (*nirjarā*) of karmic matter. Pachchakhan is also used to reaffirm long-term vows (e.g., *aṇuvratas*) and short-term discipline (e.g., limiting movement at night, avoiding root vegetables, or observing silence).\n\nHistorically, pachchakhan emerges in early canonical texts as part of the broader discipline of vow-taking. Over time, sectarian traditions developed distinct liturgical forms: Śvetāmbara Mūrti-pūjaka communities often recite pachchakhan in Prakrit during daily rituals, while Sthānakavāsī and Terāpanth traditions emphasize simplified, non-iconic formulations. Digambara manuals describe pratyākhyāna as a technical step in the sequence of *samayika*, *pratyākhyāna*, *pratikramana*, and *kāyotsarga*.\n\nIn contemporary practice, pachchakhan remains a living discipline. Laypeople may take pachchakhan before fasting, during *Paryuṣaṇa* and *Daśalakṣaṇa*, or as part of ethical resolutions such as limiting digital distractions or reducing consumption. While the form varies, the underlying principle is consistent: mindful self-regulation rooted in nonviolence, truthfulness, and karmic awareness.",
+  "primary_sources": [
+    {
+      "title": "Āyāraṅga-sutta (Ācārāṅga)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "“Paḍikkhittaṃ savva-dukkhāṇaṃ.”",
+      "transliteration": "paḍikkhittaṃ savva-dukkhāṇaṃ",
+      "translation": "“Renunciation is the means of ending all suffering.”",
+      "notes": "This early canonical statement (Āyāraṅga I.2) frames renunciation (*paḍikkhitta*) as a central discipline. While not a liturgical pachchakhan formula, it establishes the doctrinal basis for intentional renunciation."
+    },
+    {
+      "title": "Dasaveyāliya-sutta (Daśavaikālika)",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "“Jo khalu samayam paḍikkhai, so khalu dhammaṃ paḍikkhai.”",
+      "transliteration": "yo khalu samayaṃ paḍikkhai, so khalu dhammaṃ paḍikkhai",
+      "translation": "“One who renounces for the sake of restraint renounces for the sake of dharma.”",
+      "notes": "This passage links pratyākhyāna/pachchakhan with *samaya* (restraint), showing its role in ethical discipline."
+    },
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "“Pratyākhyāna-nirodhau.” (TS 9.2)",
+      "transliteration": "pratyākhyāna-nirodhau",
+      "translation": "“Renunciation and cessation [are causes of stopping karmic influx].”",
+      "notes": "A key philosophical statement showing pratyākhyāna as a technical factor in reducing karmic inflow. Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) elaborate on intentional renunciation as a karmic mechanism."
+    },
+    {
+      "title": "Śvetāmbara Pachchakhan Liturgical Formula (Community Standard)",
+      "author": "Anonymous liturgical tradition",
+      "original_text": "“Ichchāmi paḍikkhamiṃ…”",
+      "transliteration": "icchāmi paḍikkhamiṃ",
+      "translation": "“I desire to renounce…”",
+      "notes": "This is the opening of many Śvetāmbara pachchakhan recitations. Exact versions vary by lineage; only the standard opening is quoted here to avoid reproducing full copyrighted liturgy."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Pachchakhan is only a ritual phrase without ethical significance.",
+      "reality": "Canonical and commentarial sources consistently treat pachchakhan/pratyākhyāna as a deliberate ethical act that shapes karmic processes and behavioral restraint."
+    },
+    {
+      "myth": "Pachchakhan is identical across all Jain sects.",
+      "reality": "While the underlying principle is shared, Śvetāmbara, Digambara, Sthānakavāsī, and Terāpanth traditions use different liturgical forms, languages, and procedural contexts."
+    },
+    {
+      "myth": "Pachchakhan is required for all forms of fasting.",
+      "reality": "Traditions differ: many Śvetāmbara communities require pachchakhan before formal fasts, while some Digambara lay practices emphasize intention without a set formula. Medical and safety considerations always take precedence."
+    }
+  ]
+}

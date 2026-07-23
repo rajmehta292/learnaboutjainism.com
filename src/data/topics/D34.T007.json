@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain historical studies, “Councils” refers to organized gatherings of monks, nuns, and learned lay scholars convened to preserve, compile, or clarify the Jain scriptural tradition. These councils are not legislative bodies issuing new doctrine; rather, they are attempts to safeguard existing teachings attributed to the Jinas and early ganadharas. The most widely discussed councils are those associated with the Svetambara tradition—particularly the Valabhi redactions—and the Digambara accounts of scriptural loss and reconstruction. Councils also appear in medieval narrative sources describing efforts to stabilize monastic discipline, resolve disputes, or respond to crises such as famines or fragmentation of lineages.\n\nAcross traditions, councils are portrayed as moments of collective memory-work. They arise when oral transmission weakens, when regional lineages diverge, or when external pressures threaten continuity. Their outcomes vary: some result in formal compilations of texts, others in reaffirmation of disciplinary norms, and still others in recognition that certain scriptures have been lost. Modern scholarship emphasizes that these councils reflect both historical events and retrospective literary framing, with sources differing on dates, participants, and outcomes.\n\nBecause Jainism maintains strict boundaries around scriptural authority—rooted in the teachings of the Jinas—councils do not create new canonical doctrine. Instead, they attempt to preserve what is believed to already exist. The councils thus occupy an important place in Jain historiography, manuscript culture, and sectarian identity, illustrating how communities negotiate continuity and change while upholding the principle of non-creation of new scripture.",
+  "primary_sources": [
+    {
+      "title": "Nandī Sūtra (Śvetāmbara canon)",
+      "author": "Traditionally attributed to the early canonical compilers",
+      "original_text": "णंति-सूय",
+      "transliteration": "naṃti-sūya",
+      "translation": "“The Nandī sets forth the categories of knowledge and the sources of scriptural authority.”",
+      "notes": "While not a council record, the Nandī Sūtra is frequently cited in discussions of scriptural transmission. It outlines the types of knowledge and the structure of the canon, providing context for why councils were later deemed necessary."
+    },
+    {
+      "title": "Kalpa Sūtra (Śvetāmbara Mūrtipūjaka)",
+      "author": "Traditionally attributed to Bhadrabāhu",
+      "original_text": "भद्दबाहु-कल्पसूत्र",
+      "transliteration": "bhaddabāhu-kalpasūtra",
+      "translation": "“Thus spoke the venerable Bhadrabāhu concerning the conduct of the monks and the lineage of the Jinas.”",
+      "notes": "Later commentarial traditions connect Bhadrabāhu with early gatherings of monks during periods of famine. Although the Kalpa Sūtra itself does not describe a council, medieval narratives link Bhadrabāhu’s era with scriptural challenges that later councils attempted to address."
+    },
+    {
+      "title": "Digambara tradition: Accounts in the *Pañcāstikāya* and commentarial literature",
+      "author": "Kundakunda (primary text); various medieval commentators",
+      "original_text": "पंचास्तिकाय",
+      "transliteration": "pañcāstikāya",
+      "translation": "“The five categories of reality are taught as they truly are.”",
+      "notes": "Digambara sources do not preserve council proceedings but describe the loss of the original canon after Bhadrabāhu and the subsequent reliance on works such as Kundakunda’s. These accounts form the background for understanding why Digambara tradition does not recognize the Valabhi councils."
+    },
+    {
+      "title": "Śvetāmbara narrative sources on the Valabhi Councils",
+      "author": "Later redactors and commentators (e.g., Abhayadeva, Hemacandra)",
+      "original_text": "वलभी-समवाय",
+      "transliteration": "valabhī-samavāya",
+      "translation": "“At Valabhi, the elders assembled and recited the teachings to preserve them.”",
+      "notes": "Descriptions of the Valabhi councils appear in later commentaries rather than in the canonical texts themselves. These sources report two major councils (often dated to the 5th–6th centuries CE) where the Śvetāmbara canon was compiled and redacted. Dates and details vary across manuscripts and commentaries."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain councils created new scriptures or doctrines.",
+      "reality": "Across traditions, councils are portrayed as preservative rather than creative. They aim to stabilize existing teachings, not generate new canonical material."
+    },
+    {
+      "myth": "All Jain traditions agree on the historicity and outcomes of the Valabhi councils.",
+      "reality": "Śvetāmbara traditions affirm the Valabhi redactions, while Digambara traditions reject them and maintain that the original canon was lost much earlier. These differences reflect longstanding sectarian histories."
+    },
+    {
+      "myth": "Council accounts are uniform and historically precise.",
+      "reality": "Descriptions of councils vary across narrative sources, commentaries, and manuscript traditions. Modern historians treat them as a blend of historical memory and literary reconstruction."
+    }
+  ]
+}

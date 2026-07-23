@@ -1,0 +1,59 @@
+{
+  "overview": "Modern scholarship mode refers to the systematic, critical, and historically aware study of Jainism carried out in universities, research institutes, and peer‑reviewed publications. Within the architecture of Jain study guides, it corresponds primarily to corpus tier C (peer‑reviewed or authoritative scholarship), while remaining anchored to tiers A and B (primary texts and traditional commentaries). This mode treats Jainism as a subject of academic inquiry—using philology, history, anthropology, philosophy, art history, manuscript studies, and comparative religion—without claiming the authority of a Maharaj Saheb, Acharya, monk, nun, or guru. It is descriptive and analytical rather than prescriptive, and its conclusions are always open to revision in light of new evidence.\n\nModern Jain studies emerged in the late nineteenth and twentieth centuries through the work of Indologists and historians who edited Prakrit and Sanskrit manuscripts, produced critical editions, and translated canonical and post‑canonical texts. In recent decades, the field has expanded dramatically: dedicated journals such as the International Journal of Jaina Studies and Jain Journal, book series like Routledge Advances in Jaina Studies, and endowed chairs and research centers across Europe, North America, and India have made Jainism a recognized academic discipline. Scholars investigate topics ranging from early Jain history, sectarian developments, and monastic lineages to ethics, logic, mathematics, ritual, art, archaeology, and modern Jain communities. This scholarship often situates Jain ideas—such as ahiṃsā, anekāntavāda, and karma theory—within broader South Asian and global intellectual histories.\n\nMethodologically, modern scholarship mode emphasizes source criticism and transparency. Researchers distinguish between verified primary texts, later commentaries, and modern interpretations; they document manuscript variants, dating uncertainties, and translation challenges. Claims are mapped to specific sources, and disagreements among scholars are explicitly noted rather than harmonized. For example, debates about the early history of Jainism, the historicity of certain tīrthaṅkaras, or the formation of sectarian canons are presented as ongoing scholarly conversations rather than settled dogma. This mode also pays attention to social context: how Jains have lived, traded, governed, migrated, and negotiated identity in different regions and periods.\n\nModern scholarship mode is not opposed to devotion or practice, but it operates with a different kind of authority. It can clarify historical developments behind current traditions, illuminate the philosophical structure of texts, and highlight ethical resources relevant to contemporary issues such as ecology, nonviolence, and pluralism. At the same time, it recognizes clear boundaries: academic work cannot replace guidance from living lineages on matters of initiation (dīkṣā), sallekhanā, ritual obligations, or community discipline, nor can it substitute for medical, mental‑health, legal, or financial expertise. Responsible use of modern scholarship mode therefore involves reading academic work alongside primary scriptures, traditional commentaries, and qualified human guidance.\n\nWithin the Jain study guide framework, modern scholarship mode is especially important for the History and Manuscript Guide, Comparative Traditions Guide, Modern Ethics Guide, and Prakrit and Sanskrit Guide. It helps students understand how editions of texts were produced, how sectarian canons were shaped, and how Jain thought interacts with Buddhist, Hindu, and other philosophical traditions. It also provides tools for evaluating digital resources, translations, and secondary literature—distinguishing peer‑reviewed work from unverified or speculative material. When used carefully, modern scholarship mode becomes a bridge: it allows lay practitioners, youth, and researchers to engage deeply with Jainism while remaining aware of the limits of academic authority and the need for dialogue with living traditions.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra (Tattvārthādhigama)",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This foundational Jain philosophical text is central to both traditional study and modern scholarship. Contemporary researchers analyze its manuscript history, commentarial traditions, and role in systematizing Jain doctrine. Modern scholarship mode often works with critical editions and translations, comparing different recensions and exploring how later commentators interpreted this opening definition of the path to mokṣa."
+    },
+    {
+      "title": "Ācārāṅga‑sūtra",
+      "author": "Traditionally attributed to early Śvetāmbara canonical redactors",
+      "original_text": "णमो अरिहंताणं, णमो सिद्धाणं, णमो आयरियाणं, णमो उवज्झायाणं, णमो लोए सव्वसाहूणं",
+      "transliteration": "ṇamo arihaṃtāṇaṃ, ṇamo siddhāṇaṃ, ṇamo āyariyāṇaṃ, ṇamo uvajjhāyāṇaṃ, ṇamo loe savva‑sāhūṇaṃ",
+      "translation": "Homage to the Arhats, homage to the Siddhas, homage to the Ācāryas, homage to the Upādhyāyas, homage to all the Sādhus in the world.",
+      "notes": "The Ācārāṅga‑sūtra is one of the oldest Śvetāmbara canonical texts, focusing on monastic conduct and nonviolence. Modern scholarship mode studies its Prakrit language, structure, and historical layers, often comparing Śvetāmbara and Digambara perspectives on early monastic discipline. Scholars also examine how this canonical homage formula relates to later liturgical and sectarian developments."
+    },
+    {
+      "title": "Sarvārthasiddhi (commentary on Tattvārthasūtra)",
+      "author": "Pūjyapāda Devanandin",
+      "original_text": "सम्यग्दर्शनं नाम तत्त्वेषु निश्चयो यथार्थोऽनुभवश्च",
+      "transliteration": "samyag‑darśanaṃ nāma tattveṣu niścayo yathārtho’nubhavaś ca",
+      "translation": "Right faith is the true conviction and authentic experience regarding the realities.",
+      "notes": "This classical Digambara commentary is a key bridge between primary scripture and later philosophical systematization. Modern scholarship mode treats it as a tier B source, analyzing its doctrinal positions, technical vocabulary, and influence on subsequent Jain philosophy. Researchers compare Sarvārthasiddhi with other commentaries to trace sectarian nuances and interpretive strategies."
+    },
+    {
+      "title": "Modern critical editions and academic translations of Jain texts",
+      "author": "Various modern editors and scholars (e.g., philologists and historians of religion)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "Although not themselves primary scriptures, modern critical editions and translations are central tools in modern scholarship mode. Editors collate manuscripts, document variants, and provide introductions that situate texts historically and philosophically. Academic translations often distinguish between literal rendering and interpretive commentary, making explicit where the evidence is strong, where it is contested, and where uncertainties remain. Within the corpus tiers, these works typically belong to tier C but are grounded in tier A and B materials."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Modern scholarship on Jainism replaces the authority of monks, nuns, and traditional lineages.",
+      "reality": "Academic Jain studies analyze texts, history, and practice but do not claim the authority to issue binding religious rulings or guide initiation, vows, or discipline. Modern scholarship mode is complementary to, not a substitute for, guidance from qualified living lineages and teachers."
+    },
+    {
+      "myth": "Modern scholarship mode is inherently hostile to faith and only seeks to criticize or debunk Jain beliefs.",
+      "reality": "While modern scholarship uses critical methods and welcomes debate, many scholars approach Jainism with respect and aim to understand its doctrines, practices, and history accurately. Critical inquiry can clarify contexts, resolve confusions, and highlight the depth of Jain thought without demanding that practitioners abandon devotion or practice."
+    },
+    {
+      "myth": "Only Western or non‑Jain academics participate in modern Jain scholarship, so it cannot represent Jain perspectives.",
+      "reality": "Contemporary Jain studies include a growing number of scholars who are themselves Jains, as well as researchers from India and many other regions. Modern scholarship mode values diverse voices and explicitly distinguishes between descriptive analysis and normative claims, allowing Jain practitioners and non‑practitioners alike to contribute to a shared academic conversation."
+    },
+    {
+      "myth": "Peer‑reviewed articles and academic books are always more reliable than traditional commentaries or community teachings.",
+      "reality": "Academic works can offer valuable historical and philological insights, but they are limited by available evidence, disciplinary methods, and the authors’ perspectives. Traditional commentaries and living teachings preserve experiential, ritual, and doctrinal knowledge that may not be fully captured in modern scholarship. Responsible study treats both as important, while clearly distinguishing their different kinds of authority."
+    },
+    {
+      "myth": "If a modern scholar questions the dating of a text or the historicity of a figure, it means the tradition is false or invalid.",
+      "reality": "Historical and textual criticism often examines how narratives and canons developed over time, without denying their religious significance. Modern scholarship mode can show that certain stories or attributions are layered or symbolic, while still recognizing their role in shaping Jain identity, ethics, and practice. Historical complexity does not negate spiritual value."
+    }
+  ]
+}

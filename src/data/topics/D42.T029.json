@@ -1,0 +1,43 @@
+{
+  "overview": "“No casual animation” is a modern scholarly phrase sometimes used to describe a core Jain ethical and metaphysical stance: that living beings (jīvas) should never be treated as casually created, destroyed, or manipulated for entertainment or convenience. In Jain ontology, every jīva is beginningless, endowed with consciousness, capable of liberation, and bound by karma through its own volitional activity (yoga). Because life is not produced by external agents, divine creation, or spontaneous generation, Jain thinkers emphasize that no being may be ‘animated’ or brought into motion without karmic consequences. The phrase therefore refers to the prohibition—implicit in classical texts and explicit in later commentarial ethics—against treating life as an object of play, spectacle, or experimentation.\n\nIn practice, this principle appears in several domains. First, in ahiṃsā ethics, where harming or disturbing even minute organisms for amusement is condemned. Second, in karmic theory, where the movement of body, speech, and mind (the three yogas) is never casual; each motion binds karma unless guided by restraint (saṃyama). Third, in ritual and artistic contexts, where Jain tradition avoids depictions that imply divine creation or whimsical manipulation of beings. The idea also informs modern Jain discussions about animation media, virtual simulations of violence, and digital representations of living beings.\n\nAlthough the phrase “no casual animation” is not a classical Prakrit term, it accurately summarizes a constellation of teachings found across Śvetāmbara and Digambara sources: life is real, autonomous, and morally significant; motion is ethically charged; and entertainment that trivializes the suffering or manipulation of living beings contradicts ahiṃsā. Scholars use the phrase to help contemporary readers understand why Jain ethics extends beyond physical harm to include intention, imagination, and representational conduct.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "जीवो जीवः स्वभावतः",
+      "transliteration": "jīvo jīvaḥ svabhāvataḥ",
+      "translation": "A living being is living by its own inherent nature.",
+      "notes": "Tattvārtha Sūtra 2.10 emphasizes that life is not created or animated by external agents. This is foundational for the idea that beings cannot be treated as casually produced or manipulated."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples (Śvetāmbara canon)",
+      "original_text": "पाणगहणं न करइ",
+      "transliteration": "pāṇagahaṇaṃ na karaï",
+      "translation": "One should not seize living beings.",
+      "notes": "Ācārāṅga Sūtra I.1 warns against disturbing or manipulating life. Commentaries interpret this as prohibiting playful or careless interference with organisms."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra)",
+      "author": "Pujyapāda (Digambara)",
+      "original_text": "योगः कर्मबन्धहेतुः",
+      "transliteration": "yogaḥ karmabandhahetuḥ",
+      "translation": "Activity (yoga) is the cause of karmic bondage.",
+      "notes": "Sarvārthasiddhi on Tattvārtha Sūtra 6.1 explains that every motion of body, speech, and mind has karmic consequences. This underlies the idea that ‘casual animation’—unreflective motion or manipulation—is ethically significant."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism forbids all forms of artistic or digital animation.",
+      "reality": "Classical texts do not address modern animation. The ethical concern is about trivializing or harming living beings, not about artistic media itself. Modern Jain teachers differ in their interpretations."
+    },
+    {
+      "myth": "‘No casual animation’ means Jains believe life is static and should not move.",
+      "reality": "Jainism teaches that motion is natural to embodied beings. The principle concerns intentionality: motion should not be careless, harmful, or driven by passions that bind karma."
+    },
+    {
+      "myth": "The phrase is a canonical Jain term.",
+      "reality": "It is a modern interpretive label used by scholars to summarize several related Jain doctrines about the sanctity of life and the ethical weight of action."
+    }
+  ]
+}

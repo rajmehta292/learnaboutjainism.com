@@ -1,0 +1,27 @@
+{
+  "overview": "Ethnography is a qualitative research method and a written product that seeks to understand human cultures, social worlds, and everyday practices through sustained, immersive observation. Originating in anthropology, ethnography has become foundational across sociology, religious studies, education, and digital culture research. Its core aim is to describe and interpret how people make meaning within their communities, institutions, and environments.\n\nEthnographers typically engage in long-term fieldwork, living among or regularly visiting the community they study. They use participant observation, interviews, informal conversations, and analysis of artifacts or texts to build a holistic picture of social life. The resulting ethnographic account is not merely descriptive; it interprets cultural patterns, social structures, and symbolic systems. Classic ethnographies often focus on small-scale societies, but contemporary work includes urban neighborhoods, online communities, workplaces, religious groups, and transnational networks.\n\nEthnography emphasizes reflexivity: researchers must critically examine their own positionality, assumptions, and influence on the field. It also foregrounds ethical considerations, including consent, representation, and the potential impact of publication on the community studied. In religious studies—including Jain studies—ethnography helps scholars understand lived practice, ritual performance, community organization, and the ways individuals interpret doctrinal teachings in everyday life.\n\nModern ethnography includes several methodological variations: autoethnography (where the researcher’s own experience becomes data), digital ethnography (focused on online spaces), institutional ethnography (examining power structures within organizations), and multi-sited ethnography (tracking cultural phenomena across multiple locations). Despite its diversity, all ethnography shares a commitment to thick description, contextual interpretation, and attentiveness to the complexity of human social worlds.",
+  "primary_sources": [
+    {
+      "title": "Nāyādhammakahāo (Jain narrative text used in ethnographic-style cultural reconstruction)",
+      "author": "Attributed to Śvetāmbara canonical tradition",
+      "original_text": "णायधम्मकहाओ",
+      "transliteration": "Nāyādhammakahāo",
+      "translation": "“Stories of exemplary conduct” (general translation; individual stories vary by edition).",
+      "notes": "While not an ethnographic text in the modern academic sense, narrative collections like the Nāyādhammakahāo provide culturally embedded accounts of social norms, ethical expectations, and everyday life in early Jain communities. Scholars sometimes use such texts—carefully and with methodological caution—as historical sources to reconstruct social practices, complementing modern ethnographic fieldwork."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Ethnography is simply writing down observations about a community.",
+      "reality": "Ethnography requires systematic fieldwork, theoretical framing, reflexive analysis, and ethical engagement. It is an interpretive discipline, not mere note-taking."
+    },
+    {
+      "myth": "Ethnography must focus on remote or traditional societies.",
+      "reality": "Contemporary ethnography studies urban life, digital communities, workplaces, religious organizations, and transnational networks. It is not limited by geography or cultural type."
+    },
+    {
+      "myth": "Ethnographers remain neutral and invisible in the field.",
+      "reality": "Ethnographers inevitably shape and are shaped by the field. Reflexivity—acknowledging one’s positionality—is a core methodological requirement."
+    }
+  ]
+}

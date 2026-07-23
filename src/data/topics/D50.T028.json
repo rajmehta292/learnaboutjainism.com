@@ -1,0 +1,59 @@
+{
+  "overview": "Citation verification is the disciplined process of checking whether a claim, quotation, or doctrinal statement is accurately grounded in reliable sources, and whether those sources have been correctly identified, transmitted, and interpreted. In a Jain academic and devotional context, citation verification is not merely a technical exercise; it is closely tied to the tradition’s concern for right knowledge (samyag-jñāna), pramāṇa (valid means of knowledge), and the ethical responsibility to avoid misleading others. When a passage from a scripture, commentary, or modern book is cited, verification asks: Does this passage truly occur in the claimed text and edition? Is the wording correct? Is the translation faithful to the original Prakrit or Sanskrit? Has the passage been quoted in a way that respects its context, genre, and intended audience?\n\nIn a source-grounded Jain study system, citation verification begins with identifying the corpus tier of the source. Tier A materials are verified primary texts and critical editions; Tier B includes reviewed traditional commentaries; Tier C consists of peer-reviewed or authoritative scholarship; Tier D covers reviewed community education; Tier E is unverified OCR or AI translation used only for discovery; and Tier F is unknown provenance, quarantined from doctrinal reliance. Verification prioritizes Tier A and B for doctrinal claims, especially when discussing ethics, vows, karma theory, or spiritual stages (guṇasthāna). A statement about, for example, the nature of ahiṃsā or the definition of samyaktva should be traceable to a recognized primary text or commentary, with clear references to chapter, verse, and edition.\n\nTechnically, citation verification involves several layers. First is bibliographic accuracy: confirming the title, author, edition, publisher, year, and page or verse number. Second is textual accuracy: checking that the quoted words match the chosen edition and noting any significant variants across manuscripts or recensions. Third is linguistic accuracy: ensuring that transliteration follows a consistent scheme (such as IAST) and that translations distinguish between literal meaning, interpretive gloss, and doctrinal extrapolation. Fourth is contextual accuracy: verifying that the passage is not being used in a way that contradicts its narrative setting, polemical purpose, or philosophical framework. For example, a verse describing the austerities of advanced ascetics should not be casually applied as prescriptive guidance for laypeople without acknowledging traditional restrictions and commentarial nuance.\n\nCitation verification also requires transparency about disagreement, uncertainty, and limits of evidence. When different sects, lineages, or scholars interpret a passage differently, a responsible citation will indicate that multiple readings exist and will not present one interpretation as universally binding. If a translation is based on a difficult or corrupt manuscript, or if key terms have no exact English equivalent, this should be stated so that readers understand the provisional nature of the rendering. In modern digital environments, where OCR errors, AI-generated paraphrases, and uncurated websites circulate widely, citation verification becomes a safeguard against the rapid spread of misattributed or distorted teachings. It encourages students to trace claims back to stable, reviewed sources rather than relying on screenshots, social media posts, or anonymous compilations.\n\nFrom an ethical perspective, citation verification is part of satya (truthfulness) and aparigraha (non-possessiveness) in intellectual life. Truthfulness demands that one not exaggerate the authority of a text, misquote a revered teacher, or selectively omit context to support a personal agenda. Non-possessiveness encourages humility about one’s own interpretations and a willingness to acknowledge gaps in knowledge or unresolved scholarly debates. In practice, this means clearly separating quotation (exact words from a source), paraphrase (restating in one’s own language), interpretation (explaining meaning within a framework), and application (suggesting how a teaching might relate to contemporary issues). Citation verification checks each of these layers, ensuring that readers can see where the tradition ends and where modern extrapolation begins.\n\nFor students, teachers, and digital systems engaged in Jain studies, citation verification is a continuous discipline rather than a one-time task. New critical editions may refine readings; fresh manuscript discoveries can alter our understanding of textual history; and evolving scholarly methods may challenge older assumptions. A robust verification process remains open to revision while maintaining a clear hierarchy of evidence. It encourages consultation with qualified human experts—such as trained scholars, editors of critical editions, and lineage-based teachers—especially when dealing with complex doctrinal issues, historical controversies, or questions that affect medical, legal, or ethical decisions. In this way, citation verification supports both intellectual rigor and spiritual responsibility, helping ensure that engagement with Jain texts is careful, honest, and aligned with the tradition’s commitment to right knowledge.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "प्रमाणनयवैशेष्याज्ज्ञानं तत्त्वार्थविचारः",
+      "transliteration": "pramāṇa-naya-vaiśeṣyāj jñānaṃ tattvārtha-vicāraḥ",
+      "translation": "Knowledge, distinguished by valid means of knowing and standpoints, is the investigation of the meaning of reality.",
+      "notes": "This aphorism is often cited to frame the Jain concern with valid knowledge (pramāṇa) and partial standpoints (naya). In the context of citation verification, it reminds us that claims about reality must be grounded in recognized means of knowledge and carefully articulated perspectives. When quoting or interpreting this sutra, verification involves checking the Sanskrit wording against critical editions, noting sectarian differences in commentary, and distinguishing the bare aphorism from later explanatory glosses."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "णाणं तु तिहुविहं सच्चं मिच्छं च होइ",
+      "transliteration": "ñāṇaṃ tu tihuviham sacchaṃ micchaṃ ca hoi",
+      "translation": "Knowledge is of three kinds and is either right or wrong.",
+      "notes": "Kundakunda’s discussion of right and wrong knowledge underscores the ethical and spiritual stakes of accurate understanding. Citation verification aligns with the effort to distinguish right knowledge (samyag-jñāna) from wrong knowledge (mithyā-jñāna). When this verse is cited, a careful verifier will confirm the Prakrit wording, consult established editions, and examine how different commentaries classify types of knowledge, rather than relying on isolated or paraphrased versions circulating online."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "सच्चं णाणं चरित्तं च उवओगं च तिहुविहं",
+      "transliteration": "sacchaṃ ñāṇaṃ carittaṃ ca uvayogaṃ ca tihuviham",
+      "translation": "Right knowledge, right conduct, and right concentration are of three kinds.",
+      "notes": "Samayasāra emphasizes the centrality of right knowledge in the path to liberation. In citation verification, this text is frequently used to justify the need for doctrinal precision. A responsible citation will identify the verse number, edition, and any significant textual variants, and will clarify whether the quoted line is being used descriptively (explaining the path) or prescriptively (instructing practice), especially when addressing lay audiences."
+    },
+    {
+      "title": "Pramāṇa-naya-tattvālokālaṅkāra (sections on pramāṇa)",
+      "author": "Ācārya Vidyānandi",
+      "original_text": "प्रमाणं तु यथार्थज्ञानं नयस्तु देशदर्शनम्",
+      "transliteration": "pramāṇaṃ tu yathārtha-jñānaṃ nayas tu deśa-darśanam",
+      "translation": "Pramāṇa is knowledge of reality as it is; naya is partial viewing.",
+      "notes": "Vidyānandi’s distinction between pramāṇa and naya is foundational for understanding how Jain epistemology treats completeness and partiality in knowledge. Citation verification uses this framework to remind students that any single citation may reflect only a partial standpoint. Verifying a citation thus includes checking whether the passage is being presented as complete, or as one naya among many, and whether other relevant passages have been omitted in a way that distorts the overall teaching."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "If a quotation appears widely on websites or social media, it must be an authentic Jain scriptural passage.",
+      "reality": "Widespread circulation does not guarantee authenticity. Many popular quotations are paraphrases, composite summaries, or misattributions. Citation verification requires tracing a passage back to a specific text, edition, and verse or page number, and confirming the wording against reliable sources. Without this process, a statement should not be treated as scriptural authority."
+    },
+    {
+      "myth": "Any text labeled as ‘ancient’ or ‘scriptural’ online can be used as a basis for ethical or medical decisions without further checking.",
+      "reality": "Using unverified or contextless citations for ethical, medical, or legal decisions is unsafe and contrary to Jain principles of right knowledge and non-harm. Responsible practice demands consulting verified primary texts, reviewed commentaries, and qualified human experts, especially when decisions affect health, family responsibilities, or legal obligations. Citation verification is a first step, not a substitute for professional guidance."
+    },
+    {
+      "myth": "A single translated sentence fully captures the meaning of a complex Prakrit or Sanskrit passage, so there is no need to look at the original or commentaries.",
+      "reality": "Translations inevitably involve choices about terminology, nuance, and doctrinal framing. A single English sentence may simplify or omit important aspects of the original. Citation verification encourages checking the original language where possible, consulting multiple translations, and reviewing traditional commentaries to understand the range of possible meanings before drawing strong conclusions."
+    },
+    {
+      "myth": "Once a citation has been verified in one edition, it will be identical in all manuscripts and recensions, so textual history is irrelevant.",
+      "reality": "Jain texts, like other classical works, can have variant readings across manuscripts and editions. Critical scholarship and traditional philology sometimes reveal differences that affect interpretation. Citation verification includes awareness of textual history, noting significant variants and avoiding overconfidence in a single edition when evidence is complex or contested."
+    },
+    {
+      "myth": "Digital tools and AI systems can replace human experts in all aspects of Jain citation verification.",
+      "reality": "Digital tools can assist with searching, cross-referencing, and organizing sources, but they cannot fully replace trained scholars, editors, or lineage-based teachers. Complex doctrinal questions, historical controversies, and sensitive ethical issues require human judgment, lived familiarity with the tradition, and awareness of community norms. Citation verification in a Jain context is strongest when digital methods are combined with qualified human review."
+    }
+  ]
+}

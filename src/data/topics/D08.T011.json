@@ -1,0 +1,43 @@
+{
+  "overview": "Naya (नय / णय) is a foundational concept in Jain epistemology that explains how any statement, judgment, or description of reality is only partially true when viewed from a particular standpoint. It is central to the Jain doctrines of anekāntavāda (many‑sidedness) and syādvāda (conditioned predication). In classical Jain thought, naya is not merely a philosophical device but a disciplined method of analysis that prevents absolutism, encourages intellectual humility, and clarifies how different perspectives can coexist without contradiction.\n\nJain philosophers describe naya as a ‘partial standpoint’ (ekadeśa‑darśana) that highlights one aspect of a complex reality. Because substances (dravya) possess infinite attributes (guṇa) and modes (paryāya), any single description inevitably captures only a fragment. Naya theory therefore trains the student to identify which aspect is being emphasized—substance, quality, mode, practical function, linguistic convention, or logical inference—and to avoid mistaking that partial view for the whole.\n\nAcross Digambara and Śvetāmbara traditions, naya is treated as both a cognitive discipline and a hermeneutic tool. It guides scriptural interpretation, ethical reasoning, and metaphysical analysis. Classical texts often classify naya into two broad families—dravyārthika (substantial) and paryāyārthika (modal)—and further into seven or more sub‑types, each representing a distinct lens through which reality may be approached. Later commentaries refine these categories, debate their boundaries, and explore their application in logic, grammar, and karmic theory.\n\nIn modern scholarship, naya is recognized as one of Jainism’s most sophisticated contributions to global philosophy. It anticipates contemporary discussions on perspectivism, contextual reasoning, and pluralistic epistemology. Yet Jain authors consistently warn that naya must be used with discipline: when misapplied, it can lead to relativism or confusion; when properly applied, it becomes a tool for clarity, non‑violence in thought, and rigorous analysis.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "द्रव्यपर्यायाभ्यां नयाः",
+      "transliteration": "dravya‑paryāyābhyāṁ nayāḥ",
+      "translation": "Standpoints (naya) arise from substance and mode.",
+      "notes": "Tattvārtha Sūtra 1.6 provides the classical twofold division of naya. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārthavṛtti* (Śvetāmbara) elaborate on how substantial and modal standpoints shape epistemic judgments."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Kundakunda (Digambara)",
+      "original_text": "णयसमण्णाणं दुहणं अविरुद्धं",
+      "transliteration": "ṇaya‑samaṇṇāṇaṁ duhaṇaṁ aviruddhaṁ",
+      "translation": "The standpoints, when properly understood, are mutually supportive and non‑contradictory.",
+      "notes": "Kundakunda emphasizes that different nayas do not conflict when their partial nature is recognized. This passage is frequently cited in Digambara study traditions to illustrate the harmony of perspectives."
+    },
+    {
+      "title": "Sanmati Tarka",
+      "author": "Siddhasena Divākara (Śvetāmbara)",
+      "original_text": "एकोऽर्थो नानयैर्नानाविधोऽभिधीयते",
+      "transliteration": "eko’rtho nānayair nānāvidho’bhidhīyate",
+      "translation": "One reality is described in many ways through different standpoints.",
+      "notes": "Sanmati Tarka is a major epistemological treatise that integrates naya with syādvāda. Siddhasena’s analysis is central to Śvetāmbara Mūrti‑pūjaka and Sthānakavāsī philosophical curricula."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Naya means that all viewpoints are equally true.",
+      "reality": "Jain epistemology does not claim that every viewpoint is correct; it claims that each naya captures a partial truth. A naya is valid only when its scope is properly defined and not mistaken for a complete description."
+    },
+    {
+      "myth": "Naya is identical to syādvāda.",
+      "reality": "Naya provides the partial standpoints, while syādvāda provides the method of conditional predication. They are related but distinct systems within Jain epistemology."
+    },
+    {
+      "myth": "Naya encourages relativism or indecision.",
+      "reality": "Classical texts emphasize disciplined analysis. Naya prevents absolutism but does not deny objective reality; it clarifies how different aspects of that reality can be correctly described."
+    }
+  ]
+}

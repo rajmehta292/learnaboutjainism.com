@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, the four degrees of passion (kaṣāya) form a foundational framework for understanding how mental defilements obstruct spiritual progress. Passions—anger (krodha), pride (māna), deceit (māyā), and greed (lobha)—are considered the primary internal forces that bind karma to the soul. Jain texts describe not only the types of passions but also their intensities, because the degree of passion determines the severity of karmic bondage and the soul’s capacity to ascend the guṇasthānas (stages of spiritual development).\n\nThe four degrees are: **anantānubandhī**, **apratyākhyāna**, **pratyākhyāna**, and **sañjvalana**. These range from the most destructive, which prevent any spiritual restraint, to the mildest, which coexist with advanced spiritual states. Anantānubandhī passions are intense, violent, and lead to the heaviest karmic bondage. They obstruct right faith and right conduct entirely. Apratyākhyāna passions are moderate; they prevent partial vows and weaken resolve. Pratyākhyāna passions are milder still; they allow partial restraint but obstruct full renunciation. Sañjvalana passions are subtle, almost imperceptible, and persist even in high spiritual stages until the final destruction of passions.\n\nThis graded system is central to Jain ethics because it links inner psychological states to cosmological consequences. It also provides a practical map for laypeople and ascetics to evaluate their conduct, understand the karmic implications of emotional states, and cultivate progressive self-restraint. While Digambara and Śvetāmbara traditions agree on the fourfold classification, their commentarial traditions occasionally differ in technical details, especially regarding the guṇasthānas in which specific degrees of passion can arise.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अनन्तानुबन्ध्यप्रत्याख्यानाप्रत्याख्यानसंज्वलनाः कषायाः",
+      "transliteration": "anantānubandhyapratyākhyānāpratyākhyānasañjvalanāḥ kaṣāyāḥ",
+      "translation": "The passions are of four kinds: anantānubandhī, pratyākhyāna, apratyākhyāna, and sañjvalana.",
+      "notes": "Tattvārtha Sūtra 9.1 is the most widely cited canonical aphorism defining the four degrees of passion. Digambara and Śvetāmbara commentaries agree on the basic classification but elaborate differently on karmic consequences."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra)",
+      "author": "Pujyapāda",
+      "original_text": "अनन्तानुबन्धिनो मोहकर्मबन्धहेतवः।",
+      "transliteration": "anantānubandhino mohakarmabandhahetavaḥ.",
+      "translation": "Anantānubandhī passions are causes of the bondage of deluding karma.",
+      "notes": "Pujyapāda’s Digambara commentary clarifies that these passions obstruct right faith and bind the heaviest forms of karma."
+    },
+    {
+      "title": "Tattvārtha Vṛtti",
+      "author": "Śrī Pūjyapāda (Śvetāmbara tradition uses Siddhasena Gaṇin’s commentary)",
+      "original_text": "संज्वलनाः सूक्ष्मा भवन्ति।",
+      "transliteration": "sañjvalanāḥ sūkṣmā bhavanti.",
+      "translation": "The sañjvalana passions are subtle.",
+      "notes": "Śvetāmbara commentaries emphasize that sañjvalana passions persist even in advanced guṇasthānas until final liberation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The four degrees of passion refer to four different types of anger, pride, deceit, and greed.",
+      "reality": "They are not different types of passions but different intensities of the same four passions. Each passion can manifest at any of the four degrees."
+    },
+    {
+      "myth": "Only monks need to understand the four degrees of passion.",
+      "reality": "Laypeople also rely on this framework to evaluate ethical conduct, manage emotions, and understand karmic consequences. Jain ethics applies universally."
+    },
+    {
+      "myth": "Sañjvalana passions are harmless because they are subtle.",
+      "reality": "Even subtle passions bind karma and must be eliminated before liberation. Their subtlety makes them harder to detect and uproot."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "overview": "Retrieval-augmented generation (RAG) is an architectural pattern in modern artificial intelligence that combines large language models (LLMs) with external knowledge sources to produce more accurate, up-to-date, and contextually grounded outputs. Traditional LLMs are trained on large but static datasets, which means their knowledge is limited to what was available at training time and encoded in their parameters. RAG addresses this limitation by introducing a retrieval step before or during generation: the system queries one or more external data stores—such as document collections, databases, or APIs—and then conditions the model’s response on the retrieved material.\n\nAt a high level, a RAG pipeline follows four main stages. First, a user query is encoded into a vector or other representation suitable for information retrieval. Second, the system searches an external corpus using techniques like dense vector search, sparse retrieval (e.g., BM25), or hybrid methods to identify semantically relevant passages. Third, the retrieved content is injected into the LLM’s context window, often as a set of citations, snippets, or structured fields. Finally, the LLM generates an answer that is explicitly grounded in this retrieved information, ideally reducing hallucinations and enabling domain-specific or time-sensitive responses. This pattern allows organizations to leverage powerful general-purpose models while keeping proprietary or specialized data in separate, controllable stores.\n\nArchitecturally, RAG systems can vary widely. Canonical implementations use a dual-encoder or other dense retrieval model to index documents into a vector database, with chunking strategies to split long texts into manageable segments. More advanced designs introduce reranking models to refine the initial retrieval results, hierarchical or multi-hop retrieval for complex reasoning across multiple documents, and graph-augmented retrieval that exploits relationships between entities and concepts. Some RAG stacks incorporate trust and safety layers, such as filters for toxic content, source reliability scoring, or mechanisms that force the model to quote or reference specific documents. Others experiment with agentic extensions, where multiple specialized agents coordinate retrieval, reasoning, and verification.\n\nRAG offers several practical benefits. It reduces the need for expensive retraining or fine-tuning of foundation models, since new or proprietary knowledge can be added simply by updating the external corpus and its index. It enables access to current information beyond the model’s training cutoff, which is crucial for domains like law, medicine, finance, and rapidly evolving technical fields. It can also improve transparency: by surfacing citations or document snippets, RAG systems allow users to inspect the sources behind a generated answer. At the same time, RAG introduces new challenges, including the quality and coverage of the underlying corpus, the robustness of retrieval algorithms, the risk of misinterpreting context, and the need for careful evaluation of both retrieval and generation components.\n\nIn practice, RAG is now widely used in enterprise chatbots, question-answering systems, document assistants, and developer tools. Organizations connect LLMs to internal knowledge bases, policy manuals, research archives, or customer support logs, enabling employees and users to query complex information in natural language. Cloud providers and AI platforms offer managed RAG services that integrate vector databases, embedding models, and orchestration frameworks. Research continues to refine RAG architectures, exploring multi-modal retrieval (text, images, audio, video), adaptive pipelines that adjust retrieval strategies based on query type, and trust frameworks that quantify confidence and uncertainty. As generative AI becomes more embedded in critical workflows, RAG stands out as a key technique for aligning model outputs with authoritative, verifiable knowledge.",
+  "primary_sources": [
+    {
+      "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+      "author": "Patrick Lewis et al.",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This 2020 research paper introduced the term \"retrieval-augmented generation\" and described combining a parametric language model with a non-parametric external memory accessed via retrieval at inference time, demonstrating improved performance on knowledge-intensive tasks by conditioning generation on retrieved documents.",
+      "notes": "Foundational academic source that formally defines RAG and presents the canonical architecture of a parametric model augmented with non-parametric memory. Often cited as the origin of the RAG paradigm in modern NLP."
+    },
+    {
+      "title": "Engineering the RAG Stack: A Comprehensive Review of the Architecture and Trust Frameworks for Retrieval Augmented Generation Systems",
+      "author": "Various (arXiv preprint)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This review article surveys RAG architectures, including canonical pipelines, retrieval strategies, reranking, hierarchical and graph-augmented retrieval, and trust calibration mechanisms, offering a taxonomy and best practices for building reliable RAG systems.",
+      "notes": "Provides a systematic overview of RAG design patterns, evaluation frameworks, and safety considerations, useful for understanding the broader ecosystem beyond the original RAG paper."
+    },
+    {
+      "title": "What is Retrieval-Augmented Generation (RAG)?",
+      "author": "NVIDIA Glossary",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Defines RAG as an AI technique where an external data source is connected to a large language model to generate domain-specific or up-to-date responses in real time, emphasizing semantic search, vector databases, and grounding responses in proprietary data to reduce hallucinations.",
+      "notes": "Authoritative industry-oriented explanation that focuses on practical applications, benefits, and challenges of RAG in enterprise settings."
+    },
+    {
+      "title": "What is RAG (Retrieval Augmented Generation)?",
+      "author": "IBM",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Describes RAG as an architecture for optimizing AI model performance by connecting generative models with external knowledge bases, highlighting cost efficiency, access to current domain-specific data, and reduced hallucinations compared to retraining or fine-tuning.",
+      "notes": "Industry guide that contrasts RAG with fine-tuning and explains components of a RAG system for business and technical audiences."
+    },
+    {
+      "title": "What is RAG (Retrieval-Augmented Generation)?",
+      "author": "AWS",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Explains RAG as the process of optimizing LLM output by referencing an authoritative knowledge base outside the training data before generating a response, stressing control over sources, mitigation of outdated or incorrect information, and improved user trust.",
+      "notes": "Cloud provider documentation that situates RAG within broader generative AI offerings and clarifies its role in building trustworthy applications."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "RAG completely eliminates hallucinations and guarantees that all model outputs are correct.",
+      "reality": "RAG reduces hallucinations by grounding responses in retrieved documents, but it does not guarantee correctness. The model can still misinterpret sources, overgeneralize, or combine retrieved information in misleading ways. The quality of the corpus, retrieval, and generation all affect reliability."
+    },
+    {
+      "myth": "Using RAG means you no longer need to evaluate or monitor your AI system.",
+      "reality": "RAG changes the error profile but does not remove the need for evaluation. Both retrieval and generation components must be tested for relevance, accuracy, bias, and safety. Organizations still need monitoring, guardrails, and human review, especially in high-stakes domains."
+    },
+    {
+      "myth": "RAG is just semantic search with a different name.",
+      "reality": "Semantic search retrieves relevant documents, but RAG goes further by using those documents as context for generative models to synthesize answers. Retrieval is a component of RAG, not the whole system; the generative step and its conditioning on retrieved content are central to the architecture."
+    },
+    {
+      "myth": "Once you implement RAG, you never need to retrain or fine-tune models again.",
+      "reality": "RAG can reduce the frequency and cost of retraining by externalizing knowledge, but there are still cases where fine-tuning or domain-specific training is beneficial—for example, to improve reasoning patterns, handle specialized jargon, or align behavior with organizational norms."
+    },
+    {
+      "myth": "Any document collection plugged into RAG will automatically produce high-quality answers.",
+      "reality": "Corpus curation is critical. If the external knowledge base contains outdated, biased, or low-quality material, RAG may faithfully retrieve and amplify those issues. Effective RAG systems require careful selection, cleaning, chunking, and indexing of sources, along with policies for trust and provenance."
+    }
+  ]
+}

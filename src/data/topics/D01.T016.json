@@ -1,0 +1,47 @@
+{
+  "overview": "Respectful visitor questions refer to the thoughtful, non-intrusive inquiries that guests—whether entering a Jain temple, upāśraya, study hall, or participating in community events—may ask to understand Jain practices without disrupting worship, meditation, or monastic discipline. In Jain traditions, visitors are welcomed to learn, but etiquette emphasizes ahiṃsā (non-harm), vinaya (respect), and awareness of the boundaries between lay and monastic conduct. These questions typically focus on clarifying rituals, symbols, ethical principles, and community norms while avoiding topics that require formal authorization, personal confessions, or guidance reserved for trained teachers.\n\nRespectful visitor questions often arise from curiosity about temple architecture, the role of images, the meaning of mantras, or the daily routine of monks and nuns. Because Jain spaces vary across traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—visitors may also ask about differences in practice. Such questions are appropriate when framed with humility and when they avoid assumptions about uniformity across sects. The tradition values inquiry that supports understanding of nonviolence, karma theory, and ethical living, but it discourages questions that pressure practitioners to justify their faith or that seek personal spiritual prescriptions.\n\nIn educational settings, respectful questions help bridge cultural gaps and support interfaith dialogue. They allow visitors to appreciate the depth of Jain philosophy while recognizing that certain topics—such as monastic vows, advanced meditation, or ritual authority—require guidance from qualified human teachers. The emphasis is always on learning without imposing, observing without interfering, and engaging without crossing boundaries of privacy or discipline.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं णंते णंते सुहुमं सुहुमं",
+      "transliteration": "ṇaṃ ṇante ṇante suhumaṃ suhumaṃ",
+      "translation": "“Step carefully, step gently.”",
+      "notes": "From Ācārāṅga Sūtra I.1; although referring to physical movement, traditional commentaries (tier B) interpret this as a broader reminder that all actions—including speech—should be gentle and non-harmful. It is often cited when explaining why visitor questions should be asked with care."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "“Nonviolence is the highest dharma.”",
+      "notes": "Tattvārtha Sūtra 7.1. While widely known, this line is used in temple education to explain why respectful questions avoid causing discomfort, pressure, or disruption."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Kundakunda",
+      "original_text": "विनयो गुणसंपत्ते",
+      "transliteration": "vinayo guṇasaṃpatte",
+      "translation": "“Humility is the attainment of virtue.”",
+      "notes": "Niyamasāra verse 128. Digambara teachers often cite this when explaining the tone expected of visitors asking about monastic conduct."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Visitors should avoid asking any questions in Jain spaces.",
+      "reality": "Inquiry is welcomed when it is respectful, non-disruptive, and does not seek privileged spiritual instructions. Many temples have designated volunteers or educational materials for visitors."
+    },
+    {
+      "myth": "All Jains follow identical rituals, so questions about differences are inappropriate.",
+      "reality": "Traditions differ significantly. Asking about these differences is appropriate when framed with curiosity rather than challenge or comparison."
+    },
+    {
+      "myth": "It is acceptable to ask monks or nuns for personal guidance on life decisions.",
+      "reality": "Jain monastics follow strict boundaries and do not provide medical, legal, financial, or coercive advice. Such questions should be directed to qualified professionals."
+    },
+    {
+      "myth": "Visitors may freely photograph rituals or monastics without asking.",
+      "reality": "Many Jain communities discourage photography during worship or of monastics. Asking permission is essential to avoid inadvertent harm or disrespect."
+    }
+  ]
+}

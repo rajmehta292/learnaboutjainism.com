@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, “standpoints” (Skt. *naya*, Prakrit *ṇaya*) are structured, epistemic perspectives used to analyze reality. They form a core component of Jain logic and are closely linked to *anekāntavāda* (the doctrine of many-sidedness) and *syādvāda* (the doctrine of conditioned predication). Standpoints help explain how a single entity can be described in multiple, seemingly divergent ways without contradiction, provided each description is grounded in a specific analytical lens.\n\nJain thinkers developed the theory of standpoints to address philosophical disputes and to prevent absolutist claims about reality. A standpoint is not a subjective opinion; it is a disciplined method of focusing on one aspect of a complex object or event. Each standpoint highlights a valid facet of truth while acknowledging that it does not capture the whole. Classical Jain texts describe two broad categories—*dravyārthika naya* (substantial standpoint) and *paryāyārthika naya* (modal standpoint)—and elaborate seven or more detailed subdivisions, including *naigama*, *saṅgraha*, *vyavahāra*, *ṛjusūtra*, *śabda*, *samabhirūḍha*, and *evambhūta*.\n\nThe substantial standpoint emphasizes the enduring substance (*dravya*) of an entity, while the modal standpoint emphasizes its transient modes (*paryāya*). For example, a clay pot can be described as clay (substance) or as a pot (mode). Both descriptions are true within their respective standpoints. Jain philosophers used these frameworks to reconcile debates about permanence and impermanence, identity and change, and unity and diversity.\n\nAcross Digambara and Śvetāmbara traditions, the taxonomy of standpoints is largely shared, though commentarial emphases differ. Digambara authors often integrate standpoints into discussions of metaphysics and liberation, while Śvetāmbara Mūrtipūjaka and Sthānakavāsī teachers frequently apply them to scriptural interpretation and ethical reasoning. Modern scholarship highlights standpoints as one of the most sophisticated contributions of Jainism to global philosophy, offering a non-relativistic yet pluralistic model of knowledge.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti/Umāsvāmi (shared across traditions)",
+      "original_text": "द्रव्यपर्यायाभ्यां नयः",
+      "transliteration": "dravyaparyāyābhyāṃ nayaḥ",
+      "translation": "“A standpoint arises from substance and modes.”",
+      "notes": "Tattvārthasūtra 1.6 provides the foundational definition of standpoints. The text is accepted by both Digambara and Śvetāmbara traditions, though commentaries differ in interpretation."
+    },
+    {
+      "title": "Samavāyāṅga (Śvetāmbara canon)",
+      "author": "Attributed to early Jain teachers",
+      "original_text": "णयसमवायो बहुविधो",
+      "transliteration": "ṇaya-samavāyo bahu-vidho",
+      "translation": "“The collection of standpoints is of many kinds.”",
+      "notes": "This canonical text lists categories of standpoints and is used in Śvetāmbara hermeneutics to explain scriptural diversity."
+    },
+    {
+      "title": "Pramāṇa-mīmāṃsā",
+      "author": "Ācārya Akalaṅka (Digambara)",
+      "original_text": "नयस्यैकदेशत्वं तत्त्वनिर्णये",
+      "transliteration": "nayasyaika-deśatvaṃ tattva-nirṇaye",
+      "translation": "“A standpoint is partial in determining truth.”",
+      "notes": "Akalaṅka’s work clarifies that each standpoint captures only a part of reality, preventing absolutist claims."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Standpoints mean that all views are equally true.",
+      "reality": "Jain epistemology does not endorse relativism. Standpoints are disciplined analytical methods, and only those grounded in valid reasoning are accepted."
+    },
+    {
+      "myth": "Standpoints are the same as syādvāda.",
+      "reality": "Standpoints (*naya*) provide partial perspectives, while syādvāda provides a structured method of expressing conditional truths. They are related but distinct systems."
+    },
+    {
+      "myth": "Standpoints deny the possibility of complete knowledge.",
+      "reality": "Jainism teaches that omniscient beings perceive all aspects of reality simultaneously. Standpoints describe human-level, partial cognition, not the limits of omniscience."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical vocabulary, **indescribability** refers to the technical term *avaktavya* or *avaktavya‑naya*, most commonly encountered within the doctrine of *anekāntavāda* (many‑sidedness) and its analytical method *syādvāda* (conditioned predication). Jain thinkers use the term to mark situations in which a phenomenon cannot be adequately captured by a single affirmative or negative statement because its nature involves multiple, conditionally valid aspects. Indescribability does not imply mystical ineffability; rather, it is a precise logical category indicating that a statement cannot be made without qualification.\n\nWithin *syādvāda*, seven conditional predications (*saptabhaṅgī*) are used to express the complexity of reality. One of these is *syād‑avaktavya*: “in some respect, it is indescribable.” This arises when a thing possesses mutually incompatible attributes in different modes or times, making any simple assertion incomplete. For example, a jar that is being destroyed is, in one respect, existent (its substance persists) and, in another respect, non‑existent (its form is vanishing). Because both statements are conditionally true, neither unqualified affirmation nor unqualified negation suffices; thus, the situation is termed indescribable.\n\nDifferent Jain traditions—Digambara and Śvetāmbara—agree on the logical role of indescribability, though their commentarial styles vary. Classical authors emphasize that *avaktavya* is not a metaphysical category but a linguistic‑epistemic one: it concerns the limits of speech when confronted with complex ontological states. Modern scholarship highlights how this concept anticipates multi‑valued logic and contextual reasoning. Indescribability therefore functions as a safeguard against dogmatic absolutism, encouraging careful, qualified discourse about reality.\n\nIn practice, Jain teachers use the notion to illustrate humility in knowledge claims. It reminds students that truth is multifaceted and that responsible speech requires acknowledging the partiality of one’s perspective. However, the term should not be confused with silence practices (*mauna*) or meditative ineffability; its domain is analytic reasoning, not ascetic discipline.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "स्याद्वादोऽनेकान्तवादः",
+      "transliteration": "syādvādo’nekāntavādaḥ",
+      "translation": "“Conditioned predication is the doctrine of many‑sidedness.”",
+      "notes": "While the sūtra does not list the seven predications explicitly, Digambara and Śvetāmbara commentaries (Tier B) explain *syād‑avaktavya* as one of the standard forms. The term *avaktavya* appears in commentarial elaborations describing states that cannot be asserted or denied without qualification."
+    },
+    {
+      "title": "Sanmati Tarka",
+      "author": "Ācārya Siddhasena Divākara",
+      "original_text": "अवक्तव्यं तु यद् रूपं न स्यात् केवलवचनम्",
+      "transliteration": "avaktavyaṃ tu yad rūpaṃ na syāt kevalavacanam",
+      "translation": "“Indescribable is that condition which cannot be expressed by a single, unqualified statement.”",
+      "notes": "A foundational early exposition of Jain logic (Tier A/B). The passage clarifies that indescribability arises from the coexistence of conditionally valid but mutually incompatible attributes."
+    },
+    {
+      "title": "Pramāṇa‑mīmāṃsā (Digambara tradition)",
+      "author": "Ācārya Akalaṅka",
+      "original_text": "अवक्तव्यं द्विरूपत्वात्",
+      "transliteration": "avaktavyaṃ dvirūpatvāt",
+      "translation": "“It is indescribable because it possesses two forms.”",
+      "notes": "Akalaṅka’s analytic treatment (Tier B) explains that indescribability arises when a thing has contradictory states in different modes, making any single assertion insufficient."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Indescribability means that reality is ultimately ineffable or beyond all language.",
+      "reality": "Jain texts use *avaktavya* as a precise logical category, not a mystical claim. It marks cases where unqualified statements fail because multiple conditional truths coexist."
+    },
+    {
+      "myth": "Indescribability implies skepticism or denial of objective reality.",
+      "reality": "Jain philosophy affirms a structured ontology. Indescribability concerns linguistic and epistemic limits, not metaphysical relativism."
+    },
+    {
+      "myth": "Indescribability is identical to silence practices in ascetic life.",
+      "reality": "Silence (*mauna*) is an ethical‑ascetic discipline. Indescribability is a logical predicate within *syādvāda* and is unrelated to vows of silence."
+    }
+  ]
+}

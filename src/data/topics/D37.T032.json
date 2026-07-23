@@ -1,0 +1,59 @@
+{
+  "overview": "Jain astronomy (Jyotiṣa or Gaṇitādhikāra in Jain literature) is a technical and cosmological discipline embedded within the broader Jain understanding of the universe (loka). It combines mathematical astronomy, cosmography, and metaphysical framing. Jain texts do not treat astronomy as a purely physical science; instead, they integrate empirical observations with karmic theory, the structure of the cosmos, and the fixed boundaries of the loka. The tradition spans early canonical works, later scholastic treatises, and medieval mathematical astronomy.\n\nJain cosmology describes a finite, beginningless, and eternal universe shaped like a vertical human figure (loka-puruṣa). The middle world (madhya-loka) contains the Earth (Jambūdvīpa) and celestial bodies visible to humans. Above and below lie realms of heavenly and hellish beings. Astronomical descriptions—such as the motions of the sun, moon, and planets—are embedded within this tripartite structure.\n\nJain astronomical texts provide detailed accounts of planetary motions, eclipse mechanisms, calendrical systems, and time cycles. They often use unique units of measurement (e.g., yojana, sāgaropama) and emphasize periodicity and symmetry. While the cosmological framework differs from modern astrophysics, Jain mathematicians contributed significantly to Indian astronomical computation, including epicyclic models, mean motions, and calendrical algorithms.\n\nAcross Digambara and Śvetāmbara traditions, astronomy is treated as a lay discipline (śruta-jñāna domain) rather than a path to liberation. The texts aim to describe the structure of the cosmos as perceived through human cognition, not to prescribe spiritual practice. Modern scholarship situates Jain astronomy within the broader history of Indian mathematical sciences, noting both shared techniques with Brahmanical astronomy and distinct cosmological commitments.",
+  "primary_sources": [
+    {
+      "title": "Sūryaprajñapti",
+      "author": "Śvetāmbara canonical text (author traditionally anonymous)",
+      "original_text": "सूरियपज्जप्पइ",
+      "transliteration": "Sūriyapajjappaī",
+      "translation": "“The teaching concerning the sun.”",
+      "notes": "A canonical text describing the sun’s motion, seasons, directions, and cosmographical placement. Tier A source. Provides early Jain astronomical models and is paired with the Candraprajñapti."
+    },
+    {
+      "title": "Candraprajñapti",
+      "author": "Śvetāmbara canonical text (anonymous)",
+      "original_text": "चंद्रपज्जप्पइ",
+      "transliteration": "Candrapajjappaī",
+      "translation": "“The teaching concerning the moon.”",
+      "notes": "Describes lunar motion, phases, eclipses, and calendrical implications. Tier A source. Often studied together with the Sūryaprajñapti."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "तिलॊयपण्णत्ति",
+      "transliteration": "Tiloyapaṇṇatti",
+      "translation": "“Three Worlds Description.”",
+      "notes": "A major Digambara cosmological text describing the three realms of the universe, including detailed astronomical and cosmographical measurements. Tier A/B depending on edition."
+    },
+    {
+      "title": "Lokavibhāga",
+      "author": "Sarvanandin (Digambara)",
+      "original_text": "लोकविभाग",
+      "transliteration": "Lokavibhāga",
+      "translation": "“Division of the Universe.”",
+      "notes": "A 5th–6th century CE mathematical-cosmological treatise giving numerical values for planetary motions and cosmographical distances. Tier A/B."
+    },
+    {
+      "title": "Gaṇitasārasaṅgraha",
+      "author": "Mahāvīra (Digambara mathematician)",
+      "original_text": "गणितसारसंग्रह",
+      "transliteration": "Gaṇitasārasaṅgraha",
+      "translation": "“Compendium of the Essence of Mathematics.”",
+      "notes": "A mathematical text with sections relevant to astronomical computation. Tier C for astronomy-specific interpretation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain astronomy is purely mythological and unrelated to mathematical astronomy.",
+      "reality": "Jain texts include both cosmological descriptions and mathematically rigorous astronomical calculations. Works like the Lokavibhāga and Gaṇitasārasaṅgraha demonstrate sophisticated numerical methods."
+    },
+    {
+      "myth": "Jain cosmology attempts to describe the universe in the same way as modern astrophysics.",
+      "reality": "Jain cosmology is a metaphysical and ethical framework. Its astronomical descriptions operate within a fixed loka structure and are not intended as empirical astrophysics."
+    },
+    {
+      "myth": "All Jain traditions present identical astronomical models.",
+      "reality": "While core cosmological structures are shared, Digambara and Śvetāmbara texts differ in numerical values, measurements, and certain descriptive details."
+    }
+  ]
+}

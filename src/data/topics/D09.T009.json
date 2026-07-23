@@ -1,0 +1,51 @@
+{
+  "overview": "Saptabhaṅgī (also spelled Saptabhangi or Saptabhaṅgīnaya) is a central doctrine of Jain epistemology and logic, especially within the tradition of *anekāntavāda*—the principle that reality is multifaceted and cannot be fully captured by any single, absolute statement. The term literally means “sevenfold predication,” referring to seven structured ways of making qualified assertions about any object or phenomenon. These seven modes arise from combining affirmation (*asti*), negation (*nāsti*), and their conjunction (*asti-nāsti*) with the qualifier *syāt* (“from a certain standpoint”).\n\nIn classical Jain thought, Saptabhaṅgī is not a relativistic claim that all statements are equally true; rather, it is a disciplined method for expressing truth with precision. Each predication highlights one aspect of a complex reality, conditioned by viewpoint, time, space, and context. The system appears in both Digambara and Śvetāmbara traditions, though with slight differences in terminology and emphasis. It is closely linked to *syādvāda*, the doctrine of conditioned predication, and *nayavāda*, the doctrine of partial viewpoints.\n\nThe seven predications are:\n1. **Syād-asti** – “In some respect, it is.”\n2. **Syād-nāsti** – “In some respect, it is not.”\n3. **Syād-asti-nāsti** – “In some respect, it is and is not.”\n4. **Syād-asti-avaktavyaḥ** – “In some respect, it is indescribable.”\n5. **Syād-nāsti-avaktavyaḥ** – “In some respect, it is not and is indescribable.”\n6. **Syād-asti-nāsti-avaktavyaḥ** – “In some respect, it is, is not, and is indescribable.”\n7. **Syād-avaktavyaḥ** – “In some respect, it is indescribable.”\n\nThe term *avaktavya* (“indescribable”) does not imply mystical ineffability; instead, it indicates situations where simultaneous conditions make a simple affirmative or negative statement impossible without qualification. Classical commentators emphasize that these seven modes are not arbitrary but arise from logical permutations of affirmation, negation, and indescribability under the conditioning term *syāt*.\n\nHistorically, Saptabhaṅgī is attested in early canonical texts and receives systematic treatment in medieval works such as Samantabhadra’s *Āptamīmāṃsā*, Akalaṅka’s commentaries, and later scholastic treatises. Modern scholarship views it as one of the most sophisticated contributions of Jainism to global philosophical discourse, offering a structured alternative to binary logic and absolutist metaphysics.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra (Tattvārthādhigamasūtra)",
+      "author": "Umāsvāti / Umāsvāmi (traditionally accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "सात्त्विकं स्याद्वादः",
+      "transliteration": "sāttvikaṃ syādvādaḥ",
+      "translation": "“Syādvāda is of a refined (truth-oriented) nature.”",
+      "notes": "Although the Tattvārthasūtra does not list the seven predications explicitly, it affirms the epistemic principle of conditioned predication (*syādvāda*), which is the foundation of Saptabhaṅgī. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s works (Śvetāmbara) elaborate the sevenfold scheme."
+    },
+    {
+      "title": "Āptamīmāṃsā",
+      "author": "Samantabhadra (Digambara)",
+      "original_text": "स्याद्वादो बहुमुखनिर्णयः",
+      "transliteration": "syādvādo bahumukhanirṇayaḥ",
+      "translation": "“Syādvāda is the determination of reality from many facets.”",
+      "notes": "Samantabhadra provides one of the earliest systematic expositions of the logic underlying Saptabhaṅgī. The text emphasizes that each predication expresses a partial truth conditioned by standpoint."
+    },
+    {
+      "title": "Sanmatitarka",
+      "author": "Siddhasena Divākara (Śvetāmbara)",
+      "original_text": "नयस्य स्याद्वादो विस्तारः",
+      "transliteration": "nayasya syādvādo vistāraḥ",
+      "translation": "“Syādvāda is the expansion of the doctrine of viewpoints.”",
+      "notes": "Siddhasena connects Saptabhaṅgī with *nayavāda*, showing how partial viewpoints generate the need for sevenfold predication. His analysis is foundational for Śvetāmbara logic."
+    },
+    {
+      "title": "Nyāyāvatāra and Nyāyāvatāra-vivṛti",
+      "author": "Akalaṅka (Digambara)",
+      "original_text": "अनेकान्ताद् भङ्गिनिर्णयः",
+      "transliteration": "anekāntād bhaṅginirṇayaḥ",
+      "translation": "“From non-one-sidedness arises the determination through predications.”",
+      "notes": "Akalaṅka provides detailed logical justification for the sevenfold scheme, arguing that each predication corresponds to a legitimate epistemic condition."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Saptabhaṅgī claims that all statements are equally true and that Jainism endorses relativism.",
+      "reality": "Jain epistemology insists that truth is objective but complex. Saptabhaṅgī provides a disciplined method for expressing partial truths conditioned by standpoint, not a claim that all views are equally valid."
+    },
+    {
+      "myth": "The seven predications are arbitrary or mystical categories.",
+      "reality": "They arise from systematic logical permutations of affirmation, negation, and indescribability under the qualifier *syāt*. Classical commentators provide rigorous justification for each mode."
+    },
+    {
+      "myth": "Indescribability (*avaktavya*) means the object is beyond language or metaphysics.",
+      "reality": "*Avaktavya* refers to situations where contradictory conditions prevent a simple affirmative or negative statement. It is a logical category, not a mystical one."
+    }
+  ]
+}

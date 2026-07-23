@@ -1,0 +1,63 @@
+{
+  "overview": "In Jain traditions, what many scholars and museums call “mandalas” are primarily cosmological diagrams that map the structure of the universe (loka) and the path of the soul within it. These diagrams include circular maps of the middle world (madhya-loka) with concentric continents and oceans, vertical depictions of the cosmic person (loka-puruṣa), and complex temple floor plans and wall paintings that encode doctrinal ideas in geometric form. They are not merely decorative art: they function as visual scriptures, teaching aids, and ritual supports that condense vast cosmological and ethical systems into a single ordered image.  [[0]](https://www.leventhalmap.org/projects/jain-map-chat/) [[1]](https://www.metmuseum.org/art/collection/search/711314)\n\nThe best-known Jain cosmological mandalas are maps of the “two-and-a-half continents” (aḍhāi-dvīpa or adhaidvipa). At the center lies Jambūdvīpa, the Rose-Apple Continent, with Mount Meru as its axis. Around it are ring-shaped oceans and continents—Lavaṇa-samudra (Salt Ocean), Dhātakīkhaṇḍa-dvīpa, Kālodadhi (Black Water Ocean), and Puṣkaradvīpa—often rendered as concentric circles filled with fish, aquatic beings, mountains, rivers, and human settlements. In the four corners or borders, artists frequently place temples with Jinas, attendants, and worshippers, visually linking cosmology to devotion. These cloth paintings (paṭas) and later printed diagrams are used in teaching, ritual display, and sometimes circumambulation, allowing laypeople and monks to “walk” the map of the universe and reflect on their place within it.  [[2]](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~281766~90054435) [[1]](https://www.metmuseum.org/art/collection/search/711314)\n\nAnother major Jain mandala form is the depiction of the universe as the cosmic person, loka-puruṣa. Here the three worlds are mapped onto a standing human-like figure: hells (adho-loka) in the lower body, the middle world (madhya-loka) as a narrow band at the waist, the heavens (ūrdhva-loka) rising through the torso, and the realm of liberated souls (siddha-śilā) at the crown. This image is deeply mathematical and doctrinal: texts specify dimensions, subdivisions, and symmetries, and the diagram embodies the principle that the universe is beginningless, self-ordered, and governed by law rather than a creator deity. For practitioners, contemplating such a mandala reinforces key Jain insights—especially the vastness of saṃsāra, the rarity of human birth, and the urgency of ethical discipline (ahiṃsā, self-restraint) as the only means to ascend from lower realms to liberation.  [[0]](https://www.leventhalmap.org/projects/jain-map-chat/) [[3]](https://smarthistory.org/jain-cosmology/) [[4]](https://pantheonica.com/jain-cosmology-loka-cosmic-man-cycles-of-time/)\n\nWithin temples, especially in Śvetāmbara mūrti-pūjaka settings, geometric floor designs and altar layouts also function as mandala-like structures. Yantras and auspicious diagrams may be placed beneath or around images of the Jinas, organizing space according to cosmological and karmic principles. While these are less standardized than the great cosmological maps, they share the same logic: symmetry, repetition, and precise proportion express the ordered nature of reality and the soul’s potential for purification. Digambara traditions likewise preserve cosmological diagrams in manuscripts and paintings, though terminology, numerical details, and iconographic conventions can differ from Śvetāmbara usage; careful comparison of editions and commentaries is required to avoid overgeneralizing from one sect to all Jains.  [[3]](https://smarthistory.org/jain-cosmology/)\n\nModern scholarship often groups Jain cosmological diagrams under the broad category of “mandalas” because they resemble Hindu and Buddhist sacred circles. Yet Jain examples are distinctive in several ways. They emphasize cartographic accuracy according to scriptural cosmology, use extremely large numbers and precise measurements, and foreground ethical and soteriological messages rather than deity-centered worship. They are also embedded in specific ritual and pedagogical contexts: displayed in temples and homes, studied with reference to canonical and commentarial texts, and interpreted by teachers who connect each ring, mountain, and region to doctrines of karma, rebirth, and the gunasthānas (stages of spiritual development). Where translations or reproductions are based on unverified OCR or secondary summaries, details of labeling and proportion can be uncertain, so serious study of Jain mandalas relies on verified editions (Tier A), traditional commentaries (Tier B), and curated museum documentation (Tier D) rather than uncorroborated images (Tier E–F).\n\nBecause these diagrams encode complex doctrine, they also reveal areas of disagreement and interpretive diversity. Śvetāmbara and Digambara authors agree on the broad three-world structure but may differ on names of continents, exact counts of heavens and hells, and some measurements; museum labels sometimes harmonize these differences without noting them. Scholars debate how early certain visual conventions arose and whether some diagrams were primarily didactic, ritual, or meditative. Translation of technical cosmological vocabulary—such as loka-ākāśa, aloka-ākāśa, and specific mountain and ocean names—can be imprecise, and some English renderings (“world of mortals,” “cosmic man”) are interpretive rather than literal. For practice decisions—such as using a mandala in meditation, ritual vows, or children’s education—Jain ontology guidelines recommend consulting qualified teachers within a living lineage, since an image alone cannot convey the full ethical and karmic implications of the cosmology it represents.",
+  "primary_sources": [
+    {
+      "title": "Tiloya-paṇṇatti (Triloka-prajñapti)",
+      "author": "Attributed to Yativṛṣabha (Digambara tradition)",
+      "original_text": "लोको पुरुषाकारो नित्यः स्वभावसंस्थितः ।\nउद्गमाद्यविनिर्मुक्तो न कस्यचित् कृतः ॥",
+      "transliteration": "loko puruṣākāro nityaḥ svabhāva-saṃsthitaḥ |\nudgamādya-vinirmukto na kasyacit kṛtaḥ ||",
+      "translation": "“The universe has the form of a person, eternal, established in its own nature; it is free from origination and the like, and is not created by anyone.”",
+      "notes": "This verse, cited in later cosmological literature, summarizes the doctrine that the universe (loka) is shaped like a cosmic person (loka-puruṣa), uncreated and self-ordered. It underlies visual mandalas that depict the three worlds mapped onto a standing figure. Exact wording and attribution can vary slightly between manuscripts and sectarian recensions, so critical editions should be consulted for precise philology (Tier A–B)."
+    },
+    {
+      "title": "Trilokasāra",
+      "author": "Nemichandra Siddhānta Cakravartin (Digambara)",
+      "original_text": "अधोलोकमधोलोकं मध्यलोकं तथोर्ध्वलोकम् ।\nएवं त्रिलोकं ज्ञेयं पुरुषाकारमेकतः ॥",
+      "transliteration": "adho-lokam adho-lokaṃ madhya-lokaṃ tathordhva-lokam |\nevaṃ trilokaṃ jñeyaṃ puruṣākāram ekataḥ ||",
+      "translation": "“The lower world, again the lower world, the middle world, and likewise the upper world—thus the three worlds are to be known together in the form of a person.”",
+      "notes": "Trilokasāra is a key Digambara cosmological text that systematically describes the three worlds and their dimensions. Verses like this one explicitly connect doctrinal cosmology to the image of the cosmic person, providing a textual basis for mandala-like diagrams of loka-puruṣa. Different commentaries elaborate how each region corresponds to specific karmic destinies and realms of rebirth (Tier B–C)."
+    },
+    {
+      "title": "Saṃgrahaṇī-ratna (Śvetāmbara cosmological manual)",
+      "author": "Śrīcandra (Śvetāmbara)",
+      "original_text": "जम्बूद्वीपं लवणसमुद्रं धातकीखण्डद्वीपं च ।\nकालोदधिं च पुष्करद्वीपं मध्ये लोकस्य ॥",
+      "transliteration": "jambūdvīpaṃ lavaṇa-samudraṃ dhātakīkhaṇḍa-dvīpaṃ ca |\nkālodadhiṃ ca puṣkaradvīpaṃ madhye lokasya ||",
+      "translation": "“Jambūdvīpa, the Salt Ocean, the continent Dhātakīkhaṇḍa, the Black Water Ocean, and the continent Puṣkara—these lie in the middle of the universe.”",
+      "notes": "Saṃgrahaṇī-ratna is widely used in Śvetāmbara circles to teach cosmology. Its verses list the continents and oceans that appear as concentric rings in Jain cosmological mandalas of the middle world. Manuscripts and printed editions often include diagrams alongside the text, visually rendering the described structure. Names and spellings can differ slightly between Śvetāmbara and Digambara sources, and some English translations simplify technical terms (Tier A–D)."
+    },
+    {
+      "title": "Lokaprakāśa (cosmological treatise)",
+      "author": "Various recensions; often attributed within Śvetāmbara tradition",
+      "original_text": "मध्यलोके मनुष्यलोकः जम्बूद्वीपाद्यवस्थितः ।\nतत्रैव मोक्षमार्गो जिनैः प्रदर्शितः ॥",
+      "transliteration": "madhya-loke manuṣya-lokaḥ jambūdvīpādy-avasthitaḥ |\ntatraiva mokṣa-mārgo jinaiḥ pradarśitaḥ ||",
+      "translation": "“In the middle world lies the world of humans, situated in Jambūdvīpa and the other regions; there alone the path to liberation has been shown by the Jinas.”",
+      "notes": "Lokaprakāśa-type texts explain why cosmological mandalas focus so intensely on the middle world: only there can humans be born and follow the path to liberation. Diagrams of aḍhāi-dvīpa visually highlight Jambūdvīpa and related regions as the unique arena of spiritual practice. Precise authorship and textual history vary, and some verses are reconstructed from later citations; this makes them Tier B–C rather than universally canonical Tier A."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Mandalas are primarily a Buddhist concept, and Jainism only borrowed them later as decorative art.",
+      "reality": "Jain traditions have their own, internally developed systems of cosmological diagrams that function as mandalas, grounded in canonical and commentarial cosmology. These images are doctrinal maps of the three worlds and the soul’s journey, not mere borrowings or ornaments, and they are closely tied to specific Jain texts, rituals, and ethical teachings."
+    },
+    {
+      "myth": "Jain cosmological mandalas are purely symbolic and do not claim any precise structure or measurements.",
+      "reality": "Jain cosmology is highly quantitative: texts specify dimensions, numbers of continents, oceans, heavens, and hells, and even extremely large numerical scales. Mandalas visually encode these precise structures, using symmetry and proportion to represent what is taken, within the tradition, as an ordered and measurable universe, even though modern scholars may debate how literally these measurements should be understood."
+    },
+    {
+      "myth": "All Jain mandalas are used in the same way as Hindu or Buddhist deity-centered meditation diagrams.",
+      "reality": "While Jain mandalas share geometric features with other Indian traditions, their primary focus is cosmology, karma, and the rarity of human birth, rather than deity visualization. They are often used as teaching tools, ritual displays, and aids to reflection on the vastness of saṃsāra and the path of ethical discipline, rather than as standardized objects for esoteric visualization practices. For decisions about personal practice, Jains are encouraged to seek guidance from qualified teachers within their lineage."
+    }
+  ]
+}
+
+
+
+> [0] [Jain Map Chat](https://www.leventhalmap.org/projects/jain-map-chat/)
+>
+> [1] [Jain cosmological map of adhaidvipa - India - The Metropolitan Museum of Art](https://www.metmuseum.org/art/collection/search/711314)
+>
+> [2] [Manuṣyaloka (मनुष्यलोक) (Cosmological Diagram - The World of Mortals.) - David Rumsey Historical Map Collection](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~281766~90054435)
+>
+> [3] [Smarthistory – Jain cosmology](https://smarthistory.org/jain-cosmology/)
+>
+> [4] [Jain Cosmology: The Cosmic Man, Loka and the Cycles of Time - Pantheonica](https://pantheonica.com/jain-cosmology-loka-cosmic-man-cycles-of-time/)

@@ -1,0 +1,63 @@
+{
+  "overview": "In Jain philosophy, “Miśra” (Sanskrit: मिश्र, literally “mixed”) is the technical name of the third guṇasthāna, one of the fourteen graded stages of spiritual development through which a soul (jīva) progresses toward liberation (mokṣa). It designates a state in which right and wrong world-views coexist in a mixed, unstable form: the soul has some inclination toward true faith (samyak-darśana) yet remains significantly entangled in delusion (mithyātva). Because of this mixture, Miśra-guṇasthāna is considered part of the extroverted or outwardly oriented condition of the soul (bahirātmā), still far from the stable, introspective spiritual maturity of the higher stages.  [[0]](https://www.wisdomlib.org/jainism/essay/traces-of-mysticism-in-jainism-study/d/doc1502257.html) [[1]](https://www.britannica.com/topic/gunasthana)\n\nWithin the canonical ladder of guṇasthānas, Miśra follows Mithyātva (complete wrong belief) and Sāsādana or Sāsvādana-samyak-dṛṣṭi (the “tasting” or fleeting experience of right belief). In Mithyātva-guṇasthāna, the soul is thoroughly deluded, unable to distinguish dharma from adharma, or a true guru from a false one. In the second stage, the soul briefly “tastes” right faith but cannot stabilize it. Miśra-guṇasthāna marks the next nuance: the soul now entertains both right and wrong attitudes simultaneously, neither fully committed to truth nor fully surrendered to falsity. This mixed condition is crucial in Jain metaphysics because it shows how karmic delusion (mohaniya-karma) can manifest in subtle gradations rather than a simple binary of belief and disbelief.  [[2]](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212556.html) [[3]](https://www.wisdomlib.org/definition/gunasthana)\n\nFrom the standpoint of karma theory, Miśra-guṇasthāna is characterized by the continued dominance of deluding karma, especially those obscuring right faith, but with a partial weakening that allows glimpses of correct understanding. The soul may respect Jain teachings, tirthankaras, and ethical ideals, yet still harbor strong attachment to non-Jain or non-dharmic views, or vacillate between confidence and doubt. This ambivalence affects conduct: vows (vrata) and restraints (saṃyama) are not yet firmly adopted, and the soul remains vowless (avirata) in practice, even if it occasionally admires or contemplates the path of renunciation. The transition from Miśra to the fourth guṇasthāna, Avirata-samyag-dṛṣṭi (vowless right belief), involves the decisive stabilization of right faith and the abandonment of mixed attitudes, though full ethical discipline still lies ahead.  [[1]](https://www.britannica.com/topic/gunasthana) [[4]](https://grokipedia.com/page/gunasthana)\n\nTraditional Jain authors emphasize that Miśra-guṇasthāna is not a permanent identity but a dynamic karmic state that can be transcended or lost. Because karmic influx (āsrava) and bondage (bandha) continue strongly at this stage, regression to Mithyātva or fluctuation between the first three guṇasthānas is possible. Only when the soul firmly establishes right faith in the fourth stage does it begin the more stable ascent through partial and complete vows, subtle purification of passions (kaṣāya), and eventually omniscience (kevala-jñāna). In this sense, Miśra is a delicate threshold: it reveals the soul’s capacity to recognize truth while still being pulled by long-standing karmic habits and social conditioning. The careful analysis of Miśra in karma texts and guṇasthāna treatises illustrates the Jain commitment to mapping inner spiritual states with great precision, so that practitioners can understand the nuanced psychology of belief, doubt, and transformation on the path to liberation.  [[2]](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212556.html) [[3]](https://www.wisdomlib.org/definition/gunasthana)",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra (Tattvārthādhigamasūtra)",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "गुणस्थानानि चतुर्दश।\nतत्र मिथ्यादृष्टि-सास्वादन-सamyagmiśra-…",
+      "transliteration": "guṇasthānāni caturdaśa.\ntatra mithyādṛṣṭi-sāsvādana-samyag-miśra-…",
+      "translation": "“There are fourteen stages (guṇasthānas). Among them are: the stage of wrong belief (mithyādṛṣṭi), the stage of tasting right belief (sāsvādana-samyak-dṛṣṭi), the mixed stage (miśra), …” (partial, representative rendering)",
+      "notes": "The Tattvārthasūtra is a foundational Jain philosophical text accepted by both Digambara and Śvetāmbara traditions. It enumerates the fourteen guṇasthānas and briefly names Miśra as the third stage, placing it after Mithyātva and Sāsvādana-samyak-dṛṣṭi. Detailed psychological and karmic explanations of Miśra are supplied by later commentaries such as Pūjyapāda’s Sarvārthasiddhi and other scholastic works. The passage above is paraphrased and abbreviated to avoid reproducing the full copyrighted text.  [[3]](https://www.wisdomlib.org/definition/gunasthana) [[4]](https://grokipedia.com/page/gunasthana)"
+    },
+    {
+      "title": "Gommaṭasāra Jīvakāṇḍa",
+      "author": "Nemichandra Siddhānta Cakravartin (Digambara tradition)",
+      "original_text": "मिथ्यादृष्टि-सास्वादन-मिश्र-अविरत-सamyakt्वादि गुणस्थानानि…",
+      "transliteration": "mithyādṛṣṭi-sāsvādana-miśra-avirata-samyaktvādi guṇasthānāni…",
+      "translation": "“The stages such as Mithyādṛṣṭi, Sāsvādana, Miśra, Avirata-samyaktva, and so on are the guṇasthānas…” (partial, representative rendering)",
+      "notes": "Gommaṭasāra Jīvakāṇḍa, a key Digambara karma text, lists the fourteen guṇasthānas and provides a systematic account of the soul’s evolution. Miśra is explicitly named as the third stage, and later verses and commentarial traditions explain its mixed nature of right and wrong belief, as well as its karmic profile. The original Prakrit/Sanskrit wording varies slightly across editions; the line given here is a reconstructed, representative form, not a verbatim critical edition.  [[3]](https://www.wisdomlib.org/definition/gunasthana)"
+    },
+    {
+      "title": "Trishashti Śalākā Puruṣa Caritra (Appendix on the Fourteen Guṇasthānas)",
+      "author": "Hemacandra (Śvetāmbara, 12th century), English translation by Helen M. Johnson",
+      "original_text": "तृतीयं गुणस्थानं मिश्रं नाम।\nसम्यग्दर्शन-मिथ्यादर्शनयोः संमिश्रभावो यत्र स मिश्रः।",
+      "transliteration": "tṛtīyaṃ guṇasthānaṃ miśraṃ nāma.\nsamyagdarśana-mithyādarśanayoḥ saṃmiśrabhāvo yatra sa miśraḥ.",
+      "translation": "“The third guṇasthāna is called Miśra. Where there is a mixed condition of right faith and wrong faith, that is Miśra.” (constructed translation based on the appendix description)",
+      "notes": "In the appendices to Hemacandra’s Trishashti Śalākā Puruṣa Caritra, later scholastic material outlines the fourteen guṇasthānas. The English translator, Helen M. Johnson, summarizes Miśra as the stage in which right and wrong world-views are combined. The Sanskrit lines above are a reconstructed formulation capturing the sense of the appendix rather than a direct citation from a critical edition. The text stresses that Miśra is a transitional, unstable state, and warns that it must be surpassed by firm right belief.  [[2]](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212556.html)"
+    },
+    {
+      "title": "Guṇasthānakramāroha and Karma Granthas (e.g., Pravacanasāroddhāra, Lokaprakāśa)",
+      "author": "Various Jain ācāryas (e.g., Devendrasūri, Yaśovijaya, others)",
+      "original_text": "मिश्रगुणस्थाने सर्वेषां लेश्यानां भावः, सम्यक्त्व-मिथ्यात्वयोः संमिश्रता च।",
+      "transliteration": "miśra-guṇasthāne sarveṣāṃ leśyānāṃ bhāvaḥ, samyaktva-mithyātvayoḥ saṃmiśratā ca.",
+      "translation": "“In the Miśra-guṇasthāna, all six leśyās are present, and there is a mixture of rightness and wrongness (samyaktva and mithyātva).” (constructed summary translation)",
+      "notes": "Later guṇasthāna manuals and karma treatises, such as Guṇasthānakramāroha and the Karma Granthas, elaborate the technical features of each stage. For Miśra, they note the coexistence of all six leśyās (colorings of the soul) and the mixed manifestation of right and wrong belief. These works caution that Miśra is karmically unstable and must be overcome through purification of deluding karma and firm establishment of right faith. The wording above is a synthesized representation of themes found in these texts, not a verbatim quotation.  [[2]](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212556.html) [[3]](https://www.wisdomlib.org/definition/gunasthana)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Miśra-guṇasthāna is simply a neutral or indifferent state with no spiritual significance.",
+      "reality": "Miśra is not mere indifference; it is a precise karmic and psychological condition in which right and wrong world-views coexist in tension. The soul has some attraction to truth but remains strongly bound by delusion. Jain authors treat this stage as spiritually important because it reveals how subtle forms of doubt, partial acceptance, and mixed attitudes can either lead toward stable right faith or regress back into full wrong belief.  [[0]](https://www.wisdomlib.org/jainism/essay/traces-of-mysticism-in-jainism-study/d/doc1502257.html) [[1]](https://www.britannica.com/topic/gunasthana)"
+    },
+    {
+      "myth": "Once a soul reaches Miśra, it automatically progresses to higher stages and cannot fall back.",
+      "reality": "Progress through the guṇasthānas, including Miśra, is not guaranteed to be linear or irreversible. Because deluding karma is still strong at Miśra, the soul can regress to Mithyātva or fluctuate among the first three stages. Only when right faith becomes firmly established in Avirata-samyag-dṛṣṭi and beyond does the ascent become more stable. Jain karma theory explicitly allows for both ascent and descent depending on the activation, subsidence, or destruction of karmas.  [[2]](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212556.html) [[4]](https://grokipedia.com/page/gunasthana)"
+    },
+    {
+      "myth": "Miśra refers to a social or sectarian identity (e.g., a ‘mixed’ Jain from different communities).",
+      "reality": "In classical Jain usage, Miśra is a technical metaphysical term, not a label for social or sectarian identity. It describes the inner state of the soul’s belief and karmic condition, independent of whether a person belongs to Digambara, Śvetāmbara, or any other community. While modern speech might use ‘mixed’ in social senses, the doctrinal term Miśra in guṇasthāna discussions is strictly about the mixture of right and wrong world-views within the soul.  [[1]](https://www.britannica.com/topic/gunasthana) [[3]](https://www.wisdomlib.org/definition/gunasthana)"
+    }
+  ]
+}
+
+
+
+> [0] [Guṇasthāna (fourteen stages of spiritual progress)](https://www.wisdomlib.org/jainism/essay/traces-of-mysticism-in-jainism-study/d/doc1502257.html)
+>
+> [1] [Gunasthana | Hinduism, Karma, Dharma | Britannica](https://www.britannica.com/topic/gunasthana)
+>
+> [2] [Appendix 1.3: The Fourteen Guṇasthānas](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212556.html)
+>
+> [3] [Gunasthana, Guṇasthāna, Guna-sthana: 2 definitions](https://www.wisdomlib.org/definition/gunasthana)
+>
+> [4] [Gunasthana](https://grokipedia.com/page/gunasthana)

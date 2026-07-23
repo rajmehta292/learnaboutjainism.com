@@ -1,0 +1,35 @@
+{
+  "overview": "In Jain studies, an **edition citation** refers to the precise and verifiable bibliographic reference to a specific published edition of a Jain text. Because Jain scriptures and commentaries exist in multiple recensions, manuscript lineages, sectarian redactions, and modern critical editions, accurate edition citation is essential for scholarly clarity, inter-sect comparison, and responsible use of primary sources.\n\nEdition citation ensures that readers can locate the exact version of a text used in analysis. Jain canonical and post-canonical works often vary across Digambara and Śvetāmbara traditions, and even within sub-sects such as Mūrtipūjaka, Sthānakavāsī, and Terāpanth. Manuscripts may differ in Prakrit orthography, Sanskrit commentary layers, colophons, and scribal interpolations. Modern editors frequently include variant readings (pāṭha-bheda), apparatus criticus, and cross-references to earlier editions. Without edition citation, it becomes impossible to determine which textual witness supports a given interpretation.\n\nIn academic Jainology, edition citation typically includes: (1) the title of the work; (2) the editor(s); (3) the publication series; (4) the publisher; (5) the year of publication; (6) page and verse numbers; and when relevant, (7) manuscript sigla or critical apparatus references. For digital editions, stable identifiers such as DOIs or archive numbers are increasingly used.\n\nWithin Jain traditions, responsible edition citation also supports doctrinal transparency. For example, a Digambara edition of *Tattvārthasūtra* may include Pūjyapāda’s *Sarvārthasiddhi*, while a Śvetāmbara edition may include Siddhasena Gaṇin’s *Tattvārthādhigama-bhāṣya*. Citing the edition clarifies which interpretive lineage is being referenced. This practice aligns with the Jain epistemic emphasis on *anekāntavāda*, acknowledging multiple perspectives and textual histories.\n\nThus, edition citation is not merely a bibliographic formality but a methodological foundation for rigorous, source-grounded Jain studies.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra (commonly attributed to Umāsvāti/Umāsvāmi)",
+      "author": "Umāsvāti (sectarian attribution varies)",
+      "original_text": "तत्त्वार्थसूत्रम् १.१: सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "tattvārthasūtram 1.1: samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct are the path to liberation.",
+      "notes": "This verse appears consistently across major editions, but commentary layers differ. A Digambara edition may cite Pūjyapāda’s *Sarvārthasiddhi* (e.g., 1918 Nirnaya Sagar Press), while a Śvetāmbara edition may cite Siddhasena Gaṇin’s commentary (e.g., 1968 Jain Vishva Bharati). Edition citation clarifies which interpretive tradition is being used."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara canon)",
+      "author": "Attributed to early Jain community; redactional history complex",
+      "original_text": "सीयालग्गं सुयक्खाणं।",
+      "transliteration": "sīyālaggaṃ suyakkhāṇaṃ.",
+      "translation": "Thus begins the venerable scripture.",
+      "notes": "Different printed editions (e.g., 1916 Āgamodaya Samiti; 1968 Prakrit Text Society) contain variant readings and differing chapter divisions. Edition citation is necessary to identify the exact recension."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain scriptures have a single, universally accepted edition.",
+      "reality": "Jain texts often exist in multiple sectarian recensions and modern critical editions. Accurate edition citation is required to specify which textual witness is being used."
+    },
+    {
+      "myth": "If two editions share the same title, they are identical.",
+      "reality": "Titles may be identical while content, commentary layers, and manuscript bases differ significantly. Edition citation prevents misinterpretation."
+    },
+    {
+      "myth": "Modern digital versions remove the need for edition citation.",
+      "reality": "Digital editions vary in accuracy, provenance, and editorial rigor. They still require full citation, including editor, platform, and version."
+    }
+  ]
+}

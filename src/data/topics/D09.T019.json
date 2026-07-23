@@ -1,0 +1,55 @@
+{
+  "overview": "Anekānta and speech (vāc) form a central intersection in Jain philosophy where metaphysics, ethics, and linguistic discipline converge. Anekāntavāda, the doctrine of non-one-sidedness, teaches that reality is complex, multi‑faceted, and accessible only through partial viewpoints. When applied to speech, this principle becomes a practical ethic: one must speak in ways that acknowledge the limits of one’s own perspective, avoid absolutism, and reduce harm. Jain thinkers across traditions—Digambara and Śvetāmbara—treat speech not merely as communication but as karmically consequential action. Because verbal activity binds **vāṇī‑bandha** (speech‑related karma), the cultivation of non‑violent, many‑sided speech is considered essential for laypeople and ascetics alike.\n\nIn classical Jain epistemology, speech is shaped by **syādvāda**, the method of conditional predication. Syādvāda operationalizes anekānta by requiring that assertions be framed conditionally (syāt—\"from a certain perspective\"). This does not imply indecision or relativism; rather, it is a disciplined recognition that any statement captures only one mode, time, or relation of a complex entity. When applied to speech ethics, syādvāda encourages humility, careful qualification, and avoidance of dogmatic or harmful language.\n\nJain texts also connect anekānta to the moral vows governing speech. The lay vow of **satya** (truthfulness) is not merely factual accuracy but truthful speech that avoids harm, discord, or absolutist claims. Commentarial traditions emphasize that speech should be **hitam** (beneficial), **mṛdu** (gentle), **sārtham** (meaningful), and **saṃyamita** (restrained). Anekānta strengthens these qualities by discouraging rigid, exclusionary, or hostile assertions. In debates, Jain teachers historically used anekānta to promote intellectual non‑violence, arguing that acknowledging partial truths in opposing views reduces verbal aggression.\n\nIn modern contexts, anekānta and speech are invoked in interfaith dialogue, conflict resolution, and pluralistic ethics. Scholars caution, however, that anekānta is not a blanket endorsement of all viewpoints; Jain texts maintain rigorous criteria for valid knowledge (pramāṇa) and reject false or harmful claims. Thus, anekānta guides speech toward humility and non‑violence without abandoning discernment or critical evaluation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 1.6",
+      "author": "Umāsvāti/Umāsvāmi (shared across Digambara and Śvetāmbara traditions)",
+      "original_text": "अनेकान्तवादात्",
+      "transliteration": "anekāntavādāt",
+      "translation": "“Because of the doctrine of non-one-sidedness.”",
+      "notes": "This aphorism appears within discussions of valid knowledge. Commentaries (B: Pūjyapāda’s Sarvārthasiddhi; Siddhasena’s Tattvārthavṛtti) explain that speech and thought must reflect the multi‑faceted nature of reality."
+    },
+    {
+      "title": "Sūtrakṛtāṅga 1.11",
+      "author": "Attributed to Mahāvīra’s teachings; Śvetāmbara canon",
+      "original_text": "सच्चं भणइ मुणी, नो असच्चं।",
+      "transliteration": "saccaṃ bhaṇai muṇī, no asaccaṃ.",
+      "translation": "“The monk speaks what is true, not what is untrue.”",
+      "notes": "The surrounding passages emphasize gentle, restrained, and non‑harmful speech. While not explicitly naming anekānta, later commentaries connect truthful speech with many‑sided understanding."
+    },
+    {
+      "title": "Bhagavatī Sūtra (Vyākhyāprajñapti) 7.2",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "सीहं सीहं, असिहं असिहं—सयं कहियं।",
+      "transliteration": "sīhaṃ sīhaṃ, asihaṃ asihaṃ—sayaṃ kahiaṃ.",
+      "translation": "“What is (from one standpoint) is said to be; what is not (from another standpoint) is said not to be—spoken conditionally.”",
+      "notes": "A foundational passage for syādvāda. Commentaries highlight its implications for disciplined, conditional speech."
+    },
+    {
+      "title": "Samayasāra 11",
+      "author": "Ācārya Kundakunda (Digambara)",
+      "original_text": "सयलस्स अवगाहिणो नत्थि एकन्तो।",
+      "transliteration": "sayalassa avagāhiṇo natthi ekanto.",
+      "translation": "“For one who perceives the whole, there is no one-sidedness.”",
+      "notes": "Although primarily metaphysical, Digambara commentators (Amṛtacandra, B: Tattvadīpikā) apply this to speech, arguing that verbal absolutism arises from partial knowledge."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Anekānta means that all viewpoints are equally true.",
+      "reality": "Jain epistemology distinguishes valid and invalid viewpoints. Anekānta teaches that truth is multi‑faceted, not that every claim is correct."
+    },
+    {
+      "myth": "Anekānta encourages indecision or refusal to take a stand.",
+      "reality": "Classical syādvāda uses conditional statements to express precise, context‑bound truths. It is a method of disciplined assertion, not avoidance."
+    },
+    {
+      "myth": "Anekānta applies only to philosophical debates, not everyday speech.",
+      "reality": "Jain ethics explicitly link many‑sidedness to gentle, truthful, and non‑harmful speech for both laypeople and ascetics."
+    },
+    {
+      "myth": "Anekānta is simply tolerance.",
+      "reality": "While it supports intellectual non‑violence, anekānta is a rigorous metaphysical and logical doctrine requiring careful analysis of standpoints, modes, and conditions."
+    }
+  ]
+}

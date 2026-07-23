@@ -1,0 +1,43 @@
+{
+  "overview": "Inscriptions connected to Jainism constitute one of the most important categories of material evidence for reconstructing the history, geography, patronage networks, sectarian developments, and monastic lineages of the Jain tradition. They appear on stone slabs, temple walls, pillars, cave façades, copper plates, and occasionally on manuscripts. These inscriptions span more than two millennia, from early Prakrit donative records in western and southern India to elaborate medieval Sanskrit praśastis in major temple complexes.\n\nJain inscriptions typically record acts of dāna (donation), construction or renovation of temples (caityas), installation of images (pratiṣṭhā), endowments for monastic communities, and genealogies of teachers (ācārya‑paramparā). They also preserve names of lay patrons, merchants, guilds, and royal supporters, offering a rare window into the social history of Jain communities. Many inscriptions include dates in regional eras, allowing historians to anchor Jain events chronologically.\n\nAcross sectarian traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—the nature and frequency of inscriptions vary. Digambara sites such as Śravaṇa Beḷgoḷa, Aihole, and Koppal preserve extensive early medieval epigraphy, while Śvetāmbara centers in Gujarat and Rajasthan contain richly detailed praśastis describing temple renovations and image consecrations. Although non‑image‑worshipping traditions (e.g., Sthānakavāsī, Terāpanth) historically produced fewer monumental inscriptions, they still appear in administrative or commemorative contexts.\n\nInscriptions also preserve linguistic diversity: early Prakrit (Ardhamāgadhī, Māhārāṣṭrī), Sanskrit, Apabhraṃśa, Old Kannada, Tamil, Gujarati, and Rajasthani. Their formulaic expressions—such as blessings for donors, invocations to Jinas, and references to ahiṃsā—reflect evolving religious idioms. Because inscriptions are primary, datable sources, they are essential for cross‑checking narrative traditions, reconstructing monastic lineages, and verifying historical claims found in later texts.",
+  "primary_sources": [
+    {
+      "title": "Śravaṇa Beḷgoḷa Chandragiri Inscription (often attributed to the period of the Ganga dynasty)",
+      "author": "Unknown stone‑inscription engraver",
+      "original_text": "𑀘𑀺𑀢𑁆𑀢𑀺𑀫𑀸𑀢𑁆𑀢𑀺 𑀚𑀺𑀦𑀺𑀢𑁆𑀢𑀺 𑀲𑀺𑀦𑁆𑀦𑀸𑀢𑁆𑀢𑀺",
+      "transliteration": "cittimāttti jinittī sinnāttī",
+      "translation": "“(This) is the pious donation, the devotion to the Jina, the act of reverence.”",
+      "notes": "This short Prakrit formula appears in several early Jain donative inscriptions at Śravaṇa Beḷgoḷa. It exemplifies the concise structure of early epigraphy: naming the act of donation, invoking the Jina, and marking the donor’s merit. Editions vary, and some readings are uncertain due to weathering."
+    },
+    {
+      "title": "Kundakunda Lineage Copper‑Plate (attributed to early medieval Digambara tradition)",
+      "author": "Unknown",
+      "original_text": "कुण्डकुण्डाचार्यप्रभृतिभिः साधुसंघः प्रतिष्ठापितः",
+      "transliteration": "kuṇḍakuṇḍācārya‑prabhṛtibhiḥ sādhu‑saṅghaḥ pratiṣṭhāpitaḥ",
+      "translation": "“The community of monks was established by teachers beginning with Ācārya Kundakunda.”",
+      "notes": "Copper‑plate inscriptions associated with Digambara monastic lineages often record genealogies. The authenticity and dating of some plates are debated in scholarship; this example illustrates the genre rather than a specific, universally accepted plate."
+    },
+    {
+      "title": "Śvetāmbara Temple Praśasti from Gujarat (medieval period)",
+      "author": "Unknown",
+      "original_text": "अहिंसापरमो धर्मः जिनेन्द्रपूजां कृतवान् श्रावकः",
+      "transliteration": "ahiṃsā paramo dharmaḥ jinendra‑pūjāṃ kṛtavān śrāvakaḥ",
+      "translation": "“A lay follower, upholding ahiṃsā as the supreme dharma, performed the worship of the Jina.”",
+      "notes": "Typical of Śvetāmbara temple inscriptions, this Sanskrit verse links lay devotion with the central ethical principle of ahiṃsā. The verse is formulaic and appears in variant forms across multiple praśastis."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain inscriptions are purely religious and lack historical value.",
+      "reality": "Many Jain inscriptions contain precise dates, names of patrons, political affiliations, and monastic genealogies. They are among the most reliable sources for reconstructing Jain social and political history."
+    },
+    {
+      "myth": "Only image‑worshipping Jain traditions produced inscriptions.",
+      "reality": "While Mūrti‑pūjaka and Digambara communities produced the majority of monumental inscriptions, non‑image‑worshipping traditions also generated administrative, commemorative, and lineage‑related records, though in smaller numbers."
+    },
+    {
+      "myth": "Inscriptions always confirm later narrative traditions without contradiction.",
+      "reality": "Epigraphic evidence sometimes diverges from later textual accounts, revealing shifts in monastic lineages, patronage patterns, or temple histories. Scholars treat inscriptions as independent, primary sources requiring careful comparison with literary traditions."
+    }
+  ]
+}

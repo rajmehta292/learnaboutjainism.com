@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical literature, the concept of infinity (ananta) is treated with unusual precision and technical depth. Rather than using infinity as a vague symbol of boundlessness, Jain thinkers classify multiple types of infinities and apply them systematically to cosmology, ontology, and mathematics. Infinity appears in discussions of space (ākāśa), time (kāla), dharma-dravya and adharma-dravya (the media of motion and rest), and the innumerable but countable multiplicity of jīvas (living beings).\n\nJain texts distinguish between three major quantitative categories: saṅkhyāta (countable), asaṅkhyāta (innumerable but finite), and ananta (infinite). These categories are not merely metaphors; they are used to describe the number of pradeśas (space-points) in substances, the extent of cosmic regions, and the structure of karmic particles. Infinity is also qualitative: the soul is said to possess infinite knowledge, perception, bliss, and energy in its liberated state, though these infinities are not spatial or numerical but intrinsic capacities.\n\nJain cosmology asserts that the loka (the inhabited universe) is finite in volume but contains infinite souls and infinite pudgala (matter). Beyond the loka lies aloka, an infinite expanse of empty space. Thus Jainism holds both finite and infinite domains simultaneously, each defined with strict logical categories. Mathematical discussions in texts such as the *Tattvārtha Sūtra* and *Jambūdvīpaprajñapti* show an early attempt to classify different magnitudes of infinity, anticipating later developments in set theory and mathematical logic.\n\nOverall, infinity in Jainism is not a single concept but a structured system of infinities applied across metaphysics, cosmology, ethics, and soteriology. The tradition maintains careful distinctions between infinite quantity, infinite extension, and infinite spiritual qualities, ensuring conceptual clarity and avoiding contradictions.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अनन्तज्ञानम् अनन्तदर्शनम् अनन्तसुखम् अनन्तवीर्यम्",
+      "transliteration": "anantajñānam anantadarśanam anantasukham anantavīryam",
+      "translation": "Infinite knowledge, infinite perception, infinite bliss, and infinite energy.",
+      "notes": "TS 10.1 describes the four infinitudes of the liberated soul. These are qualitative infinities, not spatial or numerical. Commentaries differ on whether these are inherent potentials or fully manifest only after liberation."
+    },
+    {
+      "title": "Jambūdvīpaprajñapti",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "असङ्ख्येयाणि जीवाः",
+      "transliteration": "asaṅkhyeyāṇi jīvāḥ",
+      "translation": "The living beings are innumerable.",
+      "notes": "This text uses asaṅkhyāta (innumerable) and ananta (infinite) in technical senses to describe cosmological quantities. The distinction between 'innumerable' and 'infinite' is central to Jain mathematical ontology."
+    },
+    {
+      "title": "Lokaprakāśa",
+      "author": "Digambara scholar Vinayavijaya (later redaction)",
+      "original_text": "लोकः परिमितः, अलोकः अनन्तः",
+      "transliteration": "lokaḥ parimitaḥ, alokaḥ anantaḥ",
+      "translation": "The universe is finite; the non-universe is infinite.",
+      "notes": "This cosmological statement reflects the standard Jain view: the inhabited cosmos has measurable boundaries, while empty space beyond it is infinite."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that everything is infinite.",
+      "reality": "Jain texts carefully distinguish between finite, innumerable, and infinite categories. The loka (universe) is finite, while aloka (empty space) is infinite. Souls and matter are infinite in number, but many cosmological structures are finite."
+    },
+    {
+      "myth": "Infinity in Jainism is purely mystical or symbolic.",
+      "reality": "Infinity is treated with technical rigor. Jain philosophers classify different types of infinities and apply them systematically to cosmology, mathematics, and metaphysics."
+    },
+    {
+      "myth": "The soul’s infinite qualities imply spatial or physical infinity.",
+      "reality": "The soul’s infinitudes—knowledge, perception, bliss, and energy—are qualitative and non-spatial. They do not imply infinite size or physical extension."
+    }
+  ]
+}

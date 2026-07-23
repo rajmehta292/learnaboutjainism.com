@@ -1,0 +1,18 @@
+{
+  "Navigation": {
+    "home": "Home",
+    "glossary": "Glossary",
+    "topics": "Topics",
+    "library": "Digital Library"
+  },
+  "Index": {
+    "title": "Learn About Jainism",
+    "subtitle": "The Definitive Digital Resource",
+    "explore": "Explore Library"
+  },
+  "Topic": {
+    "return": "Return to Library",
+    "loading": "Loading record...",
+    "error": "This record is still being reviewed. Some details or source files may not yet be available."
+  }
+}

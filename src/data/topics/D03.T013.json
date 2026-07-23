@@ -1,0 +1,67 @@
+{
+  "overview": "Astikaya is a central ontological category in Jain philosophy, used to describe those substances (dravya) that possess both existence (asti) and spatial extension or body (kaya). The term is a compound of “asti” (that which exists across past, present, and future) and “kaya” (a collection or mass), indicating a reality that endures through time while being spread out in discrete spatial units (pradesha). Astikayas are not merely abstract categories; they are the extended, structured realities that constitute the universe.\n\nClassical Jain texts distinguish between dravya (substance) and astikaya (extended substance). All astikayas are dravyas, but not all dravyas qualify as astikaya. Time (kala), for example, is accepted as a substance in many Jain systems but is often excluded from the list of astikayas because it does not have spatial extension in the same way as the other substances. This distinction allows Jain thinkers to speak precisely about what “fills” the universe and what merely conditions its processes.\n\nThe most widely discussed set of astikayas is the Pañcāstikāya, the five extended substances: jivastikaya (the mass of souls), pudgalastikaya (the mass of matter), dharmastikaya (the medium of motion), adharmastikaya (the medium of rest), and akashastikaya (space). Together, these five are said to explain the entire structure of the loka (the inhabited universe). Jiva and pudgala are active substances that interact and form the basis of bondage and liberation, while dharma, adharma, and akasha are passive, providing the conditions that make motion, rest, and spatial location possible.\n\nIn many Digambara and later systematic presentations, kala (time) is added as a sixth dravya but still not counted as an astikaya because it lacks a body of spatial units. Śvetāmbara Agamas and their commentaries often emphasize the Pañcāstikāya framework, while acknowledging kala in discussions of the six dravyas. Across traditions, the astikaya doctrine serves as a bridge between metaphysics and ethics: understanding the nature of jiva and pudgala as astikayas clarifies how karmic matter pervades and binds the soul, and how liberation requires disentangling this extended, embodied relationship.\n\nAstikaya also functions as a technical term in discussions of cosmology. Akashastikaya is divided into lokakasha (world-space, where souls and matter exist) and alokakasha (non-world space, empty of jiva and pudgala). Dharmastikaya and adharmastikaya pervade only the loka, enabling motion and rest within its bounds. Jivastikaya and pudgalastikaya are said to be infinite in number of souls and infinite in varieties of matter, yet each individual soul and each material aggregate occupies definite pradeshas. This careful mapping of extension and limitation reflects Jainism’s broader commitment to anekantavada, the doctrine that reality has many aspects and must be described from multiple standpoints.\n\nBecause astikaya is a technical term, Jain authors are careful to distinguish it from more general uses of “dharma,” “adharma,” or “akasha” in Indian philosophy. In Jainism, dharmastikaya and adharmastikaya are not moral principles or deities but ontological media that condition movement and rest, analogous to water enabling fish to swim or shade allowing a traveler to rest. Akashastikaya is not merely empty space but a structured expanse with regions and limits. Jivastikaya is not a single world-soul but an infinite collection of individual souls, each capable of liberation. Astikaya thus provides a precise vocabulary for speaking about what truly exists, how it is extended, and how it participates in the path from bondage to freedom.\n\nModern scholarship and traditional commentaries both highlight that the astikaya framework is shared, with minor variations, across major Jain sects. Śvetāmbara Agamas in Ardhamagadhi and Digambara works in Śauraseni Prakrit and Sanskrit present convergent lists of the five astikayas, while differing in some details of cosmological layout and the status of time. For lay practice, the doctrine of astikaya is rarely discussed in daily ritual, but it underlies the metaphysical assumptions of karma, rebirth, and liberation that inform ethical vows. For advanced students, especially in the Karma and Gunasthana technical domain, astikaya is indispensable for understanding how karmic pudgala occupies and modifies the soul’s pradeshas, and how the soul’s journey through the gunasthanas is an extended process in both time and space.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Ācārya Umāsvāti / Umāsvāmi",
+      "original_text": "जीवपुद्गलधर्माधर्माकाशाः द्रव्याणि।",
+      "transliteration": "jīva–pudgala–dharma–adharma–ākāśāḥ dravyāṇi.",
+      "translation": "Soul, matter, dharma, adharma, and space are substances.",
+      "notes": "Tattvārthasūtra, a foundational Jain philosophical text accepted by both Digambara and Śvetāmbara traditions, lists the core substances (dravya) that constitute reality. Later commentators explain that five of these—jiva, pudgala, dharma, adharma, and akasha—are astikayas because they possess spatial extension, while kala (time), introduced in subsequent verses and commentarial traditions, is a dravya but not an astikaya."
+    },
+    {
+      "title": "Pañcāstikāya-sāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "जीवो धम्मो अहधम्मो पउग्गलो णरासओ।\nएत्थ पञ्च अतिकाया णिव्वाणं तेसु णिअहं॥",
+      "transliteration": "jīvo dhammo ahadhammo pauggalo narāsao;\nettha pañca astikāyā nivvāṇaṃ tesu nihaṃ.",
+      "translation": "The soul, dharma, adharma, pudgala, and space—these five are astikayas; in relation to them, liberation is understood.",
+      "notes": "In this Prakrit treatise, Kundakunda systematically expounds the five astikayas and their role in the path to liberation. The text is a key Digambara source for the doctrine of Pañcāstikāya, emphasizing that these extended substances form the framework within which bondage and liberation occur. Different editions vary slightly in wording; the lines here represent a commonly cited form."
+    },
+    {
+      "title": "Vyākhyā Prajñapti (Bhagavatī-sūtra)",
+      "author": "Traditionally attributed to Mahāvīra’s teachings, compiled by Śvetāmbara redactors",
+      "original_text": "असि-कायो तु तेसिं जे णिच्चं भवंति लोए।",
+      "transliteration": "asi-kāyo tu tesiṃ je niccaṃ bhavanti loe.",
+      "translation": "Astikaya is said of those (entities) that exist eternally in the world.",
+      "notes": "The Bhagavatī-sūtra (Vyākhyā Prajñapti) contains dialogues in which Mahāvīra explains the nature of astikaya to Gautama. Commentators such as Abhayadeva Sūri elaborate that “asti” denotes existence across past, present, and future, while “kaya” indicates a collection of spatial units (pradesha). The text clarifies that an astikaya is not defined by a fragment but by its complete, unbroken totality."
+    },
+    {
+      "title": "Samavāyāṅga-sūtra",
+      "author": "Śvetāmbara canonical text, anonymous redaction",
+      "original_text": "धम्मास्तिकायो, अधम्मास्तिकायो, जीवास्तिकायो, पुद्गलास्तिकायो, आकासास्तिकायो।",
+      "transliteration": "dharmāstikāyo, adharmāstikāyo, jīvāstikāyo, pudgalāstikāyo, ākāśāstikāyo.",
+      "translation": "The dharma-astikaya, adharma-astikaya, jiva-astikaya, pudgala-astikaya, and akasha-astikaya.",
+      "notes": "Samavāyāṅga-sūtra lists and briefly characterizes the five astikayas, forming part of the Śvetāmbara Agamic presentation of cosmology. Later Ardhamagadhi and Sanskrit commentaries expand on these terse references, explaining how each astikaya pervades the loka and how they differ in activity, function, and spatial extent."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Ācārya Nemicandra",
+      "original_text": "जीवो पउग्गलो धम्मो अहधम्मो णरासओ काले च।\nएत्थ णहं द्रव्वं णिच्चं सव्वं सत्तं तु णयणं॥",
+      "transliteration": "jīvo pauggalo dhammo ahadhammo narāsao kāle ca;\nettha nahaṃ dravvaṃ niccaṃ savvaṃ sattaṃ tu nayaṇaṃ.",
+      "translation": "Soul, matter, dharma, adharma, space, and time—these are the substances, eternal; all existence is understood through them.",
+      "notes": "Dravyasaṃgraha is a concise Digambara manual on substances. It clearly includes kala (time) among the dravyas but, in line with broader tradition, commentators note that only five—jiva, pudgala, dharma, adharma, and akasha—are astikayas because they possess spatial extension. Time is a dravya without kaya, illustrating the distinction between dravya and astikaya."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Astikaya simply means ‘belief in existence’ and is mainly an ethical or devotional term.",
+      "reality": "Astikaya is a technical metaphysical category in Jain ontology, referring to substances that both exist and possess spatial extension or body. It is not about belief or faith but about the structural nature of reality, especially the five extended substances that constitute the universe."
+    },
+    {
+      "myth": "All six dravyas in Jainism are astikayas, including time (kala).",
+      "reality": "While many Jain systems recognize six dravyas—jiva, pudgala, dharma, adharma, akasha, and kala—only five are classified as astikayas. Time is a substance but is typically excluded from the astikaya list because it does not have a body of spatial units in the same way as the other five."
+    },
+    {
+      "myth": "Dharma and adharma astikayas are moral forces or deities that reward or punish beings.",
+      "reality": "In Jain metaphysics, dharmastikaya and adharmastikaya are ontological media that condition motion and rest. They are passive, non-sentient substances, not gods or moral agents. Moral dharma (righteous conduct) is a separate concept and should not be confused with the dharmastikaya substance."
+    },
+    {
+      "myth": "Jivastikaya is a single cosmic soul that pervades the universe.",
+      "reality": "Jivastikaya denotes the collective mass of individual souls, each distinct and capable of liberation. Jainism rejects the idea of a single world-soul; instead, it affirms an infinite number of separate jivas, all extended in space through their pradeshas and bound or liberated according to their karmic condition."
+    },
+    {
+      "myth": "Astikaya is a sect-specific concept relevant only to one Jain tradition.",
+      "reality": "The doctrine of astikaya, especially the Pañcāstikāya framework, is shared across major Jain traditions, with Śvetāmbara Agamas and Digambara treatises both presenting the five astikayas. Differences exist in language, emphasis, and the treatment of time, but the core idea of extended substances is common to Jain metaphysics as a whole."
+    }
+  ]
+}

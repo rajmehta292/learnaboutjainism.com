@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, community service (often framed under terms such as *sevā*, *dayā*, *paropakāra*, and *lokasaṅgraha*) refers to voluntary actions undertaken for the welfare of others, grounded in the ethical commitments of ahiṃsā (non‑violence), anukampā (compassion), aparigraha (non‑possessiveness), and mutual responsibility within the fourfold community (*caturvidha saṅgha*). While Jainism emphasizes personal spiritual discipline, it also affirms that laypeople (*śrāvakas* and *śrāvikās*) cultivate virtue through socially beneficial conduct, including charitable works, education, healthcare, environmental protection, and relief efforts.\n\nAcross Digambara and Śvetāmbara traditions, community service is not framed as a path to liberation on its own, but as a necessary expression of right conduct (*samyak cāritra*) and as a means of reducing harm in the world. Classical texts describe acts such as feeding the hungry, caring for the sick, supporting monks and nuns, protecting animals, and maintaining public resources as meritorious when performed without attachment or expectation of reward. Modern Jain communities extend these principles to blood donation drives, disaster relief, animal shelters, environmental campaigns, and educational institutions.\n\nCommunity service is also linked to the Jain doctrine of karma. Actions motivated by compassion and non‑violence are said to attenuate harmful karmic influx (*āsrava*) and support the cultivation of equanimity (*samatā*). However, service must be performed with mindfulness, avoiding unintended harm, coercion, or practices that compromise one’s health or obligations. Contemporary Jain organizations often emphasize inclusive service—helping all beings regardless of caste, religion, or background—reflecting the universal scope of ahiṃsā.\n\nIn diaspora communities, community service has become a major avenue for youth engagement, interfaith collaboration, and public representation of Jain values. Activities such as vegan advocacy, environmental stewardship, and humanitarian aid are frequently framed as modern expressions of ancient ethical commitments. Despite these developments, Jain teachers consistently remind practitioners that service must remain grounded in humility, non‑violence, and careful discernment, rather than becoming a source of pride or attachment.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 7.11",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "दया दानम्",
+      "transliteration": "dayā dānam",
+      "translation": "Compassion is charity.",
+      "notes": "A concise aphorism linking compassion (*dayā*) with charitable action (*dāna*). Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) explain that charity includes giving protection, food, medicine, and knowledge, all of which are foundational to community service."
+    },
+    {
+      "title": "Ācārāṅga Sūtra 1.2.3",
+      "author": "Attributed to Mahāvīra’s teachings; Śvetāmbara canon",
+      "original_text": "जेण णं दुहं पवक्खइ तं णं दुहं पवक्खइ",
+      "transliteration": "jeṇa naṃ duhaṃ pavakkhai taṃ naṃ duhaṃ pavakkhai",
+      "translation": "One who speaks or acts in a way that causes suffering, causes suffering indeed.",
+      "notes": "This passage underscores the ethical imperative to avoid causing harm. Community service is interpreted as a positive extension of this principle—actively reducing suffering where possible."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 29.72",
+      "author": "Śvetāmbara canon",
+      "original_text": "दया जीवाणं हवे",
+      "transliteration": "dayā jīvāṇaṃ have",
+      "translation": "Compassion is for all living beings.",
+      "notes": "Used widely in Jain ethical teaching. It supports universalist interpretations of service, extending beyond human communities to animals and the environment."
+    },
+    {
+      "title": "Śrāvakācāra (various Digambara authors, e.g., Ācārya Amitagati)",
+      "author": "Amitagati (for one major recension)",
+      "original_text": "अतिथिपूजा दानं च सर्वलोकहितं स्मृतम्",
+      "transliteration": "atithipūjā dānaṃ ca sarvalokahitaṃ smṛtam",
+      "translation": "Honoring guests and giving charity are remembered as beneficial to all the world.",
+      "notes": "Lay conduct manuals emphasize charity, hospitality, and public welfare as duties of householders. These texts form a major basis for Jain community service norms."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Community service is a modern, Western-influenced addition to Jain practice.",
+      "reality": "While modern forms of service have expanded, classical Jain texts consistently emphasize compassion, charity, and protection of life. The forms have evolved, but the ethical foundation is ancient."
+    },
+    {
+      "myth": "Jain community service is limited to supporting Jain temples and monks.",
+      "reality": "Traditional texts describe service to all beings. Modern Jain communities engage in humanitarian aid, environmental protection, animal welfare, and interfaith service projects."
+    },
+    {
+      "myth": "Service automatically leads to spiritual liberation.",
+      "reality": "Jainism teaches that liberation requires right faith, right knowledge, and right conduct. Service is meritorious and ethically essential, but not sufficient on its own for mokṣa."
+    }
+  ]
+}

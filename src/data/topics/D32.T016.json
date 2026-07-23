@@ -1,0 +1,35 @@
+{
+  "overview": "Devanagari is one of the most widely used writing systems of South Asia, serving as the primary script for Sanskrit, Hindi, Marathi, Nepali, and several other languages. It is an abugida, meaning each consonant carries an inherent vowel sound that can be modified through diacritics. The script is written from left to right and is easily recognizable by its horizontal headline, known as the *śirorekhā*, which connects letters within a word.\n\nHistorically, Devanagari evolved from the Brahmi script (Corpus Tier A: Brahmi inscriptions, ca. 3rd century BCE) through intermediary forms such as Gupta and Nagari. By the 10th–11th centuries CE, Nagari had developed into the form now known as Devanagari. The name itself is often interpreted as “the script of the city or deities” (*deva* meaning divine, *nāgarī* meaning urban or cultured), though this is a later traditional etymology rather than a primary textual claim.\n\nIn Jain studies, Devanagari is significant because many medieval and early modern manuscripts—especially in North India—were copied in Nagari or Devanagari forms. While classical Jain scriptures in Prakrit and Sanskrit were originally composed centuries before the script’s emergence, their transmission in manuscript culture often relied on Devanagari. Jain scribes adapted the script for Prakrit phonology, using additional marks or conventions to represent sounds not native to Sanskrit.\n\nModern Devanagari is standardized through Unicode, enabling digital preservation of Jain manuscripts, inscriptions, and commentaries. Its structured orthography, clear vowel notation, and widespread educational use make it a central script for both classical and contemporary scholarship.",
+  "primary_sources": [
+    {
+      "title": "Brahmi Inscriptions (e.g., Ashokan Edicts)",
+      "author": "Attributed to scribes under Emperor Ashoka",
+      "original_text": "𑀤𑀯𑀸𑀁 (Brahmi forms related to later Devanagari phonemes)",
+      "transliteration": "davāṃ",
+      "translation": "An early Brahmi form illustrating phonetic ancestors of later Devanagari characters.",
+      "notes": "Brahmi is the earliest attested ancestor of Devanagari. While not Devanagari itself, its structural principles—left-to-right writing, consonant-vowel integration—form the foundation of later Nagari scripts."
+    },
+    {
+      "title": "Nāgarī Script References in Medieval Jain Manuscripts",
+      "author": "Anonymous Jain scribes (11th–15th century CE)",
+      "original_text": "देवनागरी लिपिः",
+      "transliteration": "devanāgarī lipiḥ",
+      "translation": "“The Devanagari script.”",
+      "notes": "Appears in colophons of certain Jain manuscripts, indicating the script used by the scribe. These references are descriptive rather than doctrinal."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Devanagari is an ancient script used during the time of the earliest Jain and Vedic compositions.",
+      "reality": "Primary evidence shows that Devanagari emerged around the 10th–11th centuries CE, long after early Jain Prakrit texts and Vedic hymns were composed. Earlier scripts such as Brahmi and Gupta were used for centuries before Devanagari developed."
+    },
+    {
+      "myth": "Devanagari is exclusively a religious script used only for sacred texts.",
+      "reality": "While Devanagari is used for many religious works, it is also a major secular script for modern languages like Hindi, Marathi, and Nepali. Its use spans literature, administration, education, and digital communication."
+    },
+    {
+      "myth": "All Jain manuscripts are written in Devanagari.",
+      "reality": "Jain manuscript traditions vary by region. Scripts such as Śāradā, Mahājani, Jaina Nagari, Gujarati, and Grantha were also widely used depending on linguistic and regional contexts."
+    }
+  ]
+}

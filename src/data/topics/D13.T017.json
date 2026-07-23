@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain philosophy, “possession and attachment” (parigraha and rāga) are central ethical concerns that shape both monastic and lay conduct. Possession refers not only to physical objects but also to subtle forms of ownership—ideas, relationships, status, and even bodily identity. Attachment is the emotional and psychological clinging that binds the soul to karmic influx (āsrava) and prevents liberation. Jainism treats possession and attachment as deeply intertwined: possession becomes spiritually harmful when accompanied by attachment, and attachment can arise even without literal ownership.\n\nAcross traditions, the reduction of parigraha is a foundational virtue. For householders, this means limiting possessions, practicing generosity, and cultivating non-attachment while fulfilling worldly responsibilities. For monastics, it means renouncing property entirely and minimizing dependence on material supports. The philosophical basis lies in the Jain understanding of karma: attachment generates passions (kaṣāyas) such as anger, pride, deceit, and greed, which in turn attract karmic matter to the soul. The more one clings, the more one binds.\n\nJain texts distinguish between external possessions (bahya-parigraha) such as land, wealth, animals, and household goods, and internal possessions (abhyantara-parigraha) such as anger, pride, deceit, greed, sexual desire, and false views. Internal possessions are considered more dangerous because they directly disturb the soul’s equanimity. The ultimate goal is not merely minimalism but the cultivation of a state where the soul is free from craving, aversion, and identification with transient objects.\n\nIn modern contexts, Jain teachers emphasize mindful consumption, ethical restraint, and awareness of how digital media, social identity, and emotional dependencies can become new forms of possession. While interpretations vary across sects, the shared principle remains: liberation requires disentangling the soul from all forms of clinging, whether material, emotional, or conceptual.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "परिग्रहः पापस्य हेतुः",
+      "transliteration": "parigrahaḥ pāpasya hetuḥ",
+      "translation": "Possession is a cause of sin.",
+      "notes": "Tattvārtha Sūtra 7.12 (Tier A). This aphorism establishes possession as a direct source of karmic bondage. Commentaries across traditions agree that attachment to possessions intensifies passions and obstructs liberation."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जे ण परिग्गहे, ते ण बन्धे",
+      "transliteration": "jeṇa pariggahae, teṇa bandhe",
+      "translation": "Where there is possession, there is bondage.",
+      "notes": "Ācārāṅga Sūtra I.2 (Tier A). This early Śvetāmbara canonical text links possession directly to spiritual captivity. The context emphasizes monastic renunciation but also warns householders about subtle attachments."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Kundakunda",
+      "original_text": "रागो हि परिग्गहो",
+      "transliteration": "rāgo hi pariggaho",
+      "translation": "Attachment itself is possession.",
+      "notes": "Samayasāra gāthā 214 (Tier A/B). Kundakunda’s Digambara text reframes possession as an internal state rather than an external condition. Even without physical ownership, attachment binds the soul."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "लोभो परिग्गहो",
+      "transliteration": "lobho pariggaho",
+      "translation": "Greed is possession.",
+      "notes": "Uttarādhyayana Sūtra 29.15 (Tier A). This passage expands the definition of possession to include mental states, reinforcing the ethical importance of inner restraint."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that all possessions are inherently bad.",
+      "reality": "Primary texts distinguish between possession and attachment. Household life allows possessions, but warns against emotional clinging and excessive accumulation."
+    },
+    {
+      "myth": "Only physical objects count as possessions in Jain ethics.",
+      "reality": "Internal possessions—anger, pride, deceit, greed, and false views—are considered more harmful than external ones because they directly bind the soul."
+    },
+    {
+      "myth": "Non-attachment means indifference or neglect of responsibilities.",
+      "reality": "Non-attachment means acting responsibly without craving or aversion. Jain lay ethics emphasize care for family, society, and living beings while reducing egoistic clinging."
+    }
+  ]
+}

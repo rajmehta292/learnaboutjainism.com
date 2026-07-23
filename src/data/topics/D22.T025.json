@@ -1,0 +1,43 @@
+{
+  "overview": "Devotional translation refers to the practice of rendering Jain sacred texts, hymns, mantras, and liturgical compositions into another language in a manner that preserves not only semantic meaning but also the devotional mood (*bhāva*), ritual function, and doctrinal accuracy. Within Jain traditions, devotional translation is shaped by the need to maintain fidelity to canonical Prakrit and Sanskrit sources while making them accessible to contemporary lay communities. This process is not merely linguistic; it involves interpretive choices about meter, tone, theological nuance, and the ethical implications of the text.\n\nHistorically, Jain communities have translated key works—such as the *Bhaktāmara Stotra*, *Uvasaggaharam Stotra*, and *Namokāra Mantra*—into regional languages including Gujarati, Hindi, Kannada, Tamil, and English. These translations often serve pedagogical and devotional purposes: enabling recitation, supporting temple liturgy, and fostering emotional engagement with the ideals of nonviolence, equanimity, and liberation. Devotional translation also plays a role in diaspora communities, where English-language renderings help maintain continuity of practice.\n\nBecause Jainism emphasizes precision in doctrinal terms—such as karma categories, gunasthānas, and vows—devotional translation must balance accessibility with accuracy. Some translators prioritize literal fidelity, while others emphasize poetic resonance or meditative usability. The result is a spectrum of translations, each shaped by tradition-specific norms (Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, Terāpanth) and by the translator’s interpretive stance.\n\nModern scholarship highlights that devotional translation is an ongoing, community-driven process. It requires careful attention to manuscript variants, commentarial traditions, and the ritual context in which the translated text will be used. As a result, devotional translation is both a linguistic craft and a devotional act, grounded in reverence for the Jain textual heritage.",
+  "primary_sources": [
+    {
+      "title": "Bhaktāmara Stotra",
+      "author": "Ācārya Māntunga (traditionally attributed)",
+      "original_text": "णमो अरिहंताणं",
+      "transliteration": "ṇamo arihaṃtāṇaṃ",
+      "translation": "Homage to the Arihants.",
+      "notes": "The *Bhaktāmara Stotra* is a Sanskrit hymn widely used in Jain devotional practice. Translations vary between literal renderings of each verse and poetic adaptations intended for congregational recitation. The opening homage is often translated in a way that preserves both reverence and doctrinal clarity."
+    },
+    {
+      "title": "Namokāra Mantra (Prakrit)",
+      "author": "Canonical mantra; author not specified",
+      "original_text": "णमो अरिहंताणं, णमो सिद्धाणं, णमो आयरियाणं, णमो उवज्झायाणं, णमो लोए सव्वसाहूणं",
+      "transliteration": "ṇamo arihaṃtāṇaṃ, ṇamo siddhāṇaṃ, ṇamo āyariyāṇaṃ, ṇamo uvajjhāyāṇaṃ, ṇamo loe savvasāhūṇaṃ",
+      "translation": "Homage to the Arihants; homage to the Siddhas; homage to the Ācāryas; homage to the Upādhyāyas; homage to all Sādhus in the world.",
+      "notes": "Devotional translations of the Namokāra Mantra often aim to preserve its meditative rhythm. Some versions add explanatory glosses to clarify the spiritual hierarchy for new practitioners."
+    },
+    {
+      "title": "Uvasaggaharam Stotra",
+      "author": "Ācārya Bhadrabāhu (traditionally attributed)",
+      "original_text": "उवसग्गहरं पज्जं",
+      "transliteration": "uvasaggaharaṃ pajjaṃ",
+      "translation": "The verse that removes obstacles.",
+      "notes": "This Prakrit hymn dedicated to Pārśvanātha is frequently translated for healing and protective recitation. Devotional translations often emphasize its consoling and uplifting qualities while retaining doctrinal references to karma and refuge."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Devotional translation is simply a poetic paraphrase of Jain texts.",
+      "reality": "Devotional translation requires careful attention to canonical terminology, commentarial traditions, and ritual context. It is not merely poetic adaptation but a disciplined interpretive practice."
+    },
+    {
+      "myth": "All Jain traditions use the same devotional translations.",
+      "reality": "Different Jain traditions maintain distinct liturgical norms and may prefer different translation styles. For example, Digambara communities often emphasize literal fidelity, while some Śvetāmbara communities incorporate explanatory glosses for congregational use."
+    },
+    {
+      "myth": "A devotional translation can replace the need to study the original Prakrit or Sanskrit.",
+      "reality": "Devotional translations aid accessibility but do not replace the doctrinal precision of primary texts. Traditional study encourages engagement with original languages to avoid interpretive drift."
+    }
+  ]
+}

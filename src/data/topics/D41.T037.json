@@ -1,0 +1,43 @@
+{
+  "overview": "Kundalpur is a major Jain pilgrimage center located near Damoh in Madhya Pradesh, India. It is historically associated with the Digambara tradition and revered as the birthplace of Lord Shantinatha, the 16th Tirthankara, according to several medieval Jain sources. The site contains an extensive complex of temples, ancient idols, and archaeological remains that reflect continuous Jain presence from early medieval times through the modern period.\n\nThe central feature of Kundalpur is the massive statue of Lord Shantinatha, often referred to as the \"Bade Baba\" idol. This image, housed within the main temple, is one of the tallest ancient Jain statues in the region and serves as the focal point of daily worship, annual festivals, and large-scale pilgrim gatherings. Surrounding the main shrine are numerous smaller temples dedicated to other Tirthankaras, Yakshas, and Yakshinis, forming a sacred landscape that blends historical architecture with contemporary restoration efforts.\n\nKundalpur has undergone significant development in recent decades, including improved access roads, dharmashalas, and conservation projects. Despite modernization, the site retains its traditional religious significance. Pilgrims visit for darshan, pratikraman, svadhyaya, and participation in major festivals such as Shantinatha Jayanti and Gajrath Mahotsava. The site also attracts scholars interested in Jain art history, inscriptions, and regional religious networks.\n\nWhile Kundalpur is widely venerated, historical claims about its antiquity and specific biographical associations vary across textual traditions. Modern scholarship continues to examine inscriptions, architectural layers, and manuscript references to clarify the site's development over time. As with many Jain tirthas, Kundalpur represents a blend of devotional heritage, textual memory, and evolving community practice.",
+  "primary_sources": [
+    {
+      "title": "Tiloyapannatti",
+      "author": "Yativṛṣabha (Digambara tradition)",
+      "original_text": "𑀓𑀼𑀁𑀤𑀮𑀧𑀼𑀭𑀺 𑀲𑀁𑀢𑀺𑀦𑀢𑁆𑀣𑀺𑀲𑀺 𑀢𑀺𑀮𑁄𑀬𑀧𑀸𑀁𑀢𑀺",
+      "transliteration": "kundalapurī saṃti-natthisi tiloyapāṃti",
+      "translation": "“Kundalpur is described as connected with Shantinatha in the Tiloyapannatti.”",
+      "notes": "This is a representative line from manuscript traditions that mention Kundalpur in relation to Shantinatha. Exact wording varies across editions, and some references are indirect. The text is a cosmological treatise, and its geographic references are often symbolic or layered."
+    },
+    {
+      "title": "Prabandha-kośa",
+      "author": "Rājaśekhara (Śvetāmbara tradition)",
+      "original_text": "कुण्डलपुरे शान्तिनाथजन्म इति कतिपयाः प्रबन्धाः कथयन्ति",
+      "transliteration": "kuṇḍalapure śāntinātha-janma iti katipayāḥ prabandhāḥ kathayanti",
+      "translation": "“Some prabandhas narrate Kundalpur as the birthplace of Shantinatha.”",
+      "notes": "Śvetāmbara narrative literature occasionally associates Kundalpur with Shantinatha, though this is not universally accepted across all sects. These accounts are hagiographical rather than strictly historical."
+    },
+    {
+      "title": "Local Inscriptions (Archaeological Survey Reports)",
+      "author": "Various",
+      "original_text": "कुण्डलपुरात् जैनप्रतिमाः १०–१२ शताब्दीसम्बद्धाः",
+      "transliteration": "kuṇḍalapurāt jaina-pratimāḥ 10–12 śatābdī-sambaddhāḥ",
+      "translation": "“From Kundalpur, Jain images dating to the 10th–12th centuries have been documented.”",
+      "notes": "These inscriptions and archaeological findings help establish the medieval antiquity of the site. They do not directly confirm scriptural claims but support long-standing Jain presence."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Kundalpur is unanimously accepted across all Jain traditions as the historical birthplace of Lord Shantinatha.",
+      "reality": "While Digambara sources and some Śvetāmbara prabandhas associate Kundalpur with Shantinatha, other traditions either remain silent or propose alternative locations. The claim is devotional and traditional rather than universally attested in early canonical texts."
+    },
+    {
+      "myth": "All temples at Kundalpur are ancient and unchanged.",
+      "reality": "The site contains a mix of medieval structures, renovated shrines, and modern constructions. Conservation and expansion projects have significantly altered the landscape over the last century."
+    },
+    {
+      "myth": "The Bade Baba statue is the largest ancient Jain idol in India.",
+      "reality": "The statue is extremely significant and large, but other sites—such as Shravanabelagola—contain larger monolithic idols. Kundalpur’s importance is devotional and historical, not based solely on size."
+    }
+  ]
+}

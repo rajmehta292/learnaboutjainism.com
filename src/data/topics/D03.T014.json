@@ -1,0 +1,43 @@
+{
+  "overview": "Lokākāśa (लोकाकाश) is a foundational cosmological concept in Jainism describing the totality of cosmic space that contains all substances (dravya) capable of existence. It is distinguished from alokākāśa, the infinite empty space beyond the inhabited cosmos. Jain cosmology divides reality into six eternal substances—jīva, pudgala, dharma, adharma, ākāśa, and kāla—and within this framework, ākāśa (space) is further divided into lokākāśa and alokākāśa. Lokākāśa is finite in shape, though vast, and is traditionally depicted as having the form of a standing human figure with narrow top and bottom regions and a broad middle. This anthropomorphic outline is not symbolic but descriptive of the spatial distribution of beings, realms, and cosmic structures.\n\nWithin lokākāśa exist the three major realms: the upper world (ūrdhva-loka), the middle world (madhya-loka), and the lower world (adho-loka). These contain heavenly abodes, human and animal realms, and hells respectively. All karmic activity, rebirth, liberation, and motion occur only within lokākāśa. Beyond it lies alokākāśa, which is infinite but devoid of dharma-dravya (medium of motion), adharma-dravya (medium of rest), pudgala (matter), and jīva (souls). Thus, no movement or existence is possible outside lokākāśa.\n\nThe boundaries of lokākāśa are described in detail in canonical texts such as the *Tattvārtha Sūtra*, *Saṃgrahaṇī Sūtra*, and Digambara works like *Tiloyapaṇṇatti*. These texts provide measurements, structural divisions, and classifications of beings inhabiting each region. Lokākāśa is eternal, uncreated, and indestructible, consistent with Jainism’s doctrine of beginningless and endless reality. Its finitude is not a limitation but a structural feature that allows karmic processes and liberation to be intelligibly mapped.\n\nIn Jain cosmology, the liberated souls (siddhas) reside at the very top of lokākāśa in the siddha-śilā, a region of perfect stillness. They do not move beyond lokākāśa because motion is impossible in alokākāśa. Thus, lokākāśa serves as the complete arena for all spiritual progress, cosmological activity, and metaphysical classification within Jain thought.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "लोकालोकाकाशः",
+      "transliteration": "lokāloka-ākāśaḥ",
+      "translation": "Space is of two kinds: loka-space and aloka-space.",
+      "notes": "This sutra (TS 5.20) establishes the fundamental division of cosmic space. Commentaries clarify that lokākāśa contains all substances except kāla, while alokākāśa is empty and infinite."
+    },
+    {
+      "title": "Saṃgrahaṇī Sūtra",
+      "author": "Traditionally attributed to Śvetāmbara canonical redactors",
+      "original_text": "लोयग्गस्स उव्वलिअं तिविहं, उव्वलिअं तिविहं तिविहं चिअं।",
+      "transliteration": "loyaggassa uvvaliṃ tiviham, uvvaliṃ tiviham tiviham ciyaṃ",
+      "translation": "The universe (loka) is threefold; its divisions are likewise threefold.",
+      "notes": "This text provides detailed cosmological descriptions, including the tripartite division of lokākāśa into upper, middle, and lower worlds."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara tradition)",
+      "original_text": "लोयप्पण्णत्ति णिव्वाणस्स णिव्वाणभूइं वि पव्वइ।",
+      "transliteration": "loyappaṇṇatti nivvāṇassa nivvāṇabhūiṃ vi pavvai",
+      "translation": "The description of the loka also explains the region of liberation.",
+      "notes": "A major Digambara cosmological text offering extensive measurements and structural details of lokākāśa, including the siddha-śilā at its apex."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Lokākāśa is symbolic or metaphorical rather than a literal cosmological structure.",
+      "reality": "Jain texts consistently treat lokākāśa as a literal, spatially structured cosmos with precise measurements and divisions. While diagrams may appear symbolic, they represent actual cosmological claims."
+    },
+    {
+      "myth": "Liberated souls travel beyond lokākāśa into infinite space.",
+      "reality": "Primary texts state that siddhas remain eternally at the top of lokākāśa in siddha-śilā. Movement is impossible in alokākāśa due to the absence of dharma-dravya, the medium of motion."
+    },
+    {
+      "myth": "Lokākāśa is infinite because Jainism teaches an eternal universe.",
+      "reality": "Jain cosmology distinguishes between eternity and infinity. Lokākāśa is eternal but finite; alokākāśa is infinite but empty."
+    }
+  ]
+}

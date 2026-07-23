@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, “community authority” refers to the distributed, text‑anchored, and lineage‑aware structures through which guidance, interpretation, and collective decision-making occur. Unlike centralized ecclesiastical systems, Jain authority is historically polycentric: scriptural canons, monastic lineages, gacchas or sampradayas, local sanghas, and lay councils each hold limited and mutually checking roles. The concept is best understood as a dynamic interplay between (1) canonical norms preserved in Prakrit and Sanskrit texts, (2) monastic discipline and lineage-specific interpretations, and (3) lay governance mechanisms that regulate temple administration, festivals, and ethical expectations for householders.\n\nAcross Digambara and Śvetāmbara traditions, community authority is shaped by the principle that ultimate spiritual authority lies in the *Jina* and the *śāsana* (teaching), not in any living individual. Monks, nuns, and learned lay scholars serve as interpreters and custodians of the tradition, but their authority is advisory, not absolute. Texts such as the *Ācārāṅga Sūtra*, *Sūtrakṛtāṅga*, and *Tattvārtha Sūtra* emphasize personal verification, non-violence, and disciplined inquiry, which limit the scope of institutional power.\n\nHistorically, community authority evolved through councils (e.g., Valabhi redactions for Śvetāmbara canon), monastic orders (e.g., Mūrtipūjaka gacchas, Digambara bhaṭṭārakas), and lay organizations (e.g., temple trusts, caste-based sanghas). Modern community authority includes educational boards, manuscript preservation societies, and ethics committees that address contemporary issues such as environmental stewardship, digital conduct, and interfaith engagement. Despite these developments, authority remains fundamentally decentralized, with interpretive diversity acknowledged across sects and sub-sects.\n\nIn practice, community authority governs areas such as temple rituals, festival calendars, ascetic-lay interactions, charitable activities, and dispute resolution. It does not grant coercive power over personal religious decisions, and major commitments—such as renunciation, prolonged fasting, or vows affecting dependents—require consultation with qualified human teachers and attention to health, legal, and ethical safeguards. The Jain emphasis on autonomy, compassion, and non-harm ensures that community authority functions as guidance rather than compulsion.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं णंत्तो धम्मो, णं णंत्तो सुत्तं",
+      "transliteration": "ṇaṃ ṇaṃtto dhammo, ṇaṃ ṇaṃtto suttaṃ",
+      "translation": "“The teaching is without a master; the scripture is without a master.”",
+      "notes": "Śvetāmbara canonical passage (Ācārāṅga Sūtra I.2) emphasizing that authority rests in the Dharma itself, not in any individual. This is foundational for understanding decentralized Jain community authority."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Traditionally attributed to early Jain elders",
+      "original_text": "णं णंत्तो गुरू, णं णंत्तो अणुगुरू",
+      "transliteration": "ṇaṃ ṇaṃtto gurū, ṇaṃ ṇaṃtto aṇugurū",
+      "translation": "“There is no ultimate teacher; there is no subordinate teacher.”",
+      "notes": "This passage (Sūtrakṛtāṅga I.1) reinforces the principle that authority is not vested in hierarchical persons but in the path of liberation itself."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyagdarśana‑jñāna‑cāritrāṇi mokṣamārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "This pan-sectarian text (TS 1.1) provides the doctrinal basis for evaluating any claim to authority: guidance must support the three jewels and align with non-harm and personal verification."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Community authority in Jainism functions like a centralized religious hierarchy.",
+      "reality": "Jain authority is decentralized and text-centered. Monastic lineages, lay councils, and temple trusts hold limited, context-specific roles, and no single body governs all Jains."
+    },
+    {
+      "myth": "Monks or nuns can issue binding commands to laypeople.",
+      "reality": "Ascetics provide guidance, not coercive directives. Canonical texts emphasize personal verification, non-harm, and autonomy. Major decisions require careful ethical and practical consideration."
+    },
+    {
+      "myth": "Sectarian differences imply conflicting or competing authorities.",
+      "reality": "While Digambara and Śvetāmbara traditions have distinct canons and practices, each maintains internal structures of authority grounded in shared principles of non-violence, truthfulness, and scriptural fidelity."
+    }
+  ]
+}

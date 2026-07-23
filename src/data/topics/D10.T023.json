@@ -1,0 +1,43 @@
+{
+  "overview": "Akalanka logic refers to the sophisticated system of epistemology and inference developed by Ācārya Akalaṅka (8th century CE), one of the most influential Digambara Jain philosophers. His work marks a decisive maturation of Jain logical theory, especially in the domains of pramāṇa (valid knowledge), nayavāda (partial standpoints), and the formal defense of anekāntavāda (the doctrine of non-one-sidedness). Akalaṅka’s contributions are foundational for later Jain thinkers such as Vidyānanda, Prabhācandra, and Vādirāja.\n\nAkalanka’s logic is characterized by its rigorous engagement with Buddhist and Nyāya schools. He systematized Jain epistemology by clarifying the structure of perception (pratyakṣa), inference (anumāna), and scriptural authority (āgama). His analyses of fallacies, debate procedures, and the limits of cognition helped establish Jain logic as a major force in classical Indian philosophical discourse.\n\nA central feature of Akalaṅka’s logic is his articulation of the relationship between pramāṇa and naya. While pramāṇa provides comprehensive and valid cognition, naya offers partial, context-bound perspectives. Akalaṅka argued that philosophical disputes often arise from mistaking a naya for a pramāṇa, thereby defending anekāntavāda as a method for resolving contradictions without collapsing into relativism. His works also refine the doctrine of syādvāda (conditioned predication), explaining how statements can be true under specific conditions without asserting universal absolutes.\n\nIn the history of Jain thought, Akalaṅka stands as a pivotal figure who transformed earlier formulations into a precise, debate-ready system. His texts remain central in Digambara scholastic traditions and are studied for their technical depth, historical importance, and methodological clarity.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha-vārttika (also known as Tattvārtharājavārttika)",
+      "author": "Ācārya Akalaṅka",
+      "original_text": "प्रमाणं तु यथार्थज्ञानम्",
+      "transliteration": "pramāṇaṃ tu yathārthajñānam",
+      "translation": "“Valid knowledge is cognition corresponding to its object.”",
+      "notes": "This line appears in Akalaṅka’s commentary on the Tattvārthasūtra (TS 1.6). The commentary elaborates the nature of pramāṇa and distinguishes it from erroneous cognition. Editions vary, and the Sanskrit phrasing may differ slightly depending on manuscript lineage."
+    },
+    {
+      "title": "Aṣṭaśatī",
+      "author": "Ācārya Akalaṅka",
+      "original_text": "नयस्यावच्छेदकत्वात् न सर्वत्र प्रवृत्तिः",
+      "transliteration": "nayasya avacchedakatvāt na sarvatra pravṛttiḥ",
+      "translation": "“Because a naya is delimiting, it does not apply universally.”",
+      "notes": "The Aṣṭaśatī is a major commentary on the Ṣaṭkhaṇḍāgama. This passage clarifies the limited scope of naya and its role in avoiding philosophical absolutism. Manuscript traditions differ, and some versions preserve Prakrit readings."
+    },
+    {
+      "title": "Nyāyaviniscaya",
+      "author": "Ācārya Akalaṅka",
+      "original_text": "सिद्धान्तानाम् अविरोधः स्याद् अनैकान्तात्",
+      "transliteration": "siddhāntānām avirodhaḥ syād anaikāntāt",
+      "translation": "“The harmony of doctrines is possible through non-one-sidedness.”",
+      "notes": "Nyāyaviniscaya is a concise treatise on logic and debate. This passage highlights Akalaṅka’s defense of anekāntavāda as a method for resolving apparent contradictions among philosophical schools."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Akalanka invented Jain logic from scratch.",
+      "reality": "Akalanka did not invent Jain logic; he systematized and refined earlier traditions found in works such as the Niyamasāra, Praśamarati, and the early Digambara commentarial corpus. His contribution lies in technical precision and engagement with rival schools."
+    },
+    {
+      "myth": "Akalanka’s logic promotes relativism where all views are equally true.",
+      "reality": "Akalanka’s anekāntavāda is not relativism. It asserts that statements are conditionally true based on standpoint and context. He distinguishes between partial truths (naya) and comprehensive valid knowledge (pramāṇa), preventing the collapse into “everything is true.”"
+    },
+    {
+      "myth": "Syādvāda is the central focus of Akalanka’s logic.",
+      "reality": "While Akalanka discusses syādvāda, his primary contributions lie in pramāṇa theory, fallacy analysis, and the relationship between naya and pramāṇa. Syādvāda is one component of a larger epistemological framework."
+    }
+  ]
+}

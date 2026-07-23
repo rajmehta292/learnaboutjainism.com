@@ -1,0 +1,51 @@
+{
+  "overview": "Mati‑jñāna (मति‑ज्ञान; Prakrit: मति‑णाण) is one of the five classical categories of knowledge described in Jain epistemology. It is typically translated as ‘sensory‑mental cognition’ or ‘empirical knowledge’ and refers to the ordinary, worldly process by which living beings perceive, process, and understand information through the senses and the mind. In both Digambara and Śvetāmbara traditions, mati‑jñāna is considered parokṣa‑jñāna (indirect knowledge), because it arises through intermediaries—sense organs, mind, and cognitive operations—rather than through direct, immediate apprehension.\n\nJain philosophers describe mati‑jñāna as a multi‑stage cognitive event. First, sensory contact (indriya‑saṃyoga) occurs; then attention and mental engagement (manovṛtti) follow; finally, recognition, judgment, and memory consolidate the experience. Classical texts outline four sub‑types: avagraha (initial grasp), īhā (searching or probing), avāya (determinate judgment), and dhāraṇā (retention). These stages illustrate how Jain thinkers analyzed cognition with remarkable precision, linking epistemology to karma theory, psychology, and liberation theory.\n\nMati‑jñāna is ethically significant because its clarity or distortion depends on the karmic condition of the soul. When knowledge‑obscuring karma (jñānāvaraṇīya) is heavy, mati‑jñāna becomes confused or erroneous; when such karma is attenuated, cognition becomes sharp, reliable, and conducive to right faith (samyak‑darśana). Although mati‑jñāna is a worldly form of knowledge, it is foundational: without it, higher forms of knowledge—śruta‑jñāna (scriptural knowledge), avadhi‑jñāna (clairvoyance), manaḥparyāya‑jñāna (telepathy), and kevala‑jñāna (omniscience)—cannot be cultivated.\n\nAcross Jain traditions, mati‑jñāna is treated as a universal capacity of embodied beings, including humans, animals, and certain celestial and infernal beings. Its scope includes perception, inference, memory, and practical reasoning. Because it is indirect and mediated, Jain epistemology emphasizes the need for careful discipline, ethical conduct, and scriptural study to refine mati‑jñāna and reduce cognitive errors. Modern scholarship highlights how Jain analyses of mati‑jñāna anticipate contemporary discussions in cognitive science about perception, attention, and mental processing.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "मतिśrutaavadhiḥ मनःपर्यायं केवलं च ज्ञानम्",
+      "transliteration": "mati‑śruta‑avadhiḥ manaḥparyāyaṃ kevalaṃ ca jñānam",
+      "translation": "“Knowledge is of five kinds: sensory‑mental (mati), scriptural (śruta), clairvoyant (avadhi), telepathic (manaḥparyāya), and omniscient (kevala).”",
+      "notes": "Tattvārtha Sūtra 1.9 is the most widely cited canonical definition of the fivefold knowledge taxonomy. Both Digambara and Śvetāmbara traditions accept this verse, though commentaries differ in detail."
+    },
+    {
+      "title": "Tattvārtha Sūtra (on the stages of mati‑jñāna)",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अवग्रहैहावायधारणाः",
+      "transliteration": "avagraha‑īhā‑avāya‑dhāraṇāḥ",
+      "translation": "“The stages are avagraha, īhā, avāya, and dhāraṇā.”",
+      "notes": "This concise sūtra (TS 1.13) lists the four classical sub‑stages of mati‑jñāna. Commentaries elaborate on each stage’s cognitive function."
+    },
+    {
+      "title": "Gommaṭasāra Jīvakāṇḍa",
+      "author": "Nemicandra Siddhānta‑cakravartin",
+      "original_text": "मति‑णाणं पञ्चविधं—अवगहिअ, ईहा, अवाया, धारणाइं, तवस्स‑णाणं",
+      "transliteration": "mati‑ṇāṇaṃ pañcavidhaṃ—avagahia, īhā, avāyā, dhāraṇāiṃ, tavassa‑ṇāṇaṃ",
+      "translation": "“Mati‑knowledge is of five kinds: avagraha, īhā, avāya, dhāraṇā, and tavasya‑jñāna.”",
+      "notes": "Digambara texts sometimes list a fifth refinement (tavasya‑jñāna), interpreted as concentrated or ascetic cognition. Editions vary; some manuscripts omit or differently gloss this term."
+    },
+    {
+      "title": "Āvaśyaka Niryukti (Śvetāmbara)",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "मति‑णाणं इंदिय‑मणो‑पोग्गलं",
+      "transliteration": "mati‑ṇāṇaṃ indiya‑maṇo‑poggalaṃ",
+      "translation": "“Mati‑knowledge arises through the senses and the mind, which are material.”",
+      "notes": "This verse emphasizes the mediated, embodied nature of mati‑jñāna. The Niryukti tradition provides early Prakrit elaborations on canonical categories."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Mati‑jñāna is purely sensory perception and excludes reasoning or memory.",
+      "reality": "Classical Jain epistemology explicitly includes inference, judgment, and retention within mati‑jñāna. It is a broad category of sensory‑mental cognition, not limited to raw perception."
+    },
+    {
+      "myth": "Mati‑jñāna is unreliable and therefore spiritually unimportant.",
+      "reality": "Although indirect, mati‑jñāna is foundational. Ethical conduct and reduction of knowledge‑obscuring karma refine it, making it a crucial basis for right faith and higher knowledge."
+    },
+    {
+      "myth": "Only humans possess mati‑jñāna.",
+      "reality": "Jain texts state that all embodied beings with functioning senses and mind—including animals and certain celestial or infernal beings—possess mati‑jñāna."
+    }
+  ]
+}

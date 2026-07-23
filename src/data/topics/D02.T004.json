@@ -1,0 +1,55 @@
+{
+  "overview": "In Jain philosophy, liberation (mokṣa) is possible because the soul (jīva) possesses inherent qualities of infinite perception, knowledge, bliss, and energy that are only obscured—not destroyed—by karmic matter. This foundational claim appears consistently across Śvetāmbara and Digambara canonical and post‑canonical literature. The possibility of liberation is therefore not an external gift or divine intervention but an ontological fact about the soul’s nature.\n\nLiberation becomes possible because karmic bondage is neither permanent nor essential. Karmas attach to the soul through specific activities—passions (kaṣāyas), vibrations (yoga), and delusion (mithyātva). Since these causes are contingent, they can be stopped (saṃvara) and removed (nirjarā). The Tattvārtha Sūtra, accepted across Jain traditions, describes this process as a precise causal chain: when the inflow of karma is halted and existing karmas are shed, the soul’s natural qualities shine forth unobstructed.\n\nJain metaphysics further asserts that the universe is beginningless and eternal, containing countless souls who have already attained liberation. Their existence serves as empirical proof within the tradition that mokṣa is achievable. Liberated beings (siddhas) are described as residing at the apex of the universe (siddha-śilā), free from all karmic matter and experiencing unobstructed knowledge and bliss.\n\nThe path to liberation is structured through the guṇasthānas (fourteen stages of spiritual development), which map the gradual removal of delusion, passions, and activity. Because these stages are presented as universally accessible to all souls—monastic and lay, male and female—liberation is considered possible for any being who fully realizes right faith, right knowledge, and right conduct.\n\nThus, liberation is possible because: (1) the soul is inherently pure; (2) karmic bondage is contingent and reversible; (3) the universe contains liberated beings; and (4) the path to liberation is systematically described and open to all. These claims are grounded in primary Jain texts and elaborated through classical commentaries and modern scholarship.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "मोक्षो निर्जरा च",
+      "transliteration": "mokṣo nirjarā ca",
+      "translation": "Liberation results from the shedding of karmic matter.",
+      "notes": "This aphorism (TS 10.2) is a core statement accepted by both Digambara and Śvetāmbara traditions. It defines mokṣa as a natural consequence of karma removal, implying that liberation is possible because karmic bondage is not essential to the soul."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "जो सो अण्णो, अण्णो सो जो",
+      "transliteration": "jo so aṇṇo, aṇṇo so jo",
+      "translation": "The soul is distinct, and karmic matter is distinct.",
+      "notes": "This passage emphasizes the separateness of soul and karma. Since karma is not intrinsic to the soul, it can be removed, making liberation possible. Digambara tradition treats Samayasāra as a foundational text on the pure nature of jīva."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जोगं पवज्जइ मोक्कं",
+      "transliteration": "jogaṃ pavajjaï mokkaṃ",
+      "translation": "Through discipline, one attains liberation.",
+      "notes": "This verse (US 28.1) links liberation to ethical and meditative discipline. It reinforces that liberation is achievable through human effort rather than divine grace."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Ācārya Nemicandra",
+      "original_text": "सिद्धो निःशेषकर्मविप्रमुक्तः",
+      "transliteration": "siddho niḥśeṣa‑karma‑vipramuktaḥ",
+      "translation": "A liberated soul is one completely free from all karmas.",
+      "notes": "This definition demonstrates that liberation is a state already attained by countless souls, serving as doctrinal evidence that mokṣa is possible."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Liberation requires divine intervention or grace.",
+      "reality": "Jainism teaches that liberation is entirely self‑achieved. No deity grants mokṣa; it arises from the soul’s own effort to stop and shed karma."
+    },
+    {
+      "myth": "Liberation is only possible for monks or ascetics.",
+      "reality": "While monastic life is considered the most conducive path, Jain texts affirm that any soul can attain liberation. Laypeople can progress significantly through right faith, knowledge, and conduct."
+    },
+    {
+      "myth": "Karmic bondage is permanent, making liberation impossible.",
+      "reality": "Karma is contingent and removable. Primary texts repeatedly state that karmic matter is non-essential to the soul and can be eliminated through discipline and insight."
+    },
+    {
+      "myth": "Liberation is a metaphor rather than an actual state.",
+      "reality": "Jain cosmology describes liberated beings (siddhas) as actually existing at the universe’s apex. Their existence is doctrinally treated as empirical proof of mokṣa."
+    }
+  ]
+}

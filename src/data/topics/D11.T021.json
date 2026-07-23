@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, “karmic conditions” refers to the full spectrum of ways in which karma (kamma/karma‑dravya) binds to, modifies, obscures, and conditions the soul (jīva). Unlike metaphorical or moralized uses of the term in popular discourse, Jainism treats karma as a subtle material substance composed of infinitely small particles (karma‑pudgala) that interact with the soul according to precise causal laws. These conditions arise from activities of mind, speech, and body (yoga), from passions (kaṣāya), and from the soul’s vibrational states (lesyā). They determine the soul’s experiential life, its cognitive clarity, its emotional tendencies, its lifespan, its body type, and its spiritual trajectory.\n\nKarmic conditions are traditionally analyzed through several technical frameworks. The most foundational is the classification of eight primary karma types (mūla‑karma) divided into ghātiyā (destructive to right knowledge, perception, and conduct) and aghātiyā (non‑destructive, shaping worldly embodiment). Each type has sub‑categories, durations, intensities, and fruition modes. The conditions under which karma binds (bandha), stays (sthiti), rises (udaya), becomes active (udīraṇa), or is shed (nirjarā) are described in detail in canonical texts such as the *Tattvārtha Sūtra* and *Ṣaṭkhaṅḍāgama*.\n\nA second framework concerns the four binding causes (bandha‑hetu): wrong belief (mithyātva), lack of self‑restraint (avirati), negligence (pramāda), and passions (kaṣāya). These conditions determine the quality and quantity of karmic influx (āsrava). Passions—anger, pride, deceit, and greed—are considered the most potent conditioners of karma, increasing its duration and intensity.\n\nA third framework is the fourteen stages of spiritual development (guṇasthāna), which map how karmic conditions progressively weaken or intensify. As the soul ascends these stages, destructive karmas are suppressed or destroyed, leading to increasingly refined states of perception and conduct. The final stages culminate in the complete elimination of all karmic conditions, resulting in liberation (mokṣa).\n\nAcross Jain traditions, karmic conditions are not viewed as fatalistic. They are dynamic, continuously shaped by ethical choices, meditative discipline, and the cultivation of equanimity. Lay and monastic practices—such as careful restraint (saṃyama), meditation (dhyāna), confession (pratikramaṇa), and austerities (tapas)—are understood as methods for reducing karmic influx and accelerating karmic shedding. While the technical details differ slightly between Digambara and Śvetāmbara lineages, the underlying principle remains consistent: karmic conditions arise from the soul’s own activity and can be transformed through conscious effort, culminating in the soul’s natural state of infinite knowledge, perception, bliss, and energy.\n\nThis topic sits within the Karma and Guṇasthāna Technical Guide mode, requiring careful distinction between primary textual claims, commentary interpretations, and modern explanatory framing.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "कर्मणो बन्धः",
+      "transliteration": "karmaṇo bandhaḥ",
+      "translation": "“The binding of karma [occurs due to the soul’s activities].”",
+      "notes": "Tattvārtha Sūtra 8.1 introduces karmic bondage as a technical process. Subsequent sūtras (8.2–8.5) detail the causes of bondage—wrong belief, lack of restraint, negligence, and passions. This text is accepted across Digambara and Śvetāmbara traditions, though commentarial interpretations differ."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama",
+      "author": "Kundakunda lineage; compiled by Puṣpadanta and Bhūtabali",
+      "original_text": "बंधो जीवस्य स्वभावपरिणामः",
+      "transliteration": "bandho jīvasya svabhāva‑pariṇāmaḥ",
+      "translation": "“Bondage is a transformation of the soul’s own nature.”",
+      "notes": "A foundational Digambara text offering the most detailed early analysis of karmic categories, durations, intensities, and modes of fruition. The surviving manuscripts are complex, and scholarly editions note significant variation. The quoted line is representative of the text’s framing but may vary slightly across editions."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text; anonymous",
+      "original_text": "कसाएणं बंधइ",
+      "transliteration": "kasāeṇaṃ bandhai",
+      "translation": "“By passions, [the soul] binds karma.”",
+      "notes": "This passage (Uttarādhyayana Sūtra 32) emphasizes the central role of passions in karmic conditioning. The text is part of the Śvetāmbara canon and is frequently cited in monastic instruction."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Karmic conditions are predetermined and cannot be changed.",
+      "reality": "Jain texts consistently state that karmic conditions are dynamic and shaped by present choices. Practices such as restraint, meditation, and austerities directly influence karmic influx and shedding."
+    },
+    {
+      "myth": "Karma in Jainism is purely metaphorical or psychological.",
+      "reality": "Primary sources describe karma as a subtle material substance (pudgala) that physically binds to the soul. Psychological explanations are modern interpretations, not replacements for the classical ontology."
+    },
+    {
+      "myth": "All suffering is punishment for past actions.",
+      "reality": "Jain doctrine frames karmic fruition as causal, not punitive. Karma operates through natural laws, and not all experiences are results of moral failings; some arise from non‑passionate activities."
+    }
+  ]
+}

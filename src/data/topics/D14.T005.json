@@ -1,0 +1,47 @@
+{
+  "overview": "The **three guṇavratas** (supplementary or meritorious vows) form part of the classical Jain lay‑vow system described in early Śvetāmbara and Digambara canonical and post‑canonical texts. They follow the five aṇuvratas (small vows) and precede the four śikṣāvratas (disciplinary vows). Their purpose is to strengthen the ethical discipline of householders by limiting spatial movement, regulating consumption, and cultivating carefulness in daily life. \n\nIn both major traditions, the three guṇavratas are: **dig‑vrata** (limiting one’s movement to a defined area), **bhoga‑upabhoga‑vrata** (restricting consumables and enjoyables), and **anartha‑danda‑vrata** (renouncing purposeless or harmful activities). These vows are not monastic in intensity but are designed to reduce the scope of harm, curb attachment, and prepare the practitioner for deeper restraint. \n\n**Dig‑vrata** establishes a self‑imposed boundary within which one agrees to travel, thereby reducing unintended violence to living beings in distant or unfamiliar places. **Bhoga‑upabhoga‑vrata** limits both single‑use and repeated‑use objects, encouraging mindful consumption and reducing entanglement with possessions. **Anartha‑danda‑vrata** addresses subtle forms of harm such as gossip, idle talk, cruelty in entertainment, or supporting violence indirectly. \n\nAcross traditions, these vows are interpreted as practical tools for laypeople to align their daily life with ahiṃsā and aparigraha. Commentarial literature emphasizes that they are preparatory disciplines: they deepen awareness, reduce karmic influx (āsrava), and support progress toward higher ethical states without requiring monastic renunciation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "दिग्व्रतभोगोपभोगव्रतानर्थदण्डव्रताः",
+      "transliteration": "digvrata‑bhogopabhoga‑vratā‑anarthadaṇḍa‑vratāḥ",
+      "translation": "The vows of limiting directions, limiting consumables and enjoyables, and avoiding purposeless harmful activities.",
+      "notes": "Tattvārtha Sūtra 7.15 lists the guṇavratas as part of the lay‑vow system. The text is accepted across Śvetāmbara and Digambara traditions, though commentaries differ in details."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "Not explicitly enumerated as guṇavratas, but foundational principles of restraint, carefulness, and limitation appear throughout.",
+      "transliteration": "",
+      "translation": "Passages emphasize limiting movement, regulating consumption, and avoiding purposeless harm as aspects of right conduct.",
+      "notes": "While the formal list of guṇavratas appears later, early canonical ethics provide the conceptual basis."
+    },
+    {
+      "title": "Śrāvakācāra texts (e.g., Digambara author Āśādhara’s *Śrāvakadharma‑paddhati*)",
+      "author": "Āśādhara (13th century)",
+      "original_text": "दिग्व्रतं भोगोपभोगव्रतमनर्थदण्डव्रतं च",
+      "transliteration": "digvrataṃ bhogopabhogavrataṃ anarthadaṇḍavrataṃ ca",
+      "translation": "The dig‑vow, the vow concerning consumables and enjoyables, and the vow concerning purposeless harmful acts.",
+      "notes": "Digambara lay‑conduct manuals give detailed practical instructions for defining boundaries, listing restricted items, and identifying harmful behaviors."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The guṇavratas are optional and not part of the formal lay‑vow system.",
+      "reality": "Primary sources such as Tattvārtha Sūtra 7.15 clearly include the three guṇavratas as integral components of the eleven lay vows."
+    },
+    {
+      "myth": "Dig‑vrata requires extreme geographic confinement similar to monastic rules.",
+      "reality": "Lay dig‑vrata sets a practical, self‑chosen boundary appropriate to household life; it is not equivalent to monastic spatial restraint."
+    },
+    {
+      "myth": "Bhoga‑upabhoga‑vrata prohibits all enjoyment.",
+      "reality": "The vow regulates and limits consumption; it does not demand total abstention. Its purpose is mindful use, not complete renunciation."
+    },
+    {
+      "myth": "Anartha‑danda‑vrata only concerns speech.",
+      "reality": "The vow covers a wide range of purposeless harmful acts, including supporting violence, cruel entertainment, idle gossip, and negligent behavior."
+    }
+  ]
+}

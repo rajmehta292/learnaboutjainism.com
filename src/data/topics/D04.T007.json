@@ -1,0 +1,55 @@
+{
+  "overview": "In Jain philosophy, the individuality of souls (jīva-bahutva or jīva-nānātva) is a foundational doctrine affirming that every living being possesses an eternal, distinct, and self-subsisting soul. This individuality is not metaphorical but ontological: each soul is a real, independent substance (dravya) with its own inherent qualities (guṇa) and modes (paryāya). Jain thinkers consistently maintain that souls do not emerge from one another, do not merge, and do not dissolve into a universal consciousness. Instead, they coexist as innumerable, discrete entities across past, present, and future.\n\nThe doctrine is closely tied to the Jain understanding of reality as pluralistic (anekānta). Souls share a common essence—consciousness (caitanya), capacity for knowledge (jñāna), perception (darśana), bliss (sukha), and energy (vīrya)—yet each soul expresses these qualities uniquely according to its karmic conditions. This means that while all souls are equal in their pure potential, they differ in their empirical states due to the karmic matter (karma pudgala) they have accumulated.\n\nIndividuality persists even in liberation (mokṣa). A liberated soul remains a distinct entity, residing at the apex of the universe (siddha-śilā), retaining its unique identity while fully manifesting infinite knowledge, perception, bliss, and energy. Jain texts emphasize that liberation does not entail absorption into a higher being or cosmic unity. Instead, it is the complete removal of karmic obscurations, allowing the soul’s inherent qualities to shine unobstructed.\n\nThis doctrine also shapes Jain ethics. Because every soul is individual, eternal, and capable of suffering or liberation, nonviolence (ahiṃsā) becomes a universal obligation. Harming any being means harming a distinct soul with its own trajectory toward liberation. Thus, individuality of souls underpins the Jain commitment to compassion, restraint, and careful conduct in daily life.\n\nAcross Digambara and Śvetāmbara traditions, the individuality of souls is affirmed consistently, though commentarial nuances differ. Classical Prakrit and Sanskrit sources provide extensive metaphysical arguments defending this doctrine against rival schools such as Advaita Vedānta, Sāṅkhya, and Buddhist traditions, which propose various forms of monism, momentariness, or non-self theories. Jain philosophers respond by grounding their position in the permanence of substance and the multiplicity of conscious beings.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "जीवास्तु बहवः",
+      "transliteration": "jīvāstu bahavaḥ",
+      "translation": "“Souls are indeed many.”",
+      "notes": "Tattvārtha Sūtra 5.29 is the most frequently cited aphorism affirming the multiplicity of souls. Commentaries such as Pūjyapāda’s Sarvārthasiddhi (Digambara) and Siddhasena’s Tattvārthavṛtti (Śvetāmbara) elaborate that individuality is eternal and not produced by karmic states."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Nemicandra Siddhānta Cakravartin",
+      "original_text": "जीवो णिच्चो सव्वगुणसंपण्णो",
+      "transliteration": "jīvo nicco savvaguṇasampaṇṇo",
+      "translation": "“The soul is eternal and endowed with all its qualities.”",
+      "notes": "Dravyasaṃgraha verse 1 describes the soul as an eternal substance with inherent qualities. Individuality is implied through the text’s classification of countless souls bound by different karmas."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "णाणदंसणसुक्खविरियसंपण्णो जीवो",
+      "transliteration": "ñāṇadaṃsaṇasukkhaviriya-sampaṇṇo jīvo",
+      "translation": "“The soul is endowed with knowledge, perception, bliss, and energy.”",
+      "notes": "Samayasāra emphasizes the pure nature of each soul. Kundakunda repeatedly asserts that each soul is distinct, even in its pure state, and cannot merge with another."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "एगं णं जीवं णाणं णं दंसणं णं",
+      "transliteration": "egaṃ ṇaṃ jīvaṃ ṇāṇaṃ ṇaṃ daṃsaṇaṃ ṇaṃ",
+      "translation": "“Knowledge is of one (individual), perception is of one (individual), the soul is of one (individual).”",
+      "notes": "This passage reinforces that cognitive functions belong to individual souls, not to a collective consciousness."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that all souls merge into one universal soul upon liberation.",
+      "reality": "Jain texts explicitly deny any form of merger. Liberated souls remain eternally distinct, residing at the siddha-śilā with their individuality fully intact."
+    },
+    {
+      "myth": "Individuality of souls means souls are fundamentally different in essence.",
+      "reality": "All souls share the same essential qualities. Differences arise from karmic conditions, not from variations in the soul’s inherent nature."
+    },
+    {
+      "myth": "The Jain doctrine of many souls is similar to the Buddhist idea of momentary consciousness streams.",
+      "reality": "Jainism affirms permanent, enduring souls. Buddhism denies a permanent self (anātman). The two positions are metaphysically distinct."
+    },
+    {
+      "myth": "Individual souls can be created or destroyed.",
+      "reality": "Souls are beginningless and endless. They neither originate nor perish; only their states change according to karma."
+    }
+  ]
+}

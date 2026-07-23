@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical vocabulary, “carelessness” is most commonly discussed under the technical term *pramāda* (Sanskrit/Prakrit), a condition of mental, ethical, and attentional laxity that obstructs right conduct and spiritual progress. Jain thinkers across traditions describe carelessness not merely as casual inattentiveness but as a subtle moral and cognitive state in which one loses vigilance (*apramatta*) toward non‑violence, restraint, and awareness of karmic consequences. \n\nIn the canonical and commentarial literature, *pramāda* is treated as a major impediment to the cultivation of *samiti* (carefulness in action) and *gupti* (control of mind, speech, and body). It is also linked to the weakening of *śīla* (ethical discipline) and the decline of *saṃyama* (restraint). The term appears in discussions of the *gunasthāna* (stages of spiritual development), where carelessness marks the boundary between lower states dominated by passions and higher states characterized by vigilance and equanimity. \n\nJain authors identify several forms of carelessness: indulgence in sensual pleasures, negligence in vows, inattentive movement that risks harm to living beings, and mental distraction that allows passions to arise. These forms are not treated as moral failings in isolation but as conditions that intensify karmic bondage. The remedy is the cultivation of mindfulness, disciplined conduct, and continuous awareness of the presence of life in all directions. \n\nAcross Digambara and Śvetāmbara traditions, carelessness is consistently framed as a preventable condition. Through deliberate practice—such as reflection on the vows, careful walking (*īryā‑samiti*), and mental recollection (*anuprekṣā*)—the practitioner gradually replaces *pramāda* with *apramāda*, the attentive state that supports liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "प्रमादो मिथ्यात्वकषायदुर्व्यवस्थानाम्",
+      "transliteration": "pramādo mithyātva‑kaṣāya‑durvyavasthānām",
+      "translation": "“Carelessness arises from wrong belief, passions, and disorderly conduct.”",
+      "notes": "Tattvārtha Sūtra 9.1 (Digambara and Śvetāmbara shared text). This sutra defines *pramāda* as emerging from three destabilizing conditions. Commentaries differ slightly in enumerating its subtypes but agree that carelessness is incompatible with progress toward right conduct."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "अप्पमत्तो विहावेइ, पमत्तो पावं करेइ",
+      "transliteration": "appamatto vihāvei, pamatto pāvaṃ karei",
+      "translation": "“The vigilant one lives rightly; the careless one commits sin.”",
+      "notes": "Daśavaikālika Sūtra 4.10. This aphorism contrasts *apramāda* (vigilance) with *pramāda* (carelessness), emphasizing the ethical consequences of inattentiveness."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra)",
+      "author": "Pūjyapāda (Digambara)",
+      "original_text": "प्रमादो हि सर्वदोषानां मूलम्",
+      "transliteration": "pramādo hi sarva‑doṣānāṃ mūlam",
+      "translation": "“Carelessness is indeed the root of all faults.”",
+      "notes": "Pūjyapāda’s commentary elaborates on *pramāda* as the foundational condition enabling passions and unethical actions. The phrase is widely cited in Digambara pedagogy."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Carelessness in Jainism only refers to physical inattentiveness, such as careless walking.",
+      "reality": "While physical carelessness is one aspect, Jain texts define *pramāda* primarily as a mental and ethical condition involving distraction, passion, and neglect of vows. It is a comprehensive state affecting thought, speech, and action."
+    },
+    {
+      "myth": "Carelessness is treated as a minor flaw that does not significantly affect spiritual progress.",
+      "reality": "Primary sources consistently describe *pramāda* as a major obstacle to liberation. It prevents the rise of right conduct, strengthens karmic bondage, and marks the boundary between lower and higher *gunasthānas*."
+    },
+    {
+      "myth": "Only monastics are expected to avoid carelessness.",
+      "reality": "Laypeople and monastics alike are instructed to cultivate vigilance. Although the disciplines differ in intensity, both groups are taught that carelessness undermines ethical living and increases harm to living beings."
+    }
+  ]
+}

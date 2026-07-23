@@ -1,0 +1,43 @@
+{
+  "overview": "Dana (dāna) in Jainism refers to the disciplined practice of giving, rooted in ahiṃsā (non‑violence), aparigraha (non‑possessiveness), and compassion toward all living beings. It is one of the central lay virtues (śrāvaka‑dharma) and appears across Digambara and Śvetāmbara traditions with shared foundations but distinct ritual expressions. Dana is not merely charity; it is a karmically significant act that reduces possessiveness, supports ascetics, and cultivates inner purity. Jain texts classify dana into structured categories, emphasize intention over material value, and warn against harmful or coercive forms of giving.\n\nIn classical Jain ethics, dana is one of the four principal lay duties (caturvidha‑dāna): āhāra‑dāna (food), auṣadha‑dāna (medicine), jñāna‑dāna (knowledge), and abhayadāna (protection). These appear in early canonical sources and remain foundational in contemporary practice. Dana is also linked to the broader karmic framework: giving with right intention diminishes the intensity of possessive karma (parigraha‑bandha) and supports progress toward higher guṇasthānas. However, texts caution that dana must be free from pride, expectation, violence, or harm to dependents.\n\nHistorically, dana sustained monastic communities, manuscript preservation, temple construction, and animal welfare institutions (panjrapoles). Modern Jain communities extend dana to education, hospitals, disaster relief, and environmental protection, while debates continue about ethical boundaries—such as avoiding donations that indirectly support violence, exploitation, or environmental harm.\n\nAcross sects, dana remains a core expression of lay spirituality: Digambara texts emphasize dana as part of śrāvaka‑dharma supporting nude ascetics; Śvetāmbara Mūrtipūjaka traditions integrate dana with temple rituals; Sthānakavāsī and Terāpanth traditions emphasize non‑ritualistic, socially oriented giving. Despite these differences, all traditions uphold dana as a disciplined, intentional practice that cultivates inner detachment and compassion.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (shared across traditions)",
+      "original_text": "अन्नपानभेषजज्ञानाभयदानानि",
+      "transliteration": "annapāna‑bheṣaja‑jñāna‑abhaya‑dānāni",
+      "translation": "“Giving of food, drink, medicine, knowledge, and protection.”",
+      "notes": "Tattvārtha Sūtra 7.11 lists the classical categories of dana. Commentaries (B: Pūjyapāda’s Sarvārthasiddhi; Siddhasena’s Tattvārthādhigama‑bhāṣya) explain that dana reduces possessiveness and supports the path of non‑violence."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "दाणं ददंति भत्तं भत्तस्स कारणं",
+      "transliteration": "dāṇaṃ dadanti bhattaṃ bhattassa kāraṇaṃ",
+      "translation": "“They give alms; food is the cause of sustenance.”",
+      "notes": "This passage (E: based on standard critical editions; wording varies) highlights the role of dana in supporting ascetics. The text emphasizes purity of intention and avoidance of harm in the act of giving."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra",
+      "author": "Samantabhadra (Digambara)",
+      "original_text": "दानेन च परिग्रहस्य क्षयः",
+      "transliteration": "dānena ca parigrahasya kṣayaḥ",
+      "translation": "“Through giving, possessiveness is diminished.”",
+      "notes": "A key Digambara lay‑conduct text (A/B). It frames dana as a direct method for reducing attachment and cultivating śraddhā (faith) and samyaktva (right worldview)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Dana is simply charity or philanthropy.",
+      "reality": "In Jainism, dana is a disciplined spiritual practice aimed at reducing possessiveness and cultivating non‑violence. Intention, purity, and ethical alignment matter more than the material amount."
+    },
+    {
+      "myth": "Any form of giving is meritorious, regardless of consequences.",
+      "reality": "Primary texts warn that dana must not cause harm, support violence, or endanger dependents. Giving that leads to exploitation or injury generates negative karma."
+    },
+    {
+      "myth": "Dana is only about supporting monks and temples.",
+      "reality": "While monastic support is central, canonical categories include medicine, knowledge, and protection of living beings. Modern Jain practice extends dana to hospitals, education, disaster relief, and animal welfare."
+    }
+  ]
+}

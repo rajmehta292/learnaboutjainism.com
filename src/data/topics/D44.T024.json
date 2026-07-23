@@ -1,0 +1,55 @@
+{
+  "overview": "Ahāra-dāna (food-giving) is one of the classical forms of dāna (generosity) recognized across Jain traditions. It refers specifically to the offering of food to ascetics who have undertaken vows of non-possession and do not store or prepare food themselves. In Jain ethics, ahāra-dāna is not merely an act of charity but a carefully regulated practice grounded in nonviolence (ahiṃsā), purity of intention, and strict ritual discipline.\n\nWithin the broader Jain dāna framework—often enumerated as anna-dāna (food), pānīya-dāna (water), auṣadha-dāna (medicine), and śāstra-dāna (teaching)—ahāra-dāna occupies a central place because food is essential for sustaining the ascetic path. Laypeople (śrāvakas and śrāvikās) support mendicants by providing food that is prepared with mindfulness, free from harm to living beings, and offered without attachment or expectation.\n\nAhāra-dāna is governed by detailed rules in both Digambara and Śvetāmbara traditions. These rules specify the purity of ingredients, the manner of preparation, the timing of offering, and the ethical state of the donor. The act is framed as a mutual relationship: the donor gains merit (puṇya) through nonviolent service, while the ascetic maintains their vows without violating non-possession. Importantly, Jain texts emphasize that ahāra-dāna must never compromise the health or safety of either party, and it is not a form of coercion or ritual fasting.\n\nHistorically, ahāra-dāna has shaped Jain community life. It reinforces interdependence between householders and mendicants, supports monastic wandering, and provides a daily opportunity for laypeople to cultivate compassion, humility, and discipline. Modern Jain communities continue the practice with adaptations for urban life, ensuring that food offered respects traditional purity standards while also meeting contemporary health guidelines.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "अहारे अहिंसा परमो धम्मो",
+      "transliteration": "ahāre ahiṃsā paramo dhammo",
+      "translation": "In matters of food, nonviolence is the highest dharma.",
+      "notes": "This passage highlights the centrality of nonviolence in food preparation and offering. The Ācārāṅga Sūtra (Śvetāmbara canon, Tier A) provides foundational rules for ascetic conduct, including how food may be accepted."
+    },
+    {
+      "title": "Bhagavatī Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "भिक्खू एतं अहारं पविसंतं पविसंतं पविसंतं",
+      "transliteration": "bhikkhū etaṃ ahāraṃ pavisantaṃ pavisantaṃ pavisantaṃ",
+      "translation": "The monks receive this food as it is offered, entering (into acceptance) with mindfulness.",
+      "notes": "This text describes the ritualized acceptance of food by mendicants, emphasizing mindfulness and purity."
+    },
+    {
+      "title": "Mūlācāra",
+      "author": "Vattakera (Digambara)",
+      "original_text": "अहारेण तपो वृद्धिं लभते",
+      "transliteration": "ahāreṇa tapo vṛddhiṃ labhate",
+      "translation": "Through proper food-giving, ascetic austerity is strengthened.",
+      "notes": "The Mūlācāra (Tier A/B) outlines Digambara monastic rules, including the conditions under which food may be accepted from laypeople."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "दानं पुण्यस्य कारणम्",
+      "transliteration": "dānaṃ puṇyasya kāraṇam",
+      "translation": "Giving is a cause of merit.",
+      "notes": "While not specific to food-giving, this authoritative pan-Jain text (Tier A) establishes the doctrinal basis for dāna as a meritorious act."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Ahāra-dāna is simply charity or feeding the poor.",
+      "reality": "Ahāra-dāna specifically refers to offering food to Jain mendicants under strict ethical and ritual guidelines. It is not a general social welfare practice, though Jains may also engage in broader charitable food distribution."
+    },
+    {
+      "myth": "Laypeople gain merit regardless of how the food is prepared.",
+      "reality": "Jain texts emphasize that merit arises only when food is prepared nonviolently, with purity of intention, and without harm to living beings. Violent or careless preparation negates the ethical value of the offering."
+    },
+    {
+      "myth": "Ahāra-dāna requires laypeople to fast or deprive themselves.",
+      "reality": "Ahāra-dāna is about offering appropriate food to ascetics, not about lay fasting. Jain ethics explicitly warn against practices that endanger health or involve coercion."
+    },
+    {
+      "myth": "Monks and nuns may accept any food offered.",
+      "reality": "Both Digambara and Śvetāmbara traditions prescribe detailed rules governing what food may be accepted, how it is offered, and the ethical state of the donor. Ascetics must refuse food that violates these standards."
+    }
+  ]
+}

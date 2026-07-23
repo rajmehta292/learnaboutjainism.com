@@ -1,0 +1,31 @@
+{
+  "overview": "The Mula-sutras are foundational texts within the Jain tradition, crucial for understanding the basic tenets and ethical guidelines of the faith. Primarily composed in Prakrit, these texts are part of the Svetambara canon and serve as introductory scriptures for those new to Jainism. They encompass important teachings such as the conduct of laypersons, the principles of non-violence, truth, and ascetic practices. The Mula-sutras are instrumental for both educational and devotional purposes, forming the groundwork upon which more complex Jain doctrines are built.",
+  "primary_sources": [
+    {
+      "title": "Uttaradhyayana Sutra",
+      "author": "Attributed to various Jain teachers",
+      "original_text": "उत्तरा अध्यायन सूत्र",
+      "transliteration": "Uttarā Adhyayana Sūtra",
+      "translation": "The Sutra of Further Teachings",
+      "notes": "This text is part of the Svetambara canon and provides guidance on ethical living and the path to liberation."
+    },
+    {
+      "title": "Dasavaikalika Sutra",
+      "author": "Acharya Sayyambhava",
+      "original_text": "दसवैकालिक सूत्र",
+      "transliteration": "Dasavaikālika Sūtra",
+      "translation": "The Tenfold Path",
+      "notes": "Focusing on the conduct of monks, this sutra outlines essential practices and vows in concise aphorisms."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Mula-sutras are exclusive to the Digambara sect.",
+      "reality": "The Mula-sutras are primarily associated with the Svetambara tradition and are part of their canonical literature."
+    },
+    {
+      "myth": "Mula-sutras are only meant for monks and nuns.",
+      "reality": "While they contain monastic teachings, the Mula-sutras also address laypersons and provide foundational ethical guidelines for all followers."
+    }
+  ]
+}

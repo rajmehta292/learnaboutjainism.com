@@ -1,0 +1,63 @@
+{
+  "overview": "Akalanka (IAST: Akalaṅka), also known as Akalankadeva and Bhaṭṭa Akalanka, is one of the most influential Digambara Jain philosophers and logicians of the eighth century CE. Flourishing roughly between 720–780 CE, he is widely regarded in the Jain tradition as a central architect of Jain logic (Jaina nyāya) and epistemology, building on earlier foundations laid by thinkers such as Samantabhadra and Siddhasena. His works systematize key Jain doctrines—especially anekāntavāda (the many-sidedness of reality) and syādvāda (conditional predication)—into a rigorous logical and philosophical framework.\n\nAkalanka is traditionally associated with southern India, particularly the Rashtrakūṭa milieu. Inscriptions and later narrative sources connect him with the court of King Subhatunga and with the Rashtrakūṭa king Kṛṣṇa I, situating his activity in a period of intense intellectual exchange among Jain, Buddhist, and Brahmanical schools. Digambara sources describe him as the son of a minister named Puruṣottama and as having a brother, Niṣkalanka (or Nikalanka), with whom he shared early vows of celibacy. Hagiographical accounts portray Akalanka as a prodigious memorizer and debater who studied rival systems—especially Buddhism—deeply, sometimes in disguise, in order to refute them more effectively.\n\nPhilosophically, Akalanka’s importance lies in his detailed treatment of pramāṇa (means of valid knowledge), inference (anumāna), and the structure of logical reasoning. In works such as the \"Laghīyastraya\", \"Pramāṇasaṅgraha\", and \"Nyāyaviniścaya\", he refines Jain accounts of perception, inference, and testimony, and develops sophisticated responses to Buddhist logicians like Dignāga and Dharmakīrti. He emphasizes the \"single mark\" (ekaliṅga) criterion for valid inference and integrates tarka (suppositional reasoning) into a realist, many-sided ontology. His analyses show how apparently contradictory predicates—such as existence and non-existence—can be reconciled within syādvāda when properly indexed to standpoints (naya) and conditions.\n\nAkalanka also stands out as a major commentator on foundational Jain scriptures. His \"Tattvārtharājavārtika\" is a substantial Sanskrit commentary on Umāsvāti/Umāsvāmi’s \"Tattvārthasūtra\", the only Jain text accepted as canonical by both Digambara and Śvetāmbara traditions. In this commentary, Akalanka elaborates the sūtras on ontology (dravya), categories (tattva), karma, bondage, and liberation, often with a strong logical and dialectical orientation. Another key work, the \"Aṣṭaśatī\", is a concise but dense commentary on Samantabhadra’s \"Āptamīmāṃsā\", focusing on the nature of the trustworthy teacher (āpta), the criteria of valid testimony, and the defense of Jain doctrine against rival schools.\n\nEpigraphic evidence from places like Śravaṇabeḷgoḷa praises Akalanka in exalted terms, calling him the crest-jewel among logicians and likening his intellect to that of Bṛhaspati. Later Digambara educational and devotional literature continues to celebrate him as \"Syādvādakeśarī\" (the lion of syādvāda) and as a \"Yugapravartaka\"—an epoch-making figure whose thought reshaped Jain philosophical discourse. His influence extends well beyond Jain circles: historians of Indian logic and comparative philosophy recognize Akalanka’s works as landmarks in the development of formal reasoning, epistemology, and inter-school debate in classical India.\n\nFrom a sectarian perspective, Akalanka is firmly situated within the Digambara tradition. He is credited with contributing to scriptural classification schemes, including the distinction between kālika and utkālika texts, and with deep familiarity with the contents of the Aṅgas, even though their status in Digambara transmission is complex. His legacy is carried forward by later Digambara philosophers and commentators, who rely on his formulations of pramāṇa, naya, and syādvāda as standard reference points. For contemporary students of Jainism, Akalanka represents a crucial bridge between early doctrinal formulations and the highly technical, scholastic phase of Jain philosophy, making him indispensable for understanding Jain logic, epistemology, and the mature articulation of anekāntavāda.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtharājavārtika",
+      "author": "Akalanka (Akalaṅka)",
+      "original_text": "तत्त्वार्थसूत्राणां व्याख्यां करोमि।",
+      "transliteration": "tattvārthasūtrāṇāṁ vyākhyāṁ karomi.",
+      "translation": "I undertake the exposition of the Tattvārtha-sūtras.",
+      "notes": "The \"Tattvārtharājavārtika\" is Akalanka’s major Sanskrit commentary on Umāsvāti/Umāsvāmi’s \"Tattvārthasūtra\", a foundational Jain philosophical text accepted by both Digambara and Śvetāmbara traditions. Akalanka’s commentary belongs to corpus tier A–B (primary text plus traditional commentary) and is central for understanding how Digambara scholastics interpret categories such as substances (dravya), realities (tattva), karma, bondage, and liberation. His approach is highly logical, often engaging with rival schools while clarifying Jain positions on pramāṇa, naya, and anekāntavāda."
+    },
+    {
+      "title": "Aṣṭaśatī (Commentary on Āptamīmāṃsā)",
+      "author": "Akalanka (Akalaṅka), on Samantabhadra’s Āptamīmāṃsā",
+      "original_text": "आप्तो हि सर्वदृष्टानां प्रमाणं परिकीर्तितः।",
+      "transliteration": "āpto hi sarvadṛṣṭānāṁ pramāṇaṁ parikīrtitaḥ.",
+      "translation": "The trustworthy teacher is proclaimed as the means of knowledge for all viewpoints.",
+      "notes": "The \"Aṣṭaśatī\" is a relatively short but philosophically dense commentary on Samantabhadra’s \"Āptamīmāṃsā\". It focuses on the nature and criteria of a trustworthy authority (āpta), the role of testimony (śabda) as pramāṇa, and the defense of Jain doctrine against Buddhist and other critiques. This text is crucial for Akalanka’s contribution to Jain epistemology and belongs to corpus tiers A–B. It is frequently cited in discussions of Jain logic and the justification of scriptural authority."
+    },
+    {
+      "title": "Laghīyastraya (including Pramāṇapraveśa, Nayapraveśa, Pravacanapraveśa)",
+      "author": "Akalanka (Akalaṅka)",
+      "original_text": "प्रमाणप्रवेशो नाम ग्रन्थोऽयं आरभ्यते।",
+      "transliteration": "pramāṇapraveśo nāma grantho’yaṁ ārabhyate.",
+      "translation": "The treatise called \"Introduction to the Means of Knowledge\" is hereby begun.",
+      "notes": "The \"Laghīyastraya\" is a compendium of three shorter works: \"Pramāṇapraveśa\" (introduction to pramāṇa), \"Nayapraveśa\" (introduction to standpoints), and \"Pravacanapraveśa\" (introduction to doctrinal exposition). These texts systematically present Jain theories of valid cognition, partial viewpoints (naya), and scriptural discourse. They are central to Akalanka’s role in shaping Jain logic and epistemology and are treated in scholarship as landmarks in Indian logical literature (tiers A–C, depending on edition and commentary)."
+    },
+    {
+      "title": "Pramāṇasaṅgraha",
+      "author": "Akalanka (Akalaṅka)",
+      "original_text": "प्रमाणं द्विविधं—प्रत्यक्षमनुमानं च।",
+      "transliteration": "pramāṇaṁ dvividhaṁ—pratyakṣam anumānaṁ ca.",
+      "translation": "The means of valid knowledge are of two kinds—perception and inference.",
+      "notes": "In \"Pramāṇasaṅgraha\", Akalanka offers a systematic account of pramāṇa, focusing especially on perception (pratyakṣa) and inference (anumāna), while also addressing testimony and other forms of knowing. He refines criteria for valid inference, discusses the role of tarka (suppositional reasoning), and responds to Buddhist and Nyāya positions. This work is a key source for understanding Jain epistemology and is frequently cited in histories of Indian logic (tiers A–C)."
+    },
+    {
+      "title": "Nyāyaviniścaya",
+      "author": "Akalanka (Akalaṅka)",
+      "original_text": "न्यायविनिश्चयोऽयं हेतुलक्षणनिर्णयः।",
+      "transliteration": "nyāyaviniścayo’yaṁ hetulakṣaṇanirṇayaḥ.",
+      "translation": "This \"Determination of Logic\" is an examination of the characteristics of reasons.",
+      "notes": "The \"Nyāyaviniścaya\" deals with the structure of reasoning, the nature of logical marks (hetu), and the identification of fallacies. Akalanka’s treatment of the \"single mark\" (ekaliṅga) criterion and his engagement with Buddhist logical theories are especially important. The text belongs to the core logical corpus of Jain scholasticism (tiers A–C) and is a primary reference for later Jain logicians."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Akalanka is the founder of Jain logic and the first Jain thinker to discuss anekāntavāda and syādvāda.",
+      "reality": "Akalanka is a central and highly influential figure in Jain logic, but he builds on earlier work by philosophers such as Samantabhadra and Siddhasena, who had already articulated key aspects of anekāntavāda and syādvāda. His contribution lies in systematizing, refining, and defending these doctrines within a sophisticated logical and epistemological framework, not in originating them from scratch."
+    },
+    {
+      "myth": "Akalanka belonged to the Śvetāmbara tradition or is equally claimed by all Jain sects without distinction.",
+      "reality": "Historical and traditional sources consistently identify Akalanka as a Digambara Jain philosopher and logician. While his commentary on the \"Tattvārthasūtra\" engages a text respected across sectarian lines, his institutional and doctrinal location is firmly within the Digambara tradition, and many of his works are transmitted and studied primarily in Digambara scholastic contexts."
+    },
+    {
+      "myth": "Akalanka is purely a legendary or mythic figure whose historicity is doubtful.",
+      "reality": "Although hagiographical narratives embellish his life with dramatic episodes—such as undercover study in Buddhist monasteries and public debates—there is solid historical grounding for Akalanka’s existence. Epigraphic inscriptions (for example at Śravaṇabeḷgoḷa) and references in later scholastic works treat him as a real historical person, active in the eighth century CE, whose writings are preserved and critically studied in modern scholarship."
+    },
+    {
+      "myth": "Akalanka’s work is only of sectarian religious interest and has little relevance to broader Indian philosophy or logic.",
+      "reality": "Akalanka’s treatises are recognized by historians of Indian philosophy and logic as major contributions to the development of formal reasoning, epistemology, and inter-school debate. His detailed engagement with Buddhist, Nyāya, and other systems, and his sophisticated account of pramāṇa and anekāntavāda, make his work important not only for Jain studies but also for comparative philosophy and the history of logic in South Asia."
+    }
+  ]
+}

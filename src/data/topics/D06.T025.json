@@ -1,0 +1,43 @@
+{
+  "overview": "Upashama (Sanskrit: उपशम; Prakrit: उवस्सम) is a technical term in Jain philosophy referring to the temporary subsidence or calming of karmic matter. It is central to the Jain doctrine of karma, where the soul (jīva) is bound by various karmas that obscure its innate qualities of infinite knowledge, perception, bliss, and energy. Upashama describes a state in which certain karmas do not get destroyed (kṣaya) but instead become inactive or suppressed for a period of time, allowing partial manifestation of the soul’s inherent capacities.\n\nIn classical Jain ontology, karmic processes are categorized into four modes: bandha (bondage), saṃvara (stoppage), nirjarā (shedding), and upashama (subsidence). Upashama is unique because it does not eliminate karma; instead, it renders it temporarily non-operative. This concept is especially important in the analysis of the guṇasthānas (the fourteen stages of spiritual development), where specific stages—such as the 11th guṇasthāna (upashānta-kaṣāya)—are defined by the subsidence of passions rather than their destruction.\n\nUpashama is also used in discussions of meditation, equanimity, and emotional regulation within Jain lay and monastic traditions. While the term is technical, it has practical implications: it describes moments when anger, pride, deceit, or greed are calmed, allowing the practitioner to act with greater clarity and restraint. However, Jain texts emphasize that upashama is inherently unstable; suppressed karmas can re-emerge unless they are ultimately destroyed through sustained right conduct, austerity, and insight.\n\nDifferent Jain traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—agree on the basic definition of upashama but may emphasize different aspects in commentarial literature. Digambara texts often highlight its role in advanced meditative states, while Śvetāmbara sources discuss its function in the progression through guṇasthānas. Across traditions, upashama is understood as an important but intermediate condition on the path to liberation (mokṣa).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "उपशमो निर्जरास्य अनन्तरम्",
+      "transliteration": "upaśamo nirjarāsya anantaram",
+      "translation": "“Subsidence (upashama) follows immediately after the process of shedding (nirjarā).”",
+      "notes": "This passage (Tattvārtha Sūtra 9.3) describes the sequence of karmic processes. Commentaries clarify that upashama refers to the temporary non-operation of karma, distinct from its destruction."
+    },
+    {
+      "title": "Gommatasāra (Karmakāṇḍa)",
+      "author": "Nemichandra Siddhānta Chakravartin",
+      "original_text": "उवस्समं नाम कम्मस्स अविरियभावो",
+      "transliteration": "uvassamaṃ nāma kammassa aviriyabhāvo",
+      "translation": "“Upashama is the state in which karma becomes devoid of activity.”",
+      "notes": "A Digambara technical definition explaining that karma remains present but inactive. The text distinguishes upashama from kṣaya (destruction) and kṣayopashama (mixed state)."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Kundakunda",
+      "original_text": "उवस्समगुणो तव्विहो भावो",
+      "transliteration": "uvassamaguṇo tavviho bhāvo",
+      "translation": "“The state characterized by the quality of subsidence is of a distinct nature.”",
+      "notes": "Kundakunda uses the term to describe subtle internal states of the soul during advanced meditation. The exact phrasing varies across manuscripts; this is a representative line."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Upashama means the complete elimination of karma.",
+      "reality": "Upashama refers only to the temporary subsidence of karma. The karmic matter remains present and can become active again unless destroyed through kṣaya."
+    },
+    {
+      "myth": "Upashama is equivalent to achieving liberation.",
+      "reality": "Upashama is an intermediate state within the karmic process. Liberation requires the total destruction of all karmas, not merely their subsidence."
+    },
+    {
+      "myth": "Upashama is purely a moral or emotional calmness.",
+      "reality": "While calmness may accompany upashama, the term is a precise technical category in Jain karma theory describing the inactivity of specific karmas."
+    }
+  ]
+}

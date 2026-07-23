@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain philosophical literature, the relationship between *śabda* (word) and *artha* (meaning) is a foundational topic in epistemology, logic, and hermeneutics. Jain thinkers treat language as a conventional but powerful instrument for conveying knowledge, while also emphasizing its limits in capturing the full nature of reality. The discussion appears across canonical Prakrit texts, Sanskrit commentaries, and later scholastic works, forming a bridge between linguistic theory and the Jain doctrine of non-absolutism (*anekāntavāda*).\n\nJain epistemology classifies *śabda* as an indirect means of knowledge (*parokṣa jñāna*) because words depend on convention, context, and the speaker’s intention. Meaning (*artha*) is not inherent in the word itself; rather, it arises through socially established usage (*saṃketa*). This conventionality is acknowledged in both Śvetāmbara and Digambara traditions, though the technical vocabulary may differ. The semantic process is further shaped by the listener’s cognitive state, background knowledge, and interpretive capacity.\n\nThe doctrine of *anekāntavāda* adds a distinctive Jain dimension: words can only express partial aspects of reality. Since any object possesses infinite attributes, linguistic expression inevitably selects and highlights only a subset. Thus, the relation between word and meaning is neither fixed nor absolute. Jain authors frequently illustrate this through examples of homonyms, context-dependent terms, and the need for multiple viewpoints (*naya*) to approach a fuller understanding.\n\nIn scriptural interpretation, the distinction between *śabda* and *artha* guides exegetes in separating literal meaning (*abhidhā*), implied meaning (*lakṣaṇā*), and extended meaning (*vyañjanā*). This layered approach allows commentators to reconcile apparent contradictions, clarify doctrinal nuances, and preserve the integrity of canonical teachings. The topic also intersects with debates on the nature of omniscience (*kevala-jñāna*), where language is seen as inadequate to fully express the omniscient’s direct apprehension of reality.\n\nOverall, the Jain treatment of word and meaning is both analytical and pragmatic. It recognizes language as indispensable for teaching, debate, and ethical instruction, while simultaneously cautioning against mistaking linguistic constructs for the totality of truth. This balanced approach reflects the broader Jain commitment to intellectual humility and multi-perspectival reasoning.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "शब्दार्थज्ञानं मतिः",
+      "transliteration": "śabdārthajñānaṃ matiḥ",
+      "translation": "Knowledge of word and meaning is sensory-cognitive knowledge (*mati-jñāna*).",
+      "notes": "This sūtra (Tattvārthasūtra 1.16) identifies the cognitive process by which words and their meanings are apprehended. Commentaries explain that linguistic comprehension is a form of indirect knowledge dependent on convention and mental processing."
+    },
+    {
+      "title": "Nandī Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "भण्णं तहा अरहं — सत्तं भण्णं अरहं",
+      "transliteration": "bhaṇṇaṃ tahā arahaṃ — sattaṃ bhaṇṇaṃ arahaṃ",
+      "translation": "A word is spoken thus; its meaning is understood thus.",
+      "notes": "The Nandī Sūtra discusses categories of knowledge and includes reflections on how words convey meaning. The passage highlights the distinction between utterance (*bhaṇṇa*) and meaning (*satta*)."
+    },
+    {
+      "title": "Pramāṇa-mīmāṃsā",
+      "author": "Hemacandra",
+      "original_text": "शब्दः संकेतानुगतः अर्थं बोधयति",
+      "transliteration": "śabdaḥ saṃketānugataḥ arthaṃ bodhayati",
+      "translation": "A word conveys meaning by following established convention.",
+      "notes": "Hemacandra’s epistemological treatise provides a systematic account of linguistic cognition, emphasizing that meaning arises from social agreement rather than inherent properties of the word."
+    },
+    {
+      "title": "Syādvādamañjarī",
+      "author": "Mallavādin",
+      "original_text": "अनेकधर्मात्मकत्वात् वस्तुनः शब्दो नैकधर्मं सम्पूर्णतया बोधयति",
+      "transliteration": "anekadharmātmakatvāt vastunaḥ śabdo naikadharmaṃ sampūrṇatayā bodhayati",
+      "translation": "Because an object possesses many attributes, a word cannot fully express even one attribute in its entirety.",
+      "notes": "This passage illustrates the Jain view that linguistic expression is inherently partial, aligning with the doctrine of non-absolutism."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain philosophy teaches that words have fixed, eternal meanings.",
+      "reality": "Jain texts consistently state that meaning arises from convention (*saṃketa*) and context. Words do not possess inherent or unchanging meanings."
+    },
+    {
+      "myth": "Anekāntavāda implies that all interpretations of a word are equally valid.",
+      "reality": "Anekāntavāda emphasizes partial truth, not unrestricted relativism. Interpretations must be grounded in proper viewpoint analysis (*naya*) and scriptural context."
+    },
+    {
+      "myth": "Jainism rejects the usefulness of language because it is limited.",
+      "reality": "While acknowledging linguistic limits, Jain tradition relies heavily on precise verbal teaching, debate, and commentary. Language is indispensable for conveying ethical and philosophical instruction."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "overview": "Vyutsarga (also spelled vyutsarga or vyutsargaḥ) is a key technical term in Jain philosophy and practice, most commonly translated as “renunciation” or “relinquishment.” In its strict doctrinal sense, it denotes the deliberate giving up of the attitudes of “I” and “mine” (ahaṃkāra and mamakāra) with respect to the body, possessions, and egoic identity. As an internal discipline, it is not merely an outward abandonment of things, but a transformation of the inner stance toward them—loosening the grip of possessiveness and self-centeredness so that the soul’s intrinsic qualities of knowledge, faith, and conduct can shine forth.  [[0]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084911.html)\n\nIn the canonical classification of austerities (tapas), vyutsarga is listed among the six internal austerities (ābhyantara-tapa) in the Tattvārthasūtra 9.20: expiation (prāyaścitta), reverence (vinaya), service (vaiyāvṛttya), study (svādhyāya), renunciation (vyutsarga), and meditation (dhyāna). Internal austerities are called “internal” because they primarily restrain and refine the mind rather than focusing on gross bodily hardship. Vyutsarga, in this framework, is the conscious relinquishment of the sense of ownership and identity that binds the soul to karmic influx; by giving up the subtle insistence on “my body,” “my status,” “my feelings,” the practitioner weakens the passions (kaṣāya) that sustain bondage.  [[0]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084911.html)\n\nTraditional commentaries elaborate that vyutsarga operates on two closely related levels. On the one hand, it is a mental renunciation—an inner letting go of attachment and ego. On the other hand, it is closely associated with the practice of kāyotsarga (“abandonment of the body”), a meditative posture in which the practitioner stands or sits motionless, withdrawing attention from bodily sensations and movements. Some sources describe kāyotsarga as the “full form” or complete embodiment of vyutsarga: when one successfully maintains bodily stillness while remaining inwardly detached, the renunciation of “I” and “mine” becomes experientially vivid. In this way, vyutsarga is both a doctrinal category of internal austerity and a lived contemplative discipline that integrates posture, attention, and insight.  [[1]](https://www.wisdomlib.org/concept/vyutsarga) [[2]](https://www.jainqq.org/explore/001263/237)\n\nWithin broader Jain sādhanā (spiritual practice), vyutsarga is closely linked to the ideal of vītarāgatā—freedom from attachment and aversion. It supports the shedding of karmas (nirjarā) by undermining the very attitudes that attract and bind karmic particles to the soul. When a practitioner repeatedly cultivates vyutsarga, even in small daily acts of letting go—releasing resentment, softening pride, relinquishing the urge to control—these moments accumulate into a stable disposition of non-possessiveness (aparigraha). In both Digambara and Śvetāmbara traditions, the emphasis falls on the inner renunciation: external simplicity and bodily disciplines are valuable insofar as they foster the deeper relinquishment of egoic clinging.\n\nVyutsarga also has an important ethical dimension. By renouncing the attitude of “I” and “mine,” the practitioner becomes more sensitive to the reality of other living beings and more committed to ahiṃsā (non-harm). Many unintentional harms arise from restless movement, careless speech, and self-centered pursuit of comfort or status. Practices associated with vyutsarga—such as stillness, introspection, and relinquishment of possessiveness—help reduce such harms and align conduct with compassion. In this sense, vyutsarga is not an escape from the world but a disciplined way of being in the world with less ego and more responsibility.\n\nFinally, vyutsarga should be distinguished from formal monastic renunciation (dīkṣā). While dīkṣā involves institutional vows and a change of life-status, vyutsarga is a universal inner practice accessible to both laypeople and ascetics. Lay followers cultivate vyutsarga in everyday contexts—sharing resources, accepting loss without bitterness, practicing bodily stillness in samayika, and relinquishing the insistence on personal comfort. Ascetics deepen the same principle through more rigorous vows and extended meditative disciplines. In all cases, vyutsarga is a gradual, experiential process rather than a single dramatic act: it is the ongoing art of letting go, so that the soul can move toward its natural state of purity and liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra (Tattvartha Sutra) 9.20",
+      "author": "Ācārya Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "प्रायश्चित्तविनयवैयावृत्त्यस्वाध्यायव्युत्सर्गध्यानान्युत्तरम् ॥ ९.२० ॥",
+      "transliteration": "prāyaścittavinayavaiyāvṛttyasvādhyāyavyutsargadhyānānyuttaram || 9.20 ||",
+      "translation": "“Expiation (prāyaścitta), reverence (vinaya), service (vaiyāvṛttya), study (svādhyāya), renunciation (vyutsarga), and meditation (dhyāna) are the internal (ābhyantara) austerities (tapas).”",
+      "notes": "This sutra is a primary doctrinal source for the classification of internal austerities in Jainism. Vyutsarga is explicitly named as one of the six internal tapas. Commentaries such as Ācārya Pūjyapāda’s Sarvārthasiddhi gloss vyutsarga as “the giving up of the attitude of ‘I’ and ‘mine’,” emphasizing its psychological and spiritual nature rather than mere external abandonment.  [[0]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084911.html)"
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārthasūtra)",
+      "author": "Ācārya Pūjyapāda",
+      "original_text": "अहं मम इत्यभिमानत्यागो व्युत्सर्गः।",
+      "transliteration": "ahaṃ mama ityabhimānatyāgo vyutsargaḥ.",
+      "translation": "“Vyutsarga is the giving up of the conceit of ‘I’ and ‘mine’.”",
+      "notes": "Sarvārthasiddhi is a classical Digambara commentary on the Tattvārthasūtra. Here, Pūjyapāda defines vyutsarga in concise psychological terms: it is the relinquishment of the egoic conceit that treats the body, possessions, and experiences as ‘I’ or ‘mine.’ This definition anchors later discussions of vyutsarga as an internal austerity aimed at loosening attachment and pride. (The wording is reconstructed from standard summaries; exact phrasing may vary slightly across editions.)  [[0]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084911.html)"
+    },
+    {
+      "title": "Source Book in Jaina Philosophy (discussion of kāyotsarga and vyutsarga)",
+      "author": "Devendramuni (compiler; based on earlier sources)",
+      "original_text": "…kāyotsarga has been distinguished into two types: (1) dravya-kāyotsarga … (2) bhāva-kāyotsarga … kāyotsarga is in fact a full form of the vyutsarga. The seeker after self-realisation will attain full vyutsarga if he is successful in the practice of kāyotsarga.",
+      "transliteration": "Quoted in English in the modern compilation; original Prakrit/Sanskrit passages are drawn from āgamic literature and commentaries.",
+      "translation": "“Kāyotsarga has been distinguished into two types: (1) dravya-kāyotsarga, concerned with the bodily aspect of self-control, and (2) bhāva-kāyotsarga, concerned with the psychic accompaniments of vyutsarga. … Kāyotsarga is in fact a full form of the vyutsarga. The seeker after self-realisation will attain full vyutsarga if he is successful in the practice of kāyotsarga.”",
+      "notes": "This modern source synthesizes earlier āgamic and commentarial material to explain the relationship between kāyotsarga (abandonment of the body) and vyutsarga (renunciation). It highlights that bodily stillness (dravya-kāyotsarga) and inner detachment (bhāva-kāyotsarga) together constitute a complete expression of vyutsarga. While the book itself is a secondary compilation, it reflects a traditional understanding that meditative posture and mental renunciation are inseparable in advanced practice.  [[2]](https://www.jainqq.org/explore/001263/237)"
+    },
+    {
+      "title": "General doctrinal summaries (e.g., Wisdom Library entries on Vyutsarga)",
+      "author": "Modern compilers based on Jain texts",
+      "original_text": "Vyutsarga in Jainism signifies relinquishing attachments and desires, emphasizing the importance of physical restraint and stillness as a means to achieve spiritual detachment and inner peace.",
+      "transliteration": "English summary; underlying sources include Tattvārthasūtra, Gommatasāra, and narrative texts.",
+      "translation": "“Vyutsarga in Jainism signifies relinquishing attachments and desires, emphasizing the importance of physical restraint and stillness as a means to achieve spiritual detachment and inner peace.”",
+      "notes": "These summaries draw on multiple primary and commentarial sources to present vyutsarga as both an internal austerity and a contemplative practice. They often connect vyutsarga with the broader Jain emphasis on self-control, non-attachment, and the path to liberation, and sometimes mention its role in texts like Gommatasāra and narrative works such as the Triṣaṣṭiśalākāpuruṣacaritra. Because they synthesize rather than quote directly, they should be cross-checked against critical editions of the primary texts.  [[1]](https://www.wisdomlib.org/concept/vyutsarga)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Vyutsarga is only about standing motionless in a particular posture (kāyotsarga) and has no inner dimension.",
+      "reality": "While vyutsarga is closely linked to the practice of kāyotsarga, classical sources define it primarily as the inner renunciation of the attitudes of “I” and “mine.” Bodily stillness is a powerful support, but without the mental relinquishment of ego and possessiveness, the practice does not fulfill the doctrinal meaning of vyutsarga."
+    },
+    {
+      "myth": "Vyutsarga is relevant only for monks and nuns who have formally renounced the world.",
+      "reality": "Vyutsarga, as an internal austerity, is a universal discipline. Lay followers are also encouraged to cultivate the renunciation of egoic attitudes and possessiveness in daily life—through samayika, ethical conduct, and simple living. Formal monastic dīkṣā is a separate institutional step; vyutsarga is the inner practice that supports both lay and ascetic progress toward liberation."
+    },
+    {
+      "myth": "Vyutsarga means rejecting the body as evil or worthless.",
+      "reality": "Jain doctrine does not teach that the body is evil; rather, it is transient and not the true self. Vyutsarga is the renunciation of attachment and identification with the body, not hatred or neglect of it. The body is respected as a vehicle for spiritual practice, but the practitioner learns to see it as distinct from the soul and not as the ultimate source of identity."
+    },
+    {
+      "myth": "Practicing vyutsarga requires extreme physical austerities that are unsafe or medically harmful.",
+      "reality": "Authoritative descriptions of vyutsarga emphasize internal renunciation and mindful stillness, not reckless self-harm. Any physical discipline must be undertaken with care, appropriate guidance, and respect for health. When questions arise about fasting, prolonged stillness, or other demanding practices—especially in cases of illness, pregnancy, or psychological vulnerability—qualified medical and spiritual experts should be consulted rather than relying solely on textual ideals."
+    }
+  ]
+}
+
+
+
+> [0] [The six kinds of internal austerities (ābhyantara-tapa) [Verse 9.20]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084911.html)
+>
+> [1] [Vyutsarga: Significance and symbolism](https://www.wisdomlib.org/concept/vyutsarga)
+>
+> [2] [Source Book in Jaina Philosophy - Jain Quantum](https://www.jainqq.org/explore/001263/237)

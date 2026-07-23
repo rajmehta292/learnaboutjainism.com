@@ -1,0 +1,43 @@
+{
+  "overview": "Hindi is an Indo‑Aryan language belonging to the broader Indo‑European family. It is one of the most widely spoken languages in the world, with hundreds of millions of speakers across India and the global diaspora. Modern Standard Hindi, often simply called Hindi, draws its formal grammar and vocabulary from Khari Boli, a dialect historically associated with the Delhi region. Its standardized form uses the Devanagari script, a writing system shared with several other South Asian languages.\n\nThe development of Hindi is deeply intertwined with the cultural, literary, and religious history of North India. Early stages of the language can be traced to the transition from Sanskrit to various Prakrits and later to Apabhraṃśa forms between the first millennium BCE and the early second millennium CE. Over time, regional vernaculars evolved into distinct linguistic identities, including early Hindi dialects. Medieval Hindi literature flourished through Bhakti poets such as Kabir, Tulsidas, and Surdas, whose works shaped devotional culture and linguistic expression.\n\nIn the modern era, Hindi underwent significant standardization during the 19th and 20th centuries, influenced by colonial linguistic policies, print culture, and nationalist movements. Today, Hindi functions as one of the official languages of India and serves as a major medium for education, administration, media, cinema, and digital communication. While Hindi shares a close relationship with Urdu—both forming a Hindustani continuum—the two languages differ in script, formal vocabulary sources, and certain cultural associations.\n\nHindi continues to evolve through contact with English, regional languages, and global media. Its contemporary forms include formal registers, colloquial Hindustani, regional dialects, and hybrid varieties shaped by urban multilingualism.",
+  "primary_sources": [
+    {
+      "title": "Raghuvaṃśa (as a Sanskrit antecedent to later Indo‑Aryan languages)",
+      "author": "Kālidāsa",
+      "original_text": "क्व नु स्याद् दण्डकारण्यं क्व नु स्याद् रघुनन्दनः",
+      "transliteration": "kva nu syād daṇḍakāraṇyaṃ kva nu syād raghunandanaḥ",
+      "translation": "Where might the Dandaka forest be, and where might the beloved son of Raghu be?",
+      "notes": "Although not a Hindi text, classical Sanskrit literature forms part of the linguistic ancestry from which Prakrits and later Apabhraṃśa evolved, eventually giving rise to early Hindi dialects."
+    },
+    {
+      "title": "Apabhraṃśa Verse from Svayambhū’s *Paumacariu*",
+      "author": "Svayambhū (Jain poet)",
+      "original_text": "जइ णहुं तस्सु भणइ, तउ भणउं किम् अवस्सिअं",
+      "transliteration": "jai ṇahuṃ tassu bhaṇai, tau bhaṇauṃ kim avassiyaṃ",
+      "translation": "If he does not speak of it, then why must I necessarily speak?",
+      "notes": "Apabhraṃśa literature—especially Jain narrative poetry—represents a crucial transitional stage between Middle Indo‑Aryan languages and early New Indo‑Aryan vernaculars, including proto‑Hindi forms."
+    },
+    {
+      "title": "Early Hindi (Awadhi) from Tulsidas’ *Rāmcharitmanas*",
+      "author": "Tulsidas",
+      "original_text": "सीय राममय सब जग जानी",
+      "transliteration": "sīya rāmamay sab jag jānī",
+      "translation": "Knowing the entire world to be pervaded by Sita and Rama.",
+      "notes": "Awadhi is a major early Hindi literary dialect. Tulsidas’ work is foundational for the development of Hindi devotional literature and linguistic identity."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Hindi and Urdu are completely separate languages with no mutual intelligibility.",
+      "reality": "Hindi and Urdu share a common Hindustani base and are mutually intelligible in everyday speech. Their formal registers differ mainly in script and vocabulary sources."
+    },
+    {
+      "myth": "Hindi directly descends from Sanskrit without intermediate stages.",
+      "reality": "Hindi evolved through Prakrits and Apabhraṃśa before becoming a distinct New Indo‑Aryan language. Sanskrit is an ancestor, but not the immediate parent."
+    },
+    {
+      "myth": "All Indians speak Hindi.",
+      "reality": "India is linguistically diverse, with dozens of major languages. Hindi is widely spoken but not universal, and many regions have their own primary languages."
+    }
+  ]
+}

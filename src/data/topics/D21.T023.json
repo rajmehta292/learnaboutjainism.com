@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, “festival worship” refers to the structured, ethically framed, and textually grounded observances associated with sacred days (parva), temple rituals (puja), community gatherings, and commemorations of Tirthankaras and exemplary ascetics. Unlike the notion of worship as devotion to a creator deity, Jain festival worship centers on veneration (vandana) of perfected beings (siddhas), enlightened teachers (Tirthankaras), and the ideals of nonviolence, restraint, and liberation. The practices vary across Digambara and Svetambara communities, yet all emphasize ethical purification, scriptural recitation, and communal harmony.\n\nFestival worship typically includes: (1) ritual bathing of images (snatra‑puja) or symbolic representations; (2) recitation of canonical verses such as the *Namokāra Mantra*; (3) observance of vows (vrata) and fasting (upavāsa) within safe, voluntary, and health‑appropriate limits; (4) listening to scriptural discourses; and (5) acts of charity (dāna). Major festivals such as Paryuṣaṇa, Daśalakṣaṇa, Mahāvīra Jayantī, and Jñāna‑pañcamī integrate these elements with community confession (pratikramaṇa), forgiveness (kṣamāpanā), and reflection on karma theory.\n\nAcross sects, festival worship is not considered a transactional act but a disciplined reminder of the path to liberation. The rituals are symbolic reenactments of the qualities of the Jinas, encouraging laypeople to cultivate equanimity, truthfulness, and compassion. While temple‑centered worship is prominent in Murtipujaka and Digambara traditions, Sthānakavāsī and Terāpanth communities emphasize non‑iconic worship through meditation, recitation, and ethical reflection. All traditions maintain that festival worship must be grounded in scriptural authority, voluntary participation, and non‑harm.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "देव-शास्त्र-गुरु-पूजा-नमस्कारः",
+      "transliteration": "deva-śāstra-guru-pūjā-namaskāraḥ",
+      "translation": "Reverence to the Jinas, the scriptures, and the teachers is worship.",
+      "notes": "Tattvārtha Sūtra 7.11 (Tier A). This aphorism is foundational for understanding Jain worship as veneration of ideals rather than supplication. Commentaries (Tier B) explain that festival worship expands this reverence through ritual, study, and ethical practice."
+    },
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "समयिकेण भाव-शुद्धिः",
+      "transliteration": "samayikeṇa bhāva-śuddhiḥ",
+      "translation": "Through *samayika* arises purity of mental states.",
+      "notes": "Used during Paryuṣaṇa and other festival observances. The text emphasizes meditative equanimity as central to ritual practice."
+    },
+    {
+      "title": "Śrāvakācāra (Digambara)",
+      "author": "Ācārya Amitagati",
+      "original_text": "पर्वेषु धर्म-श्रवणं कर्तव्यं",
+      "transliteration": "parveṣu dharma-śravaṇaṃ kartavyaṃ",
+      "translation": "On festival days, listening to the Dharma is to be performed.",
+      "notes": "A key Digambara lay manual (Tier B). It frames festival worship as a time for intensified ethical discipline and scriptural study."
+    },
+    {
+      "title": "Kalpa Sūtra (Svetāmbara)",
+      "author": "Traditional compilation",
+      "original_text": "महावीरस्य जन्म-कथा",
+      "transliteration": "mahāvīrasya janma-kathā",
+      "translation": "The account of Mahāvīra’s birth.",
+      "notes": "Recited during Paryuṣaṇa. The text provides narrative material for festival worship, especially Mahāvīra Jayantī."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Festival worship in Jainism is primarily about elaborate rituals and seeking blessings.",
+      "reality": "Jain festival worship centers on ethical purification, scriptural study, and reflection on the qualities of liberated beings. Rituals are symbolic aids, not acts of petition or divine intervention."
+    },
+    {
+      "myth": "All Jain sects perform identical festival rituals.",
+      "reality": "While the ethical goals are shared, practices differ: Digambaras emphasize austerity and scripture; Murtipujakas include image‑based rituals; Sthānakavāsī and Terāpanth traditions focus on non‑iconic worship and meditation."
+    },
+    {
+      "myth": "Festival fasting is mandatory and uniformly strict.",
+      "reality": "Fasting is voluntary, must be health‑appropriate, and varies by individual capacity. Primary texts emphasize intention and equanimity over physical austerity, and modern Jain teachers advise medical caution."
+    }
+  ]
+}

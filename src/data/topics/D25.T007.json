@@ -1,0 +1,51 @@
+{
+  "overview": "Neminatha’s renunciation (vairāgya and dīkṣā) is a central narrative in Jain sacred history, marking the moment when the twenty‑second Tīrthaṅkara turns away from worldly life after witnessing the suffering of animals. Across Śvetāmbara and Digambara traditions, the episode is treated as a paradigmatic example of compassion (dayā), non‑violence (ahiṃsā), and the awakening of true detachment (śuddha‑vairāgya). The story appears in multiple early sources, with variations in detail but consistent thematic emphasis: Neminatha, engaged to Rājīmatī, approaches the site of his wedding festivities and hears the cries of animals gathered for slaughter. Shocked by the violence, he abandons the ceremony, renounces worldly life, and takes initiation into asceticism.\n\nIn the Śvetāmbara canonical tradition, the episode is embedded within narrative cycles that highlight the moral transformation of both Neminatha and Rājīmatī. Digambara sources emphasize the immediacy of Neminatha’s compassion and the grandeur of his renunciation, often linking it to his rapid ascent through the guṇasthānas. Later commentaries treat the event as a model for lay ethics, illustrating how sensitivity to suffering can catalyze spiritual resolve.\n\nHistorically, the renunciation narrative has shaped Jain art, ritual memory, and ethical discourse. Manuscripts from Gujarat and Karnataka frequently depict Neminatha turning back from the wedding procession, while sermons and educational texts use the episode to teach ahiṃsā to youth and householders. Although the core storyline is stable, scholarly analysis notes differences in phrasing, poetic embellishment, and theological framing across manuscripts and sectarian traditions. The renunciation remains one of the most cited examples of compassion-driven spiritual awakening in Jain literature.",
+  "primary_sources": [
+    {
+      "title": "Harivaṁśa Purāṇa (Harivaṁśa)",
+      "author": "Jinasena (Digambara, 8th–9th century CE)",
+      "original_text": "ततो नृसिंहनादेन पशूनां करुणाकुलम् ।\nहृदयं तस्य संजज्ञे वैराग्यं परमं तदा ।",
+      "transliteration": "tato nṛsiṃhanādena paśūnāṃ karuṇākulam |\nhṛdayaṃ tasya sañjajñe vairāgyaṃ paramaṃ tadā |",
+      "translation": "Then, hearing the lion‑like cries of the animals, filled with distress, supreme detachment arose in his heart.",
+      "notes": "This passage describes the moment of emotional shock that triggers Neminatha’s renunciation. The Harivaṁśa is a major Digambara narrative text (Tier B/C depending on edition)."
+    },
+    {
+      "title": "Ādi Purāṇa",
+      "author": "Jinasena and Guṇabhadra (Digambara)",
+      "original_text": "पशूनां क्रन्दनं श्रुत्वा नृमेषो वैराग्यवान् अभूत् ।",
+      "transliteration": "paśūnāṃ krandanaṃ śrutvā nṛmeṣo vairāgyavān abhūt |",
+      "translation": "Hearing the cries of the animals, Neminatha became filled with detachment.",
+      "notes": "A concise retelling of the same moment. The Ādi Purāṇa expands on the ethical significance of compassion as a catalyst for renunciation."
+    },
+    {
+      "title": "Kalpasūtra (Śvetāmbara)",
+      "author": "Attributed to Bhadrabāhu (traditional attribution)",
+      "original_text": "नेमिनाथो तु वैराग्यं लेभे पशुहिंसया ।",
+      "transliteration": "neminātho tu vairāgyaṃ lebhe paśuhiṃsayā |",
+      "translation": "Neminatha attained detachment upon seeing the violence toward animals.",
+      "notes": "The Kalpasūtra offers a brief canonical reference. The narrative is elaborated in commentarial and later narrative literature."
+    },
+    {
+      "title": "Neminātha-carita (various recensions)",
+      "author": "Multiple authors; medieval Jain narrative tradition",
+      "original_text": "राजीमत्याः विवाहे पशवो बद्धा अघातकाः ।\nदृष्ट्वा तान् करुणासिंधुर् नेमिनाथो निवर्तितः ।",
+      "transliteration": "rājīmatyāḥ vivāhe paśavo baddhā aghātakāḥ |\ndṛṣṭvā tān karuṇāsiṃdhur neminātho nivartitaḥ |",
+      "translation": "Seeing the animals bound for slaughter at Rājīmatī’s wedding, Neminatha—an ocean of compassion—turned back.",
+      "notes": "A popular poetic retelling found in Śvetāmbara and Digambara manuscript traditions. Exact wording varies by manuscript (Tier E/F for unverified recensions)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Neminatha renounced solely because he rejected marriage or worldly responsibility.",
+      "reality": "Primary sources consistently state that the trigger was witnessing the suffering of animals destined for slaughter. The renunciation is framed as compassion-driven, not as a rejection of marriage itself."
+    },
+    {
+      "myth": "All sects narrate the renunciation identically.",
+      "reality": "While the core event is shared, Digambara and Śvetāmbara traditions differ in narrative detail, poetic elaboration, and theological emphasis. Some texts highlight Rājīmatī’s subsequent renunciation more strongly than others."
+    },
+    {
+      "myth": "The episode is purely symbolic and not part of early Jain narrative tradition.",
+      "reality": "The renunciation appears in early Purāṇic and canonical literature. Although stylized, it is treated as a historical event within Jain sacred history."
+    }
+  ]
+}

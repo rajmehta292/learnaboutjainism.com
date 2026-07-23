@@ -1,0 +1,47 @@
+{
+  "overview": "In the context of Jain studies and source-grounded guidance, an \"editorial note distinction\" refers to the clear separation between what a text itself says and what an editor, translator, or commentator adds around it. This distinction is crucial in any serious engagement with Jain scriptures, commentaries, and modern educational materials, because it protects the authority of primary sources while still allowing helpful explanation, clarification, and contextualization.\n\nAt a basic level, editorial notes may include clarifications of difficult vocabulary, explanations of historical context, references to parallel passages, or indications of variant readings in different manuscripts. These notes are not part of the original canonical or commentarial text; they are scholarly or pedagogical additions. A careful Jain study guide must therefore mark them explicitly—using devices such as footnotes, brackets, or separate sections—so that readers can always tell when they are encountering the words of a scripture and when they are reading an editor’s interpretation or guidance.\n\nWithin the architecture of source-grounded Jain guidance, editorial note distinction also serves ethical and doctrinal purposes. It prevents the unintentional elevation of modern opinions to the status of scriptural authority, and it helps lay practitioners, students, and researchers avoid confusing interpretive suggestions with binding religious rulings. By distinguishing editorial notes from primary text, the system can map each material claim to a specific corpus tier (A–F), show where evidence is strong or weak, and highlight areas of disagreement or uncertainty among traditions.\n\nIn practice, this means that quotations from canonical texts, such as āgamas or śāstras, are presented in a clearly marked way, while paraphrases, summaries, and modern applications are labeled as such. Editorial notes may comment on translation choices, point out where different sects (Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, Terāpanth) read a passage differently, or warn the reader when a term has multiple possible meanings. The distinction ensures that readers can navigate between the original voice of the tradition and the guiding voice of the editor without conflating the two.\n\nFinally, editorial note distinction is closely tied to transparency about uncertainty and disagreement. When a passage is difficult to translate, when manuscripts diverge, or when commentaries offer competing interpretations, editorial notes should explicitly state this rather than silently harmonizing the material. This allows the reader to see the limits of current knowledge, recognize where qualified human authorities are needed, and appreciate the diversity of Jain intellectual history. In this way, editorial note distinction becomes a foundational tool for responsible, tradition-aware, and academically rigorous engagement with Jainism.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti (Umāsvāmi)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "In many modern editions and translations of the Tattvārthasūtra, the sutra text is printed in a distinct typeface or section, while explanatory material—such as definitions of samyag-darśana, discussions of sectarian interpretations, or references to later commentaries—is placed in footnotes or separate commentary sections. This layout exemplifies editorial note distinction: the terse Sanskrit sutra is clearly separated from the editor’s or translator’s elaboration, allowing readers to recognize which words belong to the canonical text and which belong to modern scholarship or pedagogy."
+    },
+    {
+      "title": "Śrāvakācāra (Lay Conduct Manuals)",
+      "author": "Various authors, e.g., Samantabhadra, Amitagati",
+      "original_text": "अहिंसा सत्यम् अस्तेयं ब्रह्मचर्यं कषायवर्जनम्",
+      "transliteration": "ahiṃsā satyam asteyaṃ brahmacaryaṃ kaṣāya-varjanam",
+      "translation": "Non-violence, truth, non-stealing, celibacy, and avoidance of passions.",
+      "notes": "Lay conduct texts are frequently presented with extensive editorial notes explaining how ancient prescriptions apply to modern life, including issues such as technology use, professional ethics, and family responsibilities. Responsible editions mark these applications as editorial or commentarial, not as part of the original verse. This distinction helps lay readers understand that the core ethical principles come from the primary text, while specific modern scenarios and recommendations are interpretive extensions that may vary by tradition or teacher."
+    },
+    {
+      "title": "Śvetāmbara Āgamas (e.g., Ācārāṅga-sūtra)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "सव्वे पाणे दुविहा—ठाणेगया विहाणेगया।",
+      "transliteration": "savve pāṇe duvihā—ṭhāṇegayā vihāṇegayā.",
+      "translation": "All living beings are of two kinds—those that move and those that do not move.",
+      "notes": "Critical editions of the Ācārāṅga-sūtra often include apparatus notes indicating variant readings, manuscript sources, and editorial decisions. These notes are clearly separated from the main Prakrit text and its translation, sometimes in a dedicated critical apparatus section. Such separation demonstrates editorial note distinction by showing where the editor has intervened—choosing between variants, reconstructing damaged passages, or signaling uncertainty—without blending these interventions into the canonical wording itself."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Editorial notes in a Jain scripture edition carry the same authority as the original canonical text.",
+      "reality": "Editorial notes are scholarly or pedagogical additions that help explain, contextualize, or apply the text; they do not have the same status as the canonical words themselves. While they can be valuable and well-informed, they must be clearly distinguished from the primary source so that readers do not mistake modern interpretation for scriptural revelation or binding religious rulings."
+    },
+    {
+      "myth": "If an explanation appears on the same page as a sutra or verse, it is automatically part of the original text.",
+      "reality": "Page layout is a modern convention and does not determine textual authority. Even when explanations, summaries, or applications appear adjacent to a sutra or verse, they remain editorial or commentarial material unless explicitly identified as part of a traditional commentary with its own lineage. Proper editorial note distinction uses visual and textual markers—such as footnotes, brackets, or separate sections—to show that these additions are not part of the original scripture."
+    },
+    {
+      "myth": "Editorial notes should hide disagreements, uncertainties, or manuscript variations to present a single, unified view.",
+      "reality": "Responsible editorial practice in Jain studies requires transparency about disagreement and uncertainty. Notes should openly indicate where manuscripts differ, where translations are tentative, and where sectarian or commentarial traditions diverge. This honesty allows readers to understand the limits of current knowledge, respect the diversity of Jain thought, and seek guidance from qualified human authorities when decisions or practices depend on contested interpretations."
+    },
+    {
+      "myth": "Modern ethical applications written in an edition or guide can be treated as universally binding Jain law.",
+      "reality": "Modern applications in editorial notes or study guides are interpretive efforts to relate ancient principles to contemporary situations. They may be insightful and helpful, but they are not universally binding law and often depend on specific community norms, teachers, or lineages. Editorial note distinction reminds readers to differentiate between the enduring principles found in primary texts and the contingent, context-sensitive advice offered by modern editors or educators."
+    }
+  ]
+}

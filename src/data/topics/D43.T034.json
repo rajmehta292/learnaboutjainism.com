@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, the term **“reform”** refers to processes of reinterpretation, renewal, or structural adjustment within Jain communities, practices, institutions, and textual engagement. Because Jainism is a tradition with more than two millennia of continuous development, reform has occurred in multiple eras—sometimes as doctrinal clarification, sometimes as community reorganization, and sometimes as ethical or ritual recalibration in response to changing social conditions.\n\nWithin Jain history, reform is not understood as overturning foundational principles such as *ahiṃsā*, *anekāntavāda*, *aparigraha*, or the authority of the *tīrthaṅkaras*. Instead, reform typically aims to realign practice with perceived original ideals, remove accretions considered non-essential, or adapt modes of teaching and organization to contemporary needs. Reform movements have appeared in both Digambara and Śvetāmbara traditions, including shifts in monastic discipline, temple ritual, lay conduct, education, and community governance.\n\nPre-modern reforms often centered on monastic rules, manuscript preservation, and doctrinal clarification. Modern reforms (19th–21st centuries) have included debates over image worship, the role of laypeople in ritual leadership, ethical responses to industrialization, and the organization of global diaspora communities. Across these contexts, reform is best understood as a dynamic negotiation between fidelity to canonical sources and responsiveness to lived realities.\n\nBecause Jainism lacks a centralized ecclesiastical authority, reform emerges through councils, monastic lineages, community organizations, and scholarly discourse rather than through a single binding institution. This decentralization produces diversity: some groups emphasize ritual simplification, others emphasize scriptural study, and others emphasize social service or ethical activism. The study of reform therefore requires careful attention to textual evidence, sectarian history, and regional variation.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; Śvetāmbara canon",
+      "original_text": "णं च ववहारो धम्मो",
+      "transliteration": "ṇaṃ ca vavahāro dhammo",
+      "translation": "“Conduct itself is dharma.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.2) is frequently cited in discussions of reform because it emphasizes disciplined conduct as the core of Jain practice. Reform movements often appeal to early canonical ideals of restraint, vigilance, and ethical purity."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyagdarśana-jñāna-cāritrāṇi mokṣamārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "Tattvārtha Sūtra 1.1 provides a doctrinal anchor for reform efforts that seek to re-center practice on the three jewels. Movements advocating simplification or purification of ritual often cite this sutra to argue that liberation depends on internal transformation rather than external elaboration."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama",
+      "author": "Kundakunda (tradition) / Digambara canonical corpus",
+      "original_text": "दव्वस्स भावो गुणो",
+      "transliteration": "davvassa bhāvo guṇo",
+      "translation": "“The nature of a substance is its quality.”",
+      "notes": "In Digambara contexts, reform discussions frequently reference the analytical rigor of early texts such as the Ṣaṭkhaṅḍāgama. Reformers may argue that doctrinal precision and philosophical clarity should guide community practice, especially in debates about ritual or monastic discipline."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Reform in Jainism means rejecting traditional practices or weakening ascetic ideals.",
+      "reality": "Historical Jain reforms generally aim to strengthen alignment with foundational principles such as nonviolence, non-possession, and disciplined conduct. Reform rarely seeks to dilute ascetic ideals; instead, it often attempts to restore or clarify them."
+    },
+    {
+      "myth": "All Jain communities agree on what constitutes legitimate reform.",
+      "reality": "Because Jainism is decentralized and diverse, different traditions and lineages interpret reform differently. Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth groups may pursue distinct forms of renewal based on their textual authorities and historical trajectories."
+    },
+    {
+      "myth": "Modern reform movements are entirely new and disconnected from earlier Jain history.",
+      "reality": "Many modern reforms echo earlier patterns of clarification, simplification, or doctrinal emphasis found throughout Jain history. Reform is a recurring feature of the tradition, not a modern invention."
+    }
+  ]
+}

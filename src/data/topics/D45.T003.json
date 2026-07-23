@@ -1,0 +1,43 @@
+{
+  "overview": "Social media refers to digital platforms that enable individuals, groups, and institutions to create, share, and interact with content in real time. These platforms—such as social networking sites, microblogging services, video‑sharing applications, and discussion forums—have transformed how people communicate, build communities, and access information. Social media operates through user‑generated content, algorithmic curation, and networked participation, allowing rapid dissemination of ideas, images, and messages across vast audiences.\n\nFrom a sociological perspective, social media has reshaped public discourse, activism, marketing, and interpersonal relationships. It enables new forms of identity expression, collective organization, and cultural production. At the same time, it raises concerns about misinformation, privacy, attention fragmentation, and the psychological effects of constant connectivity. Scholars analyze social media through frameworks such as network theory, media studies, digital anthropology, and communication ethics.\n\nIn Jain studies, social media is not a classical topic, as the tradition’s primary texts predate digital technology by millennia. However, contemporary Jain communities use social media for religious education, diaspora coordination, event broadcasting, and youth engagement. Modern Jain ethics discussions often explore how principles such as **ahimsa** (non‑harm), **satya** (truthfulness), **aparigraha** (non‑possessiveness), and **samyak‑samiti** (careful conduct) can inform responsible digital behavior. These applications are interpretive and belong to modern ethical discourse rather than classical scripture.",
+  "primary_sources": [
+    {
+      "title": "Ācāranga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णत्थि जोगं अपव्वं",
+      "transliteration": "natthi jogaṃ apavvaṃ",
+      "translation": "“There is no discipline without carefulness.”",
+      "notes": "Tier A. Although the text does not address social media, modern interpreters use its emphasis on mindfulness and restraint to discuss responsible digital conduct."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "“Non‑violence is the supreme duty.”",
+      "notes": "Tier A. Frequently cited in contemporary Jain ethics to frame discussions about non‑harmful communication online, including avoidance of abusive speech, misinformation, and digital harassment."
+    },
+    {
+      "title": "Dasavaikālika Sūtra",
+      "author": "Attributed to Śramaṇa tradition",
+      "original_text": "सच्चं भणेमि",
+      "transliteration": "sacchaṃ bhaṇemi",
+      "translation": "“I speak what is true.”",
+      "notes": "Tier A. Used in modern contexts to emphasize truthful and responsible sharing of information on social platforms."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Social media is purely a modern entertainment tool with no relevance to religious or ethical traditions.",
+      "reality": "While social media is technologically modern, many traditions—including Jainism—apply longstanding ethical principles to guide digital behavior, emphasizing truthfulness, non‑harm, and mindful communication."
+    },
+    {
+      "myth": "Information on social media is inherently reliable because it spreads quickly.",
+      "reality": "Speed of dissemination does not guarantee accuracy. Social media often amplifies misinformation, requiring critical evaluation and verification from credible sources."
+    },
+    {
+      "myth": "Social media always creates community and connection.",
+      "reality": "Although it can foster community, it can also contribute to isolation, polarization, and fragmented attention depending on usage patterns and platform design."
+    }
+  ]
+}

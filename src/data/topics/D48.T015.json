@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical and ethical literature, “activities” (often discussed under terms such as *kriyā*, *vyāpāra*, *pravṛtti*, and *yoga*) refer to the bodily, verbal, and mental engagements through which living beings interact with the world. Jainism treats activity not merely as physical motion but as a morally significant process that can attract or shed karma depending on intention, awareness, and alignment with vows. The concept is foundational across both Digambara and Śvetāmbara traditions, appearing in canonical sūtras, commentaries, and later scholastic works.\n\nJain thinkers distinguish between activities that bind the soul to saṃsāra and those that support liberation. Activities driven by passion (*kaṣāya*)—anger, pride, deceit, and greed—are said to cause karmic influx (*āsrava*). Conversely, restrained activities performed with mindfulness, nonviolence, and detachment contribute to karmic stoppage (*saṃvara*) and purification. This dual framing allows Jain ethics to integrate everyday lay responsibilities with the ascetic ideal of minimizing harm.\n\nA central classification appears in the doctrine of the “five activities” (*pañca-samiti*) and “three controls” (*trigupti*), which guide disciplined conduct. Samitis regulate careful movement, speech, handling of objects, disposal of waste, and eating. Guptis regulate the restraint of body, speech, and mind. Together, they form a framework for intentional, harm-minimizing activity. In monastic contexts, these are rigorous disciplines; for laypeople, they serve as aspirational guidelines adapted to household life.\n\nActivities also appear in metaphysical discussions of *yoga*, defined as the soul’s vibrational engagement with body, speech, and mind. Texts such as the *Tattvārtha Sūtra* describe yoga as the immediate cause of karmic influx. Thus, even subtle mental activities—thoughts, intentions, and emotional states—carry ethical weight. Jainism’s emphasis on awareness and restraint reflects its broader commitment to nonviolence and liberation.\n\nAcross traditions, activities are not judged solely by external form but by internal disposition. A single act, such as speaking, may be wholesome or harmful depending on motivation, clarity, and the presence or absence of passions. This nuanced view encourages practitioners to cultivate mindfulness in all domains of life, transforming ordinary activities into opportunities for ethical refinement and spiritual progress.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "योगः शरीरवाक्मनः ।",
+      "transliteration": "yogaḥ śarīra-vāk-manaḥ",
+      "translation": "Activity is of body, speech, and mind.",
+      "notes": "Chapter 6 of the *Tattvārtha Sūtra* defines yoga as the soul’s engagement through bodily, verbal, and mental channels. This is a foundational statement linking activity to karmic influx (*āsrava*)."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "समीयाभिक्खू समणे सुहाणं करणे।",
+      "transliteration": "samīyābhikkhū samaṇe suhāṇaṃ karaṇe",
+      "translation": "A monk should act carefully, performing actions beneficial (non-harmful).",
+      "notes": "This passage reflects the early articulation of careful activity (*samiti*), emphasizing nonviolence in movement and conduct."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Pūjyapāda and earlier lineage authors",
+      "original_text": "कषाययोगाद् आस्रवः।",
+      "transliteration": "kaṣāya-yogād āsravaḥ",
+      "translation": "Karmic influx arises from activity accompanied by passions.",
+      "notes": "A technical Digambara treatment linking activity (*yoga*) with the presence of passions (*kaṣāya*) as the cause of karmic bondage."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that all activity is inherently harmful and should be avoided.",
+      "reality": "Jainism distinguishes between passionate, careless activity that causes harm and mindful, restrained activity that supports ethical living and liberation. Activity itself is not rejected; its quality and intention determine its karmic impact."
+    },
+    {
+      "myth": "Only monks need to regulate their activities through samitis and guptis.",
+      "reality": "While monastic practice is more rigorous, laypeople are also encouraged to cultivate careful movement, speech, and mental awareness. The principles apply universally, though with different levels of discipline."
+    },
+    {
+      "myth": "Mental activities do not have karmic consequences.",
+      "reality": "Jain texts consistently affirm that mental activity—thoughts, intentions, and emotions—is a primary source of karmic influx. Ethical practice begins with inner awareness, not merely external behavior."
+    }
+  ]
+}

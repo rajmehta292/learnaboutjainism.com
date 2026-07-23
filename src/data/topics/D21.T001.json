@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, **bhakti** refers to reverential devotion expressed toward the Tirthankaras, liberated beings (siddhas), enlightened teachers, scriptures, and ethical ideals. Unlike the theistic bhakti of many South Asian traditions, Jain bhakti is **non-theistic**: it does not involve supplication to a creator god, nor does it assume divine intervention. Instead, bhakti is a disciplined orientation of respect, gratitude, and aspiration toward perfected beings who embody the highest states of spiritual attainment.\n\nAcross Jain communities—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—bhakti functions as a **supportive practice** that stabilizes attention, cultivates humility, and reinforces ethical commitments. It is not a path separate from right faith (samyak-darśana), right knowledge (samyak-jñāna), and right conduct (samyak-cāritra), but rather a mode of internalizing these three jewels.\n\nClassical sources describe multiple forms of bhakti: devotion to the Jinas (Jinabhakti), devotion to teachers (Guru-bhakti), devotion to scriptures (Śāstra-bhakti), and devotion to ethical vows (Vrata-bhakti). Ritual expressions—such as pūjā, stavan, vandan, pratikramaṇa, and temple circumambulation—are understood as **aids** to purifying mental states, not as transactions with divine powers. Non-iconic traditions emphasize **internal bhakti**, expressed through meditation on virtues, recitation of canonical texts, and disciplined ethical living.\n\nIn modern Jain practice, bhakti continues to serve as a bridge between philosophical rigor and emotional engagement. It provides a way for laypeople and youth to connect with ideals of nonviolence, self-restraint, and liberation through song, ritual, contemplation, and community gatherings. Scholars note that Jain bhakti has historically evolved in dialogue with broader Indian devotional cultures while maintaining its distinct metaphysical commitments.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "Although the text does not prescribe bhakti as an independent path, traditional commentaries (B) explain that devotion to the Jinas and teachers supports the cultivation of right faith."
+    },
+    {
+      "title": "Bhaktāmara Stotra",
+      "author": "Ācārya Māntunga (Śvetāmbara Mūrti-pūjaka attribution)",
+      "original_text": "जिनेन्द्रचरणान् नमस्यामि",
+      "transliteration": "jinendra-caraṇān namasyāmi",
+      "translation": "I bow to the feet of the Jina.",
+      "notes": "A foundational devotional hymn praising the qualities of the Jina. Digambara and Śvetāmbara traditions preserve differing recensions. Used widely in daily bhakti and protective recitation."
+    },
+    {
+      "title": "Ādi-purāṇa",
+      "author": "Jinasena (Digambara)",
+      "original_text": "भक्तिरेव हि साधूनां मार्गस्योपकारिणी",
+      "transliteration": "bhaktir eva hi sādhūnāṃ mārgasyopakāriṇī",
+      "translation": "Devotion indeed assists the path of the virtuous.",
+      "notes": "A Digambara Purāṇic text emphasizing that devotion to the Jinas and teachers strengthens resolve on the path, without replacing ethical and ascetic discipline."
+    },
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Attributed to Bhadrabāhu (Śvetāmbara)",
+      "original_text": "वन्दामि जिनं",
+      "transliteration": "vandāmi jinaṃ",
+      "translation": "I pay homage to the Jina.",
+      "notes": "Used prominently during Paryuṣaṇa. The text models reverential remembrance of Mahāvīra’s life, reinforcing bhakti through narrative and ritual recitation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain bhakti is identical to Hindu theistic devotion and seeks divine intervention.",
+      "reality": "Jain bhakti is non-theistic. It venerates perfected beings as ideals, not as creators or miracle-granting deities. Its purpose is internal transformation, not external intervention."
+    },
+    {
+      "myth": "Bhakti alone can lead to liberation in Jainism.",
+      "reality": "Primary texts consistently state that liberation requires the three jewels: right faith, right knowledge, and right conduct. Bhakti supports right faith but does not replace ethical and ascetic discipline."
+    },
+    {
+      "myth": "Non-iconic Jain traditions reject bhakti entirely.",
+      "reality": "Sthānakavāsī and Terāpanth traditions emphasize internal, non-ritualistic forms of bhakti—such as recitation, meditation on virtues, and reverence for living teachers—rather than rejecting devotion."
+    }
+  ]
+}

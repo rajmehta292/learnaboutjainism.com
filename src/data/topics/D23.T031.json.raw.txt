@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain studies, “name variants” refers to the different forms, spellings, and linguistic adaptations of personal and doctrinal names across Prakrit, Sanskrit, and modern Indian languages, as well as across regional and sectarian traditions. Because Jainism developed over many centuries in a multilingual environment, the same Tirthankara, acharya, text, or place can appear under several closely related names. These variants arise from phonetic shifts between Middle Indo‑Aryan Prakrits and Classical Sanskrit, from later vernaculars such as Hindi, Gujarati, Kannada, and Tamil, and from differing transliteration conventions into Roman script.\n\nAt the core of the tradition, many Tirthankara names are originally attested in Ardhamāgadhī or other Prakrit forms, later Sanskritized and then vernacularized. For example, the first Tirthankara appears in Prakrit as “Usabh” (or “Ṛsabha”) and in Sanskritized form as “Ṛṣabhanātha” or “Ādinātha”; the twenty‑fourth appears as “Vaddhamāṇa” in Prakrit and “Mahāvīra” in Sanskrit and modern usage. [[0]](https://jainmission.theywon.in/24-teerthankar-names/) The addition of the honorific “‑nātha” (“lord”) to many Sanskrit forms—Ajitanātha, Sumatinātha, Mallinātha—represents a later devotional and literary development rather than a change in the underlying identity of the Tirthankara.\n\nSectarian traditions (Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, Terāpanthī) generally agree on the identities of the twenty‑four Tirthankaras but may prefer slightly different spellings or emphases. Lists of Tirthankaras in iconographic catalogues, pilgrimage guides, and educational materials show minor orthographic differences—“Suvidhinātha” versus “Puṣpadanta,” “Śreyāṃsanātha” versus “Śreyansanātha”—while preserving the same sequence and attributes. [[1]](https://encyclopediaofjainism.com/the-jinas-their-names-and-symbols/) [[2]](https://www.wisdomlib.org/gallery/archaeological-museum-sarnath-gallery-4/12092) Regional languages further diversify these forms: Hindi and Gujarati often drop diacritics and simplify consonant clusters (e.g., “Parshvanath,” “Shantinath”), while South Indian languages adapt the names to local phonology.\n\nIn modern scholarship and digital resources, Roman transliteration introduces another layer of variation. Systems such as IAST, ISO, and simplified academic transliteration differ in how they represent retroflex consonants, long vowels, and nasalization, producing forms like “Rishabha,” “Ṛṣabha,” or “Ṛṣabha.” The same applies to doctrinal terms (e.g., “karmāśrava” vs. “karmasrava”) and place names (e.g., “Sammed Śikhar,” “Sammeta Śikhara,” “Sammed Shikharji”). These differences are usually technical rather than theological, but they can affect searchability, cataloguing, and cross‑tradition comparison.\n\nFrom a historical perspective, name variants preserve traces of Jainism’s movement through time and space. Prakrit forms reflect early canonical and narrative strata; Sanskrit forms align Jain literature with broader pan‑Indian scholastic culture; vernacular and Roman forms mark the tradition’s engagement with regional communities and global scholarship. Careful study of these variants—always anchored in primary textual witnesses—helps avoid confusion, supports accurate citation, and reveals how Jains themselves have continually re‑articulated their sacred persons and concepts in new linguistic environments.",
+  "primary_sources": [
+    {
+      "title": "Prakrit list of the twenty‑four Tirthankaras (Chauvīs Tiththayar Nāmaṇi)",
+      "author": "Anonymous traditional compiler (based on canonical and narrative sources)",
+      "original_text": "उसभ अजिय संभव अभिणंदणं सुमइं पउमप्पहं सुपासं चंदप्पहं सुविहिं (पुफ्फदंतं) सीअल सिज्जस वासुपुज्ज विमल अणंतं धम्मं संतिं कुंथुं अरं मल्लि मुणिसुव्वयं नमि रिठ्ठनेमिं / अरिठ्ठनेमिं पासं वद्धमाणं",
+      "transliteration": "Usabh Ajiy Sambhav Abhiṇandana Sumai Paumpaha Supāsa Candappaha Suvihi (Pupphadanta) Sīala Sijjasa Vāsupujja Vimala Aṇanta Dhamma Santi Kunthu Ara Malli Muṇisuvvaya Nami Riṭṭhanemi / Ariṭṭhanemi Pāsa Vaddhamāṇa",
+      "translation": "“Usabh (Ṛṣabha), Ajiy (Ajita), Sambhav (Saṃbhava), Abhiṇandana (Abhinandana), Sumai (Sumati), Paumpaha (Padmaprabha), Supāsa (Suparśva), Candappaha (Candra‑prabha), Suvihi or Pupphadanta (Suvidhi / Puṣpadanta), Sīala (Śītala), Sijjasa (Śreyāṃsa), Vāsupujja (Vasupūjya), Vimala (Vimala), Aṇanta (Ananta), Dhamma (Dharma), Santi (Śānti), Kunthu (Kuṇṭhu), Ara (Ara), Malli (Mallinātha), Muṇisuvvaya (Munisuvrata), Nami (Naminātha), Riṭṭhanemi or Ariṭṭhanemi (Neminātha), Pāsa (Pārśvanātha), Vaddhamāṇa (Mahāvīra).”",
+      "notes": "This Prakrit list, preserved in community educational materials, explicitly contrasts original Prakrit forms with later Sanskritized names, many of which add the honorific “‑nātha.” It illustrates how phonological and morphological changes generate name variants while maintaining the same sequence of twenty‑four Tirthankaras. [[0]](https://jainmission.theywon.in/24-teerthankar-names/)"
+    },
+    {
+      "title": "Iconographic tables of the twenty‑four Tirthankaras",
+      "author": "Various compilers (museum catalogues and Jain art surveys)",
+      "original_text": "Ṛṣabhanātha or Ādinātha, Ajitanātha, Saṃbhavanātha, Abhinandananātha, Sumatinātha, Padmaprabha, Supārśvanātha, Candraprabha, Puṣpadanta or Suvidhi, Śītalanātha, Śreyāṃsanātha, Vasupūjya, Vimalanātha, Anantanātha, Dharmanātha, Śāntinātha, Kuṇṭhanātha, Aranātha, Mallinātha, Munisuvrata, Naminātha, Neminātha, Pārśvanātha, Mahāvīra.",
+      "transliteration": "Ṛṣabhanātha / Ādinātha, Ajitanātha, Saṃbhavanātha, Abhinandananātha, Sumatinātha, Padmaprabha, Supārśvanātha, Candraprabha, Puṣpadanta / Suvidhi, Śītalanātha, Śreyāṃsanātha, Vasupūjya, Vimalanātha, Anantanātha, Dharmanātha, Śāntinātha, Kuṇṭhanātha, Aranātha, Mallinātha, Munisuvrata, Naminātha, Neminātha, Pārśvanātha, Mahāvīra.",
+      "translation": "“Ṛṣabhanātha or Ādinātha, Ajitanātha, Saṃbhavanātha, Abhinandananātha, Sumatinātha, Padmaprabha, Supārśvanātha, Candraprabha, Puṣpadanta or Suvidhi, Śītalanātha, Śreyāṃsanātha, Vasupūjya, Vimalanātha, Anantanātha, Dharmanātha, Śāntinātha, Kuṇṭhanātha, Aranātha, Mallinātha, Munisuvrata, Naminātha, Neminātha, Pārśvanātha, Mahāvīra.”",
+      "notes": "Museum catalogues and art‑historical tables list the Tirthankaras with Sanskritized names and occasionally give alternative forms (e.g., Puṣpadanta/Suvidhi, Ṛṣabhanātha/Ādinātha). These sources show how name variants function in iconography and pilgrimage literature, while still referring to the same canonical figures. [[2]](https://www.wisdomlib.org/gallery/archaeological-museum-sarnath-gallery-4/12092) [[1]](https://encyclopediaofjainism.com/the-jinas-their-names-and-symbols/)"
+    },
+    {
+      "title": "Kalpa‑sūtra (Śvetāmbara canonical text, Mahāvīra section)",
+      "author": "Traditionally attributed to Bhadrabāhu",
+      "original_text": "Vaddhamāṇassa Bhagavato Mahāvīrassa…",
+      "transliteration": "Vaddhamāṇassa Bhagavato Mahāvīrassa…",
+      "translation": "“Of the Blessed Vaddhamāṇa, Mahāvīra…”",
+      "notes": "In the Kalpa‑sūtra, Mahāvīra is referred to by the Prakrit form “Vaddhamāṇa,” while later tradition predominantly uses the Sanskritized name “Mahāvīra.” This pairing exemplifies how a single historical person is known under multiple name forms in different textual and ritual contexts. (Textual wording may vary slightly by edition; consult a critical edition for precise phrasing.)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "There is only one correct, orthodox spelling for each Jain name, and all other forms are corrupt or sectarian deviations.",
+      "reality": "Primary sources and traditional lists show that many names legitimately appear in multiple forms—Prakrit, Sanskrit, vernacular, and Roman transliteration—without implying doctrinal disagreement. Variants such as Usabh/Ṛṣabha/Ṛṣabhanātha/Adinath or Suvidhi/Puṣpadanta reflect historical and linguistic development, not competing Tirthankaras. [[0]](https://jainmission.theywon.in/24-teerthankar-names/) [[2]](https://www.wisdomlib.org/gallery/archaeological-museum-sarnath-gallery-4/12092)"
+    },
+    {
+      "myth": "Differences between Digambara and Śvetāmbara spellings mean that the sects recognize different sets of Tirthankaras.",
+      "reality": "While minor orthographic and naming preferences exist between sects and regional traditions, the canonical sequence of twenty‑four Tirthankaras and their core identities are shared. Variants like “Puṣpadanta or Suvidhi,” “Śreyāṃsanātha/Śreyansnath,” or “Sammeda/Sammeta/Sammed Shikharji” do not indicate different doctrinal lists but simply reflect linguistic and editorial choices. [[1]](https://encyclopediaofjainism.com/the-jinas-their-names-and-symbols/) [[2]](https://www.wisdomlib.org/gallery/archaeological-museum-sarnath-gallery-4/12092)"
+    },
+    {
+      "myth": "Modern Roman spellings such as “Parshvanath” or “Shantinath” are inaccurate and should be rejected in serious study.",
+      "reality": "Simplified Roman spellings are widely used in community practice, signage, and introductory literature, and they can coexist with more precise transliterations like “Pārśvanātha” or “Śāntinātha.” For academic work, consistent transliteration systems are important, but recognizing common variants helps bridge community usage and scholarly conventions rather than dismissing one in favor of the other."
+    }
+  ]
+}
+
+
+
+> [0] [24 तीर्थंकरों के प्राकृत नाम | चउवीस तित्थयर णामाणि | 24 Teerthankar Names](https://jainmission.theywon.in/24-teerthankar-names/)
+>
+> [1] [02 The Jinas: Their Names & Symbols](https://encyclopediaofjainism.com/the-jinas-their-names-and-symbols/)
+>
+> [2] [The twenty-four Jain Tirthamkaras [Archaeological Museum Sarnath (gallery 4)]](https://www.wisdomlib.org/gallery/archaeological-museum-sarnath-gallery-4/12092)

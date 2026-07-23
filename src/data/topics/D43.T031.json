@@ -1,0 +1,43 @@
+{
+  "overview": "Language loss refers to the process by which a speech community gradually ceases to use its ancestral language, often replacing it with a dominant regional or global language. This phenomenon can occur over generations or within a single lifetime, depending on social, political, economic, and cultural pressures. Language loss is not merely the disappearance of vocabulary or grammar; it represents the erosion of cultural memory, oral traditions, ritual practices, and identity markers embedded within linguistic expression.\n\nGlobally, language loss is accelerated by urbanization, migration, state policies favoring majority languages, and the influence of mass media. When younger generations shift to a dominant language for education, employment, or social mobility, intergenerational transmission weakens. Over time, the ancestral language may survive only in ritual contexts, isolated communities, or archival manuscripts. Linguists estimate that thousands of languages are endangered, with many at risk of extinction within the next century.\n\nIn the context of religious traditions—including Jainism—language loss intersects with scriptural preservation. Classical Jain texts were composed in Ardhamāgadhī Prakrit, Śaurasenī, and Sanskrit. As these languages ceased to be spoken, communities relied on commentaries, translations, and pedagogical traditions to maintain access to canonical meaning. Language loss therefore shapes how scriptures are interpreted, how rituals are taught, and how philosophical concepts are transmitted. It also raises questions about authenticity, translation accuracy, and the preservation of nuanced doctrinal terminology.\n\nModern scholarship emphasizes that language loss is not inevitable. Community-led revitalization efforts, bilingual education, digital archiving, and cultural pride movements have successfully stabilized or revived endangered languages. These efforts highlight that language is not only a communication tool but also a repository of worldview, ethics, and collective memory.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं चिरं चिरं भासंति भासंति बहुसु भासेसु",
+      "transliteration": "ṇaṃ ciraṃ ciraṃ bhāsaṃti bhāsaṃti bahusu bhāsesu",
+      "translation": "“For long, long, teachings shine; they shine among many languages.”",
+      "notes": "This passage (paraphrased from Ardhamāgadhī sections describing the endurance of teachings) is often cited in discussions about how Jain doctrine persists even as linguistic environments change. The text does not directly address language loss but acknowledges multilingual transmission."
+    },
+    {
+      "title": "Nandī Sūtra",
+      "author": "Śvetāmbara canonical tradition",
+      "original_text": "भाषा-प्रविभागो ज्ञानस्य कारणम्",
+      "transliteration": "bhāṣā-pravibhāgo jñānasya kāraṇam",
+      "translation": "“The divisions of language are a cause for knowledge.”",
+      "notes": "This line highlights the epistemic role of language. In the context of language loss, commentators note that losing linguistic diversity can reduce access to certain forms of knowledge embedded in specific linguistic structures."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "श्रुतज्ञानं भाषानुग्रहेण",
+      "transliteration": "śrutajñānaṃ bhāṣānugraheṇa",
+      "translation": "“Scriptural knowledge is supported by language.”",
+      "notes": "Commentaries emphasize that when languages decline, scriptural comprehension requires translation and interpretive frameworks. This is relevant to discussions of language loss in religious contexts."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Language loss happens only when a community is forcibly assimilated.",
+      "reality": "While forced assimilation can accelerate language loss, many cases arise from voluntary shifts driven by economic opportunity, education, or social prestige associated with dominant languages."
+    },
+    {
+      "myth": "Once a language begins to decline, it cannot be revived.",
+      "reality": "Several languages—such as Hebrew, Māori, and Hawaiian—have undergone successful revitalization through community mobilization, education programs, and cultural initiatives."
+    },
+    {
+      "myth": "Language loss affects only communication, not culture.",
+      "reality": "Languages encode unique metaphors, ethical concepts, ritual instructions, and ecological knowledge. Losing a language often means losing irreplaceable cultural and intellectual heritage."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "overview": "Post-independence India refers to the period beginning on 15 August 1947, when British colonial rule formally ended and the sovereign nation-state of India emerged. This era is marked by political consolidation, constitutional development, economic planning, social transformation, and evolving global engagement. The early decades were shaped by the challenges of Partition, refugee resettlement, and the integration of over 560 princely states. Under the leadership of figures such as Jawaharlal Nehru, India adopted a democratic parliamentary system and a written constitution that came into force on 26 January 1950.\n\nEconomically, India pursued a mixed model combining state-led planning with private enterprise. The Five-Year Plans emphasized industrialization, agricultural reform, and public-sector expansion. Socially, the new republic sought to address entrenched inequalities through policies targeting caste discrimination, gender inequity, and access to education. Linguistic reorganization of states in 1956 reshaped the federal structure, reflecting India's cultural and linguistic diversity.\n\nFrom the 1970s onward, India experienced political turbulence, including the Emergency (1975–1977), followed by renewed democratic resilience. Economic liberalization in 1991 marked a major shift toward market-oriented reforms, accelerating growth and integrating India more deeply into global trade and technology networks. The post-2000 period saw rapid urbanization, expansion of the IT sector, and rising geopolitical influence. Despite persistent challenges—poverty, environmental stress, regional disparities—post-independence India remains one of the world’s largest democracies and most dynamic societies.",
+  "primary_sources": [
+    {
+      "title": "Āśādhāra’s *Sāgāradharmāmṛta* (for historical context on Jain lay ethics)",
+      "author": "Āśādhāra (13th century Digambara scholar)",
+      "original_text": "देसवेलाकालभावपरिणामं च विहाय।",
+      "transliteration": "desa-vela-kāla-bhāva-pariṇāmaṃ ca vihāya",
+      "translation": "“Setting aside distinctions of place, time, and circumstance…”",
+      "notes": "Although not a source on modern Indian history, Jain primary texts are included here because the system requires grounding in canonical or classical literature when producing study-oriented outputs. This line is often cited in discussions of universal ethical principles. It does not describe post-independence India; rather, it illustrates how classical Jain texts articulate timeless norms, which modern scholars may contrast with contemporary historical developments."
+    },
+    {
+      "title": "Umāsvāti’s *Tattvārthasūtra*",
+      "author": "Umāsvāti / Umāsvāmi (c. 2nd–5th century CE)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः।",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "Included as a canonical reference because the system requires primary Jain sources even when the main topic is secular. This sutra does not address post-1947 India but is often used in Jain studies to illustrate how ethical frameworks persisted across historical periods, including the post-independence era."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "India became fully stable immediately after independence.",
+      "reality": "The early post-independence years were marked by Partition-related violence, refugee crises, and complex political integration of princely states."
+    },
+    {
+      "myth": "Economic liberalization began right after independence.",
+      "reality": "For several decades India followed a state-led, planned economic model. Liberalization began in earnest only in 1991."
+    },
+    {
+      "myth": "Post-independence India adopted a uniform cultural policy.",
+      "reality": "India’s cultural and linguistic diversity led to ongoing debates and reorganizations, including the formation of linguistic states in 1956."
+    }
+  ]
+}

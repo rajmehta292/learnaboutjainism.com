@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain philosophy, the doctrine of the *ananta-jīva-siddhānta*—the infinite plurality of souls—is a foundational metaphysical principle. It asserts that reality contains an infinite number of distinct, eternal, and uncreated souls (*jīva*), each possessing consciousness, agency, and the potential for liberation. This plurality is not metaphorical but ontologically literal: every soul is a unique substance (*dravya*) with its own inherent qualities (*guṇa*) and modes (*paryāya*).\n\nJain thinkers emphasize that souls are beginningless and endless. They are not emanations of a single cosmic source, nor do they merge into a universal consciousness upon liberation. Instead, liberated souls (*siddhas*) retain their individuality eternally, residing at the apex of the cosmos (*siddha-śilā*). This position distinguishes Jainism from monistic traditions that posit a single ultimate reality.\n\nThe infinite plurality also underpins Jain ethics. Because every living being—from microorganisms to humans—houses a distinct soul capable of experiencing pleasure and pain, nonviolence (*ahiṃsā*) becomes a rational moral imperative. The recognition of countless souls encourages meticulous care in daily conduct, dietary choices, and ritual practice.\n\nPhilosophically, the doctrine is tied to Jain epistemology and logic. The existence of infinite souls is defended through *anekāntavāda* (many-sidedness) and *syādvāda* (conditional predication), which allow Jain thinkers to articulate complex ontological claims without collapsing distinctions between substances. The plurality of souls is also essential to the karmic system: each soul binds and sheds karma individually, progressing through the *guṇasthānas* (stages of spiritual development) according to its own effort.\n\nAcross Digambara and Śvetāmbara traditions, the doctrine is consistently affirmed, though discussions of soul categories, capacities, and scriptural enumeration may vary. Modern scholarship highlights how this principle shapes Jain environmental ethics, interreligious dialogue, and contemporary interpretations of personhood.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "जीवास्तिकायः",
+      "transliteration": "jīvāstikāyaḥ",
+      "translation": "“The soul is an existent extended substance.”",
+      "notes": "Tattvārtha Sūtra 5.1 identifies the soul as one of the fundamental substances. Later sūtras (e.g., 5.7–5.9) describe innumerable embodied souls and the distinctness of each jīva. Commentaries by Pūjyapāda (Digambara) and Siddhasena Gaṇi (Śvetāmbara) affirm the infinite plurality."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Nemicandra Siddhānta Cakravartin (Digambara)",
+      "original_text": "जीवो णिच्चो सुद्धो उप्पण्णो अप्पगहणो।",
+      "transliteration": "jīvo nicco suddho uppaṇṇo appagahaṇo",
+      "translation": "“The soul is eternal, pure, produced (manifest), and without physical grasp.”",
+      "notes": "This verse emphasizes the eternal and individual nature of each soul. The text enumerates categories of souls, reinforcing plurality."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples (Śvetāmbara canon)",
+      "original_text": "पण्णत्ति बहुविहा जीवाणं",
+      "transliteration": "paṇṇatti bahuvihā jīvāṇaṃ",
+      "translation": "“There is manifold classification of living beings.”",
+      "notes": "Ācārāṅga Sūtra I.1 describes countless forms of life, each possessing a soul. The text grounds ethical nonviolence in the recognition of innumerable jīvas."
+    },
+    {
+      "title": "Gommatasāra (Jīvakāṇḍa)",
+      "author": "Nemicandra (Digambara)",
+      "original_text": "अनन्ता जीवाः",
+      "transliteration": "anantā jīvāḥ",
+      "translation": "“Souls are infinite.”",
+      "notes": "A direct assertion of infinite plurality. The text provides detailed classifications of souls, their capacities, and karmic states."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that all souls ultimately merge into one universal consciousness after liberation.",
+      "reality": "Jainism maintains that liberated souls remain eternally distinct individuals. There is no merging or dissolution into a single cosmic entity."
+    },
+    {
+      "myth": "The infinite plurality of souls implies that souls can divide or multiply.",
+      "reality": "Souls do not split or combine. Each soul is an indivisible, eternal substance that has always existed and will always exist."
+    },
+    {
+      "myth": "Only visible or large organisms contain souls.",
+      "reality": "Jain texts affirm that even microscopic beings, plants, and elemental organisms possess distinct souls, contributing to the infinite count."
+    }
+  ]
+}

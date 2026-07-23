@@ -1,0 +1,43 @@
+{
+  "overview": "Shruta Panchami is a Jain festival dedicated to the veneration of **Śruta**—the scriptural tradition, canonical learning, and the teachers who preserve it. Observed primarily within Śvetāmbara communities, especially Mūrti-pūjaka and Sthānakavāsī lineages, it falls on the fifth day (Pañcamī) of the bright half of Jyeṣṭha. The day honors the redaction of the Jain canon by Ācārya Devardhigaṇi Kṣamāśramaṇa at Valabhī (5th–6th century CE), a pivotal moment in Jain literary history.\n\nShruta Panchami functions as both a historical commemoration and a pedagogical festival. Laypeople and monastics engage in scriptural study, recitation, and reflection on the transmission of knowledge. Temples and upāśrayas often host readings of the Āgamas, discussions on the lives of great teachers, and rituals honoring the **Śruta-devatā**, the personification of sacred knowledge. In many regions, manuscripts are ceremonially cleaned, displayed, or worshipped, emphasizing the reverence for textual preservation.\n\nThe festival also highlights the Jain understanding of **Śruta-jñāna**, one of the five types of knowledge described in canonical epistemology. Shruta Panchami encourages practitioners to cultivate humility toward learning, gratitude for scriptural custodians, and awareness of the fragility of textual transmission across centuries. While practices vary across sects, the central theme remains the celebration of Jain learning as a path toward right faith, right knowledge, and right conduct.",
+  "primary_sources": [
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Ācārya Bhadrabāhu (traditionally attributed)",
+      "original_text": "सुतं नत्थि अणुत्थाणं, सुतं नत्थि अणावओ",
+      "transliteration": "sutaṃ natthi aṇutthāṇaṃ, sutaṃ natthi aṇāvao",
+      "translation": "Without scriptural knowledge there is no right effort; without scriptural knowledge there is no right conduct.",
+      "notes": "This verse is frequently cited in discussions of Shruta Panchami to emphasize the foundational role of scriptural learning in Jain practice. The attribution is traditional; textual history is complex and debated."
+    },
+    {
+      "title": "Nandī Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "सुतं नाम द्वादशाङ्गं चतुर्विंशतिपूर्वं च",
+      "transliteration": "sutaṃ nāma dvādaśāṅgaṃ caturviṃśatipūrvaṃ ca",
+      "translation": "Scriptural knowledge consists of the twelve Aṅgas and the twenty-four Pūrvas.",
+      "notes": "The Nandī Sūtra provides a technical classification of Śruta-jñāna. It is often referenced during Shruta Panchami study sessions."
+    },
+    {
+      "title": "Kalpasūtra (Valabhī redaction context)",
+      "author": "Attributed to Bhadrabāhu; redacted by Devardhigaṇi",
+      "original_text": "देवर्धिगणिक्षमाश्रमणेन वालभीपुरे संहिताः",
+      "transliteration": "devardhigaṇikṣamāśramaṇena vālabhīpure saṃhitāḥ",
+      "translation": "The scriptures were compiled at Valabhī by Devardhigaṇi Kṣamāśramaṇa.",
+      "notes": "This line appears in later colophons and manuscript traditions, not in the main canonical body. It is used to contextualize the historical event commemorated on Shruta Panchami."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Shruta Panchami is a purely ritualistic festival focused on worshipping books.",
+      "reality": "While manuscript veneration occurs in some communities, the festival’s core purpose is educational—emphasizing scriptural study, preservation, and gratitude toward teachers who transmitted Jain knowledge."
+    },
+    {
+      "myth": "Shruta Panchami is celebrated identically across all Jain sects.",
+      "reality": "Practices vary. Śvetāmbara Mūrti-pūjaka communities emphasize manuscript worship and temple rituals, while Sthānakavāsī groups focus on scriptural study without iconography. Digambara traditions generally do not observe Shruta Panchami as a distinct festival."
+    },
+    {
+      "myth": "The Valabhī redaction produced a universally accepted canon.",
+      "reality": "The Valabhī council is significant for Śvetāmbara traditions, but Digambara lineages maintain that the original Aṅgas were lost earlier. Shruta Panchami commemorates a Śvetāmbara historical event, not a pan-Jain canonical consensus."
+    }
+  ]
+}

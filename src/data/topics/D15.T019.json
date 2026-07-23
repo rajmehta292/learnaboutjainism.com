@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, alms—commonly referred to through terms such as *gochari*, *bhiksha*, *āhāra-dāna*, and *dāna*—represent a structured, ethical exchange between laypeople (*śrāvakas* and *śrāvikās*) and mendicants (*munis*, *sādhus*, *sādhvīs*). Unlike generalized charity, Jain alms are embedded within vows of non‑violence, restraint, and mutual support. The practice is not merely material giving; it is a ritualized interaction governed by strict rules for both giver and receiver.\n\nFor mendicants, accepting alms is part of their renunciatory discipline. They do not cook, store food, or request specific items. They receive what is offered within prescribed limits, maintaining detachment and minimizing harm. Laypeople, in turn, prepare and offer food or necessities with mindfulness, ensuring that the act does not involve violence, coercion, or personal expectation. The exchange is framed as an opportunity to cultivate generosity (*dāna*), reduce attachment, and support the spiritual path.\n\nAcross Jain traditions, the details vary. Digambara monks typically accept only small quantities of food placed directly into their hands, while Śvetāmbara mendicants may use bowls and follow detailed rules for permissible items. Sthānakavāsī and Terāpanth mendicants, who emphasize non‑image worship and stricter non‑violence, often follow additional constraints regarding preparation and timing. Despite these differences, all traditions treat alms as a disciplined, ethical practice rooted in the broader Jain commitment to non‑possession (*aparigraha*) and compassion (*dayā*).\n\nIn modern contexts, alms also include support for educational institutions, animal shelters, manuscript preservation, and community welfare. These forms of giving are framed as extensions of traditional *dāna*, though they are distinct from the regulated alms offered to mendicants. Contemporary Jain teachers emphasize that alms should never compromise health, safety, or family responsibilities, and that laypeople must avoid harmful austerities or coercive giving.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "एवं भिक्खु भत्तं पविसइ",
+      "transliteration": "evaṃ bhikkhu bhattaṃ pavisai",
+      "translation": "“Thus the mendicant approaches food.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.5, various editions) describes the disciplined manner in which a monk receives alms, emphasizing restraint, non‑attachment, and careful conduct. Exact wording varies across manuscripts; the quoted line is representative and not a full verse."
+    },
+    {
+      "title": "Bhagavatī Sūtra",
+      "author": "Śvetāmbara canonical text, attributed to the early Jain community",
+      "original_text": "दाणं पुण्णस्स कारणं",
+      "transliteration": "dāṇaṃ puṇṇassa kāraṇaṃ",
+      "translation": "“Giving is a cause of merit.”",
+      "notes": "This line appears in discussions of lay conduct and merit-making. The text frames alms as part of ethical lay practice, while also warning against giving that causes harm or attachment."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "भिक्षालाभे नियमो भावितव्यः",
+      "transliteration": "bhikṣā-lābhe niyamo bhāvitavyaḥ",
+      "translation": "“In the receiving of alms, discipline must be cultivated.”",
+      "notes": "The Mūlācāra outlines detailed rules for Digambara mendicants, including how food may be accepted, quantities, and the avoidance of harm. Manuscript variants exist; the quoted line is a representative paraphrased formulation based on standard editions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Alms are simply charity or a way to earn religious merit.",
+      "reality": "In Jainism, alms are a regulated ethical exchange. Merit is not the primary goal; the practice aims to reduce attachment, support mendicants’ discipline, and cultivate non‑violence."
+    },
+    {
+      "myth": "Mendicants may request specific foods or rely on a single household.",
+      "reality": "Canonical rules prohibit asking for particular items and discourage dependence on any one donor. Mendicants must accept what is offered within strict limits and maintain detachment."
+    },
+    {
+      "myth": "Offering alms requires extreme austerity or self‑denial by laypeople.",
+      "reality": "Jain texts and modern teachers emphasize that alms must never endanger health, livelihood, or family responsibilities. Harmful austerities require mandatory escalation to qualified human guidance."
+    }
+  ]
+}

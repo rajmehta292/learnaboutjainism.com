@@ -1,0 +1,59 @@
+{
+  "overview": "Sthulabhadra (often written Sthulibhadra or Sthūlabhadra) is a pivotal early Jain ācārya of the Śvetāmbara tradition, traditionally dated to the late 4th–3rd century BCE and associated with the courtly and intellectual milieu of Magadha and the Nanda–Maurya transition. He is remembered both as a great ascetic and as a guardian of scriptural memory at a time when famine, political change, and internal weakness threatened the continuity of the Jain canon. [[0]](https://www.jainqq.org/explore/000021/322) [[1]](https://en.wikipedia.org/wiki/Sthulabhadra)\n\nAccording to Śvetāmbara pattāvalī (lineage lists) and narrative texts, Sthulabhadra was the son of Sakatala, a minister in the Nanda kingdom, and the brother of Śrikaya. When his father died, he refused the post of chief minister and instead chose the path of renunciation, becoming a disciple of the ācāryas Sambhutavijaya and Bhadrabahu. These accounts situate him in Pāṭaliputra, the capital of Magadha, and portray him as moving from a life entangled in courtly pleasures—especially his attachment to the famed dancer Rūpkosā/Kosā—to a life of rigorous asceticism. [[1]](https://en.wikipedia.org/wiki/Sthulabhadra) [[2]](https://jaingpt.org/knowledge/sthulibhadrasuri_249058_249058)\n\nHagiographical narratives emphasize a crucial turning point: after spending years in the company of Rūpkosā, Sthulabhadra experiences a profound inner transformation and renounces worldly life at about thirty years of age. He undertakes severe ascetic discipline under Sambhutavijaya, eventually conquering sensual desire to such an extent that later texts praise him as a \"kāma-vijeta\" (conqueror of passion). His story is frequently used in Jain pedagogy to illustrate how deep attachment can be transformed into detachment and how genuine renunciation requires both inner resolve and guidance from a competent teacher. [[2]](https://jaingpt.org/knowledge/sthulibhadrasuri_249058_249058) [[3]](https://jainqq.org/explore/006643/2)\n\nIn the Śvetāmbara tradition, Sthulabhadra is closely linked with the preservation of the Āgamas after a devastating twelve-year famine in Magadha. Under Bhadrabahu, he is said to have mastered eleven of the twelve Aṅga Āgamas, while the twelfth, the Dṛṣṭivāda containing the fourteen Purvas, remained only partially transmitted. When famine scattered the saṅgha and weakened the monks’ capacity to maintain strict discipline and accurate oral transmission, Sthulabhadra later convened a council at Pāṭaliputra to recompile the scriptures. Eleven Aṅgas were reconstructed from collective memory, but the Dṛṣṭivāda and its Purvas could not be fully recovered, marking a decisive loss in the tradition’s scriptural corpus. [[0]](https://www.jainqq.org/explore/000021/322) [[3]](https://jainqq.org/explore/006643/2)\n\nA famous episode in later narrative sources describes Sthulabhadra studying the remaining Purvas under Bhadrabahu in Nepal. Having acquired extraordinary yogic powers through this study, he allegedly transformed himself into a lion to impress his nun-sisters. Bhadrabahu, displeased by this display of pride and misuse of spiritual attainment, is said to have curtailed further transmission of the Purvas to him. This story is often interpreted as a cautionary tale about the ethical use of spiritual power and the dangers of subtle ego even in advanced practitioners. [[0]](https://www.jainqq.org/explore/000021/322) [[3]](https://jainqq.org/explore/006643/2)\n\nWithin Śvetāmbara lineage lists, Sthulabhadra appears as an important successor in the chain of teachers from Mahāvīra, sometimes counted as the eighth ācārya in that succession. He is also described as a \"śrutakevalī\"—one who has complete mastery of the scriptures—though this designation is understood differently across sects and modern scholarship. In devotional and liturgical contexts, his name is recited alongside Mahāvīra and Gautama as auspicious, reflecting his enduring status as a model ascetic and guardian of doctrine. [[1]](https://en.wikipedia.org/wiki/Sthulabhadra) [[3]](https://jainqq.org/explore/006643/2)\n\nFrom a historical-critical perspective, Sthulabhadra’s life is known primarily through later texts such as Hemacandra’s 12th‑century \"Parisistaparvan\" and the Śvetāmbara \"Kalpa Sūtra\" tradition, which combine historical memory with didactic and hagiographical aims. These sources situate him in the broader narrative of the early Jain saṅgha’s struggles with famine, migration, and the eventual sectarian differentiation between Digambara and Śvetāmbara communities, though details and dates vary and must be treated with caution. Modern scholarship generally accepts his existence as an early Jain leader but debates the precise chronology and extent of his scriptural knowledge, noting that the loss of the Purvas is a complex process rather than a single event. [[1]](https://en.wikipedia.org/wiki/Sthulabhadra) [[4]](https://www.britannica.com/biography/Bhadrabahu-I)",
+  "primary_sources": [
+    {
+      "title": "Kalpa Sūtra (pattāvalī and ancillary tradition)",
+      "author": "Traditionally attributed to Bhadrabahu; compiled and transmitted within the Śvetāmbara canon",
+      "original_text": "… bhadrabāhusurīśiśyaḥ sthūlabhadrasurir āryaḥ …",
+      "transliteration": "... bhadrabāhusurī-śiśyaḥ sthūlabhadra-surir āryaḥ ...",
+      "translation": "“… the venerable Sthulabhadra Suri, disciple of Bhadrabahu Suri …”",
+      "notes": "The Kalpa Sūtra itself focuses on the lives of the Tīrthaṅkaras and monsoon regulations, but in its transmitted pattāvalī (lineage lists) and related Śvetāmbara tradition, Sthulabhadra is named as a disciple and successor of Bhadrabahu. The brief lineage references establish his place in the early chain of teachers but do not provide a full biography; later narrative texts elaborate his life story on this foundation. The exact wording and presence of his name can vary by manuscript and regional recension, and critical editions note minor orthographic differences in the spelling of \"Sthūlabhadra\"."
+    },
+    {
+      "title": "Parisistaparvan (Appendix to the Trisasti-śalākā-puruṣa-caritra)",
+      "author": "Hemacandra (12th century CE)",
+      "original_text": "sakatala-putro ’bhūd āryaḥ sthūlabhadraḥ… rājānīṃ rūpakosāṃ ramayitvā ciram āvasat… tataḥ kāmavijayo mahān asya jātah…",
+      "transliteration": "sakatala-putro ’bhūd āryaḥ sthūlabhadraḥ… rājānīṃ rūpakosāṃ ramayitvā ciram āvasat… tataḥ kāma-vijayo mahān asya jātaḥ…",
+      "translation": "“The venerable Sthulabhadra was the son of Sakatala… Having long dwelt with the royal courtesan Rūpakosā, he delighted her… Thereafter a great victory over desire arose in him…”",
+      "notes": "Hemacandra’s Parisistaparvan offers one of the most detailed narrative accounts of Sthulabhadra’s life, including his family background, relationship with the courtesan Rūpakosā, renunciation, and ascetic discipline. The text is composed in Sanskrit verse and prose, weaving moral exempla with historical memory. The passage quoted here is representative rather than exact to any single critical edition; wording and sandhi may differ slightly across manuscripts and printed editions. Scholars treat Hemacandra’s account as a key source for Śvetāmbara tradition while recognizing its didactic and hagiographical character."
+    },
+    {
+      "title": "Śvetāmbara oral and council traditions on the Aṅgas and Purvas",
+      "author": "Anonymous monastic tradition; later summarized in community manuals and narrative works",
+      "original_text": "paṭaliputre sthūlabhadra-śrīmatāṃ nāyakena saṅghasya saṃgrahaḥ kṛtaḥ, ekādaśāṅgāni punaḥ saṃgṛhītāni, dṛṣṭivādo tu na punaḥ saṃdhāritaḥ…",
+      "transliteration": "paṭaliputre sthūlabhadra-śrīmatāṃ nāyakena saṅghasya saṃgrahaḥ kṛtaḥ, ekādaśāṅgāni punaḥ saṃgṛhītāni, dṛṣṭivādo tu na punaḥ saṃdhāritaḥ…",
+      "translation": "“In Pāṭaliputra, the noble leader Sthulabhadra gathered the community; the eleven Aṅgas were again collected, but the Dṛṣṭivāda was not restored…”",
+      "notes": "This type of formula appears in later Sanskrit and Prakrit retellings of the council at Pāṭaliputra, preserved in monastic histories and community education texts rather than in a single canonical sutra. The wording above is a reconstructed, representative line that reflects the commonly transmitted idea: Sthulabhadra convenes a council, eleven Aṅgas are recompiled, and the Dṛṣṭivāda (containing the Purvas) is lost. Because these traditions are transmitted across multiple texts and languages, exact phrasing varies, and modern critical editions often paraphrase rather than quote a single authoritative verse."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sthulabhadra single-handedly authored or recreated the entire Jain canon, including the lost Purvas.",
+      "reality": "Śvetāmbara tradition credits Sthulabhadra with convening a council and helping to recompile eleven Aṅga Āgamas after a famine, but it explicitly acknowledges that the twelfth Aṅga, Dṛṣṭivāda, and its fourteen Purvas were not fully recovered. His role is that of a preserver and organizer of surviving oral material, not a solitary author of the entire canon, and the loss of the Purvas is portrayed as irreversible in standard narratives."
+    },
+    {
+      "myth": "All Jain sects agree that Sthulabhadra was a śrutakevalī with complete and uncontested knowledge of scripture.",
+      "reality": "The designation of Sthulabhadra as a \"śrutakevalī\"—one who has mastered all scriptures—is primarily a Śvetāmbara claim found in later lineage lists and hagiographies. Digambara traditions emphasize Bhadrabahu and other figures differently and do not uniformly endorse Śvetāmbara pattāvalī structures. Modern scholars also note that the term \"śrutakevalī\" is used variably and that the acknowledged loss of the Purvas complicates any assertion of complete scriptural knowledge."
+    },
+    {
+      "myth": "The story of Sthulabhadra transforming into a lion is a literal historical event that proves miraculous powers are central to Jain practice.",
+      "reality": "The lion-transformation episode appears in later narrative and pedagogical texts as a moral exemplum about the misuse of spiritual attainment and the subtle persistence of pride. Jain philosophical and ethical literature consistently emphasizes non-violence, self-restraint, and right knowledge rather than spectacular miracles as the core of practice. Many teachers and scholars interpret such stories symbolically or didactically, not as historical proof that miraculous displays are central or desirable in Jain sādhanā."
+    },
+    {
+      "myth": "Sthulabhadra is the direct cause of the Digambara–Śvetāmbara schism.",
+      "reality": "Accounts of the early schism between Digambara and Śvetāmbara communities involve multiple factors: migrations during famine, differences in practice and clothing, regional developments, and later doctrinal divergences. While Sthulabhadra appears in some narratives about councils and scriptural preservation, he is not portrayed in primary sources as the originator of sectarian division. The emergence of distinct sects is a gradual historical process, and attributing it to a single individual oversimplifies a complex development."
+    }
+  ]
+}
+
+
+
+> [0] [$JES 904 Compendium of Jainism (Jain Academic Bowl Manual 3rd Edition) - Jain Quantum](https://www.jainqq.org/explore/000021/322)
+>
+> [1] [Sthulabhadra - Wikipedia](https://en.wikipedia.org/wiki/Sthulabhadra)
+>
+> [2] [Sthulibhadrasuri - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/sthulibhadrasuri_249058_249058)
+>
+> [3] [Mahayogi Sthulabhadra Diwakar Chitrakatha 043 - Jain Quantum](https://jainqq.org/explore/006643/2)
+>
+> [4] [Bhadrabahu I | Jainism, Indian History, Philosopher | Britannica](https://www.britannica.com/biography/Bhadrabahu-I)

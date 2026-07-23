@@ -1,0 +1,71 @@
+{
+  "overview": "Svetambara liturgy refers to the structured body of prayers, recitations, ritual sequences, and festival observances used by the Svetambara Jain tradition in both monastic and lay contexts. It is not a single fixed \"service\" but a constellation of liturgical cycles—daily, fortnightly, four‑monthly, and annual—organized around the core aims of Jain practice: reverence for the Tirthankaras and the Panch Parameshti, purification of karma, cultivation of equanimity (samayik), and confession with resolve (pratikraman).\n\nAt the heart of Svetambara liturgy stand the Avashyakas, the \"essential\" six practices: samayik, chauvisantho (adoration of the 24 Tirthankaras), vandana (salutation to monks and nuns), alochana‑pratikraman (introspective confession), kayotsarga (meditation in bodily stillness), and pratyakhyan (formal resolve or renunciation). These Avashyakas form the backbone of pratikraman liturgies performed by monks, nuns, and laypeople, especially in the morning (raisi) and evening (devasi), as well as in the more elaborate pakshik (fortnightly), chaumasi (four‑monthly), and samvatsari (annual) pratikraman. [[0]](https://en.wikipedia.org/wiki/Pratikramana) [[1]](https://jainworld.com/education/jain-education-material/senior-level/pratikraman/)\n\nSvetambara liturgy is deeply text‑based. The canonical Agamas—preserved primarily in Ardhamagadhi Prakrit—provide the doctrinal and ritual framework, while later liturgical compilations and commentaries systematize the order of recitation. The Avashyaka‑sutra, Kalpa‑sutra, Uttaradhyayana‑sutra, and other Svetambara Agamas are recited in specific seasons and contexts. For example, during Paryushana, the Kalpa‑sutra is publicly read, narrating the lives of the Tirthankaras, especially Mahavira, and prescribing monastic regulations; this reading is embedded in a larger liturgical cycle of fasting, pratikraman, and communal forgiveness (micchami dukkadam). [[0]](https://en.wikipedia.org/wiki/Pratikramana)\n\nDaily liturgy for lay Svetambaras typically includes recitation of the Namokar Mantra, short samayik, and simplified pratikraman, often in the vernacular alongside Prakrit or Sanskrit verses. More extended forms, especially on holy days, incorporate hymns (stavan), praise of the Tirthankaras (chauvisantho/logassa), guru‑vandan, and scriptural readings. The liturgy is performed in temples with images (murtipujaka) or in non‑image halls (as in Sthanakavasi and Terapanth sub‑traditions), but the core Avashyaka structure remains recognizable across these branches, even where the specific sutras, melodies, or languages differ.\n\nSvetambara liturgy also includes puja sequences—ritual offerings to the Jina images—such as snatra‑puja, ashtaprakari‑puja (eightfold offerings), and various stotras like the Bhaktamara‑stotra and Uvasaggaharam‑stotra. These are not merely devotional songs but are embedded in carefully ordered acts of approaching the image, bowing, circumambulation, offering substances (water, rice, flowers, sandal paste), and reciting praise that emphasizes the Jina’s qualities of omniscience, non‑attachment, and liberation. While Digambara and Svetambara share many doctrinal elements, the Svetambara liturgical repertoire is distinctive in its particular Agamic recensions, its use of white‑clad monastic officiants, and its strong emphasis on communal pratikraman during Paryushana.\n\nModern Svetambara communities have adapted liturgy to contemporary contexts: shorter pratikraman booklets, bilingual editions (Prakrit with Gujarati, Hindi, or English), and audio‑visual guides for youth and diaspora communities. Yet the underlying structure—Avashyaka‑based introspection, confession, and resolve, framed by reverence to the Panch Parameshti—remains anchored in the canonical and early post‑canonical texts. Scholarly and traditional commentaries continue to debate details of sequence, pronunciation, and textual authenticity, but there is broad agreement that Svetambara liturgy is a disciplined, text‑centered path for karmic purification rather than a purely aesthetic or emotional ritual performance.",
+  "primary_sources": [
+    {
+      "title": "Ṇamōkāra Mantra (Navkār Mantra)",
+      "author": "Canonical, attributed to early Jain tradition; preserved in Agamas",
+      "original_text": "णमो अरिहंताणं\nणमो सिद्धाणं\nणमो आयरियाणं\nणमो उवज्झायाणं\nणमो लोए सव्वसाहूणं",
+      "transliteration": "ṇamō arihaṁtāṇaṁ\nṇamō siddhāṇaṁ\nṇamō āyariyāṇaṁ\nṇamō uvajjhāyāṇaṁ\nṇamō lōē savvasāhūṇaṁ",
+      "translation": "Obeisance to the Arihants.\nObeisance to the Siddhas.\nObeisance to the Acharyas.\nObeisance to the Upadhyayas.\nObeisance to all Sadhus in the world.",
+      "notes": "This mantra is the foundational liturgical formula for all Jain sects, including Svetambaras. It opens most liturgical acts—samayik, pratikraman, puja—and encapsulates reverence to the Panch Parameshti. Its recitation is considered a powerful means of reducing karmic bondage and orienting the practitioner toward humility and devotion. The mantra appears in various Agamic contexts and is treated as a summary of Jain spiritual hierarchy. [[0]](https://en.wikipedia.org/wiki/Pratikramana) [[1]](https://jainworld.com/education/jain-education-material/senior-level/pratikraman/)"
+    },
+    {
+      "title": "Avashyaka‑sutra (Āvaśyaka‑sūtra)",
+      "author": "Traditionally attributed to canonical compilers of the Svetambara Agamas",
+      "original_text": "इरियावहियं पडिकम्मं,\nतहिया वंदणं,\nतहिया लोयस्स जिणस्स,\nतहिया आलोकणा पडिकम्मं,\nतहिया काओस्सग्गं,\nतहिया पच्चख्खाणं.",
+      "transliteration": "iriyāvahiyaṁ paḍikammaṁ,\ntahiyā vaṁdaṇaṁ,\ntahiyā lōyassa jiṇassa,\ntahiyā ālokaṇā paḍikammaṁ,\ntahiyā kāōssaggaṁ,\ntahiyā paccakkhāṇaṁ.",
+      "translation": "The iriyā‑vahiya (confession of transgressions in movement),\nthen vandana (salutation),\nthen praise of the Jina of the world,\nthen alochana‑pratikraman (introspective confession),\nthen kayotsarga (abandonment of the body),\nthen pratyakhyan (formal resolve).",
+      "notes": "The Avashyaka‑sutra is the key liturgical text that structures the six Avashyakas. In Svetambara practice, it is recited in Prakrit during pratikraman, with commentarial explanations in vernacular languages. The sutra provides the sequence and brief descriptions of each essential ritual, which are then elaborated by later manuals. Its authority is considered Tier A (canonical) in the Svetambara tradition, though exact wording varies slightly across manuscripts and recensions."
+    },
+    {
+      "title": "Pratikraman liturgy (Samvatsari Pratikraman passages)",
+      "author": "Canonical and post‑canonical compilers; transmitted in Svetambara pratikraman texts",
+      "original_text": "खामेमि सव्वे जीवा,\nसव्वे जीवा खमंतु मे;\nमित्ति मे सव्व भूएसु,\nवेरं मज्झं न केणइ.",
+      "transliteration": "khāmemi savve jīvā,\nsavve jīvā khamaṁtu mē;\nmitti mē savva bhūesu,\nvēraṁ majjhaṁ na kēṇaī.",
+      "translation": "I forgive all living beings,\nmay all living beings forgive me;\nI am friendly toward all beings,\nI bear enmity toward none.",
+      "notes": "This verse is central to Svetambara pratikraman, especially during Samvatsari at the end of Paryushana. It is recited as part of the communal act of seeking and granting forgiveness, often followed by the phrase \"Micchami Dukkadam\" (may the bad deeds be fruitless). The verse appears in pratikraman manuals derived from Avashyaka‑sutra traditions and is widely memorized by laypeople. Its liturgical function is both doctrinal—affirming universal friendliness—and practical, as it frames interpersonal reconciliation. [[2]](https://jainknowledge.com/question/5912/explain-what-do-we-do-in-pratikraman) [[1]](https://jainworld.com/education/jain-education-material/senior-level/pratikraman/)"
+    },
+    {
+      "title": "Kalpa‑sutra (Kappa‑sutta)",
+      "author": "Traditionally attributed to Bhadrabahu; canonical Svetambara text",
+      "original_text": "एवं मे सुते,\nभगवतो महावीरस्स,\nजिणस्स,\nकेवलि‑पण्णत्ते,\nकप्पे सुत्ते…",
+      "transliteration": "evaṁ mē sutē,\nbhagavatō mahāvīrassa,\njiṇassa,\nkēvali‑paṇṇattē,\nkappe suttē…",
+      "translation": "Thus have I heard,\nconcerning Lord Mahavira,\nthe Jina,\nas proclaimed by the Omniscient,\nin the Kalpa‑sutra…",
+      "notes": "The Kalpa‑sutra is a major Svetambara canonical text, recited publicly during Paryushana. Its liturgical use includes the narration of Mahavira’s life, the lives of other Tirthankaras, and monastic disciplinary rules. The reading is often accompanied by ritual processions, image adornment, and special pujas. While the text itself is doctrinal and narrative, its annual recitation has become a central liturgical event, shaping communal memory and identity."
+    },
+    {
+      "title": "Chauvisantho / Logassa stotra",
+      "author": "Canonical praise hymn preserved in Avashyaka and other Agamic contexts",
+      "original_text": "लोयस्स जिणस्स,\nचउविसंठो,\nमहावीरं च,\nसव्वेसिं जिणाणं…",
+      "transliteration": "lōyassa jiṇassa,\ncauvisaṁthō,\nmahāvīraṁ ca,\nsavvēsiṁ jiṇāṇaṁ…",
+      "translation": "Praise of the Jina of the world,\nthe twenty‑four,\nincluding Mahavira,\nof all the Jinas…",
+      "notes": "Chauvisantho (also called Logassa) is the standard hymn of praise to the 24 Tirthankaras, recited as part of the Avashyaka sequence. In Svetambara liturgy, it appears in pratikraman, samayik, and other devotional contexts. The hymn reinforces the centrality of the Tirthankaras as exemplars of victory over inner passions and is often chanted in melodic forms in temples and homes."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Svetambara liturgy is purely a matter of temple worship and image‑puja, with little emphasis on introspection or ethical discipline.",
+      "reality": "While murtipujaka Svetambara communities do have rich temple‑based puja rituals, the core of Svetambara liturgy is the Avashyaka‑centered pratikraman, which focuses on samayik (equanimity), confession, kayotsarga (meditative stillness), and pratyakhyan (ethical resolve). These practices are explicitly designed for karmic purification and ethical self‑review, and they are obligatory for monks and strongly encouraged for laypeople. Temple puja is only one part of a broader liturgical system grounded in canonical texts and disciplined introspection. [[0]](https://en.wikipedia.org/wiki/Pratikramana) [[1]](https://jainworld.com/education/jain-education-material/senior-level/pratikraman/)"
+    },
+    {
+      "myth": "Svetambara and Digambara liturgies are completely different and share almost nothing in common.",
+      "reality": "There are important differences in specific sutras, languages, and ritual sequences between Svetambara and Digambara liturgies, but both traditions share the fundamental structure of Avashyaka‑type practices: samayik, praise of the Tirthankaras, guru‑vandan, pratikraman, kayotsarga, and pratyakhyan. Both emphasize daily and periodic introspection, confession, and forgiveness. The divergences lie mainly in textual recensions, sectarian histories, and ritual aesthetics, not in the basic liturgical aims of karmic purification and cultivation of non‑violence and equanimity. [[2]](https://jainknowledge.com/question/5912/explain-what-do-we-do-in-pratikraman) [[0]](https://en.wikipedia.org/wiki/Pratikramana)"
+    },
+    {
+      "myth": "Pratikraman is only an annual ritual performed on Samvatsari during Paryushana.",
+      "reality": "Samvatsari pratikraman is indeed a major annual liturgical event for Svetambaras, but pratikraman is prescribed at multiple frequencies: daily (raisi and devasi), fortnightly (pakshik), four‑monthly (chaumasi), and yearly (samvatsari). Devout practitioners, especially monks and nuns, perform pratikraman at least twice a day. Laypeople are encouraged to adopt regular pratikraman to review and repent for their actions over different time spans, not only once a year. [[0]](https://en.wikipedia.org/wiki/Pratikramana) [[1]](https://jainworld.com/education/jain-education-material/senior-level/pratikraman/)"
+    },
+    {
+      "myth": "Svetambara liturgy is fixed and uniform across all sub‑traditions and regions.",
+      "reality": "Although the Avashyaka framework and core canonical texts provide a shared foundation, there is considerable variation in liturgical details among Svetambara sub‑traditions (Murtipujaka, Sthanakavasi, Terapanth) and regional communities. Some emphasize image‑puja, others focus on non‑image halls; some use more Prakrit and Sanskrit, others rely heavily on Gujarati, Hindi, or other vernaculars; melodies, sequences, and commentarial explanations differ. These variations occur within a common doctrinal and liturgical structure, but they mean that actual practice is not entirely uniform."
+    }
+  ]
+}
+
+
+
+> [0] [Pratikramana - Wikipedia](https://en.wikipedia.org/wiki/Pratikramana)
+>
+> [1] [Pratikraman - Jainworld](https://jainworld.com/education/jain-education-material/senior-level/pratikraman/)
+>
+> [2] [Explain what do we do in pratikraman | JainGPT by Jain Knowledge](https://jainknowledge.com/question/5912/explain-what-do-we-do-in-pratikraman)

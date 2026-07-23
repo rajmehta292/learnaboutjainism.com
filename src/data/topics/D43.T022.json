@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, community governance refers to the collective, ethically regulated structures through which lay communities (śrāvakas and śrāvikās) organize temple administration, educational institutions, charitable trusts, dispute resolution, and coordination with monastic lineages. Although Jainism does not prescribe a single universal governance model, its communities historically developed frameworks grounded in ahiṃsā (non‑harm), satya (truthfulness), and aparigraha (non‑possessiveness). Governance is typically decentralized, with authority distributed among councils, elders, and trustees rather than concentrated in a single figure.\n\nAcross regions and sects, community governance evolved through guild-like associations, temple committees, merchant collectives, and caste-based sabhās. These bodies manage resources, maintain temples and upāśrayas, support monks and nuns, oversee festivals, and adjudicate local disputes. Governance is expected to follow ethical norms derived from primary texts, especially the emphasis on impartiality, restraint, and avoidance of harm in decision-making.\n\nModern Jain governance includes registered trusts, democratic boards, and federated organizations that coordinate education, youth programs, environmental initiatives, and inter-sect cooperation. While these structures are contemporary, they often cite classical principles—such as samiti (carefulness), gupti (self-restraint), and pramāda-avoidance (non-negligence)—as guiding values. Community governance remains non-hierarchical relative to many religious traditions: monastic orders provide spiritual guidance, but administrative authority rests with lay institutions, which must operate within ethical boundaries and avoid coercion, exclusion, or harm.\n\nBecause Jain communities are diverse—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth—their governance practices vary. Digambara communities often center governance around temple trusts and bhaṭṭārakas historically, whereas Śvetāmbara Mūrtipūjaka communities emphasize temple committees and caste-based mahājans. Sthānakavāsī and Terāpanth communities, with their non-idolatrous orientation, developed more centralized lay-monastic coordination structures. Despite these differences, all traditions emphasize ethical conduct, transparency, and community welfare as core governance principles.\n\nIn contemporary diaspora contexts, governance frequently involves nonprofit boards, rotating leadership, and youth representation. These structures aim to preserve tradition while adapting to legal requirements and multicultural environments. The overarching Jain ideal remains: governance should minimize harm, uphold truth, and foster collective spiritual progress.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं च णं च णं च, समणे सुयणं धम्मं विणिव्वाए।",
+      "transliteration": "ṇaṃ ca ṇaṃ ca ṇaṃ ca, samaṇe suyaṇaṃ dhammaṃ viṇivvāe.",
+      "translation": "“Again and again, one should discern the teaching of the ascetics with careful attention.”",
+      "notes": "Tier A. While not a governance manual, the text emphasizes careful discernment (viṇivvāṇa) and ethical attention—principles later applied to communal decision-making."
+    },
+    {
+      "title": "Sūtrakṛtāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "सच्चं भणइ, ण भणइ असच्चं।",
+      "transliteration": "sacchaṃ bhaṇaï, ṇa bhaṇaï asacchaṃ.",
+      "translation": "“Speak what is true, do not speak what is untrue.”",
+      "notes": "Tier A. Truthfulness is a foundational governance ethic, cited in traditional commentaries when discussing impartiality in communal affairs."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmī",
+      "original_text": "समितयः गुप्तयः।",
+      "transliteration": "samitayaḥ guptayaḥ.",
+      "translation": "“The disciplines (samitis) and restraints (guptis) [are essential].”",
+      "notes": "Tier A. Commentaries (Tier B) apply samiti and gupti principles to governance, emphasizing careful action, restraint, and avoidance of harm in administrative decisions."
+    },
+    {
+      "title": "Niśītha Cūrṇi (Śvetāmbara)",
+      "author": "Traditional commentator",
+      "original_text": "धम्मस्स कारणं सहवस्स।",
+      "transliteration": "dhammassa kāraṇaṃ sahavassa.",
+      "translation": "“Community is a cause for sustaining the Dharma.”",
+      "notes": "Tier B. This commentary highlights the role of collective structures in maintaining ethical and ritual life."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain community governance is uniform across all sects.",
+      "reality": "Governance varies significantly: Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth communities developed distinct administrative models shaped by history, monastic organization, and ritual practice."
+    },
+    {
+      "myth": "Monks and nuns directly control lay governance bodies.",
+      "reality": "Monastics provide spiritual guidance, but administrative authority typically rests with lay committees and trusts. Jainism maintains a separation between spiritual authority and lay governance."
+    },
+    {
+      "myth": "Traditional Jain governance was strictly hierarchical.",
+      "reality": "Historical Jain governance was largely decentralized, relying on councils, merchant guilds, and community sabhās rather than rigid hierarchies."
+    }
+  ]
+}

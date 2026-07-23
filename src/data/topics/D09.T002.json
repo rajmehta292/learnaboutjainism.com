@@ -1,0 +1,43 @@
+{
+  "overview": "Many‑sided reality (anekānta-vāda) is a foundational Jain philosophical doctrine asserting that reality is complex, multilayered, and cannot be fully captured by any single viewpoint. It emerges from the broader Jain commitment to nonviolence (ahiṃsā), extending the ethic of non-harm from physical action to intellectual conduct. In Jain thought, insisting that one’s own perspective is the only truth constitutes a form of epistemic violence, because it erases the partial truths held by others.\n\nAnekānta-vāda is closely linked with two technical systems: **syādvāda** (the doctrine of conditioned predication) and **nayavāda** (the doctrine of partial viewpoints). Syādvāda provides a structured method for expressing statements with conditional validity—“in some respect, it is so”—while nayavāda explains how different standpoints highlight different aspects of the same underlying reality. Together, these systems articulate how truth claims can be valid without being absolute.\n\nHistorically, many-sided reality developed in response to debates with Buddhist, Nyāya, and Vedānta philosophers. Jain thinkers argued that metaphysical positions such as permanence, impermanence, unity, or plurality each capture only one facet of the real. The classic Jain example is the parable of blind men describing an elephant: each person grasps a part, none comprehends the whole. Anekānta-vāda thus encourages intellectual humility, dialogical engagement, and careful analysis of context.\n\nIn modern scholarship, anekānta-vāda is often interpreted as a sophisticated theory of perspectivism. However, Jain texts emphasize that it is not relativism: truth exists, but human access to it is limited. The omniscient beings (kevalins) perceive reality in its full complexity, while ordinary beings grasp only fragments. Anekānta-vāda therefore functions both as a metaphysical claim about the nature of reality and as an epistemological discipline guiding how humans should speak, reason, and debate.\n\nAcross Jain traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—anekānta-vāda remains a shared philosophical foundation. Commentaries differ in emphasis, but all affirm that many-sided reality is essential for understanding karma, ethics, and liberation. It shapes Jain logic, interreligious dialogue, and contemporary applications in conflict resolution and pluralistic ethics.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "सर्वार्थानां अनैकान्त्यात्",
+      "transliteration": "sarvārthānāṃ anaikāntyāt",
+      "translation": "Because all objects have many aspects.",
+      "notes": "This brief aphorism (Tattvārtha-sūtra 1.6 in many editions) is one of the earliest systematic statements of anekānta. Commentaries by Pūjyapāda (Digambara) and Siddhasena Gaṇin (Śvetāmbara) elaborate that objects possess infinite attributes and modes, making single-perspective descriptions inherently partial."
+    },
+    {
+      "title": "Apta-mīmāṃsā",
+      "author": "Siddhasena Divākara",
+      "original_text": "एकोऽर्थो नानाविधैः नयैः कथ्यते",
+      "transliteration": "eko’rtho nānāvidhaiḥ nayaiḥ kathyate",
+      "translation": "One object is described through many kinds of viewpoints.",
+      "notes": "Apta-mīmāṃsā is a foundational text for Jain logic. Siddhasena explains nayavāda and its relation to anekānta, arguing that each naya captures a legitimate but incomplete aspect of truth."
+    },
+    {
+      "title": "Syādvāda-mañjarī",
+      "author": "Mallavādin",
+      "original_text": "स्यादिति वचनं निश्चयविपर्ययपरिहाराय",
+      "transliteration": "syād iti vacanaṃ niścaya-viparyaya-parihārāya",
+      "translation": "The term ‘syāt’ is used to avoid dogmatic certainty and false conclusions.",
+      "notes": "Mallavādin’s treatise is a major Śvetāmbara exposition of syādvāda. It clarifies that conditional predication prevents absolutist claims and preserves the complexity of reality."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Anekānta-vāda teaches that all viewpoints are equally true.",
+      "reality": "Jain texts reject relativism. Anekānta-vāda states that viewpoints are partially true, not wholly true. Each perspective captures an aspect of reality, but only omniscient beings perceive all aspects simultaneously."
+    },
+    {
+      "myth": "Many-sided reality means that contradictions are acceptable.",
+      "reality": "Jain logic distinguishes between contradictory absolute claims and conditionally valid partial claims. Syādvāda resolves apparent contradictions by specifying the context in which each statement holds."
+    },
+    {
+      "myth": "Anekānta-vāda is merely a social doctrine of tolerance.",
+      "reality": "While it supports dialogue and nonviolence, its primary function is metaphysical and epistemological. It arises from the Jain analysis of substances, modes, and attributes, not from modern pluralistic ethics."
+    }
+  ]
+}

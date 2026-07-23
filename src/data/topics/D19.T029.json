@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, “breaking a fast” (upavāsa-ucchitti or upavāsa-vighāṭa) refers to the deliberate and mindful conclusion of a period of food abstention. Jain fasting practices vary widely—from partial fasts (e.g., ekāṣaṇa, bīyāṣaṇa) to complete fasts (upavāsa) and extended observances such as ayambil, proṣadha, or multi‑day fasts. Because fasting is considered a discipline of body and mind rather than an act of mortification, its conclusion is treated with equal seriousness. The act of breaking a fast is framed within ahiṃsā (non-harm), saṃyam (self-restraint), and apramāda (attentiveness). It is not merely a physical act of eating but a ritualized return to ordinary conduct.\n\nAcross Jain communities—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth—the principles remain consistent: the fast should be ended with mindfulness, gratitude, and non-violence. Primary texts emphasize that the transition back to food should avoid harm to living beings, avoid indulgence, and maintain mental equanimity. The act is often accompanied by pratikramaṇa, recitation of forgiveness verses, or simple reflection on the purpose of the fast.\n\nTraditional sources do not prescribe elaborate ceremonies for laypeople, but they consistently warn against abrupt or harmful refeeding. Modern Jain teachers emphasize that breaking a fast must consider the practitioner’s health, age, and medical condition. Any prolonged or waterless fasting, or fasting undertaken by individuals with medical vulnerabilities, requires professional medical guidance. The religious literature frames fasting as a voluntary, non-coercive practice; therefore, breaking a fast is never treated as a failure but as a mindful conclusion of a spiritual exercise.\n\nIn daily practice, Jains often break a fast with boiled water, light foods, or easily digestible items, depending on tradition. The emphasis is on gentleness, non-violence, and maintaining the reflective state cultivated during the fast. The act symbolizes returning to worldly activity while preserving inner calm and ethical awareness.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अप्रमादो धर्मः",
+      "transliteration": "apramādo dharmaḥ",
+      "translation": "“Attentiveness is dharma.”",
+      "notes": "While the text does not describe the mechanics of breaking a fast, commentators (e.g., Pūjyapāda in the Sarvārthasiddhi) apply this principle to all ascetic and lay practices. Ending a fast must be done with attentiveness, avoiding harm and indulgence."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जोगं पवज्जा, जोगं समेइ",
+      "transliteration": "jogaṃ pavajjā, jogaṃ samei",
+      "translation": "“One should practice restraint; one should remain composed.”",
+      "notes": "The text emphasizes composure and restraint in all bodily activities. Commentarial traditions apply this to the mindful conclusion of fasting, stressing non-violence and calmness."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "उपवासो हि संयमो",
+      "transliteration": "upavāso hi saṃyamo",
+      "translation": "“Fasting is indeed a form of restraint.”",
+      "notes": "Although the text focuses on monastic conduct, Digambara commentators note that restraint must continue when the fast ends, avoiding overeating or foods that cause harm to subtle life forms."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Breaking a fast is spiritually inferior or a sign of failure.",
+      "reality": "Jain texts do not frame ending a fast as failure. Fasting is voluntary, and its conclusion is part of the discipline. Ending a fast mindfully is considered an expression of ahiṃsā and self-awareness."
+    },
+    {
+      "myth": "Jain scriptures mandate specific foods for breaking a fast.",
+      "reality": "Primary texts do not prescribe exact foods for laypeople. Traditions recommend gentle, non-harmful, easily digestible items, but these are community practices rather than scriptural mandates."
+    },
+    {
+      "myth": "Long or waterless fasts should always be broken without medical guidance.",
+      "reality": "Modern Jain teachers and community guidelines emphasize that any extended or waterless fast requires medical supervision. Religious texts do not override health considerations."
+    }
+  ]
+}

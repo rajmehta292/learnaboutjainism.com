@@ -1,0 +1,55 @@
+{
+  "overview": "Tiloyapannatti (Prakrit: \"Tiloyapaṇṇatti\", Sanskrit: \"Triloka-prajñaptiḥ\") is a major early Jain cosmological treatise, generally dated to around the 4th–6th century CE and attributed to the Digambara acharya Yativṛṣabha. It belongs to the Karaṇānuyoga (calculatory and cosmographical sciences) branch of Jain literature, which focuses on the quantitative description of the universe, its dimensions, and the systematic classification of beings and realms. Written in Jain Śaurasenī Prakrit and predominantly in gāthā (āryā) metre, the work combines technical cosmography with doctrinal, ritual, and cultural material, making it an important bridge between canonical traditions and later systematic cosmological compendia.\n\nThe title \"Tiloyapannatti\" literally means \"Explanation/Declaration of the Three Worlds\" (triloka): the lower world (adho-loka), the middle world (madhya-loka), and the upper world (ūrdhva-loka). The text presents a highly structured vision of the Jain universe as beginningless, uncreated, and governed by the interaction of six fundamental substances (dravya): jīva (souls), pudgala (matter), dharma (medium of motion), adharma (medium of rest), kāla (time), and ākāśa (space). Within this framework, it describes the vertical and horizontal extent of loka (the inhabited universe) and aloka (the empty space beyond), the layered hells, the human and sub-human realms, the various classes of deities, the luminous bodies, and finally the realm of liberated souls (siddha-śilā).\n\nStructurally, Tiloyapannatti is divided into nine mahādhikāras (major sections), each further subdivided into adhikāras (sections) and sometimes smaller subsections. The first mahādhikāra introduces auspicious invocation (maṅgala), basic cosmological concepts, and the general nature of the universe. Subsequent sections treat in detail: (2) the hellish regions (naraka), with their gradations of suffering and spatial organization; (3) the mansion-dwelling deities (bhavanavāsī), who inhabit elaborate celestial palaces; (4) the human world (manuṣya-loka), the longest and most detailed section, covering geography, kingdoms, lineages, and the classification of human beings; (5) the sub-human world (tiryañc-loka), including animals, plants, and other non-human embodied beings; (6) the peripatetic or intermediate deities (vyantara); (7) the luminous bodies (jyotiṣka), such as suns, moons, and stars, with precise measurements and orbital descriptions; (8) the heavenly regions (deva-loka); and (9) the realm of liberation (siddha-loka), where perfected souls reside beyond karmic bondage.\n\nA distinctive feature of Tiloyapannatti is its extensive use of numerical and metrical description. The text defines units of measurement—from small bodily units like aṅgula (finger) and hasta (hand) to vast cosmological units such as yojana and rajju—and then uses them to calculate the dimensions of continents, oceans, mountains, and cosmic layers. It also integrates doctrinal material, such as the classification of souls, karmic conditions, and ethical categories, into the cosmological framework. In doing so, it reflects a mature stage of Jain scholasticism, where cosmology is not merely descriptive but serves as a vehicle for illustrating the moral and spiritual hierarchy of beings.\n\nFrom a historical and philological perspective, Tiloyapannatti is significant for understanding the development of Digambara cosmological thought and the evolution of Prakrit literary style. The language shows a relatively early, less Sanskritized Jain Śaurasenī, and the author occasionally acknowledges gaps in received tradition, noting where information has been lost or not transmitted. Modern critical editions—especially those prepared by A. N. Upadhye, Hiralal Jain, and others—have highlighted textual challenges such as corrupt readings, missing lines, and numerical inconsistencies, while still affirming the overall coherence of the work. Today, Tiloyapannatti is studied alongside texts like the Sūrya-prajñapti, Candra-prajñapti, and later cosmological treatises to reconstruct the layered history of Jain views of the universe and their role in ritual, doctrine, and identity.",
+  "primary_sources": [
+    {
+      "title": "Tiloyapaṇṇatti (Triloka-prajñaptiḥ)",
+      "author": "Acharya Yativṛṣabha (Digambara tradition)",
+      "original_text": "ṇamo arihantāṇaṃ, ṇamo siddhāṇaṃ, ṇamo āyariyāṇaṃ, ṇamo uvajjhāyāṇaṃ, ṇamo loe savva-sāhūṇaṃ.",
+      "transliteration": "ṇamo arihantāṇaṃ, ṇamo siddhāṇaṃ, ṇamo āyariyāṇaṃ, ṇamo uvajjhāyāṇaṃ, ṇamo loe savva-sāhūṇaṃ.",
+      "translation": "Obeisance to the Arhats, obeisance to the Siddhas, obeisance to the Ācāryas, obeisance to the Upādhyāyas, obeisance to all the sages in the world.",
+      "notes": "This common Jain maṅgala verse, used at the opening of many texts, appears in Tiloyapannatti as part of its invocatory framework. It sets the devotional and hierarchical context for the cosmological exposition that follows, linking the technical description of the three worlds to the authority of the five supreme beings (pañca-parameṣṭhi)."
+    },
+    {
+      "title": "Tiloyapaṇṇatti, Mahādhikāra I (General Nature of the Universe)",
+      "author": "Acharya Yativṛṣabha",
+      "original_text": "lōya-kāsā ya a-lōya-kāsā, jaga-śeḍhi ya viṇṇayaṃ; jīvā ya pudaga-dhamma-adhammā, kāla-ākāsa ya duvihaṃ.",
+      "transliteration": "lōya-kāsā ya alōya-kāsā, jaga-śeḍhi ya viṇṇayaṃ; jīvā ya pudaga-dhamma-adhammā, kāla-ākāsa ya duvihaṃ.",
+      "translation": "World-space and non-world-space, and the measure of the universe are explained; souls and matter, dharma and adharma, time and space are of two kinds.",
+      "notes": "This representative verse encapsulates key cosmological concepts: the distinction between loka and aloka, the idea of a measurable universe (jaga-śreḍhi), and the enumeration of the six dravyas. It illustrates how Tiloyapannatti weaves doctrinal categories into its spatial description."
+    },
+    {
+      "title": "Tiloyapaṇṇatti, Mahādhikāra IV (Human World)",
+      "author": "Acharya Yativṛṣabha",
+      "original_text": "jambū-dīe ya bhūmi-ṭṭhāṇe, samuddā ya bahū bahū; rājāṇa-vaṃsa-parivāyā, manuṣsa-lōya-vivāyaṇā.",
+      "transliteration": "jambū-dīe ya bhūmi-ṭṭhāṇe, samuddā ya bahū bahū; rājāṇa-vaṃsa-parivāyā, manuṣsa-lōya-vivāyaṇā.",
+      "translation": "On the land of Jambūdvīpa there are many oceans; the lineages of kings and their retinues are described in the human world.",
+      "notes": "This sample verse reflects the descriptive style of the extensive fourth mahādhikāra, which combines geographical detail (Jambūdvīpa, oceans) with quasi-historical accounts of dynasties and social structures. It shows how cosmography and cultural history are intertwined in Tiloyapannatti."
+    },
+    {
+      "title": "Tiloyapaṇṇatti, Mahādhikāra IX (Realm of Liberation)",
+      "author": "Acharya Yativṛṣabha",
+      "original_text": "uddhaṃ siddha-silā ṭhittā, aṇanta-jīva-paripūrā; kāya-kamma-virahiyā, suha-samayaṃ tiṭṭhanti.",
+      "transliteration": "uddhaṃ siddha-silā ṭhittā, aṇanta-jīva-paripūrā; kāya-kamma-virahiyā, suha-samayaṃ tiṭṭhanti.",
+      "translation": "Above stands the rock of the Siddhas, filled with innumerable souls; free from bodily and karmic bonds, they abide in a state of bliss.",
+      "notes": "This verse typifies the concluding section on siddha-loka, emphasizing the transcendence of liberated souls beyond the structured realms of the three worlds. It completes the cosmological arc from the lowest hells to the highest, formless state of liberation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Tiloyapannatti is a purely cosmological text concerned only with maps of the universe.",
+      "reality": "While cosmography is its central focus, Tiloyapannatti also includes doctrinal discussions, ritual invocations, historical and genealogical material, and reflections on measurement and language. It is better understood as a comprehensive Karaṇānuyoga work that integrates cosmology with broader religious and cultural concerns."
+    },
+    {
+      "myth": "Tiloyapannatti is a canonical Jain Āgama accepted equally by all sects.",
+      "reality": "Tiloyapannatti is a post-canonical scholastic text, primarily transmitted and revered in the Digambara tradition. Śvetāmbara canons have their own cosmological treatises, and although there are shared ideas, the text itself is not part of the Śvetāmbara Āgama corpus and should not be treated as universally canonical."
+    },
+    {
+      "myth": "The numerical and spatial descriptions in Tiloyapannatti are intended as literal scientific astronomy that must match modern physics.",
+      "reality": "The measurements and structures in Tiloyapannatti belong to a pre-modern religious cosmology, using traditional units and symbolic hierarchies. They function to express moral and spiritual order rather than to provide empirically testable astrophysics. Comparing them directly to modern scientific models without recognizing their doctrinal and symbolic context leads to misunderstanding."
+    },
+    {
+      "myth": "Because Tiloyapannatti is technical and quantitative, it is irrelevant for lay spiritual practice.",
+      "reality": "For Jain tradition, cosmology is closely linked to ethical and spiritual orientation: understanding the vastness and stratification of the universe reinforces awareness of saṃsāra, the rarity of human birth, and the goal of liberation. Tiloyapannatti has therefore been used not only by specialists but also as a source of contemplative imagery and doctrinal teaching for laypeople."
+    }
+  ]
+}

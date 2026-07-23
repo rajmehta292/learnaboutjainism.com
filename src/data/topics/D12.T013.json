@@ -1,0 +1,63 @@
+{
+  "overview": "Samyaktva (Skt. *samyaktva*, Prakrit *samyaktava*) is the foundational Jain concept of Right Faith or Right Worldview. It marks the transition from spiritual delusion (*mithyātva*) to a state in which the soul perceives reality in alignment with the teachings of the Jinas. In the classical Jain path of liberation, samyaktva is the first of the three jewels (*ratnatraya*): Right Faith, Right Knowledge, and Right Conduct. Without samyaktva, progress toward liberation is considered impossible.\n\nAcross Jain traditions, samyaktva is described as a stable, non-fanatical, non-superstitious conviction in the reality of the soul, karma, the efficacy of the path taught by the Jinas, and the authority of the *tattvas* (fundamental principles). It is not blind belief; rather, it is a clarity of perception that arises when the soul’s innate capacity for discernment is no longer obscured by the most intense forms of deluding karma (*mohanīya karma*).\n\nIn the technical framework of the fourteen *guṇasthānas* (stages of spiritual development), samyaktva corresponds to the fourth stage, *samyagdarśana guṇasthāna*. This stage is achieved when the soul’s worldview becomes steady, non-erroneous, and free from the gross forms of doubt, perversity, and indecision. The Digambara and Śvetāmbara traditions agree on the essential nature of samyaktva, though they differ in some classificatory details, such as the number and types of samyaktva and the conditions under which it is lost or regained.\n\nSamyaktva is also described as having ethical and emotional dimensions. It manifests as reverence toward the Jinas, trust in the path, absence of hostility toward other beings, and a calm, non-violent disposition. Classical texts emphasize that samyaktva is not merely intellectual assent but a transformation of the soul’s orientation. It is the gateway to all higher spiritual practices, including vows, austerities, and meditative absorption.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyagdarśana-jñāna-cāritrāṇi mokṣamārgaḥ",
+      "translation": "Right Faith, Right Knowledge, and Right Conduct constitute the path to liberation.",
+      "notes": "This foundational aphorism (TS 1.1) establishes samyaktva as the first jewel. The text is accepted across Digambara and Śvetāmbara traditions, though commentaries differ in interpretation."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अविरतसम्यग्दृष्टेः",
+      "transliteration": "avirat-samyag-dṛṣṭeḥ",
+      "translation": "The stage of Right Faith without vows.",
+      "notes": "TS 7.1 describes the fourth guṇasthāna, where samyaktva arises. Commentaries explain that the soul has not yet adopted full vows but has achieved correct worldview."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "सम्यक्त्वं निःश्रेयसहेतुं",
+      "transliteration": "samyaktvaṃ niḥśreyasa-hetuṃ",
+      "translation": "Right Faith is the cause of the highest good.",
+      "notes": "Kundakunda emphasizes samyaktva as an internal awakening rather than external ritual correctness. The text is central in Digambara philosophy."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "दर्शनं सम्यग् यथार्थविज्ञानम्",
+      "transliteration": "darśanaṃ samyag yathārtha-vijñānam",
+      "translation": "Right Faith is true apprehension of reality.",
+      "notes": "This passage highlights the epistemic dimension of samyaktva as non-deluded perception."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "सम्यक्तवस्सुहावे",
+      "transliteration": "samyaktavassuhāve",
+      "translation": "Right Faith is auspicious.",
+      "notes": "The text describes qualities of one who has attained samyaktva, including serenity and non-violence."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Samyaktva is simply believing in Jainism.",
+      "reality": "Classical texts define samyaktva as a transformation of perception caused by the subsidence of deluding karma. It is not mere intellectual belief or cultural affiliation."
+    },
+    {
+      "myth": "Samyaktva requires initiation or monastic vows.",
+      "reality": "Samyaktva arises at the fourth guṇasthāna, before any vows are taken. Laypeople can attain samyaktva without becoming monks or nuns."
+    },
+    {
+      "myth": "Once attained, samyaktva can never be lost.",
+      "reality": "Both Digambara and Śvetāmbara traditions describe conditions under which samyaktva can be lost due to resurgence of deluding karma, though the technical details differ."
+    },
+    {
+      "myth": "Samyaktva is identical across all Jain traditions.",
+      "reality": "While the core meaning is shared, traditions differ in classifications such as *mithyātva*, *miśra-dṛṣṭi*, and types of samyaktva (e.g., *aśaṅka*, *nirvicikitsā*, *amūḍha-dṛṣṭi*)."
+    }
+  ]
+}

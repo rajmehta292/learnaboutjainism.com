@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, **jīva tattva** refers to the fundamental reality of living beings—sentient, conscious substances that possess inherent qualities such as knowledge, perception, bliss, energy, and the capacity for liberation. As one of the core *tattvas* (ontological categories), jīva is central to Jain metaphysics, ethics, and soteriology. Jain thinkers across traditions—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth—agree that jīva is beginningless, eternal, and distinct from *ajīva* (non-living substances). \n\nJīvas are infinite in number and vary in embodiment, ranging from liberated souls (*siddhas*) to embodied beings entangled in karmic matter. The defining characteristic of jīva is **upayoga**, the activity of consciousness, expressed as knowledge (*jñāna*) and perception (*darśana*). When obscured by karma, these qualities appear limited; when karma is destroyed, the soul manifests its pure, infinite nature. \n\nJain texts classify jīvas by the number of sense faculties (from one-sensed beings like plants to five-sensed beings like humans), by mobility (immobile vs. mobile), and by spiritual development (from the lowest states to the highest *guṇasthānas*). This taxonomy supports Jain ethics: recognizing the presence of jīva in all forms of life grounds the commitment to nonviolence (*ahiṃsā*). \n\nIn liberation, the jīva becomes a *siddha*, residing at the apex of the universe (*siddha-śilā*), free from karma, omniscient, and possessing infinite energy and bliss. Thus, jīva tattva is not merely a metaphysical category but the foundation of Jain spiritual practice, guiding the aspirant from bondage to freedom.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "जीवो जीवः",
+      "transliteration": "jīvo jīvaḥ",
+      "translation": "The living being is (defined as) that which possesses consciousness.",
+      "notes": "Tattvārtha Sūtra 2.8 provides the canonical definition of jīva as the substance characterized by consciousness (*caitanya*). Both Digambara and Śvetāmbara traditions accept this text, though commentarial interpretations differ."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Nemicandra Siddhānta Cakravartin",
+      "original_text": "उपयोगो लक्षणं जीवस्य",
+      "transliteration": "upayogo lakṣaṇaṃ jīvasya",
+      "translation": "The characteristic of the soul is upayoga, the activity of consciousness.",
+      "notes": "A Digambara primer on Jain ontology. This verse emphasizes *upayoga* as the essential mark of jīva, elaborated in later commentaries."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "सव्वे पाणाः सव्वे भूताः",
+      "transliteration": "savve pāṇāḥ savve bhūtāḥ",
+      "translation": "All living beings, all creatures (are to be regarded with care).",
+      "notes": "A foundational Śvetāmbara text emphasizing the universality of life and the ethical implications of recognizing jīva in all forms."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jīva is identical to the physical body.",
+      "reality": "Jain texts consistently teach that jīva is a distinct, eternal substance that merely occupies a body due to karmic bondage."
+    },
+    {
+      "myth": "Only humans possess jīva.",
+      "reality": "Jain ontology affirms jīva in plants, microorganisms, animals, and celestial and infernal beings, each with varying sensory capacities."
+    },
+    {
+      "myth": "Liberated souls retain subtle karmic traces or individuality shaped by past lives.",
+      "reality": "A siddha is completely free from all karmic matter; individuality remains only as the unique identity of the soul, not as personality or memory."
+    }
+  ]
+}

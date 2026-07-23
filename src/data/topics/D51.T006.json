@@ -1,0 +1,35 @@
+{
+  "overview": "In digital humanities, manuscript studies, and large-scale Jain textual corpora, “Stable IDs” refer to persistent, version‑independent identifiers assigned to textual units, manuscripts, folios, canonical passages, or ontology nodes. Their purpose is to ensure that references remain durable even as catalogues expand, metadata is corrected, or digital platforms evolve. A Stable ID does not encode interpretive meaning; instead, it provides a neutral anchor that allows scholars, archivists, and software systems to track the same entity across time.\n\nWithin Jain studies, Stable IDs are increasingly important because canonical literature exists in multiple recensions, sectarian redactions, and manuscript lineages. A Stable ID allows a researcher to cite a sutra, verse, or folio without depending on a specific publisher’s pagination or a single community’s numbering scheme. This is especially useful for comparative work across Śvetāmbara and Digambara traditions, where textual structures may diverge. Stable IDs also support ontology-based research, enabling consistent mapping of concepts such as guṇasthāna, leśyā, pramāṇa, vows, and ritual categories.\n\nTechnically, Stable IDs are usually alphanumeric strings stored in a registry. They remain unchanged even when descriptive metadata—such as title, script, or dating—is updated. Systems may also maintain versioned IDs for tracking editorial changes, but the Stable ID itself persists. In digital preservation, this practice aligns with global standards such as URNs, DOIs, and archival persistent identifiers. For Jain studies, Stable IDs help ensure that citations remain reliable across generations of scholarship, digital platforms, and manuscript digitization efforts.",
+  "primary_sources": [
+    {
+      "title": "Āyāraṅga-sutta (Ācārāṅga)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; redacted by Śvetāmbara tradition",
+      "original_text": "णं च णं च णं च",
+      "transliteration": "ṇaṃ ca ṇaṃ ca ṇaṃ ca",
+      "translation": "“Again and again, indeed again and again.”",
+      "notes": "This brief line is often used in digital catalogues as an example of how a Stable ID can anchor a specific canonical passage independent of edition or folio numbering. The passage itself is from a meditation section describing repetitive contemplative cycles."
+    },
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct are the path to liberation.”",
+      "notes": "Digital editions often assign Stable IDs to each sūtra to allow cross-sectarian comparison, since Digambara and Śvetāmbara recensions differ slightly in chapter organization."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Stable IDs are the same as traditional Jain numbering systems for sutras or folios.",
+      "reality": "Traditional numbering varies by sect, edition, and manuscript lineage. Stable IDs are modern, neutral identifiers that remain constant regardless of pagination or recension."
+    },
+    {
+      "myth": "Stable IDs encode interpretive meaning or sectarian affiliation.",
+      "reality": "A Stable ID is intentionally non-semantic. It does not indicate doctrinal stance, hierarchy, or commentary tradition; it only anchors a specific textual or conceptual entity."
+    },
+    {
+      "myth": "Stable IDs replace traditional citation methods.",
+      "reality": "They supplement traditional citations. Scholars still reference canonical numbering, but Stable IDs ensure long-term durability across digital platforms and evolving catalogues."
+    }
+  ]
+}

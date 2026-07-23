@@ -1,0 +1,43 @@
+{
+  "overview": "Temple anniversaries—often referred to in Jain communities as pratishtha‑jayanti, shikhar‑bandhan commemorations, or milestone years of a derasar or basadi—are community observances marking the date on which a temple was consecrated or ritually installed. While the practice is widespread across Digambara and Śvetāmbara traditions, it is not mandated by any primary canonical text; rather, it emerges from later community custom, inscriptional evidence, and temple‑management traditions. These anniversaries serve as moments to recall the original consecration rites (pratiṣṭhā‑vidhi), reaffirm the temple’s role as a space for darśana, and renew collective stewardship.\n\nHistorically, inscriptions from medieval Gujarat, Rajasthan, Karnataka, and Tamil Nadu record commemorations of temple renovations, re‑installations, and major repairs. These events were often linked to communal feasts (āhāra‑dāna), donations for lamp‑maintenance (dīpa‑dāna), and sponsorship of scriptural recitation. In modern practice, temple anniversaries may include pratikramaṇa, sāmāyika, collective recitation of the Navakāra Mantra, and lectures by scholars or monks—always subject to the guidance of living lineages and local sangha committees.\n\nFrom a doctrinal standpoint, temple anniversaries are not tied to karmic doctrine or gunasthāna progression. They are instead expressions of lay devotion (śrāvaka‑ācāra) and community memory. The rituals performed during such events must remain within the bounds of ahiṃsā, anukampa, and the ethical expectations for laypeople. No fasting beyond ordinary lay practice should be undertaken without qualified human guidance, and no ritual should be interpreted as guaranteeing spiritual merit beyond what is described in primary texts.\n\nBecause temple anniversaries are shaped by regional history, they vary widely: Digambara basadis may emphasize pañca‑kalyāṇaka iconography, while Śvetāmbara mūrtipūjaka derasars may highlight the original installation of images according to the Āgama‑based pratiṣṭhā sequences preserved in ritual manuals. Sthānakavāsī and Terāpanth traditions, which do not use images, may commemorate the founding of a sabhā or upāśraya rather than a temple. Across all traditions, the anniversary functions as a moment of communal reflection, ethical renewal, and gratitude toward the lineage of donors, artisans, and caretakers who sustain the sacred space.",
+  "primary_sources": [
+    {
+      "title": "Āvaśyaka Niryukti (referenced for temple‑related lay conduct)",
+      "author": "Traditionally attributed to Bhadrabāhu (commentarial strata vary)",
+      "original_text": "णं दंसणं पूव्वं करइ",
+      "transliteration": "ṇaṃ daṃsaṇaṃ pūvvaṃ karaï",
+      "translation": "“One should first perform proper darśana.”",
+      "notes": "While the text does not prescribe temple anniversaries, it establishes the primacy of orderly darśana and respectful conduct in sacred spaces. Later ritual manuals apply such principles to temple‑based observances."
+    },
+    {
+      "title": "Tiloyapaṇṇatti (for historical references to temple construction)",
+      "author": "Yativṛṣabha",
+      "original_text": "जिणालयं तु कुर्वन्ति पुण्णेण महतेण वा",
+      "transliteration": "jiṇālayaṃ tu kurvanti puṇṇeṇa mahateṇa vā",
+      "translation": "“Jina temples are built through great merit or noble intention.”",
+      "notes": "This verse is often cited in discussions of temple building and renovation. It does not mention anniversaries but provides a conceptual basis for viewing temple maintenance as meritorious."
+    },
+    {
+      "title": "Pratiṣṭhā‑kalpa traditions (Śvetāmbara ritual manuals)",
+      "author": "Various ritualists; manuscripts differ by region",
+      "original_text": "प्रतिष्ठा महोत्सवो जिनप्रतिमायाः शुद्धभावनां विधत्ते",
+      "transliteration": "pratiṣṭhā mahotsavo jina‑pratimāyāḥ śuddha‑bhāvanāṃ vidhatte",
+      "translation": "“The consecration festival establishes pure intention toward the Jina image.”",
+      "notes": "Anniversaries often recall the original consecration. Textual variants exist, and manuscripts should be consulted directly for precise wording."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Temple anniversaries are mandatory religious observances prescribed in the Jain Āgamas.",
+      "reality": "No canonical text mandates temple anniversaries. They are community traditions shaped by history, inscriptions, and local practice."
+    },
+    {
+      "myth": "Participating in a temple anniversary guarantees specific karmic benefits.",
+      "reality": "Primary texts do not assign fixed karmic outcomes to such events. Ethical conduct, ahiṃsā, and right intention remain the doctrinal basis for merit."
+    },
+    {
+      "myth": "All Jain traditions celebrate temple anniversaries in the same way.",
+      "reality": "Practices vary significantly: Digambara, Śvetāmbara mūrtipūjaka, Sthānakavāsī, and Terāpanth communities have distinct approaches depending on whether they use images, ritual manuals, or sabhā‑based commemorations."
+    }
+  ]
+}

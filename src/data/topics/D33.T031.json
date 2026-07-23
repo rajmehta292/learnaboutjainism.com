@@ -1,0 +1,67 @@
+{
+  "overview": "The International Image Interoperability Framework (IIIF, usually pronounced \"triple-eye-eff\") is a suite of open, web-based application programming interface (API) specifications designed to standardize the delivery, description, and interaction with digital images and other time-based media such as audio and video. It emerged from the cultural heritage sector—libraries, archives, museums, and research institutions—as a response to fragmented, institution-specific image delivery systems that made it difficult to compare, reuse, and annotate digitized materials across repositories.\n\nAt its core, IIIF decouples the server that hosts images or audiovisual resources from the client that displays and manipulates them. Any server that implements the IIIF APIs can be used by any IIIF-compliant viewer or application, enabling scholars, students, and the public to access high-resolution images and complex digital objects from multiple institutions in a single interface. This interoperability is achieved through rigorously defined URL patterns, JSON-LD data models, and linked data principles that describe how to request image regions, sizes, rotations, and qualities, and how to package sequences of images or media with structural and descriptive metadata.\n\nHistorically, IIIF began around 2011 as a collaboration among major institutions such as Stanford University Libraries, the British Library, the Bodleian Libraries at Oxford, and the Bibliothèque nationale de France. These organizations recognized that they were independently building similar deep-zoom and image-delivery infrastructures and decided to create shared specifications instead of duplicating effort. The first Image API specification (version 1.0) was released in 2012, followed by the Presentation API, which introduced the concept of a \"manifest\"—a JSON-LD document that describes the structure, sequence, and metadata of a digital object (for example, the pages of a manuscript or the frames of a film) and links them to image or media services.\n\nOver time, IIIF has expanded into a broader framework governed by the IIIF Consortium, formally established in 2015. The Consortium coordinates specification development, community governance, outreach, and implementation support. The current ecosystem includes several core APIs: the Image API (for pixel delivery and transformations), the Presentation API (for structural and descriptive metadata via manifests, collections, and ranges), the Content Search API (for searching within annotations and textual content associated with IIIF resources), the Change Discovery API (for announcing updates and enabling harvesting), the Content State API (for describing a particular state or view of a resource), and the Authorization Flow API (for managing access-controlled content. Together, these APIs support deep zoom, page-by-page navigation, complex audiovisual structures, annotations, captions, and cross-institutional recombination of dispersed materials.\n\nTechnically, the Image API defines a standardized URI pattern that encodes the identifier of the source image, the region to be extracted, the desired size, rotation, quality, and output format. Clients can request small tiles for deep-zoom viewers, thumbnails, or cropped regions without needing to know the internal storage format. The Presentation API, using JSON-LD, models digital objects as manifests that contain sequences of canvases (abstract surfaces), each linked to one or more image or media resources. This abstraction allows annotations, transcriptions, translations, and other metadata to be attached to specific regions or time segments, enabling rich scholarly interaction.\n\nFrom a community perspective, IIIF is as much a social and organizational framework as a technical one. Specifications are developed through open, use-case-driven processes with public review, and implementations are shared across institutions. This has fostered a growing ecosystem of compatible servers, viewers, and tools—such as OpenSeadragon-based viewers, annotation platforms, and research environments—that can be plugged into different repositories without bespoke integration. The framework supports linked open data practices, making it easier to connect IIIF resources with external vocabularies, authority files, and knowledge graphs.\n\nIn terms of scope and limitations, IIIF focuses on interoperability and standardized access rather than prescribing how institutions should digitize, catalog, or preserve their materials. It does not replace local collection management systems or metadata standards like MARC, Dublin Core, or TEI; instead, it provides a layer for delivering and presenting digital surrogates in a consistent way. There are ongoing discussions in the community about best practices for modeling complex objects, representing rights and licenses, and integrating IIIF with emerging web standards. Translation and interpretation issues arise mainly in documentation and in how different institutions map their internal data models to IIIF structures, but the specifications themselves are versioned, openly documented, and subject to consensus-based revision.\n\nFor scholars of religion, history, or manuscript studies—including those working on Jain texts and artifacts—IIIF has become a crucial infrastructure. It allows dispersed folios, inscriptions, and illustrated manuscripts to be virtually reunited, compared at high resolution, and annotated collaboratively, without requiring all materials to be hosted in a single repository or viewed through a single proprietary interface. While IIIF is a technical framework rather than a religious authority, its role in enabling transparent, source-grounded study of primary materials aligns with rigorous academic approaches to scriptural and historical research.",
+  "primary_sources": [
+    {
+      "title": "IIIF Image API 3.0 Specification",
+      "author": "IIIF Consortium Editorial Committee",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The IIIF Image API 3.0 specification defines a web service that returns images in response to HTTP(S) requests whose URIs encode the identifier of the image, the region of interest, the requested size, rotation, quality, and format. It also specifies an information document (info.json) that describes the technical characteristics and capabilities of the image service, serialized as JSON-LD.",
+      "notes": "This is a Tier A technical primary source for understanding how IIIF standardizes image delivery. It provides the canonical definitions of parameters, URI patterns, and response formats. Claims about deep zoom, tiled delivery, and interoperable image access in the overview are grounded in this specification."
+    },
+    {
+      "title": "IIIF Presentation API 3.0 Specification",
+      "author": "IIIF Consortium Editorial Committee",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The IIIF Presentation API 3.0 specification defines a JSON-LD data model and web service for describing digital objects as manifests, collections, and ranges. It introduces canvases as abstract surfaces or time-spans to which image, audio, or video resources are associated, and it provides mechanisms for attaching structural metadata, descriptive metadata, and annotations to these canvases.",
+      "notes": "This specification is the primary source for the concept of manifests, canvases, sequences, and ranges mentioned in the overview. It underpins statements about page-by-page navigation, complex audiovisual structures, and the ability to virtually recombine dispersed materials. It is a Tier A technical text within the IIIF corpus."
+    },
+    {
+      "title": "How It Works — IIIF (Official IIIF Documentation)",
+      "author": "IIIF Consortium",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The \"How It Works\" guide provides a plain-language explanation of the IIIF Image and Presentation APIs, describing how images and audiovisual files are delivered from servers to web environments, how deep zoom and structural navigation are enabled, and how manifests bundle metadata and resources for viewing.",
+      "notes": "This community documentation is a Tier D educational source that clarifies the practical functioning of IIIF for non-specialists. It supports the overview’s explanations of deep zoom, structure, annotation, and the distinction between delivering and viewing objects. While not a formal specification, it reflects consensus understanding within the IIIF community."
+    },
+    {
+      "title": "The International Image Interoperability Framework (IIIF): A community & technology approach for web-based images",
+      "author": "Stuart Snydman, Robert Sanderson, Tom Cramer",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This scholarly article describes the origins, rationale, and benefits of IIIF, outlining motivating use cases for image interoperability, the technical framework and APIs, and examples of IIIF-compatible software for image analysis, comparison, and annotation. It emphasizes the community-driven process and future directions of the framework.",
+      "notes": "This is a Tier C peer-reviewed or authoritative scholarly source that grounds historical and contextual claims in the overview, such as the 2011 origins, the involvement of major libraries, and the community and technology approach. It also documents early use cases that inform modern applications in manuscript and cultural heritage studies."
+    },
+    {
+      "title": "International Image Interoperability Framework (IIIF) — Metadata Standards Index entry",
+      "author": "IIIF-C / Metadata Standards Index editors",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The Metadata Standards Index entry on IIIF summarizes the framework as a set of open API specifications for delivering high-quality digital objects online at scale, listing the current APIs (Image, Presentation, Authorization Flow, Content Search, Change Discovery, Content State) and noting their JSON-LD serialization and cultural heritage focus.",
+      "notes": "This entry is a Tier D community education source that corroborates the list of current APIs and their purposes given in the overview. It also supports statements about IIIF’s role as a de facto standard in libraries, archives, and museums. Minor differences in wording or emphasis across such summaries reflect interpretation rather than disagreement about core functionality."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "IIIF is a single software product or viewer that institutions must install.",
+      "reality": "IIIF is not a monolithic software application but a set of open, versioned API specifications and data models. Institutions can choose from multiple compatible servers and viewers—or develop their own—as long as they implement the IIIF APIs correctly. This modularity is what enables interoperability and avoids lock-in to a single vendor or tool."
+    },
+    {
+      "myth": "IIIF automatically handles digitization, cataloging, and long-term preservation of cultural heritage materials.",
+      "reality": "IIIF focuses on standardized access and presentation of already digitized resources; it does not prescribe or automate how materials are scanned, described in local cataloging systems, or preserved over time. Institutions still need robust digitization workflows, metadata standards, and preservation strategies. IIIF sits as a delivery and interaction layer on top of these existing practices."
+    },
+    {
+      "myth": "Using IIIF requires all participating institutions to adopt identical metadata schemas and internal data models.",
+      "reality": "IIIF provides a common way to expose structural and descriptive metadata via JSON-LD manifests, but it does not force institutions to abandon their internal schemas. Local data can be mapped into IIIF structures, and linked data techniques allow connections to external vocabularies. Differences in internal modeling persist, yet IIIF enables cross-institutional viewing and comparison despite this diversity."
+    },
+    {
+      "myth": "IIIF is relevant only for images and has no role in audio or video collections.",
+      "reality": "While IIIF originated in image delivery, the Presentation API and related specifications explicitly support time-based media such as audio and video. Canvases can represent temporal spans, and manifests can describe complex audiovisual structures, including multiple reels, captions, transcripts, and annotations. IIIF is increasingly used for film, sound recordings, and other non-image resources."
+    },
+    {
+      "myth": "Adopting IIIF means surrendering control over access restrictions and rights management to the Consortium.",
+      "reality": "IIIF does not dictate institutional policies on rights, licensing, or access control. The Authorization Flow API and related patterns provide technical mechanisms for enforcing local access rules, but decisions about what is open, restricted, or embargoed remain with each institution. IIIF’s goal is to standardize how authorized clients interact with services, not to override legal or ethical frameworks."
+    }
+  ]
+}

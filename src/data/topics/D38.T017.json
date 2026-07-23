@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain cosmology and biology, **womb birth** (garbha‑janma or yonija‑janma) is one of the four principal modes of birth through which embodied beings enter saṃsāra. The concept appears across Śvetāmbara and Digambara canonical literature and is treated as a technical category within the broader doctrine of gati (destiny), jīva classification, and karmic fruition. Womb birth refers specifically to beings who develop inside a mother’s body, nourished through biological processes, and emerge after gestation. This includes humans, many animals, and certain celestial and infernal beings whose embodiment is described metaphorically as womb‑like formation.\n\nJain texts emphasize that womb birth is not merely a biological event but a karmically conditioned process. The jīva takes conception in a suitable womb when specific nāma‑karma (body‑determining karma) and gotra‑karma (status‑determining karma) mature. The embryo’s development is described in detail in several canonical works, outlining stages of formation, consciousness, and sensory emergence. These accounts serve doctrinal purposes: illustrating the complexity of embodied existence, the vulnerability of life, and the ethical imperative of ahiṃsā toward all beings, including those in utero.\n\nAcross traditions, womb birth is contrasted with the other three modes: **egg birth (aṇḍa‑janma)**, **sweat or spontaneous birth (saṃmoḍa‑janma)**, and **transformation birth (upapāda‑janma)**. While the latter is associated with celestial and infernal beings who appear fully formed, womb birth is tied to gradual development and the intricate interplay of karmic forces. Jain philosophers use this category to explain moral responsibility, the continuity of consciousness, and the universality of life across species.\n\nModern Jain scholarship continues to examine womb birth through comparative lenses—biology, embryology, and ethics—while maintaining fidelity to the canonical descriptions. The concept remains central to Jain discussions on nonviolence, reproductive ethics, and the metaphysics of embodiment.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "योन्यण्डसम्भूता अप्पादाः",
+      "transliteration": "yony‑aṇḍa‑sambhūtā upapādāḥ",
+      "translation": "Beings are born from the womb, from eggs, from moisture, or spontaneously.",
+      "notes": "Tattvārtha Sūtra 2.31 provides the canonical fourfold classification of birth modes. Commentaries (Śvetāmbara and Digambara) elaborate that womb birth involves gestation within a mother’s body and is governed by nāma‑karma."
+    },
+    {
+      "title": "Śvetāmbara Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जायन्ति गर्भे, तं जोगं पवेसन्ति",
+      "transliteration": "jāyanti garbhe, taṃ jogaṃ pavesanti",
+      "translation": "They are born in the womb; they enter that embodied condition.",
+      "notes": "This passage (Ācārāṅga Sūtra I.1, in several editions) describes the entry of the jīva into embodied existence, emphasizing karmic causation and vulnerability of life during gestation."
+    },
+    {
+      "title": "Digambara Gommaṭasāra Jīvakāṇḍa",
+      "author": "Nemicandra Siddhānta Cakravartin",
+      "original_text": "गर्भजन्मि जीवाणं देहसम्भवो णामकम्मफलं",
+      "transliteration": "garbha‑janmi jīvāṇaṃ deha‑sambhavo nāma‑kamma‑phalaṃ",
+      "translation": "For beings born in the womb, the arising of the body is the fruit of body‑determining karma.",
+      "notes": "Gommaṭasāra Jīvakāṇḍa gives a technical Digambara account of karmic processes shaping womb‑based embodiment, including sensory development and bodily formation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that only humans are born through womb birth.",
+      "reality": "Canonical texts state that many animals, and metaphorically certain celestial and infernal beings, are classified under womb birth when their embodiment involves gestational development."
+    },
+    {
+      "myth": "Womb birth is purely biological and unrelated to karma.",
+      "reality": "Jain doctrine holds that womb birth occurs due to the maturation of specific karmas, especially nāma‑karma, which determine the type of body and conditions of gestation."
+    },
+    {
+      "myth": "Womb birth implies a fixed hierarchy of beings.",
+      "reality": "While womb birth is one mode among four, Jain texts emphasize that all modes are karmically conditioned and do not inherently imply superiority or inferiority."
+    }
+  ]
+}

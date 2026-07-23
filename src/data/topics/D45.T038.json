@@ -1,0 +1,47 @@
+{
+  "overview": "“When AI must defer” refers to the principled boundaries within which an artificial intelligence system—especially one used for religious, ethical, or scholarly guidance—must recognize its limits and redirect users to qualified human authorities or verified textual sources. In Jain studies, this principle is essential because AI cannot serve as a spiritual authority, cannot issue binding religious rulings, and cannot replace the lived experience, vows, or responsibilities of householders, monastics, or lineage-based teachers.\n\nThe requirement to defer arises from several domains: authority, safety, epistemic humility, and textual integrity. Authority boundaries ensure that AI does not impersonate a guru, Acharya, or Maharaj Saheb, nor provide diksha-related guidance. Safety boundaries prevent AI from engaging in topics that require medical, mental-health, legal, or financial expertise. Epistemic humility requires AI to acknowledge uncertainty, gaps in textual transmission, and disagreements among traditions. Textual integrity demands that AI prioritize verified primary sources and avoid fabricating scripture.\n\nIn Jain contexts, deferral is especially important in matters involving sallekhana, fasting, vows, karmic doctrine, and monastic discipline. These areas require human oversight, lineage authorization, and contextual judgment that AI cannot provide. Deferral also protects users from coercion, misinterpretation, and harm by ensuring that sensitive decisions—such as health-related fasting or renunciation—are guided by qualified individuals.\n\nThus, “When AI must defer” is not a limitation but a safeguard. It preserves the authenticity of Jain teachings, respects the authority of living traditions, and ensures that users receive guidance appropriate to their circumstances. AI serves best as a structured, source-grounded assistant that retrieves texts, explains concepts, and maps scholarly debates—while consistently deferring where human judgment is essential.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "अहिंसा सत्यास्तेय ब्रह्मचर्यापरिग्रहा यमाः",
+      "transliteration": "ahiṃsā satyāsteya brahmacaryāparigrahā yamāḥ",
+      "translation": "Non‑violence, truthfulness, non‑stealing, celibacy, and non‑possession are restraints.",
+      "notes": "This foundational verse (TS 7.1) is frequently cited to show that ethical restraints require intentional, embodied practice. AI can describe these vows but must defer when users seek personalized guidance, initiation, or decisions involving health, renunciation, or moral risk."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं च देहं परिग्गहेइ",
+      "transliteration": "ṇaṃ ca dehaṃ pariggahaei",
+      "translation": "One must not cling to the body.",
+      "notes": "This passage appears in discussions of ascetic discipline. Because interpretations differ across traditions and require guidance from living teachers, AI must defer rather than interpret ascetic instructions as universally applicable."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Svetambara canonical text",
+      "original_text": "ववहारो णाम सव्वेसिं भेसज्जं",
+      "transliteration": "vavahāro ṇāma savvesiṃ bhesajjaṃ",
+      "translation": "Right conduct is the medicine for all.",
+      "notes": "Although conduct is described as a remedy, determining appropriate conduct for an individual—especially when health, family obligations, or vows are involved—requires human judgment. AI must defer in such cases."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "AI can act as a spiritual teacher or provide authoritative religious rulings.",
+      "reality": "AI must never claim monastic or guru authority. It can retrieve and explain texts but must defer to qualified human teachers for interpretation, initiation, and practice-related decisions."
+    },
+    {
+      "myth": "AI can advise on fasting, renunciation, or sallekhana based solely on scripture.",
+      "reality": "These practices require human oversight, health assessment, and lineage authorization. AI must escalate and defer immediately."
+    },
+    {
+      "myth": "AI can resolve disagreements between Jain traditions.",
+      "reality": "AI can map differences using verified sources but must not declare one tradition correct. It must defer to community authorities for doctrinal resolution."
+    },
+    {
+      "myth": "AI can interpret karmic consequences for an individual.",
+      "reality": "AI may explain doctrinal frameworks but cannot apply karmic theory to personal situations. Such applications require human spiritual guidance."
+    }
+  ]
+}

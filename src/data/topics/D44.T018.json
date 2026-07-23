@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain philosophical and ethical literature, “corruption” is not treated as a single standalone doctrinal category but is addressed through broader discussions of moral decay, unethical conduct, and the weakening of right faith, right knowledge, and right conduct. Jainism frames corruption primarily as a manifestation of internal impurities—kashayas (passions) such as anger, pride, deceit, and greed—that distort judgment and lead individuals or institutions away from ethical clarity. In social contexts, corruption is understood as the misuse of power, wealth, or influence driven by attachment (raga) and aversion (dvesha), both of which bind karma and obstruct spiritual progress.\n\nFrom a doctrinal standpoint, corruption is seen as a symptom of mithyātva (wrong belief) and the dominance of mohaniya karma (deluding karma). When delusion prevails, individuals rationalize harmful actions, prioritize personal gain, and disregard ahiṃsā (non‑violence), satya (truthfulness), and asteya (non‑stealing). Thus, corruption is not merely a social ill but a spiritual obstacle that reinforces karmic bondage and delays advancement through the guṇasthānas (stages of spiritual development).\n\nJain texts also address corruption in governance, trade, and community life. The Tattvārtha Sūtra and various commentaries describe how deceit, exploitation, and manipulation violate core vows and generate heavy paap (harmful karma). Lay ethics (śrāvaka‑ācāra) literature emphasizes transparency, fair dealing, and restraint as antidotes to corruption. Modern Jain thinkers extend these principles to contemporary issues such as political bribery, corporate misconduct, environmental exploitation, and institutional malpractice, arguing that corruption ultimately arises from unchecked greed and the erosion of ethical discipline.\n\nAcross traditions—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth—corruption is consistently framed as a failure of inner integrity. The remedy is not only external reform but internal purification through self‑reflection, adherence to vows, reduction of passions, and cultivation of compassion and honesty. In this way, Jainism approaches corruption as both a social challenge and a spiritual condition requiring sustained ethical vigilance.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "लोभः पापस्य कारणम्",
+      "transliteration": "lobhaḥ pāpasya kāraṇam",
+      "translation": "Greed is the cause of sin.",
+      "notes": "This aphorism is not a standalone sūtra but reflects a recurring doctrinal theme in the text and its commentaries: greed (lobha) generates unethical actions and binds harmful karma. Commentators such as Pūjyapāda (Digambara) and Siddhasena Gaṇin (Śvetāmbara) explain that deceit, exploitation, and misuse of resources arise from greed, forming the basis of corruption."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Attributed to Śivārya (Śvetāmbara)",
+      "original_text": "असत्यम् अस्नातकं च सर्वं पापं समाश्रयेत्",
+      "transliteration": "asatyam asnātakaṃ ca sarvaṃ pāpaṃ samāśrayet",
+      "translation": "Falsehood and impurity become the refuge of all sin.",
+      "notes": "The text links falsehood (asatya) with moral degradation. Commentaries interpret this as a warning against deceitful conduct in trade, governance, and daily life—key components of corruption."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Anonymous (Śvetāmbara canonical text)",
+      "original_text": "लोभो महा दुःखहेतु:",
+      "transliteration": "lobho mahā duḥkhahetuḥ",
+      "translation": "Greed is the great cause of suffering.",
+      "notes": "This passage is used in Jain ethics to illustrate how greed leads to exploitation, dishonesty, and social harm. Traditional teachers apply it to corruption in economic and political life."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Anonymous (Śvetāmbara canonical text)",
+      "original_text": "जगति लोभो महा रोगो",
+      "transliteration": "jagati lobho mahā rogo",
+      "translation": "In the world, greed is a great disease.",
+      "notes": "Although metaphorical, this line is frequently cited in discussions of moral decline. Commentators describe corruption as a societal manifestation of this ‘disease’ of greed."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism treats corruption only as a social or political problem.",
+      "reality": "Jainism frames corruption primarily as a spiritual issue rooted in passions and deluding karma. Social corruption is seen as an outward expression of inner ethical decay."
+    },
+    {
+      "myth": "Corruption is not discussed in early Jain texts.",
+      "reality": "While the term ‘corruption’ is modern, Jain canonical texts extensively address its underlying causes—greed, deceit, falsehood, and exploitation—through vows, ethical rules, and karmic theory."
+    },
+    {
+      "myth": "Eliminating external corruption is sufficient for ethical purity.",
+      "reality": "Jainism emphasizes internal purification. Without reducing passions and attachments, external reforms cannot fully address the roots of corruption."
+    }
+  ]
+}

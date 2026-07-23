@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain intellectual history, the term “life sciences” can be understood as the broad study of living beings (jīva), their characteristics, classifications, capacities, and ethical relationships. While modern biology relies on empirical experimentation, Jain life-science discourse is rooted in canonical descriptions of jīva, karmic processes, and the interdependence of organisms. Across Śvetāmbara and Digambara traditions, life sciences encompass ontology, physiology, ecology, and ethics.\n\nJain texts describe life as beginning with the presence of consciousness (cetana). All living beings—from microorganisms to humans—possess consciousness, though its manifestation varies according to the number of senses (indriyas) and karmic conditions. The canonical literature outlines five categories of sense-capacity: one-sensed beings (ekendriya) such as earth-bodied, water-bodied, fire-bodied, air-bodied, and plant-bodied organisms; two-sensed beings (dvendriya) like worms; three-sensed beings (trivendriya) such as ants; four-sensed beings (caturendriya) like flies; and five-sensed beings (pañcendriya) including humans and animals.\n\nJain life sciences also include detailed accounts of bodily structures (śarīra), vitalities (prāṇa), and the karmic mechanisms that shape biological form. The tradition’s ecological insights emphasize non-harm (ahiṃsā) toward all forms of life, recognizing the complexity and vulnerability of living systems. This ethical orientation influences Jain dietary norms, environmental practices, and medical caution.\n\nIn comparative perspective, Jain life sciences offer a distinctive model: consciousness is universal, life is multidimensional, and ethical responsibility extends to even the smallest organisms. Modern scholars often explore how Jain classifications parallel microbiology, environmental science, and cognitive studies, while acknowledging differences in method and purpose.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "जीवास्तिकायः",
+      "transliteration": "jīvāstikāyaḥ",
+      "translation": "“The living beings constitute an extended category.”",
+      "notes": "Tattvārtha Sūtra 5.1 introduces the ontology of living beings. Commentaries across traditions expand this into detailed classifications of organisms, their senses, and vitalities."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Śvetāmbara canon, attributed to Mahāvīra’s disciples",
+      "original_text": "एगिंदियाणं पओड्हा",
+      "transliteration": "egindiyāṇaṃ paoḍhā",
+      "translation": "“Plants are one-sensed beings.”",
+      "notes": "This passage is part of the canonical enumeration of one-sensed organisms. The text also describes earth-bodied, water-bodied, fire-bodied, and air-bodied beings."
+    },
+    {
+      "title": "Praśnavyākaraṇa",
+      "author": "Śvetāmbara canon",
+      "original_text": "पाणगुणा",
+      "transliteration": "pāṇaguṇā",
+      "translation": "“The vitalities (prāṇas) of living beings…”",
+      "notes": "The Praśnavyākaraṇa provides one of the most systematic lists of vitalities, including respiration, lifespan, body, senses, and energy."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama",
+      "author": "Digambara canon, attributed to Puṣpadanta and Bhūtabali",
+      "original_text": "जीवस्य कर्मबंधः",
+      "transliteration": "jīvasya karmabandhaḥ",
+      "translation": "“The living being is bound by karma.”",
+      "notes": "The text explains how karmic influx and bondage determine biological form, sensory capacity, and lifespan."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain life sciences reject all forms of empirical observation.",
+      "reality": "Jain texts rely on systematic observation of living beings, though framed within a karmic and ethical ontology rather than modern experimental biology."
+    },
+    {
+      "myth": "Jainism teaches that microorganisms are purely symbolic beings.",
+      "reality": "Canonical texts explicitly describe subtle one-sensed organisms, including water-bodied and air-bodied beings, which many scholars compare to microbial life."
+    },
+    {
+      "myth": "All living beings in Jainism have identical capacities.",
+      "reality": "Jain life sciences classify beings by senses, vitalities, and karmic conditions, resulting in diverse biological and cognitive capacities."
+    }
+  ]
+}

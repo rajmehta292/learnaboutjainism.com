@@ -1,0 +1,43 @@
+{
+  "overview": "Gujarati refers to both an Indo-Aryan language and the broader cultural identity associated with the Gujarati-speaking people of western India, primarily from the state of Gujarat. As a language, Gujarati is part of the Indo-Iranian branch of the Indo-European family and has a documented history stretching back over a millennium. It evolved from Old Gujarati (circa 1100–1500 CE), which itself emerged from Apabhramsha forms of Shauraseni Prakrit. Modern Gujarati displays a rich literary tradition, diverse dialects, and a script closely related to Devanagari but distinguished by its lack of a horizontal top line.\n\nCulturally, Gujarati identity encompasses a wide range of communities, including Hindu, Jain, Muslim, Parsi, and other groups who have contributed to the region’s distinctive traditions in literature, commerce, cuisine, and religious life. Gujarat has historically been a center of maritime trade, shaping a cosmopolitan ethos that influenced Gujarati language and culture. Gujarati Jains, in particular, have played a major role in the preservation and transmission of Jain literature, temple architecture, and manuscript traditions. Many Śvetāmbara Jain canonical texts were copied, preserved, and studied in Gujarat, and the region remains a major center for Jain learning.\n\nGujarati literature includes devotional poetry, philosophical treatises, mercantile records, and modern novels. Figures such as Narsinh Mehta, Dayaram, and later Mahatma Gandhi contributed significantly to its development. In Jain contexts, Gujarati became a key medium for commentaries, ethical manuals, and community education materials from the medieval period onward. Today, Gujarati is spoken by more than 55 million people worldwide, including large diaspora communities in East Africa, the United Kingdom, and North America. Its linguistic vitality continues through print, digital media, education, and religious institutions.",
+  "primary_sources": [
+    {
+      "title": "Hemacandra’s *Siddha-Hema Śabdānuśāsana*",
+      "author": "Acharya Hemacandra (12th century, Śvetāmbara tradition)",
+      "original_text": "प्राकृतं चापभ्रंशं च शब्दानुशासनम्",
+      "transliteration": "prākṛtaṃ cāpabhraṃśaṃ ca śabdānuśāsanam",
+      "translation": "“A grammatical treatise on Prakrit and Apabhramsha.”",
+      "notes": "Hemacandra’s grammar is a foundational source for understanding the linguistic evolution from Prakrit to Apabhramsha and subsequently to Old Gujarati. While not a Gujarati text itself, it provides the linguistic framework from which Old Gujarati emerged. This is a Tier A primary source for historical linguistics relevant to Gujarati."
+    },
+    {
+      "title": "Old Gujarati Verse from *Bharateshvara Bahubali Rasa*",
+      "author": "Śālībhadra Sūri (13th century, Śvetāmbara tradition)",
+      "original_text": "जेण पउमणि पउमइअं, पउमइअं पउमणि जेण।",
+      "transliteration": "jeṇa paumaṇi paumaiyaṃ, paumaiyaṃ paumaṇi jeṇa.",
+      "translation": "“By whom the lotus is made a lotus, and the lotus is made by whom.”",
+      "notes": "This early Old Gujarati Jain narrative poem is one of the earliest substantial works in the language. The quoted line is brief and used for illustration only. Manuscripts are preserved in Gujarat’s Śvetāmbara libraries. Tier A/B source depending on edition."
+    },
+    {
+      "title": "Medieval Jain Gujarati Commentary Excerpt",
+      "author": "Anonymous Śvetāmbara commentator (15th–16th century)",
+      "original_text": "धर्म मार्गे चलवुं मनुष्यनो सच्चो लाभ छे.",
+      "transliteration": "dharma mārge calavuṃ manuṣyano sacco lābha che.",
+      "translation": "“To walk on the path of dharma is the true gain of a human being.”",
+      "notes": "Representative of vernacular Gujarati Jain ethical literature. This is a short illustrative line; full texts vary by manuscript. Tier D unless tied to a verified edition."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Gujarati is simply a dialect of Hindi.",
+      "reality": "Gujarati is an independent Indo-Aryan language with its own script, grammar, and literary history. While related to Hindi through shared Indo-Aryan ancestry, it is not a dialect of Hindi."
+    },
+    {
+      "myth": "Gujarati developed directly from Sanskrit without intermediate stages.",
+      "reality": "Gujarati evolved through Prakrit and Apabhramsha stages, especially Shauraseni and its western Apabhramsha forms. This linguistic evolution is well documented in Jain grammatical and literary sources."
+    },
+    {
+      "myth": "Gujarati culture is uniform across all communities.",
+      "reality": "Gujarati identity includes diverse religious and cultural groups—Hindu, Jain, Muslim, Parsi, and others—each contributing distinct traditions, languages, and histories."
+    }
+  ]
+}

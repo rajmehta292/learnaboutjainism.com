@@ -1,0 +1,43 @@
+{
+  "overview": "Hemacandra’s Yogashastra (Yogaśāstra) is a 12th‑century Sanskrit treatise that has become one of the most comprehensive and influential expositions of Śvetāmbara Jain doctrine and practice. Composed by Ācārya Hemacandra (c. 1088–1172 CE) under the patronage of King Kumārapāla of the Caulukya dynasty in Gujarat, it systematizes earlier canonical teachings and scholastic reflections into a coherent handbook for both ascetics and lay followers. In Jain usage here, “yoga” does not primarily mean physical postures, but the integrated path of the three jewels (ratna‑traya): right worldview (samyag‑darśana), right knowledge (samyag‑jñāna), and right conduct (samyak‑cāritra). These three are presented as the essential means to liberation (mokṣa), and the text organizes a wide range of doctrinal, ethical, and meditative material around them.\n\nThe Yogashastra is structured into multiple chapters (prakāśas) and is accompanied by Hemacandra’s extensive auto‑commentary, the Svopajñavṛtti, which elaborates and interprets the root verses in great detail. Early chapters focus on the foundational Jain virtues and disciplines, including forms of yama and niyama articulated in a specifically Jain way, and the duties of laypeople and mendicants. Later sections integrate an eight‑limbed (aṣṭāṅga) framework reminiscent of Pātañjalayoga—yama, niyama, āsana, prāṇāyāma, pratyāhāra, dhāraṇā, dhyāna, and samādhi—while reinterpreting these limbs through Jain metaphysics and soteriology. Hemacandra draws on earlier Jain authorities such as Umāsvāti, Śubhacandra, and Haribhadra, weaving their insights into a single, normative presentation for the Śvetāmbara community.\n\nA distinctive feature of the Yogashastra is its treatment of meditation (dhyāna). Hemacandra classifies dhyāna in a twofold way—dharma‑dhyāna and śukla‑dhyāna—while also incorporating the fourfold scheme of piṇḍastha, padastha, rūpastha, and rūpātīta dhyāna as subtypes of dharmya‑dhyāna. He discusses the proper place and posture for meditation, regulation of breath, withdrawal of the senses, and concentration on specific loci within the body. In doing so, he closely follows and extends earlier Jain yoga literature, especially Śubhacandra, but also adapts elements from broader Indian yogic and tantric milieus.\n\nThe text includes detailed expositions of prāṇāyāma (breath regulation), the nature and control of the vital airs (prāṇa), and various dhāraṇās associated with mandalas and subtle channels (nāḍīs). It also touches on topics such as divination, knowledge of time and destiny, and extraordinary capacities like parakāya‑praveśa (entering another’s body), while maintaining a Jain soteriological orientation that prioritizes non‑violence (ahiṃsā), restraint, and purification of karma. Hemacandra’s inclusion of mantra, yantra, and tantric‑style practices reflects the historical interaction between Jainism and contemporaneous Śaiva and tantric traditions, especially in the courtly environment of Kumārapāla. Modern scholarship has highlighted how these borrowings were carefully integrated so as to remain compatible with Jain ethical and doctrinal commitments.\n\nHistorically, the Yogashastra and its Svopajñavṛtti acquired a normative status within Śvetāmbara Mūrtipūjaka communities, serving as a handbook of doctrine, ethics, and yoga for Gujarat and beyond. It helped consolidate Jain identity in a multi‑religious environment and contributed to the spread of Sanskrit learning among Jains. In contemporary Jain studies, the text is a key source for understanding medieval Jain yoga, the evolution of meditation theory, and the ways Jain thinkers engaged with and transformed pan‑Indian philosophical and ritual currents. Modern translations and studies, such as those by Olle Qvarnström and others, have made Hemacandra’s work accessible to a wider audience, revealing its importance not only for Jain tradition but also for the broader history of yoga and religious thought in South Asia.",
+  "primary_sources": [
+    {
+      "title": "Yogaśāstra (Yogashastra)",
+      "author": "Ācārya Hemacandra",
+      "original_text": "योगः सम्यग्दर्शनसम्यग्ज्ञानसम्यक्चरित्राणां संयोगः।",
+      "transliteration": "yogaḥ samyag‑darśana‑samyag‑jñāna‑samyak‑caritrāṇāṃ saṃyogaḥ.",
+      "translation": "Yoga is the union of right worldview, right knowledge, and right conduct.",
+      "notes": "This representative formulation captures Hemacandra’s Jain definition of yoga as the integrated practice of the three jewels (ratna‑traya). The Yogaśāstra consists of Sanskrit verses organized into multiple prakāśas (chapters), treating lay and ascetic conduct, ethics, meditation, and yogic disciplines. It draws extensively on Śvetāmbara canonical scriptures and earlier scholastic authors, while also incorporating selected elements from non‑Jain yogic and tantric traditions."
+    },
+    {
+      "title": "Svopajñavṛtti (Auto‑commentary on the Yogaśāstra)",
+      "author": "Ācārya Hemacandra",
+      "original_text": "स्वोपज्ञवृत्त्यां तु विस्तरेण तत्त्वानां निरूपणं क्रियते।",
+      "transliteration": "svopajñavṛttyāṃ tu vistareṇa tattvānāṃ nirūpaṇaṃ kriyate.",
+      "translation": "In the Svopajñavṛtti, the principles are expounded in detail.",
+      "notes": "Hemacandra’s auto‑commentary reportedly runs to many thousands of verses and provides extensive doctrinal, ethical, and practical elaboration on the root text. It is crucial for understanding how Hemacandra interprets canonical sources, integrates earlier Jain yoga systems, and negotiates the inclusion of mantra, yantra, and tantric‑style practices within a Jain framework."
+    },
+    {
+      "title": "The Yogaśāstra of Hemacandra: A Twelfth Century Handbook of Śvetāmbara Jainism",
+      "author": "Hemacandra; translated and studied by Olle Qvarnström",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Modern English translation and scholarly study of substantial portions of the Yogaśāstra and Svopajñavṛtti.",
+      "notes": "This work, published in the Harvard Oriental Series, offers a critical edition, translation, and analysis of key sections of the Yogaśāstra. It situates Hemacandra’s text within the broader history of Jainism, medieval yoga, and tantric influences, and is a major resource for contemporary academic engagement with Jain yoga and Hemacandra’s thought."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Yogashastra is simply a Jain version of Patañjali’s Yoga Sūtra focused mainly on physical postures and breath control.",
+      "reality": "While Hemacandra adopts an eight‑limbed framework reminiscent of Pātañjalayoga and discusses āsana and prāṇāyāma, his primary concern is the Jain path of liberation centered on the three jewels—right worldview, right knowledge, and right conduct. Physical and subtle practices are subordinated to ethical discipline, karmic purification, and non‑violence, and the text functions as a comprehensive doctrinal and practical handbook rather than a purely technical manual of postures."
+    },
+    {
+      "myth": "Because the Yogashastra includes mantras, mandalas, and tantric‑style elements, it represents a complete departure from traditional Jain doctrine.",
+      "reality": "The inclusion of mantra, yantra, and tantric motifs reflects Hemacandra’s engagement with the religious environment of his time, including Śaiva and other tantric traditions, especially in the court of King Kumārapāla. However, these elements are carefully integrated within a Jain ethical and doctrinal framework that maintains core commitments such as ahiṃsā, restraint, and the centrality of the three jewels. Rather than a departure, the text exemplifies a creative adaptation and systematization of both orthodox Jain teachings and selected external influences."
+    },
+    {
+      "myth": "The Yogashastra is relevant only for monks and nuns and has little to say to lay Jains.",
+      "reality": "Hemacandra explicitly addresses both ascetics and householders, and large portions of the Yogashastra deal with lay conduct, vows, devotional practices, and everyday ethical discipline. Historically, the text served as a handbook for Śvetāmbara communities in Gujarat, guiding the spiritual life of laypeople as well as mendicants. Its teachings on right faith, right knowledge, right conduct, and meditation are framed as applicable across the spectrum of Jain practitioners."
+    }
+  ]
+}

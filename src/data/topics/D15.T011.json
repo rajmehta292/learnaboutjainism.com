@@ -1,0 +1,43 @@
+{
+  "overview": "The “Ten Monastic Virtues” (daśa-lakṣaṇa or daśa-guṇa) refer to a classical set of qualities expected of Jain ascetics across major traditions. They appear in early Śvetāmbara and Digambara disciplinary literature as part of the broader framework of guṇa-dharma—virtues that stabilize conduct, support nonviolence, and cultivate the conditions for liberation. Although lists vary slightly by sect and manuscript lineage, the most widely attested set includes: kṣamā (forbearance), mārdava (gentleness), ārjava (straightforwardness), śauca (purity), satya (truthfulness), saṃyama (self-restraint), tapa (austerity), tyāga (renunciation), ākiñcanya (non-possession), and brahmacarya (celibacy). \n\nIn monastic contexts, these virtues are not merely ethical ideals but structural components of the vows (mahāvrata) and disciplinary codes (cheda-sūtras). They function as internal dispositions that enable the external rules of conduct—such as careful movement, speech discipline, and dietary restrictions—to be practiced without coercion or harm. Commentarial traditions emphasize that these virtues must be cultivated progressively, with attention to the aspirant’s stage of spiritual development (guṇasthāna). \n\nThe ten virtues also appear in lay discourse, especially during the Daśa-lakṣaṇa festival celebrated by Digambara communities, where they are interpreted as universal ethical principles. However, in monastic literature they retain a technical meaning tied to ascetic identity, karmic purification, and the disciplined pursuit of mokṣa. Their interpretation varies across sects, but all traditions treat them as foundational markers of ideal ascetic character.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "क्षमा मार्दवम् आर्जवं शौचं सत्यं संयमस्तपस्त्यागोऽकिञ्चन्यं ब्रह्मचर्यम्",
+      "transliteration": "kṣamā mārdavam ārjavaṃ śaucaṃ satyaṃ saṃyamastapastyāgo’kiñcanyaṃ brahmacaryam",
+      "translation": "Forbearance, gentleness, straightforwardness, purity, truthfulness, self-restraint, austerity, renunciation, non-possession, and celibacy are the ten virtues.",
+      "notes": "This verse is found in Tattvārtha Sūtra 9.6 in most Śvetāmbara and Digambara recensions. It is one of the earliest pan-sectarian enumerations of the ten virtues. Commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi, Siddhasena’s Tattvārthavṛtti) elaborate each virtue as a mental disposition supporting the vows."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Attributed to early Jain canonical redactors",
+      "original_text": "एवमेव मुनिणा गुणा धारयितव्या इति",
+      "transliteration": "evameva muniṇā guṇā dhārayitavyā iti",
+      "translation": "Thus indeed the monk must uphold the virtues.",
+      "notes": "While the Ācārāṅga does not list all ten in a single verse, it repeatedly describes dispositions such as kṣamā, ārjava, and saṃyama as essential to monastic conduct. The text provides narrative and prescriptive contexts for these virtues, especially in relation to nonviolence and vigilance."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "दशगुणसमन्वितो मुनिः शुद्धमार्गं प्रपद्यते",
+      "transliteration": "daśaguṇasamanvito muniḥ śuddhamārgaṃ prapadyate",
+      "translation": "The monk endowed with the ten virtues enters the pure path.",
+      "notes": "The Mūlācāra integrates the ten virtues into its broader discussion of monastic discipline, emphasizing their role in karmic purification and the stabilization of conduct."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The ten monastic virtues are identical across all Jain sects and always refer to the same practices.",
+      "reality": "While the core list is widely shared, sectarian commentaries differ in interpretation, emphasis, and practical application. For example, Digambara texts often link the virtues more explicitly to nudity and total renunciation, whereas Śvetāmbara texts integrate them with robe discipline and alms procedures."
+    },
+    {
+      "myth": "The ten virtues are only for monks and have no relevance for laypeople.",
+      "reality": "Although technically monastic in origin, Digambara communities especially interpret them during the Daśa-lakṣaṇa festival as universal ethical ideals. Laypeople are encouraged to reflect on them, even though the full monastic form is not expected of householders."
+    },
+    {
+      "myth": "The ten virtues are merely moral guidelines without doctrinal significance.",
+      "reality": "In Jain philosophy, these virtues are directly tied to karmic theory, the guṇasthāna ladder, and the purification of passions. They are structural components of liberation theory, not just ethical suggestions."
+    }
+  ]
+}

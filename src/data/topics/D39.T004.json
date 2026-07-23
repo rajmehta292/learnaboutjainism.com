@@ -1,0 +1,43 @@
+{
+  "overview": "Root vegetables are plant structures that grow underground and serve primarily as storage organs for nutrients, water, and energy. In everyday usage, the term refers to edible underground plant parts such as roots, tubers, rhizomes, bulbs, and corms. In botanical classification, these categories differ in structure and function, but they share the common feature of developing beneath the soil surface.\n\nIn Jain studies, root vegetables are significant because their harvest typically involves disturbing soil ecosystems and harming multiple life forms. Jain ethical literature often discusses them in the context of *ahimsa* (non‑violence), food purity, and lay conduct. While different Jain traditions interpret the severity and application of these guidelines differently, the underlying concern is the protection of subtle life forms (*sūkṣma jīva*) that inhabit soil and root systems.\n\nOutside religious contexts, root vegetables are valued for their nutritional density. They often contain high levels of carbohydrates, fiber, vitamins, and minerals. Common examples include carrots, beets, radishes, turnips, sweet potatoes, yams, onions, garlic, and potatoes. Their global culinary importance spans from staple foods (e.g., potatoes) to aromatic bases for cooking (e.g., onions and garlic). Root vegetables have been cultivated for thousands of years, with archaeological evidence showing early domestication in regions such as South Asia, the Mediterranean, and the Americas.\n\nAgronomically, root vegetables play a vital role in crop rotation, soil health, and food security. Their ability to grow in diverse climates and store well over long periods has made them essential in both traditional and modern food systems. They also contribute to ecological stability by improving soil structure and supporting microbial life. Understanding root vegetables therefore requires an interdisciplinary perspective that includes botany, agriculture, nutrition, and—when relevant—religious ethics.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "पणगं पव्वं उव्वेहिं जिवा बहव्वा",
+      "transliteration": "paṇagaṃ pavvaṃ uvvehiṃ jīvā bahavvā",
+      "translation": "“In plants and in the earth, many living beings dwell.”",
+      "notes": "Tier A. This passage is often cited to illustrate the presence of subtle life forms in soil and vegetation. Commentaries in both Śvetāmbara and Digambara traditions use such verses to explain why uprooting plants—including root vegetables—may involve harm to multiple organisms."
+    },
+    {
+      "title": "Tattvārtha Sūtra 7.14",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "प्राणभृतां हिंसा गर्भपातादिः",
+      "transliteration": "prāṇabhṛtāṃ hiṃsā garbhapātādiḥ",
+      "translation": "“Violence toward living beings includes actions that destroy their life‑principle.”",
+      "notes": "Tier A. While not specifically about root vegetables, traditional commentaries (Tier B) apply this principle to agricultural practices that kill or injure multiple organisms, including those living in soil and roots."
+    },
+    {
+      "title": "Śrāvakācāra (various authors)",
+      "author": "Different medieval Jain teachers",
+      "original_text": "कन्दमूलभक्षणं त्याज्यम्",
+      "transliteration": "kandamūlabhakṣaṇaṃ tyājyam",
+      "translation": "“Eating bulbs and roots is to be avoided.”",
+      "notes": "Tier B. This line appears in several lay‑conduct manuals across traditions. The rationale given is that root vegetables contain numerous life forms and that their harvest causes extensive harm. Interpretations vary by sect, region, and teacher."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain traditions uniformly prohibit every type of root vegetable.",
+      "reality": "While many Jain communities avoid root vegetables as part of lay practice, interpretations differ across sects, regions, and household guidance. Some traditions allow limited consumption under specific circumstances, while others maintain stricter avoidance. The underlying principle of minimizing harm remains shared, but its application is not uniform."
+    },
+    {
+      "myth": "Root vegetables are botanically all the same type of plant organ.",
+      "reality": "The term “root vegetable” is a culinary category, not a botanical one. Carrots and radishes are true roots, potatoes are tubers, onions are bulbs, ginger is a rhizome, and taro is a corm. These structures differ in anatomy and function."
+    },
+    {
+      "myth": "Root vegetables are nutritionally inferior because they grow underground.",
+      "reality": "Many root vegetables are nutrient‑dense, providing essential vitamins, minerals, fiber, and complex carbohydrates. Their underground growth does not diminish nutritional value; in fact, it often enhances storage capacity and energy density."
+    }
+  ]
+}

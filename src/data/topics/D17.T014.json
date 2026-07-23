@@ -1,0 +1,55 @@
+{
+  "overview": "In Jain thought, repentance is a disciplined ethical and spiritual process known primarily through the practices of *pratikramaṇa*, *ālocanā*, and *pratyākhyāna*. It is not merely an emotional feeling but a structured method for acknowledging faults, reducing karmic bondage, and re‑establishing alignment with the vows (*vrata*) and right conduct (*cāritra*). Jain traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—share the core concept but differ in liturgical forms and textual recitations.\n\nRepentance is grounded in the Jain doctrine of karma, where actions, speech, and mental states attract subtle karmic matter (*pudgala*). When a layperson or mendicant commits transgressions—knowingly or unknowingly—repentance serves as a corrective discipline. The act involves recalling one’s faults, confessing them before a teacher or inwardly before the Jina, resolving not to repeat them, and performing meditative or ritual practices to purify the mind.\n\nThe daily, fortnightly, and annual cycles of *pratikramaṇa* reflect the Jain emphasis on continual moral vigilance. Repentance is not framed as guilt but as clarity, self-awareness, and recommitment to nonviolence (*ahiṃsā*), truth (*satya*), non-stealing (*asteya*), celibacy (*brahmacarya*), and non-possession (*aparigraha*). The process is introspective, non-coercive, and always voluntary. It is also distinct from *sallekhanā*, which is a separate vow with its own strict conditions and is never a response to guilt or wrongdoing.\n\nAcross Jain literature, repentance is portrayed as a means of restoring equanimity (*samatā*) and progressing toward higher states of spiritual development (*guṇasthāna*). It is a practical tool for laypeople and mendicants alike, emphasizing responsibility, ethical refinement, and compassion toward all living beings.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 7.11",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "प्रतिक्रमणालोचनप्रत्याख्यानानि च",
+      "transliteration": "pratikramaṇa-ālocana-pratyākhyānāni ca",
+      "translation": "Repentance, confession, and resolve (not to repeat faults) are [means] of stopping the influx of karma.",
+      "notes": "This sutra is a foundational reference for Jain discussions of repentance. It appears in both Digambara and Śvetāmbara recensions, though commentarial interpretations vary."
+    },
+    {
+      "title": "Āvaśyaka Sūtra (Śvetāmbara)",
+      "author": "Anonymous canonical compiler",
+      "original_text": "णं जावं जावं पवक्खामि, तं जावं जावं खमामि",
+      "transliteration": "ṇaṃ jāvaṃ jāvaṃ pavakkhāmi, taṃ jāvaṃ jāvaṃ khamāmi",
+      "translation": "Whatever faults I confess, for all of them I seek forgiveness.",
+      "notes": "Used in Śvetāmbara pratikramaṇa liturgy. Exact wording varies by manuscript tradition. The text emphasizes confession and forgiveness as paired acts."
+    },
+    {
+      "title": "Mūlācāra 5.1–5 (Digambara)",
+      "author": "Vattakera",
+      "original_text": "आलोचना प्रायश्चित्तं च",
+      "transliteration": "ālocanā prāyaścittaṃ ca",
+      "translation": "Confession and expiation [are required] for faults.",
+      "notes": "The Digambara monastic code outlines procedures for acknowledging and correcting transgressions. Commentaries clarify that repentance must be voluntary and truthful."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 29.1",
+      "author": "Anonymous canonical compiler",
+      "original_text": "अवगुण्ठियं पवक्खामि",
+      "transliteration": "avaguṇṭhiyaṃ pavakkhāmi",
+      "translation": "I confess the faults that have covered me.",
+      "notes": "This chapter deals with ethical purification and is frequently cited in discussions of repentance and moral discipline."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Repentance in Jainism is primarily an emotional act of feeling guilty.",
+      "reality": "Jain repentance is a structured ethical discipline involving recollection, confession, resolve, and meditative purification. It is not centered on guilt but on clarity and responsibility."
+    },
+    {
+      "myth": "Pratikramaṇa is only a ritual for monks and nuns.",
+      "reality": "Laypeople across Jain traditions perform daily, fortnightly, and annual pratikramaṇa. It is a universal practice for ethical self-correction."
+    },
+    {
+      "myth": "Repentance can substitute for observing vows or careful conduct.",
+      "reality": "Repentance is corrective, not compensatory. Jain texts emphasize that it cannot replace disciplined adherence to vows or mindful behavior."
+    },
+    {
+      "myth": "Repentance is the same as sallekhanā.",
+      "reality": "Sallekhanā is a distinct vow with strict conditions and is never a response to wrongdoing. Repentance concerns ethical purification, not end-of-life practice."
+    }
+  ]
+}

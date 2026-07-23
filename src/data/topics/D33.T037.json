@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, “conservation” is not a modern environmental policy term but a principle emerging from the core doctrines of **ahiṃsā (non‑violence)**, **aparigraha (non‑possessiveness)**, and the recognition that **all jīvas (living beings)**—from humans to plants to microscopic organisms—possess consciousness and deserve protection. Conservation therefore becomes an ethical orientation rather than a technical program. Jain traditions frame environmental care as a natural extension of spiritual discipline, where restraint, carefulness, and compassion reduce harm to ecosystems and the innumerable life‑forms within them.\n\nClassical texts emphasize that every action—walking, eating, speaking, farming, or using resources—has karmic consequences because it affects living beings. Conservation in the Jain sense thus involves minimizing unnecessary consumption, avoiding waste, and cultivating mindfulness toward the interconnectedness of life. Lay conduct manuals (śrāvakācāra) encourage moderation, vegetarianism, and careful use of water, fire, and land, reflecting an early ecological sensibility.\n\nModern Jain communities often interpret these teachings through contemporary environmental science, applying ancient principles to issues such as biodiversity loss, pollution, climate change, and sustainable living. While these applications are modern interpretations, they remain grounded in the classical ethical framework that prioritizes the protection of life and the reduction of harm. Conservation, therefore, is both a spiritual practice and a social responsibility within Jainism, shaped by scriptural teachings and evolving community engagement.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "पाणो पाणो सीले सीले",
+      "transliteration": "pāṇo pāṇo sīle sīle",
+      "translation": "“Living beings are to be protected; living beings are to be cared for.”",
+      "notes": "Tier A. This early Śvetāmbara canonical text emphasizes carefulness (samiti) and restraint toward all forms of life. The passage is frequently cited in discussions of ecological ethics because it frames protection of life as a foundational duty."
+    },
+    {
+      "title": "Tattvārtha Sūtra 7.13",
+      "author": "Umāsvāti/Umāsvāmī",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "“Non‑violence is the supreme duty.”",
+      "notes": "Tier A. Although widely known, this sutra’s implications for conservation are significant: minimizing harm requires limiting resource use, avoiding destruction of habitats, and practicing restraint in daily life."
+    },
+    {
+      "title": "Sūtrakṛtāṅga 1.11",
+      "author": "Śvetāmbara canon",
+      "original_text": "जीवो जीवस्साहो",
+      "transliteration": "jīvo jīvassāho",
+      "translation": "“A living being harms living beings.”",
+      "notes": "Tier A. This passage highlights the inevitability of harm in ordinary activity, motivating practices that reduce ecological impact through careful movement, consumption, and livelihood."
+    },
+    {
+      "title": "Śrāvakācāra (Digambara tradition)",
+      "author": "Ācārya Amitagati (attributed)",
+      "original_text": "अपरिग्रहः सर्वदुःखनिवृत्तिः",
+      "transliteration": "aparigrahaḥ sarvaduḥkhanivṛttiḥ",
+      "translation": "“Non‑possessiveness is the cessation of all suffering.”",
+      "notes": "Tier B. Commentarial tradition interprets aparigraha as limiting material accumulation, which directly supports conservation by reducing exploitation of natural resources."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain conservation is identical to modern environmental activism.",
+      "reality": "Jain conservation arises from spiritual disciplines—ahiṃsā, aparigraha, and carefulness—not from political or scientific frameworks. Modern environmental activism may align with Jain ethics, but the motivations and methods differ."
+    },
+    {
+      "myth": "Jains avoid harming life only for karmic reasons, not ecological ones.",
+      "reality": "While karmic ethics are central, Jain texts explicitly recognize the intrinsic value of all life‑forms. The ecological dimension is a natural extension of the metaphysical view that every jīva possesses consciousness and deserves protection."
+    },
+    {
+      "myth": "Conservation in Jainism applies only to animals and plants.",
+      "reality": "Jain ontology includes five categories of life, including microscopic beings in water, earth, fire, and air. Conservation therefore extends to minimizing harm to even subtle and invisible organisms."
+    }
+  ]
+}

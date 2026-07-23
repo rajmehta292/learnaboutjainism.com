@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain studies, agriculture (kṛṣi) is examined not only as an economic activity but also as an ethical domain involving complex interactions with living beings. Jain traditions historically recognized agriculture as a necessary livelihood for many laypeople while also acknowledging that it inevitably involves harm to plants, soil organisms, and insects. As a result, classical texts classify agriculture as a profession with mixed karmic consequences, requiring careful mitigation through intention, restraint, and supplementary practices of ahiṃsā.\n\nAcross Jain communities—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—agriculture is discussed within broader frameworks of right livelihood (samyak jīvana), lay ethics (śrāvakācāra), and karmic theory. While monastics avoid agriculture entirely due to its unavoidable violence, laypeople are offered guidance on minimizing harm, cultivating mindfulness, and supporting non-violent food systems where possible.\n\nHistorically, Jain households in regions such as Gujarat, Rajasthan, Karnataka, and Madhya Pradesh participated in agriculture, trade, and artisanal work. Manuscript evidence from medieval śrāvakācāra texts shows detailed discussions of irrigation, plowing, seed selection, and seasonal cycles, often framed within ethical considerations. Modern Jain ethics continues to explore sustainable agriculture, organic farming, water conservation, and climate-resilient practices, connecting ancient principles of ahiṃsā and aparigraha with contemporary environmental science.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "पाणगहणं उवओसग्गा एतं धम्मं",
+      "transliteration": "pāṇagahaṇaṃ uvaosaggā etaṃ dhammaṃ",
+      "translation": "“Abandoning the taking of living beings is the teaching.”",
+      "notes": "Tier A. While the text does not describe agriculture directly, it establishes the foundational principle of non-harm. Later traditions apply this principle to evaluate agricultural activities, noting that plowing and irrigation disturb many forms of life."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "कस्सायसमुद्देसो बहुपाणवधो",
+      "transliteration": "kassāyasamuddeso bahupāṇavadho",
+      "translation": "“Passions give rise to the destruction of many living beings.”",
+      "notes": "Tier A. Commentators use this passage to explain that agricultural work performed with greed or possessiveness increases karmic bondage, whereas mindful livelihood reduces its impact."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra",
+      "author": "Samantabhadra (Digambara)",
+      "original_text": "अहिंसासत्याचौर्यब्रह्मचर्यापरिग्रहा धर्मः",
+      "transliteration": "ahiṃsāsatyācauryabrahmacaryāparigrahā dharmaḥ",
+      "translation": "“Non-violence, truth, non-stealing, chastity, and non-possession constitute dharma.”",
+      "notes": "Tier B. Digambara commentators note that laypeople engaged in agriculture must apply these vows by reducing unnecessary harm, avoiding exploitative labor, and limiting possessiveness over land and yield."
+    },
+    {
+      "title": "Upāsakadaśāḥ",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जीवो जीवं न हिंसइ",
+      "transliteration": "jīvo jīvaṃ na hiṃsai",
+      "translation": "“A living being should not harm another living being.”",
+      "notes": "Tier A. Later Śvetāmbara commentaries discuss how householders involved in agriculture should cultivate compassion and avoid excessive violence, especially during plowing and pesticide use."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism completely forbids agriculture for all followers.",
+      "reality": "Jain monastics avoid agriculture due to its unavoidable harm, but laypeople may engage in it with ethical restraints. Classical śrāvakācāra texts explicitly address agricultural livelihoods and provide guidance for minimizing violence."
+    },
+    {
+      "myth": "Jains historically never participated in farming and only engaged in trade.",
+      "reality": "Historical records and regional studies show that many Jain communities practiced agriculture alongside trade and artisanal work. The degree of involvement varied by region, caste, and local economy."
+    },
+    {
+      "myth": "Agriculture is considered entirely sinful in Jainism.",
+      "reality": "Agriculture is viewed as a livelihood with mixed karmic consequences. Harm is acknowledged, but intention, restraint, and ethical conduct can reduce its karmic impact for lay practitioners."
+    }
+  ]
+}

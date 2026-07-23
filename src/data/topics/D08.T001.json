@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, **jñāna** (knowledge) is one of the most fundamental categories of reality and liberation. It is treated not merely as intellectual understanding but as an intrinsic quality of the soul (jīva). According to both Digambara and Śvetāmbara traditions, every soul possesses infinite jñāna in its pure state; karmic obscurations (jñānāvaraṇīya karma) limit its expression. The Jain epistemological system is therefore simultaneously metaphysical and ethical: to know truly is to remove karmic veils, and to remove karmic veils is to know truly.\n\nJñāna is classified into five canonical types: **mati-jñāna** (sensory-mental knowledge), **śruta-jñāna** (scriptural knowledge), **avadhi-jñāna** (clairvoyance), **manaḥparyāya-jñāna** (telepathy), and **kevala-jñāna** (omniscience). The first two are considered indirect (parokṣa), while the latter three are direct (pratyakṣa). This hierarchy reflects increasing degrees of purity and decreasing dependence on external instruments. Kevala-jñāna, the highest form, is the complete and unobstructed knowledge attained by a liberated being (kevalin).\n\nJain philosophers developed a sophisticated epistemology around jñāna, including doctrines of **anekāntavāda** (many-sidedness), **syādvāda** (qualified predication), and **nayavāda** (perspectival analysis). These frameworks do not deny the possibility of absolute knowledge; rather, they explain how limited beings can approach truth through partial, conditioned viewpoints. Thus, jñāna is both the goal and the method of Jain inquiry.\n\nIn practice, lay and monastic traditions emphasize the cultivation of jñāna through study (svādhyāya), ethical discipline, meditation, and guidance from qualified teachers. While the ultimate omniscience is rare and associated with the highest spiritual stages (guṇasthānas), the progressive refinement of everyday knowledge is considered essential for right faith (samyak-darśana) and right conduct (samyak-cāritra).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "ज्ञानं च",
+      "transliteration": "jñānaṃ ca",
+      "translation": "“And knowledge (is a characteristic of the soul).”",
+      "notes": "Tattvārtha Sūtra 2.10 identifies jñāna as an inherent attribute of the soul. This is a foundational statement accepted across Jain traditions."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "मतिश्रुतावधिमनःपर्यायकैवल्यं ज्ञानम्",
+      "transliteration": "mati-śruta-avadhi-manaḥparyāya-kaivalyaṃ jñānam",
+      "translation": "“Knowledge is of five kinds: sensory-mental, scriptural, clairvoyant, telepathic, and omniscient.”",
+      "notes": "Tattvārtha Sūtra 1.9 provides the canonical fivefold classification of jñāna."
+    },
+    {
+      "title": "Samavāyāṅga Sūtra (Śvetāmbara canon)",
+      "author": "Anonymous canonical compilation",
+      "original_text": "पञ्च ज्णाणाणि",
+      "transliteration": "pañca jñāṇāṇi",
+      "translation": "“The five knowledges.”",
+      "notes": "The Samavāyāṅga lists the five types of jñāna as part of its numerical taxonomy. Exact phrasing varies by manuscript tradition."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara canon)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "अवधिज्ञानं तु देहपरिमाणं",
+      "transliteration": "avadhi-jñānaṃ tu deha-parimāṇaṃ",
+      "translation": "“Clairvoyant knowledge is limited by the extent of the body.”",
+      "notes": "A representative line illustrating Digambara technical treatment of avadhi-jñāna. Manuscript variants exist; translations differ slightly."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jñāna in Jainism refers only to intellectual or book-based knowledge.",
+      "reality": "Jñāna is an innate quality of the soul and includes direct, non-sensory forms such as clairvoyance, telepathy, and omniscience. Scriptural learning is only one of its forms."
+    },
+    {
+      "myth": "Only monks can attain higher forms of jñāna.",
+      "reality": "While advanced forms like kevala-jñāna arise at high spiritual stages typically associated with renunciants, canonical texts allow for avadhi-jñāna and even manaḥparyāya-jñāna in exceptional lay practitioners."
+    },
+    {
+      "myth": "Anekāntavāda denies the existence of absolute truth.",
+      "reality": "Anekāntavāda affirms that absolute truth exists and is fully known by kevalins; it explains why limited beings perceive only partial aspects of that truth."
+    }
+  ]
+}

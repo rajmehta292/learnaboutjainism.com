@@ -1,0 +1,43 @@
+{
+  "overview": "Regional protective cults in Jainism refer to localized devotional practices centered on guardian deities, yakṣas, yakṣiṇīs, and other protective figures who are believed—within lay and community traditions—to safeguard temples, manuscripts, pilgrimage routes, and regional communities. These cults do not form part of the core soteriological path outlined in canonical Jain scriptures, which emphasize liberation through right faith, right knowledge, and right conduct. Instead, they represent a historical and cultural layer of practice that developed as Jain communities interacted with regional religious landscapes across South Asia.\n\nAcross both Digambara and Śvetāmbara traditions, protective cults often emerged around temple guardians such as Padmāvatī, Cakrēśvarī, Ambikā, and Ghantakarṇa Mahāvīra. These figures appear in medieval commentarial literature and temple inscriptions rather than in early canonical texts. Their roles vary: some are invoked for protection during travel, others for safeguarding sacred spaces, and still others for community welfare. Importantly, these practices are optional, vary by region, and are interpreted differently by distinct Jain lineages.\n\nIn western India, Śvetāmbara Mūrti-pūjaka communities developed strong regional devotion to Ghantakarṇa Mahāvīra, especially in Gujarat, where he is regarded as a kṣetrapāla (guardian of the temple precinct). In Karnataka, Digambara communities historically emphasized Padmāvatī and Cakrēśvarī as protectors associated with tīrtha sites such as Śravaṇa Beḷgoḷa. In Rajasthan, Ambikā and other yakṣiṇīs appear in manuscript colophons and temple iconography as guardians of learning and ritual spaces.\n\nScholars classify these cults as part of Jainism’s adaptive regional religiosity: they reflect how Jain communities negotiated local cultural expectations while maintaining doctrinal commitments to non-theistic liberation. Traditional commentators often clarify that protective deities are not ultimate refuge; they are understood as powerful but still saṃsāric beings. Modern Jain teachers frequently emphasize that such practices must not replace the central focus on the tīrthaṅkaras and the path of ethical discipline.",
+  "primary_sources": [
+    {
+      "title": "Hemacandra’s *Triṣaṣṭiśalākāpuruṣacaritra*",
+      "author": "Hemacandra (Śvetāmbara Mūrti-pūjaka)",
+      "original_text": "अम्बिका देवी तत्र तस्याः शक्तिरनुत्तमा ।",
+      "transliteration": "ambikā devī tatra tasyāḥ śaktir anuttamā",
+      "translation": "“There, Ambikā the goddess possessed exceptional power.”",
+      "notes": "Book 5 includes narrative references to Ambikā as a yakṣiṇī attendant of Neminātha. While not a manual of worship, these passages form part of the narrative basis for later protective cults."
+    },
+    {
+      "title": "Śrīpadmāvatīstotra (medieval Digambara hymn)",
+      "author": "Attributed in tradition; exact authorship uncertain",
+      "original_text": "जय जय पद्मावति देवि भुक्तिमुक्तिदायिनि ।",
+      "transliteration": "jaya jaya padmāvati devi bhukti-mukti-dāyini",
+      "translation": "“Victory to you, Padmāvatī, goddess who grants well-being and liberation.”",
+      "notes": "This stotra is widely circulated in Digambara communities. Traditional teachers clarify that ‘granting liberation’ is poetic praise, not doctrinal assertion, since liberation arises only through one’s own effort."
+    },
+    {
+      "title": "Ghantakarṇa Mahāvīra liturgical fragments (Śvetāmbara, Gujarat)",
+      "author": "Various temple liturgists; not canonical",
+      "original_text": "घण्टाकर्ण महावीर, संकटमोचन, रक्षा करो ।",
+      "transliteration": "ghaṇṭākarṇa mahāvīra, saṅkaṭa-mocana, rakṣā karo",
+      "translation": "“Ghantakarṇa Mahāvīra, remover of obstacles, grant protection.”",
+      "notes": "These fragments appear in temple liturgies and inscriptions. They are not part of canonical āgamas but reflect regional devotional practice."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Protective deities in Jainism are equivalent to supreme gods who grant liberation.",
+      "reality": "Primary Jain doctrine states that liberation comes solely from one’s own effort through right faith, knowledge, and conduct. Protective deities are understood as powerful but still saṃsāric beings."
+    },
+    {
+      "myth": "All Jain communities universally worship regional protective deities.",
+      "reality": "Participation varies widely. Sthānakavāsī and Terāpanth traditions generally avoid such practices, while Mūrti-pūjaka and many Digambara communities maintain localized forms of devotion."
+    },
+    {
+      "myth": "Protective cults originate in early canonical scriptures.",
+      "reality": "Canonical āgamas do not prescribe protective deity worship. These cults developed later through medieval narrative literature, temple traditions, and regional cultural interaction."
+    }
+  ]
+}

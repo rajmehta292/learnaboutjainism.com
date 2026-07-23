@@ -1,0 +1,47 @@
+{
+  "overview": "A knowledge graph is a structured representation of information in which entities (such as people, places, concepts, texts, or events) are modeled as nodes and the relationships between them are modeled as edges in a graph. Unlike simple tabular data or keyword-based indexes, a knowledge graph emphasizes semantic connections—“who is related to what, and how”—so that machines and humans can navigate, query, and infer meaning from complex domains. Each node typically has a unique identifier, a type (for example, “person”, “text”, “doctrine”), and a set of attributes, while edges encode typed relations such as “authored”, “located in”, “is part of”, or “contradicts”.\n\nIn computer science and information science, knowledge graphs grew out of earlier work on semantic networks, ontologies, and the Resource Description Framework (RDF). They are often built on formal schemas or ontologies that define the allowed entity types and relations, enabling consistent modeling across large, heterogeneous datasets. This schema layer allows reasoning: for instance, if the ontology states that every “Acharya” is a “monk”, and a node is typed as “Acharya”, a reasoning engine can infer that it is also a “monk” without that fact being explicitly stored. Knowledge graphs can be stored in specialized graph databases or RDF triple stores and accessed via query languages such as SPARQL or Gremlin.\n\nModern applications of knowledge graphs are wide-ranging. In web search, large commercial knowledge graphs power features like entity cards, related topics, and disambiguation of ambiguous queries. In enterprise settings, organizations use knowledge graphs to integrate data from multiple systems—customer records, product catalogs, research outputs—into a unified, semantically rich view that supports analytics and decision-making. In scientific research, knowledge graphs help connect publications, datasets, methods, and concepts, enabling discovery of non-obvious relationships and supporting hypothesis generation.\n\nKnowledge graphs can also encode uncertainty, provenance, and differing viewpoints. Edges and nodes may carry metadata indicating the source of a claim, its confidence level, or the tradition or discipline from which it arises. This is especially important in domains where multiple interpretations coexist, such as religious studies, history, or law. By modeling not only “facts” but also their sources and disagreements, a knowledge graph becomes a tool for transparent, critical inquiry rather than a monolithic authority. In such settings, the graph can distinguish between primary texts, commentaries, modern scholarship, and community education, and can explicitly represent where evidence is missing or contested.\n\nConstructing a knowledge graph typically involves several steps: identifying relevant entities and relations; designing or selecting an ontology; extracting information from texts, databases, or APIs; reconciling duplicates and inconsistencies; and continuously updating the graph as new information appears. Techniques from natural language processing, information extraction, and machine learning are often used to automatically populate and refine knowledge graphs from large corpora. Once built, the graph can support tasks such as question answering, recommendation, semantic search, and complex analytics, making it a central component of many modern AI and data systems.\n\nIn summary, a knowledge graph is not just a database; it is a semantically structured, relational model of a domain that supports rich querying, reasoning, and integration of diverse sources. Its power lies in making relationships explicit, capturing provenance and uncertainty, and providing a flexible framework in which both human experts and algorithms can explore, critique, and extend the represented knowledge.",
+  "primary_sources": [
+    {
+      "title": "A Semantic Web Primer",
+      "author": "Grigoris Antoniou and Frank van Harmelen",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This work introduces the foundations of the Semantic Web, including RDF, ontologies, and reasoning, which form the conceptual basis for many modern knowledge graph systems.",
+      "notes": "Although not using the term “knowledge graph” in its contemporary commercial sense, this book systematically explains the underlying technologies—RDF triples, schema languages, and inference—that are central to knowledge graph design and implementation."
+    },
+    {
+      "title": "Knowledge Graphs",
+      "author": "Aidan Hogan et al.",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "A comprehensive survey article that defines knowledge graphs, reviews their history, technologies, applications, and research challenges.",
+      "notes": "This peer-reviewed survey is often cited as a foundational academic reference for the term “knowledge graph”. It distinguishes knowledge graphs from related concepts such as linked data and ontologies, and discusses issues of quality, provenance, and reasoning."
+    },
+    {
+      "title": "Resource Description Framework (RDF) 1.1 Concepts and Abstract Syntax",
+      "author": "W3C Recommendation",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The official specification of RDF, which describes how information can be represented as triples (subject–predicate–object) forming a directed labeled graph.",
+      "notes": "RDF is a core standard for representing data in graph form on the Web. Many knowledge graphs, especially those used in open data and scholarly contexts, are built directly on RDF and related W3C standards."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "A knowledge graph is just a visual diagram of concepts connected by lines.",
+      "reality": "While diagrams are often used to illustrate knowledge graphs, the term refers to a formal, machine-readable data structure in which entities and relationships are encoded with precise semantics, typically stored in graph databases or RDF triple stores and queried programmatically."
+    },
+    {
+      "myth": "Knowledge graphs always contain only objective, uncontested facts.",
+      "reality": "Knowledge graphs can and often do represent contested claims, multiple interpretations, and varying levels of confidence. They can encode provenance, source attribution, and disagreement, making them suitable for complex domains where evidence and viewpoints differ."
+    },
+    {
+      "myth": "Any graph database automatically becomes a knowledge graph.",
+      "reality": "A graph database is a storage technology, whereas a knowledge graph implies a semantically structured model with an ontology or schema, typed entities and relations, and often support for reasoning. A simple graph of data without semantic modeling or ontology is not usually considered a full knowledge graph."
+    },
+    {
+      "myth": "Knowledge graphs are only useful for large tech companies and web search.",
+      "reality": "Knowledge graphs are widely applicable: they are used in enterprises for data integration, in scientific research for linking publications and datasets, in cultural heritage for connecting artifacts and historical records, and in many other fields where complex relationships and provenance matter."
+    }
+  ]
+}

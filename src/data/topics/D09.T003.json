@@ -1,0 +1,43 @@
+{
+  "overview": "Nayavada (the Doctrine of Standpoints) is a foundational epistemological and logical framework in Jain philosophy. It explains how any object, event, or truth-claim can be understood only from a particular standpoint (naya), and that each standpoint captures a partial but valid aspect of reality. Jain thinkers developed Nayavada to address the complexity of substances (dravya), which possess infinite attributes (guna) and modes (paryaya). Because human cognition is limited, any single statement about reality expresses only one facet of a multifaceted truth.\n\nNayavada is closely linked to Anekantavada (the Doctrine of Many-Sidedness) and Syadvada (the Doctrine of Conditioned Predication). While Anekantavada asserts the multiplicity of aspects in reality, Nayavada provides the methodological tools for analyzing those aspects. Syadvada then offers a linguistic and logical system for expressing conditional truths. Together, these three form the Jain triad of non-absolutist reasoning.\n\nClassical Jain texts classify nayas into various categories. The most common division is between dravyārthika naya (substantial standpoint) and paryāyārthika naya (modal standpoint). The substantial standpoint emphasizes enduring substance, while the modal standpoint focuses on momentary modes. Later Jain philosophers expanded the list to include seven or more detailed standpoints, such as naigama, samgraha, vyavahara, rjusutra, sabda, samabhirudha, and evambhuta. Each naya is valid within its scope but becomes misleading if treated as a complete or exclusive description of reality.\n\nNayavada has significant implications for Jain ethics, interreligious dialogue, and intellectual humility. By recognizing the partial validity of diverse viewpoints, Jain thinkers encourage non-violence in thought (manah himsa) and speech (vachana himsa). Modern scholars often highlight Nayavada as an early form of perspectivism, though Jain tradition maintains that it is grounded in metaphysical realism rather than relativism.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi (accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "नयस्यावयवाः स्युः।",
+      "transliteration": "nayasya avayavāḥ syuḥ",
+      "translation": "The standpoints (naya) are partial viewpoints.",
+      "notes": "Tattvārthasūtra 1.6 briefly introduces the concept of naya as partial viewpoints. Traditional commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārthavṛtti* (Śvetāmbara) elaborate on the nature and classification of nayas."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Kundakunda (Digambara)",
+      "original_text": "णयओ णयणयत्थं भणन्ति।",
+      "transliteration": "ṇayao ṇayaṇayatthaṃ bhaṇanti",
+      "translation": "Standpoints speak of reality in their own particular manner.",
+      "notes": "Kundakunda’s works emphasize the distinction between the substantial (niścaya) and practical (vyavahāra) viewpoints, which map onto major naya categories. His treatment is central to Digambara epistemology."
+    },
+    {
+      "title": "Sanmatitarka",
+      "author": "Siddhasena Divākara (Śvetāmbara)",
+      "original_text": "नयाः स्युः पक्षभेदाः।",
+      "transliteration": "nayāḥ syuḥ pakṣabhedāḥ",
+      "translation": "Standpoints are divisions of perspectives.",
+      "notes": "Sanmatitarka provides one of the earliest systematic classifications of the seven classical nayas and explains how each captures a distinct aspect of truth."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Nayavada teaches that all viewpoints are equally true and that truth is entirely relative.",
+      "reality": "Jain epistemology does not endorse relativism. Nayavada asserts that each standpoint captures a partial truth, but only when properly contextualized. A viewpoint becomes false when it is absolutized beyond its legitimate scope."
+    },
+    {
+      "myth": "Nayavada is identical to Anekantavada and Syadvada.",
+      "reality": "Nayavada is one component of a larger triad. Anekantavada describes the many-sided nature of reality, Nayavada provides the methodological standpoints for analyzing those sides, and Syadvada offers a linguistic system for expressing conditional truths."
+    },
+    {
+      "myth": "Nayavada denies the existence of objective reality.",
+      "reality": "Jain philosophy affirms a robust metaphysical realism. Nayavada explains how limited human cognition grasps only certain aspects of that objective reality at a time."
+    }
+  ]
+}

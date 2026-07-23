@@ -1,0 +1,19 @@
+{
+  "overview": "In Jain philosophy, 'Ajiva' refers to the non-living components of the universe, which contrast with 'Jiva', the living souls. Ajiva is essential in understanding the dualistic nature of Jain cosmology. It comprises five categories: Pudgala (matter), Dharma (medium of motion), Adharma (medium of rest), Akasha (space), and Kala (time). Pudgala includes all forms of matter, from the tangible to the minute particles that form the physical world. Dharma and Adharma are unique Jain concepts that facilitate the movement and rest of Jiva and Pudgala. Akasha provides the space where all beings exist, while Kala allows for the measurement of change. Together, these elements explain the existence and interaction of all entities in the universe, underscoring Jainism's intricate metaphysical framework that emphasizes the separation and interaction between the living and non-living.",
+  "primary_sources": [
+    {
+      "title": "Tattvartha Sutra",
+      "author": "Umaswati",
+      "original_text": "अजीवास्तिकायाः पंच",
+      "transliteration": "Ajīvāstikāyāḥ pañca",
+      "translation": "There are five categories of non-living substances.",
+      "notes": "This sutra introduces the concept of Ajiva as a fundamental category in Jain metaphysics, highlighting its division into five distinct types."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Ajiva is considered less important than Jiva in Jainism.",
+      "reality": "Ajiva is equally significant as it provides the framework within which Jiva operates. Without understanding Ajiva, the interaction and liberation process of Jiva cannot be fully comprehended."
+    }
+  ]
+}

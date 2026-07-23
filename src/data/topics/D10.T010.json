@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical literature, “predication” refers to the ways in which statements about reality can be made while respecting the complexity, plurality, and conditionality of existence. Jain epistemology and logic—especially the doctrines of *anekāntavāda* (many-sidedness), *syādvāda* (conditioned predication), and *nayavāda* (perspectival reasoning)—treat predication not as a simple assertion of truth but as a structured, context-sensitive act. A single object possesses infinite attributes and modes (*guṇa* and *paryāya*), and therefore any statement about it can only be partially true unless qualified.\n\nPredication in Jainism is most famously expressed through the sevenfold schema of *saptabhaṅgī*, which outlines seven possible ways of making a qualified assertion. Each predication begins with *syāt* (“from a certain standpoint”), indicating that the statement is true under specific conditions. This approach prevents dogmatism and encourages intellectual humility, recognizing that language and human cognition can only grasp fragments of reality.\n\nIn classical Jain logic, predication is not merely linguistic but metaphysical. It reflects the structure of reality itself: substances (*dravya*) are permanent in their essence yet constantly changing in their modes. Thus, predication must account for permanence and change simultaneously. Jain philosophers such as Kundakunda, Umāsvāti/Umāsvāmi, Siddhasena Divākara, Akalaṅka, and Hemacandra developed sophisticated systems to explain how predication can accurately represent the multifaceted nature of truth.\n\nModern scholarship views Jain predication as a unique contribution to global philosophy, offering a non-relativistic yet pluralistic model of truth. It avoids absolutism without collapsing into skepticism, allowing multiple, conditionally valid statements to coexist. This makes Jain predication a central pillar of Jain logic, ethics, and interreligious dialogue.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "सप्तभङ्गी नयस्य",
+      "transliteration": "saptabhaṅgī nayasya",
+      "translation": "“The sevenfold predication belongs to the doctrine of viewpoints.”",
+      "notes": "This brief sūtra is traditionally interpreted to refer to the structured method of conditional predication. Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) elaborate the seven modes: syād-asti, syān-nāsti, syād-asti-nāsti, syād-asti-avaktavyaḥ, syān-nāsti-avaktavyaḥ, syād-asti-nāsti-avaktavyaḥ, syād-avaktavyaḥ."
+    },
+    {
+      "title": "Sanmati Tarka",
+      "author": "Siddhasena Divākara",
+      "original_text": "सयव्वयं सत्तं, सयव्वयं असत्तं",
+      "transliteration": "sayavvayaṃ sattaṃ, sayavvayaṃ asattaṃ",
+      "translation": "“From a certain standpoint it exists; from a certain standpoint it does not exist.”",
+      "notes": "Siddhasena’s work is foundational for explaining how predication operates within perspectival reasoning (*naya*). His formulations emphasize the conditional nature of assertions."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Kundakunda",
+      "original_text": "भेदो नयाणं",
+      "transliteration": "bhedo nayāṇaṃ",
+      "translation": "“Viewpoints are distinguished (according to their focus).”",
+      "notes": "Kundakunda’s treatment of *naya* provides the metaphysical grounding for predication: each viewpoint captures a partial truth about the substance and its modes."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Predication in Jainism means that all statements are equally true.",
+      "reality": "Jain predication does not claim that every statement is true; it claims that truth is conditional. A statement is valid only from a specific standpoint (*naya*) and with proper qualification (*syāt*)."
+    },
+    {
+      "myth": "Syādvāda is a form of relativism where nothing is definitively true.",
+      "reality": "Syādvāda is not relativism. It affirms that reality is complex and multifaceted, and therefore statements must be qualified. It preserves objective truth while acknowledging human cognitive limits."
+    },
+    {
+      "myth": "The sevenfold predication is merely a linguistic exercise.",
+      "reality": "The sevenfold schema reflects Jain metaphysics: substances have infinite attributes and modes. Predication mirrors this ontological complexity, not just linguistic nuance."
+    }
+  ]
+}

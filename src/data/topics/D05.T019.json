@@ -1,0 +1,51 @@
+{
+  "overview": "Tattvas and guṇasthānas form two of the most technical and interlinked frameworks in Jain philosophy. Together, they describe (a) the fundamental realities that constitute the Jain worldview and (b) the progressive stages through which a soul advances toward liberation. In classical Jain epistemology, tattvas are the ontological building blocks—categories that explain bondage, liberation, and the mechanics of karma. Guṇasthānas, by contrast, are a graded map of spiritual development, detailing the soul’s purification as it gradually eliminates specific types of karmic obscurations.\n\nAcross Digambara and Śvetāmbara traditions, the canonical list of tattvas typically includes seven or nine categories: jīva (sentient being), ajīva (non-sentient reality), āsrava (influx of karma), bandha (bondage), saṃvara (stoppage of karma), nirjarā (shedding of karma), and mokṣa (liberation). Some traditions expand the list by distinguishing puṇya (merit) and pāpa (demerit). These categories appear in early Prakrit sources such as the *Tattvārthasūtra*, *Samayasāra*, and *Pravacanasāra*, and are elaborated in medieval commentaries.\n\nGuṇasthānas, literally “levels of virtue,” describe fourteen sequential stages of spiritual purification. They begin with the state of delusion (mithyātva) and culminate in kevalajñāna (omniscience) and mokṣa. Each stage is defined by the presence or absence of specific karmic states, especially the mohaniya (deluding) karma. The guṇasthāna system is shared across Jain traditions, though Digambara and Śvetāmbara commentaries differ in technical details, terminology, and the interpretation of transitional stages.\n\nWhen studied together, tattvas provide the metaphysical explanation of bondage and liberation, while guṇasthānas provide the phenomenological map of how a soul actually moves through those conditions. Modern scholarship emphasizes that these frameworks were not merely theoretical: they structured monastic discipline, lay ethics, and philosophical debates across centuries of Jain intellectual history.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "जीवाजिवाअस्रवबन्धसंवरनिर्जरामोक्षाः",
+      "transliteration": "jīvājivāsravabandhasaṃvaranirjarāmokṣāḥ",
+      "translation": "The categories are: soul, non-soul, influx, bondage, stoppage, shedding, and liberation.",
+      "notes": "This sūtra (1.4) is the most cited canonical definition of the seven tattvas. Digambara and Śvetāmbara traditions both preserve commentaries, though they differ in interpretation of ajīva and the status of puṇya/pāpa."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "समयसारं नयचूडामणिं",
+      "transliteration": "samayasāraṃ nayacūḍāmaṇiṃ",
+      "translation": "The *Samayasāra* is the crest-jewel of the viewpoints.",
+      "notes": "While not listing tattvas in a numbered sequence, Kundakunda’s text analyzes jīva, ajīva, and bondage through the lens of pure consciousness. Digambara tradition treats this as a foundational source for understanding tattvas in their ‘pure’ (śuddha) sense."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "गुणस्थानानि चतुर्दश",
+      "transliteration": "guṇasthānāni caturdaśa",
+      "translation": "There are fourteen stages of spiritual development.",
+      "notes": "This text provides one of the earliest systematic enumerations of the guṇasthānas. Later Digambara commentators such as Amṛtacandra elaborate the karmic conditions defining each stage."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "मोहोणं ठाणं",
+      "transliteration": "mohoyaṇa ṭhāṇaṃ",
+      "translation": "The stages related to the removal of delusion.",
+      "notes": "While not presenting the fourteen guṇasthānas in a single list, several chapters describe progressive spiritual purification that later Śvetāmbara commentators align with the guṇasthāna schema."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Tattvas are identical across all Jain traditions without variation.",
+      "reality": "While the core seven tattvas are widely shared, Digambara and Śvetāmbara traditions differ on whether puṇya and pāpa are counted separately, how ajīva is subdivided, and how tattvas relate to pure vs. empirical viewpoints."
+    },
+    {
+      "myth": "Guṇasthānas describe external rituals or social ranks.",
+      "reality": "Guṇasthānas are internal states of the soul defined by the presence, partial removal, or complete elimination of specific karmas. They do not correspond to social hierarchy or ritual status."
+    },
+    {
+      "myth": "A layperson cannot meaningfully relate to the guṇasthānas.",
+      "reality": "Although higher stages require monastic discipline, early stages—especially right faith (samyaktva)—are directly relevant to lay practice and are discussed in lay-oriented texts such as the *Ratnakaraṇḍa Śrāvakācāra*."
+    }
+  ]
+}

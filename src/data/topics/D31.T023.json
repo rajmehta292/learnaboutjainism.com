@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “grammar” refers primarily to the linguistic sciences that support the interpretation of Prakrit and Sanskrit canonical literature. Jain traditions—Śvetāmbara, Digambara, and their sub‑schools—preserve extensive scriptural corpora in Ardhamāgadhī, Jaina Śaurasenī, Jaina Māhārāṣṭrī, and classical Sanskrit. Because these languages differ in phonology, morphology, and syntax, grammar became a foundational discipline for monks, nuns, and lay scholars who sought to accurately transmit and interpret doctrine.\n\nJain grammar is not a separate doctrinal field but a technical support discipline. It enables precise reading of canonical sutras, commentaries, narrative literature, and philosophical treatises. The earliest Jain communities relied on oral transmission, but as texts were written down, grammatical analysis became essential for preserving meaning across regions and centuries. Jain grammarians often adapted mainstream grammatical traditions—especially Pāṇini’s Sanskrit grammar and the Prakrit grammars of Vararuci and later scholars—while adding rules specific to Jain linguistic usage.\n\nWithin Jainism, grammar serves several purposes: (1) safeguarding accurate recitation of canonical verses; (2) enabling philological study of manuscripts; (3) supporting doctrinal interpretation by clarifying ambiguous forms; and (4) preserving linguistic heritage, especially the Prakrits associated with early Jain scripture. Modern Jain scholarship continues this tradition through critical editions, lexicons, and comparative linguistic studies that map canonical language to broader Indo‑Aryan developments.",
+  "primary_sources": [
+    {
+      "title": "Siddha-Hema-Śabdānuśāsana",
+      "author": "Hemacandra (Śvetāmbara Mūrti-pūjaka)",
+      "original_text": "सिद्धहेमशब्दानुशासनम्",
+      "transliteration": "Siddha-hema-śabdānuśāsanam",
+      "translation": "“The linguistic discipline of Siddha-Hema,” a comprehensive grammar covering Sanskrit and Prakrit.",
+      "notes": "Tier A/B. Hemacandra’s 12th‑century grammar is one of the most influential Jain contributions to linguistic science. It includes rules for Sanskrit and multiple Prakrits, with special attention to forms found in Jain canonical texts."
+    },
+    {
+      "title": "Prakrit Grammar Sections in the *Niryukti* Literature",
+      "author": "Attributed to early Śvetāmbara commentators",
+      "original_text": "Examples include technical terms such as ‘samāsā’, ‘tiṅanta’, and ‘nāmapada’ used in canonical exegesis.",
+      "transliteration": "samāsā, tiṅanta, nāmapada",
+      "translation": "Compound, finite verb, nominal word.",
+      "notes": "Tier A/B. These grammatical discussions appear in metrical commentaries on canonical texts, showing early Jain engagement with linguistic analysis."
+    },
+    {
+      "title": "Śabdavidyā Sections in Digambara Commentaries",
+      "author": "Various Digambara ācāryas",
+      "original_text": "Terms such as ‘rūḍhi’, ‘yoga’, and ‘lakṣaṇā’ appear in semantic and grammatical analysis.",
+      "transliteration": "rūḍhi, yoga, lakṣaṇā",
+      "translation": "Conventional meaning, etymological meaning, indicative meaning.",
+      "notes": "Tier B. Digambara commentaries often use classical Sanskrit grammatical categories to clarify doctrinal passages."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism has its own completely separate grammatical system unrelated to mainstream Indian grammar.",
+      "reality": "Jain grammarians contributed major works, but they built on and adapted existing Sanskrit and Prakrit grammatical traditions. Hemacandra’s grammar, for example, is deeply rooted in Pāṇinian methods while adding Jain-specific linguistic observations."
+    },
+    {
+      "myth": "Prakrit grammar is uniform across all Jain texts.",
+      "reality": "Jain scriptures use multiple Prakrits—Ardhamāgadhī, Jaina Śaurasenī, and Jaina Māhārāṣṭrī—each with distinct grammatical rules. Jain grammarians developed tools to navigate these differences."
+    },
+    {
+      "myth": "Grammar is only a technical subject and has no role in understanding Jain doctrine.",
+      "reality": "Accurate grammatical interpretation is essential for understanding canonical sutras, resolving ambiguities, and preserving doctrinal meaning. Grammar supports, rather than replaces, philosophical study."
+    }
+  ]
+}

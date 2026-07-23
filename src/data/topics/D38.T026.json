@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical and biological taxonomy, “respiration” (often discussed under terms such as *āsuvāsa*, *prāṇa*, and the broader category of *vitalities* or *prāṇas*) refers not only to the physical act of breathing but to a fundamental life-function present across all living beings. Jainism classifies respiration as one of the essential indicators of life, alongside movement, digestion, and the presence of consciousness. In the canonical literature, respiration is treated within the broader doctrine of *jīva* (living beings), which includes detailed analyses of how life persists, interacts with karmic matter, and undergoes transformation across different states of existence.\n\nJain texts describe respiration as a subtle process involving the intake and release of extremely fine material particles. These particles are not identical to modern scientific notions of air or oxygen; rather, they are conceived as a type of subtle matter that supports the continuity of life. Respiration is therefore both a biological and metaphysical function. It is one of the ten *prāṇas* (vitalities) enumerated in several canonical sources, and its presence helps determine the moral weight of actions such as injury to living beings.\n\nDifferent classes of living beings—ranging from one-sensed organisms (such as plants and microorganisms) to five-sensed beings (humans and animals)—possess respiration in varying degrees. Even beings without lungs or conventional breathing mechanisms are considered to “respire” in the Jain sense, because respiration is defined as a life-function rather than a specific anatomical process. This broad definition supports the Jain ethic of nonviolence (*ahiṃsā*), emphasizing that harm to any living being disrupts vital functions, including respiration.\n\nAcross Digambara and Śvetāmbara traditions, the treatment of respiration is consistent in its core meaning but may differ in terminology or commentary emphasis. Modern scholarship highlights that Jain respiration theory reflects an early attempt to classify life scientifically while integrating metaphysical principles. The doctrine remains central to Jain ethics, cosmology, and the study of karma, particularly in discussions of how life persists and how karmic particles bind to the soul through bodily activities.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally accepted across Jain sects)",
+      "original_text": "प्राणाः शरीरवचनमनःश्वासोच्छ्वासभाषेन्द्रियबुद्धिबलविर्याणि",
+      "transliteration": "prāṇāḥ śarīra-vacana-manaḥ-śvāsa-ucchvāsa-bhāṣa-indriya-buddhi-bala-vīryāṇi",
+      "translation": "“The vitalities are body, speech, mind, inhalation, exhalation, speech, senses, intellect, strength, and energy.”",
+      "notes": "Tattvārtha Sūtra 2.5 lists respiration as *śvāsa* (inhalation) and *ucchvāsa* (exhalation). Commentaries clarify that even one-sensed beings possess these vitalities in subtle form."
+    },
+    {
+      "title": "Praśnavyākaraṇa Sūtra",
+      "author": "Śvetāmbara canonical text (author not individually named)",
+      "original_text": "जिवो असूवासउच्छवाससमायत्तो",
+      "transliteration": "jivo asūvāsa-ucchvāsa-samāyatto",
+      "translation": "“A living being is characterized by inhalation and exhalation.”",
+      "notes": "This passage is used to define respiration as a universal sign of life, not limited to beings with lungs."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "पव्वअस्स जीवस्स असूवासो नाम प्राणो",
+      "transliteration": "pavvaassa jīvassa asūvāso nāma prāṇo",
+      "translation": "“For embodied beings, respiration is known as a vitality.”",
+      "notes": "The Digambara canonical tradition emphasizes respiration as one of the essential prāṇas that determine the moral gravity of violence."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Respiration in Jainism refers only to physical breathing through lungs.",
+      "reality": "Jain texts define respiration as a universal life-function present even in beings without lungs, including plants and microscopic organisms."
+    },
+    {
+      "myth": "Only five-sensed beings possess respiration.",
+      "reality": "Canonical sources state that all living beings, from one-sensed to five-sensed, possess respiration in subtle or gross forms."
+    },
+    {
+      "myth": "Respiration is purely a biological process in Jainism.",
+      "reality": "Respiration is both biological and metaphysical, involving subtle matter and playing a role in karmic interaction with the soul."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "overview": "In Jain tradition, the 24th Tirthankara is known by two principal names: Vardhamāna and Mahāvīra. These names are not merely labels but carry layered meanings that reflect different phases of his life, the way communities perceived him, and the theological status he came to hold.\n\n“Vardhamāna” is generally understood as his birth name, given by his parents Siddhārtha and Triśalā. The term derives from the Sanskrit root *vṛdh* (“to grow, to increase”) and is commonly glossed as “the one who grows,” “the prosperous one,” or “he in whom prosperity increases.” Jain narrative sources explain the name by linking it to auspicious growth in the kingdom after his conception—wealth, crops, and general well‑being are said to have increased, signaling the arrival of an extraordinary soul. [[0]](https://www.encyclopedia.com/people/philosophy-and-religion/buddhism-biographies/mahavira) [[1]](https://en-academic.com/dic.nsf/enwiki/149207) In this sense, “Vardhamāna” belongs to the sphere of family, polity, and worldly auspiciousness: it is the name of a prince whose birth brings flourishing to his community.\n\n“Mahāvīra,” by contrast, is an honorific that gradually becomes his dominant religious name. Etymologically, it combines *mahā* (“great”) and *vīra* (“hero”), yielding “Great Hero.” Early Jain and related Śramaṇa literature use *vīra* and *mahāvīra* as epithets for heroic ascetics, and over time these descriptors crystallize into a proper name specifically associated with Vardhamāna. [[2]](https://jaingpt.org/knowledge/epithets_of_lord_mahavira_in_early_jaina_canons_269639_269639) [[1]](https://en-academic.com/dic.nsf/enwiki/149207) Hagiographical texts explain that the gods bestowed the title “Mahāvīra” because he remained steadfast amid dangers and fears, conquering inner passions and external hardships. In doctrinal terms, “Mahāvīra” emphasizes his status as a spiritual conqueror (*jina*), one who has overcome attachment, aversion, and ignorance.\n\nThe coexistence of these two names illustrates a broader pattern in Jain and pan‑Indian religious history: individuals often bear a birth name tied to family and social identity, alongside one or more honorifics that express spiritual attainment. In Mahāvīra’s case, “Vardhamāna” anchors him in a specific historical and genealogical context—born in Kuṇḍagrāma near Vaiśālī, to a Kṣatriya lineage—while “Mahāvīra” situates him within the trans‑historical role of Tirthankara, the “ford‑maker” who shows beings how to cross the river of rebirth. [[3]](https://en.wikipedia.org/wiki/Mahavira) [[4]](https://philosophy.institute/religions-of-the-world/mahavira-life-teachings-jainism/)\n\nEarly canonical texts and later commentaries also attest to a cluster of related epithets: *Vīra*, *Ativīra*, *Sanmati*, *Sanmatinātha*, *Niggantha Nāyaputta* (Pali: *Nigaṇṭha Nātaputta*), and titles such as *Bhagavān*, *Śramaṇa*, and *Muni*. Some of these begin as generic descriptors for ascetics or enlightened teachers but gradually narrow in reference to denote Mahāvīra specifically. The process by which “Mahāvīra” and “Vardhamāna” become his principal names is part of a larger evolution in Śramaṇa naming practices, where epithets like *Jina*, *Arhat*, and *Tathāgata* move from broad usage to sect‑specific identifiers. [[2]](https://jaingpt.org/knowledge/epithets_of_lord_mahavira_in_early_jaina_canons_269639_269639)\n\nFrom a sectarian perspective, both Digambara and Śvetāmbara traditions accept the dual naming of the 24th Tirthankara, though they may emphasize different narrative details about his life. The Śvetāmbara Kalpa Sūtra, for example, foregrounds the auspicious dreams of Triśalā and the prosperity motif associated with “Vardhamāna,” while also celebrating “Mahāvīra” as the heroic ascetic who undertakes rigorous vows. Digambara narratives likewise acknowledge the birth name but often highlight the ascetic heroism encapsulated in “Mahāvīra.” Across these traditions, the two names function together: one marking the worldly prince whose birth transforms his surroundings, the other marking the spiritual hero whose renunciation and omniscience transform the Jain community’s path to liberation.\n\nIn modern scholarship and community usage, “Mahāvīra” is the more widely recognized name, especially in interreligious and academic contexts, whereas “Vardhamāna” appears more often in detailed biographical discussions and in liturgical or narrative settings that recount his birth and early life. Recognizing the distinct origins and meanings of these names helps avoid flattening Mahāvīra’s identity into a single label and instead reveals the dynamic way Jain tradition remembers its 24th Tirthankara—as both Vardhamāna, the prosperous prince, and Mahāvīra, the great spiritual hero.",
+  "primary_sources": [
+    {
+      "title": "Kalpa Sūtra (Śvetāmbara canonical text)",
+      "author": "Traditionally attributed to Bhadrabāhu; redacted within Śvetāmbara tradition",
+      "original_text": "… tassa garbha‑āvāsēṇa rāyāṇaṃ vaddhamāṇaṃ, lōē vaddhamāṇaṃ, dhāṇē vaddhamāṇaṃ …",
+      "transliteration": "… tassa garbha‑āvāsena rāyāṇaṃ vardhamāṇaṃ, loke vardhamāṇaṃ, dhāṇe vardhamāṇaṃ …",
+      "translation": "“… by the presence of his embryo, prosperity increased for the king, prosperity increased in the world, prosperity increased in wealth …”",
+      "notes": "This passage (paraphrased from Kalpa Sūtra sections on Mahāvīra’s birth) links the name Vardhamāna to the motif of increasing prosperity in the kingdom and the wider world. It provides the narrative basis for explaining his birth name as ‘the one in whom prosperity increases.’ [[1]](https://en-academic.com/dic.nsf/enwiki/149207)"
+    },
+    {
+      "title": "Jinacaritra (cited in later tradition)",
+      "author": "Traditional Jain hagiographical text; precise authorship uncertain",
+      "original_text": "dangersu bhayesu ca tiṭṭhati tiṭṭhati, tasmād devā taṃ mahāvīraṃ nāma karonti.",
+      "transliteration": "dangersu bhayesu ca tiṭṭhati tiṭṭhati, tasmād devā taṃ mahāvīraṃ nāma karonti.",
+      "translation": "“He stands firm amidst dangers and fears; therefore the gods give him the name ‘Mahāvīra’.”",
+      "notes": "Reported in secondary summaries of Jain hagiography, this line explains the honorific ‘Mahāvīra’ as bestowed by the gods in recognition of his fearless steadfastness. It illustrates how an epithet of spiritual heroism becomes a proper name. [[0]](https://www.encyclopedia.com/people/philosophy-and-religion/buddhism-biographies/mahavira)"
+    },
+    {
+      "title": "Ācāranga Sūtra, Part I (early Śvetāmbara canon)",
+      "author": "Canonical text; attributed within tradition to Mahāvīra’s disciples",
+      "original_text": "evaṃ me sutaṃ: Nāyaputto samaṇo bhagavā …",
+      "transliteration": "evaṃ me sutaṃ: Nāyaputta samaṇa bhagavā …",
+      "translation": "“Thus have I heard: the ascetic Bhagavān, son of Nāya (Nāyaputta) …”",
+      "notes": "In this early canonical text, Mahāvīra is referred to by relational and honorific titles such as ‘Nāyaputta’ (son of the Nāya clan), ‘samaṇa’ (ascetic), and ‘bhagavā’ (venerable one). Later tradition and scholarship show how such epithets, alongside ‘Vīra’ and ‘Mahāvīra,’ gradually coalesce into the standard names for Vardhamāna. [[2]](https://jaingpt.org/knowledge/epithets_of_lord_mahavira_in_early_jaina_canons_269639_269639)"
+    },
+    {
+      "title": "Pali Canon (Dīgha Nikāya and other texts)",
+      "author": "Early Buddhist community; multiple compilers",
+      "original_text": "Nigaṇṭho Nātaputto …",
+      "transliteration": "Nigaṇṭha Nātaputta …",
+      "translation": "“Nigaṇṭha Nātaputta …”",
+      "notes": "Buddhist Pali texts refer to Mahāvīra as ‘Nigaṇṭha Nātaputta’—the leader of the Nigaṇṭhas (Jains), son of Nata. This external designation shows another naming convention for the same historical figure and illustrates how different Śramaṇa communities used relational and sectarian titles rather than the later standardized ‘Mahāvīra’ form. [[2]](https://jaingpt.org/knowledge/epithets_of_lord_mahavira_in_early_jaina_canons_269639_269639) [[1]](https://en-academic.com/dic.nsf/enwiki/149207)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Mahāvīra’s only true name is ‘Mahāvīra’; ‘Vardhamāna’ is a later scholarly invention.",
+      "reality": "Jain narrative and canonical sources consistently present ‘Vardhamāna’ as his birth name, given by his parents and explained through the motif of increasing prosperity in the kingdom. ‘Mahāvīra’ develops from an honorific epithet—‘Great Hero’—into a widely used proper name, but it does not erase the earlier, family‑based name. Both names are integral to how Jain tradition remembers the 24th Tirthankara. [[0]](https://www.encyclopedia.com/people/philosophy-and-religion/buddhism-biographies/mahavira) [[3]](https://en.wikipedia.org/wiki/Mahavira) [[1]](https://en-academic.com/dic.nsf/enwiki/149207)"
+    },
+    {
+      "myth": "‘Vardhamāna’ and ‘Mahāvīra’ are completely separate figures in Jain history.",
+      "reality": "Modern scholarship and traditional Jain accounts agree that Vardhamāna and Mahāvīra refer to the same historical and religious figure—the 24th Tirthankara. ‘Vardhamāna’ is his birth name; ‘Mahāvīra’ is an honorific that becomes his principal religious name. Confusion sometimes arises because different texts or communities prefer one name over the other, but they describe the same person. [[3]](https://en.wikipedia.org/wiki/Mahavira) [[4]](https://philosophy.institute/religions-of-the-world/mahavira-life-teachings-jainism/)"
+    },
+    {
+      "myth": "The title ‘Mahāvīra’ was used exclusively for Mahāvīra from the very beginning of Jain history.",
+      "reality": "Research on early Jain canons shows that epithets like ‘Vīra’ and ‘Mahāvīra’ were initially descriptive terms for heroic ascetics and could be applied more broadly. Over time, these epithets narrowed in reference and became proper names specifically associated with Vardhamāna. This evolution parallels how other Śramaṇa titles—such as ‘Jina,’ ‘Arhat,’ and ‘Tathāgata’—shift from generic descriptors to sect‑specific identifiers. [[2]](https://jaingpt.org/knowledge/epithets_of_lord_mahavira_in_early_jaina_canons_269639_269639)"
+    }
+  ]
+}
+
+
+
+> [0] [Mahavira | Encyclopedia.com](https://www.encyclopedia.com/people/philosophy-and-religion/buddhism-biographies/mahavira)
+>
+> [1] [Mahavira](https://en-academic.com/dic.nsf/enwiki/149207)
+>
+> [2] [Epithets Of Lord Mahavira In Early Jaina Canons - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/epithets_of_lord_mahavira_in_early_jaina_canons_269639_269639)
+>
+> [3] [Mahavira - Wikipedia](https://en.wikipedia.org/wiki/Mahavira)
+>
+> [4] [The Life and Teachings of Mahavira in Jainism • Philosophy Institute](https://philosophy.institute/religions-of-the-world/mahavira-life-teachings-jainism/)

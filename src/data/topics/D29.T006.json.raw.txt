@@ -1,0 +1,55 @@
+{
+  "overview": "Mahādhavalā (often written as Mahadhavala) is the name given to the final and most extensive section of the Dhavalā commentary composed by Ācārya Vīrasena on the Digambara Jain canonical text Ṣaṭkhaṅḍāgama. In Digambara tradition, Ṣaṭkhaṅḍāgama is regarded as the foremost preserved scripture (āgama) derived from the ancient oral transmission of Mahāvīra’s teachings, especially portions of the fifth Aṅga (Vyākhyā Prajñapti / Viahapannatti) and the twelfth Aṅga (Dṛṣṭivāda / Diṭṭhivāda). Mahādhavalā, as the concluding part of this massive commentary project, represents a culmination of technical exegesis on karma theory, cosmology, and doctrinal classification, and is counted among the siddhānta texts that safeguard remnants of the lost Aṅgas in the Digambara lineage.\n\nThe Dhavalā commentary as a whole is said to comprise around 72,000 ślokas on Ṣaṭkhaṅḍāgama, with Mahādhavalā designating its last section. Ācārya Vīrasena, working within the scholastic environment of early medieval South India, received Ṣaṭkhaṅḍāgama and related materials such as Kāśyaprabṛhita through a lineage of teachers and produced detailed Sanskrit–Prakrit commentaries that systematize earlier doctrinal strands. Mahādhavalā, together with Dhavalā and Jayadhavalā (the commentary on Kāśyaprabṛhita), is therefore central to the Digambara “siddhānta” corpus: Dhavalā and Mahādhavalā on Ṣaṭkhaṅḍāgama, and Jayadhavalā on Kāśyaprabṛhita.  [[0]](https://handwiki.org/wiki/Religion%3AShatkhandagama)\n\nDoctrinally, Mahādhavalā is especially important for its treatment of karma as a complex, multi‑layered reality involving innumerable varieties, binding conditions, and modes of fruition. It elaborates on categories already present in Ṣaṭkhaṅḍāgama—such as the classification of living beings (jīvasthāna), the structure of karmic influx (āsrava), bondage (bandha), and the stages of spiritual development (guṇasthāna)—and integrates them with sophisticated logical and epistemological discussions. Later Digambara authors and commentators draw heavily on Mahādhavalā when explaining technical points about dravya (substance), guṇa (quality), paryāya (mode), and pramāṇa (means of valid knowledge), so that the text functions both as scriptural exegesis and as a doctrinal encyclopedia.\n\nFrom a textual‑historical perspective, Mahādhavalā is preserved in palm‑leaf manuscripts and modern printed editions that often present the original Prakrit sūtras of Ṣaṭkhaṅḍāgama followed by Vīrasena’s mixed Sanskrit–Prakrit commentary. Critical editions prepared in the twentieth century—such as the Amravati series of Ṣaṭkhaṅḍāgama with Dhavalā—have made portions of Mahādhavalā available to scholars, though the sheer size and technical density of the work mean that only selected parts have been translated into modern languages.  [[1]](https://jaingpt.org/knowledge/shatkhandagama_pustak_01_001395_001395) [[2]](https://jainqq.org/booktext/Shatkhandagama_Pustak_03/001397)\n\nIn contemporary Jain studies, Mahādhavalā is approached as a key witness to early Digambara scholasticism and as a bridge between the more aphoristic style of earlier teachers (e.g., Kundakunda) and the expansive, systematizing commentarial tradition. It is not typically used as a beginner’s text for lay practice; instead, it serves advanced students, monastic scholars, and researchers interested in the historical development of karma theory, cosmology, and epistemology. Because of its technical nature and its status as part of a lineage‑bound siddhānta, guidance from qualified teachers and access to reliable editions are considered essential for serious study.\n\nGiven its canonical weight and doctrinal complexity, Mahādhavalā is best understood not as an isolated book but as the final movement in a larger symphony of Digambara scriptural preservation: the oral teachings transmitted through Dharasena, written down by Puṣpadanta and Bhūtabali in Ṣaṭkhaṅḍāgama, and then expansively interpreted by Vīrasena in Dhavalā and Mahādhavalā.  [[3]](https://en.wikipedia.org/wiki/Satkhandagama) [[0]](https://handwiki.org/wiki/Religion%3AShatkhandagama)",
+  "primary_sources": [
+    {
+      "title": "Ṣaṭkhaṅḍāgama (with Dhavalā and Mahādhavalā commentary)",
+      "author": "Puṣpadanta and Bhūtabali (root text); Ācārya Vīrasena (Dhavalā and Mahādhavalā commentary)",
+      "original_text": "Prakrit sūtras of Ṣaṭkhaṅḍāgama followed by mixed Sanskrit–Prakrit commentary; full text is extensive and not reproduced here.",
+      "transliteration": "Ṣaṭkhaṅḍāgamaḥ, Dhavalā‑ṭīkā, Mahādhavalā‑ṭīkā",
+      "translation": "“Scripture in Six Parts” with the “White” commentary and its concluding section “Great White”; a foundational Digambara āgama elaborating karma theory, cosmology, and spiritual stages, with Mahādhavalā as the final, most extensive portion of the commentary.",
+      "notes": "According to Digambara tradition, Dharasena transmitted portions of the fifth Aṅga (Vyākhyā Prajñapti / Viahapannatti) and twelfth Aṅga (Dṛṣṭivāda / Diṭṭhivāda) orally to Puṣpadanta and Bhūtabali, who then composed the 6000 sūtras of Ṣaṭkhaṅḍāgama (Puṣpadanta writing the first 177, Bhūtabali the remainder). Vīrasena later produced a 72,000‑śloka commentary on this text, whose last section is called Mahādhavalā.  [[3]](https://en.wikipedia.org/wiki/Satkhandagama) [[1]](https://jaingpt.org/knowledge/shatkhandagama_pustak_01_001395_001395) [[0]](https://handwiki.org/wiki/Religion%3AShatkhandagama)"
+    },
+    {
+      "title": "Mahādhavalā (final section of Dhavalā commentary on Ṣaṭkhaṅḍāgama)",
+      "author": "Ācārya Vīrasena",
+      "original_text": "Mixed Sanskrit and Prakrit prose and verse embedded in the Dhavalā commentary; due to length and technicality, only selected passages are available in modern editions and are not reproduced here.",
+      "transliteration": "Mahādhavalā‑ṭīkā",
+      "translation": "“Great Dhavalā” or “Great White Commentary”; the concluding section of Vīrasena’s Dhavalā, offering detailed exegesis on advanced topics such as subtle classifications of karma, dravya–guṇa–paryāya analysis, and higher stages of spiritual development.",
+      "notes": "Mahādhavalā is counted among the Digambara siddhānta texts that preserve doctrinal material linked to the lost Aṅgas. It is transmitted together with Dhavalā and Jayadhavalā (on Kāśyaprabṛhita) and is cited by later Digambara authors when discussing technical aspects of karma and epistemology. Modern access is primarily through printed editions of Ṣaṭkhaṅḍāgama with Dhavalā, where the Mahādhavalā portion is integrated into the commentary sequence.  [[1]](https://jaingpt.org/knowledge/shatkhandagama_pustak_01_001395_001395) [[0]](https://handwiki.org/wiki/Religion%3AShatkhandagama)"
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama Dhavalā‑ṭīkā, Dravya‑Pramāṇānugama (Vol. III and related volumes)",
+      "author": "Ācārya Vīrasena (commentary); modern editors such as Hiralal Jain, Phoolchandra Jain Śāstrī, Devakinandan, A. N. Upadhye",
+      "original_text": "Sanskrit–Prakrit commentary text as preserved in palm‑leaf manuscripts and printed in Devanāgarī script; the volumes include portions of Dhavalā and Mahādhavalā on the Dravya‑Pramāṇānugama section of Ṣaṭkhaṅḍāgama.",
+      "transliteration": "Ṣaṭkhaṅḍāgamaḥ, Dhavalā‑ṭīkā, Dravya‑Pramāṇānugama (sa‑Mahādhavalā)",
+      "translation": "“Ṣaṭkhaṅḍāgama with Dhavalā commentary, Dravya‑Pramāṇānugama section”; these critical editions present the original sūtras and commentary with introductions, notes, and indices, making parts of Mahādhavalā accessible to modern readers.",
+      "notes": "Twentieth‑century editions from Amravati (Jain Sahityoddharak Fund) and related projects provide a scholarly apparatus—introduction, translation, notes, and indices—for Dhavalā and Mahādhavalā on specific sections such as Dravya‑Pramāṇānugama. They are important secondary gateways to the primary commentary, though they must be used with awareness of editorial decisions and manuscript limitations.  [[4]](https://archive.org/details/in.ernet.dli.2015.314127) [[2]](https://jainqq.org/booktext/Shatkhandagama_Pustak_03/001397)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Mahādhavalā is an entirely separate scripture, unrelated to Ṣaṭkhaṅḍāgama and Dhavalā.",
+      "reality": "In Digambara tradition, Mahādhavalā is the final section of Ācārya Vīrasena’s Dhavalā commentary on Ṣaṭkhaṅḍāgama, not an independent āgama. It is structurally and doctrinally continuous with the rest of Dhavalā and is always studied in relation to the underlying Ṣaṭkhaṅḍāgama sūtras.  [[3]](https://en.wikipedia.org/wiki/Satkhandagama) [[0]](https://handwiki.org/wiki/Religion%3AShatkhandagama)"
+    },
+    {
+      "myth": "Mahādhavalā is primarily a devotional or narrative text suitable for casual reading by beginners.",
+      "reality": "Mahādhavalā is a highly technical scholastic commentary focused on karma theory, cosmology, and epistemology. Its dense classifications, logical arguments, and extensive use of Prakrit and Sanskrit make it a text for advanced students and monastic scholars rather than an introductory devotional work. Beginners are usually directed to more accessible texts before approaching Mahādhavalā.  [[1]](https://jaingpt.org/knowledge/shatkhandagama_pustak_01_001395_001395) [[2]](https://jainqq.org/booktext/Shatkhandagama_Pustak_03/001397)"
+    },
+    {
+      "myth": "All of Mahādhavalā has been fully translated into modern languages and is easily available.",
+      "reality": "Although significant portions of Dhavalā and Mahādhavalā have been edited and partially translated, the entire commentary remains vast and only selectively rendered into Hindi or English. Access still depends on specialized editions, manuscript studies, and ongoing scholarly work, and many sections require reading in the original Prakrit–Sanskrit with guidance from qualified teachers.  [[1]](https://jaingpt.org/knowledge/shatkhandagama_pustak_01_001395_001395) [[2]](https://jainqq.org/booktext/Shatkhandagama_Pustak_03/001397) [[4]](https://archive.org/details/in.ernet.dli.2015.314127)"
+    }
+  ]
+}
+
+
+
+> [0] [Religion:Shatkhandagama - HandWiki](https://handwiki.org/wiki/Religion%3AShatkhandagama)
+>
+> [1] [Shatkhandagama Pustak 01 - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/shatkhandagama_pustak_01_001395_001395)
+>
+> [2] [Shatkhandagama Pustak 03 - Jain Quantum](https://jainqq.org/booktext/Shatkhandagama_Pustak_03/001397)
+>
+> [3] [Satkhandagama - Wikipedia](https://en.wikipedia.org/wiki/Satkhandagama)
+>
+> [4] [The Satkhandagama Dhavala Teeka Dravya Pramananugama Vol-3 Khand-1 : Acharya, Virasena : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/in.ernet.dli.2015.314127)

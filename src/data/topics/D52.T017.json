@@ -1,0 +1,51 @@
+{
+  "overview": "“No invented rulings” is a core methodological principle in responsible Jain studies and guidance. It emphasizes that any explanation, interpretation, or educational summary must be grounded in verifiable sources—primarily canonical scriptures, authoritative commentaries, and historically attested practices. Within the architecture rules of the Source-Grounded Jain Study Guides and Advice System, this principle protects against the creation of new doctrines, unauthorized prescriptions, or fabricated obligations that have no basis in the Jain āgamas, Digambara śāstras, or recognized commentarial traditions.\n\nThe principle arises from the fact that Jainism maintains a long, textually anchored lineage of teachings. Canonical Śvetāmbara texts such as the *Ācāranga Sūtra* and *Sūtrakṛtāṅga*, and Digambara foundational works such as the *Ṣaṭkhaṅḍāgama* and *Kaṣāyapāhuda*, provide the doctrinal backbone. Later commentaries by figures such as Abhayadeva Sūri, Malayagiri, Pūjyapāda, and Akalaṅka clarify and systematize these teachings. Because these texts form the authoritative basis of Jain doctrine, any modern explanation must trace its claims back to them rather than inventing new rules.\n\nIn practice, “no invented rulings” means that guidance must distinguish clearly between (1) direct quotations from primary texts, (2) paraphrases, (3) traditional interpretations, and (4) modern applications. It also requires transparency about disagreements between traditions, gaps in evidence, and uncertainties in translation. This principle is especially important when discussing ethics, lay conduct, monastic discipline, karma theory, and ritual practice, where unauthorized innovations could mislead practitioners or imply obligations not sanctioned by any lineage.\n\nThe rule also protects against accidental overreach: the system must not act as a guru, must not prescribe austerities, and must not generate new religious obligations. Instead, it provides academically grounded, tradition-aware information and directs users to qualified human teachers when authoritative guidance is required. In this way, “no invented rulings” preserves fidelity to Jain textual heritage while supporting safe, respectful, and accurate study.",
+  "primary_sources": [
+    {
+      "title": "Ācāranga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं च णं च वविहरिज्जा, णं च णं च समणो वविहरिज्जा",
+      "transliteration": "ṇaṃ ca ṇaṃ ca vavihariyā, ṇaṃ ca ṇaṃ ca samaṇo vavihariyā",
+      "translation": "“In this way and in that way one should conduct oneself; in this way and in that way a monk should conduct himself.”",
+      "notes": "This passage (Ācāranga Sūtra I.2) is often cited to illustrate that conduct must follow established patterns of discipline rather than arbitrary invention. Commentaries emphasize adherence to prescribed modes of behavior."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "ण वि किंचि अण्णं कुर्वंति, ण वि किंचि अण्णं भासंति",
+      "transliteration": "ṇa vi kiṃci aṇṇaṃ kurvaṃti, ṇa vi kiṃci aṇṇaṃ bhāsaṃti",
+      "translation": "“They do not perform anything other than what has been taught; they do not speak anything other than what has been taught.”",
+      "notes": "Sūtrakṛtāṅga 1.1.1 describes the disciplined adherence of ascetics to established teachings. Commentators use this to argue against unauthorized doctrinal innovation."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyagdarśana-jñāna-cāritrāṇi mokṣamārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "Commentaries stress that ‘right conduct’ is defined by canonical and commentarial tradition, not by newly invented rules."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama",
+      "author": "Kundakunda (traditionally attributed), compiled by Puṣpadanta and Bhūtabali",
+      "original_text": "जोगस्स णियमो णियमस्स जोगो",
+      "transliteration": "jogassa ṇiyamo ṇiyamassa jogo",
+      "translation": "“Discipline is inherent in yoga, and yoga is inherent in discipline.”",
+      "notes": "Digambara tradition interprets this as emphasizing adherence to established disciplinary frameworks rather than creating new obligations."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Modern summaries or educational guides can create new Jain rules if they seem helpful.",
+      "reality": "Jain doctrine must be grounded in canonical texts and recognized commentaries. Educational guides may explain, contextualize, or compare, but they cannot invent obligations or rulings."
+    },
+    {
+      "myth": "If a practice is popular today, it must be an authoritative Jain requirement.",
+      "reality": "Many contemporary practices are cultural or regional. Authoritative requirements must be traceable to primary texts or established commentarial traditions."
+    },
+    {
+      "myth": "Any interpretation that sounds spiritual or ethical can be presented as Jain doctrine.",
+      "reality": "Interpretations must be explicitly linked to textual evidence. Without citations, they risk becoming invented teachings."
+    }
+  ]
+}

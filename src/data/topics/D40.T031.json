@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, children’s education (bāla-śikṣā) is understood as a holistic formation of knowledge (jñāna), conduct (cāritra), and compassion (dayā). It is not limited to academic learning but includes cultivating nonviolence, truthfulness, self‑discipline, and awareness of the consequences of actions. Across Jain communities—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—the emphasis remains on nurturing a child’s moral imagination while respecting their developmental needs and autonomy.\n\nJain texts describe education as a lifelong process beginning with early impressions (saṃskāra). The canonical literature often frames childhood as a crucial stage for forming habits that support ethical adulthood. Lay traditions encourage parents and teachers to model ahiṃsā in speech and behavior, provide age‑appropriate stories from Jain narratives, and introduce basic concepts of karma, compassion toward all living beings, and mindful consumption. Modern Jain educators also integrate contemporary pedagogy, emphasizing critical thinking, emotional intelligence, and intercultural awareness.\n\nHistorically, Jain communities established paṭhaśālās and gurukulas where children learned Prakrit, Sanskrit, logic, mathematics, and ethics. Today, Jain schools and Sunday pathśālās continue this legacy, combining scriptural study with arts, meditation, and community service. While traditions differ in ritual practice, they converge on the principle that children should never be coerced into austerities or adult religious obligations. Education must be gentle, encouraging curiosity, and grounded in compassion.\n\nThe Jain approach to children’s education is therefore a synthesis of scriptural ideals, community practice, and contemporary child‑development insights. It aims to cultivate thoughtful, empathetic individuals who understand interdependence and strive to reduce harm in daily life.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अहिंसा सत्यस्तेय ब्रह्मचर्यापरिग्रहा यतिः",
+      "transliteration": "ahiṃsā satya asteya brahmacaryāparigrahā yatiḥ",
+      "translation": "Nonviolence, truth, non-stealing, celibacy, and non‑possession constitute disciplined conduct.",
+      "notes": "While the verse addresses general ethical conduct, Jain educators often use it as a foundational framework for teaching children the five vows in simplified, age‑appropriate forms. The text does not prescribe childhood austerities; instead, communities interpret it as guiding moral development."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "जिवा दुव्विहा — ठाणगया उवगया",
+      "transliteration": "jivā duvvihā — ṭhāṇagaya uvagaya",
+      "translation": "Living beings are of two kinds—stationary and mobile.",
+      "notes": "This classification is frequently used in children’s education to introduce the idea of multiple life forms and the importance of nonviolence toward even the smallest beings. Teachers typically paraphrase and contextualize the concept rather than present technical details to young learners."
+    },
+    {
+      "title": "Gommatsāra Jīvakāṇḍa (Digambara)",
+      "author": "Nemichandra Siddhānta‑cakravartin",
+      "original_text": "जीवो अनन्तानन्तप्रकारो",
+      "transliteration": "jīvo anantānantaprakāro",
+      "translation": "The soul exists in infinitely varied forms.",
+      "notes": "Digambara educators often draw from this text to help children understand diversity of life and the ethical responsibility that follows. The technical karmic details are reserved for advanced learners."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain children are required to practice strict fasting or adult-level austerities.",
+      "reality": "Primary texts do not mandate austerities for children. All major Jain traditions emphasize gentle, age‑appropriate learning and explicitly discourage coercion or practices that could harm health or development."
+    },
+    {
+      "myth": "Jain education focuses only on religious instruction.",
+      "reality": "Historically and today, Jain education includes languages, mathematics, logic, ethics, arts, and community service. Scriptural study is one component within a broader intellectual and moral curriculum."
+    },
+    {
+      "myth": "Children must memorize complex karma theory early on.",
+      "reality": "Traditional pedagogy introduces karma concepts gradually through stories and simple analogies. Technical details from texts like Gommatsāra or Pañcāstikāya are reserved for advanced students."
+    }
+  ]
+}

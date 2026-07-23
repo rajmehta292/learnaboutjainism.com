@@ -1,0 +1,55 @@
+{
+  "overview": "The term “Jain Mahabharatas” refers to a diverse corpus of Jain retellings, reinterpretations, and expansions of the Mahābhārata narrative found across Digambara and Śvetāmbara traditions from roughly the 5th century CE onward. These works are not simple adaptations; they are full-scale re‑narrations shaped by Jain ethical frameworks, cosmology, karmic theory, and the ideal of nonviolence. They belong to the broader Jain *Purāṇa* and *Mahākāvya* tradition, in which pan‑Indian epics are reframed to highlight the workings of karma, the consequences of passion, and the spiritual trajectories of major characters.\n\nJain Mahābhārata literature typically emphasizes the moral decline of the Kṣatriya lineages, the karmic entanglements that lead to the great war, and the eventual liberation of certain protagonists. Characters such as Kṛṣṇa, Baladeva (Balarāma), and Vasudeva figures are reclassified according to Jain narrative typologies found in texts like the *Triṣaṣṭiśalākāpuruṣacaritra*. In many versions, Kṛṣṇa is depicted as a *Vāsudeva*, a heroic but ultimately samsaric figure who attains liberation only after exhausting immense karmic consequences. The war itself is portrayed as a tragic culmination of collective violence rather than a divinely sanctioned event.\n\nMajor Jain Mahābhārata texts include Digambara works such as Jinasena’s *Harivaṃśapurāṇa* (8th–9th c.), Guṇabhadra’s continuation of the same, and Śvetāmbara works such as the *Paumacariya* of Vimalasūri (c. 3rd–5th c.). These texts often diverge sharply from the Sanskrit epic: Draupadī becomes Padmā, the Pāṇḍavas and Kauravas are re‑situated within Jain genealogical cycles, and divine interventions are replaced with karmic causality. The Jain versions also frequently include long digressions on ethics, cosmology, and the nature of liberation, making them important sources for understanding the development of Jain narrative theology.\n\nAcross traditions, Jain Mahābhāratas serve several functions: they provide moral exempla for lay audiences, articulate Jain positions in a shared cultural landscape dominated by Brahmanical epics, and preserve early Prakrit narrative styles. They also demonstrate how Jain authors negotiated interreligious literary space—retaining familiar characters while reshaping their motivations and destinies to align with Jain soteriology.\n\nBecause these works span centuries, manuscript traditions vary, and some passages survive only in partial or regionally transmitted forms. Modern scholarship continues to refine the chronology and intertextual relationships among these texts, especially where Prakrit recensions differ from later Sanskrit redactions.",
+  "primary_sources": [
+    {
+      "title": "Paumacariya",
+      "author": "Vimalasūri (Śvetāmbara)",
+      "original_text": "पउमचरिअ",
+      "transliteration": "Paumacariya",
+      "translation": "“The Conduct of Padmā (Draupadī)” — a Jain retelling of the Mahābhārata emphasizing nonviolence, karmic causality, and the moral decline of warrior lineages.",
+      "notes": "Likely composed between the 3rd–5th centuries CE in Prakrit. One of the earliest Jain narrative reworkings of the Mahābhārata. Replaces divine interventions with karmic explanations and reframes Kṛṣṇa as a Vāsudeva figure."
+    },
+    {
+      "title": "Harivaṃśapurāṇa",
+      "author": "Jinasena (Digambara)",
+      "original_text": "हरिवंशपुराण",
+      "transliteration": "Harivaṃśapurāṇa",
+      "translation": "A Jain Purāṇa recounting the genealogies of the Harivaṃśa line, including Kṛṣṇa, Baladeva, and related figures, integrating Mahābhārata episodes within Jain cosmology.",
+      "notes": "Composed in the 8th–9th century CE. Expanded by Guṇabhadra. Provides one of the most influential Digambara treatments of Mahābhārata characters."
+    },
+    {
+      "title": "Triṣaṣṭiśalākāpuruṣacaritra",
+      "author": "Hemacandra (Śvetāmbara)",
+      "original_text": "त्रिषष्टिशलाकापुरुषचरित्र",
+      "transliteration": "Triṣaṣṭiśalākāpuruṣacaritra",
+      "translation": "“Lives of the Sixty‑Three Illustrious Persons” — includes Jain biographies of Vāsudevas, Baladevas, and Prativāsudevas, providing a Jain framework for Mahābhārata figures.",
+      "notes": "12th century CE Sanskrit text. Not a direct retelling of the Mahābhārata but essential for understanding Jain typological classification of epic characters."
+    },
+    {
+      "title": "Harivaṃśa (Jain Sanskrit Recensions)",
+      "author": "Various Jain redactors",
+      "original_text": "हरिवंश",
+      "transliteration": "Harivaṃśa",
+      "translation": "Jain Sanskrit adaptations of the Harivaṃśa material, often integrating Mahābhārata genealogies with Jain ethical commentary.",
+      "notes": "These recensions vary widely. Some are heavily influenced by earlier Prakrit works, while others incorporate later scholastic expansions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain Mahābhāratas are simply Jainized summaries of the Sanskrit Mahābhārata.",
+      "reality": "They are independent narrative works with distinct theological aims, often diverging sharply from the Sanskrit epic in plot, character motivation, and cosmological framing."
+    },
+    {
+      "myth": "Jain texts portray Kṛṣṇa as identical to the Hindu avatāra of Viṣṇu.",
+      "reality": "Jain sources classify Kṛṣṇa as a Vāsudeva — a heroic but samsaric figure who attains liberation only after immense karmic consequences, not as a divine incarnation."
+    },
+    {
+      "myth": "The Jain versions remove all violence from the Mahābhārata.",
+      "reality": "Violence remains, but it is reframed as tragic karmic entanglement rather than righteous warfare. The texts emphasize the moral cost of violence rather than glorifying it."
+    },
+    {
+      "myth": "All Jain communities use the same Mahābhārata narrative.",
+      "reality": "Digambara and Śvetāmbara traditions preserve different recensions, languages, and interpretive emphases, reflecting regional and sectarian literary developments."
+    }
+  ]
+}

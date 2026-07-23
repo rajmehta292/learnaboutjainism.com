@@ -1,0 +1,27 @@
+{
+  "overview": "Audio licensing is the legal and commercial framework that governs how sound recordings, musical compositions, voiceovers, and other audio assets may be used, shared, distributed, or monetized. It ensures that creators—such as composers, performers, producers, and rights holders—retain control over how their work is accessed and compensated. In practice, audio licensing spans multiple industries including film, television, advertising, gaming, podcasting, live events, and digital streaming platforms.\n\nAt its core, audio licensing distinguishes between two major rights: the rights to the underlying musical composition (usually held by songwriters and music publishers) and the rights to the sound recording (typically held by performers, producers, or record labels). Using a piece of music often requires clearing both sets of rights. For example, synchronizing a song with video requires a synchronization license for the composition and a master-use license for the recording.\n\nAudio licensing also encompasses public performance rights, mechanical rights for reproduction, and digital streaming rights. Organizations such as ASCAP, BMI, SESAC, PRS, and others administer performance rights, while mechanical rights may be handled by agencies like the Harry Fox Agency. In the digital era, licensing has expanded to include royalty-free libraries, Creative Commons frameworks, and subscription-based licensing platforms that simplify access for creators and businesses.\n\nThe field is shaped by copyright law, contract law, and international treaties. Because audio assets can be easily copied and distributed, licensing provides a structured way to protect intellectual property, ensure fair compensation, and maintain ethical use across global markets.",
+  "primary_sources": [
+    {
+      "title": "No applicable Jain primary text",
+      "author": "N/A",
+      "original_text": "N/A",
+      "transliteration": "N/A",
+      "translation": "Audio licensing is a modern legal and commercial topic and does not appear in Jain canonical literature.",
+      "notes": "Because the user requested an encyclopedia article on a contemporary legal topic, there are no Prakrit or Sanskrit primary sources relevant to audio licensing. Jain texts address ethical conduct, property, and non-harm, but not modern copyright frameworks."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "If audio is labeled 'royalty-free,' it is free to use without restrictions.",
+      "reality": "Royalty-free means you do not pay ongoing royalties, but you still must follow the license terms, which may restrict usage, redistribution, or commercial applications."
+    },
+    {
+      "myth": "Purchasing a song on a digital platform gives you the right to use it in videos or commercial projects.",
+      "reality": "Buying a song grants personal listening rights only. Commercial or public uses require additional licensing such as synchronization or performance rights."
+    },
+    {
+      "myth": "Attributing the creator is enough to legally use copyrighted audio.",
+      "reality": "Attribution does not replace licensing. Copyright holders must grant explicit permission unless the audio is in the public domain or covered by a license that allows such use."
+    }
+  ]
+}

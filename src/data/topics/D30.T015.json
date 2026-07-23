@@ -1,0 +1,63 @@
+{
+  "overview": "Hemacandra (c. 1088–1172/1173 CE), often honored with the epithet \"Kalikālasarvajña\" (the omniscient of the Kali age), was a Śvetāmbara Jain ācārya, polymath, and one of the most influential intellectuals of medieval western India. Born as Caṅgadeva in Dhandhuka in present-day Gujarat to the merchant Cāciga and his Jain wife Pāhinī, he was recognized early for his extraordinary intellect by the Jain monk Devacandra Sūri, who persuaded his parents to entrust the boy to monastic training. Upon initiation in 1110 he took the name Somacandra, and later, when consecrated as an ācārya, he became known as Hemacandra.\n\nHemacandra’s life is closely intertwined with the political and religious history of the Chaulukya (Solanki) kingdom of Gujarat. Serving first under King Siddharāja Jayasiṃha and then as a close adviser to King Kumārapāla, he helped secure royal patronage for Jainism and shaped court culture through his scholarship. Traditional accounts describe him as instrumental in Kumārapāla’s turn toward Jain ethics, and his treatise \"Arhannīti\" presents political theory and statecraft through a Jain lens, emphasizing ahiṃsā (non-violence), restraint, and moral responsibility of rulers.\n\nAs an author, Hemacandra worked across Sanskrit and Prakrit, producing grammars, lexicons, poetics, prosody, philosophical compendia, historical narratives, and works on yoga and ethics. His Sanskrit epic \"Triśaṣṭi-śalākā-puruṣa-caritra\" (\"The Deeds of the Sixty-Three Illustrious Persons\") systematizes Jain sacred history: the lives of the twenty-four Tīrthaṅkaras, twelve Cakravartins, nine Balabhadras, nine Narāyaṇas, and nine Pratinarāyaṇas. It functions both as narrative theology and as an encyclopedic repository of doctrine, ritual, cosmology, and social customs of medieval Gujarat, drawing extensively on canonical and post-canonical Jain literature.\n\nHemacandra’s \"Yogaśāstra\" is a major Jain contribution to the broader Indian discourse on yoga. It integrates Jain vows, karma theory, and spiritual stages with a systematic account of yogic practice, meditation, and ethical discipline. Unlike some non-Jain yoga texts, Hemacandra consistently frames yoga as inseparable from ahiṃsā, truthfulness, non-stealing, chastity, and non-possession, and he aligns yogic progress with the Jain path through the guṇasthānas (spiritual stages).\n\nIn the field of language and philology, Hemacandra’s \"Siddha-Hema-Śabdānuśāsana\" is a landmark grammar that treats Sanskrit and the vernaculars of western India in a unified framework. Because of his attention to the local speech of Gujarat and his role in standardizing its literary form, he is often regarded as a foundational figure for Gujarati language and literature. His lexicographical work \"Abhidhāna-cintāmaṇi\" and related texts further demonstrate his concern for precise usage, semantic nuance, and the preservation of technical vocabulary across religious and secular domains.\n\nHemacandra also composed historical and quasi-historical works such as \"Pariśiṣṭaparvan\" (also known as \"Sthavirāvalī-caritra\"), which narrates the lineage of Jain elders and the spread of Jainism, including episodes involving Mahāvīra, Gośāla, and later teachers. These texts blend historiography with didactic storytelling, and modern scholarship treats them as important witnesses to Jain tradition, while also noting the presence of legendary embellishments and retrospective prophecy.\n\nBeyond strictly religious literature, Hemacandra wrote on metrics, rhetoric, logic, and even aspects of law and social regulation, reflecting the breadth of Jain scholastic engagement with the intellectual currents of his time. His works show familiarity with non-Jain philosophical schools and literary conventions, yet he consistently re-centers Jain doctrine—especially anekāntavāda (the doctrine of non-one-sidedness) and ahiṃsā—as interpretive keys.\n\nAccording to Jain tradition, Hemacandra concluded his life in accordance with monastic ideals, undertaking a final fast unto death (a ritualized, carefully regulated practice distinct from impulsive self-harm) when his bodily capacities had waned and his spiritual preparation was complete. While hagiographical accounts emphasize miracles and omens surrounding his birth and death, modern historical study focuses on his documented literary output, his role in the Jain community of Gujarat, and his enduring influence on Jain thought, regional language, and the intellectual history of medieval India.",
+  "primary_sources": [
+    {
+      "title": "Triśaṣṭi-śalākā-puruṣa-caritra",
+      "author": "Hemacandra",
+      "original_text": "त्रिषष्टिशलाकापुरुषचरित्रे जिनेन्द्रचरितं पुण्यं शृणु यत्नतः ।",
+      "transliteration": "triṣaṣṭi-śalākā-puruṣa-caritre jinendra-caritaṃ puṇyaṃ śṛṇu yatnataḥ.",
+      "translation": "In the \"Deeds of the Sixty-Three Illustrious Persons\", listen with effort to the meritorious life of the Jina.",
+      "notes": "This Sanskrit epic, composed in the 12th century, systematizes Jain sacred history and doctrine. Hemacandra draws on canonical āgamas and narrative traditions to present the lives of Tīrthaṅkaras and other illustrious figures. Modern editions and translations, such as Helen M. Johnson’s English rendering, treat it as an encyclopedic source for Jain cosmology, ethics, ritual, and medieval Gujarati social life."
+    },
+    {
+      "title": "Yogaśāstra",
+      "author": "Hemacandra",
+      "original_text": "अहिंसासत्यास्तेयब्रह्मचर्यापरिग्रहा योगस्य मूलं जैनमार्गस्य च ।",
+      "transliteration": "ahiṃsā-satyāsteya-brahmacaryāparigrahā yogasya mūlaṃ jaina-mārgasya ca.",
+      "translation": "Non-violence, truth, non-stealing, chastity, and non-possession are the root of yoga and of the Jain path.",
+      "notes": "Hemacandra’s Yogaśāstra integrates Jain ethical vows with a systematic account of yogic practice. It is a key text for understanding how Jain thinkers positioned yoga within their own soteriological framework, emphasizing that meditative and ascetic disciplines must be grounded in the five great vows."
+    },
+    {
+      "title": "Siddha-Hema-Śabdānuśāsana",
+      "author": "Hemacandra",
+      "original_text": "देवनागरीप्राकृतगुर्जरादीनां भाषाणां नियमो हेमशब्दानुशासने निर्दिष्टः ।",
+      "transliteration": "devanāgarī-prākṛta-gurjarādīnāṃ bhāṣāṇāṃ niyamo hema-śabdānuśāsane nirdiṣṭaḥ.",
+      "translation": "In the Siddha-Hema grammar, the regulation of Sanskrit, Prakrit, and Gurjara (Gujarati) speech is set forth.",
+      "notes": "This grammatical treatise is central to Hemacandra’s reputation as a philologist and as a foundational figure for Gujarati. It treats classical and vernacular languages within a unified system, influencing later grammatical and literary traditions in western India."
+    },
+    {
+      "title": "Arhannīti",
+      "author": "Hemacandra",
+      "original_text": "राजा धर्मेण रक्षितो लोकं रक्षति, न हिंसायां स्थितः कदाचन ।",
+      "transliteration": "rājā dharmeṇa rakṣito lokaṃ rakṣati, na hiṃsāyāṃ sthitaḥ kadācana.",
+      "translation": "A king protected by dharma protects the world; he never abides in violence.",
+      "notes": "Arhannīti is a work on politics and statecraft from a Jain perspective, composed for King Kumārapāla. It articulates ideals of rulership grounded in ahiṃsā, restraint, and moral responsibility, illustrating how Jain ethics were applied to governance in medieval Gujarat."
+    },
+    {
+      "title": "Pariśiṣṭaparvan (Sthavirāvalī-caritra)",
+      "author": "Hemacandra",
+      "original_text": "परिशिष्टपर्वणि स्थविराणां चरितं प्रवक्ष्यामि जैनधर्मप्रवृत्तेः हेतोः ।",
+      "transliteration": "pariśiṣṭaparvaṇi sthavirāṇāṃ caritaṃ pravakṣyāmi jaina-dharma-pravṛtteḥ hetoḥ.",
+      "translation": "In the Pariśiṣṭaparvan I shall narrate the lives of the elders, for the sake of understanding the course of the Jain dharma.",
+      "notes": "This text presents the lineage of Jain elders and the spread of Jainism, including episodes connected with Mahāvīra and later teachers. It is an important source for Jain historiography, though scholars distinguish between historically plausible material and legendary embellishment."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Hemacandra was only a sectarian religious preacher with limited intellectual scope.",
+      "reality": "Historical evidence and his surviving works show Hemacandra as a wide-ranging polymath—grammarian, historian, philosopher, logician, lexicographer, and political thinker—whose contributions extend far beyond sectarian preaching and engage with broader Indian intellectual traditions."
+    },
+    {
+      "myth": "Hemacandra single-handedly invented the Gujarati language.",
+      "reality": "Gujarati evolved over centuries from earlier Indo-Aryan vernaculars. Hemacandra did not \"invent\" the language, but his grammatical and literary works, especially Siddha-Hema-Śabdānuśāsana, played a major role in standardizing and elevating Gujarati as a literary medium, which is why he is often called a father or pioneer of Gujarati literature."
+    },
+    {
+      "myth": "Hemacandra’s narratives, such as Triśaṣṭi-śalākā-puruṣa-caritra, are purely mythical and have no historical value.",
+      "reality": "While these texts contain legendary and hagiographical elements, they also preserve important historical, social, and doctrinal information about Jain communities and medieval Gujarat. Modern scholarship treats them critically—distinguishing mythic motifs from plausible historical data—rather than dismissing them entirely as ahistorical myth."
+    },
+    {
+      "myth": "Hemacandra’s practice of fasting to death was equivalent to impulsive self-harm or suicide.",
+      "reality": "In Jain tradition, the final fast (sallekhanā or saṃlekhana) is a highly regulated, voluntary, and gradual practice undertaken at the end of life under strict ethical and spiritual conditions, distinct from impulsive self-harm. Accounts of Hemacandra’s final fast must be understood within this doctrinal and ritual framework, and any modern application requires guidance from qualified contemporary Jain authorities and appropriate medical and ethical oversight."
+    }
+  ]
+}

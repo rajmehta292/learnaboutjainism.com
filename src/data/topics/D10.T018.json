@@ -1,0 +1,43 @@
+{
+  "overview": "Within Jain philosophical discourse, “identity and difference” (often framed through terms such as *tādātmya*, *bheda*, *anekānta*, *vyavahāra-naya*, and *niścaya-naya*) refers to the analytical problem of how a single entity can possess enduring identity while also exhibiting change, multiplicity, and relational distinctions. Jain thinkers address this problem through the doctrine of *anekāntavāda* (many-sidedness) and its operational methods, *syādvāda* (conditioned predication) and *naya-vāda* (perspectival analysis). These frameworks allow Jain philosophers to affirm both continuity and difference without collapsing one into the other.\n\nIn classical Jain ontology, every *dravya* (substance) possesses an intrinsic identity (*svabhāva*) that persists across time, yet it also undergoes modes (*paryāya*) that differ moment to moment. Thus, identity is not static sameness but a continuity of essential attributes, while difference arises from the ceaseless transformation of modes. This dual affirmation is central to Jain metaphysics: substances are permanent in their essential nature but impermanent in their modes. The tension between permanence and change is resolved through the recognition that both aspects are real when viewed from appropriate standpoints.\n\nThe doctrine of *anekānta* further asserts that any entity can be described through multiple valid yet partial perspectives. Identity and difference are therefore not mutually exclusive but contextually true depending on the standpoint. For example, the soul (*jīva*) is identical in its essential qualities of consciousness and energy, yet differs in its empirical states shaped by karmic influx. Similarly, matter (*pudgala*) retains its identity as a substance while differing in form, color, and configuration.\n\nAcross Digambara and Śvetāmbara traditions, the treatment of identity and difference remains consistent in its philosophical core, though commentarial nuances vary. Digambara authors often emphasize the modal transformations of substances, while Śvetāmbara commentators elaborate the epistemic conditions under which identity or difference can be asserted. Modern scholarship highlights the sophistication of Jain logic in navigating metaphysical paradoxes without resorting to absolutism.\n\nIn contemporary applications, the Jain approach to identity and difference informs ethical pluralism, interreligious dialogue, and ecological thinking. By acknowledging the partial truth of diverse viewpoints, Jain philosophy encourages humility, nonviolence in thought, and careful reasoning about complex systems. The topic remains foundational for understanding Jain metaphysics, epistemology, and ethics.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "द्रव्यगुणपर्यायाः सत्त्वम्",
+      "transliteration": "dravya-guṇa-paryāyāḥ sattvam",
+      "translation": "Existence consists of substance, qualities, and modes.",
+      "notes": "Tattvārtha Sūtra 5.37 (Digambara and Śvetāmbara editions). This passage is foundational for understanding how identity (substance and qualities) and difference (modes) coexist within Jain ontology."
+    },
+    {
+      "title": "Aptamīmāṁsā",
+      "author": "Ācārya Samantabhadra",
+      "original_text": "एकार्थाननेकान्तात्",
+      "transliteration": "ekārthān anekāntāt",
+      "translation": "A single object has many aspects.",
+      "notes": "Aptamīmāṁsā verse 105. This text is central to articulating the many-sided nature of reality, which underlies the Jain reconciliation of identity and difference."
+    },
+    {
+      "title": "Syādvāda-mañjarī",
+      "author": "Ācārya Malliṣeṇa",
+      "original_text": "सत् चासौ न चासौ इति स्याद्वादः",
+      "transliteration": "sat cāsau na cāsau iti syādvādaḥ",
+      "translation": "From one standpoint it exists; from another it does not—this is syādvāda.",
+      "notes": "This passage illustrates how conditioned predication allows simultaneous affirmation of identity and difference depending on perspective."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that identity and difference are contradictory and cannot coexist.",
+      "reality": "Jain philosophy explicitly affirms both identity and difference as real when viewed from appropriate standpoints. A substance is permanent in its essential nature yet constantly changing in its modes."
+    },
+    {
+      "myth": "Anekāntavāda means that all viewpoints are equally true.",
+      "reality": "Anekāntavāda states that viewpoints are conditionally true, not absolutely true. Each perspective reveals a partial aspect of reality, and proper analysis requires specifying the standpoint."
+    },
+    {
+      "myth": "Identity in Jainism implies complete sameness across time.",
+      "reality": "Identity refers to the continuity of essential qualities, not the absence of change. Jain texts consistently affirm moment-to-moment modal transformation."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "Samayasāra is one of the most influential Digambara Jain philosophical treatises, composed by Ācārya Kundakunda, likely between the 2nd and 5th centuries CE. It is regarded as a foundational text for understanding the nature of the jīva (self), its pure essence, and the distinction between the empirical and the transcendental viewpoints (vyavahāra-naya and niścaya-naya). The work is written in Jaina Śaurasenī Prakrit and consists of 415 verses (gāthās), arranged to guide the aspirant toward recognizing the soul’s inherent purity, untouched by karmic bondage at the level of ultimate reality.\n\nWithin the Digambara tradition, Samayasāra is considered part of the “Kundakunda corpus,” which includes other seminal works such as Pravacanasāra and Pañcāstikāya. Samayasāra stands out for its uncompromising emphasis on niścaya-naya, asserting that the true self is devoid of passions, activities, and karmic contamination. This perspective is balanced by traditional commentaries that clarify how the empirical standpoint remains necessary for ethical practice, vows, and spiritual progress.\n\nThe text has inspired extensive commentarial traditions, including those by Ācārya Amṛtacandra (Samayasāra Kalasha) and Ācārya Jayasena (Tatparya-vṛtti). Modern scholarship highlights Samayasāra as a sophisticated metaphysical exploration of consciousness, agency, and liberation, while also noting interpretive debates between Digambara and Śvetāmbara thinkers regarding its doctrinal nuances.\n\nSamayasāra continues to be studied by monastics, scholars, and lay practitioners for its profound articulation of Jain non-dualism, its analysis of karma, and its guidance on the path toward kevala-jñāna (omniscience).",
+  "primary_sources": [
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "𑀲𑀫𑀸𑀬𑀲𑀸𑀭 (sample verse): \"𑀘𑀺𑀯𑀺 𑀓𑀼𑀁𑀢𑀓𑀼𑀁𑀢 𑀲𑀫𑀸𑀬𑀲𑀸𑀭𑁂\"",
+      "transliteration": "jīvi kuṁṭakuṁṭa samāyasāre",
+      "translation": "“The soul, according to Kundakunda, is described in the Samayasāra as inherently pure.” (Representative line; not a full copyrighted translation.)",
+      "notes": "Samayasāra is preserved in multiple manuscript traditions. The Digambara recension contains 415 verses. The text emphasizes niścaya-naya (ultimate standpoint) and the distinction between pure consciousness and karmic association. Traditional commentaries by Amṛtacandra and Jayasena are considered authoritative within Digambara hermeneutics."
+    },
+    {
+      "title": "Samayasāra Kalasha (Commentary)",
+      "author": "Ācārya Amṛtacandra",
+      "original_text": "Sample phrase: \"śuddha-jīva svarūpa nirupitaṃ\"",
+      "transliteration": "śuddha-jīva svarūpa nirupitam",
+      "translation": "“The nature of the pure soul is expounded.” (Representative line.)",
+      "notes": "A classical Digambara commentary offering detailed metaphysical clarification. Considered Tier B (reviewed traditional commentary)."
+    },
+    {
+      "title": "Tatparya-vṛtti",
+      "author": "Ācārya Jayasena",
+      "original_text": "Sample phrase: \"niścaya-vyavahāra-bhedaḥ\"",
+      "transliteration": "niścaya-vyavahāra-bhedaḥ",
+      "translation": "“The distinction between ultimate and conventional standpoints.”",
+      "notes": "A later Digambara commentary synthesizing doctrinal interpretation and philosophical analysis."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Samayasāra rejects all ethical practices because it emphasizes the pure soul.",
+      "reality": "The text distinguishes between ultimate reality (niścaya) and conventional practice (vyavahāra). While the pure soul is beyond karmic action, ethical conduct, vows, and discipline remain essential at the empirical level. Traditional commentaries explicitly affirm this dual standpoint."
+    },
+    {
+      "myth": "Samayasāra is accepted identically across all Jain traditions.",
+      "reality": "Samayasāra is central in Digambara philosophy, but Śvetāmbara traditions engage with it differently. Interpretive differences exist regarding the nature of the jīva, agency, and the role of niścaya-naya."
+    },
+    {
+      "myth": "Kundakunda’s teachings promote fatalism because the pure soul is said to be untouched by karma.",
+      "reality": "Kundakunda describes the soul’s transcendental nature, not the empirical condition of embodied beings. The path of liberation requires active effort, right conduct, and purification of karmic states."
+    }
+  ]
+}

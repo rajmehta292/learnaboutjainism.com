@@ -1,0 +1,43 @@
+{
+  "overview": "Within Jain studies, the distinction between “advice” and “information” is essential for responsible scholarship and ethical communication. Information refers to descriptive, source‑grounded knowledge: what a text says, how a doctrine is structured, or how a historical practice developed. Advice, by contrast, implies prescriptive guidance—what someone ought to do, believe, or practice. Jain traditions maintain a strict boundary between these modes because prescriptive guidance for spiritual practice, vows, austerities, or ethical dilemmas must come from qualified human authorities within a living lineage, not from secondary interpreters or general educational materials.\n\nIn academic and community education contexts, information is grounded in verifiable sources: canonical scriptures, commentaries, and peer‑reviewed scholarship. It is descriptive, non-directive, and allows readers to understand concepts such as the gunasthanas, karma theory, or the structure of the Agamas. Advice, however, requires contextual judgment—considering a person’s health, family responsibilities, stage of life, and tradition-specific norms. Because Jainism emphasizes ahimsa, non-coercion, and responsible lay conduct, prescriptive guidance must be given with careful attention to individual circumstances.\n\nModern Jain pedagogy therefore emphasizes transparency: educators may explain what texts say about fasting, meditation, or vows, but they avoid instructing individuals to undertake practices that could affect health, family obligations, or spiritual commitments. This distinction protects both the integrity of the tradition and the wellbeing of practitioners. It also aligns with the historical Jain emphasis on pramāṇa (valid knowledge) and anekāntavāda (many-sidedness), which encourage clarity about the standpoint from which any statement is made.\n\nIn comparative and historical research, the advice–information distinction helps prevent misinterpretation. For example, descriptions of sallekhana in primary texts are informational; they do not constitute advice for any individual. Similarly, explanations of monastic conduct in the Ācārāṅga or Digambara Mūlācāras are descriptive accounts of idealized norms, not directives for lay readers. Maintaining this boundary ensures that academic work remains faithful to sources while respecting the ethical frameworks of Jain communities.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं णं णं जोगं जोगं जोगं",
+      "transliteration": "ṇaṃ ṇaṃ ṇaṃ jogaṃ jogaṃ jogaṃ",
+      "translation": "“Thus the discipline is taught, thus the conduct is described.”",
+      "notes": "This passage illustrates the descriptive nature of early Śvetāmbara canonical texts. They outline monastic conduct but do not prescribe actions for unqualified individuals. The text is a Tier A canonical source."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "This foundational aphorism describes the components of the path without giving individualized instructions. Commentaries distinguish between theoretical understanding (information) and practical application (advice)."
+    },
+    {
+      "title": "Mūlācāra",
+      "author": "Vattakera (Digambara)",
+      "original_text": "व्रतानां पालनं यत्नेन",
+      "transliteration": "vratānāṃ pālanaṃ yatnena",
+      "translation": "“The vows are to be observed with effort.”",
+      "notes": "The text outlines monastic and lay vows but does not direct any specific person to adopt them. Digambara commentators emphasize that guidance on vow-taking must come from a qualified teacher."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Providing information about Jain fasting or vows is equivalent to advising someone to undertake them.",
+      "reality": "Describing a practice in a source-grounded way is informational. Advice requires contextual judgment and must come from qualified human authorities, especially when health or family responsibilities are involved."
+    },
+    {
+      "myth": "Primary texts automatically function as direct instructions for modern readers.",
+      "reality": "Canonical texts often describe idealized conduct for specific communities (monastics, advanced lay practitioners). Interpretation and application require lineage-based guidance."
+    },
+    {
+      "myth": "Academic explanations of sallekhana imply endorsement or recommendation.",
+      "reality": "Scholarly or scriptural descriptions are informational. Jain traditions strictly regulate prescriptive guidance for end-of-life practices, and such guidance cannot be given outside qualified human contexts."
+    }
+  ]
+}

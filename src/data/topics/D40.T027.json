@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “regional variation” refers to the historically observable differences in practice, manuscript traditions, monastic organization, ritual forms, linguistic usage, and community customs across geographic regions of South Asia. These variations emerged over more than two millennia as Jain communities interacted with local languages, political structures, trade networks, and cultural environments. While the core doctrinal commitments—such as the authority of the Tirthankaras, the centrality of ahiṃsā, the structure of karma theory, and the path of liberation—remain consistent, the lived expression of Jainism shows meaningful diversity.\n\nRegional variation can be seen in the development of distinct sectarian lineages. For example, Digambara traditions historically flourished in regions such as Karnataka and Bundelkhand, producing major philosophical works in Sanskrit and Prakrit, while Śvetāmbara communities developed strong centers in Gujarat and Rajasthan, preserving extensive manuscript libraries and ritual traditions. Even within sects, sub‑traditions such as Mūrtipūjaka, Sthānakavāsī, and Terāpanth arose in specific regional contexts, each responding to local debates about image worship, monastic discipline, and community organization.\n\nLanguage is a major axis of regional variation. Canonical texts of the Śvetāmbara tradition are preserved in Ardhamāgadhī Prakrit, but their commentaries often reflect regional linguistic environments, including Gujarati, Rajasthani, and Sanskrit. Digambara scriptures and commentaries frequently use Jain Śaurasenī, Sanskrit, and regional languages such as Kannada. These linguistic differences shaped interpretive traditions and pedagogical styles.\n\nRitual practice also varies regionally. Temple architecture in Gujarat differs from that of Karnataka; pilgrimage circuits such as Śatruñjaya, Girnar, and Śravaṇabeḷagoḷa reflect regional sacred geographies; and festivals may incorporate local customs while retaining pan‑Jain theological meaning. Lay practice, including dietary norms, business ethics, and community organization, often reflects regional social structures while remaining anchored in Jain ethical principles.\n\nModern scholarship emphasizes that regional variation is not fragmentation but a sign of Jainism’s adaptability. It demonstrates how communities preserved core teachings while engaging creatively with diverse cultural settings. Understanding these variations helps scholars and practitioners appreciate the breadth of Jain heritage and the historical processes that shaped its development.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to the Gaṇadharas; Śvetāmbara canon",
+      "original_text": "एवं खु अहं णं पव्वयणं पव्वयणं विहरइ",
+      "transliteration": "evaṃ khu ahaṃṇaṃ pavvayaṇaṃ pavvayaṇaṃ viharaï",
+      "translation": "“Thus indeed the monk wanders from region to region.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.7) highlights early Jain awareness of regional movement and the need for monastic discipline across diverse locales. It is often cited to show that regional variation was present even in early Jain history."
+    },
+    {
+      "title": "Samavāyāṅga Sūtra",
+      "author": "Śvetāmbara canon",
+      "original_text": "जोगभूइओ बहुविहा",
+      "transliteration": "jogabhūio bahu-vihā",
+      "translation": "“Sacred places are of many kinds.”",
+      "notes": "This brief canonical statement (Samavāyāṅga Sūtra 16) is used in traditional commentaries to explain the multiplicity of regional sacred sites and pilgrimage traditions."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "नानाभूमिचरियं णाणस्स कारणं",
+      "transliteration": "nānā-bhūmi-cariyaṃ ñāṇassa kāraṇaṃ",
+      "translation": "“Movement through diverse regions is a cause for knowledge.”",
+      "notes": "A Digambara cosmological text that acknowledges regional diversity in human experience. Commentators use this line to discuss how regional contexts shape practical aspects of Jain life."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Regional variation means that Jainism is inconsistent or fragmented.",
+      "reality": "Core Jain doctrines—such as the authority of the Tirthankaras, karma theory, and the path to liberation—remain stable across regions. Variation occurs mainly in language, ritual expression, and community organization, not in foundational philosophy."
+    },
+    {
+      "myth": "Differences between Digambara and Śvetāmbara traditions are purely regional.",
+      "reality": "Although historical geography influenced sectarian development, the distinctions between Digambara and Śvetāmbara traditions involve doctrinal, textual, and monastic differences that cannot be reduced to regional factors alone."
+    },
+    {
+      "myth": "Regional customs are innovations without scriptural basis.",
+      "reality": "Many regional practices are grounded in canonical principles but adapted to local conditions. Traditional commentaries often explain how core teachings can be applied differently across regions while maintaining doctrinal integrity."
+    }
+  ]
+}

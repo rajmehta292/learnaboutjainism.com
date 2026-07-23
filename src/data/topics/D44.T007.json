@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, fairness is not treated as a standalone virtue but emerges from a constellation of ethical principles rooted in non‑violence (*ahiṃsā*), non‑possessiveness (*aparigraha*), truthfulness (*satya*), and the doctrine of manifoldness (*anekāntavāda*). Fairness, in this context, refers to the disciplined effort to perceive situations without attachment, prejudice, or harm, and to act in ways that uphold equality of moral consideration for all living beings. \n\nWithin classical Jain philosophy, fairness is closely tied to *samyak darśana* (right perception) and *samyak cāritra* (right conduct). A person who sees reality through the lens of non‑violence and non‑attachment is naturally inclined toward fair treatment of others, because fairness requires the reduction of ego-driven partiality. The Jain lay codes (*śrāvakācāra*) emphasize impartiality in speech, commerce, and social dealings, warning that unfairness generates karmic bondage through deceit, exploitation, or harm. \n\nAnekāntavāda contributes a unique dimension: fairness in judgment requires acknowledging that every viewpoint is partial. By recognizing the limits of one’s own perspective, one cultivates intellectual humility and avoids dogmatic or unjust conclusions. This epistemic fairness is considered essential for ethical fairness. \n\nAcross Digambara and Śvetāmbara traditions, fairness is expressed through practical guidelines: honest trade, equitable treatment of workers, avoidance of harsh speech, and careful attention to the consequences of one’s actions on all forms of life. Modern Jain thinkers extend this to social justice, environmental stewardship, and compassionate conflict resolution, while maintaining that fairness must never override the foundational principle of non‑violence.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non‑violence is the supreme duty.",
+      "notes": "While the sutra does not explicitly use the term 'fairness', Jain commentators (B‑tier) explain that fairness in conduct arises from the commitment to non‑violence, which prohibits partiality, exploitation, and unjust harm."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Attributed to Śvetāmbara canonical compilers",
+      "original_text": "सव्वे पाणा समा भावा",
+      "transliteration": "savve pāṇā samā bhāvā",
+      "translation": "All living beings are equal in their sentience.",
+      "notes": "This passage provides the metaphysical basis for fairness: equality of beings implies impartial moral consideration. Commentaries emphasize that unfairness arises when one privileges personal gain over the equal worth of others."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "न हन्तव्वं, न घातव्वं",
+      "transliteration": "na hantavvaṃ, na ghātavvaṃ",
+      "translation": "One should not harm, one should not cause harm.",
+      "notes": "Fairness is indirectly grounded here: harm often arises from unfair treatment, deceit, or exploitation. The text frames ethical impartiality as part of disciplined non‑violence."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra)",
+      "author": "Pūjyapāda (Digambara)",
+      "original_text": "अनेकान्ताद् दोषपरिहारः",
+      "transliteration": "anekāntād doṣaparihāraḥ",
+      "translation": "Through manifoldness, faults of one‑sided judgment are avoided.",
+      "notes": "This B‑tier commentary links epistemic humility to ethical fairness. Avoiding one‑sidedness prevents unjust or biased decisions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Fairness in Jainism means treating all people identically.",
+      "reality": "Jain ethics emphasizes impartiality of moral concern, not uniform treatment. Actions must be tailored to minimize harm, which may require different responses in different contexts."
+    },
+    {
+      "myth": "Fairness is a modern concept not found in classical Jain texts.",
+      "reality": "While the term 'fairness' is modern, its ethical components—non‑violence, truthfulness, equality of beings, and avoidance of partiality—are deeply rooted in primary Jain scriptures and commentaries."
+    },
+    {
+      "myth": "Anekāntavāda only concerns philosophy and has no ethical relevance.",
+      "reality": "Jain tradition explicitly connects manifoldness to ethical conduct. Recognizing partial viewpoints reduces dogmatism and supports fair, non‑harmful decision‑making."
+    }
+  ]
+}

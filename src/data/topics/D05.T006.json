@@ -1,0 +1,51 @@
+{
+  "overview": "Nirjarā (निर्जरा) is one of the central technical concepts in Jain karma theory, referring to the ‘shedding’ or ‘disintegration’ of karmic matter (karma‑paudgalika dravya) bound to the soul (jīva). In the classical Jain model, karma is conceived as a subtle material substance that attaches to the soul due to passions (kaṣāyas) and activities (yoga). Liberation (mokṣa) requires both stopping new karmic influx (saṃvara) and removing previously accumulated karma (nirjarā). Nirjarā is therefore the active process by which the soul becomes progressively lighter, less obscured, and capable of ascending the guṇasthāna ladder.\n\nJain texts distinguish two major forms: **bhāva‑nirjarā**, the internal, psychological, and ethical transformation that weakens passions; and **dravya‑nirjarā**, the literal dissociation of karmic particles from the soul. Bhāva‑nirjarā is achieved through disciplined conduct, meditation, repentance, and cultivation of equanimity. Dravya‑nirjarā is the metaphysical consequence of these practices, described in technical detail in canonical and post‑canonical works.\n\nA further distinction is made between **savipāka‑nirjarā** (shedding karma after its natural maturation) and **avipāka‑nirjarā** (shedding karma prematurely through austerities). The latter is especially emphasized in Digambara and Śvetāmbara ascetic manuals, where tapas (austerities) are classified into external (bāhya) and internal (ābhyantara) forms. Internal austerities—such as prāyaścitta (atonement), vinaya (humility), vaiyāvṛtya (service), svādhyāya (scriptural study), dhyāna (meditation), and vyutsarga (abandonment of attachment)—are repeatedly described as the most potent for nirjarā.\n\nNirjarā is not merely a moral or psychological idea; it is a technical stage in the soul’s ascent. In the guṇasthāna system, significant nirjarā occurs from the 4th stage onward, intensifying dramatically at the 12th and 13th stages, where passions are eliminated. Complete nirjarā—shedding all remaining karmas—is achieved only at the 14th guṇasthāna, resulting in kevalajñāna (omniscience) and, at death, mokṣa.\n\nAcross Jain traditions, nirjarā is treated with nuance. Digambara texts often emphasize the role of intense internal austerities and passionlessness, while Śvetāmbara Mūrtipūjaka sources highlight ritual, repentance, and meditative practices. Sthānakavāsī and Terāpanth traditions stress non‑ritualistic internal purification and prekṣā‑based meditation. Despite these differences, all agree that nirjarā is indispensable for liberation and must be grounded in ethical transformation rather than mere physical hardship.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmī (traditionally attributed)",
+      "original_text": "निर्जरा च",
+      "transliteration": "nirjarā ca",
+      "translation": "“And there is the shedding of karma.”",
+      "notes": "Tattvārtha Sūtra 9.3 introduces nirjarā as one of the seven fundamental tattvas. Commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi, Śvetāmbara commentaries by Siddhasena and others) elaborate the distinction between savipāka and avipāka nirjarā, and the role of austerities."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "तवस्सिणो तवस्सेणं पावं पच्छवणं करन्ति",
+      "transliteration": "tavassiṇo tavasseṇaṃ pāvaṃ pacchavaṇaṃ karanti",
+      "translation": "“The ascetics, through austerity, burn away their karmas.”",
+      "notes": "This passage (Uttarādhyayana Sūtra 30) is frequently cited in Śvetāmbara tradition to illustrate avipāka‑nirjarā through tapas."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "कर्मणां निर्जरा भावेन द्रव्येण च",
+      "transliteration": "karmaṇāṃ nirjarā bhāvena dravyeṇa ca",
+      "translation": "“The shedding of karmas occurs through states of mind and through the material dissociation.”",
+      "notes": "Although phrasing varies across manuscripts, Digambara tradition consistently distinguishes bhāva‑ and dravya‑nirjarā. Detailed technical analysis appears in commentaries such as Dhavalā and Mahādhavalā."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Kundakunda",
+      "original_text": "तवस्सेणं कम्मं झायंति",
+      "transliteration": "tavasseṇaṃ kammaṃ jhāyaṃti",
+      "translation": "“Through austerity, karmas are destroyed.”",
+      "notes": "Kundakunda’s works emphasize internal austerity and passionlessness as the true mechanism of nirjarā, aligning with Digambara philosophical priorities."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Nirjarā is only about physical austerities such as fasting.",
+      "reality": "Primary texts consistently state that internal austerities—humility, repentance, meditation, and abandonment of attachment—are more potent for nirjarā than external austerities. Physical austerities without ethical transformation do not produce meaningful karmic shedding."
+    },
+    {
+      "myth": "Nirjarā automatically occurs with the passage of time.",
+      "reality": "Only savipāka‑nirjarā follows natural maturation. Avipāka‑nirjarā requires deliberate ethical and meditative effort. Jain doctrine stresses intentional practice rather than passive waiting."
+    },
+    {
+      "myth": "Nirjarā can be achieved fully by laypeople.",
+      "reality": "Laypeople can perform significant bhāva‑nirjarā, but complete dravya‑nirjarā—shedding all karmas—occurs only at the highest guṇasthānas, reached by liberated souls. Lay practice contributes to gradual purification but does not culminate in total nirjarā."
+    }
+  ]
+}

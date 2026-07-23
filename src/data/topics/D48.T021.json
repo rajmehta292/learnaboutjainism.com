@@ -1,0 +1,51 @@
+{
+  "overview": "Festival learning in Jainism refers to the structured study, reflection, and ethical cultivation that accompanies the observance of Jain festivals across Śvetāmbara, Digambara, and non‑mūrti‑pūjaka traditions. Rather than functioning merely as occasions of celebration, Jain festivals are pedagogical frameworks that reinforce ahiṃsā, self‑restraint, scriptural literacy, and communal harmony. In classical sources, festivals are tied to karmic purification, remembrance of tīrthaṅkaras, and renewal of lay vows. Modern Jain communities extend these functions through educational programs, youth curricula, and intergenerational learning.\n\nFestival learning typically integrates four layers: (1) **Narrative study**, where episodes from the lives of tīrthaṅkaras, śrāvakas, and śrāvikās are read or recited; (2) **Ethical practice**, including fasting, pratikramaṇa, meditation, and charity; (3) **Community pedagogy**, such as lectures, scriptural classes, and children’s activities; and (4) **Cultural transmission**, including songs, rituals, and arts that preserve linguistic and regional heritage. Across traditions, festivals such as Paryuṣaṇa/Daśalakṣaṇa, Mahāvīra Jayantī, and Śruta‑pañcamī serve as focal points for intensified learning.\n\nIn contemporary diaspora settings, festival learning often includes multilingual materials, structured curricula for youth groups, and comparative sessions that explain differences between sects. While the forms vary, the underlying purpose remains consistent: festivals are opportunities to deepen understanding of Jain dharma, cultivate compassion, and renew personal commitments to non‑violence and truth.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This foundational aphorism (TS 1.1) is frequently invoked during festival periods—especially Paryuṣaṇa and Daśalakṣaṇa—to emphasize that festivals are occasions for strengthening the three jewels rather than mere ritual observance."
+    },
+    {
+      "title": "Kalpa Sūtra (Śvetāmbara)",
+      "author": "Traditional redaction attributed to Bhadrabāhu",
+      "original_text": "एवं मे भगवतो महावीरस्य जन्मकर्मनिर्वाणं",
+      "transliteration": "evaṃ me bhagavato mahāvīrasya janma‑karma‑nirvāṇaṃ",
+      "translation": "Thus are the accounts of the birth, deeds, and liberation of the Blessed Mahāvīra.",
+      "notes": "Read publicly during Paryuṣaṇa in Śvetāmbara Mūrti‑pūjaka communities, the text provides narrative material that forms the backbone of festival learning. Recitation is often accompanied by commentary sessions."
+    },
+    {
+      "title": "Daśalakṣaṇa Dharma (Digambara)",
+      "author": "Canonical theme rather than a single authored text",
+      "original_text": "उत्तम क्षमा, मार्दव, आर्जव, शौच, सत्य, संयम, तप, त्याग, आकिंचन्य, ब्रह्मचर्य",
+      "transliteration": "uttama kṣamā, mārdava, ārjava, śauca, satya, saṃyama, tapa, tyāga, ākiñcanya, brahmacarya",
+      "translation": "Supreme forgiveness, humility, straightforwardness, purity, truth, restraint, austerity, renunciation, non‑possessiveness, and celibacy.",
+      "notes": "During the Digambara Daśalakṣaṇa festival, each day is devoted to one virtue. Learning involves scriptural study, lectures, and reflective practices tied to these ten dharmas."
+    },
+    {
+      "title": "Āvaśyaka Niryukti (Śvetāmbara)",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "सामायिकं नाम सर्वदोषविरहितं",
+      "transliteration": "sāmāyikaṃ nāma sarva‑doṣa‑virahitaṃ",
+      "translation": "Sāmāyika is that state free from all faults.",
+      "notes": "Festival learning often includes intensified sāmāyika practice. The Niryukti provides technical definitions used in teaching sessions during major festivals."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain festivals are primarily social or cultural events.",
+      "reality": "Across sects, festivals are structured as periods of intensified study, ethical discipline, and karmic purification. Social elements exist but are secondary to learning and reflection."
+    },
+    {
+      "myth": "Only monks and nuns engage in scriptural study during festivals.",
+      "reality": "Lay participation in study is central. Text recitation, lectures, and youth classes are designed specifically for householders."
+    },
+    {
+      "myth": "Festival learning is identical across all Jain traditions.",
+      "reality": "While core values overlap, Śvetāmbara, Digambara, Sthānakavāsī, and Terāpanth traditions differ in texts emphasized, ritual forms, and pedagogical styles. These differences are acknowledged and respected within Jain pluralism."
+    }
+  ]
+}

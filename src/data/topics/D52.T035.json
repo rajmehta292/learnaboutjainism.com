@@ -1,0 +1,43 @@
+{
+  "overview": "Privacy minimization refers to the deliberate reduction of unnecessary exposure of personal information, actions, intentions, or inner states. In Jain philosophical and ethical contexts, it aligns with broader principles of aparigraha (non‑possessiveness), samiti (carefulness), and vinaya (modesty and restraint). The concept is not framed in classical Jain texts using modern terminology such as “privacy,” but the underlying ethical patterns—minimizing disclosure, avoiding harm through speech, and reducing ego-driven self-display—are deeply embedded in both Śvetāmbara and Digambara traditions.\n\nIn contemporary discourse, privacy minimization also intersects with digital ethics, data protection, and responsible communication. From a Jain perspective, the minimization of personal exposure can be understood as a practice that reduces potential harm (hiṃsā) caused by misuse of information, curbs passions (kaṣāyas) associated with self-promotion, and supports mindful living. It encourages individuals to share only what is necessary, to avoid speech that leads to conflict or exploitation, and to cultivate inner discipline.\n\nHistorically, Jain monastic codes emphasize discretion, modesty, and careful speech. Lay conduct texts similarly advise householders to avoid gossip, refrain from revealing others’ faults, and maintain boundaries that prevent harm. Modern applications extend these principles to digital environments, where minimizing data footprints, limiting unnecessary disclosures, and practicing mindful communication can be seen as contemporary expressions of ancient ethical commitments.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "ण वि णोवदि किंचि",
+      "transliteration": "ṇa vi ṇovadi kiñci",
+      "translation": "“One should not speak anything unnecessarily.”",
+      "notes": "Ācārāṅga Sūtra 1.7 emphasizes restraint in speech. While not about privacy in a modern sense, the principle of avoiding unnecessary disclosure is foundational for ethical communication."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmī",
+      "original_text": "वैरमनःकायवाक् कर्मणाम्",
+      "transliteration": "vairamaṇaḥ-kāya-vāk-karmaṇām",
+      "translation": "“Restraint of harmful actions of body, speech, and mind.”",
+      "notes": "Tattvārtha Sūtra 7.1 describes samiti and gupti (carefulness and control). Minimizing unnecessary exposure of personal information can be interpreted as a modern extension of controlling speech and mental impulses."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Attributed to Śramaṇa tradition",
+      "original_text": "अविरुद्धं भणेज्जा",
+      "transliteration": "aviruddhaṃ bhaṇejjā",
+      "translation": "“Speak only what does not cause conflict.”",
+      "notes": "This passage highlights the ethical importance of selective and careful communication, which aligns with privacy minimization by discouraging disclosure that may lead to harm."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Privacy minimization means withholding all personal information.",
+      "reality": "Jain ethics encourage restraint and carefulness, not total secrecy. Necessary communication—especially for safety, relationships, and responsibilities—is fully supported."
+    },
+    {
+      "myth": "Privacy minimization is only a modern digital concept.",
+      "reality": "While the term is modern, Jain texts have long emphasized careful speech, modesty, and non‑harm, which naturally support minimizing unnecessary disclosure."
+    },
+    {
+      "myth": "Practicing privacy minimization requires monastic discipline.",
+      "reality": "Laypeople can practice privacy minimization through mindful communication, reduced digital exposure, and ethical sharing without adopting monastic vows."
+    }
+  ]
+}

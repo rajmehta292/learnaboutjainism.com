@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical literature, “energy” is not treated as a single unified category in the modern scientific sense. Instead, Jain thinkers describe multiple modes of potency, activity, and causal efficacy across living beings (jīva), karmic matter (karma‑dravya), and physical substances (pudgala). Energy is understood through the broader ontology of six dravyas (substances), each possessing its own inherent guṇa (quality) and śakti (capacity). Pudgala, the material substance, is the closest analogue to physical energy because it includes both matter and what classical texts call tejas (heat, fire) and vāyu (air), which function as forms of energetic activity. Jīva possesses its own intrinsic vitality (upayoga), expressed as consciousness and activity. Karmic particles carry a subtle form of causal potency that influences the soul’s capacities.\n\nAcross traditions, Jain authors emphasize that energy is neither created nor destroyed; substances are eternal, and their modes (paryāya) continuously transform. This aligns conceptually with conservation principles, though Jainism frames it metaphysically rather than mathematically. The movement of pudgala, the binding and fruition of karma, and the activities of jīva are all governed by natural laws (niyamas) rather than divine intervention. Thus, “energy” in Jain thought is best understood as the dynamic interplay of eternal substances undergoing constant modification.\n\nModern Jain scholarship often correlates tejas with thermodynamic heat, vāyu with kinetic motion, and pudgala’s fine particles with forms of subtle materiality. However, these comparisons are interpretive and not explicit in primary texts. Jainism does not propose a unified physical theory of energy; instead, it offers a metaphysical framework in which all change—physical, mental, karmic—is an expression of the inherent capacities of substances interacting according to natural laws.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "तेजवायवपुद्गलाः",
+      "transliteration": "teja-vāyava-pudgalāḥ",
+      "translation": "Heat, air, and matter are forms of pudgala.",
+      "notes": "Tattvārtha Sūtra 5.23 identifies tejas and vāyu as modes of pudgala. Commentators explain tejas as heat/fire and vāyu as motion/air, both functioning as energetic expressions of material substance."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Nemicandra Siddhānta Cakravartin",
+      "original_text": "उपयोगो जीवस्य लक्षणम्",
+      "transliteration": "upayogo jīvasya lakṣaṇam",
+      "translation": "The characteristic of the soul is upayoga (manifestation of consciousness).",
+      "notes": "While not describing physical energy, this passage shows that jīva possesses an intrinsic potency expressed as awareness and activity. Jain philosophers treat this as a fundamental form of non-material ‘energy’ or vitality."
+    },
+    {
+      "title": "Pañcāstikāya",
+      "author": "Kundakunda",
+      "original_text": "पुद्गलस्य रूपपरिणामाः अनादिनिधनाः",
+      "transliteration": "pudgalasya rūpa-pariṇāmāḥ anādi-nidhanāḥ",
+      "translation": "The transformations of pudgala’s forms are without beginning or end.",
+      "notes": "This passage supports the Jain doctrine that material substance eternally undergoes transformation, a metaphysical analogue to conservation principles in modern physics."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches a mystical or supernatural form of energy that controls karma.",
+      "reality": "Primary texts describe karma as a subtle form of material substance (pudgala) governed by natural laws, not supernatural forces."
+    },
+    {
+      "myth": "Jain philosophy equates tejas directly with modern physical energy.",
+      "reality": "Tejas refers to heat/fire as a mode of pudgala. Any comparison to modern energy concepts is interpretive and not found in primary sources."
+    },
+    {
+      "myth": "The soul’s vitality (upayoga) is a type of physical energy.",
+      "reality": "Upayoga is a non-material manifestation of consciousness, distinct from physical or thermodynamic energy."
+    }
+  ]
+}

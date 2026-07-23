@@ -1,0 +1,59 @@
+{
+  "overview": "Sanskrit literature refers to the vast and diverse body of writings composed in the Sanskrit language over more than three millennia. It encompasses sacred texts, philosophical treatises, poetry, drama, scientific works, and extensive commentarial traditions. Sanskrit, often called *saṃskṛta* (“well-formed, refined”), developed as both a spoken and literary language, eventually becoming the principal medium for intellectual, religious, and artistic expression across much of South Asia.\n\nThe earliest layer of Sanskrit literature is the Vedic corpus, composed in archaic Vedic Sanskrit. These texts—hymns, ritual manuals, philosophical dialogues—were transmitted orally with extraordinary precision. Over time, Classical Sanskrit emerged, codified most famously by Pāṇini in his *Aṣṭādhyāyī*, establishing a grammatical system that shaped literary production for centuries.\n\nClassical Sanskrit literature includes epic narratives such as the *Mahābhārata* and *Rāmāyaṇa*, lyrical poetry by Kālidāsa and Bhartṛhari, philosophical systems like Sāṅkhya and Vedānta, and scientific treatises on mathematics, astronomy, medicine, linguistics, and aesthetics. Jain and Buddhist traditions also produced extensive Sanskrit works, including philosophical commentaries, narrative literature, and scholastic treatises.\n\nSanskrit remained a living literary language well into the modern period, with new works composed in courts, monasteries, and scholarly circles. Today, Sanskrit literature is studied for its linguistic sophistication, historical insight, and enduring influence on South Asian religious and cultural traditions.",
+  "primary_sources": [
+    {
+      "title": "Ṛgveda",
+      "author": "Attributed to ancient Vedic seers (ṛṣis)",
+      "original_text": "अग्निमीळे पुरोहितं",
+      "transliteration": "agnim īḷe purohitaṃ",
+      "translation": "I praise Agni, the household priest.",
+      "notes": "The Ṛgveda is the oldest surviving Sanskrit text (Tier A). Its hymns form the foundation of Vedic ritual and cosmology."
+    },
+    {
+      "title": "Aṣṭādhyāyī",
+      "author": "Pāṇini",
+      "original_text": "वृद्धिरादैच्",
+      "transliteration": "vṛddhir ādaic",
+      "translation": "The term *vṛddhi* refers to the vowels ā, ai, au.",
+      "notes": "A foundational grammatical treatise (Tier A) that defines Classical Sanskrit. Its sutra style is concise and technical."
+    },
+    {
+      "title": "Mahābhārata",
+      "author": "Traditionally attributed to Vyāsa",
+      "original_text": "धर्मक्षेत्रे कुरुक्षेत्रे",
+      "transliteration": "dharmakṣetre kurukṣetre",
+      "translation": "On the field of dharma, the field of the Kurus.",
+      "notes": "A monumental epic (Tier A) containing narrative, philosophy, and ethics. Includes the Bhagavad Gītā."
+    },
+    {
+      "title": "Raghuvaṃśa",
+      "author": "Kālidāsa",
+      "original_text": "वागर्थाविव संपृक्तौ",
+      "transliteration": "vāgarthāv iva saṃpṛktau",
+      "translation": "Speech and meaning, as inseparably joined.",
+      "notes": "A classical mahākāvya (Tier B) celebrated for its poetic elegance and refined imagery."
+    },
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyagdarśanajñānacāritrāṇi mokṣamārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "A foundational Jain philosophical text (Tier A) composed in Sanskrit, central to both Digambara and Śvetāmbara traditions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sanskrit literature is exclusively religious.",
+      "reality": "While Sanskrit includes major religious texts, it also encompasses extensive works on grammar, mathematics, astronomy, medicine, drama, poetry, political theory, and ethics."
+    },
+    {
+      "myth": "Sanskrit stopped being used after ancient times.",
+      "reality": "Sanskrit remained an active literary language through the medieval and early modern periods, and new compositions continue today in academic and cultural settings."
+    },
+    {
+      "myth": "All Sanskrit texts belong to a single religious tradition.",
+      "reality": "Hindu, Jain, and Buddhist traditions all produced substantial Sanskrit literature, often engaging in shared intellectual debates."
+    }
+  ]
+}

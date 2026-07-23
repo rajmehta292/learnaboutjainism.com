@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain philosophical literature, **uncertainty** is not treated as a standalone doctrinal category but emerges across epistemology (jñāna), ontology (dravya–guṇa–paryāya), and the doctrine of manifoldness (anekāntavāda). Jain thinkers recognize that human cognition is inherently limited, conditioned by perspective, karmic obscurations, and the changing nature of reality. As a result, uncertainty is understood not as a flaw but as an expected feature of embodied existence.\n\nWithin epistemology, uncertainty arises from the distinction between **valid knowledge (pramāṇa)** and **partial or indirect knowledge (parokṣa)**. The canonical texts repeatedly emphasize that ordinary perception is filtered through karmic veils (jñānāvaraṇa karma), producing incomplete or uncertain apprehension of objects. This uncertainty is not absolute; rather, it motivates disciplined inquiry, ethical restraint, and humility in interpretation.\n\nAnekāntavāda provides the most explicit Jain framework for addressing uncertainty. Because every entity possesses infinite attributes and modes, any single statement captures only a partial truth. The doctrine of **syādvāda**—the sevenfold predication—formalizes this insight by showing how apparently contradictory statements can each be conditionally true. Uncertainty here is not confusion but recognition of the limits of unilateral claims.\n\nIn karmic theory, uncertainty is linked to the unpredictability of karmic fruition (udaya) and the complexity of causal chains. While the structure of karma is described systematically, the exact timing and intensity of karmic results remain uncertain for ordinary beings. This motivates ethical vigilance and non-harm rather than fatalism.\n\nIn practice-oriented texts, uncertainty is acknowledged in the context of worldly instability (saṃsāra), impermanence of relationships, and the fragility of bodily existence. Lay guides encourage equanimity (samatā) as the appropriate response to uncertainty, emphasizing that clarity arises through right knowledge, right faith, and right conduct.\n\nOverall, Jainism treats uncertainty as a natural condition of embodied life, addressed through disciplined cognition, perspectival humility, and ethical steadiness. It is neither denied nor absolutized; instead, it is integrated into a broader vision of gradual spiritual refinement.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "ज्ञानावरणकर्म",
+      "transliteration": "jñānāvaraṇa-karma",
+      "translation": "Knowledge-obscuring karma.",
+      "notes": "TS 8.1 identifies karmic veils as the reason ordinary beings experience partial or uncertain knowledge. The sutra does not use the term 'uncertainty' directly but establishes the structural basis for limited cognition."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सर्वार्थानां अनन्तधर्मत्वात्",
+      "transliteration": "sarvārthānāṃ ananta-dharmatvāt",
+      "translation": "All entities have infinite attributes.",
+      "notes": "TS 5.29 underlies anekāntavāda. Because entities possess infinite characteristics, any single viewpoint is necessarily partial, giving rise to epistemic uncertainty."
+    },
+    {
+      "title": "Aṣṭaśatī / Commentarial tradition on Syādvāda",
+      "author": "Haribhadra Sūri (attributed)",
+      "original_text": "स्याद्वादो नाम सप्तभङ्गी",
+      "transliteration": "syādvādo nāma saptabhaṅgī",
+      "translation": "Syādvāda is the doctrine of sevenfold predication.",
+      "notes": "The sevenfold predication system shows how conditional statements resolve apparent contradictions. It provides the classical Jain method for navigating uncertainty in philosophical discourse."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Kundakunda",
+      "original_text": "परिणामो अनित्यः",
+      "transliteration": "pariṇāmo anityaḥ",
+      "translation": "Modes are impermanent.",
+      "notes": "The impermanence of modes contributes to uncertainty in worldly experience. Kundakunda emphasizes that only the pure self is stable, while all worldly states fluctuate."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that uncertainty means truth is relative or unknowable.",
+      "reality": "Jainism distinguishes between partial knowledge and complete knowledge. Truth is considered objective, but human access to it is limited by karmic conditions and perspective. Anekāntavāda does not deny truth; it explains why multiple conditional statements may each capture part of it."
+    },
+    {
+      "myth": "Syādvāda implies indecision or perpetual doubt.",
+      "reality": "Syādvāda is a structured logical method, not hesitation. It clarifies how statements can be true in specific respects and false in others, reducing confusion rather than increasing it."
+    },
+    {
+      "myth": "Uncertainty in karmic fruition means karma is random.",
+      "reality": "Karmic processes follow precise causal laws. Uncertainty arises only because ordinary beings cannot perceive the full karmic chain. The system itself is not random."
+    }
+  ]
+}

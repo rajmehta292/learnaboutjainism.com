@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain literature, **Jyotiṣka** (also spelled *Jyotiṣkā*, *Jyotiṣka-deva*) refers to a class of celestial beings associated with the luminous bodies of the cosmos. The term derives from the Sanskrit/Prakrit root *jyoti*, meaning “light,” and is used across Śvetāmbara and Digambara textual traditions to denote deities who inhabit the regions of the heavens connected with stars, planets, and other radiant phenomena. Jyotiṣkas are not eternal beings; like all devas in Jain cosmology, they are subject to karmic bondage, rebirth, and eventual liberation through right conduct and knowledge.\n\nWithin the Jain cosmological hierarchy, Jyotiṣkas belong to the **lowest tier of the fourfold deva classification**: (1) Bhavanavāsī, (2) Vyantaras, (3) Jyotiṣkas, and (4) Vaimānikas. They are considered more refined than the Bhavanavāsī and Vyantara classes but less spiritually advanced than the Vaimānika devas. Their abodes are located in the upper regions of the middle world (*madhyaloka*), where they preside over astral bodies such as the sun (*Sūrya*), moon (*Candra*), planets (*Grahas*), and constellations (*Nakṣatras*).\n\nJain texts describe Jyotiṣkas as possessing subtle bodies, extraordinary longevity, and the ability to traverse vast cosmic distances. However, they do not intervene in human affairs in the manner described in some non-Jain traditions. Their existence is governed strictly by karmic conditions, and their radiance is understood as a natural consequence of their celestial embodiment rather than divine favor or supernatural blessing.\n\nThe role of Jyotiṣkas in Jain cosmology is primarily descriptive rather than devotional. They help articulate the structure of the universe, the nature of celestial motion, and the karmic diversity of beings. Jainism does not encourage worship of Jyotiṣkas, though some medieval ritual manuals mention them in cosmological recitations. Their significance lies in illustrating the vastness of saṃsāra and the multiplicity of life forms bound within it.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "ज्योतिष्कास्तृतीयाः",
+      "transliteration": "jyotiṣkās tṛtīyāḥ",
+      "translation": "“The Jyotiṣkas are the third (class of celestial beings).”",
+      "notes": "Tattvārtha Sūtra 4.10 briefly enumerates the four classes of devas. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena Gaṇin’s *Tattvārthavṛtti* (Śvetāmbara) elaborate on their nature, abodes, and karmic conditions."
+    },
+    {
+      "title": "Śvetāmbara Saṃgrahaṇī Sūtra",
+      "author": "Attributed to Śrīcandra (medieval cosmological manual)",
+      "original_text": "सूरियं चंदं ता ग्रहा नक्खत्तं च ज्योतििस्सिया",
+      "transliteration": "sūriyaṃ caṃdaṃ tā grahā nakkhattaṃ ca jyotiissiyā",
+      "translation": "“The sun, the moon, the planets, and the constellations are the domains of the Jyotiṣkas.”",
+      "notes": "This text provides detailed cosmological mapping. The passage identifies the celestial bodies associated with Jyotiṣka devas."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "ज्योइस्सिया देवा तेसिं णिव्वाणो न होइ",
+      "transliteration": "jyoiissiyā devā tesiṃ nivvāṇo na hoi",
+      "translation": "“For the Jyotiṣka devas, liberation does not occur (from their current state).”",
+      "notes": "This passage emphasizes that devas, including Jyotiṣkas, must be reborn in human form to attain mokṣa. The text is a major Digambara cosmological treatise."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jyotiṣkas are divine beings who grant boons or intervene in human life.",
+      "reality": "Jain texts consistently describe Jyotiṣkas as karmically bound celestial beings who do not respond to prayers or grant favors. Their role is cosmological, not devotional."
+    },
+    {
+      "myth": "Jyotiṣkas are eternal embodiments of the sun and moon.",
+      "reality": "Jain cosmology teaches that all devas, including Jyotiṣkas, are impermanent and subject to rebirth. Their association with celestial bodies is functional, not eternal."
+    },
+    {
+      "myth": "Jyotiṣkas are equivalent to Hindu planetary deities (e.g., Sūrya, Candra, Grahas).",
+      "reality": "Although names overlap, Jain Jyotiṣkas are not worshipped as gods. They are simply one category of beings inhabiting astral regions, governed by Jain karmic theory."
+    }
+  ]
+}

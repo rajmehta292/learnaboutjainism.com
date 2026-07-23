@@ -1,0 +1,71 @@
+{
+  "overview": "In Jain studies, “primary sources” refers to the earliest, foundational texts that transmit the teachings of the Tirthankaras and the formative doctrinal, ethical, and ritual frameworks of the tradition. These sources are especially important because Jainism does not revolve around a single closed canon, but around layered collections of scriptures, commentaries, and later scholastic works whose authority is understood differently in various sects. Primary sources therefore include both the canonical scriptures (such as the Śvetāmbara Āgamas) and, in the Digambara perspective, key doctrinal treatises that preserve what is believed to be the essence of the lost original canon.\n\nHistorically, most Jain primary texts were composed in various Prākrits (especially Ardhamāgadhī and Jaina Māhārāṣṭrī) and later in Sanskrit. The Śvetāmbara tradition recognizes a corpus of Āgamas—Angas, Upāngas, Chedasūtras, Mūlasūtras, and other categories—as the direct scriptural record of Mahāvīra’s teachings, transmitted orally by his gaṇadharas and later compiled in councils. Digambaras, by contrast, hold that the original canon was lost and instead treat works like Kundakunda’s Samayasāra and the Tattvārthasūtra of Umāsvāti/Umāsvāmi as primary doctrinal authorities. This divergence means that “primary source” is not a neutral label: it is always situated within a particular lineage’s understanding of scriptural history and authority.\n\nFor academic and serious lay study, primary sources are crucial because they provide the earliest available formulations of central Jain ideas: non-violence (ahiṃsā), many-sidedness (anekāntavāda), karma theory, cosmology, vows and disciplines for monks and laity, and the path to liberation (mokṣa). They also show how these ideas were expressed in specific linguistic, cultural, and philosophical contexts. Careful reading of primary texts—alongside traditional commentaries and modern scholarship—helps avoid projecting later doctrinal developments or contemporary ethical debates back onto early sources. It also highlights internal diversity: narrative, doctrinal, and disciplinary texts often emphasize different aspects of Jain thought.\n\nBecause Jain primary sources are transmitted through complex manuscript traditions, with variant readings and sectarian redactions, responsible use of them requires attention to edition quality, language, and commentary. Scholars distinguish between verified critical editions (based on multiple manuscripts), traditional printed editions, and modern translations of varying reliability. In practice, serious study of Jain primary sources involves triangulating: reading the original Prākrit or Sanskrit where possible, consulting respected commentaries, and comparing multiple translations. Within the community, guidance from learned teachers and acharyas is essential for applying scriptural teachings to contemporary life, while academic work focuses on historical, philological, and philosophical analysis.\n\nFinally, primary sources are not self-explanatory. They often presuppose technical vocabularies (e.g., guṇasthāna, lesyā, dravya, paryāya), cosmological diagrams, and disciplinary frameworks that can be misunderstood if read in isolation. A sound approach treats them as the starting point for inquiry rather than as isolated proof-texts. This means distinguishing between what a text explicitly says, how later tradition interprets it, and how modern readers might responsibly apply its insights to questions of ethics, ecology, non-violence, and spiritual practice today.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Acaranga Sutra)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; compiled within the Śvetāmbara canon",
+      "original_text": "णं चियं णं चियं जीवो अहिंसाओ सव्वपाणेभ्यो।",
+      "transliteration": "ṇaṃ ciyaṃ ṇaṃ ciyaṃ jīvo ahiṃsāo savvapaṇebhyo.",
+      "translation": "The soul, indeed, is non-violent toward all living beings.",
+      "notes": "The Ācārāṅga Sūtra is one of the principal Anga texts in the Śvetāmbara Āgama canon. It focuses on the conduct (ācāra) of ascetics, emphasizing radical non-violence, restraint in movement, speech, and thought, and the dangers of attachment. It is a key primary source for understanding early Jain monastic discipline and the centrality of ahiṃsā. The text survives in Ardhamāgadhī Prākrit, with multiple recensions and traditional commentaries that clarify its often terse and technical verses."
+    },
+    {
+      "title": "Sūtrakṛtāṅga Sūtra",
+      "author": "Traditionally attributed to early Jain teachers; preserved in the Śvetāmbara canon",
+      "original_text": "सव्वे पावकम्मा दुहंणं, सव्वे धम्मा सुहंणं।",
+      "transliteration": "savve pāvakammā duhaṃṇaṃ, savve dhammā suhaṃṇaṃ.",
+      "translation": "All sinful karmas lead to suffering; all righteous dharmas lead to happiness.",
+      "notes": "The Sūtrakṛtāṅga is another major Anga text, concerned with doctrinal refutation of non-Jain views and systematic exposition of Jain ethics and metaphysics. It discusses karma, right faith, and the dangers of wrong belief, making it a primary source for early Jain polemics and doctrinal self-definition. Its Prākrit verses are dense and often require commentary to unpack philosophical nuances."
+    },
+    {
+      "title": "Vyākhyā-prajñapti (Bhagavatī Sūtra)",
+      "author": "Traditionally linked to Mahāvīra’s dialogues with disciples; Śvetāmbara Anga text",
+      "original_text": "एवं मे सुतं— एकस्मिं समये भगवो महावीरो...",
+      "transliteration": "evaṃ me sutaṃ— ekasmiṃ samaye bhagavo mahāvīro...",
+      "translation": "Thus have I heard—at one time the Blessed Mahāvīra...",
+      "notes": "The Bhagavatī Sūtra is a large dialogical text presenting question-and-answer exchanges between Mahāvīra and various interlocutors. It covers cosmology, karma, the states of beings, and detailed doctrinal topics. As a narrative-doctrinal primary source, it is central for reconstructing early Jain cosmological and metaphysical frameworks. Its structure resembles other Indian dialogical scriptures, but with distinct Jain emphases on non-violence and the multiplicity of viewpoints."
+    },
+    {
+      "title": "Tattvārthasūtra (Tattvārthādhigama Sūtra)",
+      "author": "Umāsvāti / Umāsvāmi (accepted by both Digambara and Śvetāmbara traditions, with sectarian differences)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः।",
+      "transliteration": "samyagdarśanajñānacāritrāṇi mokṣamārgaḥ.",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "The Tattvārthasūtra is a concise Sanskrit treatise systematically presenting Jain ontology, cosmology, karma theory, ethics, and the path to liberation. Although not part of the Śvetāmbara Prākrit Āgamas, it is treated as a primary doctrinal source by both major sects and is often the first text studied in philosophical introductions to Jainism. Different sectarian commentaries interpret key terms and practices in distinct ways, making it a bridge between canonical scripture and later scholastic tradition."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda (Digambara tradition)",
+      "original_text": "जो समो सो णिज्जीवो, जो णिज्जीवो सो समो।",
+      "transliteration": "jo samo so nijjīvo, jo nijjīvo so samo.",
+      "translation": "That which is the true self is equanimity; that which is equanimity is the true self.",
+      "notes": "Samayasāra, composed in Jaina Māhārāṣṭrī Prākrit, is a central Digambara primary source focusing on the nature of the self (jīva), its pure consciousness, and the distinction between the soul and its karmic modifications. For Digambaras, Kundakunda’s works preserve the essence of the lost original canon and are treated with scriptural-level authority. Samayasāra is foundational for later Digambara metaphysics and meditation theory, and is typically studied with extensive commentarial support."
+    },
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Traditionally attributed to Bhadrabāhu; Śvetāmbara text",
+      "original_text": "णमो अरिहंताणं, णमो सिद्धाणं, णमो आयरियाणं...",
+      "transliteration": "ṇamo arihantāṇaṃ, ṇamo siddhāṇaṃ, ṇamo āyariyāṇaṃ...",
+      "translation": "Homage to the Arhats, homage to the Siddhas, homage to the Ācāryas...",
+      "notes": "The Kalpa Sūtra is a Śvetāmbara text recited especially during Paryuṣaṇa. It contains biographies of Tirthankaras (especially Mahāvīra), monastic rules, and liturgical material. While not an Anga, it functions as a primary narrative and ritual source for Śvetāmbara practice, shaping communal memory of Mahāvīra’s life and the ideal of renunciation. Its Prākrit verses are often accompanied by vernacular explanations in contemporary usage."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "There is a single, universally agreed Jain holy book that functions like the Bible or Qur’an.",
+      "reality": "Jainism has multiple layers of primary sources, including different canonical collections and doctrinal treatises, and the two major sects (Śvetāmbara and Digambara) disagree about the status and preservation of the original canon. Authority is distributed across various scriptures and key philosophical texts rather than concentrated in one closed book."
+    },
+    {
+      "myth": "All Jain primary texts are identical across sects and have been perfectly preserved without loss or variation.",
+      "reality": "Historical evidence and traditional accounts acknowledge loss of early materials (such as the Pūrvas) and significant differences in how Śvetāmbaras and Digambaras classify and accept texts. Manuscript traditions show variant readings, and each sect has its own primary sources and commentarial lineages, so textual preservation is complex rather than uniform."
+    },
+    {
+      "myth": "English translations of Jain scriptures can be treated as fully equivalent to the original Prākrit or Sanskrit texts.",
+      "reality": "Translations inevitably involve interpretation, choices about technical terminology, and sometimes doctrinal bias. Many key concepts (like anekāntavāda, guṇasthāna, or lesyā) cannot be captured perfectly in simple English phrases. Serious study of primary sources requires attention to the original languages, multiple translations, and traditional commentaries to avoid oversimplification."
+    },
+    {
+      "myth": "Primary sources alone automatically provide clear, direct answers to all modern ethical and practical questions.",
+      "reality": "Primary texts were composed in specific historical and cultural contexts and often speak in technical, metaphorical, or context-dependent ways. Applying them to contemporary issues—such as environmental ethics, bioethics, or digital life—requires careful interpretation, dialogue with tradition, and, within the community, guidance from qualified teachers, rather than extracting isolated verses as ready-made solutions."
+    }
+  ]
+}

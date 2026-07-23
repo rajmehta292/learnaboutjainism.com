@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, the concept of patrons—often referred to through terms such as *śrāvaka* (lay supporter), *dānapati* (donor), *upāsaka* (lay devotee), and *śreṣṭhin* (guild leader or wealthy benefactor)—plays a central role in sustaining monastic communities, temple institutions, manuscript culture, and ethical life. Patronage is not merely financial; it is embedded in the Jain understanding of lay conduct (*śrāvakācāra*), merit (*puṇya*), and the interdependent relationship between renunciants and householders.\n\nHistorically, Jain communities developed in close association with urban centers, mercantile guilds, and artisan networks. Patrons provided resources for monastic lodging, food distribution, temple construction, and manuscript copying. In return, monastics offered teachings, ethical guidance, and ritual leadership. This reciprocal relationship is described in early canonical texts and elaborated in medieval commentaries.\n\nAcross Digambara and Śvetāmbara traditions, patrons appear in inscriptions, narrative literature, and monastic codes. They include kings, merchants, bankers, and ordinary householders. Their contributions range from commissioning icons and temples to sponsoring *pravacana* assemblies, supporting pilgrimage routes, and funding scriptoria. Patronage is framed as voluntary, non-coercive, and grounded in the lay vow of non-possession (*aparigraha*), meaning that giving should be done without attachment, pride, or expectation of reward.\n\nIn modern Jain communities, patrons continue to support educational institutions, libraries, animal welfare centers (*panjrapole*), and global diaspora temples. While the forms of giving have evolved, the ethical principles remain rooted in classical teachings: generosity, humility, and service to the *saṅgha*.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "दंमं च दत्तं च सव्वं पुण्णं",
+      "transliteration": "daṃmaṃ ca dattaṃ ca savvaṃ puṇṇaṃ",
+      "translation": "“All gifts of support and all acts of giving are meritorious.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.2, in Śvetāmbara canon) frames giving as a lay virtue. The text emphasizes that generosity should be free from violence, attachment, and expectation. Editions vary slightly in wording."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "दानं पुण्यस्य कारणम्",
+      "transliteration": "dānaṃ puṇyasya kāraṇam",
+      "translation": "“Giving is a cause of merit.”",
+      "notes": "Tattvārtha Sūtra 6.32 identifies *dāna* as one of the principal sources of merit. Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) clarify that proper giving requires right intention and adherence to nonviolence."
+    },
+    {
+      "title": "Śrāvakācāra Texts (e.g., Samantabhadra’s Ratnakaraṇḍa Śrāvakācāra)",
+      "author": "Samantabhadra (Digambara)",
+      "original_text": "अहिंसादानशीलानि श्रावकस्य भूषणम्",
+      "transliteration": "ahiṃsādānaśīlāni śrāvakasya bhūṣaṇam",
+      "translation": "“Nonviolence and generosity are the ornaments of a lay follower.”",
+      "notes": "Ratnakaraṇḍa Śrāvakācāra describes the ethical duties of lay patrons, including supporting monastics, temples, and community welfare. Manuscript traditions show minor variations."
+    },
+    {
+      "title": "Kalpa Sūtra (Śvetāmbara)",
+      "author": "Attributed to Bhadrabāhu",
+      "original_text": "सावगाणं दाणस्स कारणं",
+      "transliteration": "sāvagāṇaṃ dāṇassa kāraṇaṃ",
+      "translation": "“Lay followers are the cause of giving.”",
+      "notes": "The Kalpa Sūtra highlights the role of lay supporters in sustaining monastic life, especially during the rainy-season retreat (*cāturmāsa*)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Patronage in Jainism is primarily financial and focused on temple construction.",
+      "reality": "While temple building is one form of patronage, classical texts emphasize ethical giving: food for monastics, support for scriptoria, care for animals, and community welfare. Patronage is defined by intention and nonviolence, not wealth."
+    },
+    {
+      "myth": "Only wealthy merchants or kings can be Jain patrons.",
+      "reality": "Canonical and narrative texts describe patrons from all social backgrounds. Merit arises from intention and ethical conduct, not the size of the donation."
+    },
+    {
+      "myth": "Patronage guarantees spiritual advancement or karmic reward.",
+      "reality": "Jain doctrine states that giving produces merit only when performed without attachment, pride, or expectation. Mechanical or transactional giving does not align with *aparigraha*."
+    }
+  ]
+}

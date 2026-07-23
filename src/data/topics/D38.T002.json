@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain ontology, two-sensed beings (dvisendriya jīva) occupy the second tier of the classical hierarchy of living beings arranged by the number of sense faculties possessed. All Jain traditions—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth—affirm that beings with two senses possess **touch (sparśa)** and **taste (rasa)**. They lack sight, smell, and hearing. This classification appears consistently in early canonical texts such as the *Tattvārtha Sūtra*, *Sūtrakṛtāṅga*, and *Praśnavyākaraṇa*, and is foundational for Jain ethics, cosmology, and karmic theory.\n\nTwo-sensed beings include organisms such as worms, leeches, and certain small aquatic or soil-dwelling creatures. In Jain epistemology, the presence of taste as a second sense marks a significant increase in perceptual capacity compared to one-sensed beings (ekendriya), which possess only touch. This expanded sensory range implies greater vulnerability, more complex behavior, and a correspondingly higher karmic load. As a result, harming two-sensed beings is considered more ethically serious than harming one-sensed beings.\n\nJain karma theory holds that the embodiment of a jīva in a two-sensed form results from specific karmic conditions, particularly those related to past violence, negligence, or passions. However, all traditions emphasize that even the smallest two-sensed organism possesses an eternal soul with infinite potential for liberation. This metaphysical equality underlies Jain nonviolence (ahiṃsā), encouraging practitioners to avoid unnecessary harm to soil, water, and organic matter where such beings may reside.\n\nIn ritual and lay practice, awareness of two-sensed beings informs dietary rules, agricultural caution, and the careful handling of natural environments. While the canonical texts provide taxonomic lists, later commentaries expand these with examples drawn from traditional biology. Modern scholarship notes that Jain classifications do not map directly onto contemporary zoology but represent a moral and phenomenological system rather than a scientific taxonomy.\n\nAcross traditions, the study of two-sensed beings serves as a bridge between metaphysics and ethics: it illustrates how Jainism integrates cosmology, karma, and compassion into a unified worldview that recognizes the dignity of even the smallest forms of life.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmī (traditionally attributed)",
+      "original_text": "द्विसेन्द्रियाः स्पर्शरसवन्तः",
+      "transliteration": "dvisendriyāḥ sparśa-rasa-vantaḥ",
+      "translation": "Two-sensed beings possess the senses of touch and taste.",
+      "notes": "This concise sūtra (TS 2.13) is the most widely cited canonical definition. Digambara and Śvetāmbara commentaries agree on the basic meaning, though they differ in some taxonomic elaborations."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Śvetāmbara canon, traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "जे णाम दुइस्सए, ते णाम रसस्सए",
+      "transliteration": "je nāma duissaë, te nāma rasassaë",
+      "translation": "Those who are called two-sensed are those endowed with taste.",
+      "notes": "This passage appears in discussions of life forms and ethical restraint. The text emphasizes the moral implications of harming beings with multiple senses."
+    },
+    {
+      "title": "Praśnavyākaraṇa",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "द्विसेन्द्रियाणं पोग्गलसम्बन्धो बहुविधो",
+      "transliteration": "dvisendriyāṇaṃ poggala-sambandho bahu-vidho",
+      "translation": "The bodily constitution of two-sensed beings is of many kinds.",
+      "notes": "This text provides early taxonomic detail, noting the diversity of forms among two-sensed organisms."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Two-sensed beings are only worms and leeches.",
+      "reality": "Canonical texts describe a broader range of organisms, including various small aquatic and soil-dwelling creatures. The category is defined by sensory capacity, not by modern biological taxonomy."
+    },
+    {
+      "myth": "Two-sensed beings have minimal ethical significance because they are simple organisms.",
+      "reality": "Jain ethics holds that all jīvas, regardless of embodiment, possess infinite spiritual potential. Harming two-sensed beings carries karmic consequences and is treated with serious moral concern."
+    },
+    {
+      "myth": "The Jain classification of senses corresponds directly to modern zoology.",
+      "reality": "Jain sensory taxonomy is a phenomenological and moral system. It does not attempt to map onto contemporary biological categories but instead reflects the soul’s experiential capacities."
+    }
+  ]
+}

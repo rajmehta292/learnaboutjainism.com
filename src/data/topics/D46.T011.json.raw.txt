@@ -1,0 +1,71 @@
+{
+  "overview": "In Jain philosophy, “soul comparisons” primarily concern how different jīvas (souls) are classified, related, and ultimately understood to be equal in essence yet diverse in states and capacities. The central claim is that reality is divided into two fundamental categories: jīva (soul, living substance) and ajīva (non-soul, non-living substance). All jīvas share an intrinsic mark—conscious experience (upayoga)—but they differ in the kinds of bodies they inhabit, the number of sense-organs they possess, and the degree of karmic bondage that obscures their innate qualities.  [[0]](https://unfinishablemap.org/topics/jain-philosophy-of-mind/) [[1]](https://en.wikisource.org/wiki/Outlines_of_Jainism/Part_2/Chapter_2)\n\nFrom the standpoint of basic classification, Jain texts compare souls along several axes. One major comparison is between saṃsārī jīvas (transmigrating souls) and mukta jīvas (liberated souls). Saṃsārī souls wander through the cycle of birth and death, bound by karmic matter that limits their knowledge, perception, bliss, and energy. Mukta souls, by contrast, have completely shed karmic bondage and exist as siddhas at the apex of the universe, endowed with infinite knowledge (ananta-jñāna), infinite perception (ananta-darśana), infinite bliss (ananta-sukha), and infinite energy (ananta-vīrya). Yet even here, the comparison is not between two different kinds of substance: both are jīvas; the difference lies only in the presence or absence of karma.  [[2]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084627.html) [[3]](https://philosophy.institute/religions-of-the-world/soul-concept-jainism-analysis/)\n\nAnother important set of comparisons concerns the kinds of embodied souls. Jain metaphysics distinguishes sthāvara (stationary) souls—such as earth, water, fire, air, and vegetable souls—from trasa (mobile) souls, which possess two or more sense-organs. Stationary souls are one-sensed; mobile souls range from two-sensed beings up to five-sensed beings with mind, including humans, many animals, and celestial beings. These comparisons show a graded map of sentience: all souls are conscious, but their embodied capacities for perception, cognition, and agency vary according to the number of senses and the development of mind. The hierarchy is ethical as well as ontological, since harming even the lowest one-sensed beings still injures a conscious jīva.  [[1]](https://en.wikisource.org/wiki/Outlines_of_Jainism/Part_2/Chapter_2) [[3]](https://philosophy.institute/religions-of-the-world/soul-concept-jainism-analysis/)\n\nJain thinkers also compare souls from two complementary standpoints: the conventional (vyavahāra-naya) and the ultimate (niścaya-naya). From the conventional standpoint, souls are described in relation to bodies, senses, karmic states, and worldly activities—they are doers of actions, enjoyers of their fruits, and occupants of particular realms. From the ultimate standpoint, however, the soul is pure consciousness, free from all adventitious attributes of matter. Texts like Kundakunda’s Samayasāra emphasize that, in truth, the self is only the knowing and seeing principle; distinctions based on body, caste, species, or social identity are merely conventional. Soul comparisons therefore serve to remind practitioners that while empirical differences are real at the worldly level, they must not obscure the deeper equality of all jīvas as potential siddhas.  [[1]](https://en.wikisource.org/wiki/Outlines_of_Jainism/Part_2/Chapter_2) [[4]](https://ontologicalatlas.com/schools/jainism-anekantavada/)\n\nComparative discussions within Jainism also extend to how its concept of soul differs from other Indian traditions. Unlike many Vedānta schools, Jainism rejects the idea of a single universal Self and instead affirms an infinite plurality of numerically distinct souls. Unlike Buddhism, it does not accept anattā (no-self); the existence of enduring, conscious substances is a foundational axiom. At the same time, Jain epistemology insists on anekāntavāda—the doctrine of many-sidedness—which cautions that any statement about the soul captures only one aspect of a complex reality. Thus, when Jains compare souls—liberated and bound, stationary and mobile, one-sensed and five-sensed—they do so within a framework that combines ontological precision with epistemic humility. The ultimate ethical implication is that every soul, however obscured or limited, deserves non-violence (ahiṃsā) and has the capacity, through right faith, knowledge, and conduct, to realize its inherent perfection.  [[0]](https://unfinishablemap.org/topics/jain-philosophy-of-mind/) [[3]](https://philosophy.institute/religions-of-the-world/soul-concept-jainism-analysis/) [[4]](https://ontologicalatlas.com/schools/jainism-anekantavada/)",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra (That Which Is), 2.10",
+      "author": "Umāsvāti / Umāsvāmi (sectarian attribution varies)",
+      "original_text": "संसारिणो मुक्ताश्च ॥ २.१० ॥",
+      "transliteration": "saṃsāriṇo muktāś ca || 2.10 ||",
+      "translation": "“Souls are of two kinds: the transmigrating (saṃsārī) and the liberated (mukta).”",
+      "notes": "This aphorism provides a fundamental comparison between bound and liberated souls. Commentaries such as Pūjyapāda’s Sarvārthasiddhi explain that transmigrating souls wander through cycles of matter, place, time, state, and thought-activity, while liberated souls have completely severed karmic bondage and reside in the siddha-śilā at the top of the universe. The sutra is accepted as authoritative by both major Jain sects and serves as a key locus for discussions of the two principal states of the jīva.  [[2]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084627.html)"
+    },
+    {
+      "title": "Dravyasaṃgraha, verses 2–3",
+      "author": "Ācārya Nemicandra",
+      "original_text": "जीवो उपयोगलक्षणो अमूर्तो कर्ता स्वदेहपरिमाणो भोक्ता संसारस्थो सिद्धो ऊर्ध्वगतिश्च ।\nयः चतुर्भिः प्राणैः त्रिषु कालेषु युक्तः स जीवः व्यवहारतो, निश्चयतो उपयोगी एव जीवः ।",
+      "transliteration": "jīvo upayoga-lakṣaṇo amūrto kartā svadeha-parimāṇo bhoktā saṃsārastho siddho ūrdhvagatiś ca.\nyaḥ caturbhiḥ prāṇaiḥ triṣu kāleṣu yuktaḥ sa jīvaḥ vyavahārato, niścayato upayogī eva jīvaḥ.",
+      "translation": "“The soul (jīva) is characterized by consciousness (upayoga), is immaterial, the doer of all actions, of the size of its own body, the enjoyer of the fruits of actions, existing in saṃsāra and (in its perfect state) as a siddha, and having an upward tendency. That which, in the three times, is endowed with the four vitalities (prāṇas) is conventionally called a jīva; but from the essential standpoint, that which has consciousness alone is the soul.”",
+      "notes": "These verses compare the soul as understood from the conventional standpoint (defined by vitalities, body, and worldly functions) with the soul from the essential standpoint (pure consciousness). They also implicitly compare mundane and liberated states within a single definition, showing that the same substance can be saṃsārastha (in the changing universe) or siddha (perfect). This dual-perspective comparison underlies later Jain discussions of vyavahāra-naya and niścaya-naya in relation to the self.  [[1]](https://en.wikisource.org/wiki/Outlines_of_Jainism/Part_2/Chapter_2)"
+    },
+    {
+      "title": "Samayasāra (Essence of the Self), selected verses",
+      "author": "Ācārya Kundakunda",
+      "original_text": "ज्ञाता द्रष्टा च आत्मा, नान्यदस्ति कदाचन ।\nकर्मोपादानबन्धेन व्यवहारो भवत्यसौ ॥",
+      "transliteration": "jñātā draṣṭā ca ātmā, nānyad asti kadācana.\nkarmopādāna-bandhena vyavahāro bhavaty asau.",
+      "translation": "“The self is the knower and the seer; there is nothing else (in truth). Through the bondage of karmic matter, that very self becomes the subject of worldly dealings (vyavahāra).”",
+      "notes": "Samayasāra repeatedly contrasts the pure self—only knowing and seeing—with its worldly, karma-bound manifestation. In doing so, it compares the ultimate nature of all souls (as identical in pure consciousness) with their empirical diversity in bodies, social roles, and mental states. Kundakunda’s work is central to Digambara philosophical reflection on soul comparisons, emphasizing that distinctions of caste, species, or status are merely conventional and should not obscure the equality of all jīvas as potential realizers of their true nature.  [[4]](https://ontologicalatlas.com/schools/jainism-anekantavada/)"
+    },
+    {
+      "title": "Pañcāstikāya, selected verses (e.g., 30, 122, 124)",
+      "author": "Ācārya Kundakunda",
+      "original_text": "यः चतुर्भिः प्राणैः जीवति जीविष्यति जीवितवान् च, स जीवः व्यवहारतो ।\nज्ञाता पश्यति सर्वं, सुखं इच्छति दुःखभीतः, मित्रामित्रकर्म करोति, तद्भोगी च जीवः ।\nआकाशकालपुद्गलधर्माधर्मा अचेतनाः, चेतनधर्मयुक्तो जीवः ।",
+      "transliteration": "yaḥ caturbhiḥ prāṇaiḥ jīvati jīviṣyati jīvitavān ca, sa jīvaḥ vyavahārato.\njñātā paśyati sarvaṃ, sukhaṃ icchati duḥkha-bhītaḥ, mitrāmitra-karma karoti, tad-bhogī ca jīvaḥ.\nākāśa-kāla-pudgala-dharma-adharmā acetanaḥ, cetana-dharma-yukto jīvaḥ.",
+      "translation": "“That which, by means of the four vitalities, lives, will live, and has lived is conventionally called a jīva. The soul knows and sees all, desires happiness, fears pain, performs friendly and unfriendly actions, and enjoys (or suffers) their fruits. Space, time, matter, dharma, and adharma lack the qualities of soul; they are said to be non-conscious, whereas the soul is endowed with consciousness.”",
+      "notes": "These verses compare jīva with ajīva, highlighting consciousness as the defining attribute of soul and its absence in other substances. They also compare different temporal states of the same soul—past, present, and future—within a single definition, reinforcing the idea of an enduring conscious substance that persists through changing embodiments and karmic conditions. The text is a key source for understanding how Jainism distinguishes and relates the six substances (dravya), with soul uniquely conscious among them.  [[1]](https://en.wikisource.org/wiki/Outlines_of_Jainism/Part_2/Chapter_2)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Some souls are inherently superior or inferior in their essential nature—for example, human souls are intrinsically higher than animal or one-sensed souls.",
+      "reality": "Jain doctrine holds that all jīvas are equal in their essential nature as conscious substances endowed, in principle, with infinite knowledge, perception, bliss, and energy. Differences between human, animal, plant, or microscopic beings arise from varying degrees of karmic bondage and the kinds of bodies they inhabit, not from any intrinsic inequality of soul. Every soul, regardless of its current embodiment, can ultimately attain liberation (mokṣa) and become a siddha."
+    },
+    {
+      "myth": "Liberated souls (siddhas) are a different kind of substance than ordinary, transmigrating souls.",
+      "reality": "Texts like the Tattvārthasūtra explicitly state that there are only two kinds of souls: saṃsārī (transmigrating) and mukta (liberated), both of which are jīvas. The distinction is based solely on the presence or absence of karmic matter. A liberated soul is the same substance that was once bound; it has simply shed all karmic particles and now manifests its inherent infinite qualities without obstruction."
+    },
+    {
+      "myth": "The Jain concept of soul is similar to a single universal Self shared by all beings, as in some Vedānta traditions.",
+      "reality": "Jainism affirms an infinite plurality of numerically distinct souls, each an individual conscious substance. There is no single universal Self that all beings ultimately merge into. While all souls share the same essential nature as pure consciousness, they remain distinct even in liberation. This pluralism is a defining feature of Jain metaphysics and shapes its ethics of individual responsibility for karmic bondage and purification."
+    },
+    {
+      "myth": "Stationary (sthāvara) souls like earth, water, fire, air, and plants are not really conscious and can be harmed without ethical concern.",
+      "reality": "Jain scriptures explicitly classify these as one-sensed jīvas, endowed with consciousness and capable of experiencing pleasure and pain in their own way. Harming them still constitutes violence (hiṃsā) against a soul and generates karmic bondage. The comparison between stationary and mobile souls is about the number of senses and modes of embodiment, not about the presence or absence of consciousness."
+    },
+    {
+      "myth": "From the ultimate standpoint, worldly distinctions between souls—such as caste, species, or social status—remain spiritually significant.",
+      "reality": "Philosophical works like Samayasāra insist that, from the niścaya (ultimate) standpoint, the self is only the knower and seer, and all other distinctions are adventitious. While conventional categories matter for practical ethics and social organization, they do not affect the soul’s intrinsic capacity for liberation. Soul comparisons in Jainism ultimately aim to dissolve attachment to such distinctions and to cultivate equal regard for all jīvas."
+    }
+  ]
+}
+
+
+
+> [0] [Jain Philosophy of Mind | The Unfinishable Map](https://unfinishablemap.org/topics/jain-philosophy-of-mind/)
+>
+> [1] [Outlines of Jainism/Part 2/Chapter 2 - Wikisource, the free online library](https://en.wikisource.org/wiki/Outlines_of_Jainism/Part_2/Chapter_2)
+>
+> [2] [Two classifications of souls [Verse 2.10]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084627.html)
+>
+> [3] [The Concept of the Soul in Jainism: An Analysis • Philosophy Institute](https://philosophy.institute/religions-of-the-world/soul-concept-jainism-analysis/)
+>
+> [4] [Jainism / Anekantavada — Ontological Atlas](https://ontologicalatlas.com/schools/jainism-anekantavada/)

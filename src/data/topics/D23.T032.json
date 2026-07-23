@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, **lañchhana** (Skt. *liṅchana*, Prakrit *lañchaṇa*) refers to the distinctive emblem or symbol associated with each of the twenty‑four Tīrthaṅkaras. These symbols serve as visual identifiers in manuscripts, temple iconography, ritual charts, and pedagogical materials across Śvetāmbara and Digambara lineages. While the core list of twenty‑four emblems is broadly shared, variations in terminology, artistic style, and ritual use appear across sects and historical periods.\n\nThe purpose of lañchhanas is not merely decorative. They function as mnemonic devices for remembering the biographies and virtues of each Tīrthaṅkara, and they help devotees identify images in multi‑icon panels or manuscript folios. In Śvetāmbara mūrti‑pūjaka temples, lañchhanas are often carved on the pedestal (*pīṭhikā*) beneath the Tīrthaṅkara image. In Digambara practice, where Tīrthaṅkara images are typically unclothed and without ornaments, the lañchhana may appear on the pedestal or be referenced in accompanying inscriptions.\n\nThe lañchhana system is attested in early narrative and cosmological texts, and becomes standardized in medieval iconographic manuals. Each symbol is linked to the Tīrthaṅkara’s life story, karmic background, or auspicious events at birth. For example, Ṛṣabhanātha’s bull, Ajitanātha’s elephant, and Pārśvanātha’s serpent are among the most widely recognized. These symbols support ritual recitation, temple education, and manuscript illustration, forming a bridge between textual tradition and visual culture.\n\nBecause Jainism emphasizes non‑absolutism (*anekāntavāda*), traditions acknowledge that lañchhana lists may differ slightly across manuscripts, regions, and sectarian schools. Iconographic manuals often note alternative symbols or artistic conventions. Thus, lañchhanas are best understood as a stable but interpretively flexible system within Jain religious art and pedagogy.",
+  "primary_sources": [
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "“Ṇāyavvayaṃ ṇāyavvaya‑lañchaṇa‑saṃjuttaṃ.”",
+      "transliteration": "ṇāyavvayaṃ ṇāyavvaya‑lañchaṇa‑saṃyuttaṃ",
+      "translation": "“The Jinas are distinguished by their respective emblems.”",
+      "notes": "The *Tiloyapaṇṇatti* (c. 6th century CE) is an early cosmological text that references the existence of identifying marks for Tīrthaṅkaras. Although it does not provide the full standardized list, it establishes the principle that each Jina possesses a distinct emblem."
+    },
+    {
+      "title": "Kalpasūtra",
+      "author": "Attributed to Bhadrabāhu (Śvetāmbara)",
+      "original_text": "Descriptions of Tīrthaṅkara births include auspicious signs (*lāñchhana‑nimitta*).",
+      "transliteration": "lāñchhana‑nimitta",
+      "translation": "“auspicious emblem‑signs”",
+      "notes": "The *Kalpasūtra* (c. 3rd–6th century CE) does not list the full set of lañchhanas but provides narrative foundations for later iconographic associations, especially through birth omens and symbolic visions."
+    },
+    {
+      "title": "Pratiṣṭhā‑sāroddhāra",
+      "author": "Śvetāmbara ritual manual (medieval)",
+      "original_text": "Lists of Tīrthaṅkara lañchhanas appear in sections on image consecration.",
+      "transliteration": "Examples include: Ṛṣabha — vṛṣabha; Ajita — gaja; Pārśva — nāga.",
+      "translation": "“Ṛṣabha — bull; Ajita — elephant; Pārśva — serpent.”",
+      "notes": "Medieval Śvetāmbara consecration manuals provide standardized lañchhana lists used in temple installation and iconographic instruction."
+    },
+    {
+      "title": "Ādi‑Purāṇa",
+      "author": "Jinasena (Digambara)",
+      "original_text": "Symbolic descriptions of Tīrthaṅkara attributes appear in narrative sections.",
+      "transliteration": "vṛṣabha‑lakṣaṇa, gaja‑lakṣaṇa, nāga‑lakṣaṇa",
+      "translation": "“bull‑mark, elephant‑mark, serpent‑mark.”",
+      "notes": "Although primarily narrative, the *Ādi‑Purāṇa* reinforces emblematic associations that later iconographic texts formalize."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Lañchhanas are identical across all Jain sects and historical periods.",
+      "reality": "While the core list of twenty‑four symbols is widely shared, manuscripts and regional traditions show variations in terminology, artistic style, and placement. Some Digambara texts list alternative symbols, and Śvetāmbara manuals occasionally include additional auspicious marks."
+    },
+    {
+      "myth": "Lañchhanas are purely decorative and have no scriptural basis.",
+      "reality": "Early cosmological and narrative texts reference identifying marks of Tīrthaṅkaras, and medieval iconographic manuals formalize the standardized lists. They serve pedagogical and ritual functions, not merely aesthetic ones."
+    },
+    {
+      "myth": "Every Tīrthaṅkara image must display its lañchhana visibly on the pedestal.",
+      "reality": "In Digambara practice, some images may omit the symbol or include it only in inscriptions. In Śvetāmbara practice, the symbol is common but not universally mandatory, depending on regional and historical conventions."
+    }
+  ]
+}

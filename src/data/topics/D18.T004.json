@@ -1,0 +1,43 @@
+{
+  "overview": "Dharma‑dhyāna (धर्मध्यान) is one of the four classical categories of dhyāna (meditative absorption) described in early Jain canonical and post‑canonical literature. Within the broader Jain ontology of mental states, dharma‑dhyāna is classified as a **śubha-dhyāna**, a wholesome or auspicious form of meditation that supports ethical clarity, karmic attenuation, and progress toward higher guṇasthānas. It is not liberation‑producing by itself—only **śukla‑dhyāna** is directly liberative—but it is considered an essential preparatory discipline for stabilizing attention, reducing passions, and cultivating right conduct.\n\nAcross Śvetāmbara and Digambara traditions, dharma‑dhyāna is consistently defined as meditative engagement with themes that orient the practitioner toward reality as taught by the Jinas: reflection on the nature of karma, the structure of the cosmos, the consequences of violence, impermanence, and the path of liberation. These contemplations are not abstract philosophical exercises; they are structured cognitive practices meant to transform the practitioner’s dispositions (bhāva) and weaken the intensity of harmful passions (kaṣāyas).\n\nClassical sources describe four principal modes of dharma‑dhyāna: **āgama‑vicaya** (analysis of scripture), **apāya‑vicaya** (reflection on suffering and downfall), **vipāka‑vicaya** (reflection on karmic fruition), and **saṃsthāna‑vicaya** (contemplation of cosmic structure). Each mode has specific textual anchors and is embedded in a larger soteriological framework. Later commentaries emphasize that dharma‑dhyāna requires ethical preparation—nonviolence, truthfulness, restraint, and mental steadiness—and cannot be reduced to intellectual study alone.\n\nIn practice, dharma‑dhyāna is used by laypeople and ascetics alike, though the depth and duration vary according to capacity and vows. It is considered safe and appropriate for daily reflection, provided it is not conflated with extreme austerities or medically risky practices. The traditions agree that dharma‑dhyāna strengthens samyak‑darśana (right vision), supports samyak‑cāritra (right conduct), and prepares the practitioner for subtler meditative states described in advanced guṇasthānas.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "धर्मध्यानं चतुर्विधम्।",
+      "transliteration": "dharma‑dhyānaṃ caturvidham.",
+      "translation": "Dharma‑dhyāna is fourfold.",
+      "notes": "Tattvārtha Sūtra 9.27 identifies the fourfold structure of dharma‑dhyāna. Subsequent sūtras (9.28–9.32) elaborate the four contemplations: āgama‑vicaya, apāya‑vicaya, vipāka‑vicaya, and saṃsthāna‑vicaya. This is a pan‑Jain text accepted by both Digambara and Śvetāmbara traditions, though commentarial interpretations differ."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text (author not individually named)",
+      "original_text": "धम्मधिअणं णाम णवस्सयं पव्वयं।",
+      "transliteration": "dhamma‑dhiāṇaṃ nāma nava‑ssayaṃ pavvayaṃ.",
+      "translation": "Dharma‑dhyāna is the noble meditation on the nine categories (tattvas).",
+      "notes": "This passage (Uttarādhyayana Sūtra 29) links dharma‑dhyāna with contemplation of the nine tattvas, emphasizing doctrinal reflection as a meditative practice. The text frames dharma‑dhyāna as accessible to disciplined practitioners and foundational for ethical transformation."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "धम्मध्यानं पव्वत्तं पव्वण्णाणं कारणं।",
+      "transliteration": "dharma‑dhyānaṃ pavvattaṃ pavvaṇṇāṇaṃ kāraṇaṃ.",
+      "translation": "Dharma‑dhyāna is the cause of the arising of auspicious knowledge‑states.",
+      "notes": "In Digambara textual tradition, dharma‑dhyāna is tied to the purification of knowledge and attenuation of passions. Commentaries such as those by Virasena (Dhavalā) elaborate the karmic mechanisms through which dharma‑dhyāna reduces destructive mental states."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Dharma‑dhyāna is a purely intellectual study of scriptures.",
+      "reality": "Primary sources emphasize that dharma‑dhyāna is a structured meditative absorption requiring ethical preparation, emotional steadiness, and focused contemplation. Scriptural analysis is only one of its four modes."
+    },
+    {
+      "myth": "Dharma‑dhyāna alone leads directly to liberation.",
+      "reality": "Jain texts classify dharma‑dhyāna as śubha‑dhyāna, which is preparatory and karmically beneficial but not liberative. Only śukla‑dhyāna, attained in the highest guṇasthānas, directly produces mokṣa."
+    },
+    {
+      "myth": "Dharma‑dhyāna requires extreme austerities or prolonged fasting.",
+      "reality": "No primary source links dharma‑dhyāna to medically risky austerities. It is a contemplative practice suitable for laypeople and ascetics, provided it is grounded in ethical restraint and mental steadiness."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain cosmology, *lokavibhāga*—cosmological classification—refers to the structured description of the universe’s spatial divisions, ontological categories of beings, and the conditions governing their existence. It is a foundational topic across Digambara and Śvetāmbara traditions, appearing in early canonical works such as the *Sūtrakṛtāṅga*, *Jīvājīvābhigama*, *Tiloyapaṇṇatti*, and *Saṃgrahaṇī Sūtra*. The Jain universe is eternal, without creator or destroyer, and is divided into distinct realms that accommodate different classes of souls based on karma, conduct, and spiritual development.\n\nCosmological classification begins with the three major regions: *ūrdhva-loka* (upper world), *madhya-loka* (middle world), and *adho-loka* (lower world). These are not metaphorical but spatially mapped domains with precise measurements in *rajju*, the traditional unit of cosmic distance. The middle world contains human and subhuman realms, including Jambūdvīpa and its surrounding continents. The upper world houses the heavens (*devaloka*), arranged in hierarchical tiers culminating in the *śuddha-siddha-kṣetra*, the realm of liberated souls. The lower world contains the seven hells (*naraka*), each with its own gradations of suffering.\n\nClassification also includes the categorization of beings (*jīva-bheda*). Souls are grouped by the number of sense faculties (from one-sensed beings like plants to five-sensed beings like humans), by mobility (immobile vs. mobile), and by karmic bondage. The *Saṃgrahaṇī Sūtra* provides detailed taxonomies of infernal beings, celestial beings, humans, animals, and micro-organisms, emphasizing that all are real, embodied, and subject to karmic law.\n\nSpatial cosmology is complemented by ontological cosmology: the six substances (*dravya*)—soul, matter, motion-medium, rest-medium, space, and time—each with their own modes and attributes. These classifications ensure that cosmology is not merely descriptive but also explanatory, showing how karmic processes operate within a structured universe.\n\nAcross traditions, cosmological classification serves as a pedagogical tool for understanding karma, ethics, and liberation. It situates human life within a vast cosmic framework, emphasizing the rarity of human birth and the urgency of spiritual practice. While details vary between Digambara and Śvetāmbara texts—especially in measurements and enumerations—the core structure remains consistent: an eternal, ordered universe governed by natural law rather than divine intervention.",
+  "primary_sources": [
+    {
+      "title": "Saṃgrahaṇī Sūtra",
+      "author": "Traditionally attributed to Śvetāmbara canonical redactors",
+      "original_text": "लोको नाम त्रिविधः — ऊर्ध्वलोको मध्यलोको अधोलोकश्च",
+      "transliteration": "loko nāma trividhaḥ — ūrdhvaloko madhyaloko adholokaśca",
+      "translation": "The universe is of three kinds: the upper world, the middle world, and the lower world.",
+      "notes": "A canonical Śvetāmbara text offering detailed classifications of beings, cosmological regions, and measurements. Variants appear across manuscripts."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "जंबूद्वीपो तवस्सि णहपडिवेसो अणंतो अणंतो",
+      "transliteration": "jambūdvīpo tavas­si ṇahapaḍiveso aṇanto aṇanto",
+      "translation": "Jambūdvīpa, with its countless and countless features, is described here.",
+      "notes": "A major Digambara cosmological treatise providing extensive mathematical and spatial descriptions of the universe."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "जीवास्तु बहवो भवन्ति",
+      "transliteration": "jīvāstu bahavo bhavanti",
+      "translation": "Indeed, there are many kinds of living beings.",
+      "notes": "A pan-Jain philosophical text accepted by both Digambara and Śvetāmbara traditions; chapters 3–5 outline cosmological and ontological classifications."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain cosmology is purely symbolic or mythological.",
+      "reality": "Primary texts treat cosmology as literal, measurable, and structured. While modern readers may interpret elements symbolically, traditional sources present them as real spatial and ontological domains."
+    },
+    {
+      "myth": "All Jain traditions describe the universe identically.",
+      "reality": "Core structures match, but Digambara and Śvetāmbara texts differ in measurements, continent shapes, and enumerations. These differences are documented and acknowledged within the traditions."
+    },
+    {
+      "myth": "Liberated souls reside in a heavenly realm.",
+      "reality": "Liberated souls exist in the *siddha-śilā*, a distinct region above the heavens, separate from all embodied beings. They do not interact with the cosmos."
+    }
+  ]
+}

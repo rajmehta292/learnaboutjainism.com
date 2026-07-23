@@ -1,0 +1,51 @@
+{
+  "overview": "Ashtamangala (Skt. *aṣṭamaṅgala*, Prakrit *aṭṭha‑maṅgala*) refers to a canonical set of eight auspicious emblems used across several Indian traditions, including Jainism, where they appear in ritual, narrative, and artistic contexts. In Jain usage, the term does not denote a single universally fixed list; rather, different textual strata and sectarian traditions preserve variant enumerations. The concept functions symbolically rather than magically: each emblem represents qualities conducive to spiritual progress, such as purity, nonviolence, clarity of mind, and auspicious beginnings.\n\nIn early Jain Prakrit sources, Ashtamangala appears primarily in descriptions of consecration rites (*pratiṣṭhā*), royal ceremonies, and auspicious events in the lives of Tirthankaras. Later Śvetāmbara and Digambara ritual manuals expand the lists and associate them with temple consecration, image installation, and festival iconography. The emblems often include items such as the mirror (*darpaṇa*), water pitcher (*ghaṭa*), fly‑whisk (*cāmara*), banner (*dhvaja*), and auspicious substances like sandalwood or rice. Their purpose is symbolic affirmation of purity, clarity, and right intention, not the conferral of supernatural power.\n\nBecause Jainism emphasizes non-possession and inner transformation, Ashtamangala is interpreted as a pedagogical device rather than a ritual necessity. Commentarial traditions stress that auspiciousness arises from ethical conduct—*ahiṃsā*, *satya*, *aparigraha*—and that material symbols serve only as reminders of these virtues. Modern scholarship highlights the diversity of lists and cautions against assuming a single canonical set across all Jain communities.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara canon)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "… aṭṭha maṅgalāiṃ …",
+      "transliteration": "… aṭṭha maṅgalāiṃ …",
+      "translation": "“… the eight auspicious emblems …”",
+      "notes": "The term appears in narrative and ritual contexts, though the text does not provide a fixed list. Editions vary; the phrase is attested in descriptions of auspicious settings surrounding the Jina. (Corpus tier A)"
+    },
+    {
+      "title": "Niśītha Cūrṇi (Śvetāmbara commentary)",
+      "author": "Attributed to Jinadāsa",
+      "original_text": "maṅgalāṇi aṭṭha—darpaṇaṃ, ghaṭaṃ, cāmaraṃ, dhvajaṃ, vastraṃ, phalaṃ, dīpaṃ, puṣpaṃ",
+      "transliteration": "maṅgalāṇi aṭṭha—darpaṇaṃ, ghaṭaṃ, cāmaraṃ, dhvajaṃ, vastraṃ, phalaṃ, dīpaṃ, puṣpaṃ",
+      "translation": "“The eight auspicious emblems are: mirror, water‑pot, fly‑whisk, banner, cloth, fruit, lamp, and flower.”",
+      "notes": "A frequently cited Śvetāmbara list. Commentarial, not canonical. (Corpus tier B)"
+    },
+    {
+      "title": "Pratiṣṭhā‑Sāroddhāra (Digambara ritual digest)",
+      "author": "Attributed to Devacandra",
+      "original_text": "aṣṭa maṅgalāni—ghaṭaḥ, kalaśaḥ, dīpaḥ, puṣpaṃ, phalaṃ, darpaṇaṃ, cāmaraṃ, vastraṃ",
+      "transliteration": "aṣṭa maṅgalāni—ghaṭaḥ, kalaśaḥ, dīpaḥ, puṣpaṃ, phalaṃ, darpaṇaṃ, cāmaraṃ, vastraṃ",
+      "translation": "“The eight auspicious emblems are: pot, sacred pitcher, lamp, flower, fruit, mirror, fly‑whisk, and cloth.”",
+      "notes": "A Digambara ritual manual reflecting temple consecration practice. Lists vary across manuscripts. (Corpus tier B)"
+    },
+    {
+      "title": "Hemacandra’s Triṣaṣṭi‑Śalākā‑Puruṣa‑Caritra",
+      "author": "Ācārya Hemacandra",
+      "original_text": "maṅgalāni aṭṭha …",
+      "transliteration": "maṅgalāni aṭṭha …",
+      "translation": "“The eight auspicious emblems …”",
+      "notes": "Hemacandra uses the term in narrative descriptions of royal and ritual settings but does not standardize a list. (Corpus tier C for narrative context)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "There is a single universally authoritative Jain list of Ashtamangala.",
+      "reality": "Primary sources and sectarian ritual manuals preserve multiple lists. No pan‑Jain canonical enumeration exists, and usage varies by context, lineage, and manuscript tradition."
+    },
+    {
+      "myth": "Ashtamangala objects possess supernatural power or confer merit by themselves.",
+      "reality": "Jain texts emphasize that auspiciousness arises from ethical conduct and right intention. The emblems are symbolic reminders, not magical instruments."
+    },
+    {
+      "myth": "Ashtamangala is required for all Jain rituals.",
+      "reality": "Many Jain practices—daily *sāmāyika*, *pratikramaṇa*, meditation, and lay vows—do not involve Ashtamangala. Their use is primarily in temple consecration, festive iconography, and narrative descriptions."
+    }
+  ]
+}

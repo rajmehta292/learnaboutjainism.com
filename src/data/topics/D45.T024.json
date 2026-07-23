@@ -1,0 +1,35 @@
+{
+  "overview": "Climate technology refers to the broad suite of scientific, engineering, and policy-oriented innovations designed to mitigate climate change, reduce greenhouse‑gas emissions, and help societies adapt to environmental disruptions. It spans energy systems, industrial processes, agriculture, transportation, and urban planning. The field is interdisciplinary, drawing from physics, chemistry, ecology, computer science, economics, and governance. Its development is shaped by global agreements, national policies, private‑sector investment, and community‑level implementation.\n\nModern climate technology includes both mitigation tools—those that reduce or prevent emissions—and adaptation tools—those that help societies cope with climate impacts. Mitigation technologies include renewable energy systems such as solar photovoltaics, wind turbines, geothermal plants, and advanced hydroelectric systems. They also include energy‑storage innovations like lithium‑ion batteries, solid‑state batteries, pumped hydro storage, and emerging hydrogen‑based systems. Carbon‑management technologies form another major category: carbon capture and storage (CCS), direct air capture (DAC), biochar production, and enhanced mineralization. These approaches aim to remove carbon dioxide from industrial processes or directly from the atmosphere.\n\nAdaptation technologies focus on resilience. Examples include climate‑resilient agriculture (drought‑tolerant crops, precision irrigation, soil‑moisture sensors), early‑warning systems for extreme weather, coastal protection infrastructure, and urban heat‑management strategies such as reflective materials, green roofs, and expanded tree canopies. Digital climate technologies—satellite monitoring, AI‑driven climate modeling, and environmental sensor networks—support both mitigation and adaptation by improving forecasting, measurement, and decision‑making.\n\nClimate technology also includes systemic innovations: circular‑economy design, low‑carbon supply chains, green finance instruments, and policy frameworks that incentivize emissions reductions. While climate technology is not a religious category, many ethical traditions—including Jainism—emphasize non‑harm (ahiṃsā), restraint, and ecological responsibility. These values can inform how societies evaluate and adopt climate technologies, especially regarding unintended harm to living beings or ecosystems.\n\nThe field continues to evolve rapidly. Breakthroughs in materials science, biotechnology, and computational modeling are expanding the possibilities for low‑carbon development. At the same time, climate technology faces challenges: scalability, affordability, equitable access, lifecycle impacts, and governance. Its future depends on coordinated global action, sustained investment, and careful ethical evaluation.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "जिवा विरूढा लोए",
+      "transliteration": "jivā virūḍhā loe",
+      "translation": "“Living beings are manifold in the world.”",
+      "notes": "This early Śvetāmbara canonical text (Tier A) emphasizes the diversity and vulnerability of life forms. While it does not discuss climate technology, its principle of non‑harm (ahiṃsā) is often cited in modern Jain ecological ethics when evaluating technological interventions."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "परस्परोपग्रहो जीवानाम्",
+      "transliteration": "parasparopagraho jīvānām",
+      "translation": "“Souls support one another.”",
+      "notes": "A foundational pan‑Jain philosophical text (Tier A). The aphorism is frequently interpreted in contemporary scholarship (Tier C) as an ethical basis for ecological interdependence. It does not address climate technology directly but is relevant to discussions of environmental responsibility."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Climate technology is only about renewable energy.",
+      "reality": "Renewables are important, but climate technology also includes carbon removal, adaptation systems, digital monitoring, resilient agriculture, and circular‑economy innovations."
+    },
+    {
+      "myth": "Climate technology alone can solve climate change.",
+      "reality": "Technology is essential, but effective climate action also requires policy, behavioral change, economic restructuring, and ethical frameworks."
+    },
+    {
+      "myth": "All climate technologies are inherently eco‑friendly.",
+      "reality": "Some technologies have significant lifecycle impacts, resource demands, or ecological risks. Careful evaluation and governance are necessary."
+    }
+  ]
+}

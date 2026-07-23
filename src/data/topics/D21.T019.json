@@ -1,0 +1,55 @@
+{
+  "overview": "In Jain traditions, **stotras** are devotional hymns composed in Sanskrit, Prakrit, or regional languages, praising the qualities (*guna*) of Tirthankaras, Siddhas, Acharyas, Upadhyayas, and Sadhus. They function as meditative recitations rather than petitions, aligning with Jainism’s non-theistic framework. Stotras are central to daily lay practice across Digambara and Śvetāmbara communities, appearing in morning rituals, temple pūjā, samayika, and festival observances.\n\nHistorically, stotras emerged from early canonical praise-verses (e.g., *caturviṃśati-stava* traditions) and matured through classical Sanskrit compositions from the first millennium CE onward. They emphasize virtues such as omniscience (*kevala-jñāna*), perfect conduct (*caritra*), compassion (*dayā*), and liberation (*mokṣa*). Their recitation is believed to cultivate mental steadiness, ethical reflection, and reverence for liberated beings, but not to invoke supernatural intervention.\n\nAcross sects, stotras vary in style: Digambara hymns often highlight austerity and the path of renunciation, while Śvetāmbara Mūrti-pūjaka stotras integrate temple-centered devotion. Sthānakavāsī and Terāpanth traditions retain stotra recitation but avoid imagery, focusing on virtues rather than icons. Modern Jain communities continue to compose new stotras, though classical works remain authoritative for study and liturgy.\n\nIn academic study, stotras are examined for their linguistic features, theological vocabulary, and transmission history. Manuscript evidence shows regional variations and commentarial expansions, especially in medieval Gujarat and Karnataka. Despite their devotional tone, stotras are considered secondary literature and do not replace canonical scriptures. Their role is to inspire ethical cultivation and remembrance of the Jain ideal rather than to provide doctrinal authority.",
+  "primary_sources": [
+    {
+      "title": "Bhaktāmara Stotra",
+      "author": "Ācārya Māntunga (traditionally attributed)",
+      "original_text": "जिनं जिनेन्द्रं कमलेन्द्रवन्द्यं\nभक्तामराणां परमार्थभेदम्",
+      "transliteration": "jinaṃ jinendraṃ kamalendravaṃdyam / bhaktāmarāṇāṃ paramārthabhedam",
+      "translation": "I bow to the Jina, the Lord of Jinas, revered by the lotus-seated gods; the Bhaktāmara reveals the distinctions of the highest truth.",
+      "notes": "A foundational Digambara Sanskrit stotra praising Ṛṣabhanātha. Manuscript traditions vary, and the number of verses differs across regions. Considered a Tier B devotional text, not a canonical scripture."
+    },
+    {
+      "title": "Uvasaggaharam Stotra",
+      "author": "Attributed to Bhadrabāhu (tradition; historical attribution uncertain)",
+      "original_text": "उवसग्गहरं पासं, पासं वंदामि कमलप्पभं",
+      "transliteration": "uvasaggaharaṃ pāsaṃ, pāsaṃ vandāmi kamalappabhaṃ",
+      "translation": "I bow to Pārśvanātha, remover of obstacles, radiant like a lotus.",
+      "notes": "A Prakrit stotra widely used in Śvetāmbara Mūrti-pūjaka practice. Often recited for mental calm and focus. Textual variants appear in medieval manuscripts."
+    },
+    {
+      "title": "Logassa (Lokottara-stava)",
+      "author": "Anonymous; early canonical praise tradition",
+      "original_text": "लोयस्स पुज्जइ अरिहंताणं, सिद्धाणं च गुणाणं",
+      "transliteration": "loyassa pujjai arihaṃtāṇaṃ, siddhāṇaṃ ca guṇāṇaṃ",
+      "translation": "One worships the qualities of the Arhats and Siddhas of the world.",
+      "notes": "Appears in Śvetāmbara liturgical collections. Considered early praise literature connected to canonical strata (Tier A/B)."
+    },
+    {
+      "title": "Śāntistava",
+      "author": "Ācārya Haribhadra",
+      "original_text": "शान्तिं करोतु भगवाँल्लोकनाथो जिनेश्वरः",
+      "transliteration": "śāntiṃ karotu bhagavāṃllokanātho jineśvaraḥ",
+      "translation": "May the Lord of the world, the Jina, bring peace.",
+      "notes": "A Sanskrit stotra by the Śvetāmbara philosopher Haribhadra. The phrase ‘bring peace’ is metaphorical; Jain doctrine does not attribute interventionist powers to liberated beings."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Stotras function as prayers requesting miracles or divine intervention.",
+      "reality": "Jain stotras praise virtues of liberated beings; they do not ask for supernatural intervention. Their purpose is ethical reflection and mental discipline."
+    },
+    {
+      "myth": "All Jain sects use the same stotras.",
+      "reality": "While some stotras are shared, Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth traditions maintain distinct liturgical repertoires and interpretations."
+    },
+    {
+      "myth": "Stotras are canonical scriptures.",
+      "reality": "Stotras are devotional compositions (Tier B–D). They do not replace canonical texts such as the Āgamas or Digambara Śāstras."
+    },
+    {
+      "myth": "Reciting stotras guarantees karmic removal.",
+      "reality": "Jain doctrine states that only right conduct, meditation, and ethical discipline remove karma. Stotra recitation supports reflection but is not a karmic mechanism by itself."
+    }
+  ]
+}

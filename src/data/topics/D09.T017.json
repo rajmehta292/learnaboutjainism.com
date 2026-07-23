@@ -1,0 +1,43 @@
+{
+  "overview": "Intellectual humility, within Jain philosophical and ethical discourse, refers to the disciplined recognition of the limits of one’s knowledge, the fallibility of one’s judgments, and the plurality of valid perspectives. It is not merely a moral virtue but a structural feature of Jain epistemology, especially as articulated through *anekāntavāda* (the doctrine of many-sidedness) and *syādvāda* (the doctrine of conditioned predication). Intellectual humility encourages careful inquiry, non-dogmatism, and a willingness to revise one’s views in light of broader evidence or alternative standpoints.\n\nIn classical Jain thought, knowledge (*jñāna*) is graded according to its clarity, scope, and freedom from obstruction. Human knowledge, even when valid, is partial. This partiality is not a defect but a condition of embodied existence. Intellectual humility arises from acknowledging this partiality and resisting the temptation to universalize one’s own viewpoint. The ethical dimension is significant: humility in thought supports nonviolence in speech and debate, reducing the tendency to impose one’s views on others.\n\nModern scholarship often highlights Jain intellectual humility as an early form of pluralistic reasoning. However, Jain texts frame it not as relativism but as disciplined perspectivalism. A claim may be true from one standpoint (*naya*) and incomplete or even false from another. Intellectual humility thus becomes a method for navigating complex realities without collapsing into dogmatism or nihilism.\n\nIn contemporary applications, intellectual humility supports interreligious dialogue, scientific inquiry, and ethical decision-making. It encourages practitioners and students to hold their views with care, to listen deeply, and to recognize that insight often emerges from the synthesis of multiple perspectives rather than the dominance of a single one.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "अनेकान्तात् स्यात्",
+      "transliteration": "anekāntāt syāt",
+      "translation": "Because reality is multifaceted, statements are to be made conditionally.",
+      "notes": "This brief line reflects the epistemic foundation of intellectual humility. The text emphasizes that reality has many aspects, and therefore assertions must be made with awareness of their conditional validity. Editions vary, and the phrasing appears in commentarial traditions rather than as a single sutra line, but the principle is central to the text’s treatment of knowledge."
+    },
+    {
+      "title": "Samavāyāṅga Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "नाणस्स गहणं दुहं — नाणस्स अगहणं दुहं",
+      "transliteration": "nāṇassa gahaṇaṃ duhaṃ — nāṇassa agahaṇaṃ duhaṃ",
+      "translation": "Grasping knowledge is difficult — not grasping knowledge is also difficult.",
+      "notes": "This passage highlights the tension inherent in human cognition. Intellectual humility arises from recognizing both the challenge of acquiring knowledge and the challenge of acknowledging what one does not know."
+    },
+    {
+      "title": "Aptamīmāṃsā",
+      "author": "Ācārya Samantabhadra",
+      "original_text": "सर्वार्थान् प्रतिपद्यन्ते बुद्धयः स्याद्विभागशः",
+      "transliteration": "sarvārthān pratipadyante buddhayaḥ syādvibhāgaśaḥ",
+      "translation": "Intellects grasp all meanings only in a divided, conditional manner.",
+      "notes": "A foundational articulation of perspectival knowledge. Samantabhadra’s text is central to Digambara epistemology and underscores the partial nature of human understanding."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Intellectual humility in Jainism means that all viewpoints are equally true.",
+      "reality": "Jain epistemology does not claim that every viewpoint is true. It asserts that each viewpoint may capture a part of truth, but only when properly contextualized. Some views may be incomplete, misleading, or incorrect from certain standpoints."
+    },
+    {
+      "myth": "Intellectual humility is merely a social virtue, unrelated to metaphysics.",
+      "reality": "In Jainism, intellectual humility is grounded in metaphysical commitments about the nature of reality, the structure of knowledge, and the limitations of human cognition. It is both an ethical and epistemological discipline."
+    },
+    {
+      "myth": "Anekāntavāda promotes indecision or relativism.",
+      "reality": "Anekāntavāda promotes structured, conditional reasoning. It encourages careful analysis of standpoints, not the abandonment of truth claims. Intellectual humility supports clarity, not confusion."
+    }
+  ]
+}

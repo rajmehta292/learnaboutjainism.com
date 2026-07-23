@@ -1,0 +1,47 @@
+{
+  "overview": "Ardhamagadhi (Ardhamāgadhī) is a Middle Indo-Aryan language belonging to the wider family of Prakrits, the vernacular and literary dialects that developed between Old Indo-Aryan (Vedic and Classical Sanskrit) and the later Apabhraṃśa and modern Indo-Aryan languages.\nHistorically associated with the ancient region of Magadha in eastern India (roughly present-day Bihar and parts of eastern Uttar Pradesh), Ardhamagadhi is closely related to Magadhi Prakrit and to other Middle Indo-Aryan languages such as Pali and Śaurasenī. Its name is commonly glossed as “half-Magadhi” (from Sanskrit ardha, ‘half’, and māgadhī, ‘Magadhi’), reflecting either a partial sharing of features with Magadhi or a dialectal distribution across part of the Magadha area.\nWithin Jain tradition, Ardhamagadhi holds a particularly important place. It is the principal canonical language of the Śvetāmbara Jain Agamas, the early scriptures that preserve the teachings attributed to Mahavira, the 24th Tirthankara. Many foundational texts—such as the Ācāranga (Ayaranga), Sūtrakṛtāṅga (Suyagadanga), Uttarādhyayana (Uttarajhayana), and others—are transmitted in Ardhamagadhi, and the language is often described in traditional grammars as arsa, “the language of the seers”. This status gives Ardhamagadhi a sacred and authoritative role comparable, in Jain usage, to that of Pali in Theravada Buddhism.\nLinguistically, Ardhamagadhi exhibits characteristic phonological and morphological features that distinguish it both from Sanskrit and from other Prakrits. It preserves historical /l/ where later Magadhi Prakrit shows /r/, and in many metrical contexts it uses the nominal ending -o where Magadhi has -e. Consonantal changes such as medial t > d, th > dh, ś and ṣ > s, and various assimilations and simplifications are typical, alongside specific patterns of vowel development and sandhi. The language also has its own set of declensional endings (for example, genitive plural in -āṇaṃ, locative singular in -si) and verbal forms, as documented in traditional grammars and modern studies of Ardhamagadhi.\nIn terms of literary and cultural function, Ardhamagadhi served as a stabilized canonical dialect for Jain scriptures and was also used in early dramatic literature, where different Prakrits were assigned to different character types. Its use reflects a deliberate preference for accessible vernaculars over elite Sanskrit, aligning with broader patterns in Indian religious movements that sought to communicate ethical and spiritual teachings to lay audiences. The choice of Ardhamagadhi for Jain Agamas parallels the use of Pali for Buddhist canonical texts, and both languages played major roles in the spread of non-Vedic, “heterodox” traditions.\nFrom a historical perspective, Ardhamagadhi occupies an intermediate position in the evolution of Indo-Aryan. It stands between earlier Old Indo-Aryan dialects and later Apabhraṃśa and modern languages, and it contributed to the development of eastern Indo-Aryan varieties, including some of the dialects that underlie modern Eastern Hindi (such as Awadhi and related forms). Although Ardhamagadhi is no longer a spoken language, it continues to be studied by scholars of Jainism, historical linguistics, and South Asian literature. Modern grammars and dictionaries, along with critical editions of Jain texts, provide tools for understanding its structure and for interpreting the canonical literature.\nIn contemporary Jain practice and scholarship, Ardhamagadhi remains a key to accessing early doctrinal formulations of non-violence (ahiṃsā), karma theory, ascetic discipline, and the path to liberation. At the same time, there is ongoing discussion among philologists and historians about the precise historical extent of Ardhamagadhi, its relationship to Magadhi and Pali, and the degree to which the canonical language reflects a single spoken dialect or a standardized literary koine shaped by monastic transmission.",
+  "primary_sources": [
+    {
+      "title": "Namokar (Navkār) Mantra",
+      "author": "Anonymous; canonical Jain tradition",
+      "original_text": "णमो अरिहंताणं\nणमो सिद्धाणं\nणमो आयरियाणं\nणमो उवज्झायाणं\nणमो लोए सव्वसाहूणं",
+      "transliteration": "ṇamo arihaṃtāṇaṃ\nṇamo siddhāṇaṃ\nṇamo āyariyāṇaṃ\nṇamo uvajjhāyāṇaṃ\nṇamo loe savvasāhūṇaṃ",
+      "translation": "Obeisance to the Arihants.\nObeisance to the Siddhas.\nObeisance to the Ācāryas.\nObeisance to the Upādhyāyas.\nObeisance to all the Sādhus in the world.",
+      "notes": "The Namokar Mantra is one of the most fundamental Jain prayers and is traditionally recited in Ardhamagadhi. It salutes five categories of spiritually advanced beings rather than a specific deity, reflecting Jain emphasis on liberated and exemplary persons. The language of the mantra illustrates typical Ardhamagadhi phonology and morphology, and its canonical status makes it a central example of Ardhamagadhi as a sacred Jain idiom."
+    },
+    {
+      "title": "Saman Suttam, verse 125 (ethical teaching)",
+      "author": "Compiled by Jain scholars; based on earlier canonical materials",
+      "original_text": "जो सहस्सं सहस्सणं,\nसंगमे दुज्जए जिणे।\nएगं जिणेज्ज अप्पणं,\nएस से परमो जाओ॥",
+      "transliteration": "jo sahassaṃ sahassanam,\nsaṃgame dujjae jine;\negam jinejja appanam,\nesa se paramo jao.",
+      "translation": "One may conquer thousands and thousands of enemies in an invincible battle;\nbut the supreme victory consists in conquering oneself.",
+      "notes": "This verse, preserved in Ardhamagadhi, parallels a well-known passage in the Pali Dhammapada and illustrates the shared ethical themes between Jain and Buddhist traditions while highlighting distinct linguistic forms. The use of Ardhamagadhi here shows its role as a vehicle for concise moral aphorisms and its close yet non-identical relationship to Magadhi and Pali."
+    },
+    {
+      "title": "Ācāranga Sūtra (Ayaranga) – opening homage",
+      "author": "Attributed to early Jain monastic redactors; canonical Śvetāmbara text",
+      "original_text": "णमो विहणियाणं अरिहंताणं,\nणमो सिद्धाणं,\nणमो लोहियाणं सव्वसाहूणं.",
+      "transliteration": "ṇamo vihiṇiyāṇaṃ arihaṃtāṇaṃ,\nṇamo siddhāṇaṃ,\nṇamo lohiyāṇaṃ savvasāhūṇaṃ.",
+      "translation": "Homage to the victorious Arihants,\nHomage to the Siddhas,\nHomage to all the Sādhus dwelling in the world.",
+      "notes": "The Ācāranga Sūtra is one of the earliest Jain canonical texts, composed in Ardhamagadhi and focused on ascetic conduct and the life of Mahavira. Its opening verses exemplify the devotional and respectful tone of Jain scripture and the use of Ardhamagadhi as a stabilized canonical dialect. The text is central for understanding early Jain ethics and monastic discipline."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Ardhamagadhi is simply a corrupt or inferior form of Sanskrit.",
+      "reality": "Ardhamagadhi is a distinct Middle Indo-Aryan language with its own historical development, phonology, morphology, and literary tradition. It is not a degraded Sanskrit but part of a separate branch of Indo-Aryan, related to but clearly differentiated from Classical Sanskrit. Its use in Jain scriptures reflects a deliberate choice of vernacular expression rather than linguistic decline."
+    },
+    {
+      "myth": "Ardhamagadhi is identical to Magadhi Prakrit and Pali; the names are just different labels for the same language.",
+      "reality": "Although Ardhamagadhi, Magadhi Prakrit, and Pali are closely related Middle Indo-Aryan languages and share many features, they are not identical. Ardhamagadhi preserves certain sounds (such as historical /l/) and uses specific inflectional endings that differ from later Magadhi, and its canonical usage is tied particularly to Jain scriptures. Pali, while historically associated with the Magadha region in Buddhist tradition, has its own standardized forms and textual history."
+    },
+    {
+      "myth": "Ardhamagadhi is only of interest to religious practitioners and has no broader linguistic or historical significance.",
+      "reality": "Ardhamagadhi is crucial for understanding the historical development of Indo-Aryan languages, the evolution of Prakrits, and the transmission of religious and philosophical ideas in ancient India. It provides evidence for sound changes, grammatical patterns, and regional dialects, and it helps scholars reconstruct the linguistic environment in which Jainism and other traditions flourished. Its study is therefore important both for religious history and for comparative linguistics."
+    },
+    {
+      "myth": "Because Ardhamagadhi is no longer spoken, it is effectively a dead and inaccessible language.",
+      "reality": "While Ardhamagadhi is not a living spoken language, it remains accessible through canonical texts, traditional grammars, modern linguistic studies, and dictionaries. Scholars and advanced students continue to learn and use Ardhamagadhi to interpret Jain scriptures and to conduct research on Middle Indo-Aryan. In this sense, it is a classical language rather than a lost one."
+    }
+  ]
+}

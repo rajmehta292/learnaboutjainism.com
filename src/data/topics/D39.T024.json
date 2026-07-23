@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain thought, a *habitat* refers to the physical, ecological, and karmically conditioned environment in which living beings (*jīva*) exist. Unlike modern biological definitions that focus on climate, vegetation, and geography, Jainism frames habitat as part of a vast cosmological structure where life forms arise according to karmic fruition. Habitats include terrestrial regions, aquatic zones, aerial spaces, and microscopic environments, all of which are populated by innumerable beings possessing consciousness. Jain texts emphasize that every habitat—whether a forest, river, mountain, desert, or even a particle of dust—contains living organisms. This perspective expands the concept of habitat beyond visible ecosystems to include subtle and minute life forms.\n\nJain cosmology divides the universe (*loka*) into three major realms: the upper world (*ūrdhva-loka*), middle world (*madhya-loka*), and lower world (*adho-loka*). Habitats for humans, animals, plants, and microorganisms exist primarily in the middle world, especially in the region known as *karma-bhūmi*, where moral and spiritual effort is possible. Within this region, Jain texts describe diverse habitats such as forests (*vana*), settlements (*nagara*), mountains (*giri*), and water bodies (*jala*). Each habitat supports distinct categories of beings, from five-sensed animals to one-sensed organisms like plants, earth-bodied beings, water-bodied beings, fire-bodied beings, and air-bodied beings.\n\nThe Jain emphasis on nonviolence (*ahiṃsā*) is deeply connected to the understanding of habitat. Since all environments teem with life, ethical conduct requires awareness of how human actions affect these habitats. Activities such as agriculture, construction, and resource extraction are discussed in commentarial literature with attention to minimizing harm. Thus, habitat in Jainism is not only a physical location but also a moral field where the interdependence of life demands careful, compassionate behavior.\n\nModern ecological discussions often resonate with Jain insights, especially regarding biodiversity, micro-life, and environmental ethics. While scientific ecology focuses on empirical observation, Jainism adds a spiritual dimension by asserting that every habitat is a shared space of conscious beings whose welfare must be considered in human decision-making.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "जीवास्ति बहुविधाः",
+      "transliteration": "jīvāsti bahu-vidhāḥ",
+      "translation": "Living beings exist in many varieties.",
+      "notes": "Tattvārtha Sūtra 2.13 describes the diversity of life forms, forming the basis for understanding that all habitats contain multiple categories of beings."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "पृथिव्यापतेजवायुवनस्पतयः",
+      "transliteration": "pṛthivī-āpa-tejas-vāyu-vanaspatayaḥ",
+      "translation": "Earth-bodied, water-bodied, fire-bodied, air-bodied, and plant-bodied beings.",
+      "notes": "Tattvārtha Sūtra 2.14 lists the fundamental categories of one-sensed beings, implying that habitats such as soil, water, fire, and air are themselves living environments."
+    },
+    {
+      "title": "Jīvājīva Abhigama (Śvetāmbara canonical text)",
+      "author": "Unknown (canonical compilation)",
+      "original_text": "जिवा बहुविहा ठाणा",
+      "transliteration": "jivā bahu-viha ṭhāṇā",
+      "translation": "Living beings dwell in many kinds of places.",
+      "notes": "This text catalogues the locations and conditions where different life forms reside, offering one of the earliest systematic Jain treatments of habitat."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that only visible animals and plants occupy habitats.",
+      "reality": "Jain texts emphasize that microscopic beings inhabit soil, water, air, fire, and even particles of dust, making every habitat densely populated with life."
+    },
+    {
+      "myth": "Habitats in Jainism are purely physical locations.",
+      "reality": "Habitats are understood both physically and karmically; beings occupy specific environments due to karmic conditions that determine their form and sensory capacities."
+    },
+    {
+      "myth": "Jainism discourages interaction with natural habitats.",
+      "reality": "Jainism encourages mindful interaction, emphasizing nonviolence and minimizing harm rather than complete avoidance of natural environments."
+    }
+  ]
+}

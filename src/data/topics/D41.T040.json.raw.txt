@@ -1,0 +1,63 @@
+{
+  "overview": "Varanasi—also known as Kāśī or Banaras—is one of the most important sacred cities in North India and holds a distinctive place in Jain tradition alongside its more widely known Hindu associations. Jain narratives, pilgrimage manuals, and temple histories present Varanasi not only as an ancient urban centre on the Ganga but as a landscape marked by the lives and kalyāṇakas (auspicious life-events) of several Tīrthaṅkaras.\n\nIn Jain sources, Varanasi is associated especially with four Tīrthaṅkaras: Suparśvanātha (7th), Śreyāṃsanātha (11th), Candraprabha (8th), and Pārśvanātha (23rd). Several texts and later pilgrimage traditions locate their births and other kalyāṇakas in the wider Kāśī region, making the city a multi-Tīrthaṅkara kṣetra rather than a single-figure shrine. [[0]](https://books.google.com/books/about/Jaina_Contribution_to_Varanasi.html?id=YoLXAAAAMAAJ) [[1]](https://www.jainheritagecentres.com/jainism-in-india/uttar-pradesh/varanasi-kashi/) The city is also linked to the activity of Bhagavān Mahāvīra, who is said to have visited and preached in Varanasi and nearby Sarnath, further strengthening its status as a Jain dharma-kṣetra. [[1]](https://www.jainheritagecentres.com/jainism-in-india/uttar-pradesh/varanasi-kashi/) [[2]](https://en.wikipedia.org/wiki/Parshvanath_Jain_temples%2C_Varanasi)\n\nFrom a historical and architectural perspective, Varanasi contains a network of Digambara and Śvetāmbara temples, upāśrayas (monastic lecture halls), and shrines that have grown over several centuries. Modern surveys count roughly two dozen Jain temples in and around the city, with especially prominent sites at Bhelupur (Bhelapur), Ram Ghāṭ, and other neighbourhoods near the riverfront. [[1]](https://www.jainheritagecentres.com/jainism-in-india/uttar-pradesh/varanasi-kashi/) [[2]](https://en.wikipedia.org/wiki/Parshvanath_Jain_temples%2C_Varanasi) The Parśvanātha Jain temples at Bhelupur form a major pilgrimage complex shared by both Digambara and Śvetāmbara communities, housing a black Digambara idol of Pārśvanātha dated to around the 9th–11th century and a white Śvetāmbara idol of similar size. [[1]](https://www.jainheritagecentres.com/jainism-in-india/uttar-pradesh/varanasi-kashi/) [[2]](https://en.wikipedia.org/wiki/Parshvanath_Jain_temples%2C_Varanasi) These temples are integrated into wider circuits of Jain pilgrimage that connect Varanasi with other North Indian centres such as Sarnath, Shikharji, and Ayodhya.\n\nEarly modern and contemporary Śvetāmbara monastic lineages have played a significant role in shaping the Jain presence in Varanasi. Studies of temple-building in the city highlight figures such as Kuśalacandrasūri of the Kharataragaccha, who was initiated in Varanasi in 1778 and spent his life as a yati (temple-dwelling monk) at the Cintāmaṇi Pārśvanātha temple near Ram Ghāṭ, and Ācārya Rājayaśasūri of the Tapāgaccha, active in the later 20th century. [[3]](https://www.mdpi.com/2077-1444/11/3/117) [[4]](https://www.academia.edu/42205855/Situating_P%C4%81r%C5%9Bvas_Biography_in_Varanasi) Drawing on merchant patronage and narrative traditions about Pārśvanātha—especially episodes involving the protection of snakes and the goddess Padmāvatī—these leaders sponsored substantial temple and shrine projects that inscribed Jain sacred geography into a city otherwise perceived primarily through Hindu lenses.\n\nJain literary and educational contributions also connect Varanasi to broader intellectual currents. Modern scholarship, such as Pranati Ghosal’s \"Jaina Contribution to Varanasi\", documents how Jain communities have participated in the city’s religious, philosophical, artistic, and educational life, including the production and preservation of manuscripts, images, and doctrinal works. [[0]](https://books.google.com/books/about/Jaina_Contribution_to_Varanasi.html?id=YoLXAAAAMAAJ) Within Jain ontology, Varanasi can be understood as a multi-layered sacred space: a site of Tīrthaṅkara kalyāṇakas, a centre of monastic and lay activity, and a node in networks of trade and patronage that enabled temple-building and textual transmission.\n\nAt the same time, Jain tradition does not treat Varanasi as exclusively Jain or exclusively Hindu. Instead, it is one example of a shared sacred city where multiple communities construct overlapping narratives and ritual geographies. Jain accounts emphasize ahiṃsā, spiritual discipline, and the exemplary lives of the Jinas, while coexisting with other religious imaginations of Kāśī. For contemporary Jain laypeople and renunciants, visiting Varanasi’s Jain temples—especially the Parśvanātha complex at Bhelupur and shrines associated with Padmāvatī—forms part of a broader practice of tīrtha-yātrā (pilgrimage), undertaken within the ethical and health guidelines of their respective traditions and, where necessary, in consultation with qualified teachers and medical professionals.",
+  "primary_sources": [
+    {
+      "title": "Vividha Tīrtha Kalpa (section on Kāśī/Varanasi)",
+      "author": "Jinaprabhasūri (Śvetāmbara)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "In the Vividha Tīrtha Kalpa, Jinaprabhasūri includes Kāśī among the celebrated Jain pilgrimage places and describes the temples and images of Pārśvanātha and other Jinas there, noting the city’s importance as a site of multiple kalyāṇakas and as a centre of royal and mercantile patronage. (Paraphrased summary; the exact Sanskrit/Prakrit wording varies by edition.)",
+      "notes": "Corpus tier: A–B (primary text with traditional commentary). The Vividha Tīrtha Kalpa is a medieval Śvetāmbara pilgrimage manual that catalogues numerous Jain tīrthas. The section on Kāśī/Varanasi provides one of the earliest systematic Jain descriptions of the city’s sacred sites, including references to Parśvanātha’s temple and associated shrines. The summary above is an interpretive paraphrase rather than a direct quotation, as wording differs across manuscripts and printed editions. [[1]](https://www.jainheritagecentres.com/jainism-in-india/uttar-pradesh/varanasi-kashi/) [[2]](https://en.wikipedia.org/wiki/Parshvanath_Jain_temples%2C_Varanasi)"
+    },
+    {
+      "title": "Jaina narratives of Pārśvanātha’s life (various Kalpas and Caritas)",
+      "author": "Multiple authors in Śvetāmbara and Digambara traditions",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Later narrative traditions place key episodes of Pārśvanātha’s life—such as his protection of a pair of snakes from an immoral ascetic and his association with the goddess Padmāvatī—in the Varanasi region. These accounts are used to justify the establishment of shrines and temples at specific locations in the city, presenting Varanasi as a landscape marked by the Jina’s compassion and spiritual attainment. (Paraphrased synthesis from multiple sources.)",
+      "notes": "Corpus tier: B–C (traditional narrative texts and modern scholarship). Ellen Gough’s study \"Situating Pārśva’s Biography in Varanasi\" analyses how these narratives were localized in Kāśī and then mobilized by Śvetāmbara monastic leaders to support temple-building projects, especially at Ram Ghāṭ and Bhelupur. The description here is an interpretive synthesis, not a verbatim quotation from any single Prakrit or Sanskrit text. [[3]](https://www.mdpi.com/2077-1444/11/3/117) [[4]](https://www.academia.edu/42205855/Situating_P%C4%81r%C5%9Bvas_Biography_in_Varanasi)"
+    },
+    {
+      "title": "Jaina Contribution to Varanasi",
+      "author": "Pranati Ghosal",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This modern scholarly work surveys Jain engagement with Varanasi, including the identification of four Tīrthaṅkaras—Suparśvanātha, Śreyāṃsanātha, Candraprabha, and Pārśvanātha—as being born in the Varanasi region, and documents contributions in religion, philosophy, literature, art, iconography, architecture, and educational institutions.",
+      "notes": "Corpus tier: C (peer-reviewed or authoritative scholarship). Although written in English rather than Prakrit or Sanskrit, this book synthesizes primary textual references and archaeological evidence to present a comprehensive picture of Jain presence in Varanasi. The summary above is a paraphrase of the book’s main themes and does not reproduce its wording. [[0]](https://books.google.com/books/about/Jaina_Contribution_to_Varanasi.html?id=YoLXAAAAMAAJ)"
+    },
+    {
+      "title": "Parśvanātha Jain temples, Varanasi (epigraphic and local tradition)",
+      "author": "Anonymous temple records and local Jain custodians",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Local temple traditions and inscriptions at the Parśvanātha Jain temples in Bhelupur affirm that Varanasi was ruled by King Aśvasena, father of Parśvanātha, and that Bhelupur is the site of three kalyāṇakas—conception (chyavana), birth (janma), and initiation (dīkṣā)—of the 23rd Tīrthaṅkara.",
+      "notes": "Corpus tier: D (reviewed community education, with possible links to A–B sources). The information is preserved in temple narratives, guidebooks, and community heritage materials, some of which draw on older textual traditions. The translation given here is a concise paraphrase of these materials rather than a direct rendering of any single inscription. [[1]](https://www.jainheritagecentres.com/jainism-in-india/uttar-pradesh/varanasi-kashi/) [[2]](https://en.wikipedia.org/wiki/Parshvanath_Jain_temples%2C_Varanasi)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Varanasi is exclusively a Hindu sacred city and has no significant Jain connection.",
+      "reality": "While Varanasi is indeed a major Hindu pilgrimage centre, Jain texts, temple traditions, and modern scholarship clearly attest to its importance as a Jain tīrtha as well. The city is associated with multiple Tīrthaṅkaras, houses both Digambara and Śvetāmbara temples, and has been a site of Jain monastic and lay activity for centuries. [[3]](https://www.mdpi.com/2077-1444/11/3/117) [[0]](https://books.google.com/books/about/Jaina_Contribution_to_Varanasi.html?id=YoLXAAAAMAAJ) [[1]](https://www.jainheritagecentres.com/jainism-in-india/uttar-pradesh/varanasi-kashi/) [[2]](https://en.wikipedia.org/wiki/Parshvanath_Jain_temples%2C_Varanasi)"
+    },
+    {
+      "myth": "Only Pārśvanātha is linked to Varanasi in Jain tradition.",
+      "reality": "Pārśvanātha is the most prominently associated Tīrthaṅkara, especially through the Bhelupur temples and narratives of his life. However, Jain sources also connect Suparśvanātha, Śreyāṃsanātha, and Candraprabha to the Varanasi region, presenting Kāśī as a multi-Tīrthaṅkara landscape rather than a single-figure site. [[0]](https://books.google.com/books/about/Jaina_Contribution_to_Varanasi.html?id=YoLXAAAAMAAJ) [[1]](https://www.jainheritagecentres.com/jainism-in-india/uttar-pradesh/varanasi-kashi/) [[2]](https://en.wikipedia.org/wiki/Parshvanath_Jain_temples%2C_Varanasi)"
+    },
+    {
+      "myth": "Jain temples in Varanasi are purely ancient and unchanged, reflecting a single historical period.",
+      "reality": "The Jain architectural presence in Varanasi is layered. Some idols and structures date back many centuries, but major temple complexes—such as the Cintāmaṇi Pārśvanātha temple near Ram Ghāṭ and the Bhelupur temples—have been shaped by early modern and contemporary building campaigns led by monastic leaders and merchant patrons. The city’s Jain sacred geography is therefore the result of ongoing historical development, not a static relic of one era. [[3]](https://www.mdpi.com/2077-1444/11/3/117) [[1]](https://www.jainheritagecentres.com/jainism-in-india/uttar-pradesh/varanasi-kashi/) [[4]](https://www.academia.edu/42205855/Situating_P%C4%81r%C5%9Bvas_Biography_in_Varanasi) [[2]](https://en.wikipedia.org/wiki/Parshvanath_Jain_temples%2C_Varanasi)"
+    }
+  ]
+}
+
+
+
+> [0] [Jaina Contribution to Varanasi - Pranati Ghosal - Google Books](https://books.google.com/books/about/Jaina_Contribution_to_Varanasi.html?id=YoLXAAAAMAAJ)
+>
+> [1] [Varanasi/Kashi | Jain Heritage Centres](https://www.jainheritagecentres.com/jainism-in-india/uttar-pradesh/varanasi-kashi/)
+>
+> [2] [Parshvanath Jain temples, Varanasi - Wikipedia](https://en.wikipedia.org/wiki/Parshvanath_Jain_temples%2C_Varanasi)
+>
+> [3] [Situating Pārśva’s Biography in Varanasi](https://www.mdpi.com/2077-1444/11/3/117)
+>
+> [4] [(PDF) Situating Pārśva's Biography in Varanasi](https://www.academia.edu/42205855/Situating_P%C4%81r%C5%9Bvas_Biography_in_Varanasi)

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain epistemology, “sensory knowledge” refers primarily to *mati‑jñāna*—the cognition that arises through the functioning of the sense organs and the mind. It is considered the most basic form of valid knowledge (*pramāṇa*) available to embodied beings. Jain philosophers classify sensory knowledge as indirect (*parokṣa*) because it depends on external instruments (the senses) and internal processing (the mind), unlike direct omniscient knowledge (*kevala‑jñāna*), which is immediate and non-mediated.\n\nSensory knowledge is described as emerging through a sequence: contact between sense organ and object (*indriyārtha‑sannikarṣa*), followed by perceptual attention, mental determination, and finally the formation of a cognition. This process is accepted across Jain traditions—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth—though each lineage’s commentarial literature nuances the mechanics of perception differently.\n\nJain thinkers distinguish five types of sensory knowledge corresponding to the five senses: sight, hearing, smell, taste, and touch. These are further refined into stages such as *avagraha* (bare grasping), *īhā* (inquiry), *avāya* (ascertainment), and *dhāraṇā* (retention). Sensory knowledge is considered reliable when unobstructed by karmic veils, especially the *jñānāvaraṇīya* (knowledge‑obscuring) karma. Because Jainism holds that karmic influx affects cognitive clarity, sensory knowledge is always partial, conditioned, and subject to error.\n\nDespite its limitations, sensory knowledge plays a crucial role in ethical life. Laypersons rely on it for practical decision-making, scriptural study, and moral discernment. Jain authors emphasize that sensory knowledge must be disciplined through nonviolence, careful attention, and truthful speech to prevent distortions. In advanced spiritual stages (*guṇasthāna*), sensory knowledge becomes increasingly refined as karmic obstructions weaken, preparing the aspirant for higher forms of cognition such as *śruta‑jñāna* (scriptural knowledge) and ultimately *kevala‑jñāna*.\n\nIn modern scholarship, sensory knowledge is studied comparatively alongside Buddhist and Nyāya theories of perception. Jainism’s insistence on karmic conditioning, multi‑stage perception, and the integration of ethical discipline into epistemology provides a distinctive framework for understanding how humans engage with the world through their senses.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "मति: संवेदनावग्रहैहावायधारणाभेदात्",
+      "transliteration": "matiḥ saṃvedanāvagrahaihāvāyadhāraṇābhedāt",
+      "translation": "Mati‑knowledge is of various kinds: sensation, grasping, inquiry, ascertainment, and retention.",
+      "notes": "Tattvārtha Sūtra 1.13 is the foundational Jain aphorism outlining the stages of sensory cognition. Digambara and Śvetāmbara commentaries agree on the general structure but differ slightly in terminology and elaboration."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Kundakunda",
+      "original_text": "इंदियाणं गहणं मति‑जाणं।",
+      "transliteration": "indiyāṇaṃ gahaṇaṃ mati‑jāṇaṃ.",
+      "translation": "The grasping done by the senses is mati‑knowledge.",
+      "notes": "A concise Digambara articulation linking sensory contact directly to the emergence of mati‑jñāna. Commentaries emphasize that this grasping is conditioned by karmic veils."
+    },
+    {
+      "title": "Pramāṇa‑mīmāṃsā",
+      "author": "Hemacandra",
+      "original_text": "इन्द्रियार्थसन्निकर्षेणावग्रहो जायते।",
+      "transliteration": "indriyārtha‑sannikarṣeṇāvagraho jāyate.",
+      "translation": "From the contact of sense organ and object, avagraha (initial perceptual grasping) arises.",
+      "notes": "Śvetāmbara Mūrtipūjaka epistemological treatise elaborating the mechanics of sensory perception. Hemacandra’s analysis is central to later Jain scholastic discussions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sensory knowledge in Jainism is considered unreliable or unimportant because higher forms of knowledge exist.",
+      "reality": "Jain texts treat sensory knowledge as essential for everyday life and as the foundation for scriptural study and ethical practice. Its limitations are acknowledged, but it remains a valid and necessary form of cognition."
+    },
+    {
+      "myth": "Sensory knowledge is identical to scriptural knowledge (*śruta‑jñāna*).",
+      "reality": "Sensory knowledge is indirect and arises through the senses, whereas scriptural knowledge depends on linguistic comprehension. They are distinct categories with different mechanisms and scopes."
+    },
+    {
+      "myth": "All sensory perceptions are accurate reflections of reality.",
+      "reality": "Jain epistemology emphasizes that karmic obstructions, inattentiveness, and environmental conditions can distort sensory perception. Sensory knowledge is valid only when free from specific defects."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "Relativism is a broad philosophical position asserting that certain forms of knowledge, truth, morality, or perception are not absolute but depend on context—such as culture, language, standpoint, or conceptual framework. In general intellectual history, relativism emerges as a response to claims of universal or objective truth, arguing instead that human understanding is shaped by conditions that vary across communities and individuals.\n\nIn Jain philosophical discourse, relativism intersects significantly with doctrines such as *anekāntavāda* (the principle of non-one-sidedness) and *syādvāda* (the theory of conditioned predication). While Jainism does not endorse relativism in the sense of denying the existence of truth, it does affirm that truth is multifaceted and that any single statement captures only a partial perspective. This creates a nuanced middle path between absolutism and radical relativism. Jain thinkers emphasize that reality possesses infinite attributes, and human statements—limited by standpoint and language—grasp only fragments of this complexity.\n\nOutside Jainism, relativism appears in various forms: epistemic relativism (knowledge depends on conceptual schemes), moral relativism (ethical norms vary by culture), and linguistic relativism (language shapes cognition). Each form has its own debates and critiques. Philosophers caution that extreme relativism can undermine meaningful dialogue or moral accountability, while moderate forms can promote tolerance, pluralism, and intellectual humility.\n\nIn comparative studies, Jain epistemology is often cited as a sophisticated ancient model that avoids the pitfalls of extreme relativism while preserving the value of multiple viewpoints. It encourages disciplined analysis, contextual reasoning, and recognition of partial truths without collapsing into the claim that all views are equally valid. Thus, relativism—when understood through a Jain lens—becomes a structured method for appreciating diversity of perspectives while still affirming the possibility of reliable knowledge.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmī",
+      "original_text": "अनेकान्तवादः",
+      "transliteration": "anekāntavādaḥ",
+      "translation": "Doctrine of non-one-sidedness.",
+      "notes": "Although the term appears in later commentarial traditions more explicitly, the conceptual foundation for non-one-sidedness is embedded throughout the text, especially in discussions of the multiplicity of substances, qualities, and modes (e.g., TS 5.29–5.38). These passages support the Jain view that reality is complex and cannot be captured by a single absolute statement."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara tradition)",
+      "author": "Attributed to Pūjyapāda and earlier compilers",
+      "original_text": "सयंसंभवो नयः",
+      "transliteration": "sayaṃsaṃbhavo nayaḥ",
+      "translation": "A standpoint arises from its own contextual conditions.",
+      "notes": "The text’s extensive treatment of *naya* (standpoints) provides early structural support for the Jain theory that statements are context-bound. This is not relativism in the modern sense but a disciplined epistemic method."
+    },
+    {
+      "title": "Aptamīmāṃsā",
+      "author": "Ācārya Samantabhadra",
+      "original_text": "सत्यं बहुमुखं दृष्टम्",
+      "transliteration": "satyaṃ bahumukhaṃ dṛṣṭam",
+      "translation": "Truth is seen as having many facets.",
+      "notes": "This verse is frequently cited in discussions of Jain epistemology. It affirms multiplicity of truth without denying objective reality, illustrating the Jain balance between realism and perspectivalism."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Relativism means that all viewpoints are equally true.",
+      "reality": "Philosophical relativism does not require equal validity of all claims. Jain epistemology, in particular, distinguishes between partial truths and incorrect assertions, emphasizing disciplined analysis rather than indiscriminate acceptance."
+    },
+    {
+      "myth": "Jain anekāntavāda is identical to modern relativism.",
+      "reality": "Anekāntavāda affirms that reality is complex and statements are partial, but it does not deny the existence of truth. Modern relativism often questions whether objective truth exists at all, which is not a Jain position."
+    },
+    {
+      "myth": "Relativism eliminates the possibility of moral responsibility.",
+      "reality": "Most forms of relativism acknowledge contextual moral reasoning without rejecting accountability. Jain ethics, for example, grounds responsibility in karma theory and intentionality, not in cultural variability."
+    }
+  ]
+}

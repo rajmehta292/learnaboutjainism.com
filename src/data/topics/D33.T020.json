@@ -1,0 +1,35 @@
+{
+  "overview": "In Jain studies, the distinction between a “work” (grantha, śāstra) and a “manuscript” (pustaka, pratimā, lekhya) is fundamental for understanding how teachings have been transmitted across centuries. A *work* refers to the intellectual composition—the conceptual entity created by an author or redactor. It is the abstract text: its ideas, structure, verses, chapters, and doctrinal intent. A *manuscript*, by contrast, is a physical artifact that contains one instantiation of that work. Manuscripts vary in script, material, accuracy, completeness, and historical context. They may preserve different recensions, regional variants, or scribal errors.\n\nIn Jainism, this distinction is especially important because many canonical and post‑canonical works survive only through handwritten manuscripts produced over nearly two millennia. A single work such as the *Tattvārtha-sūtra* may exist in dozens of manuscripts across Śvetāmbara and Digambara traditions, each reflecting different scribal conventions. Scholars and traditional commentators rely on comparing manuscripts to reconstruct the most reliable reading of a work. Manuscripts also preserve colophons, lineage information, dates, and donor notes that illuminate the social history of Jain communities.\n\nUnderstanding “work versus manuscript” helps clarify why textual criticism, philology, and tradition-specific commentaries are essential in Jain studies. A work may be stable in its doctrinal identity, yet manuscripts may differ significantly. This distinction also prevents the mistaken assumption that any single manuscript represents the definitive or original form of a Jain text. Instead, each manuscript is a witness to the transmission of a work, shaped by the scribe, the region, and the historical moment in which it was produced.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "तत्त्वार्थसूत्रम् १.१: सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "tattvārtha-sūtram 1.1: samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This sūtra appears consistently across manuscripts, but commentarial traditions note variations in punctuation, ordering of chapters, and inclusion of later scholia. The stability of the *work* contrasts with the diversity of *manuscripts*."
+    },
+    {
+      "title": "Āyāraṅga (Ācārāṅga-sūtra)",
+      "author": "Attributed to early Jain community; redactional layers",
+      "original_text": "सीयालोए णं णाणं, णाणे णं सीयालो।",
+      "transliteration": "sīyāloe ṇaṃ ṇāṇaṃ, ṇāṇe ṇaṃ sīyālo.",
+      "translation": "Conduct is rooted in knowledge, and knowledge is rooted in conduct.",
+      "notes": "Manuscripts of the Āyāraṅga differ in Prakrit orthography and chapter divisions. The *work* is early and foundational, but its manuscript witnesses show significant variation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "A manuscript always represents the original form of a Jain text.",
+      "reality": "Manuscripts are witnesses, not originals. They often contain scribal errors, regional variants, or later additions. The *work* must be reconstructed through comparison of multiple manuscripts."
+    },
+    {
+      "myth": "If two manuscripts differ, one must be wrong.",
+      "reality": "Variation is normal in pre-modern textual transmission. Differences may reflect legitimate recensions, sectarian interpretations, or historical evolution of the work."
+    },
+    {
+      "myth": "A work and a manuscript are interchangeable terms.",
+      "reality": "A work is an abstract composition; a manuscript is a physical instantiation. Understanding the difference is essential for accurate Jain textual study."
+    }
+  ]
+}

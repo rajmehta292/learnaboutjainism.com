@@ -1,0 +1,27 @@
+{
+  "overview": "Checksums are numerical values computed from a block of data to detect accidental errors during storage or transmission. They serve as compact fingerprints of larger datasets, allowing systems to verify whether the data has been altered, corrupted, or truncated. Checksums are widely used in networking, file systems, archival formats, and cryptographic applications.\n\nAt their core, checksums rely on deterministic algorithms that transform input data—such as a file, message, or packet—into a fixed-size output. If the data changes, even slightly, the resulting checksum typically changes as well. This property makes checksums essential for integrity verification. For example, when downloading a file, a user may compare the published checksum with the checksum computed locally; a mismatch indicates corruption or tampering.\n\nChecksums range from simple arithmetic methods to sophisticated cryptographic constructions. Non‑cryptographic checksums, such as parity bits, Fletcher checksums, or CRC (Cyclic Redundancy Check), are optimized for detecting common transmission errors. Cryptographic checksums—more accurately called hash functions—such as SHA‑256 or BLAKE2, provide stronger guarantees, including resistance to intentional manipulation. Despite their differences, all checksums share the fundamental purpose of ensuring data integrity.",
+  "primary_sources": [
+    {
+      "title": "No applicable Jain primary text",
+      "author": "N/A",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "Checksums are a modern computational concept and do not appear in Jain canonical or commentarial literature. This section is included to satisfy the required JSON structure, but no primary Prakrit or Sanskrit sources exist for this topic."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Checksums and cryptographic hashes are the same thing.",
+      "reality": "While related, checksums are typically designed to detect accidental errors, whereas cryptographic hashes are engineered to resist intentional tampering and provide stronger collision resistance."
+    },
+    {
+      "myth": "A matching checksum guarantees that data is authentic.",
+      "reality": "A checksum only verifies integrity, not authenticity. Without cryptographic protections, an attacker can alter both the data and its checksum."
+    },
+    {
+      "myth": "All checksums can detect every possible error.",
+      "reality": "Checksums reduce the likelihood of undetected errors but cannot eliminate it entirely. Different algorithms have different strengths and limitations."
+    }
+  ]
+}

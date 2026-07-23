@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “internal diversity” refers to the wide range of doctrines, practices, textual lineages, monastic disciplines, and community identities that have developed over more than two millennia. Although Jainism is often presented as a unified tradition centered on ahiṃsā, anekāntavāda, and the path to liberation, historical evidence shows that Jain communities have never been monolithic. Internal diversity emerges from regional developments, differing interpretations of canonical authority, variations in monastic conduct, and evolving lay practices.\n\nAt the broadest level, Jainism is commonly divided into Digambara and Śvetāmbara traditions, each with its own scriptural canons, monastic rules, and ritual cultures. Within Śvetāmbara communities, further differentiation occurs among Mūrti-pūjaka, Sthānakavāsī, and Terāpanth traditions, each with distinct views on image worship, discipline, and community organization. Digambara communities likewise contain multiple gacchas and bhaṭṭārakas, as well as differences in philosophical emphasis and regional practice.\n\nInternal diversity also appears in interpretations of primary texts. For example, Digambara and Śvetāmbara traditions preserve different recensions of āgamas and commentaries, leading to divergent views on topics such as the nature of kevalajñāna, the status of women on the path to liberation, and the historical transmission of scripture. Diversity is further shaped by linguistic traditions—Ardhamāgadhī, Śaurasenī, Sanskrit, Apabhraṃśa, and modern vernaculars—each contributing unique interpretive vocabularies.\n\nModern Jain communities continue to express internal diversity through global migration, new educational institutions, ethical debates, and varied approaches to environmentalism, animal welfare, and digital-era practice. Scholars and practitioners increasingly emphasize that internal diversity is not a sign of fragmentation but a reflection of Jainism’s long-standing commitment to plural perspectives, resonating with the philosophical principle of anekāntavāda.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; Śvetāmbara canon",
+      "original_text": "णं च णं च वि बहुविहं जिवियं",
+      "transliteration": "ṇaṃ ca ṇaṃ ca vi bahuviham jiviyaṃ",
+      "translation": "“Life is manifold in its forms.”",
+      "notes": "This passage is frequently cited to illustrate the Jain recognition of multiplicity in living beings, which later becomes a conceptual foundation for acknowledging diversity in perspectives and practices."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अनेकान्तवादः",
+      "transliteration": "anekāntavādaḥ",
+      "translation": "“The doctrine of many-sidedness.”",
+      "notes": "Although brief, this term encapsulates the philosophical principle that reality can be understood from multiple valid viewpoints. Commentarial traditions (Digambara and Śvetāmbara) interpret this principle differently, contributing to internal diversity."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama",
+      "author": "Puṣpadanta and Bhūtabali (Digambara tradition)",
+      "original_text": "जिवाणं गुणपरिणामो णाणं",
+      "transliteration": "jivāṇaṃ guṇapariṇāmo ṇāṇaṃ",
+      "translation": "“Knowledge is a transformation of the qualities of the soul.”",
+      "notes": "Digambara metaphysics and epistemology differ from Śvetāmbara interpretations, illustrating how internal diversity arises from distinct canonical corpora."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism is a single, uniform tradition with identical beliefs and practices across all communities.",
+      "reality": "Historical and textual evidence shows significant diversity among Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth traditions, as well as regional and philosophical variations."
+    },
+    {
+      "myth": "Differences between Jain traditions indicate conflict or fragmentation.",
+      "reality": "Many differences arise from legitimate interpretive plurality, regional development, and evolving practice. They often coexist peacefully and reflect the Jain principle of anekāntavāda."
+    },
+    {
+      "myth": "Only one Jain tradition preserves the authentic teachings of Mahāvīra.",
+      "reality": "Both Digambara and Śvetāmbara lineages maintain ancient textual traditions and commentaries. Each preserves valuable historical material, though their canons and interpretations differ."
+    }
+  ]
+}

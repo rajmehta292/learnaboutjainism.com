@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “financial escalation” refers to a cluster of concerns about the progressive increase of monetary obligations, expectations, or pressures within religious, social, or institutional contexts. The term is not a classical Jain doctrinal category; rather, it is a modern analytical construct used in ethics, community governance, and historical study to examine how financial commitments can intensify over time. Within Jain lay life (śrāvaka-ācāra), financial conduct is framed by principles of ahiṃsā, satya, and aparigraha, which collectively discourage exploitative, coercive, or excessive accumulation. Financial escalation becomes a topic of concern when monetary contributions—whether for temple construction, festivals, community funds, or religious services—grow beyond the voluntary, non-coercive boundaries envisioned in normative texts.\n\nHistorically, Jain communities have developed sophisticated systems of endowments (bhaṇḍāra), guild-based patronage, and merchant philanthropy. These systems often supported manuscript preservation, temple maintenance, and monastic travel. While these traditions demonstrate the positive role of wealth used ethically, they also reveal moments where financial expectations intensified, creating tension between ideal aparigraha and practical community needs. Modern Jain ethics scholars examine financial escalation to understand how contemporary institutions can maintain transparency, voluntariness, and alignment with foundational principles.\n\nIn lay practice, financial escalation is discussed in relation to dana (charitable giving), vrata obligations, and community fundraising. The Lay Practice Guide emphasizes that contributions must remain voluntary, non-coercive, and proportionate to one’s capacity. The Modern Ethics Guide further explores how globalized Jain communities navigate rising costs of religious events, digital infrastructure, and diaspora temple building. Across traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—there is broad agreement that financial escalation must be monitored to prevent undue pressure, social comparison, or the erosion of spiritual intent.\n\nFinancial escalation is also relevant in historical manuscript studies, where patronage sometimes shifted from modest copying funds to large-scale library endowments. In comparative traditions, scholars analyze how Jain norms differ from other Indian religious institutions regarding fundraising and wealth ethics. Overall, the concept serves as a lens to evaluate how financial practices can drift from scriptural ideals and how communities can realign them with Jain values of restraint, clarity, and non-harm.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "अपरिग्रहं नायरे",
+      "transliteration": "aparigrahaṃ nāyare",
+      "translation": "One should not engage in (harmful) accumulation.",
+      "notes": "While the text does not discuss financial escalation directly, its core teaching on aparigraha provides the ethical foundation for evaluating rising monetary expectations."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 29",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "दाणं तु सव्वसत्ताणं हितसुखविहाणं",
+      "transliteration": "dāṇaṃ tu savvasattāṇaṃ hita-sukha-vihāṇaṃ",
+      "translation": "Giving is for the welfare and happiness of all beings.",
+      "notes": "This passage frames dana as benevolent and voluntary, supporting the principle that financial contributions should not escalate into coercive obligations."
+    },
+    {
+      "title": "Tattvārtha Sūtra 7.12",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non-harm is the supreme dharma.",
+      "notes": "Financial escalation is evaluated through the lens of ahiṃsā, especially when monetary pressure causes psychological or social harm."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Financial escalation is a traditional Jain requirement for temple building and festivals.",
+      "reality": "Primary texts emphasize voluntary dana and aparigraha. Escalating financial expectations are modern institutional dynamics, not scriptural mandates."
+    },
+    {
+      "myth": "Large donations automatically generate greater spiritual merit.",
+      "reality": "Canonical texts stress intention, non-attachment, and ethical conduct. Merit is not measured by monetary size but by purity of motive and absence of harm."
+    },
+    {
+      "myth": "Financial escalation is unavoidable in diaspora communities.",
+      "reality": "Jain ethics provide frameworks for transparency, proportionality, and restraint, allowing communities to prevent escalation through conscious governance."
+    }
+  ]
+}

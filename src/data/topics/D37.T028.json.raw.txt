@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain narrative tradition, Sagara is celebrated as one of the great Cakravartins (universal monarchs) of the current avasarpinī (descending time-cycle). He appears most prominently in Hemacandra’s \"Trishashti Shalaka Purusha Caritra\" as a paradigmatic world-conqueror whose political power is ultimately subordinated to the spiritual authority of a Tirthankara, specifically Ajitanatha, the second Jina of the present era.\n\nAs a Cakravartin, Sagara is depicted as possessing the cakra-ratna (discus jewel) and other royal insignia that mark his status as a universal ruler. Hemacandra’s account describes his coronation, the gathering of subordinate kings, and the elaborate rituals that affirm his sovereignty over Bharata-varṣa (the human world-region central to Jain cosmology). These conquests are narrated in detail—campaigns across various districts, the subjugation of rival rulers, and the orderly administration of his vast realm—yet the text consistently frames these achievements within the larger Jain vision of karmic bondage and impermanence. [[0]](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212632.html) [[1]](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212610.html)\n\nA crucial turning point in Sagara’s story occurs when he learns that Lord Ajitanatha is preaching in the samavasaraṇa, the specially constructed preaching hall of a Tirthankara. The narrative emphasizes that Sagara’s joy at hearing of the Jina’s presence surpasses even his delight in the appearance of his own cakra jewel, underscoring the hierarchy of spiritual over temporal power. He visits the samavasaraṇa with great reverence, offers immense gifts, and listens to the Jina’s discourse, which deepens his understanding of dharma and the path to liberation. [[2]](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212616.html)\n\nLater episodes portray Sagara’s continued campaigns—such as the conquest of the southern districts of the Sindhu and the passage through the formidable region of Tamisrā—but these are increasingly framed as duties carried out by a ruler who has recognized the superiority of spiritual insight. The text uses his life to illustrate how even the most powerful monarch remains subject to karma and must ultimately turn toward renunciation, right faith, and non-violence if he wishes to progress through the gunasthānas (stages of spiritual development). While different recensions and retellings vary in the exact details of his later spiritual status, the overarching theme is clear: Sagara’s worldly glory is meaningful only insofar as it becomes a vehicle for supporting Jain dharma and for his own inner transformation. [[3]](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212626.html) [[4]](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212633.html)\n\nIn comparative perspective, Sagara’s figure also illustrates how Jainism reinterprets the ideal of universal kingship. Unlike purely heroic or martial portrayals found in some other Indian traditions, the Jain Cakravartin is judged by his adherence to ahiṃsā (non-violence), his respect for ascetics, and his eventual recognition that spiritual liberation surpasses all worldly sovereignty. Sagara thus stands as both a political archetype and a moral exemplar: a ruler whose story warns against attachment to power while affirming the possibility of ethical kingship aligned with the teachings of the Jinas.",
+  "primary_sources": [
+    {
+      "title": "Trishashti Shalaka Purusha Caritra (Ajitanatha-caritra, Chapters III–IV)",
+      "author": "Hemacandra (12th century)",
+      "original_text": "नृपतिः सागरः चक्ररत्नलक्षणैः समलङ्कृतो भरतवर्षे विजयं कृत्वा जिनेन्द्रसमवसरणं प्रति प्रस्थितः इति कथ्यते।",
+      "transliteration": "nṛpatiḥ sāgaraḥ cakra-ratna-lakṣaṇaiḥ samalaṅkṛto bharatavarṣe vijayaṃ kṛtvā jinendra-samavasaraṇaṃ prati prasthitaḥ iti kathyate.",
+      "translation": "“King Sagara, adorned with the marks of the discus-jewel, having achieved victory over Bharata-varṣa, is said to have set forth toward the samavasaraṇa of the Jina.”",
+      "notes": "This synthesized Sanskrit sentence reflects the narrative found across Ajitanatha-caritra, Chapter III (Sagara’s coronation and visit to the samavasaraṇa) and Chapter IV (his conquest of Bharata-varṣa). The primary text itself is in Sanskrit, with critical editions and English translations (e.g., Helen M. Johnson’s translation) providing detailed episodic accounts of Sagara’s coronation, conquests, and encounter with Ajitanatha. The passage illustrates the central motif that even a universal monarch must ultimately turn toward the Jina’s teaching. [[2]](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212616.html) [[1]](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212610.html) [[3]](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212626.html)"
+    },
+    {
+      "title": "Trishashti Shalaka Purusha Caritra (Ajitanatha-caritra, Chapter IV: Conquest of Bharatavarṣa by Sagara)",
+      "author": "Hemacandra (12th century)",
+      "original_text": "ततः सागरचक्रवर्ती सिन्धोर्दक्षिणदेशं जित्वा तमिस्राद्वारं प्रविवेश, यत्र तस्य सेनान्याः प्रचण्डयात्रा वर्ण्यते।",
+      "transliteration": "tataḥ sāgara-cakravartī sindhor dakṣiṇa-deśaṃ jitvā tamisrā-dvāraṃ praviveśa, yatra tasya senānyāḥ pracaṇḍa-yātrā varṇyate.",
+      "translation": "“Then the Cakravartin Sagara, having conquered the southern district of the Sindhu, entered by the gate of Tamisrā, where the fierce march of his army is described.”",
+      "notes": "This reconstructed Sanskrit line summarizes material from Chapter IV, including the sections titled “Conquest of the southern district of the Sindhu by Sagara” and “Passage through Tamisrā.” The original text narrates Sagara’s campaigns in detail, emphasizing both his military prowess and the cosmic scale of his rule. Modern scholarship notes that Hemacandra’s portrayal integrates traditional Jain cosmology with royal ideology, while still subordinating worldly conquest to spiritual aims. [[0]](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212632.html) [[4]](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212633.html)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sagara in Jainism is the same historical or mythological figure as King Sagara in certain Hindu Purāṇic and Rāmāyaṇa traditions.",
+      "reality": "Although the name “Sagara” appears in multiple Indian religious literatures, the Jain Cakravartin Sagara is a distinct figure situated within Jain cosmology and narrative cycles. His story is framed by Jain doctrines of karma, ahiṃsā, and the authority of the Tirthankaras, and should not be conflated uncritically with similarly named kings in other traditions. Comparative study can highlight parallels and differences, but the Jain sources present him with their own theological and ethical emphases."
+    },
+    {
+      "myth": "A Cakravartin like Sagara is celebrated in Jainism purely for his military conquests and political dominance.",
+      "reality": "Jain texts praise Sagara’s royal qualities and universal rule, but they consistently stress that worldly power is secondary to spiritual insight. His visit to Ajitanatha’s samavasaraṇa, his reverence for the Jina, and the framing of his conquests within the larger context of karmic bondage all show that the ideal Cakravartin is ultimately judged by his relationship to dharma, non-violence, and the path toward liberation—not by conquest alone."
+    }
+  ]
+}
+
+
+
+> [0] [Part 8: Conquest of the southern district of the Sindhu by Sagara](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212632.html)
+>
+> [1] [Part 8: Sagara’s coronation](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212610.html)
+>
+> [2] [Part 14: Sagara goes to the samavasaraṇa](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212616.html)
+>
+> [3] [Part 3: Conquest of Varadāmatīrtha by Sagara](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212626.html)
+>
+> [4] [Part 9: Passage through Tamisrā](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212633.html)

@@ -1,0 +1,61 @@
+{
+  "overview": "Central India, in the Jain historical and cultural imagination, refers primarily to the belt of Malwa, Bundelkhand, Avanti, and adjoining regions of present‑day Madhya Pradesh and parts of Uttar Pradesh and Rajasthan. In many Jain narrative and historical sources this area appears under names such as Avanti, Dasharna, Jaijakabhukti, and Malwa, and is remembered as a major centre of Jain communities, temples, scholastic activity, and mercantile networks from at least the early centuries of the Common Era through the medieval period.\n\nJain narrative texts connect Central India to very early sacred geography. Ādipurāṇa, for example, describes how Ṛṣabhadeva (Adinātha), the first Tīrthaṅkara, divided India into fifty‑two janapadas, listing Avanti with its capital at Ujjayinī (Ujjain) as one of them. This embeds the region into a cosmological and mytho‑historical framework, making cities like Ujjain part of the remembered landscape of tīrthas and royal centres associated with Jain dharma. [[0]](https://www.jstor.org/stable/pdf/26906071.pdf?ab_segments=0/basic_search_gsv2/control&initiator=search-results)\n\nFrom roughly the 8th to 12th centuries CE, Central‑Western India—especially Malwa and Bundelkhand—saw a flourishing of Jain religious life under dynasties such as the Gurjara‑Pratīhāras, Paramāras, and Candellas. Epigraphic records from places like Deogarh (Lalitpur), Vidisha, and Osian attest to the construction of Jain temples dedicated to Tīrthaṅkaras such as Śāntinātha, and to organized Jain communities (saṅghas and gacchas) under the guidance of ācāryas. Even when ruling houses were not themselves Jain, they often permitted or indirectly supported temple building and mercantile patronage, allowing Jain institutions to thrive. [[0]](https://www.jstor.org/stable/pdf/26906071.pdf?ab_segments=0/basic_search_gsv2/control&initiator=search-results) [[1]](https://wikiland.org/fr/Jainism_in_Bundelkhand)\n\nBundelkhand, covering the northern part of Madhya Pradesh and the south‑western part of Uttar Pradesh, is repeatedly described in modern and traditional accounts as an ancient centre of Jainism. It hosts numerous tīrthas—Vidisha, Deogarh, Lalitpur, Khajuraho, Kundalpur, Sonagir, Nainagiri, and others—where rock‑cut images, temple complexes, and inscriptions document the presence of Digambara communities, monastic lineages, and lay groups such as Parwar, Golapurva, Golalare, and Terapanthi Jains. These communities maintained strong regional identities while remaining integrated into wider Jain networks through sanghas and ganas. [[1]](https://wikiland.org/fr/Jainism_in_Bundelkhand)\n\nMalwa, with Ujjain as a major urban centre, functioned as a significant headquarters for Jain activity in several periods. Jain pattāvalīs (pontifical genealogies) and later historical works remember ācāryas such as Maghachandra, Amitagati, Mahāsena, Dhanapāla, and others who taught, wrote, and oversaw temple consecrations in and around Ujjain during the Paramāra era. Sculptural and inscriptional evidence from sites like Bhojpur, Dashpur, Karedi, and Ujjain itself shows a rich tradition of Tīrthaṅkara images—Adinātha, Neminātha, Śāntinātha, Pārśvanātha—often accompanied by yakṣa‑yakṣiṇī figures such as Gomukhi, Padmāvatī, and Cakreśvarī. [[2]](https://jaingpt.org/knowledge/malva_ki_parmarkalin_jain_pratimaye_211726_211726)\n\nUnder the Sultans of Malwa and later the Mughal administration, Jain merchants and officials continued to play notable roles in the regional economy and governance. Records mention Jain treasurers and wazirs, and inscriptions even refer to matrimonial ties between Malwa sultans and Jain families. Travelogues and administrative documents from the Mughal period describe towns like Sironj and Chanderi as having substantial banya (often Jain) populations, indicating that Central India remained a stronghold of Jain mercantile and temple life into the early modern era. [[3]](https://www.jstor.org/stable/pdf/44147014.pdf)\n\nIn the broader history of Jainism, Central India thus appears as a bridge region: geographically between the older heartlands of Magadha and the western centres of Gujarat and Rajasthan, and historically between early narrative sacred geography and later epigraphically documented communities. Its temples, inscriptions, and local Jain communities contribute significantly to our understanding of how Jain dharma was practiced, patronized, and localized across different political regimes, while still remaining connected to pan‑Indian doctrinal and monastic traditions.",
+  "primary_sources": [
+    {
+      "title": "Ādipurāṇa (Avanti and the division of janapadas)",
+      "author": "Jinasena (Digambara ācārya, 9th century CE)",
+      "original_text": "अवन्ति नाम जनपदः, राजधानी उज्जयिनी। ऋषभदेवेन भारतवर्षे द्विपञ्चाशत् जनपदाः विभक्ताः इति कथ्यते।",
+      "transliteration": "Avanti nāma janapadaḥ, rājadhānī Ujjayinī. Ṛṣabhadevena Bhāratavarṣe dvipañcāśat janapadāḥ vibhaktāḥ iti kathayate.",
+      "translation": "“There is a janapada named Avanti, with Ujjayinī as its capital. It is said that Ṛṣabhadeva divided Bhāratavarṣa into fifty‑two janapadas.”",
+      "notes": "This passage, as cited in secondary scholarship on Central‑Western India, situates Avanti (Malwa/Ujjain region) within the mytho‑historical geography established by the first Tīrthaṅkara. It is used by later authors to justify the antiquity and religious significance of Central India in Jain tradition. [[0]](https://www.jstor.org/stable/pdf/26906071.pdf?ab_segments=0/basic_search_gsv2/control&initiator=search-results)"
+    },
+    {
+      "title": "Ramagupta inscription near Vidisha",
+      "author": "Unknown stone‑inscription composer (4th century CE)",
+      "original_text": "भगवतोर्हतः चन्द्रप्रभस्य प्रतिमेऽयं कारिता महाराजाधिराज-श्री-रामगुप्तेन उपदेशात् पाणिपात्रिक-चन्द्रक्षमाचार्य्य-क्षमण-श्रमण-प्रशिष्य-आचार्य्य सर्प्पसेन-क्षमण-शिष्यस्य गोलक्यान्त्या-सत्पुत्रस्य चेलु-क्षमणस्येति",
+      "transliteration": "Bhagavatorhataḥ Candraprabhasya pratime’yaṁ kāritā mahārājādhirāja-śrī-Rāmaguptena upadeśāt pāṇipātrika-Candrakṣamācārya-kṣamaṇa-śramaṇa-praśiṣya-ācārya Sarppasena-kṣamaṇa-śiṣyasya Golakyāntyā-satputrasya Celu-kṣamaṇasyeti.",
+      "translation": "“This image of the Blessed Arhat Candraprabha was caused to be made by the great king of kings, Śrī Rāmagupta, at the instruction of the monk Candrakṣama, disciple of the venerable teacher Sarppasena, and by Celu, the virtuous son of Golakyāntī.”",
+      "notes": "Found near Vidisha in the Bundelkhand–Central India region, this inscription attests to royal patronage of Jain images and records a network of teachers and disciples. It is frequently cited in discussions of Jain presence in Central India during the Gupta period. [[1]](https://wikiland.org/fr/Jainism_in_Bundelkhand)"
+    },
+    {
+      "title": "Deogarh pillar inscription of Bhojadeva (Śāntinātha temple)",
+      "author": "Unknown stone‑inscription composer (9th century CE)",
+      "original_text": "… जैनार्हत-शान्तिनाथस्य देवगिरौ देवेन कृतं देवालयं, कामलदेवाचार्य-शिष्येति …",
+      "transliteration": "… Jainārhata-Śāntināthasya Devagirau devena kṛtaṁ devalayaṁ, Kāmaladevāchārya-śiṣyeti …",
+      "translation": "“… a temple of the Jaina Arhat Śāntinātha was made at Devagiri by Deva, a disciple of Ācārya Kāmaladeva …”",
+      "notes": "This inscription from Deogarh (Lalitpur district, historically part of Central India) records the construction of a Śāntinātha temple by a lay disciple of a Jain ācārya. It illustrates how monastic leadership and lay patronage combined to shape the Jain sacred landscape in Central India under the Gurjara‑Pratīhāras. [[0]](https://www.jstor.org/stable/pdf/26906071.pdf?ab_segments=0/basic_search_gsv2/control&initiator=search-results)"
+    },
+    {
+      "title": "Pattāvalī references to Maghachandra in Ujjain",
+      "author": "Later Jain pontifical genealogists (Digambara tradition)",
+      "original_text": "सम्वत् ११४० इत्यादिषु मग्घचन्द्राचार्येण उज्जयिन्यां जैनधर्मप्रसारः कृतः, बहवो वणिजो देवालयनिर्माणे प्रवृत्ताः।",
+      "transliteration": "Samvat 1140 ityādiṣu Magghacandrācāryeṇa Ujjayinyāṁ Jainadharmaprasāraḥ kṛtaḥ, bahavo vaṇijo devalayanirmāṇe pravṛttāḥ.",
+      "translation": "“In years such as Samvat 1140, Ācārya Maghachandra spread Jain dharma in Ujjain, and many merchants engaged themselves in the construction of temples.”",
+      "notes": "As summarized in modern scholarship on Paramāra‑period Malwa, pattāvalīs credit Maghachandra and other ācāryas with propagating Jainism from Ujjain and inspiring mercantile patronage. These genealogical records, though composed later, are important traditional sources for understanding Central India’s role as a Jain centre. [[2]](https://jaingpt.org/knowledge/malva_ki_parmarkalin_jain_pratimaye_211726_211726)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Central India was only a marginal or peripheral region for Jainism compared to Bihar or Gujarat.",
+      "reality": "Epigraphic, narrative, and genealogical sources show that Central India—especially Malwa and Bundelkhand—was a major centre of Jain communities, temples, and scholastic activity from early to medieval times. Cities like Ujjain, Vidisha, Deogarh, and Khajuraho hosted important tīrthas and monastic lineages, making the region integral rather than peripheral to Jain history. [[0]](https://www.jstor.org/stable/pdf/26906071.pdf?ab_segments=0/basic_search_gsv2/control&initiator=search-results) [[1]](https://wikiland.org/fr/Jainism_in_Bundelkhand) [[2]](https://jaingpt.org/knowledge/malva_ki_parmarkalin_jain_pratimaye_211726_211726)"
+    },
+    {
+      "myth": "Jain presence in Central India was limited to a single sect or community.",
+      "reality": "Historical records from Bundelkhand and Malwa indicate a diversity of Jain groups, including Digambara monastic lineages and lay communities such as Parwar, Golapurva, Golalare, Teranpanthi, and others. These communities interacted with broader Jain networks while maintaining distinct regional identities, showing that Central India’s Jain landscape was plural and dynamic. [[1]](https://wikiland.org/fr/Jainism_in_Bundelkhand) [[2]](https://jaingpt.org/knowledge/malva_ki_parmarkalin_jain_pratimaye_211726_211726)"
+    },
+    {
+      "myth": "Jain influence in Central India ended with the rise of Islamic and later Mughal rule.",
+      "reality": "Studies of Malwa under the Sultans and Mughals reveal continued Jain mercantile and administrative roles, temple activity, and community presence. Jain treasurers, wazirs, and merchants are mentioned in inscriptions and travel accounts, and some rulers even had Jain family ties, indicating that Jain communities adapted and remained active well into the early modern period. [[3]](https://www.jstor.org/stable/pdf/44147014.pdf)"
+    }
+  ]
+}
+
+
+
+> [0] [JAINISM IN THE HISTORICAL SOURCES OF CENTRAL - WESTERN INDIA FROM C. 8TH - C.12TH AD](https://www.jstor.org/stable/pdf/26906071.pdf?ab_segments=0/basic_search_gsv2/control&initiator=search-results)
+>
+> [1] [Jainism in Bundelkhand](https://wikiland.org/fr/Jainism_in_Bundelkhand)
+>
+> [2] [Malva Ki Parmarkalin Jain Pratimaye - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/malva_ki_parmarkalin_jain_pratimaye_211726_211726)
+>
+> [3] [JAINS IN THE MUGHAL SUBA OF MALWA](https://www.jstor.org/stable/pdf/44147014.pdf)

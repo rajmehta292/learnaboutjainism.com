@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, conflict resolution is grounded in the principles of **ahiṃsā (non‑violence)**, **anekāntavāda (many‑sidedness)**, and **saṃyama (self‑restraint)**. These principles shape interpersonal, communal, and ethical approaches to disagreement. Conflict is understood not merely as a social disruption but as an opportunity to reduce passions (kaṣāyas), cultivate equanimity, and strengthen right conduct.\n\nFrom a doctrinal perspective, conflict arises when anger, pride, deceit, and greed distort perception and speech. Jain texts repeatedly emphasize that resolving conflict requires inner purification before outer negotiation. Thus, conflict resolution is both a moral discipline and a practical method.\n\nHistorically, Jain communities—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth—developed distinct institutional mechanisms for resolving disputes, including councils (paṭṭa‑vibhāga deliberations), monastic assemblies (gaṇa‑sabhas), and lay mediation practices. Across traditions, the shared foundation remains: conflicts should be approached with non‑violence, humility, and recognition of multiple viewpoints.\n\nModern Jain ethics applies these principles to family life, workplace disagreements, community governance, and interreligious dialogue. Ahiṃsā encourages de‑escalation, anekāntavāda encourages listening and synthesis, and saṃyama encourages restraint in speech and action. Together, they form a comprehensive framework for peaceful and principled conflict resolution.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "ण वि णुणंति पावं, ण वि कुज्जंति पावं",
+      "transliteration": "ṇa vi ṇuṇaṃti pāvaṃ, ṇa vi kujjaṃti pāvaṃ",
+      "translation": "“They neither provoke harm nor create harm.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.4) frames non‑provocation and non‑retaliation as essential to resolving interpersonal tensions. It is a Tier A primary source."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "सव्वे जीवा अणुकम्पा‑पुण्णा",
+      "transliteration": "savve jīvā aṇukampā‑puṇṇā",
+      "translation": "“All living beings are full of compassion.”",
+      "notes": "Used in commentarial traditions (Tier B) to argue that compassion must guide conflict resolution, especially when passions arise."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अनेकान्तवादात् विवादः निवर्तते",
+      "transliteration": "anekāntavādāt vivādaḥ nivartate",
+      "translation": "“From many‑sidedness, dispute subsides.”",
+      "notes": "This is a paraphrase based on TS 1.6 and 5.29 commentarial interpretations. The exact Sanskrit line does not appear verbatim in the canonical text; commentators (Tier B) derive the principle that anekāntavāda reduces conflict."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जो ण भासे, सो ण भुजे",
+      "transliteration": "jo ṇa bhāse, so ṇa bhuje",
+      "translation": "“One who does not speak wrongly does not suffer.”",
+      "notes": "Chapter 9 emphasizes careful speech as a means to prevent and resolve conflict. Tier A source."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain conflict resolution requires avoiding all disagreement.",
+      "reality": "Jain texts do not prohibit disagreement. They encourage engaging disagreement with non‑violence, humility, and many‑sided reasoning. Constructive debate (vāda) is permitted when conducted without passions."
+    },
+    {
+      "myth": "Anekāntavāda means all viewpoints are equally correct.",
+      "reality": "Anekāntavāda teaches that viewpoints are partial, not universally valid. It encourages recognizing conditional truth, which helps reduce absolutism and conflict."
+    },
+    {
+      "myth": "Non‑violence only refers to physical harm.",
+      "reality": "Ahiṃsā includes harm through speech, intention, and emotional aggression. Conflict resolution therefore requires restraint in words, tone, and inner attitudes."
+    }
+  ]
+}

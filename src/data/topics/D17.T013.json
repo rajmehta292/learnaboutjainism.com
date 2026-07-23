@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, “confession” refers primarily to *ālochanā* and *pratikramaṇa*, practices through which a practitioner acknowledges faults, lapses in conduct, or harm caused to living beings. Confession is not a sacrament mediated by clergy; instead, it is a disciplined ethical exercise grounded in self‑reflection, truthfulness, and the purification of karma. Across Digambara and Śvetāmbara lineages, confession is embedded in daily, fortnightly, and annual cycles of repentance, with variations in liturgy and textual sources.\n\nIn its classical form, confession involves identifying specific transgressions (*aticāras*) related to vows, restraints, or ethical disciplines. The practitioner articulates these faults—either privately before an image or mentally, or publicly before a teacher—depending on the tradition. The purpose is not absolution granted by another person but the internal transformation of the practitioner through awareness, remorse (*pratyākhyāna*), and renewed commitment to non‑violence, non‑possessiveness, and careful conduct.\n\nThe practice is closely tied to Jain karma theory. Harmful actions, careless behavior, or breaches of vows attract karmic particles. Confession, combined with repentance and resolve, is described in primary texts as a means to weaken and shed these karmas. In monastic contexts, confession is formalized through detailed lists of faults and procedural rules. Laypeople engage in confession mainly through *pratikramaṇa*, which includes recalling harm done to any living being, acknowledging negligence, and reaffirming ethical commitments.\n\nDifferent Jain communities emphasize distinct ritual forms. Śvetāmbara Mūrti‑pūjaka traditions incorporate confession into the daily *pratikramaṇa* liturgy, including recitation of the *Iriyāpathika* and *Pratyākhyāna* sūtras. Sthānakavāsī and Terāpanth traditions, which do not use images, practice confession through introspective recitation and guidance from a teacher. Digambara traditions emphasize *ālochanā* and *prāyaścitta* (penance) as described in texts like the *Mūlācāra* and *Ṣaṭkhaṇḍāgama* commentaries.\n\nAcross all traditions, confession is framed as a disciplined ethical tool: a way to cultivate humility, prevent self‑deception, and align one’s conduct with the Jain ideal of carefulness (*samiti*) and vigilance (*gupti*). It is not punitive but restorative, aiming to strengthen the practitioner’s capacity for non‑harm and spiritual progress.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "प्रायश्चित्तालोचनादिनिग्रहः",
+      "transliteration": "prāyaścittālocanādi‑nigrahaḥ",
+      "translation": "“Restraint is achieved through penance, confession, and related practices.”",
+      "notes": "Tattvārtha Sūtra 9.3 lists confession (*ālochanā*) among the key means of discipline for weakening karmic bondage. Commentaries differ on whether confession is primarily monastic or also lay practice."
+    },
+    {
+      "title": "Āvaśyaka Sūtra (Śvetāmbara)",
+      "author": "Anonymous; canonical text",
+      "original_text": "इयियापडिक्खमणं करेमि",
+      "transliteration": "iyiyā‑paḍikkamaṇaṃ karemi",
+      "translation": "“I perform the *Iriyāpathika* pratikramaṇa.” (Opening formula for confession of harm caused through movement.)",
+      "notes": "The *Āvaśyaka* corpus contains structured confession formulas acknowledging harm caused through walking, speaking, eating, and other daily activities."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "आलोचना तु दोषाणां निवेदनं",
+      "transliteration": "ālocanā tu doṣāṇāṃ nivedanaṃ",
+      "translation": "“Confession is the declaration of one’s faults.”",
+      "notes": "The Mūlācāra defines confession as a monastic discipline requiring truthful disclosure of transgressions to a teacher."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "अहं भन्ते एतं पावं आलोचेमि",
+      "transliteration": "ahaṃ bhante etaṃ pāvaṃ ālocemi",
+      "translation": "“Revered one, I confess this sin.”",
+      "notes": "Used in monastic contexts; emphasizes humility and direct acknowledgment of faults before a teacher."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Confession in Jainism is a ritual where a monk grants forgiveness or absolution.",
+      "reality": "Jain confession is self‑directed ethical disclosure. No human grants absolution; karmic purification occurs through personal remorse, resolve, and disciplined conduct."
+    },
+    {
+      "myth": "Confession is only for monks and not relevant to laypeople.",
+      "reality": "Lay practitioners perform confession through *pratikramaṇa*, acknowledging harm caused in daily life and reaffirming vows."
+    },
+    {
+      "myth": "Confession is primarily about moral guilt.",
+      "reality": "The practice is oriented toward awareness, carefulness, and karmic purification, not guilt. It aims to cultivate clarity and non‑harm."
+    }
+  ]
+}

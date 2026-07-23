@@ -1,0 +1,55 @@
+{
+  "overview": "In Jain traditions, “offerings” (often expressed through terms such as *dravya-pūjā*, *āhāra*, *naivedya*, *puṣpa*, and *dīpa*) refer to symbolic acts performed by lay followers to express reverence, cultivate humility, and support the community of practice. Offerings are not directed toward a creator deity; rather, they honor the perfected beings (Tīrthaṅkaras), pay respect to ascetics, and reinforce ethical commitments. Across Jain sects, offerings are interpreted through the lens of non-possession (*aparigraha*), non-harm (*ahiṃsā*), and the understanding that liberation arises from personal effort rather than divine intervention.\n\nIn temple-centered Śvetāmbara Mūrti-pūjaka and Digambara traditions, offerings form part of *pūjā* rituals. These may include water, sandal paste, flowers, lamps, rice, and occasionally symbolic food items. Each substance corresponds to a virtue—purity, equanimity, illumination, or non-violence. Digambara practice emphasizes austerity and may restrict certain materials, while Śvetāmbara Mūrti-pūjaka temples maintain elaborate ritual sequences. Sthānakavāsī and Terāpanth traditions, which reject image worship, do not perform material offerings; instead, they emphasize internal devotion (*bhāva-pūjā*) through meditation, recitation, and ethical conduct.\n\nOfferings to monks and nuns (*āhāra-dāna*) are governed by strict rules. Ascetics do not request food; laypeople voluntarily provide it while observing guidelines on purity, intention, and non-harm. Texts emphasize that the merit lies not in the material itself but in the ethical disposition of the giver. Offerings also include support for scriptural preservation, temple maintenance, and community welfare, understood as acts of service (*sevā*) rather than ritual obligation.\n\nAcross Jainism, offerings are ultimately pedagogical: they remind practitioners of the qualities of liberated beings, cultivate detachment, and reinforce the central Jain insight that spiritual progress depends on disciplined conduct, not divine favor. The meaning of offerings is therefore symbolic, ethical, and community-oriented rather than transactional.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "देव-शास्त्र-गुरु-पूजा-दान-तपः-स्वाध्याय-व्यवसायाः",
+      "transliteration": "deva-śāstra-guru-pūjā-dāna-tapaḥ-svādhyāya-vyavasāyāḥ",
+      "translation": "“Reverence to the Jinas, scriptures, and teachers; giving; austerity; study; and right effort are components of the path.”",
+      "notes": "TS 9.19 lists *pūjā* and *dāna* as part of lay conduct. Commentaries clarify that offerings are symbolic acts of respect, not requests for intervention."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to early Jain community; Śvetāmbara canon",
+      "original_text": "एवं दंते दंते भिक्खू अहारं पविसन्ति",
+      "transliteration": "evaṃ damte damte bhikkhū ahāraṃ pavisanti",
+      "translation": "“Thus, with restraint upon restraint, the monks receive food.”",
+      "notes": "Describes the disciplined manner in which ascetics accept offerings of food. The emphasis is on restraint, purity, and non-attachment."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "दानं हि साधुसंवृत्ते हेतुरित्यभिधीयते",
+      "transliteration": "dānaṃ hi sādhusaṃvṛtte hetur ity abhidhīyate",
+      "translation": "“Giving is said to be a cause for the proper conduct of ascetics.”",
+      "notes": "Highlights the role of lay offerings in sustaining ascetic life while maintaining strict ethical boundaries."
+    },
+    {
+      "title": "Śrāvakācāra Texts (Various)",
+      "author": "Different authors across sects",
+      "original_text": "पूजा द्रव्यभावाभ्यां भवति",
+      "transliteration": "pūjā dravyabhāvābhyāṃ bhavati",
+      "translation": "“Worship occurs through both material and internal means.”",
+      "notes": "A common formulation in lay conduct manuals distinguishing external offerings (*dravya-pūjā*) from internal devotion (*bhāva-pūjā*)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain offerings are meant to please gods or obtain blessings.",
+      "reality": "Jainism teaches that liberated beings do not intervene in worldly affairs. Offerings express reverence and cultivate virtues; they do not function as petitions for divine favor."
+    },
+    {
+      "myth": "All Jains perform material offerings in temples.",
+      "reality": "Sthānakavāsī and Terāpanth traditions reject image worship and do not use material offerings. Their practice centers on meditation, ethical conduct, and scriptural recitation."
+    },
+    {
+      "myth": "Offering food to monks is a simple act of charity.",
+      "reality": "Ascetics follow strict rules for receiving food, and laypeople must observe guidelines on purity, intention, and non-harm. The act is ethically structured, not casual."
+    },
+    {
+      "myth": "More elaborate offerings generate greater merit.",
+      "reality": "Jain texts consistently emphasize intention, humility, and non-attachment over material quantity or ritual complexity."
+    }
+  ]
+}

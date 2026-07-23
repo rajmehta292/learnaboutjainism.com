@@ -1,0 +1,43 @@
+{
+  "overview": "Antarāya (Sanskrit/Prakrit: *antarāya*, meaning “obstruction” or “hindrance”) is one of the five primary categories of karma described in Jain philosophy. Within the canonical karma taxonomy, it belongs to the destructive (*ghātiyā*) karmas—those that directly obscure or weaken the soul’s innate capacities. Specifically, Antarāya karma obstructs the soul’s ability to act, give, enjoy, exert energy, or attain spiritual effort. It does not merely limit external circumstances; rather, it is understood as an internal karmic force that inhibits the soul’s natural potency.\n\nJain texts describe five subtypes of Antarāya karma: (1) *dāna-antarāya* (obstruction to giving), (2) *lābha-antarāya* (obstruction to receiving), (3) *bhoga-antarāya* (obstruction to enjoying consumable pleasures), (4) *upabhoga-antarāya* (obstruction to enjoying durable pleasures), and (5) *vīrya-antarāya* (obstruction to the soul’s energy or spiritual vigor). Among these, vīrya-antarāya is considered the most spiritually significant because it directly impedes the soul’s capacity for effort toward liberation.\n\nIn the broader karmic framework, Antarāya karma is closely linked to intention, particularly envy, competitiveness, and the desire to obstruct others’ welfare or progress. Traditional commentaries emphasize that even subtle forms of jealousy or discouragement can bind this karma. Conversely, acts of encouragement, generosity, and non-obstruction are said to weaken its influence.\n\nAcross Digambara and Śvetāmbara traditions, the doctrinal structure of Antarāya karma remains consistent, though commentarial nuances differ. All traditions agree that the complete destruction (*kṣaya*) of Antarāya karma occurs only at the highest stages of spiritual development (specifically at the 12th–14th *guṇasthānas*), enabling the soul’s unobstructed energy and culminating in liberation (*mokṣa*).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "अन्तरायः",
+      "transliteration": "antarāyaḥ",
+      "translation": "“Obstruction (antarāya) is that which hinders the soul’s capacity.”",
+      "notes": "This is drawn from Tattvārtha Sūtra 8.9–8.10, where Antarāya karma is defined and its five subtypes are enumerated. The text is considered the most authoritative pan-Jain philosophical compendium."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra)",
+      "author": "Ācārya Pūjyapāda (Digambara)",
+      "original_text": "विर्यस्यान्तरायो विर्योपरोधकः",
+      "transliteration": "vīryasyāntarāyo vīryoparodhakaḥ",
+      "translation": "“The obstruction to energy is that which hinders vigor.”",
+      "notes": "Pūjyapāda elaborates that vīrya-antarāya is the most critical because it directly impedes spiritual exertion, which is essential for progress through the guṇasthānas."
+    },
+    {
+      "title": "Tattvārtha Sūtra Bhāṣya",
+      "author": "Śrī Umāsvāti (Śvetāmbara tradition attribution)",
+      "original_text": "दानलाभभोगोपभोगवीर्याणामन्तरायः",
+      "transliteration": "dāna-lābha-bhoga-upabhoga-vīryāṇām antarāyaḥ",
+      "translation": "“Obstruction pertains to giving, receiving, enjoyment, durable enjoyment, and energy.”",
+      "notes": "This commentary aligns with the canonical fivefold division and stresses the ethical roots of obstruction, especially jealousy and ill-will."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Antarāya karma only refers to external obstacles like poverty or lack of opportunity.",
+      "reality": "Jain doctrine defines Antarāya karma as an internal karmic obstruction that limits the soul’s inherent capacities, not merely external circumstances. External difficulties may correlate with Antarāya karma, but they are not its definition."
+    },
+    {
+      "myth": "Antarāya karma is primarily about physical strength or energy.",
+      "reality": "While vīrya-antarāya relates to energy, it refers to spiritual vigor—the soul’s ability to exert effort toward right conduct and liberation—not physical stamina."
+    },
+    {
+      "myth": "Only severe acts bind Antarāya karma.",
+      "reality": "Traditional commentaries emphasize that even subtle forms of envy, discouragement, or obstructing others’ welfare can bind Antarāya karma. It is closely tied to intention rather than magnitude of action."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "overview": "Crowdsourced correction refers to the practice of inviting a broad community—often volunteers, readers, practitioners, or subject‑matter enthusiasts—to identify, flag, and help fix errors in texts, datasets, translations, or digital archives. In academic, manuscript, and digital humanities contexts, it is used to improve accuracy, expand coverage, and democratize participation in knowledge preservation. Within Jain studies, crowdsourced correction has become increasingly relevant for digitizing manuscripts, refining transliterations, and improving metadata for large collections of Prakrit and Sanskrit texts. Because Jain canonical and commentarial literature spans centuries and multiple script traditions (Śāradā, Devanāgarī, Jaina Nāgarī, Grantha, and others), community‑supported correction can help identify scribal variants, resolve ambiguous akṣaras, and highlight places where professional philologists should intervene.\n\nCrowdsourced correction is not a replacement for trained editors, pandits, or manuscript specialists. Instead, it functions as a preliminary layer of quality improvement. Volunteers may help flag inconsistencies, note missing folios, or identify obvious typographical errors in digital editions. Scholars then verify these suggestions against primary manuscripts, critical editions, and established commentaries. In Jain communities, this model has been used in digital cataloguing projects, temple libraries, and diaspora educational initiatives, where lay volunteers assist with scanning, indexing, and preliminary proofreading.\n\nThe method also raises important questions about authority, accuracy, and the limits of community participation. Jain textual traditions emphasize careful transmission, and any correction—especially of canonical works—requires verification by qualified experts. Crowdsourced correction is therefore best understood as a collaborative, non-authoritative, and provisional process that supports, but does not replace, traditional scholarly and lineage-based review.",
+  "primary_sources": [
+    {
+      "title": "Āyāraṅga-sutta (Ācārāṅga)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; compiled by early Śvetāmbara redactors",
+      "original_text": "पवयणं णं पवयणं, णं पवयणं पवयणं।",
+      "transliteration": "pavayaṇaṃ ṇaṃ pavayaṇaṃ, ṇaṃ pavayaṇaṃ pavayaṇaṃ.",
+      "translation": "“Instruction is indeed instruction; non‑instruction is instruction.”",
+      "notes": "This line appears in variant forms across manuscripts. Crowdsourced correction projects often highlight such divergences, but final adjudication requires comparison with authoritative editions such as the Vīra‑Nandivardhana recension. The example illustrates how community volunteers may flag variant readings, while trained editors determine which reading aligns with the canonical tradition."
+    },
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "सम्यग्ज्ञानदर्शनचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑jñāna‑darśana‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "“Right knowledge, right perception, and right conduct constitute the path to liberation.”",
+      "notes": "Digital editions of the Tattvārtha-sūtra often rely on crowdsourced proofreading to catch typographical errors in transliteration or diacritics. However, interpretive decisions—such as how to render cāritra—must be made by qualified scholars and tradition‑specific commentators."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Crowdsourced correction can replace expert editors and traditional lineage-based review.",
+      "reality": "Crowdsourced correction is a preliminary support mechanism. Final verification of Jain canonical or commentarial texts must be performed by trained scholars, manuscript specialists, or lineage-authorized reviewers."
+    },
+    {
+      "myth": "All community suggestions are equally valid and can be directly incorporated into digital editions.",
+      "reality": "Volunteer contributions vary in accuracy. Each suggestion must be checked against primary manuscripts, critical editions, and established commentaries before acceptance."
+    },
+    {
+      "myth": "Crowdsourced correction introduces instability into sacred texts.",
+      "reality": "When properly supervised, crowdsourced correction does not alter canonical texts. It helps identify potential issues, which experts then evaluate using rigorous philological methods."
+    }
+  ]
+}

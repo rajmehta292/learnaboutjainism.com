@@ -1,0 +1,43 @@
+{
+  "overview": "Taran Panth is a distinctive Digambara Jain reform movement founded in the late 15th to early 16th century by Taran Svami (also spelled Tarana Svami or Taranapanthi Mahatma). Emerging primarily in the Bundelkhand region of central India, the tradition is known for its strong emphasis on scriptural study, inner realization, and non‑ritualistic devotion. Unlike many other Jain communities, Taran Panth does not practice mūrti‑pūjā (image worship). Instead, it centers its religious life on contemplative reading, recitation, and interpretation of a canon of fourteen texts attributed to or preserved by Taran Svami.\n\nHistorically, Taran Panth arose during a period of significant intellectual and devotional ferment within Jainism. Taran Svami’s works reflect a synthesis of Digambara philosophical foundations with a reformist critique of ritual excess, sectarian rigidity, and the decline of scriptural literacy. His writings repeatedly stress the primacy of *jñāna* (knowledge) and *samyaktva* (right faith) as the essential means to liberation. The tradition maintains that liberation is accessible through disciplined introspection, ethical conduct, and the cultivation of inner purity rather than external ritual performance.\n\nTaran Panth communities maintain several *chaityalayas* (non‑iconic shrines) where scriptures, seats, or symbolic objects such as *pāṭhāvalī* (text collections) are venerated. These spaces are used for collective study, meditation, and recitation. The tradition’s identity is shaped by its canonical texts, its emphasis on non‑idolatry, and its commitment to preserving Taran Svami’s teachings through oral and written transmission.\n\nModern scholarship situates Taran Panth within the broader landscape of Jain reform movements, noting parallels with other non‑idolatrous traditions such as Sthānakavāsī and Terāpanth, while also highlighting its unique textual corpus and regional cultural history. Today, Taran Panth communities continue to be active in Madhya Pradesh, Uttar Pradesh, and Rajasthan, with ongoing efforts to preserve manuscripts, maintain chaityalayas, and promote study of Taran Svami’s works.",
+  "primary_sources": [
+    {
+      "title": "Mālādhu",
+      "author": "Taran Svami",
+      "original_text": "जिणवरस्स वंदामि, सम्यग्दर्शनलाभो होतु।",
+      "transliteration": "jiṇavarassa vandāmi, samyagdarśanalābho hotu.",
+      "translation": "I bow to the Jinas; may there be the attainment of right faith.",
+      "notes": "This opening formula appears in several manuscripts associated with Taran Panth. The text Mālādhu is traditionally considered a foundational work emphasizing right faith and the purification of inner dispositions. Manuscript variations exist, and some lines are subject to scholarly debate regarding authenticity."
+    },
+    {
+      "title": "Śūnya‑siddhānta",
+      "author": "Taran Svami",
+      "original_text": "सुण्णे निहीणं, तह जिणवयणं।",
+      "transliteration": "suṇṇe nihīṇaṃ, taha jiṇavayaṇaṃ.",
+      "translation": "In the experience of the void, there is the essence of the Jina’s teaching.",
+      "notes": "A central text in the Taran Panth canon, Śūnya‑siddhānta explores the contemplative realization of inner emptiness (*śūnya*) as a pathway to understanding the true nature of the self. Interpretations vary among scholars, with some reading it as a metaphoric description of non‑attachment rather than a metaphysical doctrine."
+    },
+    {
+      "title": "Panditapūjā",
+      "author": "Taran Svami",
+      "original_text": "पंडितं नमस्सामि, जो सच्चं पथं दसे।",
+      "transliteration": "paṇḍitaṃ namassāmi, jo saccaṃ pathaṃ dase.",
+      "translation": "I bow to the wise one who shows the true path.",
+      "notes": "This text praises the enlightened teacher not as a ritual object but as a guide to correct understanding. It is frequently recited in chaityalayas and is central to the tradition’s non‑idolatrous devotional practice."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Taran Panth is simply a branch of Sthānakavāsī Jainism.",
+      "reality": "Although both traditions reject image worship, Taran Panth predates Sthānakavāsī by more than a century and has its own distinct textual canon, historical development, and doctrinal emphases."
+    },
+    {
+      "myth": "Taran Panth rejects all forms of devotion.",
+      "reality": "The tradition rejects ritualistic idol worship but maintains strong devotional practices centered on scriptural recitation, reverence for enlightened teachers, and cultivation of inner purity."
+    },
+    {
+      "myth": "Taran Svami’s texts are universally agreed upon and fixed.",
+      "reality": "Manuscript evidence shows variation across regions and time periods. Scholars and community leaders acknowledge differences in transmission, and some texts have uncertain attribution."
+    }
+  ]
+}

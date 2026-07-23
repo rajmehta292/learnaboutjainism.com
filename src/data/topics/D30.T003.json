@@ -1,0 +1,43 @@
+{
+  "overview": "Chūrṇi (also spelled *Churni*, *Cūrṇi*, or *Cūrṇī*) refers to a genre of early Jain exegetical literature composed primarily in Prakrit. These works function as concise explanatory notes or running commentaries on foundational canonical texts. They are typically shorter and more direct than the later *ṭīkā* or *vṛtti* commentaries and often serve as an intermediate interpretive layer between the terse canonical sūtras and more elaborate scholastic expositions.\n\nIn both Digambara and Śvetāmbara traditions, Chūrṇis occupy an important place in the history of scriptural interpretation. They illuminate linguistic, doctrinal, and ethical aspects of the canonical texts, clarify difficult passages, and preserve early interpretive traditions. Many Chūrṇis are attributed to influential teachers of the early medieval period, though precise authorship is often uncertain due to manuscript transmission and regional variations.\n\nŚvetāmbara literature preserves several well‑known Chūrṇis, especially those associated with the *Āvaśyaka*, *Daśavaikālika*, and *Niryuktis*. In these cases, the Chūrṇi often expands upon the *Niryukti* (a metrical Prakrit commentary) by providing prose explanations. Digambara tradition uses the term more sparingly, but certain early Prakrit commentarial fragments are functionally equivalent.\n\nChūrṇis are valuable for historians of Jainism because they preserve early doctrinal interpretations, linguistic forms of Ardhamāgadhī and Jaina Śaurasenī, and insights into ritual practice. They also help scholars reconstruct the evolution of exegetical methods from mnemonic verse to analytical prose. Modern critical editions rely on manuscript comparison, as many Chūrṇis survive in partial or regionally divergent forms.",
+  "primary_sources": [
+    {
+      "title": "Āvaśyaka Chūrṇi",
+      "author": "Traditionally attributed to early Śvetāmbara teachers; precise authorship uncertain",
+      "original_text": "“ṇaṃ jāva samāiṃ kārayavvaṃ”",
+      "transliteration": "ṇaṃ jāva samāiṃ kārayavvaṃ",
+      "translation": "“Thus one should undertake the *samāyika* practice.”",
+      "notes": "This line appears in the context of explaining the discipline of *samāyika* in the Āvaśyaka tradition. The Chūrṇi elaborates on the terse sūtra instructions, clarifying posture, mental focus, and ethical intent. Surviving manuscripts show variations in phrasing and order."
+    },
+    {
+      "title": "Daśavaikālika Chūrṇi",
+      "author": "Attributed in some traditions to Haribhadra, though attribution is debated",
+      "original_text": "“sūyaṃ savva‑dukkha‑nivvāṇa‑maggam”",
+      "transliteration": "sūyaṃ savva‑dukkha‑nivvāṇa‑maggam",
+      "translation": "“The teaching is the path to the cessation of all suffering.”",
+      "notes": "The Chūrṇi expands upon doctrinal points in the Daśavaikālika Sūtra, especially regarding restraint (*saṃyama*) and conduct. Modern editors note that some passages may represent later interpolations."
+    },
+    {
+      "title": "Niryukti‑Chūrṇi tradition",
+      "author": "Often linked to Bhadrabāhu in traditional accounts, though historical certainty is limited",
+      "original_text": "“bhikkhūṇaṃ uvāsa‑uvāsāeṇaṃ dhamma‑sajjhāya‑kāraṇaṃ”",
+      "transliteration": "bhikkhūṇaṃ uvāsa‑uvāsāeṇaṃ dhamma‑sajjhāya‑kāraṇaṃ",
+      "translation": "“The monks and lay followers engage in the recitation and study of the teaching.”",
+      "notes": "Chūrṇis associated with Niryuktis provide prose explanations of metrical commentary. They are crucial for reconstructing early Śvetāmbara ritual and pedagogical practices."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Chūrṇis are simple glossaries or word lists.",
+      "reality": "While they often clarify vocabulary, Chūrṇis are structured exegetical works that explain doctrinal, ritual, and ethical meaning. They bridge canonical sūtras and later scholastic commentaries."
+    },
+    {
+      "myth": "All Chūrṇis have clear, universally accepted authorship.",
+      "reality": "Many Chūrṇis have uncertain or contested authorship due to manuscript variation and the long history of transmission. Traditional attributions are not always historically verifiable."
+    },
+    {
+      "myth": "Chūrṇis are identical across Digambara and Śvetāmbara traditions.",
+      "reality": "The term and function appear in both traditions, but the surviving corpus, interpretive style, and canonical context differ significantly."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain ontology, five‑sensed beings (*pañcendriya jīva*) represent the highest level of embodied life within the vast hierarchy of living beings. Jainism classifies all life according to the number of senses possessed—touch, taste, smell, sight, and hearing. Beings with all five senses occupy the most complex biological and karmic condition among worldly souls. They include humans, many animals, and certain celestial and infernal beings. Their advanced sensory and cognitive capacities make them capable of both profound spiritual progress and significant karmic bondage.\n\nFive‑sensed beings are understood through the broader Jain doctrine of *jīva-tattva*, which asserts that all living beings possess consciousness, though its manifestation varies according to karmic coverings. In texts such as the *Tattvārtha Sūtra*, five‑sensed beings are further divided into those with mind (*sa-manas*) and those without mind (*a-manas*). Humans and many animals are considered *sa-manas*, capable of intention, memory, and complex decision-making. This mental capacity increases both ethical responsibility and karmic consequences.\n\nWithin Jain cosmology, five‑sensed beings are found across the three worlds—upper, middle, and lower. Their forms differ dramatically, but their sensory completeness remains constant. The tradition emphasizes that possessing five senses does not guarantee spiritual advancement; rather, it provides the potential for higher ethical conduct, meditation, and liberation. Jain ethics therefore place great emphasis on nonviolence toward five‑sensed beings, as harming them results in severe karmic accumulation due to their advanced consciousness.\n\nAcross Digambara and Śvetāmbara traditions, the classification remains consistent, though examples and commentarial elaborations may vary. Modern Jain scholarship highlights how this ancient taxonomy parallels contemporary discussions on animal cognition and environmental ethics, while remaining rooted in scriptural authority.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "पञ्चेन्द्रियाः सजीवाḥ",
+      "transliteration": "pañcendriyāḥ sajīvāḥ",
+      "translation": "“Beings with five senses are living beings.”",
+      "notes": "This sutra appears within the broader classification of living beings in *Tattvārtha Sūtra* 2.13–2.14. The text outlines the hierarchy of one‑ to five‑sensed beings and distinguishes between those with and without mind. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārtha-vṛtti* (Śvetāmbara) elaborate on examples including humans, large animals, and certain celestial beings."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text (author not specified)",
+      "original_text": "जाणे पञ्चइन्दियाणं दुःखं बहुविधं",
+      "transliteration": "jāṇe pañcaindiyāṇaṃ duḥkhaṃ bahuvidhaṃ",
+      "translation": "“Know that five‑sensed beings experience suffering of many kinds.”",
+      "notes": "This passage (Uttarādhyayana Sūtra 36) highlights the ethical dimension of harming higher‑sensed beings. The text emphasizes compassion and restraint, noting that beings with complex sensory systems experience intense forms of pain."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Nemicandra Siddhānta Cakravartin (Digambara)",
+      "original_text": "पञ्चेन्द्रियाणि मनोयुक्तानि च मानुषादयः",
+      "transliteration": "pañcendriyāṇi manoyuktāni ca mānuṣādayaḥ",
+      "translation": "“Five‑sensed beings endowed with mind include humans and others.”",
+      "notes": "This verse clarifies the distinction between mental and non‑mental five‑sensed beings, reinforcing the doctrinal importance of intention and cognition in karmic theory."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Five‑sensed beings in Jainism refer only to humans.",
+      "reality": "Jain texts explicitly include many animals, celestial beings, and infernal beings within the category of five‑sensed beings. Humans are only one subset."
+    },
+    {
+      "myth": "Having five senses automatically means a being is spiritually advanced.",
+      "reality": "Jainism teaches that five senses provide potential for spiritual progress, but karmic bondage, passions, and delusion can still be extremely strong. Sensory complexity does not guarantee ethical or spiritual refinement."
+    },
+    {
+      "myth": "All five‑sensed beings possess mind and intention.",
+      "reality": "Jain ontology distinguishes between five‑sensed beings with mind (*sa‑manas*) and those without mind (*a‑manas*). Only the former have full cognitive capacities."
+    }
+  ]
+}

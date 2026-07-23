@@ -1,0 +1,47 @@
+{
+  "overview": "In Jain ontology, the distinction between **sanjñī (sanjni)** and **asanjñī (asanjni)** beings is foundational for understanding the structure of life, consciousness, and karmic embodiment. The classification appears across both Śvetāmbara and Digambara traditions and is rooted in early canonical Prakrit sources. It divides living beings (jīvas) according to whether they possess **sanjñā**—a set of instinctual mental faculties enabling complex, intentional behavior.\n\nSanjñī beings are those endowed with **five instinctual drives**: food-seeking (āhāra), fear (bhaya), sexual impulse (maithuna), possession or acquisitiveness (parigraha), and anger (krodha). These drives arise from specific combinations of **mind (manas)** and **body-making karma (nāma‑karma)**. Sanjñī beings include all **five‑sensed beings** (pañcendriya), such as humans, animals, celestial beings, and hell beings. They are capable of intentional action, complex emotions, and higher karmic bondage.\n\nAsanjñī beings lack these instinctual drives. They include **one‑ to four‑sensed beings** (from ekendriya to caturendriya), such as earth-bodied beings, water-bodied beings, fire-bodied beings, air-bodied beings, plants, worms, ants, and many small organisms. Although they possess consciousness (cetana), they do not have the mental structures required for instinctual or deliberative behavior. Their karmic bondage is generally simpler, and their capacity for intentional harm or ethical decision-making is limited.\n\nThe distinction is not a moral hierarchy but a **functional classification** describing the complexity of embodiment and karmic manifestation. Both sanjñī and asanjñī beings possess **infinite consciousness** in its pure form, but karmic coverings limit its expression differently. Jain texts emphasize that all beings—regardless of sensory capacity—are equally worthy of nonviolence (ahiṃsā), and the classification serves primarily to explain karmic processes, cosmology, and ethical restraint.\n\nCommentarial traditions note that the boundary between sanjñī and asanjñī beings is tied to the presence or absence of **mind (manas)**. Beings with mind (sa‑manaska) are sanjñī; those without mind (a‑manaska) are asanjñī. This distinction is central to karma theory, especially in discussions of **nāma‑karma**, **saṃjñā‑karma**, and the **gunasthāna** stages of spiritual development.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "संज्ञिनश्चासंज्ञिनश्च",
+      "transliteration": "sañjñinaś cāsanjñinaś ca",
+      "translation": "There are beings with instinctual drives and beings without instinctual drives.",
+      "notes": "Tattvārtha Sūtra 2.13 provides the canonical definition. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārthavṛtti* (Śvetāmbara) elaborate that sanjñā refers to five instinctual impulses."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "एगिंदियादि पंचिंदिया जीवो बहुविहो संज्ञी असंज्ञी च",
+      "transliteration": "egindiyādi pañcindiyā jīvo bahuviho sañjñī asaṃjñī ca",
+      "translation": "Living beings, from one-sensed to five-sensed, are of many kinds—some with instinctual drives and some without.",
+      "notes": "This passage appears in discussions of jīva‑classification. The text emphasizes sensory capacity as the basis for distinguishing sanjñī from asanjñī beings."
+    },
+    {
+      "title": "Gommatasāra Jīvakāṇḍa",
+      "author": "Nemicandra Siddhānta Cakravartin (Digambara)",
+      "original_text": "संज्ञा पंचविधा प्रोक्ता—आहारभयक्रोधमिथुनपरिग्रहाः",
+      "transliteration": "sañjñā pañcavidhā proktā—āhāra‑bhaya‑krodha‑mithuna‑parigrahāḥ",
+      "translation": "Five kinds of instinctual drives are taught: food-seeking, fear, anger, sexual impulse, and possessiveness.",
+      "notes": "This text provides one of the clearest enumerations of the five sanjñās and links them to karmic structures."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Asanjñī beings are unconscious or lifeless.",
+      "reality": "Jain ontology holds that all jīvas possess consciousness (cetana). Asanjñī beings lack instinctual drives, not consciousness."
+    },
+    {
+      "myth": "Sanjñī beings are spiritually superior to asanjñī beings.",
+      "reality": "The distinction is functional, not hierarchical. Both types of beings can accumulate or shed karma, and both possess the same pure potential for liberation."
+    },
+    {
+      "myth": "Only humans are sanjñī beings.",
+      "reality": "All five-sensed beings—including animals, celestial beings, and hell beings—are sanjñī according to canonical texts."
+    },
+    {
+      "myth": "Asanjñī beings cannot suffer.",
+      "reality": "Jain texts affirm that all embodied beings experience pleasure and pain according to their karmic conditions, though the modes of experience differ."
+    }
+  ]
+}

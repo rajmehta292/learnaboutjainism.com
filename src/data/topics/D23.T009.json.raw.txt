@@ -1,0 +1,67 @@
+{
+  "overview": "Sambhavanatha (often spelled Sambhavnath or Sambhavanath) is revered in Jain tradition as the third Tirthankara (ford-maker) of the current descending time-cycle (avasarpini) in Bharat Kshetra.\n\nIn both major Jain sects—Digambara and Śvetāmbara—Sambhavanatha is presented as a paradigmatic royal renouncer: a king of the Ikṣvāku lineage who turns from sovereignty to asceticism, attains kevala-jñāna (omniscience), and finally achieves mokṣa (liberation) as a Siddha. Standard narrative frameworks place his birth in the city of Śrāvastī to King Jitari (or Dṛḍharāja/Vimalvahan in some recensions) and Queen Susenā/Sena, emphasizing his golden bodily hue and extraordinary height, measured in traditional units such as 400 dhanusa. His emblem (lāñchana) in iconography is the horse, carved on the pedestal of his images and used as the primary visual identifier in temples and manuscripts.  [[0]](https://en.wikipedia.org/wiki/Sambhavanatha) [[1]](https://encyclopediaofjainism.com/lord-sambhavnath/)\n\nJain universal history situates Sambhavanatha within a long karmic trajectory. Earlier lives—such as King Vipulvahan/Vipulbal in Mahāvideha or Airāvata regions—are described as marked by intense compassion, generosity during famine, and deep detachment upon witnessing the impermanence of clouds and rain. These qualities are said to have led to the binding of Tirthankara-nāma-karma, the specific karmic configuration that results in Tirthankara birth. After rebirth in the Ikṣvāku dynasty, auspicious dreams and signs accompany his conception and birth, and the prosperity of the land is interpreted as a reflection of the purity of the soul in the queen’s womb—hence the name “Sambhavanatha,” linked to the idea that what seemed impossible (asambhava) became possible (sambhava).  [[1]](https://encyclopediaofjainism.com/lord-sambhavnath/) [[2]](https://jainmuseum.com/history-of-sambhavnath-bhagwan.htm)\n\nAccounts of his renunciation describe a long period of righteous rule in Śrāvastī, followed by a decisive moment of spiritual turning when he contemplates the transience of worldly phenomena. He then undertakes dīkṣā (formal initiation into ascetic life), often said to occur in a forest such as Sahetuk, under a silk-cotton or śālmali tree, accompanied by many other kings who renounce alongside him. After years of rigorous tapas (austerity) and silence, Sambhavanatha attains kevala-jñāna beneath a śāla or śālmali tree, where Indras (heavenly beings) construct a samavasaraṇa, the universal preaching hall. There he expounds the Jain path of right faith, right knowledge, and right conduct to vast assemblies of monks, nuns, laymen, and laywomen, with chief disciples (gaṇadharas) such as Charudatta/Charusen and notable female disciples like Śyāmā mentioned in some Śvetāmbara sources.  [[1]](https://encyclopediaofjainism.com/lord-sambhavnath/) [[3]](https://sambhavnath.com/index.html)\n\nHis nirvāṇa (final liberation) is consistently located at Sammed Śikharji (Mount Śikharji) in present-day Jharkhand, a major Jain pilgrimage site where many Tirthankaras are believed to have attained mokṣa. Traditional chronologies assign him an immensely long lifespan—millions of purvas—reflecting the cosmological scale of Jain time rather than historical dating. Sectarian narrative compendia differ on exact calendrical details (e.g., Margashirsha vs. Kārtika birth dates, specific tithis for kevala-jñāna and nirvāṇa), but they agree on his status as a Siddha who has completely destroyed all karmas.  [[0]](https://en.wikipedia.org/wiki/Sambhavanatha) [[1]](https://encyclopediaofjainism.com/lord-sambhavnath/) [[2]](https://jainmuseum.com/history-of-sambhavnath-bhagwan.htm)\n\nIn art and ritual, Sambhavanatha’s image is typically shown in meditation (padmāsana or kāyotsarga) with a serene golden complexion, the horse emblem, and attendant yakṣa-yakṣiṇī deities such as Trimukha (a three-faced yakṣa) and Pragya/Pragyapti. Temples and monuments dedicated to him appear across India: inscriptions and local traditions connect him to sites like Śobhnath at Śrāvastī, shrines in Ranthambore Fort (Rajasthan), and the Chaturmukha Basadi at Karkala (Karnataka), as well as large single-stone idols in Gujarat. These material traces show how the narrative of Sambhavanatha has been woven into regional devotional landscapes, manuscript traditions, and museum collections, while remaining anchored in the broader Jain theological framework of Tirthankaras as exemplars of non-violence, truthfulness, non-attachment, and spiritual awakening.  [[0]](https://en.wikipedia.org/wiki/Sambhavanatha) [[3]](https://sambhavnath.com/index.html) [[2]](https://jainmuseum.com/history-of-sambhavnath-bhagwan.htm)\n\nFrom a textual-historical perspective, Sambhavanatha’s life-story is preserved not in a single canonical biography but across multiple layers of literature: sectarian Āgamas (especially in Śvetāmbara tradition), narrative compendia like Hemacandra’s Trīśaṣṭiśalākāpuruṣacaritra, Digambara purāṇas, and later encyclopedic and pedagogical works. These sources sometimes diverge on numerical details (e.g., counts of gaṇadharas, śrāvakas, śrāvikās) and specific calendrical data, and modern scholars and monastic authors explicitly acknowledge such variations. As a result, contemporary study of Sambhavanatha benefits from careful comparison of primary texts, commentaries, and regional traditions, with an awareness of where evidence is strong, where it is interpretive, and where transmission has introduced uncertainty or variant readings.  [[4]](https://jaingpt.org/knowledge/tirthankar_03_sambhavnath_bhagwan_parichay_035103_035103)",
+  "primary_sources": [
+    {
+      "title": "Trīśaṣṭiśalākāpuruṣacaritra (Lives of the Sixty-Three Illustrious Beings)",
+      "author": "Hemacandra (Śvetāmbara tradition)",
+      "original_text": "… तृतीयोऽयं जिनेन्द्रः सम्भवनाथो नाम्ना, इक्ष्वाकुवंशे श्रावस्तीपुरी जन्मभूमिः …",
+      "transliteration": "... tṛtīyo'yaṁ jinendraḥ sambhavanātho nāmnā, ikṣvākúvaṁśe śrāvastīpurī janmabhūmiḥ ...",
+      "translation": "“The third Jina is Sambhavanatha by name; his birthplace is the city of Śrāvastī in the Ikṣvāku lineage.”",
+      "notes": "Hemacandra’s Sanskrit narrative compendium (corpus tier B/C) synthesizes earlier Jain traditions about the Tirthankaras. The Sambhavanatha section presents his genealogy, previous births, renunciation, omniscience, and nirvāṇa, aligning broadly with Śvetāmbara universal history. Exact wording and chapter numbering vary by edition; the line here is representative rather than a full critical quotation."
+    },
+    {
+      "title": "Śvetāmbara Āgama narrative strata (e.g., Kalpa Sūtra and related Kathanuyoga texts)",
+      "author": "Anonymous monastic redactors within Śvetāmbara tradition",
+      "original_text": "Prakrit narrative passages on Sambhavanatha are dispersed; a typical formulaic line would be: “Sambhavanāho nāma tatiyo ṭhāṇe ṭhito, Sāvatthi nagare jāo, Jitari rājā, Susenā devī mātā.”",
+      "transliteration": "Sambhavanāho nāma tatiyo ṭhāṇe ṭhito, Sāvatthi nagare jāo, Jitari rājā, Susenā devī mātā.",
+      "translation": "“Named Sambhavanatha, he stands as the third in order; born in the city of Śrāvastī, with King Jitari as father and Queen Susenā as mother.”",
+      "notes": "Śvetāmbara canonical and semi-canonical texts (corpus tier A/B) include brief catalogues of Tirthankaras, often in Prakrit, giving name, order, birthplace, parents, and emblem. Exact phrasing differs across manuscripts and recensions; the line here reflects a typical formula rather than a single fixed verse. Detailed life-stories are usually elaborated in later kathanuyoga (narrative) literature."
+    },
+    {
+      "title": "Digambara Purāṇas (e.g., Padmapurāṇa, Uttarapurāṇa, and related Tirthankara narratives)",
+      "author": "Traditionally Ravisena (Padmapurāṇa), Guṇabhadra (Uttarapurāṇa), among others",
+      "original_text": "… तृतीयस्तु जिनेन्द्रो सम्भवनाथो महायशाः, श्रावस्तीपुरी जन्मा, जितारीराजसुतः स्मृतः …",
+      "transliteration": "... tṛtīyastu jinendro sambhavanātho mahāyaśāḥ, śrāvastīpurī janmā, jitārīrājasutaḥ smṛtaḥ ...",
+      "translation": "“The third Jina, Sambhavanatha of great renown, is remembered as born in the city of Śrāvastī, the son of King Jitari.”",
+      "notes": "Digambara narrative purāṇas (corpus tier B) recount the lives of Tirthankaras with doctrinal and poetic embellishment. While the core data—order, name, birthplace, parents, emblem—matches Śvetāmbara accounts, details of previous births, austerities, and cosmological measurements may differ. The Sanskrit line here is representative of the style and content rather than a verbatim citation from a specific critical edition."
+    },
+    {
+      "title": "Saptatiśatsthāna Pravar and allied sources used in \"Tirthankar 03 Sambhavnath Bhagwan Parichay\"",
+      "author": "Somatisuri (primary text), with later compilation by Muni Shri Dipratnasagar",
+      "original_text": "Original Prakrit/Sanskrit passages are extensive and not reproduced here in full; they include detailed listings of Sambhavanatha’s previous births, karmic causes, and assemblies.",
+      "transliteration": "Not provided in full due to length; see critical or scholarly editions of Saptatiśatsthāna Pravar.",
+      "translation": "The text systematically enumerates doctrinal and narrative points (sthānas) concerning Sambhavanatha, including his prior existences, the specific practices leading to Tirthankara-nāma-karma, and the composition of his samavasaraṇa.",
+      "notes": "Muni Shri Dipratnasagar’s modern compilation (corpus tier C/D) explicitly cites Saptatiśatsthāna Pravar and several other Jain scriptures as sources. He notes variations in numerical data (e.g., counts of gaṇadharas, śrāvakas, śrāvikās) across texts, making this work valuable for understanding both the received narrative and the internal awareness of textual diversity."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sambhavanatha’s historical dates and lifespan can be precisely correlated with the Common Era timeline.",
+      "reality": "Jain sources describe Sambhavanatha’s lifespan in cosmological units such as millions of purvas, within the avasarpini time-cycle. These measures are symbolic and doctrinal, not directly convertible into modern historical dating. Attempts to assign exact BCE/CE dates go beyond the evidence and risk imposing anachronistic frameworks on a mytho-historical narrative."
+    },
+    {
+      "myth": "All Jain sects present an identical, fully harmonized account of Sambhavanatha’s life, disciples, and chronology.",
+      "reality": "While Digambara and Śvetāmbara traditions agree on core elements—his status as the third Tirthankara, birthplace in Śrāvastī, Ikṣvāku lineage, horse emblem, and nirvāṇa at Sammed Śikharji—there are acknowledged variations in details such as the names and numbers of gaṇadharas, specific tithis for key events, and some genealogical data. Modern monastic authors and scholars explicitly note these differences, encouraging careful, source-aware study rather than assuming a single uniform narrative."
+    },
+    {
+      "myth": "The horse emblem means Sambhavanatha is primarily associated with martial power or worldly conquest.",
+      "reality": "In Jain iconography, the horse functions as a distinctive lāñchana used to identify Sambhavanatha among the 24 Tirthankaras, not as a symbol of warfare or aggression. Narrative sources emphasize his compassion, renunciation, and spiritual conquest of karma, aligning the emblem with recognition rather than valorization of violence or royal expansion."
+    },
+    {
+      "myth": "Devotional stories and modern websites about Sambhavanatha are all of equal textual authority to canonical Āgamas.",
+      "reality": "Jain tradition distinguishes between canonical or near-canonical scriptures (Āgamas and early narrative compendia), classical commentaries and purāṇas, and later pedagogical or devotional materials. Contemporary websites, museum labels, and popular booklets often draw from these earlier sources but may simplify, harmonize, or selectively present information. For rigorous study, they should be read alongside verified primary texts and critical editions, with attention to provenance and possible interpretive layers."
+    }
+  ]
+}
+
+
+
+> [0] [Sambhavanatha - Wikipedia](https://en.wikipedia.org/wiki/Sambhavanatha)
+>
+> [1] [03. Lord Sambhavnath (Main)](https://encyclopediaofjainism.com/lord-sambhavnath/)
+>
+> [2] [Sambhavnath Bhagwan Tirthankara - Mahaviralayam Jain Museum](https://jainmuseum.com/history-of-sambhavnath-bhagwan.htm)
+>
+> [3] [Sambhavnath Bhagwan | Third Tirthankara of Jainism | Official Spiritual Website](https://sambhavnath.com/index.html)
+>
+> [4] [Tirthankar 03 Sambhavnath Bhagwan Parichay - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/tirthankar_03_sambhavnath_bhagwan_parichay_035103_035103)

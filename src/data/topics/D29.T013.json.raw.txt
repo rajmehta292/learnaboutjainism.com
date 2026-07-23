@@ -1,0 +1,84 @@
+{
+  "overview": "Karananuyoga (also spelled Karnānuyoga or Kāraṇānuyoga) is one of the major classificatory branches of Jain scriptural and philosophical literature, especially in the Digambara tradition. It focuses on the analytical, quantitative, and causal exposition of the Jain universe (loka), the structure and functioning of karma, and the mathematical and cosmological frameworks used to describe these realities. In contrast to narrative or ethical texts, Karananuyoga is concerned with how things are structured and how they work at a detailed, often highly technical level.\n\nIn the standard Digambara fourfold division of anuyogas—Prathamanuyoga (narrative and legends), Karananuyoga (cosmology and analysis), Dravyanuyoga (metaphysics and ontology), and Charananuyoga (conduct and ethics)—Karananuyoga occupies the second position. It provides the quantitative backbone for the doctrinal system: measurements of space and time, classifications of beings and realms, and the intricate schemata of karmic bondage and fruition. Through this lens, Jainism presents a universe that is finite in extent yet populated by innumerable souls and structured realms, all governed by precise laws of karmic causality.\n\nA hallmark of Karananuyoga is its extensive use of mathematical and quasi-mathematical categories. Texts in this tradition discuss units of measurement such as aṅgula (finger breadth), yojana (a large unit of distance), and vast time units like palya and sāgara, along with distinctions between countable (saṅkhyāta), uncountable (asaṅkhyāta), and infinite (ananta) numbers. These categories are applied to describe the dimensions of the three worlds—adholoka (lower world), madhyaloka (middle world), and ūrdhvaloka (upper world)—as well as the number and arrangement of hells, heavenly realms, continents (dvīpas), oceans (samudras), and mountain ranges. [[0]](https://jaingpt.org/knowledge/karnanuyog_praveshika_003835_003835)\n\nKarananuyoga is also deeply intertwined with Jain karma theory. It offers detailed typologies of karmic matter (karma-vargaṇā), the eight primary types of karma, and the processes of karmic influx (āsrava), bondage (bandha), fruition (udaya), and shedding (nirjarā). While Dravyanuyoga explains what karma is in terms of substance and qualities, Karananuyoga explains how karma operates in time and space: how specific actions of body, speech, and mind lead to particular karmic bonds, lifespans, and rebirths in specific realms. Later Karananuyoga works often systematize and popularize the highly technical material found in foundational texts like the Ṣaṭkhaṇḍāgama and its commentaries Dhavalā, Jayadhavalā, and Mahādhavalā. [[1]](https://jaingpt.org/knowledge/karananuyoga_part_2_090246_090246)\n\nFrom a doctrinal perspective, Karananuyoga serves several functions. First, it provides a rigorous cosmological map that situates the spiritual path within a vast but ordered universe. Second, it offers a causal explanation of moral experience: differences in knowledge, power, lifespan, and suffering are traced to specific karmic causes analyzed in detail. Third, it supports meditative and contemplative practices by giving practitioners a structured vision of the universe and of their own karmic condition, which can be used for reflection on impermanence, responsibility, and the goal of liberation (mokṣa).\n\nHistorically, Karananuyoga literature developed in close dialogue with other anuyogas. Narrative texts (Prathamanuyoga) provide stories that illustrate karmic causality; ethical texts (Charananuyoga) prescribe conduct that prevents harmful karmic influx; metaphysical texts (Dravyanuyoga) define the substances and categories that Karananuyoga then quantifies and analyzes. In this way, Karananuyoga is not an isolated branch but part of a coordinated scriptural ecosystem. Its technical detail can be daunting, yet it reflects a distinctive Jain commitment to precise, law-like description of spiritual reality.\n\nIn modern scholarship and community education, Karananuyoga is often introduced through accessible compendia and question–answer manuals that summarize cosmology and karma theory for students. These works draw on classical sources but present them in simplified form, explaining, for example, the structure of the three worlds, the classification of hells and heavens, and the basic operations of karma in everyday language. [[0]](https://jaingpt.org/knowledge/karnanuyog_praveshika_003835_003835) [[1]](https://jaingpt.org/knowledge/karananuyoga_part_2_090246_090246)",
+  "primary_sources": [
+    {
+      "title": "Ṣaṭkhaṇḍāgama",
+      "author": "Acharya Pushpadanta and Acharya Bhutabali (traditional attribution)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "A foundational Digambara canonical text divided into six sections, it presents detailed doctrines of karma, the soul, and the structure of the universe. Large portions of later Karananuyoga literature—especially on karmic bondage, types of karma, and the causal chains leading to specific rebirths—are based on or elaborations of this work.",
+      "notes": "Ṣaṭkhaṇḍāgama is considered one of the earliest and most authoritative sources for Jain karma theory and cosmology in the Digambara tradition. The massive commentaries Dhavalā, Jayadhavalā, and Mahādhavalā by Acharya Virasena and others are often treated as part of the same textual complex and are central to Karananuyoga discussions of karmic causality and cosmic structure."
+    },
+    {
+      "title": "Dhavalā, Jayadhavalā, and Mahādhavalā (commentaries on Ṣaṭkhaṇḍāgama)",
+      "author": "Acharya Virasena and later commentators",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "These extensive Prakrit and Sanskrit commentaries unpack the terse verses of the Ṣaṭkhaṇḍāgama, providing elaborate explanations of karmic categories, numerical classifications, and cosmological details. They are key sources for the technical material later summarized in Karananuyoga manuals.",
+      "notes": "The commentaries are classified in corpus tier B (reviewed traditional commentary) and are central to the Digambara Karananuyoga tradition. Modern Karananuyoga primers often explicitly state that their explanations of Jīvakanda (soul-related topics) and Karmakanda (karma-related topics) are derived from these commentaries. [[1]](https://jaingpt.org/knowledge/karananuyoga_part_2_090246_090246)"
+    },
+    {
+      "title": "Tiloya Paṇṇatti (Trilokaprajñapti)",
+      "author": "Acharya Yativṛṣabha",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Tiloya Paṇṇatti, literally “Description of the Three Worlds,” is a classical Digambara cosmological text that describes in detail the lower, middle, and upper worlds, including hells, human realms, and heavenly abodes. It quantifies distances, sizes, and populations, and explains the karmic conditions for birth in each realm.",
+      "notes": "Although often classified under cosmological literature, Tiloya Paṇṇatti is a major source for Karananuyoga’s descriptions of loka and aloka (inhabited and uninhabited space). Its systematic treatment of the three worlds, with precise measurements and numerical classifications, exemplifies the Karananuyoga style of analysis."
+    },
+    {
+      "title": "Gommatsāra (Jīvakanda and Karmakanda)",
+      "author": "Acharya Nemichandra Siddhānta Cakravartin",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Gommatsāra is divided into two main parts: Jīvakanda, dealing with the soul and its classifications, and Karmakanda, dealing with karma. The Karmakanda section presents a systematic account of the eight types of karma, their subtypes, bondage, fruition, and the processes of karmic shedding.",
+      "notes": "Gommatsāra is a key bridge text between the highly technical Ṣaṭkhaṇḍāgama complex and later pedagogical Karananuyoga works. Modern Karananuyoga Deepaka and similar texts explicitly build on Gommatsāra’s structure, using question–answer formats to make its complex karma theory accessible to students. [[1]](https://jaingpt.org/knowledge/karananuyoga_part_2_090246_090246)"
+    },
+    {
+      "title": "Karananuyoga Praveśikā (Introduction to Karananuyoga)",
+      "author": "Siddhāntācārya Pandit Kailāshchandra Siddhāntaśāstrī",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "A modern introductory manual that explains the core topics of Karananuyoga—mathematical operations, units of measurement, cosmological structure, and basic karma theory—through a structured series of questions and answers.",
+      "notes": "This work belongs to corpus tier D (reviewed community education). It is widely used in contemporary Jain educational settings to introduce students to Karananuyoga. It explains concepts such as parikarmāṣṭaka (eight basic mathematical operations), the classification of numbers, and the structure of the three worlds, drawing on classical sources while simplifying their presentation. [[0]](https://jaingpt.org/knowledge/karnanuyog_praveshika_003835_003835)"
+    },
+    {
+      "title": "Karananuyoga Dīpaka (Part 2)",
+      "author": "Pt. (Dr.) Pannalal Jain Sahityācārya",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "A pedagogical text focusing on Karmakanda (the karma section) of Karananuyoga. It presents around 300 questions and answers explaining the nature of karma, karmic vargaṇā, bondage, evidence for karma, and the causes of passions (rāga–dveṣa).",
+      "notes": "Karananuyoga Dīpaka Part 2 is explicitly designed to make the profound knowledge of Dhavalā, Jayadhavalā, and Mahādhavalā accessible to beginners. It is a key modern resource for understanding how traditional Karananuyoga material is taught today, especially in Digambara educational institutions. [[1]](https://jaingpt.org/knowledge/karananuyoga_part_2_090246_090246)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Karananuyoga is only about abstract mathematics and has little to do with spiritual practice.",
+      "reality": "While Karananuyoga uses mathematical and quantitative categories, its purpose is deeply spiritual: to explain how karmic causality operates in a structured universe and to support right understanding (samyagjñāna) and right faith (samyagdarśana). The detailed cosmology and karma analysis are meant to foster responsibility, detachment, and clarity about the path to liberation, not to promote mathematics for its own sake."
+    },
+    {
+      "myth": "Karananuyoga can be studied in isolation from other Jain scriptural branches.",
+      "reality": "Karananuyoga is designed to work in concert with Prathamanuyoga (narratives), Dravyanuyoga (metaphysics), and Charananuyoga (ethics). Stories illustrate karmic causality, metaphysical texts define the substances and categories that Karananuyoga analyzes, and ethical texts prescribe conduct that prevents harmful karmic influx. Studying Karananuyoga without these connections can lead to a fragmented understanding of Jain doctrine."
+    },
+    {
+      "myth": "The cosmological descriptions in Karananuyoga are purely symbolic and have no doctrinal weight.",
+      "reality": "Traditional Jain authors treat the cosmological and numerical descriptions of Karananuyoga as serious doctrinal claims about the structure of the universe and the conditions of rebirth. While modern interpreters may explore symbolic or philosophical readings, within the classical framework these descriptions are part of a precise, law-like account of reality that underpins ethical and spiritual teachings."
+    },
+    {
+      "myth": "Only monks or advanced scholars need to study Karananuyoga; laypeople gain nothing from it.",
+      "reality": "Many modern Karananuyoga primers are explicitly written for lay students and beginners. They aim to give householders a clearer picture of the universe, karma, and the consequences of actions, thereby strengthening lay practice and ethical commitment. While the most technical texts may require advanced training, the core insights of Karananuyoga are relevant to anyone concerned with how actions shape future experience."
+    },
+    {
+      "myth": "Karananuyoga is a separate ‘yoga path’ comparable to other yogas in Indian traditions.",
+      "reality": "In Jain usage, ‘anuyoga’ refers to a mode or branch of scriptural exposition, not a distinct path of physical or meditative yoga. Karananuyoga is a way of presenting doctrine analytically and quantitatively. Jain yoga in the sense of spiritual practice is discussed in other texts (for example, in relation to the activities of body, speech, and mind as channels of karmic influx), and Karananuyoga supports that practice by clarifying the causal structure of karma and the universe, rather than functioning as a separate yoga system. [[2]](https://jainknowledge.com/question/17101/karma-yog-by-jain-philosophy-need-understanding-of-that) [[3]](https://www.arihantainstitute.org/blog/83-exploring-yoga-in-the-tattvarthasutra)"
+  ]
+}
+
+
+
+> [0] [Karnanuyog Praveshika - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/karnanuyog_praveshika_003835_003835)
+>
+> [1] [Karananuyoga Part 2 - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/karananuyoga_part_2_090246_090246)
+>
+> [2] [Karma yog by jain philosophy need understanding of that | JainGPT by Jain Knowledge](https://jainknowledge.com/question/17101/karma-yog-by-jain-philosophy-need-understanding-of-that)
+>
+> [3] [Exploring Yoga in the Tattvārthasūtra - Arihanta Institute](https://www.arihantainstitute.org/blog/83-exploring-yoga-in-the-tattvarthasutra)

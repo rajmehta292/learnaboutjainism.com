@@ -1,0 +1,43 @@
+{
+  "overview": "Samayasāra is one of the most influential Digambara Jain philosophical treatises, composed by Ācārya Kundakunda, generally dated between the 2nd and 5th century CE. It is regarded as a foundational text for understanding the nature of the jīva (soul), its intrinsic purity, and the distinction between the soul’s real nature (niścaya-naya) and its empirical, worldly modes (vyavahāra-naya). The work is written in Jaina Śaurasenī Prakrit and consists of 415 verses (gāthās), though manuscript traditions vary slightly.\n\nThe central thesis of Samayasāra is that the soul, in its essential nature, is pure consciousness (upayoga) and entirely distinct from karmic matter, bodily states, passions, and external actions. Kundakunda emphasizes that liberation (mokṣa) is attained not through external ritual alone but through right understanding of the soul’s true nature, accompanied by internal detachment and the destruction of karmic bondage. This perspective has shaped Digambara metaphysics, ethics, and contemplative practice for centuries.\n\nSamayasāra is traditionally studied alongside authoritative commentaries, especially those by Ācārya Amṛtacandra (Samayasāra Kalasha) and Ācārya Jayasena (Dhavala), which clarify technical terms such as paryāya (modes), dravya (substance), svabhāva (intrinsic nature), and the gradations of right faith (samyak-darśana). Modern scholarship highlights the text’s sophisticated ontology, its use of multi-perspectival logic (anekāntavāda), and its role in shaping Digambara interpretations of the guṇasthānas (stages of spiritual development).\n\nWithin Jain communities, Samayasāra is revered as a contemplative text rather than a ritual manual. It is frequently used in advanced study circles, monastic education, and philosophical discussions on karma theory, self-realization, and the nature of bondage. Because the text focuses on inner realization, traditional teachers emphasize careful guidance, contextual understanding, and alignment with established Digambara commentarial traditions.",
+  "primary_sources": [
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "जोगस्स अरहंतो धम्मो, जोगस्स सुद्धो समो\nएवमिह समयस्सारो, णिव्वाणस्स णिव्वाणं",
+      "transliteration": "jogassa arahanto dhammo, jogassa suddho samo\nevamiha samayassāro, nivvāṇassa nivvāṇaṁ",
+      "translation": "“For the yogin, the teaching of the Arhats is purity and equanimity; thus in this Samayasāra lies the essence of liberation.”",
+      "notes": "This is a representative verse from the traditional Prakrit text. Manuscript variations exist. The verse illustrates Kundakunda’s emphasis on inner purity and equanimity as the essence of liberation. Full text editions should be consulted through verified Digambara sources."
+    },
+    {
+      "title": "Samayasāra Kalasha (Commentary)",
+      "author": "Ācārya Amṛtacandra",
+      "original_text": "समयस्सारो नाम आत्मस्वरूपनिर्णयः",
+      "transliteration": "samayassāro nāma ātmasvarūpanirṇayaḥ",
+      "translation": "“Samayasāra is the determination of the true nature of the self.”",
+      "notes": "A Sanskrit commentary that systematically explains Kundakunda’s Prakrit verses. Considered authoritative in Digambara tradition."
+    },
+    {
+      "title": "Dhavala (Commentary on Ṣaṭkhaṇḍāgama, referencing Samayasāra concepts)",
+      "author": "Ācārya Jayasena",
+      "original_text": "जीवस्य स्वभावो ज्ञानदर्शनलक्षणः",
+      "transliteration": "jīvasya svabhāvo jñāna-darśana-lakṣaṇaḥ",
+      "translation": "“The intrinsic nature of the soul is characterized by knowledge and perception.”",
+      "notes": "Although Dhavala is not a commentary on Samayasāra itself, it is frequently used to clarify Kundakunda’s metaphysics. Included here due to its interpretive relevance."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Samayasāra teaches that external conduct and ethical discipline are unnecessary for liberation.",
+      "reality": "Kundakunda distinguishes between the soul’s pure nature (niścaya) and worldly conduct (vyavahāra), but traditional Digambara commentaries emphasize that ethical discipline, vows, and right conduct remain essential supports for the realization of the soul’s true nature."
+    },
+    {
+      "myth": "Samayasāra rejects all ritual practice.",
+      "reality": "The text prioritizes inner realization, but it does not deny the value of ritual within the broader Jain path. Commentators clarify that rituals are meaningful at the vyavahāra level and support the cultivation of right faith and discipline."
+    },
+    {
+      "myth": "Samayasāra can be interpreted independently without guidance.",
+      "reality": "Traditional Digambara pedagogy stresses that Samayasāra is an advanced philosophical text requiring guidance from qualified teachers and authoritative commentaries to avoid misinterpretation."
+    }
+  ]
+}

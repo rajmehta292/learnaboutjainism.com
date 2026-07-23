@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, **infinite knowledge** (ananta‑jñāna) is one of the defining attributes of a liberated soul (siddha) and, in partial form, of an omniscient being (kevalin). Jainism holds that every jīva inherently possesses infinite knowledge, infinite perception, infinite bliss, and infinite energy. These qualities are eternally present but obscured by karmic matter, particularly jñānāvaraṇa‑karma (knowledge‑obscuring karma). When these karmas are fully destroyed, the soul manifests its natural, boundless cognition.\n\nThe concept is central to Jain metaphysics and soteriology. Knowledge is not created or granted by an external deity; rather, it is uncovered through ethical discipline, meditation, and the progressive purification of karma. Infinite knowledge is described as non-sensory, direct, and all-pervasive. It encompasses all substances (dravya), all modes (paryāya), and all temporal moments (kāla) simultaneously. This is distinct from ordinary human knowing, which is fragmentary, sequential, and dependent on the senses.\n\nJain thinkers across traditions—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth—agree on the foundational doctrine but differ in interpretive details, such as the phenomenology of omniscience and the scriptural descriptions of kevalins. Modern scholarship highlights the philosophical sophistication of Jain epistemology, noting its unique combination of realism, pluralism, and moral psychology.\n\nInfinite knowledge is not merely an abstract metaphysical claim; it is tied to the ethical project of Jain life. The path of right faith, right knowledge, and right conduct (samyak‑darśana, samyak‑jñāna, samyak‑cāritra) gradually removes karmic obstructions. The culmination of this path is kevala‑jñāna, the complete manifestation of the soul’s innate omniscience. After death, the kevalin becomes a siddha, permanently abiding in infinite knowledge without embodiment or activity.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अनन्तज्ञानदर्शनसुखवीर्याणि सिद्धस्य",
+      "transliteration": "ananta‑jñāna‑darśana‑sukha‑vīryāṇi siddhasya",
+      "translation": "“Infinite knowledge, infinite perception, infinite bliss, and infinite energy belong to the liberated soul.”",
+      "notes": "Tattvārtha Sūtra 10.1 is the most frequently cited canonical definition of the attributes of a siddha. Both Digambara and Śvetāmbara traditions accept this verse, though commentarial interpretations vary."
+    },
+    {
+      "title": "Samavāyāṅga Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "केवलि भगवंतो अनंतं नाणं जाणंति",
+      "transliteration": "kevali bhagavanto anantaṃ nāṇaṃ jāṇanti",
+      "translation": "“The kevalins, the Blessed Ones, know infinite knowledge.”",
+      "notes": "This passage describes the omniscience of kevalins within the Śvetāmbara canon. The term ‘nāṇa’ corresponds to jñāna (knowledge)."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Pūjyapāda’s recension and commentarial tradition",
+      "original_text": "अणंतं णाणं पविज्जंति जिणा",
+      "transliteration": "aṇantaṃ ṇāṇaṃ pavijjaṃti jiṇā",
+      "translation": "“The Jinas manifest infinite knowledge.”",
+      "notes": "The Ṣaṭkhaṅḍāgama is a foundational Digambara scripture. Its treatment of omniscience is technical, linking infinite knowledge to the complete destruction of knowledge‑obscuring karma."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Infinite knowledge means knowing every trivial detail, such as the number of grains of sand on a beach.",
+      "reality": "Jain texts describe omniscience as knowledge of all substances and their modes, not as an accumulation of trivia. It is a direct, non-sensory awareness of reality’s full structure."
+    },
+    {
+      "myth": "Infinite knowledge is granted by divine grace.",
+      "reality": "Jainism teaches that infinite knowledge is inherent in every soul and becomes manifest only when karmic obstructions are removed through ethical and meditative discipline."
+    },
+    {
+      "myth": "Only gods possess infinite knowledge.",
+      "reality": "In Jainism, gods (devas) do not possess omniscience. Only kevalins and liberated souls (siddhas) have infinite knowledge."
+    }
+  ]
+}

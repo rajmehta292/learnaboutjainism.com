@@ -1,0 +1,43 @@
+{
+  "overview": "Chauvīhar (Skt. *caturvihāra*, Prakrit *cauvīhāra*) is a foundational term in Jain lay practice referring to the disciplined abstention from food and drink after sunset. In most Śvetāmbara and Digambara traditions, it is counted among the daily observances (*āvaśyakas*) or supportive vows (*anuvratas*) that cultivate vigilance, non‑harm, and restraint. The practice is rooted in the belief that nighttime conditions increase the likelihood of harming subtle living beings (*sūkṣma jīvas*) that may be present in water, food, or on utensils. By limiting consumption to daylight hours, householders reduce inadvertent violence and strengthen mindfulness.\n\nHistorically, the term appears in early canonical and commentarial literature describing the conduct of both mendicants and laypeople. For mendicants, the rule is absolute: they do not eat after sunset. For laypeople, Chauvīhar is a voluntary discipline, often adopted during *pākṣika* observances, *upavāsa*, *proṣadha*, or as part of daily ethical practice. In many communities, it is associated with evening reflection, scriptural study, and preparation for *pratikramaṇa*.\n\nThe practice is not primarily ascetic but ethical. It trains attention, reduces impulsive consumption, and aligns the practitioner with the broader Jain emphasis on carefulness (*samiti*) and restraint (*gupti*). Modern teachers emphasize that Chauvīhar should be undertaken with awareness of health, age, and medical conditions, and that it is not a requirement for all householders. The term has regional variations—such as *chauvihārī* (one who observes it)—and is often integrated into family routines, especially during festivals like Paryuṣaṇa and Daśalakṣaṇa.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; Śvetāmbara canon",
+      "original_text": "“Na rattiyā bhuñjeyavayaṃ.”",
+      "transliteration": "na rattiyā bhuñjeyavayaṃ",
+      "translation": "“One should not eat at night.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.7) describes mendicant conduct. While directed at monks, later commentaries (e.g., by Haribhadra) note that laypeople may adopt the discipline in modified form."
+    },
+    {
+      "title": "Dasavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "“Rattiṃ na bhuñjāmi.”",
+      "transliteration": "rattiṃ na bhuñjāmi",
+      "translation": "“I do not eat at night.”",
+      "notes": "Used in descriptions of ideal mendicant restraint. Lay commentaries (Tier B) connect this to Chauvīhar as a voluntary household practice."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "“Saṃyamaḥ sarvārthasiddhiḥ.”",
+      "transliteration": "saṃyamaḥ sarvārthasiddhiḥ",
+      "translation": "“Restraint is the means to all attainments.”",
+      "notes": "Although the text does not name Chauvīhar explicitly, Digambara and Śvetāmbara commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) use this sutra to frame practices like Chauvīhar as forms of lay restraint."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Chauvīhar is mandatory for all Jain householders.",
+      "reality": "Primary texts do not impose it as a universal lay obligation. It is a voluntary discipline recommended when health and circumstances permit."
+    },
+    {
+      "myth": "Chauvīhar is a form of extreme fasting.",
+      "reality": "It is not a fast but a time‑based restraint. Daytime meals are permitted; the practice simply avoids nighttime consumption."
+    },
+    {
+      "myth": "The purpose is only biological—avoiding insects in food.",
+      "reality": "While reducing harm is central, commentaries emphasize mental vigilance, reduced attachment, and alignment with *samiti* (carefulness)."
+    }
+  ]
+}

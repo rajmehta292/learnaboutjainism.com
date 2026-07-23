@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, “study” (śruta‑adhyayana) refers to the disciplined engagement with scriptures, commentaries, and ethical teachings as a core component of right knowledge (samyag‑jñāna). Across Digambara and Śvetāmbara lineages, study is treated not merely as intellectual activity but as a moral and spiritual practice that shapes perception, conduct, and karmic refinement. Jain texts consistently pair study with listening (śruta), reflection (bhāvanā), and conduct (cāritra), emphasizing that scriptural learning must be integrated with lived restraint.\n\nClassical sources describe study as one of the essential duties of both monastics and laypeople. For monastics, it supports the maintenance of doctrinal accuracy, ethical vigilance, and meditative clarity. For laypeople, it provides grounding in vows, rituals, and moral reasoning. Study is also linked to the cultivation of humility, because scriptural knowledge is considered vast, layered, and requiring lifelong engagement.\n\nJain scholastic traditions developed extensive systems of classification for scriptures, including the Śvetāmbara canon (Āgamas) and Digambara canonical and semi‑canonical works (e.g., Ṣaṭkhaṇḍāgama, Kaṣāyapāhuda). Study practices vary by sect: Mūrtipūjaka Śvetāmbaras emphasize canonical recitation and commentarial study; Sthānakavāsīs and Terāpanthīs emphasize non‑idolatrous scriptural engagement and ethical reflection; Digambaras emphasize Prakrit and Sanskrit treatises and philosophical compendia. Despite differences, all traditions treat study as a means to reduce ignorance (mithyātva), strengthen discernment, and progress through the guṇasthānas.\n\nModern Jain communities continue to emphasize study through paṭhaśālās, youth classes, adult study circles, and digital resources. Contemporary scholarship highlights how study supports ethical reasoning in areas such as nonviolence, ecology, and interreligious dialogue. While interpretations differ, the shared principle remains: study is a disciplined, compassionate, and reflective engagement with teachings that guide liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "श्रुतज्ञानम् ज्ञानान्तरम्",
+      "transliteration": "śrutajñānam jñānāntaram",
+      "translation": "Scriptural knowledge is a distinct category of knowledge.",
+      "notes": "Tattvārtha Sūtra 1.19 identifies scriptural knowledge as one of the five types of knowledge. Commentaries across traditions emphasize that study is essential for understanding reality and practicing vows."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "णं णं णं णं सुणह",
+      "transliteration": "ṇaṃ ṇaṃ ṇaṃ ṇaṃ suṇaha",
+      "translation": "Listen attentively.",
+      "notes": "This refrain appears in early sections of the text, emphasizing attentive listening as foundational to study. The text links listening and study with ethical vigilance."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "पढमं नाणं तव्वं",
+      "transliteration": "paḍhamaṃ nāṇaṃ tavvaṃ",
+      "translation": "Knowledge is foremost among the principles.",
+      "notes": "Although highly technical, the text and its Dhavalā commentary repeatedly affirm the primacy of knowledge, including scriptural study, for karmic analysis and liberation."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Kundakunda",
+      "original_text": "णाणं तव्वं चित्तं",
+      "transliteration": "ṇāṇaṃ tavvaṃ cittaṃ",
+      "translation": "Knowledge, principle, and inner disposition are interconnected.",
+      "notes": "Kundakunda’s works emphasize reflective study (bhāvanā) as essential for aligning conduct with right knowledge."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Study in Jainism is purely intellectual and detached from practice.",
+      "reality": "Primary texts consistently pair study with ethical conduct, meditation, and restraint. Scriptural learning is meant to transform behavior, not remain theoretical."
+    },
+    {
+      "myth": "Only monastics are required to study Jain scriptures.",
+      "reality": "Laypeople are also encouraged to study according to their capacity. Texts such as the Ratnakaraṇḍa Śrāvakācāra outline study as a core lay duty."
+    },
+    {
+      "myth": "Study is identical across all Jain sects.",
+      "reality": "While the goal of right knowledge is shared, Digambara and Śvetāmbara traditions differ in canonical corpora, commentarial lineages, and pedagogical methods."
+    }
+  ]
+}

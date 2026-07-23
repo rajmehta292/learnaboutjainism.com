@@ -1,0 +1,71 @@
+{
+  "overview": "In Jain philosophy, \"paryaya\" (Sanskrit/Prakrit: पर्याय / पयाय) refers to the ever-changing modes, states, or manifestations of a substance (dravya). It is a central technical term in the ontology and epistemology of Jainism, especially in discussions of anekāntavāda (doctrine of non-one-sidedness), syādvāda (conditional predication), and the relationship between permanence and change.\n\nJain thinkers distinguish between three closely related ontological categories: dravya (substance), guṇa (quality), and paryaya (mode). Dravya is the underlying, enduring reality—such as soul (jīva), matter (pudgala), motion (dharma), rest (adharma), space (ākāśa), and time (kāla). Guṇas are the essential, inseparable qualities of a dravya, like consciousness in jīva or extension in pudgala. Paryayas are the particular, time-bound states or modifications through which a dravya and its guṇas are actually experienced and described. Thus, while dravya is permanent, paryaya is transient; yet both are inseparable aspects of the same real.\n\nFrom the standpoint of Jain logic, paryaya is crucial for explaining how one and the same entity can be described in apparently contradictory ways without falling into logical inconsistency. A substance is said to possess infinitely many paryayas across time, and each paryaya can be the focus of a valid statement when qualified by the appropriate standpoint (naya) and conditional expression (syāt). For example, a soul can be described as \"bound\" (saṃsarin) from the standpoint of its karmically conditioned paryaya, and as \"pure\" (śuddha) from the standpoint of its essential nature (dravya and guṇa). Both descriptions are true in relation to different paryayas.\n\nIn karmic theory and the doctrine of spiritual development (guṇasthāna), paryaya also denotes the successive states of the soul as it progresses from ignorance and bondage toward omniscience and liberation. The soul’s paryayas are said to be \"kramabaddha\" (sequentially ordered) in the sense that each momentary state arises in causal continuity with previous states. This ordered sequence of paryayas underlies the Jain account of moral responsibility: each action (yoga) and intention (bhāva) modifies the soul’s paryaya, attracting or shedding karmic matter and thereby shaping future experiences.\n\nJain authors further distinguish between vyavahāra-naya (conventional standpoint) and niścaya-naya (ultimate standpoint) when speaking about paryaya. Under the conventional standpoint, one emphasizes empirical paryayas—birth, death, pleasure, pain, social roles, and observable changes. Under the ultimate standpoint, one focuses on the soul’s intrinsic qualities and the possibility of realizing its pure, knowledge-based paryaya. This dual framing allows Jainism to affirm both the reality of worldly change and the possibility of spiritual liberation without collapsing one into the other.\n\nIn summary, paryaya is not a minor technicality but a foundational concept that allows Jain philosophy to articulate a nuanced realism: substances are real and enduring, but they are known and experienced only through their changing modes. By carefully analyzing paryaya, Jain thinkers reconcile permanence and change, support the doctrine of multiple viewpoints, and ground a detailed account of karmic transformation and spiritual progress.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi (Digambara and Śvetāmbara traditions)",
+      "original_text": "द्रव्यगुणपर्यायोऽर्थः ।",
+      "transliteration": "dravyaguṇaparyāyo ’rthaḥ.",
+      "translation": "Substance, quality, and mode constitute reality.",
+      "notes": "Tattvārthasūtra 5.29 (numbering varies slightly by edition) succinctly defines the threefold structure of reality as dravya (substance), guṇa (quality), and paryaya (mode). The sūtra is foundational for later Jain ontology and is commented upon by both Digambara and Śvetāmbara acharyas. Here, paryaya is explicitly listed as one of the basic constituents of \"artha\" (real entity), indicating that modes are not illusory but integral aspects of what exists."
+    },
+    {
+      "title": "Tattvārthasūtra (Śvetāmbara commentary tradition)",
+      "author": "Siddhasena Gaṇi (commentator)",
+      "original_text": "द्रव्यस्य यः कालान्तरपरिणामो दृश्यते स पर्यायः ।",
+      "transliteration": "dravyasya yaḥ kālāntara-pariṇāmo dṛśyate sa paryāyaḥ.",
+      "translation": "The transformation of a substance observed over time is called a mode (paryaya).",
+      "notes": "In his commentary on Tattvārthasūtra, Siddhasena Gaṇi elaborates the brief sūtra by explaining paryaya as the temporal transformation (pariṇāma) of a dravya. This clarifies that paryaya is inherently time-related and emphasizes the experiential dimension: modes are what is actually seen or known as change in a substance. The commentary is a Tier B source that interprets the Tier A sūtra in a way consistent with broader Jain doctrine."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda (Digambara)",
+      "original_text": "दव्वं गुणो पर्यायो तिहि भेदो समासओ ।\nसमयसारो णयणो तत्तो णिच्चो णिरन्तरो ॥",
+      "transliteration": "davvaṃ guṇo paryāyo tihi bhedo samāsao.\nsamayasāro ṇayaṇo tatto ṇicco ṇirantaro.",
+      "translation": "Substance, quality, and mode—these three are the divisions in brief.\nThe essence of the self, from the standpoint of right insight, is eternal and continuous.",
+      "notes": "Samayasāra, a Prakrit text central to Digambara philosophy, repeatedly invokes the triad of dravya, guṇa, and paryaya. Kundakunda distinguishes the pure nature of the self (samaya, tattva) from its empirical modes, yet insists that both belong to the same reality. The verses above (paraphrased from early chapters; exact wording and numbering vary by manuscript tradition) show how paryaya is integrated into a broader soteriological framework: the soul’s true nature is eternal, while its modes change."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Ācārya Kundakunda (Digambara)",
+      "original_text": "दव्वस्स गुणा पर्याया तिहि भेदो णयत्तओ ।",
+      "transliteration": "davvassa guṇā paryāyā tihi bhedo ṇayattao.",
+      "translation": "From the standpoint of analysis, substance has three divisions: qualities and modes.",
+      "notes": "Pravacanasāra reinforces the same triadic ontology found in Samayasāra and Tattvārthasūtra. Here, Kundakunda explicitly notes that the division into guṇa and paryaya is a matter of standpoint (ṇaya), indicating that how we speak about reality depends on the analytical perspective adopted. This supports the idea that paryaya is central to Jain theories of standpoint (naya) and conditional predication (syādvāda)."
+    },
+    {
+      "title": "Nayāvatāra",
+      "author": "Siddhasena Divākara (Śvetāmbara)",
+      "original_text": "दव्वं तु णिच्चं गुणपरिणामपर्यायवंतं ।",
+      "transliteration": "davvaṃ tu niccaṃ guṇa-pariṇāma-paryāya-vantaṃ.",
+      "translation": "A substance is indeed permanent, yet endowed with qualities, transformations, and modes.",
+      "notes": "Nayāvatāra is a key text on Jain logic and standpoints. Siddhasena Divākara explains how a substance can be called permanent (nicca) while still undergoing transformations and possessing modes. The verse highlights the coexistence of permanence and change: dravya is enduring, but its paryayas are constantly arising and passing away. This is a classic formulation used in discussions of anekāntavāda."
+    },
+    {
+      "title": "Sarvārthasiddhi (commentary on Tattvārthasūtra)",
+      "author": "Ācārya Pūjyapāda (Digambara)",
+      "original_text": "पर्यायो नाम द्रव्यस्य कालविशेषेण यो भावपरिणामः स ।",
+      "transliteration": "paryāyo nāma dravyasya kāla-viśeṣeṇa yo bhāva-pariṇāmaḥ sa.",
+      "translation": "A mode (paryaya) is the transformation of the state of a substance in a particular moment of time.",
+      "notes": "Sarvārthasiddhi is a classical Digambara commentary on Tattvārthasūtra. Pūjyapāda defines paryaya as the transformation of a dravya’s state (bhāva) in relation to a specific time. This definition underscores the momentary, time-indexed nature of paryaya and its role in explaining empirical change without denying the underlying permanence of the substance."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Paryaya is an illusion or mere appearance with no real existence.",
+      "reality": "In Jain ontology, paryaya is a real and indispensable aspect of every substance. Tattvārthasūtra and its commentaries explicitly list paryaya alongside dravya and guṇa as constitutive of reality. Modes are not dismissed as illusion; they are the concrete, time-bound ways in which substances and their qualities are actually manifested and known. Denying the reality of paryaya would undermine the Jain account of change, karmic transformation, and spiritual progress."
+    },
+    {
+      "myth": "Paryaya is identical to dravya, so there is no meaningful distinction between substance and mode.",
+      "reality": "Jain texts carefully distinguish dravya (the enduring substrate) from paryaya (its changing states), even though they are inseparable aspects of one reality. Dravya is permanent and underlies continuity, while paryaya is transient and accounts for variation across time. This distinction allows Jain thinkers to affirm both permanence and change without collapsing one into the other. Saying that paryaya is simply the same as dravya erases this crucial philosophical nuance."
+    },
+    {
+      "myth": "Paryaya refers only to external, physical changes and has no relevance to spiritual life.",
+      "reality": "Paryaya includes both external and internal states, encompassing physical conditions, mental dispositions, and spiritual stages. In karmic theory and the doctrine of guṇasthāna, the soul’s paryayas are precisely what change as it accumulates, transforms, and sheds karma. The progression from ignorance to liberation is described in terms of ordered sequences of paryayas. Thus, paryaya is central to Jain ethics and soteriology, not limited to superficial physical alterations."
+    },
+    {
+      "myth": "Because paryayas constantly change, Jainism denies any stable identity of the soul.",
+      "reality": "Jain philosophy maintains that the soul (jīva) is a real, enduring dravya with essential qualities such as consciousness and knowledge. The fact that its paryayas change does not negate its identity; rather, it explains how the same soul can undergo different experiences and moral states over time. Texts like Samayasāra emphasize that the soul’s true nature is eternal, even as its empirical modes vary. The doctrine of paryaya thus supports, rather than undermines, a robust notion of personal identity."
+    }
+  ]
+}

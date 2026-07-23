@@ -1,0 +1,43 @@
+{
+  "overview": "The nine‑tattva (navatattva) system is a foundational doctrinal framework used across Jain traditions to explain the structure of bondage and liberation. It appears in both Digambara and Śvetāmbara lineages, though with slight terminological variations. The term *tattva* means a fundamental reality or principle. In Jainism, tattvas describe the ontological and ethical conditions that make liberation possible.\n\nClassical sources present nine tattvas: **jīva** (sentient being), **ajīva** (non‑sentient reality), **āsrava** (influx of karmic matter), **bandha** (bondage of karma to the soul), **saṃvara** (stoppage of karmic influx), **nirjarā** (shedding of karmic matter), **mokṣa** (liberation), **puṇya** (merit), and **pāpa** (demerit). Some early canonical lists present seven tattvas, with puṇya and pāpa treated as subdivisions of āsrava and bandha; later traditions often expand to nine for pedagogical clarity.\n\nThe tattva system is not merely metaphysical. It is a practical map for lay and monastic conduct. It explains how actions—mental, verbal, and physical—generate karmic influx; how ethical restraint, meditation, and right knowledge stop new influx; and how austerities and equanimity remove existing karmic matter. The nine tattvas thus form the backbone of Jain soteriology, linking cosmology, karma theory, and ethical practice.\n\nDifferent traditions emphasize aspects differently. Digambara authors such as Kundakunda and Amṛtacandra highlight the experiential distinction between the pure soul and karmic obscurations. Śvetāmbara canonical texts such as the *Tattvārtha Sūtra* present the tattvas as universally applicable categories. Despite interpretive differences, all traditions agree that understanding tattvas is essential for progressing through the guṇasthānas (stages of spiritual development) toward mokṣa.\n\nModern scholarship notes that the tattva system serves as a concise summary of Jain metaphysics, comparable to the Buddhist Four Noble Truths or the Hindu pañca‑kośa schema. However, unlike these systems, Jain tattvas are explicitly tied to the materiality of karma and the mechanics of liberation. Contemporary Jain teachers often use the nine‑tattva model in introductory courses, youth education, and comparative religion contexts.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "जीवाजिवाअस्रवबन्धसंवरनिर्जरामोक्षाः",
+      "transliteration": "jīvājivāsravabandhasaṃvaranirjarāmokṣāḥ",
+      "translation": "The categories are: soul, non‑soul, influx, bondage, stoppage, shedding, and liberation.",
+      "notes": "This is Tattvārtha Sūtra 1.4. It lists seven tattvas; puṇya and pāpa are treated elsewhere as forms of influx and bondage. Editions vary slightly in sandhi. This text is accepted by both Digambara and Śvetāmbara traditions, though commentarial interpretations differ."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Kundakunda",
+      "original_text": "जीवो पुण्णपावं बन्धं अस्सवणं च वि।\nसंवरं णिज्जरं मोहं मोक्षं तत्तं णवइयं॥",
+      "transliteration": "jīvo puṇṇapāvaṃ bandhaṃ assavaṇaṃ ca vi |\nsaṃvaraṃ nijjaraṃ mohaṃ mokṣaṃ tattaṃ navaiyaṃ ||",
+      "translation": "The soul, merit, demerit, bondage, influx, stoppage, shedding, delusion, and liberation—these are taught as the nine principles.",
+      "notes": "A Prakrit verse from Digambara tradition. Some manuscripts vary in the inclusion of *moha* (delusion) as an explanatory category rather than a separate tattva. Commentators clarify that puṇya and pāpa are karmic modalities influencing bondage."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Kundakunda",
+      "original_text": "अस्सवो बन्धो च तहा पुण्णं पावं च बन्धहेतु।",
+      "transliteration": "assavo bandho ca tahā puṇṇaṃ pāvaṃ ca bandhahetu",
+      "translation": "Influx and bondage, and likewise merit and demerit, are causes of bondage.",
+      "notes": "This passage explains why puṇya and pāpa are included in the nine‑tattva system: they are ethically distinct forms of karmic influx and bondage."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The nine tattvas are identical across all Jain traditions and always listed as nine.",
+      "reality": "Early canonical sources list seven tattvas; puṇya and pāpa are later pedagogical additions. Digambara and Śvetāmbara traditions agree on the core structure but differ in terminology and emphasis."
+    },
+    {
+      "myth": "Puṇya is purely beneficial and leads directly to liberation.",
+      "reality": "Puṇya produces pleasant experiences but still binds the soul. Both puṇya and pāpa are forms of karmic bondage; liberation requires transcending both."
+    },
+    {
+      "myth": "Understanding tattvas alone guarantees mokṣa.",
+      "reality": "Jain texts stress that right knowledge must be accompanied by right faith and right conduct. Tattva knowledge guides practice but does not replace ethical discipline or meditation."
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "overview": "In Jainism, “canon differences” refers primarily to the divergent understandings of authoritative scripture between the two major traditions: Śvetāmbara and Digambara. Both trace their origins to the teachings of the Tīrthaṅkaras—especially Lord Mahāvīra—and both affirm that the earliest doctrinal corpus was transmitted orally by the Gaṇadharas (chief disciples) as the dvādaśāṅgī (twelvefold canon) and the fourteen Pūrvas. Yet, over centuries marked by famines, migrations, and declining memorization, each tradition developed its own account of how much of this early corpus survived, and which texts can still be regarded as canonical in a strict sense.  [[0]](https://en.wikipedia.org/wiki/Jain_schools_and_branches) [[1]](https://jaingpt.org/knowledge/history_of_canonical_literature_of_jainas_006541_006541)\n\nŚvetāmbara sources maintain that substantial portions of Mahāvīra’s teachings were preserved in Prakrit and later written down after a series of councils. The most decisive event in this narrative is the council at Vallabhi (in present-day Gujarat), traditionally dated around the 5th century CE and presided over by Devarddhi Kṣamāśramaṇa. There, surviving material was collected, systematized, and committed to writing as the Āgamas, usually counted as eleven Aṅgas plus associated Upāṅgas and other canonical categories. Śvetāmbara authors acknowledge that some texts—especially the fourteenth Pūrva and the twelfth Aṅga, Dṛṣṭivāda—were already lost, but they nonetheless affirm a positive canon of 45 (or 32, depending on classification) Āgama texts that continue to shape monastic discipline, lay ethics, and ritual life.  [[2]](https://www.hinduwebsite.com/jainism/jaincanon.asp) [[1]](https://jaingpt.org/knowledge/history_of_canonical_literature_of_jainas_006541_006541)\n\nDigambara authorities, by contrast, hold that the original canon in its strict sense did not survive. According to their account, the Pūrvas and Aṅgas were gradually lost, especially after the time of Bhadrabāhu, the last śrutakevalī (one who fully knew the scriptures). The twelve-year famine in Magadha and the subsequent migration of monks to the south are seen as pivotal moments: the disruption of the teaching lineages and the decline in memorization meant that no fully reliable textual record of Mahāvīra’s words remained. As a result, Digambaras do not recognize the Śvetāmbara Āgamas as canonical; instead, they treat later doctrinal works—such as those of Kundakunda, Samantabhadra, and others—as authoritative expositions of Jain truth, while still acknowledging that these are not identical with the lost original canon.  [[0]](https://en.wikipedia.org/wiki/Jain_schools_and_branches) [[2]](https://www.hinduwebsite.com/jainism/jaincanon.asp)\n\nThese differing canonical claims are embedded in broader sectarian histories. Śvetāmbara narratives emphasize councils at Pāṭaliputra, Mathurā, and Vallabhi, where monks attempted to stabilize and codify the tradition. Digambara narratives stress the impossibility of perfectly preserving the original teachings after the famine and the subsequent need to rely on doctrinal reconstruction rather than on a fixed scriptural corpus. Both traditions agree that the earliest scriptures were in Prakrit (especially Ardhamāgadhī), and both accept certain later works—most notably the Tattvārthasūtra—as common ground. Yet they disagree on whether any text can be said to be the direct, continuous canon from Mahāvīra’s time.  [[2]](https://www.hinduwebsite.com/jainism/jaincanon.asp) [[3]](https://www.sanatanadecode.com/jainism-svetambara-vs-digambara/)\n\nFrom a technical perspective, “canon differences” therefore involve several layers: (1) historical claims about loss and preservation of the dvādaśāṅgī and Pūrvas; (2) sectarian lists of canonical texts (Āgamas for Śvetāmbaras, Siddhānta and doctrinal treatises for Digambaras); (3) linguistic and regional variations in transmission (Prakrit vs. Sanskrit, north vs. south); and (4) differing hermeneutical attitudes toward later compositions and commentaries. Modern scholarship, drawing on manuscript history and philology, generally confirms that the Jain canon was shaped over many centuries and that no surviving text can be treated as a verbatim record of Mahāvīra’s sermons. At the same time, it recognizes that both Śvetāmbara and Digambara corpora preserve early layers of doctrine and practice, and that comparative study of these corpora is essential for understanding the evolution of Jain thought.  [[2]](https://www.hinduwebsite.com/jainism/jaincanon.asp) [[1]](https://jaingpt.org/knowledge/history_of_canonical_literature_of_jainas_006541_006541)\n\nFor students of Jainism, appreciating canon differences is not merely a matter of listing texts. It requires attention to how each tradition conceptualizes authority: Śvetāmbaras tend to speak of a closed canon of Āgamas, supplemented by commentaries and later works, whereas Digambaras emphasize the loss of the original canon and the centrality of doctrinal treatises and philosophical syntheses. Both, however, insist that true authority ultimately lies in right faith, right knowledge, and right conduct, and that scriptures—whatever their sectarian form—are valuable insofar as they guide beings toward liberation (mokṣa) rather than serve as ends in themselves.\n\nBecause these questions touch on lineage, monastic discipline, and ritual practice, any binding decision about which texts a particular community should treat as canonical belongs to qualified living teachers within that lineage. A lay or academic overview can clarify historical and doctrinal patterns, but it cannot replace the guidance of an ācārya or saṅgha when it comes to concrete practice and vows.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga-sūtra (Āyāraṃga-sutta)",
+      "author": "Traditionally attributed to Gaṇadharas of Mahāvīra",
+      "original_text": "णं भणंति महावीरं, अहिंसा परमो धम्मो",
+      "transliteration": "ṇaṃ bhaṇaṃti Mahāvīraṃ, ahiṃsā paramo dhammo",
+      "translation": "Thus they speak of Mahāvīra: non-violence is the supreme dharma.",
+      "notes": "The Ācārāṅga-sūtra is one of the principal Śvetāmbara Aṅgas, focusing on monastic conduct and the practice of ahiṃsā. It is composed in Ardhamāgadhī Prakrit and is regarded by Śvetāmbaras as part of the surviving canonical corpus fixed at the Vallabhi council. Digambaras, while respecting its doctrinal content in places, do not accept it as an authentic remnant of the original dvādaśāṅgī canon.  [[2]](https://www.hinduwebsite.com/jainism/jaincanon.asp) [[1]](https://jaingpt.org/knowledge/history_of_canonical_literature_of_jainas_006541_006541)"
+    },
+    {
+      "title": "Kalpa-sūtra",
+      "author": "Traditionally attributed to Bhadrabāhu (Śvetāmbara attribution)",
+      "original_text": "जिणे महावीरए भगवए नमो",
+      "transliteration": "jiṇe Mahāvīrae bhagavae namo",
+      "translation": "Homage to the victorious Lord Mahāvīra, the Blessed One.",
+      "notes": "The Kalpa-sūtra is a Śvetāmbara canonical text used especially during the Paryuṣaṇa festival. It contains biographies of Tīrthaṅkaras, including Mahāvīra, and prescribes certain ritual observances. Its status as canonical is accepted in Śvetāmbara Mūrtipūjaka and related sub-sects, but Digambaras classify it as a later composition and not part of the lost original canon.  [[2]](https://www.hinduwebsite.com/jainism/jaincanon.asp) [[3]](https://www.sanatanadecode.com/jainism-svetambara-vs-digambara/)"
+    },
+    {
+      "title": "Tattvārthasūtra (Tattvārthādhigama-sūtra)",
+      "author": "Umāsvāti / Umāsvāmi (sectarian attributions vary)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "The Tattvārthasūtra is a concise Sanskrit treatise on Jain doctrine and is uniquely recognized as authoritative by both Śvetāmbara and Digambara traditions, though they differ in commentarial lineages and some interpretive details. It is not part of the early Prakrit Āgamas but functions as a cross-sectarian doctrinal canon, illustrating how later texts can bridge sectarian divides even when views on the original canon differ.  [[0]](https://en.wikipedia.org/wiki/Jain_schools_and_branches) [[2]](https://www.hinduwebsite.com/jainism/jaincanon.asp)"
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda (Digambara)",
+      "original_text": "जो समो सो सयं, सयं सो समो हवे",
+      "transliteration": "jo samo so sayaṃ, sayaṃ so samo have",
+      "translation": "That which is the Self is the real; the real is truly the Self.",
+      "notes": "Samayasāra is a foundational Digambara text in Prakrit, offering a highly internalized, soul-centered interpretation of Jain doctrine. For Digambaras, works like Samayasāra form part of their Siddhānta—an authoritative doctrinal corpus—despite not being identical with the lost Aṅgas and Pūrvas. Śvetāmbaras may study Kundakunda’s texts as important philosophical works but do not treat them as canonical Āgamas.  [[2]](https://www.hinduwebsite.com/jainism/jaincanon.asp) [[3]](https://www.sanatanadecode.com/jainism-svetambara-vs-digambara/)"
+    },
+    {
+      "title": "Dṛṣṭivāda (Ditthivāya) – the lost twelfth Aṅga",
+      "author": "Traditionally attributed to Gaṇadharas of Mahāvīra",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "No direct text survives; only references in later literature attest to its former existence.",
+      "notes": "Dṛṣṭivāda is described in traditional accounts as the twelfth Aṅga and the fountainhead of the fourteen Pūrvas. Both Śvetāmbara and Digambara traditions agree that it was lost relatively early, and its disappearance is central to their narratives about the partial loss of the original canon. The acknowledgement of Dṛṣṭivāda’s absence underscores that even within sectarian canons, there is a shared recognition of gaps and textual discontinuities.  [[0]](https://en.wikipedia.org/wiki/Jain_schools_and_branches) [[1]](https://jaingpt.org/knowledge/history_of_canonical_literature_of_jainas_006541_006541)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "One Jain sect has preserved the complete and original canon of Mahāvīra, while the other has entirely fabricated its scriptures.",
+      "reality": "Both Śvetāmbara and Digambara traditions acknowledge significant loss of the earliest canonical material, especially the Pūrvas and the twelfth Aṅga, Dṛṣṭivāda. Śvetāmbaras affirm that a substantial portion of the teachings survived and was codified as Āgamas, while Digambaras hold that the original canon was effectively lost and that later doctrinal works transmit the essence of Jain truth. Neither tradition claims an absolutely complete, verbatim record of Mahāvīra’s sermons, and both rely on layered transmission, commentary, and doctrinal synthesis.  [[0]](https://en.wikipedia.org/wiki/Jain_schools_and_branches) [[1]](https://jaingpt.org/knowledge/history_of_canonical_literature_of_jainas_006541_006541)"
+    },
+    {
+      "myth": "Canon differences mean that Śvetāmbara and Digambara Jains follow completely different religions with incompatible philosophies.",
+      "reality": "Despite differing views on which texts are canonical, Śvetāmbara and Digambara Jains share core doctrines: the reality of souls and karma, the goal of liberation (mokṣa), and the centrality of ahiṃsā, aparigraha, and the three jewels (right faith, knowledge, and conduct). Canon differences affect details of practice, ritual, and textual authority, but they do not amount to separate religions. Comparative study shows deep continuity in metaphysics and ethics across both corpora.  [[0]](https://en.wikipedia.org/wiki/Jain_schools_and_branches) [[3]](https://www.sanatanadecode.com/jainism-svetambara-vs-digambara/)"
+    },
+    {
+      "myth": "Modern scholars can easily reconstruct the exact original Jain canon using surviving manuscripts.",
+      "reality": "Philological and historical research has greatly clarified the development of Jain literature, but it also confirms that the earliest strata of the canon were transmitted orally and reshaped over centuries. With key texts like Dṛṣṭivāda and the Pūrvas lost, and with multiple redactions and regional recensions of surviving works, no reconstruction can claim to reproduce the exact original dvādaśāṅgī. Scholarly editions provide critical, well-documented texts, yet they remain reconstructions based on available evidence rather than direct access to the primordial canon.  [[2]](https://www.hinduwebsite.com/jainism/jaincanon.asp) [[1]](https://jaingpt.org/knowledge/history_of_canonical_literature_of_jainas_006541_006541)"
+    }
+  ]
+}
+
+
+
+> [0] [Jain schools and branches - Wikipedia](https://en.wikipedia.org/wiki/Jain_schools_and_branches)
+>
+> [1] [History Of Canonical Literature Of Jainas - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/history_of_canonical_literature_of_jainas_006541_006541)
+>
+> [2] [Sacred Texts and Literature of the Jain Tradition](https://www.hinduwebsite.com/jainism/jaincanon.asp)
+>
+> [3] [Jainism: Śvetāmbara vs Digambara – -](https://www.sanatanadecode.com/jainism-svetambara-vs-digambara/)

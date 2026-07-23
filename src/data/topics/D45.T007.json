@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “surveillance” is not a classical doctrinal term, but the concept aligns closely with the tradition’s sustained attention to *internal monitoring*, *ethical vigilance*, and *cosmic observation* through karmic processes. Jain texts do not describe surveillance in the modern political or technological sense; instead, they frame the world as a moral field in which actions are continuously observed by one’s own consciousness, karmic matter, and omniscient beings. Surveillance therefore becomes an interpretive bridge between ancient categories of self‑watchfulness and contemporary concerns about privacy, ethics, and social oversight.\n\nFrom a philosophical standpoint, Jainism emphasizes *apramatta* (non‑negligence) and *samiti* (carefulness), both of which require constant internal surveillance of one’s intentions, speech, and bodily actions. This vigilance is not imposed by an external authority but cultivated as a personal discipline to prevent the influx (*āsrava*) of karmic matter. The tradition also describes the universe as fully knowable to omniscient beings (*kevalins*), whose perfect perception includes awareness of all substances and their modes. This is not surveillance in a punitive sense but an ontological feature of perfected knowledge.\n\nIn social and ethical contexts, Jain communities historically developed practices of mutual accountability—such as confession (*pratikramana*) and communal recitation—that function as forms of moral surveillance. These practices aim to strengthen ethical conduct rather than enforce coercive control. Modern Jain ethics discussions sometimes use the term “surveillance” metaphorically to explore how digital technologies challenge the principles of non‑harm, truthfulness, and autonomy.\n\nThus, surveillance in a Jain framework can be understood as: (1) self‑surveillance for ethical purity, (2) karmic surveillance as a natural consequence of action, and (3) communal moral oversight within voluntary religious practice. None of these correspond to state or corporate surveillance, but they offer conceptual tools for evaluating contemporary issues through Jain ethical lenses.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "अप्रमत्तो धर्मान् भावयेत्",
+      "transliteration": "apramatto dharmān bhāvayet",
+      "translation": "“The vigilant one cultivates the qualities of dharma.”",
+      "notes": "TS 9.6 emphasizes vigilance (*apramatta*) as essential for spiritual progress. This is the closest primary-text analogue to internal ethical surveillance. The sutra does not refer to external monitoring; it describes disciplined self-awareness."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "जोगं जोगे समणे सुहुमे",
+      "transliteration": "jogaṃ joge samaṇe suhuṁe",
+      "translation": "“The monk should be attentive in his conduct, subtle in his awareness.”",
+      "notes": "Ācārāṅga Sūtra I.2 describes continuous mindfulness of movement, speech, and intention. This is a foundational articulation of self-surveillance as carefulness (*samiti*)."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Anonymous Śvetāmbara canonical compiler",
+      "original_text": "सव्वकम्माणं फलं पविस्सइ",
+      "transliteration": "savvakammāṇaṃ phalaṃ pavissai",
+      "translation": "“The fruit of all actions will be experienced.”",
+      "notes": "UttS 3.4 highlights karmic inevitability. While not surveillance in a literal sense, it conveys that no action escapes moral consequence, forming a metaphysical analogue to constant observation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that omniscient beings actively monitor and judge human behavior like a surveillance authority.",
+      "reality": "Primary texts describe omniscience as total knowledge of substances and modes, not as punitive monitoring. There is no doctrine of divine judgment or external enforcement."
+    },
+    {
+      "myth": "Jain ethical vigilance is equivalent to modern state surveillance.",
+      "reality": "Jain vigilance is self-directed and voluntary, aimed at reducing karmic influx. It does not involve coercion, data collection, or external control."
+    },
+    {
+      "myth": "Karmic theory implies a supernatural surveillance system that records actions.",
+      "reality": "Karma in Jainism is a natural, material process. It does not function as a conscious observer; rather, actions themselves attract karmic particles according to natural laws."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain thought, the concepts of family (kula) and clan (gotra) are social categories that intersect with ethical life, historical community formation, and the transmission of religious learning. Jainism does not treat family or clan as sources of spiritual authority or salvific privilege; instead, they are contextual frameworks within which laypersons organize household duties, kinship obligations, and community identity. The tradition consistently emphasizes that liberation (mokṣa) is attained through personal conduct, not lineage.\n\nAcross Jain history, families have served as custodians of manuscripts, patrons of monastic lineages, and transmitters of ritual practice. Merchant and artisan communities—such as the Śrīmālī, Oswal, Agarwal, and various regional groups—played major roles in supporting temple-building, sponsoring scribal activity, and maintaining pilgrimage networks. These groups are not doctrinally mandated categories but historical formations shaped by regional languages, economic patterns, and intermarriage.\n\nClan (gotra) appears in Jain texts primarily in two senses: first, as a descriptive category for the birth family of a historical figure (e.g., Mahāvīra’s association with the Jñātṛ clan); second, as a karmic classification in the Tattvārtha tradition, where “gotra karma” refers not to biological lineage but to karmic forces influencing one’s social status or humility. This distinction is essential: Jainism separates biological clan identity from karmic doctrine, avoiding any claim that spiritual worth is inherited.\n\nWithin lay practice, family is the primary site for learning basic ethics—ahiṃsā, satya, asteya, brahmacarya, and aparigraha—through daily routines, dietary norms, and participation in festivals. The Youth and Family Guide traditions emphasize that household life is compatible with significant spiritual progress when grounded in restraint, compassion, and mindful consumption. At the same time, monastic codes strictly prohibit attachment to family, underscoring the difference between lay and ascetic paths.\n\nModern scholarship highlights that Jain families continue to play central roles in diaspora identity formation, temple administration, and the preservation of regional ritual styles. Yet these developments remain sociological rather than doctrinal: Jainism maintains that clan and family are ethically relevant contexts, not determinants of liberation.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to the early Śvetāmbara canon",
+      "original_text": "ṇa ya māṇusāṇaṃ bandhaṇaṃ kula-gotta-jātiṃ",
+      "transliteration": "ṇa ya māṇusāṇaṃ bandhaṇaṃ kula-gotta-jātiṃ",
+      "translation": "“There is no binding for humans in family, clan, or caste.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.2, in some editions) emphasizes that spiritual bondage is not determined by lineage. Editions vary, and some manuscripts omit or rearrange the phrasing; the meaning is consistently interpreted as rejecting hereditary spiritual privilege."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "uttama-gotraḥ hīna-gotraḥ",
+      "transliteration": "uttama-gotraḥ hīna-gotraḥ",
+      "translation": "“Superior and inferior gotra (karmas).”",
+      "notes": "Tattvārtha Sūtra 8.10 describes gotra as a karmic category influencing social esteem, not biological clan. Commentaries (B) clarify that this karma determines attitudes others hold toward a person, not inherited status."
+    },
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "Jñātṛ-kulaṃ",
+      "transliteration": "Jñātṛ-kulaṃ",
+      "translation": "“The Jñātṛ clan.”",
+      "notes": "Used in the biography of Mahāvīra to describe his birth family. This is descriptive historical information, not a doctrinal claim about spiritual inheritance."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that spiritual status is inherited through clan or caste.",
+      "reality": "Primary texts repeatedly state that liberation depends on personal conduct, not lineage. Gotra in Jain doctrine refers to karmic categories, not biological clans."
+    },
+    {
+      "myth": "Mahāvīra’s birth clan has special religious authority for all Jains.",
+      "reality": "Mahāvīra’s Jñātṛ clan is mentioned historically, not normatively. No Jain tradition grants spiritual privilege based on descent from his family."
+    },
+    {
+      "myth": "Lay family life is incompatible with serious spiritual progress.",
+      "reality": "Jain lay ethics provide structured paths—such as the aṇu-vratas and śīla practices—allowing householders to cultivate significant virtue while fulfilling family responsibilities."
+    }
+  ]
+}

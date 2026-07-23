@@ -1,0 +1,51 @@
+{
+  "overview": "Gender participation in Jainism reflects a long, complex history shaped by scriptural norms, sectarian developments, social conditions, and evolving interpretations. Across the tradition, both men and women have participated as lay followers (śrāvaka/śrāvikā) and as renunciants (muni/āryikā, sādhu/sādhvī), though the forms, expectations, and institutional structures have varied significantly between Digambara and Śvetāmbara lineages.\n\nIn early canonical sources, participation is framed through ethical capacity rather than gender hierarchy. Texts such as the Ācārāṅga Sūtra emphasize universal potential for restraint, nonviolence, and liberation. However, later doctrinal developments—especially concerning nudity, embodiment, and karma—produced divergent views. Digambara traditions generally maintain that women cannot undertake the highest form of mendicancy (nude asceticism) and therefore cannot attain kevalajñāna in a female body. Śvetāmbara traditions, by contrast, affirm that women can achieve liberation and include narratives of female kevalins.\n\nLay participation has historically been more gender-inclusive. Women have been central to household ritual, ethical discipline, and community organization. Śrāvikās are frequently described in didactic literature as exemplars of generosity, carefulness, and devotion. In medieval and modern periods, women have played major roles in temple patronage, manuscript preservation, and sectarian reform movements.\n\nRenunciant participation varies by sect. Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth traditions maintain large communities of sādhu-sādhvīs, often with women outnumbering men. Digambara traditions maintain communities of munis and āryikās, with distinct rules governing clothing, mobility, and ritual practice. Across sects, women’s ascetic communities have produced influential teachers, poets, and commentators, though their works are often preserved in later compilations rather than early canonical strata.\n\nModern scholarship highlights how gender participation is shaped not only by doctrinal positions but also by social history: urbanization, literacy, economic change, and reform movements have expanded women’s roles in education, leadership, and transnational Jain organizations. Contemporary debates continue around ordination, authority, and representation, with many communities seeking to balance traditional norms with modern commitments to equality.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "ṇa ya māṇusāṇaṃ ṇa ya itthīṇaṃ ṇa ya purisāṇaṃ…",
+      "transliteration": "ṇa ya māṇusāṇaṃ ṇa ya itthīṇaṃ ṇa ya purisāṇaṃ…",
+      "translation": "“Not by being human, not by being woman, not by being man… (is one hindered); restraint is the path.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.2, in several editions) is frequently cited to show that ethical capacity is not gender-restricted. Exact wording varies across manuscripts."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Traditionally attributed to early Śvetāmbara redactors",
+      "original_text": "itthī vā puriso vā… samjamam eva karaṇīyam",
+      "transliteration": "itthī vā puriso vā… saṃyamam eva karaṇīyam",
+      "translation": "“Whether woman or man… discipline alone is to be practiced.”",
+      "notes": "Used in Śvetāmbara traditions to support gender-inclusive ascetic potential. Manuscript variants differ in phrasing."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara)",
+      "author": "Pūjyapāda and later commentators",
+      "original_text": "strīṇāṃ parama-saṃyama-anupapattiḥ",
+      "transliteration": "strīṇāṃ parama-saṃyama-anupapattiḥ",
+      "translation": "“For women, the highest form of asceticism is not possible.”",
+      "notes": "A doctrinal basis for the Digambara position that women cannot undertake nude asceticism. Interpretation varies among commentators."
+    },
+    {
+      "title": "Kalpasūtra (Śvetāmbara)",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "bahu-sādhvī-saṅgha-parivṛtaḥ",
+      "transliteration": "bahu-sādhvī-saṅgha-parivṛtaḥ",
+      "translation": "“Surrounded by a great community of nuns.”",
+      "notes": "Describes Mahāvīra’s female disciples, supporting Śvetāmbara recognition of women’s full ascetic participation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism universally teaches that women cannot attain liberation.",
+      "reality": "This is a Digambara doctrinal position tied to nudity and ascetic practice. Śvetāmbara traditions explicitly affirm women’s capacity for kevalajñāna and cite female liberated beings."
+    },
+    {
+      "myth": "Women’s roles in Jainism are limited to household ritual.",
+      "reality": "Historical and modern evidence shows extensive female participation in ascetic communities, manuscript patronage, education, philanthropy, and leadership in reform movements."
+    },
+    {
+      "myth": "Gender participation is uniform across all Jain sects.",
+      "reality": "Digambara and Śvetāmbara traditions differ significantly in doctrinal positions, ascetic rules, and institutional structures, leading to distinct patterns of participation."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "overview": "Cybersecurity is the discipline concerned with protecting digital systems, networks, devices, and data from unauthorized access, damage, disruption, or manipulation. It encompasses a wide range of practices, technologies, and governance structures designed to ensure confidentiality, integrity, and availability—the three foundational pillars often referred to as the CIA triad. As societies increasingly rely on digital infrastructure for communication, commerce, healthcare, governance, and education, cybersecurity has become a critical component of global stability and personal safety.\n\nModern cybersecurity involves defending against diverse threats, including malware, ransomware, phishing, social engineering, insider threats, and state-sponsored attacks. These threats exploit vulnerabilities in software, hardware, human behavior, and organizational processes. Cybersecurity professionals use tools such as encryption, firewalls, intrusion detection systems, multi-factor authentication, and continuous monitoring to mitigate risks. They also rely on frameworks like NIST, ISO/IEC 27001, and zero-trust architectures to guide policy and implementation.\n\nBeyond technical defenses, cybersecurity includes legal, ethical, and organizational dimensions. Governments enact regulations such as GDPR, HIPAA, and CCPA to protect personal data and ensure accountability. Companies develop incident response plans, conduct regular audits, and train employees to recognize threats. Individuals play a role by practicing safe online behavior, using strong passwords, and keeping devices updated. As emerging technologies—such as artificial intelligence, quantum computing, and the Internet of Things—expand the digital landscape, cybersecurity continues to evolve to address new vulnerabilities and safeguard the interconnected world.",
+  "primary_sources": [
+    {
+      "title": "No applicable Jain primary text",
+      "author": "N/A",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "Cybersecurity is a modern technological field and does not appear in Jain canonical or commentarial literature. Therefore, no Prakrit or Sanskrit primary sources are available or relevant."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Cybersecurity is only a concern for large companies and governments.",
+      "reality": "Individuals are frequent targets of cyberattacks, especially phishing, identity theft, and ransomware. Personal devices and accounts require strong protection."
+    },
+    {
+      "myth": "Antivirus software alone is enough to stay safe online.",
+      "reality": "Cybersecurity requires multiple layers of defense, including secure passwords, software updates, network protections, and awareness of social engineering tactics."
+    },
+    {
+      "myth": "Cyberattacks are always highly technical.",
+      "reality": "Many attacks rely on human error or manipulation, such as clicking malicious links or sharing sensitive information with impostors."
+    },
+    {
+      "myth": "Strong passwords are sufficient without additional measures.",
+      "reality": "Multi-factor authentication significantly increases security by requiring more than just a password to access accounts."
+    }
+  ]
+}

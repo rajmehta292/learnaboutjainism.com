@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical discourse, “names and referents” (nāma–saṃjñā and artha–pratyaya) form a foundational topic within epistemology (jñāna), ontology (tattva), and linguistic theory (śabdārtha). Jain thinkers treat names not merely as labels but as cognitive instruments that mediate between the knower and the known. A name (nāma) is a linguistic sign, while its referent (artha) is the object, quality, or concept toward which the sign points. The relationship between the two is neither fixed nor absolute; instead, it is conditioned by standpoint (naya), context, and the multifaceted nature of reality (anekāntavāda). \n\nWithin the Jain tradition, names are understood as conventional constructs (vyavahāra) that help organize perception and communication. They do not capture the full ontological complexity of substances (dravya), modes (paryāya), and qualities (guṇa). A single referent may be designated by multiple names depending on the standpoint—substance standpoint (dravyārthika naya), mode standpoint (paryāyārthika naya), or practical standpoint (vyavahāra naya). Conversely, one name may refer to different entities depending on context, illustrating the Jain emphasis on perspectival knowledge. \n\nThe topic also appears in karma theory, where “name-karma” (nāma-karma) determines the physical and biological characteristics of embodied beings. Here, “name” refers not to linguistic labels but to the karmic category that shapes the form and identity of a living being. This dual usage—linguistic naming and karmic naming—highlights the need for careful textual interpretation. \n\nJain authors across sects—Digambara and Śvetāmbara—agree that names are indispensable for communication but insufficient for grasping ultimate reality (niścaya). Names operate within the realm of conventional truth, while the referent’s full nature can only be understood through right knowledge (samyag-jñāna) and the integration of multiple viewpoints. The distinction between name and referent thus becomes a key example of the Jain commitment to intellectual humility, non-absolutism, and careful analysis of language.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (sectarian attribution varies)",
+      "original_text": "नामकर्म च",
+      "transliteration": "nāma-karma ca",
+      "translation": "“There is also name-karma.”",
+      "notes": "Tattvārtha Sūtra 8.1 introduces nāma-karma as one of the eight primary karmas. Although this passage concerns karmic naming rather than linguistic naming, it is essential for understanding the broader Jain concept of ‘name’ as a determinant of embodied identity. Commentaries (B: Pūjyapāda’s Sarvārthasiddhi; Siddhasena’s Tattvārthādhigama-bhāṣya) clarify that nāma-karma shapes physical form, species, and bodily attributes."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Kundakunda",
+      "original_text": "णामं णामं उवओस्स वि होदि",
+      "transliteration": "ṇāmaṃ ṇāmaṃ uvadossa vi hodi",
+      "translation": "“A name is merely a name, a conventional designation.”",
+      "notes": "This passage (E: variant readings across manuscripts) highlights the distinction between linguistic naming and the true nature of substances. Kundakunda emphasizes that names belong to the realm of vyavahāra (convention), not ultimate reality (niścaya)."
+    },
+    {
+      "title": "Pramāṇa-mīmāṃsā",
+      "author": "Hemacandra",
+      "original_text": "शब्दो नामार्थप्रत्यायको न स्वतन्त्रः",
+      "transliteration": "śabdo nāmārthapratyāyako na svatantraḥ",
+      "translation": "“A word, a name, conveys its referent but is not independent.”",
+      "notes": "Hemacandra’s epistemological treatise (C: critical editions) explains that names function as cognitive triggers but depend on convention, context, and shared understanding. They do not reveal the full nature of the referent."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "A name in Jainism always corresponds to a single, fixed referent.",
+      "reality": "Jain epistemology teaches that names are conventional and perspectival. A single referent may have multiple valid names depending on the standpoint (naya), and one name may refer to different entities in different contexts."
+    },
+    {
+      "myth": "Nāma-karma refers to linguistic naming.",
+      "reality": "Nāma-karma is a karmic category determining physical and biological characteristics of embodied beings. It is distinct from the linguistic concept of naming, though both share the term ‘nāma’."
+    },
+    {
+      "myth": "Names can fully capture the nature of substances.",
+      "reality": "Names operate within conventional truth (vyavahāra). They cannot express the complete reality of substances, which requires right knowledge and the integration of multiple viewpoints (anekāntavāda)."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “depth controls” refers to a methodological framework used by modern academic and tradition‑aware digital systems to regulate how much interpretive, doctrinal, or comparative detail is introduced when presenting Jain teachings. Because Jainism spans over two millennia of textual production, multiple sectarian traditions, and highly technical philosophical systems, depth controls ensure that explanations remain accurate, source‑grounded, and appropriate for the user’s level of inquiry. \n\nIn contemporary Jain pedagogy—especially in digital humanities, manuscript studies, and structured ontology projects—depth controls help distinguish between foundational summaries, primary textual citations, sect-specific interpretations, and advanced doctrinal analysis. This prevents conflation of traditions (e.g., Digambara vs. Śvetāmbara), avoids accidental over‑interpretation, and maintains fidelity to the original Prakrit and Sanskrit sources. \n\nDepth controls also serve an ethical function. Jain texts often discuss practices such as fasting, vows, karma theory, and ascetic conduct. Without proper contextualization, these topics can be misunderstood or misapplied. Depth controls ensure that descriptions of advanced ascetic practices are clearly separated from lay guidance, that medical or mental‑health risks are flagged, and that users are directed toward qualified human teachers when necessary. \n\nIn research environments, depth controls help scholars navigate the stratified Jain corpus—canonical āgamas, Digambara śāstras, commentaries, narrative literature, and modern exegesis—while marking uncertainties, variant readings, and sectarian disagreements. They also support transparent citation practices by distinguishing quotation, paraphrase, and interpretation. \n\nOverall, depth controls are a safeguard for accuracy, intellectual honesty, and responsible transmission of Jain knowledge. They allow a system or scholar to modulate complexity while preserving the integrity of the tradition’s diverse voices.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (sectarian attribution varies)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This foundational aphorism is frequently used in depth‑controlled explanations. At a basic level, it introduces the three jewels. At deeper levels, commentators explore sectarian interpretations of samyak‑darśana, epistemology, and the gradations of conduct (cāritra) across the guṇasthānas."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara canon)",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "णं च देहं परिग्गहेइ",
+      "transliteration": "ṇaṃ ca dehaṃ pariggahaei",
+      "translation": "One should not cling to the body.",
+      "notes": "Depth controls ensure that such ascetic statements are contextualized. At foundational levels, this is explained as non‑attachment. At advanced levels, scholars discuss monastic regulations, historical commentaries, and sectarian differences in interpreting bodily non‑attachment."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara canon)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "कर्मप्रकृतयः जीवस्य भावान् बाधन्ति",
+      "transliteration": "karma‑prakṛtayaḥ jīvasya bhāvān bādhanti",
+      "translation": "The varieties of karmic matter obstruct the states of the soul.",
+      "notes": "Depth controls help present karma theory responsibly. Introductory explanations describe karma as subtle matter; advanced levels detail the 148 prakṛtis, bondage mechanisms, and doctrinal differences between Digambara and Śvetāmbara systems."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Depth controls restrict access to Jain teachings or hide advanced knowledge.",
+      "reality": "Depth controls do not limit access; they structure information so that users receive accurate, contextualized explanations appropriate to their inquiry and avoid misinterpretation of advanced ascetic or philosophical material."
+    },
+    {
+      "myth": "Depth controls impose a single sectarian viewpoint.",
+      "reality": "Proper depth controls explicitly separate Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth interpretations, showing agreements and disagreements rather than collapsing them into one narrative."
+    },
+    {
+      "myth": "Depth controls are a modern invention unrelated to Jain tradition.",
+      "reality": "While the term is modern, the practice aligns with traditional Jain pedagogy, where teachers historically modulated instruction based on a student’s preparedness, scriptural familiarity, and ethical context."
+    }
+  ]
+}

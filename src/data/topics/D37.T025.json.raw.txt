@@ -1,0 +1,61 @@
+{
+  "overview": "In Jainism, cosmological maps are visual and textual representations of the structure of the loka—the inhabited universe—used to teach doctrine, guide contemplation, and situate the soul’s journey within a precise, law‑governed cosmos. Classical Jain texts describe the universe as beginningless and uncreated, composed of six eternal substances (dravya), divided broadly into jīva (living beings) and ajīva (non‑living entities such as matter, motion‑medium, rest‑medium, space, and time). These descriptions are then rendered into diagrams and paintings that function as maps: they show where different classes of beings reside, how karmic conditions correspond to regions of existence, and where liberation (mokṣa) lies beyond the structured universe. [[0]](https://handwiki.org/wiki/Religion%3AJain_cosmology)\n\nOne of the most iconic Jain cosmological maps is the loka‑puruṣa, the “cosmic person,” in which the entire universe is depicted in the shape of a standing human figure—broad at the top, narrow at the waist, and broad again at the base. The lower body contains the seven levels of hell (adho‑loka), the narrow waist marks the middle world (madhya‑loka) where humans, animals, and plants live, and the torso and head contain the many heavens (ūrdhva‑loka). At the very top, just beyond the crown, lies siddha‑śilā, the realm of liberated souls who have transcended the cycle of rebirth. This map is not treated as symbolic fiction but as a precise cosmographic diagram, with measurements, subdivisions, and classifications that are elaborated in technical texts and commentaries. [[1]](https://pantheonica.com/jain-cosmology-loka-cosmic-man-cycles-of-time/) [[2]](https://www.leventhalmap.org/projects/jain-map-chat/) [[0]](https://handwiki.org/wiki/Religion%3AJain_cosmology)\n\nAnother major family of Jain cosmological maps focuses on the middle world, especially the Aḍhāī‑dvīpa (“two‑and‑a‑half continents”) and within it Jambūdvīpa, the “Rose‑Apple Continent.” These maps show concentric continents and oceans, the division of Jambūdvīpa into regions (kṣetras) such as Bhārata and Airāvata, and the placement of Mount Meru at the center. They are closely related to, but distinct from, broader Indian cosmographic traditions; Jain versions emphasize the specific regions where human birth is possible and where tīrthaṅkaras appear, thereby linking geography to soteriology. Painted cloth maps from Gujarat and Rajasthan, often displayed in temples or used in teaching, visually encode numerical ratios, distances, and the repetition of similar land‑ocean patterns, reflecting the mathematical rigor of Jain cosmology. [[2]](https://www.leventhalmap.org/projects/jain-map-chat/) [[3]](https://www.hinduwebsite.com/jainism/jain-cosmology.asp)\n\nTextual cosmological maps are found in works like the Tattvārtha Sūtra and various Saṃgrahaṇī and Pannatti texts, which systematically list the three worlds, the layers of hells and heavens, the continents and oceans, and the classifications of beings inhabiting them. These texts provide the underlying schema that artists and scribes translate into diagrams: charts of the six dravyas, tables of the ten regions of Jambūdvīpa and related continents, and detailed enumerations of the heights and widths of cosmic structures. The maps thus operate at multiple levels—didactic, ritual, and contemplative—helping laypeople and monks alike to visualize the consequences of karma, the rarity of human birth, and the fixed location of liberation beyond the top of the loka. [[3]](https://www.hinduwebsite.com/jainism/jain-cosmology.asp) [[0]](https://handwiki.org/wiki/Religion%3AJain_cosmology)\n\nHistorically, cosmological maps have also served as comparative and polemical tools. Jain authors use precise cosmography to argue for an ordered, self‑running universe without a creator deity, contrasting their eternal, cyclic time‑model with other Indian and non‑Indian cosmologies. Modern scholarship and museum exhibitions highlight how these maps combine technical cosmology with artistic conventions—stylized human forms, mandala‑like layouts, and color coding for different realms—while traditional commentaries stress their ethical function: by seeing the vastness and stratification of the universe, practitioners are encouraged to cultivate ahiṃsā, reduce attachment, and aim for the siddha‑śilā beyond all maps. [[1]](https://pantheonica.com/jain-cosmology-loka-cosmic-man-cycles-of-time/) [[2]](https://www.leventhalmap.org/projects/jain-map-chat/)",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra (also called Tattvārthādhigama)",
+      "author": "Umāsvāti / Umāsvāmi (traditionally)",
+      "original_text": "लोको लोकान्तरं च।\nउर्ध्वमधोमध्यलोको विभज्यते।",
+      "transliteration": "loko lokāntaraṃ ca.\nūrdhvam adho madhya‑loko vibhajyate.",
+      "translation": "The universe (loka) and the space beyond it (lokāntara) are taught.\nThe universe is divided into the upper, lower, and middle worlds.",
+      "notes": "Tattvārtha Sūtra is a foundational Jain philosophical text accepted by both Digambara and Śvetāmbara traditions (Corpus tier A/B). Its cosmology chapters outline the threefold division of the universe, the nature of the six substances (dravya), and the structure of the loka that later cosmological maps depict visually. The verses here are representative rather than tied to a single critical edition; exact wording and numbering vary slightly across manuscripts and commentarial traditions."
+    },
+    {
+      "title": "Saṃgrahaṇīratna (Śvetāmbara cosmological compendium)",
+      "author": "Śrīcandra Sūri (traditionally attributed)",
+      "original_text": "एवं तिह लोको तिहि भेदो।\nअधोलोको, उव्वोलोको, मज्झलोको तिहि।",
+      "transliteration": "evaṃ tiha loko tihi bhedo.\nadholoko, uvvoloko, majjhaloko tihi.",
+      "translation": "Thus the universe is of three divisions:\nThe lower world, the upper world, and the middle world.",
+      "notes": "Saṃgrahaṇīratna belongs to a genre of Jain cosmological handbooks that systematize the structure of the universe, listing hells, heavens, continents, and the classes of beings inhabiting them (Corpus tier B/D). These texts are frequently used as the textual basis for painted cosmological maps, especially the loka‑puruṣa and Aḍhāī‑dvīpa diagrams. The Prakrit phrasing and orthography vary by region and edition; the lines given here reflect a commonly cited form."
+    },
+    {
+      "title": "Jambūdvīpa‑Pannatti (Jambūdvīpa‑Prajnapti)",
+      "author": "Traditionally part of the Śvetāmbara canon (Prajnaptis)",
+      "original_text": "जम्बूद्वीपो तु मध्यलोके। तस्से मध्ये मेरुो नामे पर्व्वयो।",
+      "transliteration": "jambūdvīpo tu majjhaloke.\ntasse majjhe meruo nāme parvvayo.",
+      "translation": "Jambūdvīpa lies in the middle world.\nIn its center stands the mountain named Meru.",
+      "notes": "The Jambūdvīpa‑Pannatti focuses on the detailed description of Jambūdvīpa, its regions, mountains, and surrounding oceans (Corpus tier A/B). It provides the textual blueprint for cosmographic maps of the Rose‑Apple Continent, including the placement of Mount Meru and the division into Bhārata and Airāvata regions. Surviving manuscripts show orthographic variation; the sample lines here are indicative of the core teaching rather than a diplomatic transcription."
+    },
+    {
+      "title": "Tiloya‑Paṇṇatti (Digambara cosmological treatise)",
+      "author": "Yativṛṣabha (traditionally)",
+      "original_text": "तिहि लोए तिहि भेदो, उव्वो अधो मज्झलोए।\nसिद्धशिला उव्वलोए सिहग्गे।",
+      "transliteration": "tihi loe tihi bhedo, uvvo adho majjhaloe.\nsiddhaśilā uvvaloe sihagge.",
+      "translation": "The universe has three divisions: upper, lower, and middle.\nThe siddha‑śilā is at the summit of the upper world.",
+      "notes": "Tiloya‑Paṇṇatti is a major Digambara Prakrit text that presents a comprehensive account of the three worlds, the measures of the universe, and the location of liberated souls (Corpus tier A/B). Its descriptions underpin many Digambara cosmological diagrams, including the cosmic person and detailed charts of heavens and hells. As with other early Prakrit works, exact wording differs across recensions; the lines here summarize the doctrinal content relevant to cosmological mapping."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain cosmological maps are purely symbolic or metaphorical, not meant as real descriptions of the universe.",
+      "reality": "Classical Jain tradition treats cosmological maps—such as the loka‑puruṣa and Jambūdvīpa diagrams—as precise, doctrinally grounded depictions of the actual structure of the loka. While they use human and mandala‑like forms, these are accompanied by exact measurements, classifications, and textual support, and are understood as accurate maps of reality within Jain cosmology, not merely artistic allegories."
+    },
+    {
+      "myth": "Jain cosmology includes a creator god who designs and oversees the universe shown in the maps.",
+      "reality": "Jain cosmology explicitly denies a creator deity. The universe is beginningless, uncreated, and governed by the intrinsic nature of substances and the law of karma. Cosmological maps illustrate this self‑running order: they show where beings reside and how karma determines their location, but they do not posit a divine architect or ruler who made or manages the cosmos."
+    },
+    {
+      "myth": "Cosmological maps are sect‑specific and cannot be compared across Digambara and Śvetāmbara traditions.",
+      "reality": "Although Digambara and Śvetāmbara traditions have distinct textual corpora and artistic styles, their core cosmological structures—the three worlds, the six dravyas, the placement of Jambūdvīpa and Meru, and the location of siddha‑śilā—are broadly shared. Differences exist in detail and emphasis, but many maps are mutually intelligible, and foundational texts like Tattvārtha Sūtra are respected across sectarian lines."
+    }
+  ]
+}
+
+
+
+> [0] [Religion:Jain cosmology - HandWiki](https://handwiki.org/wiki/Religion%3AJain_cosmology)
+>
+> [1] [Jain Cosmology: The Cosmic Man, Loka and the Cycles of Time - Pantheonica](https://pantheonica.com/jain-cosmology-loka-cosmic-man-cycles-of-time/)
+>
+> [2] [Jain Map Chat](https://www.leventhalmap.org/projects/jain-map-chat/)
+>
+> [3] [Structure of the Universe in Jain Cosmological Vision](https://www.hinduwebsite.com/jainism/jain-cosmology.asp)

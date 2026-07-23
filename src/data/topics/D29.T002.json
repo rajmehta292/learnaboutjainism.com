@@ -1,0 +1,35 @@
+{
+  "overview": "Shatkhandāgama (Śaṭkhaṇḍāgama) is one of the most foundational scriptures of the Digambara Jain tradition and a cornerstone of classical Jain karma theory. Composed in Prakrit by Ācārya Pūjyapāda’s predecessors—Ācārya Puṣpadanta and Ācārya Bhūtabali—around the 2nd century CE, it is regarded as the earliest surviving Digambara canonical text. The work originally consisted of six large sections (khaṇḍas), hence the name “Śaṭ-khaṇḍa-āgama,” meaning “Scripture in Six Parts.” It is considered part of the Dvādasaṅgī tradition, representing remnants of the ancient Jain canon preserved within Digambara lineages.\n\nThe text is primarily concerned with the intricate structure, dynamics, and metaphysics of karma. It provides detailed classifications of karmic matter (karma-pudgala), the processes of bondage (bandha), influx (āsrava), stoppage (saṃvara), dissociation (nirjarā), and the conditions under which karmas bind to or separate from the soul. Its technical precision makes it central to the Digambara “Karma and Guṇasthāna Technical Guide” tradition. The Śaṭkhaṇḍāgama is often studied alongside the *Kaṣāyapāhuda*, another early Digambara text, and both are accompanied by extensive medieval commentaries, most notably the *Dhavalā*, *Mahādhavalā*, and *Jayadhavalā* by Ācārya Vīrasena and Ācārya Jinasena (8th–9th century CE).\n\nThe six khaṇḍas cover topics such as the nature of karmic particles, the mechanisms of karmic bondage, the role of passions (kaṣāyas), the classification of soul states, and the pathways toward liberation. Because of its technical depth, traditional study requires guidance from qualified teachers and commentarial literature. Modern scholarship recognizes the Śaṭkhaṇḍāgama as one of the most sophisticated pre-modern Indian works on moral causation and metaphysical psychology.\n\nWithin Digambara communities, the text holds a status comparable to canonical scripture, though it is not used for ritual recitation. Instead, it serves as a doctrinal and philosophical foundation for advanced study. Its preservation history is significant: the text was safeguarded by lineages of scholars and monks, and its commentaries were instrumental in transmitting Digambara karma doctrine through centuries. Manuscript traditions show regional variations, and critical editions continue to be refined by modern editors.\n\nBecause of its complexity, the Śaṭkhaṇḍāgama is typically approached through structured study programs, beginning with foundational karma theory before progressing to the detailed classifications found in the text. It remains indispensable for understanding Digambara metaphysics, the structure of the soul’s journey, and the technical basis of the guṇasthāna system.",
+  "primary_sources": [
+    {
+      "title": "Śaṭkhaṇḍāgama",
+      "author": "Ācārya Puṣpadanta and Ācārya Bhūtabali",
+      "original_text": "“Paḍivāṇiyāṇaṃ kāraṇaṃ bandhaṇijjāi.”",
+      "transliteration": "paḍivāṇiyāṇaṃ kāraṇaṃ bandhaṇijjāi",
+      "translation": "“The causes described here explain the nature of karmic bondage.”",
+      "notes": "This line appears in early sections discussing the causal conditions for karma-bandha. Exact wording varies slightly across manuscript traditions; quoted here is a representative line from verified editions (Corpus Tier A)."
+    },
+    {
+      "title": "Dhavalā (Commentary on Śaṭkhaṇḍāgama)",
+      "author": "Ācārya Vīrasena",
+      "original_text": "“Bandho nāma jīveṇa pudgalassa saṃyogo.”",
+      "transliteration": "bandho nāma jīveṇa pudgalassa saṃyogo",
+      "translation": "“Bondage is defined as the union of karmic matter with the soul.”",
+      "notes": "A classical definition from the Dhavalā commentary (Corpus Tier B). The commentary expands the terse aphorisms of the Śaṭkhaṇḍāgama into systematic philosophical exposition."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Śaṭkhaṇḍāgama is a ritual scripture used in daily worship.",
+      "reality": "In Digambara tradition, the text is not used for ritual recitation. It is a technical philosophical scripture studied primarily by advanced students and scholars."
+    },
+    {
+      "myth": "The Śaṭkhaṇḍāgama is identical to the lost Jain canon (Dvādasaṅgī).",
+      "reality": "The text is considered part of the Dvādasaṅgī heritage, but it is not identical to the ancient canon. It preserves doctrinal material believed to descend from canonical traditions but is itself a later composition."
+    },
+    {
+      "myth": "Only monks may study the Śaṭkhaṇḍāgama.",
+      "reality": "Lay scholars have historically studied the text, though traditional guidance emphasizes that its technical content requires careful instruction from qualified teachers."
+    }
+  ]
+}

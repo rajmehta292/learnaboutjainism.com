@@ -1,0 +1,27 @@
+{
+  "overview": "Static generation is a software development approach in which web pages are pre‑built into fixed HTML files at build time rather than being assembled dynamically on a server for each request. In modern web frameworks, static generation is part of the broader paradigm of Jamstack architecture, where content, layout, and assets are compiled ahead of time and then served through a content delivery network (CDN). Because the pages are already computed, static sites load quickly, scale efficiently, and avoid many security risks associated with server‑side execution.\n\nHistorically, static generation began with early web development, when all sites consisted of manually written HTML files. As websites grew more complex, dynamic server‑side rendering became dominant. However, the rise of static site generators—such as Jekyll, Hugo, Gatsby, and Next.js—reintroduced static generation with modern tooling. These systems allow developers to write templates, pull data from APIs or content management systems, and compile everything into static files.\n\nStatic generation is especially effective for content‑heavy sites such as documentation, blogs, marketing pages, and knowledge bases. It offers predictable performance, minimal server requirements, and strong caching behavior. However, it is less suited for applications requiring highly personalized or frequently changing data unless combined with techniques like incremental static regeneration or client‑side rendering. Overall, static generation represents a balance between simplicity and modern performance optimization in web architecture.",
+  "primary_sources": [
+    {
+      "title": "No applicable Jain primary text",
+      "author": "N/A",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "Static generation is a modern computing concept and does not appear in Jain canonical literature. In accordance with the architecture rules, when a topic is non‑Jain, the primary sources section must explicitly state the absence of canonical references rather than forcing unrelated Jain texts."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Static generation means a website cannot display dynamic content.",
+      "reality": "Static generation pre‑builds the initial HTML, but dynamic behavior can still be added through client‑side JavaScript, APIs, or incremental regeneration."
+    },
+    {
+      "myth": "Static sites are only suitable for small personal blogs.",
+      "reality": "Modern static generation frameworks support large‑scale documentation portals, enterprise marketing sites, and hybrid applications with millions of pages."
+    },
+    {
+      "myth": "Static generation eliminates the need for servers entirely.",
+      "reality": "While static files can be served from CDNs, many static‑generated sites still rely on backend services for search, authentication, or data updates."
+    }
+  ]
+}

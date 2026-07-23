@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, the **Mahāvratas** (“Great Vows”) constitute the foundational ethical and ascetic commitments undertaken by fully initiated mendicants. They appear across Śvetāmbara and Digambara canons with consistent core structure but nuanced interpretive differences. The five Mahāvratas—**ahiṃsā**, **satya**, **asteya**, **brahmacarya**, and **aparigraha**—are treated as absolute, lifelong restraints that shape monastic conduct, meditative discipline, karmic purification, and progress through the guṇasthānas. Their formulation is grounded in early canonical Prakrit texts (Tier A), elaborated in classical commentaries (Tier B), and analyzed in modern scholarship (Tier C).\n\nThe Mahāvratas differ from the **aṇuvratas** (“small vows”) of laypeople not merely in degree but in ontological scope: mendicants renounce all intentional harm, all forms of falsehood, all appropriation, all sexual activity, and all possessiveness. These vows are embedded in the broader framework of **saṃyama** (restraint), **tapas** (austerity), and **jñāna–darśana** (knowledge and perception). They are also linked to the karmic theory of **leśyā**, **bandha**, and **nirjarā**, where perfect observance of the vows minimizes new karmic influx and facilitates shedding of existing karma.\n\nAcross sectarian traditions, the vows are interpreted with attention to practical monastic regulations: Digambara texts emphasize nudity, non-possession, and absolute celibacy; Śvetāmbara Mūrtipūjaka texts detail rules for alms collection and speech; Sthānakavāsī and Terāpanth traditions emphasize non-idolatrous discipline and strict truthfulness. Despite these differences, the Mahāvratas remain the shared ethical core of Jain monastic life.\n\nHistorically, the Mahāvratas are linked to the earliest strata of Jain scripture, including the Ācārāṅga and Sūtrakṛtāṅga, and are referenced in inscriptions and monastic charters. Their philosophical grounding is tied to the Jain conception of reality (dravya), modes (paryāya), and the soul’s capacity for omniscience (kevala-jñāna). Modern interpretations emphasize their relevance to nonviolence, ecology, and ethical minimalism, while traditional commentaries maintain their role as indispensable disciplines for liberation.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Nonviolence is the supreme duty.",
+      "notes": "Although this line is widely quoted in Jain tradition, the Ācārāṅga contains extended passages on the conduct of mendicants, including detailed prescriptions for avoiding harm to living beings. The Mahāvrata of ahiṃsā is elaborated through rules on walking, speech, and alms-taking."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Early Śvetāmbara canonical redactors",
+      "original_text": "सच्चं भासे, नो भासे असच्चं",
+      "transliteration": "sacchaṃ bhāse, no bhāse asacchaṃ",
+      "translation": "Speak what is true; do not speak what is untrue.",
+      "notes": "This passage supports the Mahāvrata of satya. The text discusses the karmic consequences of falsehood and the discipline of truthful speech for mendicants."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अहिंसा-सत्य-अस्तेय-ब्रह्मचर्य-अपरिग्रहा महाव्रताः",
+      "transliteration": "ahiṃsā-satya-asteya-brahmacarya-aparigrahā mahāvratāḥ",
+      "translation": "Nonviolence, truth, non-stealing, celibacy, and non-possession are the Great Vows.",
+      "notes": "A pan-sectarian Sanskrit text accepted by both Digambara and Śvetāmbara traditions. It provides the canonical list of Mahāvratas and situates them within the broader Jain path of liberation."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "अहिंसा महाव्रतम्",
+      "transliteration": "ahiṃsā mahāvratam",
+      "translation": "Nonviolence is the Great Vow.",
+      "notes": "The Mūlācāra gives detailed rules for Digambara monastic conduct, including nudity, alms-taking, and celibacy. It provides one of the most systematic Digambara treatments of the Mahāvratas."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Mahāvratas are simply stricter versions of lay vows.",
+      "reality": "Primary texts treat Mahāvratas as absolute restraints with ontological significance for karmic influx and liberation. They are not merely intensified lay vows but qualitatively different commitments."
+    },
+    {
+      "myth": "All Jain sects interpret the Mahāvratas identically.",
+      "reality": "While the five vows are universally accepted, Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth traditions differ in practical regulations, ritual contexts, and disciplinary details."
+    },
+    {
+      "myth": "Mahāvratas can be practiced fully by laypeople.",
+      "reality": "Canonical sources consistently reserve Mahāvratas for mendicants. Laypeople follow aṇuvratas, which are intentionally limited to accommodate household life."
+    }
+  ]
+}

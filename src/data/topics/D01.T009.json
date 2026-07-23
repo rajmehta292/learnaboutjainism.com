@@ -1,0 +1,23 @@
+{
+  "overview": "Tradition notes are structured annotations that help readers understand how Jain teachings have been transmitted, interpreted, and practiced across different communities and historical periods. They act as a bridge between primary canonical passages and the lived, lineage-specific ways those passages are understood. Because Jainism contains multiple traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—tradition notes help clarify where interpretations converge, where they diverge, and where evidence is incomplete or debated.\n\nA careful reading of tradition notes begins with identifying the mode of guidance being used: whether the note is offering foundational context, explaining a Prakrit term, summarizing a Digambara commentary, or presenting a modern ethical application. Each mode has its own evidentiary expectations. For example, a Primary Text Guide note will foreground canonical passages and their philological issues, while a Comparative Traditions Guide note will highlight differences in ritual, ontology, or monastic discipline across sects.\n\nReaders should also pay attention to the source tier of each claim. A-tier material comes directly from verified canonical texts; B-tier from reviewed commentaries; C-tier from peer‑reviewed scholarship; D-tier from community education; E-tier from unverified OCR or provisional translations; and F-tier from unknown provenance. Tradition notes should clearly mark which tier is being used, allowing readers to distinguish between established doctrine, interpretive expansions, and modern reconstructions.\n\nFinally, tradition notes often include warnings about translation uncertainty, manuscript variation, or sectarian disagreement. These are not obstacles but essential tools for responsible study. They remind readers that Jain textual history is complex, that interpretations have evolved, and that no single tradition holds exclusive authority over the entire canon. Reading tradition notes with patience, curiosity, and awareness of their methodological purpose allows students to engage Jain teachings with both rigor and humility.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (disputed between Śvetāmbara and Digambara traditions)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "Tradition notes for this passage often highlight sectarian differences in commentary. Digambara commentators such as Pūjyapāda emphasize the inseparability of conduct from ascetic rigor, while Śvetāmbara commentators may foreground the epistemic structure of right knowledge. Tradition notes also flag manuscript variants and the long-standing debate over whether Umāsvāti belonged to a Śvetāmbara or Digambara lineage."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Tradition notes are secondary and optional for understanding Jain texts.",
+      "reality": "Tradition notes are essential for interpreting canonical passages accurately. They reveal sectarian context, translation uncertainty, and historical development that cannot be inferred from the text alone."
+    },
+    {
+      "myth": "All Jain traditions interpret primary texts in the same way.",
+      "reality": "Tradition notes document real differences in ritual practice, ontology, and monastic discipline across Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth lineages. These differences are part of Jainism’s historical richness."
+    }
+  ]
+}

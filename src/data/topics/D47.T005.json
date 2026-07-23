@@ -1,0 +1,43 @@
+{
+  "overview": "Tamil literature is one of the world’s oldest and most continuous literary traditions, with a recorded history extending over more than two millennia. Emerging from the Tamil-speaking regions of South India and Sri Lanka, it encompasses poetry, epics, devotional hymns, philosophical works, grammar treatises, and modern prose. Its earliest strata, the Sangam corpus, reflect a sophisticated poetic culture that flourished between roughly 300 BCE and 300 CE, portraying themes of love, war, ethics, and kingship with remarkable precision and emotional depth.\n\nOver time, Tamil literature expanded into diverse genres. The post-Sangam period produced moral and didactic works such as the *Tirukkural*, while the medieval era saw the rise of Bhakti poetry, with saints like the Alvars and Nayanmars composing devotional hymns that shaped South Indian religious culture. Jain and Buddhist authors also contributed significantly, producing epics, commentaries, and philosophical treatises that enriched Tamil intellectual life.\n\nThe modern period introduced novels, short stories, and political writings, reflecting colonial encounters, social reform movements, and contemporary concerns. Today, Tamil literature remains vibrant, spanning print, digital media, and diaspora communities, continuing to evolve while preserving its ancient heritage.",
+  "primary_sources": [
+    {
+      "title": "Tirukkural",
+      "author": "Tiruvalluvar (traditionally attributed)",
+      "original_text": "கற்க கசடறக் கற்பவை கற்றபின்\nநற்குறள் தொக்கல் நன்கு.",
+      "transliteration": "kaṟka kasaṭaṟak kaṟpavai kaṟṟapin\nnaṟkuṟaḷ tokkal naṉku.",
+      "translation": "Learn thoroughly and remove all flaws; after learning, act in accordance with what is learned.",
+      "notes": "A foundational ethical text of 1,330 couplets divided into virtue, wealth, and love. Considered a universal moral guide across religious traditions."
+    },
+    {
+      "title": "Silappadikaram",
+      "author": "Ilango Adigal (traditionally attributed)",
+      "original_text": "அரசன் அசைபோல் நடக்கும் உலகம்.",
+      "transliteration": "aracaṉ acai pōl naṭakkum ulakam.",
+      "translation": "The world moves according to the conduct of its king.",
+      "notes": "A Jain-influenced epic blending narrative, ethics, and musicology. Central to Tamil cultural identity."
+    },
+    {
+      "title": "Tolkappiyam",
+      "author": "Tolkappiyar (traditionally attributed)",
+      "original_text": "எழுத்தொடு பொருளது இயல்புபடத் தோன்றும்.",
+      "transliteration": "eḻuttotu poruḷatu iyalpu paṭa tōṉṟum.",
+      "translation": "Meaning arises naturally in accordance with letters and their properties.",
+      "notes": "The oldest extant Tamil grammar and poetics treatise, foundational for understanding classical Tamil structure and aesthetics."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Tamil literature begins only with medieval devotional poetry.",
+      "reality": "Tamil literature has a much earlier origin, with Sangam poetry dating back over two thousand years and representing one of the oldest secular literary traditions in Asia."
+    },
+    {
+      "myth": "Tamil literature is exclusively Hindu in orientation.",
+      "reality": "While Hindu devotional works are central, Tamil literature also includes major contributions from Jain, Buddhist, Christian, and secular authors across different eras."
+    },
+    {
+      "myth": "Tamil literature is limited to poetry and lacks philosophical depth.",
+      "reality": "Tamil literature includes extensive philosophical, grammatical, ethical, and narrative works, such as the *Tolkappiyam*, *Tirukkural*, and Jain-Buddhist epics, demonstrating a wide intellectual range."
+    }
+  ]
+}

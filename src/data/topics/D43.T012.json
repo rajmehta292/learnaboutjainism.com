@@ -1,0 +1,43 @@
+{
+  "overview": "Interfaith marriage, within a Jain studies framework, is primarily a topic of lay ethics, social history, and modern application rather than monastic prescription. Jain primary texts from both Śvetāmbara and Digambara traditions focus on vows (vrata), conduct (ācāra), and household responsibilities (gṛhastha-dharma), but do not present a systematic doctrine on interfaith marriage as a standalone category. Instead, they address principles relevant to any marriage: nonviolence, truthfulness, mutual responsibility, ethical livelihood, and spiritual support. Historically, Jain communities have navigated interfaith unions through local customs, caste and community norms, and regional legal frameworks, producing diverse outcomes across India and the diaspora.\n\nIn classical literature, marriage is treated as a worldly institution that can support or hinder spiritual progress depending on how householders uphold the five minor vows (aṇu-vrata) and cultivate restraint. Interfaith marriage becomes a matter of how partners negotiate dietary ethics, ritual expectations, festival participation, and the upbringing of children. Modern Jain teachers and community organizations often emphasize dialogue, mutual respect, and clarity about nonviolence-based practices (such as vegetarianism, avoidance of intoxicants, and compassion-centered living). They also highlight that decisions about marriage—especially those involving religious identity—should be made with awareness of legal rights, personal autonomy, and family well-being.\n\nBecause Jainism does not prescribe coercive conversion or exclusive marital boundaries, interfaith marriage is approached through the broader Jain ethic of ahiṃsā and anekāntavāda. Ahiṃsā encourages minimizing harm in emotional, familial, and social relationships, while anekāntavāda supports understanding multiple viewpoints and fostering coexistence. These principles provide a framework for navigating differences in belief, ritual, and cultural expectations. At the same time, community norms may vary: some groups encourage maintaining Jain identity through shared practice, while others prioritize individual choice and pluralistic harmony.\n\nIn diaspora contexts, interfaith marriage is increasingly common, prompting new educational materials on how to maintain Jain values in mixed-religion households. These guides often recommend open communication, respect for each partner’s tradition, and non-coercive approaches to children’s religious education. They also caution that decisions involving family obligations, legal matters, or major life changes should be made with qualified human guidance rather than relying solely on religious texts.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णंति एत्थ परिग्गहो",
+      "transliteration": "naṃti ettha pariggaho",
+      "translation": "Attachment arises here (in household life).",
+      "notes": "Tier A. The text does not discuss interfaith marriage directly but frames household life as a domain where attachment and ethical discipline must be carefully managed. This passage is often cited in discussions of how laypeople balance worldly duties with spiritual aims."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "गृहस्थस्य व्रतानि",
+      "transliteration": "gṛhasthasya vratāni",
+      "translation": "The vows of the householder.",
+      "notes": "Tier A. Chapter 7 outlines the aṇu-vratas and supplementary vows for laypeople. While not addressing interfaith marriage, these vows form the ethical basis for household conduct, including how partners navigate differences in belief and practice."
+    },
+    {
+      "title": "Śrāvakācāra (various Digambara authors)",
+      "author": "Different lineages; e.g., Ācārya Amitagati",
+      "original_text": "सहधर्मचारिणी भाव्या",
+      "transliteration": "sahadharmacāriṇī bhāvyā",
+      "translation": "One should have a partner who shares the path of dharma.",
+      "notes": "Tier B. Commentarial tradition often interprets this as encouraging ethical alignment rather than requiring identical religious identity. Scholars note that the term ‘dharma’ here refers to conduct rooted in nonviolence and restraint, not sectarian exclusivity."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain scriptures forbid interfaith marriage.",
+      "reality": "No primary Jain text explicitly prohibits interfaith marriage. Classical literature focuses on ethical conduct and household responsibilities, leaving marriage decisions to community norms and personal judgment."
+    },
+    {
+      "myth": "Interfaith marriage requires one partner to convert to Jainism.",
+      "reality": "Jainism does not prescribe forced conversion. Anekāntavāda supports coexistence of multiple viewpoints, and modern Jain educators emphasize voluntary practice and mutual respect."
+    },
+    {
+      "myth": "Interfaith marriage is incompatible with Jain dietary and ethical rules.",
+      "reality": "Many interfaith couples successfully maintain Jain dietary practices through communication and shared household agreements. The core concern is minimizing harm, not enforcing uniformity."
+    }
+  ]
+}

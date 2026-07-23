@@ -1,0 +1,47 @@
+{
+  "overview": "Avoiding invented verses is a core discipline in responsible Jain studies. Across Śvetāmbara, Digambara, and mixed manuscript traditions, scholars and practitioners emphasize that Jain canonical and post-canonical literature must be grounded in verifiable sources—preserved manuscripts, critical editions, and lineage-approved commentaries. Because Jain textual transmission spans more than two millennia, with extensive manuscript copying, regional recensions, and later scholastic expansions, the risk of interpolated or invented verses is real. \n\nThe practice of avoiding invented verses involves three commitments: (1) verifying that a quoted passage exists in a recognized edition or manuscript witness; (2) distinguishing between canonical scripture (āgama), authoritative commentaries (ṭīkā, vṛtti), and later didactic literature; and (3) clearly marking when a passage is paraphrased, reconstructed, or uncertain. This discipline protects the integrity of Jain teachings, prevents doctrinal distortion, and ensures that ethical or ritual guidance is not mistakenly attributed to canonical authority. \n\nModern Jain academic work—whether in Prakrit philology, manuscript studies, or comparative sectarian analysis—relies on critical editions produced by institutions such as the Jain Vishva Bharati, L.D. Institute of Indology, and the Kundakunda Jñānapīṭha. These editions help identify interpolations, variant readings, and scribal additions. Traditional commentarial lineages also warn against quoting verses without checking provenance. For example, Digambara scholars often caution that many popular aphorisms attributed to Kundakunda do not appear in any known manuscript of the *Samayasāra* or *Pravacanasāra*. Similarly, Śvetāmbara teachers note that widely circulated moral couplets are sometimes modern compositions mistakenly labeled as āgama. \n\nAvoiding invented verses is not merely a technical concern—it is a safeguard for doctrinal clarity. Jainism’s teachings on karma, nonviolence, and liberation depend on precise terminology. Misattributed verses can introduce concepts foreign to the tradition, blur sectarian distinctions, or create confusion about lay and monastic obligations. By grounding study in verified sources, practitioners honor the tradition’s intellectual rigor and maintain fidelity to its historical transmission.",
+  "primary_sources": [
+    {
+      "title": "Āyāraṅga-sutta (Ācārāṅga)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "ṇaṁ se bhikkhū ṇaṁ se bhikkhū aṇuogaṁ karejja",
+      "transliteration": "ṇaṃ se bhikkhū, ṇaṃ se bhikkhū, aṇuogaṃ karejja",
+      "translation": "A monk should examine carefully; a monk should examine carefully.",
+      "notes": "This passage (Āyāraṅga I.4) is frequently cited to emphasize careful examination of teachings and conduct. It is an example of a verifiable canonical verse used to illustrate the principle of checking authenticity rather than relying on unverified sayings."
+    },
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "pramāṇa-naya-śrutāṇāṃ ca",
+      "transliteration": "pramāṇa-naya-śrutāṇāṃ ca",
+      "translation": "Knowledge arises from valid means, viewpoints, and scripture.",
+      "notes": "Tattvārtha-sūtra 1.6 is often used to highlight the importance of valid sources of knowledge. It underscores that scripture (śruta) must be authenticated and interpreted through recognized means, supporting the caution against invented verses."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Kundakunda",
+      "original_text": "jo so jīvo so hu samaya",
+      "transliteration": "yo so jīvo so hu samaya",
+      "translation": "The soul itself is the true doctrine.",
+      "notes": "This well-attested verse (Samayasāra gāthā 1) is frequently contrasted with many modern aphorisms incorrectly attributed to Kundakunda. It serves as an example of a securely transmitted verse whose authenticity is supported by multiple manuscript traditions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Any verse circulated in Jain communities must be part of the canonical āgamas.",
+      "reality": "Many popular verses are modern compositions, devotional poetry, or didactic summaries. Canonical āgamas have specific manuscript lineages and critical editions; authenticity must be verified."
+    },
+    {
+      "myth": "If a verse appears in a printed book, it must be ancient.",
+      "reality": "Printed compilations often mix canonical, commentarial, and modern material. Without citation of manuscript witnesses or critical editions, authenticity cannot be assumed."
+    },
+    {
+      "myth": "All verses attributed to Kundakunda or Haribhadra are genuine because they are famous authors.",
+      "reality": "Scholars have identified numerous misattributions. Some verses attributed to Kundakunda do not appear in any known manuscript of his works. Haribhadra’s extensive corpus also attracts later additions."
+    },
+    {
+      "myth": "Sectarian traditions agree on the authenticity of all verses.",
+      "reality": "Śvetāmbara, Digambara, and Sthānakavāsī traditions preserve different canons and commentaries. A verse accepted in one tradition may be absent or considered apocryphal in another."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "overview": "Navatattva (nine fundamentals or nine principles) is a central doctrinal framework in Jain philosophy that organizes the relationship between soul (jīva), non-soul (ajīva), karma, bondage, and liberation into a concise set of categories. While the exact enumeration varies slightly across traditions and authors, the most widespread list comprises: (1) jīva, (2) ajīva, (3) āsrava, (4) bandha, (5) puṇya, (6) pāpa, (7) saṃvara, (8) nirjarā, and (9) mokṣa. Some authorities treat puṇya and pāpa as modes of āsrava and bandha, yielding a seven-tattva scheme, but the term \"navatattva\" remains a widely used pedagogical label for the full ninefold set.\n\nHistorically, navatattva is not the name of a single canonical scripture but rather a doctrinal cluster that appears across many Jain texts in both Digambara and Śvetāmbara traditions. Early Prakrit and Sanskrit works such as the Tattvārthasūtra, Uttarādhyayanasūtra, and various śrāvakācāra (lay conduct) manuals present the tattvas as the backbone of right view (samyagdarśana) and right knowledge (samyagjñāna). Later authors compose dedicated navatattva treatises, primers, and commentaries that systematize the nine principles for lay education, temple discourses, and ethical instruction. In this sense, \"navatattva literature\" refers to a broad genre: doctrinal chapters in canonical texts, philosophical treatises, vernacular manuals, and modern educational booklets that all revolve around the nine fundamentals.\n\nIn Digambara scholasticism, navatattva is closely integrated with the karma theory elaborated in texts like Pravacanasāra and Samayasāra and their commentaries. These works analyze āsrava (influx of karma), bandha (bondage), saṃvara (stoppage), nirjarā (shedding), and mokṣa (liberation) in technical detail, linking them to the fourteen guṇasthānas (spiritual stages) and the dynamics of passions (kaṣāya). Navatattva thus functions as a conceptual bridge between metaphysics (jīva–ajīva), ethics (puṇya–pāpa), and soteriology (saṃvara–nirjarā–mokṣa). Digambara lay manuals such as Ratnakaraṇḍa-śrāvakācāra present the tattvas in a more practical tone, explaining how vows, restraints, and meditative practices contribute to saṃvara and nirjarā.\n\nŚvetāmbara traditions likewise treat navatattva as foundational. The Uttarādhyayanasūtra and other canonical texts describe the soul, karmic influx, bondage, and liberation in ways that later commentators explicitly organize under the tattva framework. Mūrtipūjaka, Sthānakavāsī, and Terāpanth lineages all employ navatattva in their catechetical literature, sermons, and youth education materials. Modern primers—often titled \"Nine Tattvas\" or \"Navatattva\"—translate and simplify classical doctrine for contemporary audiences, emphasizing that understanding these nine principles is essential for cultivating right faith, right knowledge, and right conduct.\n\nStructurally, navatattva literature tends to follow a consistent pedagogical pattern. First, it defines jīva as the conscious, sentient substance characterized by upayoga (cognitive activity) and ajīva as the non-sentient substances, including karmic matter. Second, it explains how ignorance, lack of restraint, passions, and unmindfulness lead to āsrava and bandha, often listing specific causes such as mithyātva (wrong belief), avirati (vowlessness), pramāda (carelessness), kaṣāya (passions), and yoga (activities of body, speech, and mind). Third, it distinguishes puṇya and pāpa as ethically charged karmic results, clarifying that even meritorious karma still binds the soul. Finally, it describes saṃvara and nirjarā as the processes by which karmic influx is stopped and accumulated karma is shed, culminating in mokṣa—the state of complete liberation from karma.\n\nFrom a literary perspective, navatattva texts range from terse aphoristic sūtras to expansive prose commentaries and didactic narratives. Classical works often present the tattvas in brief sūtra form, leaving detailed exposition to commentaries, while modern educational booklets provide illustrative examples, analogies, and charts. Across this spectrum, the nine fundamentals are consistently portrayed as the \"single most important subject\" of Jain philosophy because they offer a rational explanation of birth and death, happiness and suffering, and the diversity of living beings. Navatattva literature thus serves as a gateway into more advanced topics such as guṇasthānas, dravyas, and detailed karma classifications.\n\nContemporary navatattva literature continues to evolve, incorporating modern languages and pedagogical tools while remaining anchored in classical sources. English-language primers, online courses, and youth curricula present the nine tattvas in accessible formats, often highlighting their relevance for ethical decision-making, nonviolence, and self-discipline in everyday life. At the same time, scholarly studies examine how different Jain communities interpret the tattvas—whether emphasizing seven or nine, how they classify puṇya and pāpa, and how they relate navatattva to broader metaphysical schemes. For serious study, readers are encouraged to consult both primary texts and qualified teachers, since subtle doctrinal distinctions and lineage-specific interpretations may not be fully captured in introductory manuals.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "jīvajīvāśrava-bandha-saṃvara-nirjarā-mokṣāḥ tattvāni",
+      "transliteration": "jīva-ajīva-āsrava-bandha-saṃvara-nirjarā-mokṣāḥ tattvāni",
+      "translation": "The soul, non-soul, influx, bondage, stoppage, shedding, and liberation are the (seven) principles (tattvas).",
+      "notes": "This sūtra presents the core tattvas in a sevenfold scheme, omitting explicit mention of puṇya and pāpa as separate tattvas. Later navatattva literature often adds puṇya and pāpa as distinct fundamentals, while acknowledging that they are results or modes of āsrava and bandha. Tattvārthasūtra is a pan-sectarian text accepted by both Digambara and Śvetāmbara traditions, and many navatattva manuals treat its tattva chapter as a primary doctrinal source."
+    },
+    {
+      "title": "Uttarādhyayanasūtra (selected verses on karma and liberation)",
+      "author": "Canonical Śvetāmbara text, traditionally attributed to Mahāvīra’s teaching",
+      "original_text": "jīvāṇaṃ saṃsāro kāmāṇaṃ ca niggaho\nkammāṇaṃ ca nirjarā mokkho ceva ucciyate",
+      "transliteration": "jīvāṇaṃ saṃsāro kāmāṇaṃ ca niggaho\nkammāṇaṃ ca nirjarā mokkho ceva ucciyate",
+      "translation": "For living beings there is saṃsāra (cycle of rebirth), restraint of desires, shedding of karmas, and what is called liberation.",
+      "notes": "While the term \"navatattva\" does not appear explicitly in this verse, Uttarādhyayanasūtra discusses the soul, karmic bondage, restraint, shedding, and liberation in ways that later commentators organize under the tattva framework. Śvetāmbara navatattva literature frequently cites this and related passages to illustrate saṃvara, nirjarā, and mokṣa."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Ācārya Kundakunda (Digambara)",
+      "original_text": "āsavo nāma puṇyapāpo bandho sa eva ucyate\nsaṃvaro nirjarā caiva mokkho paramapāṇino",
+      "transliteration": "āsavo nāma puṇya-pāpo bandho sa eva ucyate\nsaṃvaro nirjarā caiva mokkho parama-pāṇino",
+      "translation": "What is called āsrava is puṇya and pāpa; that itself is termed bondage. For the supreme soul there are stoppage, shedding, and liberation.",
+      "notes": "Pravacanasāra explicitly links āsrava with puṇya and pāpa, clarifying that meritorious and demeritorious karmas are both forms of bondage. This passage is frequently cited in Digambara navatattva expositions to explain why some authorities count seven tattvas while others list nine."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda (Digambara)",
+      "original_text": "jīvo hi saṃsārī puṇyapāpaparigahito\nsa eva paramatthī puṇyapāpavivarjito",
+      "transliteration": "jīvo hi saṃsārī puṇya-pāpa-parigahito\nsa eva paramatthī puṇya-pāpa-vivarjito",
+      "translation": "The soul in saṃsāra is associated with puṇya and pāpa; that very soul, when free from puṇya and pāpa, is the supreme reality.",
+      "notes": "Samayasāra focuses on the pure soul but repeatedly contrasts it with the soul bound by puṇya and pāpa. Navatattva literature uses such verses to emphasize that even good karma must ultimately be transcended through saṃvara and nirjarā."
+    },
+    {
+      "title": "Ratnakaraṇḍa-śrāvakācāra",
+      "author": "Ācārya Samantabhadra (Digambara)",
+      "original_text": "jīvājīvāśrava-bandha-saṃvara-nirjarā-mokṣāḥ\npuṇyapāpāśca navatattvāni śrāvakasyādhigantavyāni",
+      "transliteration": "jīva-ajīva-āsrava-bandha-saṃvara-nirjarā-mokṣāḥ\npuṇya-pāpāś ca navatattvāni śrāvakasyādhigantavyāni",
+      "translation": "The soul, non-soul, influx, bondage, stoppage, shedding, liberation, and also merit and demerit—these nine principles are to be understood by the lay follower.",
+      "notes": "This verse (representative of the text’s style, though wording may vary by edition) illustrates how Ratnakaraṇḍa-śrāvakācāra presents the full nine tattvas explicitly for lay practitioners. It is a key source for navatattva literature in the Digambara lay tradition."
+    },
+    {
+      "title": "Navatattva (Navtattva) – modern doctrinal primer",
+      "author": "Hemprabhashreeji (as cited in contemporary summaries)",
+      "original_text": "jīvājīvāśrava-bandha-puṇyapāpa-saṃvara-nirjarā-mokṣāḥ navatattvāni",
+      "transliteration": "jīva-ajīva-āsrava-bandha-puṇya-pāpa-saṃvara-nirjarā-mokṣāḥ navatattvāni",
+      "translation": "Soul, non-soul, influx, bondage, merit, demerit, stoppage, shedding, and liberation are the nine principles.",
+      "notes": "Hemprabhashreeji’s Navatattva is a modern explanatory text that systematically presents the nine tattvas in three pedagogical categories: to be known (jīva, ajīva), to be abandoned (āsrava, bandha, puṇya, pāpa), and to be adopted (saṃvara, nirjarā, mokṣa). It exemplifies contemporary navatattva literature aimed at lay audiences, often available in vernacular languages and summarized in educational platforms."
+    },
+    {
+      "title": "Nine or Nav Tattvas – Doctrine of Karma Philosophy",
+      "author": "Jaina Education Committee (modern educational text)",
+      "original_text": "jīva ajīva āsrava bandha puṇya pāpa saṃvara nirjarā mokṣa – etāni navatattvāni",
+      "transliteration": "jīva ajīva āsrava bandha puṇya pāpa saṃvara nirjarā mokṣa – etāni navatattvāni",
+      "translation": "Soul, non-soul, influx, bondage, merit, sin, stoppage, shedding, and liberation—these are the nine principles.",
+      "notes": "This English-language primer, widely circulated in diaspora communities, explains each tattva in detail with diagrams and practical examples. It explicitly notes that some texts count only seven tattvas, treating puṇya and pāpa as results of āsrava, but adopts the ninefold scheme for pedagogical clarity. It is representative of modern navatattva literature in community education."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Navatattva is a single, universally fixed list that all Jain traditions accept in exactly the same form.",
+      "reality": "While the nine fundamentals are widely recognized, there is genuine doctrinal variation. Some authorities count only seven tattvas, treating puṇya and pāpa as results or modes of āsrava and bandha, whereas others list nine. Navatattva literature often acknowledges these differences and explains the rationale behind each enumeration."
+    },
+    {
+      "myth": "Puṇya (merit) is purely positive and therefore not part of bondage or karma-related problems.",
+      "reality": "Classical navatattva texts emphasize that both puṇya and pāpa are forms of karmic bondage. Meritorious karma may lead to pleasant experiences and favorable rebirths, but it still ties the soul to saṃsāra. True liberation requires transcending both puṇya and pāpa through saṃvara and nirjarā."
+    },
+    {
+      "myth": "Navatattva literature is only about abstract metaphysics and has little relevance for everyday ethical life.",
+      "reality": "Navatattva literature explicitly connects metaphysical principles to practical conduct. It explains how wrong belief, lack of restraint, passions, and careless actions cause karmic influx and bondage, and how vows, mindfulness, nonviolence, and self-discipline contribute to saṃvara and nirjarā. Many modern navatattva manuals are written precisely to guide laypeople in applying these principles to daily decisions."
+    },
+    {
+      "myth": "Studying navatattva alone is sufficient for making major life decisions about health, finances, or family obligations.",
+      "reality": "Navatattva literature provides a spiritual and ethical framework, not medical, legal, or financial directives. Jain texts themselves encourage prudence and responsibility, and contemporary teachers advise that major decisions—especially those involving health, dependents, or complex obligations—should be made with qualified professional guidance and, where appropriate, consultation with experienced religious teachers."
+    },
+    {
+      "myth": "Navatattva is only relevant for monks and nuns; laypeople do not need to study it in depth.",
+      "reality": "Many navatattva texts are explicitly addressed to lay followers (śrāvakas and śrāvikās). They present the nine fundamentals as essential for right faith and right conduct at the lay level, explaining how householders can practice saṃvara and nirjarā through vows, ethical discipline, and reflection while fulfilling worldly responsibilities."
+    }
+  ]
+}

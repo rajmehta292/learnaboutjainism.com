@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain philosophical vocabulary, **darśana** refers to the mode of perception, intuition, or worldview through which reality is apprehended. It is not merely ‘seeing’ in the physical sense but a deep cognitive and spiritual capacity that precedes and supports right knowledge (*jñāna*). In the canonical and commentarial traditions, darśana is treated as both a psychological function and a karmically conditioned state of awareness.\n\nWithin the broader Jain ontology, darśana is one of the fundamental qualities (*guṇa*) of the soul (*jīva*). Every soul possesses innate, unobstructed perception, but in the embodied condition it becomes obscured by **darśanāvaraṇīya karma** (perception‑obscuring karma). Liberation is described as the complete removal of these karmic veils, allowing the soul’s pure perception to shine forth.\n\nJain texts distinguish multiple types of darśana: **mati‑darśana** (sensory-based perception), **śruta‑darśana** (perception through scriptural testimony), **avadhi‑darśana** (clairvoyant perception), and **kevala‑darśana** (perfect perception accompanying omniscience). These are not merely epistemic categories but stages in the soul’s progressive purification. In the **guṇasthāna** system, the emergence of *samyak‑darśana* (right perception or right faith) marks a decisive turning point in spiritual development.\n\nAcross Digambara and Śvetāmbara traditions, darśana is also used to describe the foundational orientation toward reality—trust in the teachings of the Jinas, recognition of the soul’s nature, and acceptance of the path of liberation. Thus, darśana is simultaneously an epistemic faculty, a spiritual attainment, and a doctrinal stance. Its nuances vary across sects and commentarial lineages, but all agree that without right perception, right knowledge and right conduct cannot be fully realized.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right perception, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "TS 1.1 establishes darśana as the first of the three jewels (*ratnatraya*). Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) clarify that darśana here means a correct, non-deluded orientation toward reality."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "अवधिदर्शनम्",
+      "transliteration": "avadhi‑darśanam",
+      "translation": "Clairvoyant perception.",
+      "notes": "TS 1.19 briefly defines *avadhi‑darśana* as a supernormal mode of perception. Digambara and Śvetāmbara commentaries elaborate its scope and limitations."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "समीगदंसणं नाम तत्तो णिव्वाणस्स पव्वं",
+      "transliteration": "samīga‑daṃsaṇaṃ nāma tatto ṇivvāṇassa pavvaṃ",
+      "translation": "Right perception is indeed the gateway to liberation.",
+      "notes": "This passage emphasizes the transformative role of *samyak‑darśana*. The text uses Ardhamāgadhī Prakrit; translations vary slightly across editions."
+    },
+    {
+      "title": "Gommatasāra (Jīvakāṇḍa)",
+      "author": "Nemicandra Siddhānta Cakravartin (Digambara)",
+      "original_text": "दर्शनावरणकर्मणो नाशात् सम्यग्दर्शनम्",
+      "transliteration": "darśanāvaraṇa‑karmaṇo nāśāt samyag‑darśanam",
+      "translation": "Right perception arises from the destruction of perception‑obscuring karma.",
+      "notes": "A Digambara technical exposition linking darśana directly to karmic theory. The text provides detailed classifications of darśanāvaraṇīya karma."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Darśana simply means visual sight or physical seeing.",
+      "reality": "In Jainism, darśana is a spiritual and cognitive capacity for perceiving reality, not limited to sensory vision. It includes intuitive and supra‑normal perception."
+    },
+    {
+      "myth": "Darśana and jñāna are interchangeable terms.",
+      "reality": "Jain epistemology distinguishes darśana (non‑conceptual perception) from jñāna (conceptual knowledge). They are related but not identical, and each has distinct karmic obstructions."
+    },
+    {
+      "myth": "Right perception (samyak‑darśana) is achieved only through ritual practice.",
+      "reality": "Canonical texts describe samyak‑darśana as arising from the subsidence or destruction of specific karmas. Rituals may support ethical orientation, but the attainment itself is karmically defined."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "overview": "An interfaith classroom is an educational environment intentionally designed to bring together students from diverse religious, philosophical, and cultural backgrounds for shared learning. In Jain studies, the term refers not to a traditional monastic or sectarian setting but to a modern pedagogical space where Jain principles—such as ahiṃsā (non‑violence), anekāntavāda (many‑sidedness), and aparigraha (non‑possessiveness)—inform respectful dialogue across traditions. Interfaith classrooms emerged prominently in the late 20th and early 21st centuries as schools, universities, and community centers sought structured ways to cultivate mutual understanding, reduce prejudice, and promote ethical citizenship.\n\nIn practice, an interfaith classroom emphasizes dialogical learning rather than doctrinal persuasion. Students explore how different traditions articulate moral reasoning, ritual practice, cosmology, and social ethics. Jainism contributes distinctive frameworks, especially the epistemological humility of anekāntavāda, which encourages learners to recognize the partiality of any single viewpoint. This principle supports collaborative inquiry, allowing students to compare interpretations without asserting supremacy. Educators often use case studies, shared service projects, and reflective writing to help students integrate multiple perspectives.\n\nInterfaith classrooms also require careful facilitation. Teachers must ensure that no tradition is misrepresented, exoticized, or marginalized. They must distinguish between descriptive study and personal practice, and they must avoid implying that all religions are identical or interchangeable. In Jain contexts, this includes clarifying that interfaith learning does not replace lineage‑based guidance, nor does it authorize religious vows, ascetic practices, or doctrinal commitments. Instead, it provides a safe, academically grounded space for understanding how Jain thought interacts with global religious diversity.\n\nModern scholarship highlights the role of interfaith classrooms in peacebuilding, civic engagement, and ethical literacy. When grounded in verified sources and respectful methodology, they help students appreciate both shared human concerns and the unique contributions of each tradition. For Jain educators, they offer an opportunity to present core teachings in a way that supports pluralism while maintaining fidelity to canonical texts and commentarial traditions.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 1.6",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अनेकान्तवादः",
+      "transliteration": "anekāntavādaḥ",
+      "translation": "The doctrine of many-sidedness.",
+      "notes": "Although the term appears in later commentarial elaboration rather than as a standalone sutra, the principle is foundational in Jain epistemology. In interfaith classrooms, educators often cite this concept to illustrate Jain approaches to pluralism. Its application in modern pedagogy is interpretive and not prescribed by the original text."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (1.4.1)",
+      "author": "Attributed to early Jain canonical compilers",
+      "original_text": "सव्वे पाणाः अणुगयाः",
+      "transliteration": "savve pāṇā anugayā",
+      "translation": "All living beings deserve compassion.",
+      "notes": "This passage is frequently used to demonstrate the ethical grounding of Jain non‑violence. In interfaith settings, it provides a basis for discussing universal ethical concern without requiring adherence to Jain vows."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Interfaith classrooms attempt to merge all religions into a single unified system.",
+      "reality": "Interfaith education emphasizes understanding and respectful dialogue, not doctrinal blending. Each tradition retains its distinct teachings, practices, and authority structures."
+    },
+    {
+      "myth": "Studying Jainism in an interfaith classroom grants religious authorization for vows or ascetic practices.",
+      "reality": "Interfaith classrooms are academic spaces. Religious commitments in Jainism require guidance from qualified lineage holders and cannot be conferred through general educational settings."
+    },
+    {
+      "myth": "Interfaith learning dilutes or compromises Jain principles.",
+      "reality": "When grounded in verified sources, interfaith classrooms can highlight core Jain teachings—especially anekāntavāda and ahiṃsā—in ways that strengthen understanding without altering doctrine."
+    }
+  ]
+}

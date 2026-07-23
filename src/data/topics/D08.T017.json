@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical literature, “inference” (anumāna) is one of the central pramāṇas—means of valid knowledge—used to understand reality beyond direct perception. Jain epistemology, especially as articulated in texts such as Umāsvāti’s *Tattvārthasūtra* and the Digambara *Pramāṇamīmāṃsā* tradition, treats inference as a disciplined cognitive process grounded in observation, logical relations, and the doctrine of non-one-sidedness (anekāntavāda). Inference allows the knower to move from a known sign (liṅga or hetu) to an unseen but logically connected conclusion (sādhya). For example, seeing smoke on a distant hill permits the inference of fire, provided the relation between smoke and fire has been previously established through valid observation.\n\nJain philosophers classify inference in several ways. A common division is between *svārthānumāna* (inference for oneself) and *parārthānumāna* (inference for others), the latter forming the basis of formal reasoning and debate. Another important distinction is between *pūrvavat* (from cause to effect), *śeṣavat* (from effect to cause), and *sāmānyato dṛṣṭa* (based on general concomitance). Jain thinkers also emphasize the necessity of vyāpti—the invariable concomitance between sign and probandum—while simultaneously acknowledging through anekāntavāda that such relations may be context-dependent and require careful qualification.\n\nInference is not treated as infallible. Jain epistemology insists that inference must be grounded in reliable perception, free from fallacies, and supported by proper reasoning. The tradition also highlights the limits of inference: it cannot grasp the full complexity of substances, modes, and qualities without the support of other pramāṇas. Nevertheless, inference remains indispensable for understanding karmic processes, cosmological structures, and ethical causality, especially where direct perception is impossible.\n\nAcross Jain traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—the basic structure of inference remains consistent, though commentarial nuances differ. Modern scholarship continues to explore Jain inference as a unique contribution to Indian logic, particularly in its integration of non-absolutism and multi-perspectival reasoning.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अनुमानं तद् लिङ्गलिङ्गिपूर्वकं",
+      "transliteration": "anumānaṃ tad liṅga-liṅgipūrvakaṃ",
+      "translation": "Inference is that which is preceded by the relation between the sign and what possesses the sign.",
+      "notes": "This sūtra (TS 1.6 in many editions) provides the foundational Jain definition of inference. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārthavṛtti* (Śvetāmbara) elaborate on the requirements of a valid sign, the nature of concomitance, and the distinction between inference for oneself and for others."
+    },
+    {
+      "title": "Pramāṇamīmāṃsā",
+      "author": "Akalanka (Digambara)",
+      "original_text": "अनुमानं त्रिविधं—स्वार्थं परार्थं च सामान्यतो दृष्टम्",
+      "transliteration": "anumānaṃ trividham—svārthaṃ parārthaṃ ca sāmānyato dṛṣṭam",
+      "translation": "Inference is threefold: for oneself, for others, and based on general observation.",
+      "notes": "Akalanka’s work is central to Digambara logic. His treatment of inference includes detailed analysis of fallacies, the structure of argumentation, and the role of vyāpti. The text also integrates Jain non-absolutism into logical methodology."
+    },
+    {
+      "title": "Nyāyāvatāra",
+      "author": "Siddhasena Divākara",
+      "original_text": "लिङ्गलिङ्गिसंबन्धाद् यद् ज्ञानं तद् अनुमानम्",
+      "transliteration": "liṅga-liṅgi-sambandhād yad jñānaṃ tad anumānam",
+      "translation": "Knowledge arising from the relation between the sign and the sign-possessor is inference.",
+      "notes": "A concise Jain manual on logic, often studied in Śvetāmbara traditions. It emphasizes the epistemic conditions necessary for valid inference and the avoidance of fallacious reasoning."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Inference in Jainism is identical to inference in Nyāya or Buddhist logic.",
+      "reality": "While Jain thinkers engage deeply with Nyāya and Buddhist logic, Jain inference is shaped by anekāntavāda and syādvāda, which introduce multi-perspectival constraints and qualifications not found in other systems."
+    },
+    {
+      "myth": "Inference alone can reveal all aspects of reality, including spiritual truths.",
+      "reality": "Jain epistemology holds that inference is powerful but limited. Certain truths—such as the precise nature of liberated souls or the full structure of karmic particles—require other pramāṇas, especially scriptural testimony and direct yogic perception."
+    },
+    {
+      "myth": "Any observed correlation is sufficient for valid inference.",
+      "reality": "Jain texts insist on strict conditions for vyāpti (invariable concomitance). Correlation without proper grounding in perception, reasoning, and contextual analysis leads to fallacies."
+    }
+  ]
+}

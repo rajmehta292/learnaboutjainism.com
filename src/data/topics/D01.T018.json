@@ -1,0 +1,59 @@
+{
+  "overview": "Artificial intelligence systems can process vast amounts of information, generate explanations, and support learning about religious traditions, including Jainism. Yet from a Jain perspective—and from the standpoint of responsible religious study—there are clear and non‑negotiable limits to what AI can and should do in matters of faith, practice, and authority.\n\nFirst, AI has no consciousness (cetana), no embodied discipline, and no karmic history. It does not undertake vrata (vows), tapas (austerities), or samyama (self‑restraint), and therefore cannot be a spiritual exemplar. In Jain terms, it is not a jiva progressing through gunasthanas, but a tool created and maintained by humans. Any religious guidance it offers is ultimately a rearrangement of texts and data, not the fruit of realized insight or lived sadhana. This means AI cannot replace monks, nuns, acharyas, or experienced lay teachers, whose authority rests on scriptural learning combined with personal practice and lineage recognition.\n\nSecond, Jain epistemology emphasizes pramana (valid knowledge) and anekantavada (many‑sidedness of truth). AI models are trained on mixed‑quality data, often without clear separation between primary scriptures, commentaries, popular discourse, and speculative opinion. They can easily blur these layers, present conjecture as fact, or omit crucial context such as sectarian differences (Digambara, Svetambara, Sthanakavasi, Terapanth, etc.). From an anekantavada standpoint, any single output must be treated as a partial naya (standpoint), not as a complete or binding view. AI can help surface multiple perspectives, but it cannot guarantee that those perspectives are balanced, accurate, or rooted in verified editions of canonical texts.\n\nThird, religious life involves ethically charged decisions: vows of non‑violence, dietary discipline, fasting, sallekhana debates, family responsibilities, and interactions with health, law, and livelihood. Jain ethics insists on careful consideration of himsa (harm), intention, and circumstance, often requiring guidance from qualified human authorities and, in many cases, medical or legal professionals. AI systems lack situational awareness, cannot assess a person’s physical or mental condition, and must not be used to authorize extreme practices, resolve family conflicts, or advise on medical, legal, or financial matters under a religious label. At most, they can point to general principles and then explicitly direct the user to competent human counsel.\n\nFourth, scriptural interpretation in Jainism is historically mediated by lineages, commentarial traditions, and community norms. Texts such as the Tattvartha Sutra, Samayasara, and canonical Agamas are studied with attention to language (Prakrit, Sanskrit), manuscript history, and sectarian readings. AI can assist by summarizing, comparing translations, or highlighting key themes, but it cannot adjudicate between living traditions or confer diksha (initiation), nor can it validate or invalidate a person’s spiritual status. Questions that touch on initiation, renunciation, or abandonment of dependents belong firmly within human, lineage‑based processes.\n\nFifth, there is a risk of over‑dependence. Jain values like aparigraha (non‑possessiveness) and self‑effort (purushartha) caution against relying on external tools to the point that one’s own reflection, study, and compassion are weakened. If a person turns to AI for every small religious decision, they may neglect the slow, demanding work of cultivating right faith (samyak‑darshana), right knowledge (samyak‑jnana), and right conduct (samyak‑charitra). AI should be treated as a supplementary study aid—useful for orientation, cross‑referencing, and exposure to diverse viewpoints—never as a spiritual authority or substitute for personal inquiry and community engagement.\n\nFinally, responsible AI religious assistance must be transparent about its limits: it should clearly distinguish quotation from paraphrase, traditional doctrine from modern interpretation, and information from advice. It should highlight areas of disagreement among sources, acknowledge gaps in evidence, and encourage users to consult qualified teachers, health professionals, and legal experts where appropriate. In a Jain frame, the most ethical use of AI is as a humble, non‑coercive companion to human study, always subordinated to verified texts, living traditions, and the user’s own conscientious discernment.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct are the path to liberation.",
+      "notes": "This sutra is foundational for Jain doctrine. It underscores that liberation depends on the triad of right faith, knowledge, and conduct—qualities that require conscious, disciplined beings. AI systems can help explain these concepts but cannot themselves possess or exemplify them, nor can they replace human guides who embody this path."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "जो समणो सो खलु समयसारो",
+      "transliteration": "jo samaṇo so khalu samayasāro",
+      "translation": "That which is truly the self is indeed the essence of reality.",
+      "notes": "Samayasāra focuses on the pure self and its distinction from body and external instruments. It reminds readers that spiritual realization concerns the conscious jiva, not tools or mechanisms. AI, as an external, non‑sentient instrument, cannot be the locus of self‑realization; it can only point toward teachings about the self."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (selected passage on non‑violence)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "सव्वे पाणे दुव्विहा—ठाणगया इहगया",
+      "transliteration": "savve pāṇe duvviha—ṭhāṇagayā ihagayā",
+      "translation": "All living beings are of two kinds—those that move and those that do not.",
+      "notes": "The Ācārāṅga Sūtra elaborates the scope of living beings and the discipline of non‑violence. It frames ethical responsibility in terms of living, sentient entities. AI systems, being non‑living tools, fall outside this category, yet their use can affect living beings. Jain ethics therefore applies to how humans design and deploy AI, not to AI as a moral agent."
+    },
+    {
+      "title": "Niyamasāra (on self‑effort)",
+      "author": "Ācārya Kundakunda",
+      "original_text": "पुरिसाहारो हि मोक्कस्स कारणं",
+      "transliteration": "purisāhāro hi mokkassa kāraṇaṁ",
+      "translation": "Self‑effort is indeed the cause of liberation.",
+      "notes": "Niyamasāra emphasizes personal effort and discipline as central to spiritual progress. This directly limits any notion that external mechanisms—whether ritual devices or modern AI tools—could by themselves secure liberation or make decisive religious choices. AI can support learning, but the decisive factor remains the practitioner’s own effort and discernment."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "AI can act as a guru or spiritual authority in Jainism.",
+      "reality": "In Jain understanding, spiritual authority arises from scriptural learning, personal practice, and recognition within a living lineage. AI has none of these: it does not undertake vows, austerities, or ethical discipline, and it cannot be initiated or authorized. It may serve as a study aid, but it cannot be a guru, acharya, monk, nun, or source of binding religious rulings."
+    },
+    {
+      "myth": "If AI quotes Jain scriptures, its answers are automatically correct and complete.",
+      "reality": "AI systems mix primary texts, commentaries, and secondary materials, sometimes with errors or missing context. Jain epistemology stresses pramana and anekantavada—valid knowledge and many‑sided truth—requiring careful attention to source, standpoint, and interpretation. Any AI output should be treated as a partial view, checked against verified editions, traditional commentaries, and qualified human guidance."
+    },
+    {
+      "myth": "AI can safely advise on fasting, sallekhana, health, or family obligations from a religious perspective.",
+      "reality": "Questions involving bodily risk, mental health, legal duties, or family responsibilities demand human assessment and often professional care. Jain ethics of ahimsa and responsibility make it clear that such decisions cannot be delegated to a machine. AI should never be used to authorize extreme practices, resolve medical or legal dilemmas, or encourage actions that might harm oneself or others."
+    },
+    {
+      "myth": "Using AI for every religious question is harmless and even spiritually efficient.",
+      "reality": "Over‑reliance on AI can weaken personal reflection, community dialogue, and the cultivation of right faith, knowledge, and conduct. Jain values like aparigraha and purushartha caution against dependence on external tools at the expense of inner effort. AI is best used sparingly and thoughtfully, as one resource among many, not as the default or sole guide."
+    },
+    {
+      "myth": "AI can decide between Jain sects or lineages and tell a person which path to follow.",
+      "reality": "Choices involving sect, lineage, or initiation are deeply personal and embedded in living traditions. AI has no standing within these communities and cannot weigh subtle factors of temperament, family context, or karmic disposition. It may describe differences between traditions, but any decision about affiliation or diksha must be made with human teachers and one’s own conscientious judgment."
+    }
+  ]
+}

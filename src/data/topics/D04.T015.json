@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, **vitalities (prāṇas)** are the fundamental capacities that enable a living being (jīva) to function, experience, and interact with the world. They form a core analytical framework in both Digambara and Śvetāmbara traditions for understanding the structure of life, the gradation of beings, and the karmic consequences of harming living organisms. Jainism teaches that all embodied beings possess prāṇas in varying combinations depending on their level of consciousness and bodily development. The more prāṇas a being has, the more morally serious it is to injure or kill it.\n\nClassically, Jain texts enumerate **ten prāṇas**: five *physical vitalities* (pañcendriya-prāṇas) and five *psychic vitalities* (manobalādi-prāṇas). The physical vitalities correspond to the five senses—touch, taste, smell, sight, and hearing—while the psychic vitalities include energy, respiration, lifespan, the capacity for speech, and the capacity for thought. Some early canonical lists present a slightly different grouping, but the tenfold schema is widely accepted across traditions.\n\nJain ontology classifies beings into **one-sensed (ekendriya)**, **two-sensed**, **three-sensed**, **four-sensed**, and **five-sensed** categories. Each category possesses a specific subset of prāṇas. For example, one-sensed beings such as plants possess only the vitality of touch, respiration, lifespan, and bodily energy, while five-sensed beings such as humans possess all ten. This graded structure is central to Jain ethics: harming a being with more prāṇas generates heavier karma.\n\nThe doctrine of prāṇas is closely tied to the Jain emphasis on **ahiṃsā (nonviolence)**. By analyzing life through vitalities, Jain thinkers created a detailed moral calculus that guides lay and monastic conduct. The prāṇa system also appears in discussions of karma, cosmology, and the stages of spiritual development (guṇasthāna). Although prāṇas describe empirical capacities, Jain texts treat them as karmically conditioned manifestations of the soul’s interaction with matter.\n\nModern scholarship highlights the sophistication of this system as an early attempt to classify biological and psychological functions without reducing them to material processes. The prāṇas remain central in contemporary Jain education, ethical reasoning, and comparative studies of Indian philosophy.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "प्राणाः स्पर्शरसगन्धरूपशब्दमनःवचनकायबलश्वासायुः",
+      "transliteration": "prāṇāḥ sparśa-rasa-gandha-rūpa-śabda-manaḥ-vacana-kāya-bala-śvāsa-āyuḥ",
+      "translation": "The vitalities are touch, taste, smell, form, sound, mind, speech, body, energy, respiration, and lifespan.",
+      "notes": "Tattvārtha Sūtra 2.13 provides the most widely cited canonical enumeration of the ten prāṇas. Commentaries by Pūjyapāda (Digambara) and Siddhasena Gaṇi (Śvetāmbara) elaborate on how these vitalities manifest in different classes of beings."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "जिवा बहुप्राणा बहुकायाः",
+      "transliteration": "jivā bahu-prāṇā bahu-kāyāḥ",
+      "translation": "Living beings possess many vitalities and many forms.",
+      "notes": "This passage (Uttarādhyayana Sūtra 36) appears in discussions of nonviolence and the moral seriousness of harming beings with multiple prāṇas."
+    },
+    {
+      "title": "Praśnavyākaraṇa",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "एकेन्द्रियादीनां प्राणभेदाः",
+      "transliteration": "ekendriyādīnāṃ prāṇa-bhedāḥ",
+      "translation": "The divisions of vitalities among one-sensed and other beings.",
+      "notes": "This text provides detailed classification of prāṇas across the hierarchy of living beings, forming the basis for ethical calculations in monastic rules."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Prāṇas are identical to the Hindu concept of prāṇa as cosmic breath or life-force.",
+      "reality": "In Jainism, prāṇas are not a universal life-energy but specific functional capacities of embodied beings. They are ethically significant markers of the soul’s interaction with matter, not a metaphysical substance."
+    },
+    {
+      "myth": "Only animals possess prāṇas; plants do not count as living beings with vitalities.",
+      "reality": "Jain texts explicitly state that plants possess touch, bodily energy, respiration, and lifespan. They are one-sensed beings with prāṇas and thus harming them carries karmic consequences."
+    },
+    {
+      "myth": "All five-sensed beings have the same moral status because they share the same prāṇas.",
+      "reality": "While five-sensed beings share the same set of prāṇas, Jain ethics also considers factors such as the presence of mind (saṃjñin vs. asaṃjñin) and the complexity of bodily structures. Thus, moral seriousness varies even within the five-sensed category."
+    }
+  ]
+}

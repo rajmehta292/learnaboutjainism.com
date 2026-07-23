@@ -1,0 +1,63 @@
+{
+  "overview": "Exegesis, in the context of Jainism, is the disciplined interpretation, explanation, and systematization of scriptural and doctrinal texts. It encompasses both the close reading of canonical Agamas and the extensive commentarial traditions that developed to clarify terse sutra-style compositions. Because Jain scriptures are often aphoristic, multi-layered, and composed in Prakrit or Sanskrit, exegesis functions as the bridge between the original words of the Tirthankaras and the lived understanding of monks, nuns, and laypeople.\n\nJain exegesis is not limited to a single genre. It includes early mnemonic and interpretive forms such as niryukti (verse expositions), bhashya (prose or mixed commentary), churni (running explanations), and tika (later, often more elaborate commentaries). These forms arose to unpack the dense language of the Agamas and related texts, to resolve ambiguities, and to connect doctrinal statements with ethical practice, cosmology, and meditative discipline. Over time, exegetical literature expanded to cover narrative texts, ritual manuals, philosophical treatises, and scholastic syntheses.\n\nMethodologically, Jain exegesis is shaped by core Jain philosophical tools: anekantavada (doctrine of non-one-sidedness), nayavada (standpoint theory), and syadvada (conditioned predication). These principles encourage interpreters to recognize multiple valid perspectives on a single doctrinal statement, to specify the standpoint from which a claim is made, and to qualify assertions rather than treat them as absolute. As a result, Jain hermeneutics tends to be plural-aware yet disciplined, seeking coherence without erasing complexity.\n\nExegesis also mediates between different sectarian understandings of scripture. Śvetāmbara traditions generally treat the Agamas as preserved canonical texts, while Digambara traditions hold that the original Angas were lost and instead rely on other early works and systematic treatises, such as the Tattvartha Sutra and the writings of Kundakunda, as doctrinal anchors. Commentarial projects—like harmonizing the Tattvartha Sutra with Agamas or explaining Kundakunda’s metaphysical language—are themselves major acts of exegesis, showing how textual authority is negotiated across time and communities.\n\nBeyond doctrinal clarification, Jain exegesis has practical aims. It guides monastic discipline, lay ethics, ritual observance, and meditative practice. It interprets rules of conduct in changing social contexts, explains cosmological descriptions in ways that support spiritual aspiration, and offers frameworks for understanding karma, gunasthanas (stages of spiritual development), and vows. Modern Jain scholarship continues this exegetical work by critically editing texts, comparing manuscripts, translating into contemporary languages, and engaging with broader philosophical and ethical debates, while remaining rooted in the layered interpretive heritage of the tradition.",
+  "primary_sources": [
+    {
+      "title": "Ācāranga-sūtra (Acaranga Sutra)",
+      "author": "Traditionally attributed to the disciples of Mahāvīra; preserved in Śvetāmbara canon",
+      "original_text": "णं चियं णं चियं, णं चियं णं चियं।\nसव्वे पाणे दुःखिया, दुःखमिच्छंति नाणवो॥",
+      "transliteration": "ṇaṃ ciyaṃ ṇaṃ ciyaṃ, ṇaṃ ciyaṃ ṇaṃ ciyaṃ.\nsavve pāṇe duḥkhiyā, duḥkham icchanti nāṇavo.",
+      "translation": "Again and again (be aware), again and again (be aware);\nAll living beings are afflicted with suffering; the ignorant desire suffering (through their actions).",
+      "notes": "The Ācāranga-sūtra is one of the oldest Jain scriptures, focusing on monastic conduct and non-violence. Its terse Prakrit verses require extensive exegesis to clarify the nuances of ahimsa, restraint, and mindfulness. Early niryuktis and later bhashyas unpack terms like ‘pāṇa’ (living beings) and explore how subtle forms of harm are to be avoided in practice. Exegetes also discuss the contextual meaning of repetition and emphasis in the sutra style, showing how the text trains ascetics in constant awareness."
+    },
+    {
+      "title": "Uttarādhyayana-sūtra (Uttaradhyayana Sutra)",
+      "author": "Traditionally linked to early Jain teachers; part of Śvetāmbara canon",
+      "original_text": "जोगं जोगं च तं पवक्खं, जोगेण जोगं विणोदयामि।\nजोगो हि जोगस्स परं जोगं, जोगेण जोगो विणिव्वइ॥",
+      "transliteration": "jogaṃ jogaṃ ca taṃ pavakkhaṃ, jogeṇa jogaṃ viṇodayāmi.\njogo hi jogassa paraṃ jogaṃ, jogeṇa jogo viṇivvai.",
+      "translation": "I will explain discipline as discipline; by discipline I dispel (mis)discipline.\nTrue discipline is the highest discipline; by discipline, discipline is purified.",
+      "notes": "The Uttarādhyayana-sūtra contains didactic chapters on ethics, meditation, and the path to liberation. Commentators analyze the layered use of ‘yoga’ (joga) as discipline, practice, and inner integration. Exegesis here often distinguishes between external ascetic practices and internal mental discipline, using nayavada to mark different standpoints. Later tikas relate these verses to the gunasthanas, explaining how disciplined conduct and right knowledge co-develop."
+    },
+    {
+      "title": "Tattvārtha-sūtra (Tattvartha Sutra)",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः॥",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ.",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "The Tattvārtha-sūtra is a systematic Sanskrit treatise accepted by both Digambara and Śvetāmbara traditions. Its sutras are extremely concise, prompting a rich commentarial tradition (e.g., Pujyapāda’s Sarvārthasiddhi). Exegesis focuses on defining ‘samyag-darśana’, ‘samyag-jñāna’, and ‘samyag-cāritra’ in detail, exploring their interrelations and their role in the gunasthanas. Harmonizing works correlate each sutra with Agama passages, illustrating how later systematization is grounded in earlier scriptural material. This text is central to Jain hermeneutics because it provides a conceptual map that exegetes use to interpret other scriptures."
+    },
+    {
+      "title": "Niryukti literature on Agamas (e.g., Oghaniryukti, Pindaniryukti)",
+      "author": "Traditionally attributed to Ācārya Bhadrabāhu and other early teachers",
+      "original_text": "ओहं णियुत्ति वुत्ता, ओहगं थाणगं मुणि।\nओहस्स णियुत्ति कुज्जा, णियुत्ति ओहस्स दंसणा॥",
+      "transliteration": "ohaṃ niyutti vuttā, ohagaṃ thāṇagaṃ muṇi.\nohassa niyutti kujjā, niyutti ohassa daṃsaṇā.",
+      "translation": "The niryukti on the Ogha has been spoken, O sage, as a foundation.\nOne should compose niryukti on the Ogha; niryukti is the insight into the Ogha.",
+      "notes": "Niryuktis are early Prakrit verse commentaries that explain and expand Agama sutras. They often present multiple possible meanings of words and then guide the reader toward the intended sense. Exegetically, they mark a transition from purely oral explanation to written interpretive frameworks. Later bhashyas and tikas treat niryuktis themselves as authoritative sources, creating layered exegesis: scripture, niryukti, bhashya, and tika. This tradition illustrates how Jain communities preserved and interpreted doctrine through successive interpretive strata."
+    },
+    {
+      "title": "Samayasāra (Samayasara)",
+      "author": "Kundakunda",
+      "original_text": "जो समो सोहि समयस्सारो, समो हि समयस्सारो।\nसमयस्सारो णाणं, णाणं मोक्कस्स कारणं॥",
+      "transliteration": "jo samo sohi samayassāro, samo hi samayassāro.\nsamayassāro ṇāṇaṃ, ṇāṇaṃ mokkassa kāraṇaṃ.",
+      "translation": "That which is the self is the essence of reality; the self alone is the essence.\nThe essence of reality is knowledge, and knowledge is the cause of liberation.",
+      "notes": "Samayasāra is a key Digambara philosophical text emphasizing the pure nature of the soul. Its verses are highly condensed and metaphysical, requiring detailed exegesis to distinguish between vyavahāra-naya (conventional standpoint) and niścaya-naya (ultimate standpoint). Commentators explain how statements about the pure soul relate to empirical experience, karma, and ethical practice. This hermeneutic work is central to Digambara understandings of liberation and illustrates how exegesis navigates between different levels of truth."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Exegesis in Jainism is only about explaining difficult words in ancient texts.",
+      "reality": "Jain exegesis does clarify language, but it also systematically interprets doctrine, connects scripture to practice, and negotiates multiple philosophical standpoints. It involves structured hermeneutic methods—such as anekantavada and nayavada—to understand how teachings apply in diverse contexts while remaining faithful to the core path of liberation."
+    },
+    {
+      "myth": "There is a single, universally accepted Jain scriptural canon, so exegesis is uniform across all sects.",
+      "reality": "Jain traditions differ over the status and preservation of the Agamas. Śvetāmbara communities maintain a canon of Agamas, while Digambaras consider the original Angas lost and rely on other early and scholastic texts. Exegesis therefore varies by tradition, with different primary texts and commentarial lineages, even though core themes—such as non-violence, karma, and the three jewels—remain shared."
+    },
+    {
+      "myth": "Commentaries and niryuktis are secondary and therefore less important than the original sutras.",
+      "reality": "While the sutras are foundational, Jain communities have long treated niryuktis, bhashyas, churnis, and tikas as essential for understanding and applying scripture. These exegetical works preserve oral teaching, resolve ambiguities, and adapt doctrine to new circumstances. In practice, they are integral to how Jain philosophy and ethics are transmitted and lived."
+    },
+    {
+      "myth": "Anekantavada means that any interpretation of a Jain text is acceptable.",
+      "reality": "Anekantavada encourages recognition of multiple aspects of truth, but it operates within disciplined frameworks. Exegetes specify standpoints (nayas), qualify assertions (syadvada), and test interpretations against core doctrinal structures like the tattvas and the path to liberation. Not every reading is equally valid; interpretations are evaluated for coherence, ethical implications, and fidelity to the broader Jain tradition."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, “fortnightly practice” refers to the structured observances tied to the lunar calendar, especially the bright and dark fortnights (*śukla pakṣa* and *kṛṣṇa pakṣa*). These observances shape lay discipline, communal worship, ethical reflection, and periodic austerity. The most widely recognized fortnightly observance is *Pakkhi* (Skt. *pakṣika upavāsa*), a practice in which householders undertake fasting or semi-fasting on specific lunar days. The practice appears in both Digambara and Śvetāmbara traditions, though with variations in terminology, ritual framing, and recommended intensity.\n\nFortnightly practice is part of a larger rhythm of time in Jainism, where the lunar cycle structures vows (*vrata*), confession (*pratikramaṇa*), and austerities (*tapas*). Many communities perform *pratikramaṇa* on the 14th day of each fortnight (*caturdaśī*), aligning ethical review with cosmological time. In Śvetāmbara Mūrti-pūjaka and Sthānakavāsī traditions, fortnightly *pratikramaṇa* is a core lay discipline, while Digambara texts emphasize *pakṣika upavāsa* and *pakṣika pratikramaṇa* as optional but meritorious practices.\n\nThe purpose of fortnightly practice is not merely ritual regularity but ethical calibration. By observing fasting, limiting consumption, reviewing conduct, and engaging in scriptural recitation, householders periodically reset their intentions and reduce karmic influx (*āsrava*). These practices are framed as accessible austerities that do not require monastic renunciation but still cultivate restraint, mindfulness, and compassion.\n\nHistorically, fortnightly observances appear in early canonical and commentarial literature, where they are linked to the discipline of lay followers (*śrāvakas*). Over time, they became embedded in community calendars, temple routines, and household schedules. Modern Jain communities continue these observances, though the intensity may vary depending on health, age, and sectarian norms. All traditions emphasize voluntary participation and caution against harmful austerities, especially prolonged fasting without guidance.\n\nFortnightly practice thus represents a recurring ethical checkpoint within Jain lay life—an opportunity to reaffirm nonviolence, truthfulness, restraint, and spiritual aspiration within the rhythm of everyday responsibilities.",
+  "primary_sources": [
+    {
+      "title": "Āvaśyaka Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "पक्खियं कुव्विज्जा",
+      "transliteration": "pakkhiyaṃ kuvvijjā",
+      "translation": "“One should perform the fortnightly observance.”",
+      "notes": "This brief directive appears in the context of lay duties. The term *pakkhiya* refers to the fortnightly *pratikramaṇa* performed on the 14th day of each lunar fortnight. Commentaries (e.g., by Haribhadra and Malayagiri) expand this into a structured ethical review."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "उपवासोऽनशनम्",
+      "transliteration": "upavāso'naśanam",
+      "translation": "“Fasting is abstention from food.”",
+      "notes": "While the text does not specify fortnightly fasting, Digambara and Śvetāmbara commentators (e.g., Pūjyapāda, Akalaṅka, Siddhasena) apply this definition to periodic lay austerities, including *pakṣika upavāsa*. The practice is framed as a moderate austerity suitable for householders."
+    },
+    {
+      "title": "Śrāvakācāra (Digambara)",
+      "author": "Ācārya Amitagati",
+      "original_text": "पक्षोपवासं कुर्यात् श्रावकः",
+      "transliteration": "pakṣopavāsaṃ kuryāt śrāvakaḥ",
+      "translation": "“A lay follower should undertake the fortnightly fast.”",
+      "notes": "This text gives one of the clearest Digambara references to fortnightly fasting. It emphasizes voluntary participation and suitability for householders who cannot undertake more demanding austerities."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Fortnightly practice requires strict fasting for all householders.",
+      "reality": "Primary texts and commentaries describe fortnightly observances as voluntary and adaptable. They may include full fasting, partial fasting, scriptural study, or ethical reflection depending on health, age, and capacity."
+    },
+    {
+      "myth": "Fortnightly practice is identical across all Jain sects.",
+      "reality": "While the lunar rhythm is shared, Digambara traditions emphasize *pakṣika upavāsa*, Śvetāmbara Mūrti-pūjaka communities emphasize *pakkhi pratikramaṇa*, and Sthānakavāsī and Terāpanth traditions emphasize non-iconic ethical review. The underlying purpose is similar, but the forms differ."
+    },
+    {
+      "myth": "Fortnightly observances replace daily ethical duties.",
+      "reality": "Texts present them as periodic intensifications, not substitutes. Daily conduct—nonviolence, truthfulness, restraint—remains foundational, while fortnightly practices serve as structured moments of deeper reflection."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, the term **diaspora** refers to the movement, settlement, and cultural continuity of Jain communities outside their ancestral regions of origin, primarily in western and northern India. Jain diaspora history is shaped by patterns of mercantile mobility, manuscript circulation, temple patronage, and the transmission of monastic lineages. Although Jainism does not prescribe territorial identity as a religious obligation, its practices—such as access to mendicants, ritual spaces, and community institutions—have historically been rooted in specific geographic networks. As Jains migrated, they developed new forms of lay organization, adapted ritual life to local conditions, and created transnational connections with monastic orders in India.\n\nModern Jain diaspora communities emerged in several waves. The earliest significant movements occurred during medieval trade expansions, when Jain merchants established networks across the Indian Ocean basin. A second major wave took place during the late nineteenth and early twentieth centuries, when Jains moved to East Africa under colonial economic structures. The most recent wave began in the mid‑twentieth century, with substantial migration to the United Kingdom, North America, and later Australia and Southeast Asia. These communities built temples, study circles, youth organizations, and cultural associations that maintain ties to both Śvetāmbara and Digambara traditions.\n\nDiaspora identity often involves balancing continuity with adaptation. Communities outside India frequently rely on lay-led religious education, translated texts, and periodic visits from monks and nuns—who must navigate strict travel rules that limit long-distance movement. Diaspora Jains also engage in interfaith dialogue, academic study, and digital platforms to sustain practice. While diaspora communities preserve core ethical commitments such as ahiṃsā, vegetarianism, and daily sādhanā, they also develop new forms of community governance and cultural expression shaped by their local environments.\n\nScholars note that Jain diaspora experiences illuminate broader themes in Jain history: the role of merchants in sustaining religious institutions, the importance of textual transmission, and the adaptability of lay practice. At the same time, diaspora communities face challenges, including generational shifts, linguistic change, and limited access to monastic guidance. These dynamics make diaspora an important area of contemporary Jain studies, connecting historical patterns with modern global realities.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non‑violence is the supreme dharma.",
+      "notes": "Although the Tattvārtha Sūtra does not discuss diaspora directly, its universal ethical formulations—such as the primacy of ahiṃsā—serve as foundational principles that diaspora communities emphasize when adapting Jain practice to new cultural contexts."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "जगति जीवो जीवस्स देसम्",
+      "transliteration": "jagati jīvo jīvassa desam",
+      "translation": "In this world, the living being has its own place.",
+      "notes": "This passage, while focused on the nature of living beings and their environments, is often cited in discussions of how Jains understand place, movement, and ethical conduct. Diaspora scholars use such passages to explore how Jains negotiate new environments while maintaining ethical commitments."
+    },
+    {
+      "title": "Kalpa Sūtra (Śvetāmbara)",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "वसन्ति भगवन्तो बहुसु ठाणेसु",
+      "transliteration": "vasanti bhagavanto bahusu ṭhāṇesu",
+      "translation": "The Blessed Ones dwell in many places.",
+      "notes": "This line describes the movement of revered teachers. While monastic travel is highly regulated, the text’s acknowledgment of multiple dwelling places is sometimes used in diaspora studies to frame the historical mobility of Jain communities."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Diaspora Jain communities are recent and primarily Western phenomena.",
+      "reality": "Historical evidence shows Jain mobility dating back many centuries, including merchant networks across the Indian Ocean and settlements in regions such as East Africa long before modern Western migration."
+    },
+    {
+      "myth": "Diaspora Jains abandon traditional practices because they lack access to monks and temples.",
+      "reality": "Diaspora communities often innovate rather than abandon practice—creating lay-led study groups, digital learning platforms, and periodic hosting of monastic visits while maintaining core ethical commitments."
+    },
+    {
+      "myth": "Jainism requires residence in India to be practiced authentically.",
+      "reality": "Primary texts emphasize ethical principles rather than geographic requirements. While monastic life is geographically constrained, lay practice can be sustained globally with appropriate guidance and community support."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "overview": "In the context of Jain studies, “story provenance labels” are systematic tags that indicate where a narrative comes from, how it has been transmitted, and what level of textual authority or historical reliability it carries. Because Jain tradition is rich in stories—about Tirthankaras, Ganadharas, acharyas, lay exemplars, and mythic beings—scholars and serious students need a way to distinguish between accounts rooted in canonical scriptures, those emerging from later commentaries, regional retellings, didactic storybooks, or modern reconstructions. Provenance labels help prevent the uncritical mixing of these layers and support a more transparent, source‑grounded engagement with Jain narratives.\n\nAt a basic level, story provenance labels classify narratives according to corpus tiers, such as A (verified primary text and edition), B (reviewed traditional commentary), C (peer‑reviewed or authoritative scholarship), D (reviewed community education), E (unverified OCR or AI translation), and F (unknown provenance, quarantined). When applied to stories, these labels make explicit whether a particular episode—say, a miracle attributed to a Tirthankara, a detailed description of karmic consequences, or a moral anecdote about a householder—comes directly from a canonical text in Prakrit or Sanskrit, from a medieval Purana, from a sectarian manual, or from modern educational literature. This allows readers to see not only the content of a story but also its textual lineage and the degree of confidence with which it can be treated as historically or doctrinally authoritative.\n\nStory provenance labels also distinguish between quotation, paraphrase, interpretation, and modern application. A narrative may be presented as a direct quotation from a canonical source, a paraphrased retelling, an interpretive expansion by a commentator, or a modern adaptation for youth and family education. By tagging each segment accordingly, the system avoids blurring the boundary between what the original text actually says and how later generations have understood or reshaped it. For example, a story about a monk’s extreme austerities might be labeled as “canonical core” for the basic episode, “commentarial expansion” for added details, and “modern ethical reflection” for contemporary guidance on health and non‑violence.\n\nIn practice, story provenance labels are crucial for comparative work across Jain traditions—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Śvetāmbara Terāpanth—as well as for cross‑religious studies. The same figure or episode may appear in multiple textual streams with variations in plot, emphasis, or doctrinal framing. Provenance labels help identify which version is being used, which sectarian or regional context it belongs to, and how it relates to other attestations. This is especially important when stories are used to support ethical decisions, ritual practices, or doctrinal claims; the labels remind readers that not all narratives carry the same weight and that some require consultation with qualified human teachers or scholars before being treated as normative.\n\nFinally, story provenance labels serve as a safeguard against the uncritical spread of material from unverified or AI‑generated sources. By explicitly marking stories that derive from tier E (unverified OCR or AI translation) or tier F (unknown provenance, quarantined), the system signals that these narratives are for discovery and exploration only, not for doctrinal reliance or prescriptive guidance. This layered, transparent approach respects the depth of Jain tradition while encouraging careful, source‑aware study and responsible modern application.",
+  "primary_sources": [
+    {
+      "title": "Kalpa-sūtra",
+      "author": "Traditionally attributed to Bhadrabāhu; Śvetāmbara canonical text",
+      "original_text": "जिणेन्द्राणं चतुर्विंशतिं महावीरं च तेसिं चरितं वुत्तं।",
+      "transliteration": "jiṇendrāṇaṃ catuvviṃsatiṃ mahāvīraṃ ca tesiṃ caritaṃ vuttaṃ.",
+      "translation": "The lives of the twenty‑four Jinas, including Mahāvīra, are narrated here.",
+      "notes": "The Kalpa‑sūtra is a Śvetāmbara canonical text that contains biographical narratives of Tirthankaras, especially Mahāvīra. When a story about Mahāvīra’s birth, renunciation, or enlightenment is drawn directly from the Kalpa‑sūtra in a verified edition, it would typically receive a high‑authority provenance label (tier A). Later elaborations on these episodes in festival sermons or storybooks would be tagged as commentarial or community‑education layers rather than canonical quotation."
+    },
+    {
+      "title": "Uttarādhyayana-sūtra",
+      "author": "Canonical text of the Śvetāmbara tradition; author not individually specified",
+      "original_text": "एगं चित्तं समाहिअं, एगं दंसणलाभिणं। एगं चरित्तसंपन्नं, एगं तवस्स परायणं॥",
+      "transliteration": "egaṃ cittaṃ samāhiaṃ, egaṃ daṃsaṇalābhiṇaṃ; egaṃ carittasaṃpannaṃ, egaṃ tavassa parāyaṇaṃ.",
+      "translation": "One whose mind is concentrated, who has attained right vision, who is perfected in conduct, and who is devoted to austerity.",
+      "notes": "The Uttarādhyayana‑sūtra includes didactic stories and dialogues illustrating right conduct and ascetic ideals. When a moral anecdote or exemplary tale is traced to a specific chapter and verse of this text, it can be labeled as a canonical narrative (tier A) with clear quotation or paraphrase tags. Expanded versions in later nīti‑literature or sectarian manuals would receive different provenance labels, indicating their derivative status."
+    },
+    {
+      "title": "Padma-purāṇa (Jaina version)",
+      "author": "Traditionally attributed to Raviṣeṇa (Digambara)",
+      "original_text": "रामो नृपः सुमहायशाः पद्मनाभो जिनवरप्रभः कथितोऽत्र चरिते।",
+      "transliteration": "rāmo nṛpaḥ sumahāyaśāḥ padmanābho jinavaraprabhaḥ kathito ’tra carite.",
+      "translation": "Here is narrated the story of King Rāma of great fame, Padmanābha, radiant like the supreme Jina.",
+      "notes": "Jaina Purāṇas such as the Padma‑purāṇa present extensive narrative reworkings of pan‑Indian epic material in a Jain ethical and cosmological frame. Stories about Rāma, Sītā, and related figures, when drawn from Raviṣeṇa’s Padma‑purāṇa, are labeled as Purāṇic or sectarian narrative sources (often tier B, if based on reviewed editions and commentaries). This distinguishes them from canonical sūtra narratives and helps clarify their doctrinal and historical status."
+    },
+    {
+      "title": "Ādi-purāṇa",
+      "author": "Jinasena (Digambara)",
+      "original_text": "भरतेन चरितं सर्वं जिनेन्द्राज्ञानुसारतः प्रणीतं अदिपुराणे।",
+      "transliteration": "bharatena caritaṃ sarvaṃ jinendrājñānusārataḥ praṇītaṃ ādipurāṇe.",
+      "translation": "In the Ādi‑purāṇa is composed the entire story of Bharata, in accordance with the knowledge of the Jina.",
+      "notes": "The Ādi‑purāṇa is a major Digambara narrative text focusing on Ṛṣabha (Ādinātha) and his son Bharata. Stories of their lives, virtues, and karmic trajectories, when sourced from this text, are tagged as Digambara Purāṇic narratives. Provenance labels help readers see that these accounts, while authoritative within certain lineages, differ in genre and status from canonical āgamas and may have parallel or divergent versions in Śvetāmbara sources."
+    },
+    {
+      "title": "Bhagavatī-sūtra (Vyākhyā-prajñapti)",
+      "author": "Canonical text of the Śvetāmbara tradition; attributed to the teachings of Mahāvīra",
+      "original_text": "एवं मे सुतं—भगवता महावीरेण वुत्तं, गोतमो तं समणो सव्वं जणेति।",
+      "transliteration": "evaṃ me sutaṃ—bhagavatā mahāvīreṇa vuttaṃ, gotamo taṃ samaṇo savvaṃ jaṇeti.",
+      "translation": "Thus have I heard—spoken by the Blessed Mahāvīra; the monk Gautama knows all this.",
+      "notes": "The Bhagavatī‑sūtra contains extensive dialogues and narrative frames involving Mahāvīra and his chief disciple Gautama. When stories about doctrinal questions, karmic case studies, or cosmological descriptions are drawn from this text, they are labeled as canonical dialogic narratives. Later scholastic or popular retellings that simplify or dramatize these episodes for lay audiences receive different provenance labels, marking them as interpretive or educational rather than direct scriptural quotation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All popular Jain stories, especially those told in sermons, festivals, or children’s books, come directly from canonical scriptures and therefore carry the same level of authority.",
+      "reality": "Many widely circulated Jain stories originate from later Purāṇas, sectarian manuals, regional hagiographies, or modern educational materials rather than from the canonical āgamas. Story provenance labels highlight whether a narrative is canonical, commentarial, sectarian, or modern, helping readers avoid treating every story as equally binding or historically precise."
+    },
+    {
+      "myth": "If a story mentions a Tirthankara, it must be an ancient, scripturally verified account and can be used as a basis for doctrinal or ethical rulings without further examination.",
+      "reality": "Stories involving Tirthankaras appear across multiple textual layers, including canonical sūtras, medieval Purāṇas, and modern retellings. Some details are interpretive expansions or sectarian embellishments. Provenance labels make these layers visible and encourage consultation of primary texts and qualified teachers before using such narratives as the sole basis for doctrinal or ethical decisions."
+    },
+    {
+      "myth": "Translations and AI‑generated retellings of Jain stories are automatically reliable if they sound traditional or use familiar religious language.",
+      "reality": "Unverified translations, OCR outputs, and AI‑generated narratives can introduce errors, anachronisms, or doctrinal distortions. Story provenance labels mark such material as discovery‑tier only (e.g., tier E or F), signaling that it should not be treated as authoritative without cross‑checking against verified editions, commentaries, and human scholarship."
+    },
+    {
+      "myth": "There is only one authentic version of each major Jain story, and differences between Digambara and Śvetāmbara tellings are minor or irrelevant.",
+      "reality": "Major Jain narratives often exist in multiple versions across Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth traditions, with meaningful differences in plot, emphasis, and doctrinal framing. Story provenance labels identify the textual and sectarian origin of each version, supporting careful comparative study rather than assuming a single, uniform narrative."
+    }
+  ]
+}

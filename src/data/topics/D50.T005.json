@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “translations” refer to the rendering of canonical Prakrit and Sanskrit texts into modern languages such as Gujarati, Hindi, and English. Because Jain scriptures span over two millennia and multiple linguistic strata—including Ardhamāgadhī, Śaurasenī, Jaina Māhārāṣṭrī, and classical Sanskrit—translation is both a philological and hermeneutical discipline. Scholars and tradition-based translators must navigate variant manuscripts, sectarian redactions, and technical terminology related to karma theory, ethics, cosmology, and monastic discipline.\n\nWithin Jain traditions, translation is not merely linguistic substitution but an interpretive act shaped by doctrinal commitments. Digambara and Śvetāmbara canons differ in content, structure, and historical transmission, so translations often reflect these divergences. For example, the Śvetāmbara canon preserves extensive Āgama literature in Ardhamāgadhī, while Digambara traditions rely on Sanskrit redactions and commentaries by authors such as Kundakunda, Pūjyapāda, and Akalaṅka. Modern translators must therefore specify which recension or sectarian lineage they follow.\n\nTranslation work also requires transparency about textual layers. Many Jain scriptures contain mnemonic verses, prose explanations, and later commentarial expansions. A responsible translation distinguishes between direct quotation, paraphrase, and interpretive commentary. Because Jain technical vocabulary—terms like *lesyā*, *guṇasthāna*, *saṃvara*, *nirjarā*, and *kevalajñāna*—has no perfect English equivalents, translators often retain the original term with explanatory notes. Contemporary scholarship emphasizes source-grounded translation, manuscript comparison, and clear citation of variant readings.\n\nIn modern Jain education, translations serve as bridges for lay readers, youth, and academic audiences. They enable comparative study, ethical reflection, and historical analysis while preserving fidelity to the original linguistic and doctrinal context. However, translations must always acknowledge uncertainty, gaps in manuscript evidence, and differences in sectarian interpretation.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara Canon)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "𑀆𑀘𑀸𑀭𑀸𑀁𑀕𑀁 𑀲𑀼𑀢𑁆𑀭𑀺",
+      "transliteration": "Ācārāṅga Sūtra",
+      "translation": "“The Scripture on Conduct.” A foundational Śvetāmbara text describing monastic discipline and the principles of nonviolence.",
+      "notes": "Translations vary depending on manuscript families and sectarian redaction. Ardhamāgadhī terms such as *ahiṃsā* and *samiti* require contextual explanation."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (accepted by both major traditions)",
+      "original_text": "तत्त्वार्थसूत्र",
+      "transliteration": "Tattvārthasūtra",
+      "translation": "“Aphorisms on the Meaning of Reality.” A systematic Sanskrit treatise outlining Jain ontology, karma theory, and the path to liberation.",
+      "notes": "Commentaries by Pūjyapāda (Digambara) and Siddhasena Gaṇin (Śvetāmbara) influence translation choices. Key terms like *jīva*, *ajīva*, and *mokṣa* require precise rendering."
+    },
+    {
+      "title": "Samayasāra (Digambara)",
+      "author": "Kundakunda",
+      "original_text": "समयसार",
+      "transliteration": "Samayasāra",
+      "translation": "“Essence of the Self.” A Digambara philosophical text emphasizing the pure nature of the soul and distinguishing conventional from ultimate viewpoints.",
+      "notes": "Jaina Māhārāṣṭrī verses are often translated alongside Sanskrit commentaries. The distinction between *vyavahāra naya* and *niścaya naya* is central to translation accuracy."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Translations can fully replace the original Jain scriptures.",
+      "reality": "Translations are interpretive approximations. Many doctrinal nuances depend on Prakrit or Sanskrit grammar, technical terminology, and manuscript variants that cannot be perfectly reproduced in modern languages."
+    },
+    {
+      "myth": "All Jain traditions use the same canonical texts, so translations are uniform.",
+      "reality": "Digambara and Śvetāmbara canons differ significantly. A translation must specify its sectarian basis, manuscript source, and commentarial lineage to avoid conflating traditions."
+    },
+    {
+      "myth": "Literal word-for-word translation is the most accurate method.",
+      "reality": "Literal translation often obscures meaning because Jain scriptures use dense aphorisms, layered commentaries, and technical vocabulary. Responsible translators balance fidelity with intelligibility and provide explanatory notes."
+    }
+  ]
+}

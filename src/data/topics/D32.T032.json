@@ -1,0 +1,39 @@
+{
+  "overview": "In Jain studies, “compounds” most often refers to *samāsa*—the Sanskrit and Prakrit system of combining two or more words into a single lexical unit. Compounds are central to understanding Jain canonical texts, commentaries, and philosophical treatises, because Jain authors frequently compress complex doctrinal ideas into compact compound structures. These compounds appear throughout Śvetāmbara and Digambara scriptures, narrative literature, karma theory treatises, and scholastic works.\n\nIn classical Jain Prakrit (Ardhamāgadhī, Śaurasenī, Jaina Māhārāṣṭrī) and Jain Sanskrit, compounds serve several functions: (1) semantic condensation of doctrinal categories, such as *jīva-ajīva* (living and non-living), *puṇya-pāpa* (merit and demerit), or *dravya-guṇa-paryāya* (substance, quality, mode); (2) technical precision in karma theory, where multi-part compounds describe specific karmic types; and (3) stylistic economy in sutra-style texts, which rely on brevity and mnemonic structure.\n\nJain compounds follow the broader Indian grammatical tradition (Pāṇinian), but Jain authors often adapt compound usage to express uniquely Jain concepts. For example, compounds describing spiritual stages (*guṇasthāna*) or vows (*vrata*) frequently encode doctrinal relationships that require careful unpacking. Because many canonical texts are aphoristic, understanding compounds is essential for accurate interpretation, translation, and commentary.\n\nScholars and traditional commentators emphasize that compounds must be interpreted with attention to context, doctrinal intent, and the linguistic conventions of the specific Jain tradition. A single compound may have multiple plausible analyses, and commentaries often record disagreements among teachers. Therefore, compounds are not merely grammatical features—they are interpretive gateways into Jain metaphysics, ethics, and soteriology.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "जीवाजिवाः",
+      "transliteration": "jīvājivāḥ",
+      "translation": "“Living and non-living (are the two fundamental categories).”",
+      "notes": "This compound appears in Tattvārtha Sūtra 5.1. It is a classic example of a *dvandva* (coordinative) compound used to introduce foundational Jain ontology. Commentaries differ on whether the compound implies exhaustive duality or functions as a pedagogical pairing."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text (author not specified)",
+      "original_text": "सव्वपावविरओ",
+      "transliteration": "savva-pāva-virao",
+      "translation": "“Complete cessation of all sin.”",
+      "notes": "A *bahuvrīhi* compound describing the ideal state of a monk. Commentators note that the compound compresses both ethical restraint and karmic purification."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "कर्मप्रकृत्यवच्छेद",
+      "transliteration": "karma-prakṛty-avaccheda",
+      "translation": "“The delimitation of karmic categories.”",
+      "notes": "A technical compound used in karma theory. Digambara commentators analyze each member of the compound to explain how karmas are classified and bounded."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Compounds in Jain texts are identical to compounds in general Sanskrit grammar.",
+      "reality": "While Jain compounds follow classical grammatical rules, Jain authors frequently adapt compound structures to encode doctrinal relationships, karmic classifications, and ethical categories. Interpretation requires familiarity with Jain philosophical usage, not only general Sanskrit grammar."
+    },
+    {
+      "myth": "A compound always has a single correct meaning.",
+      "reality": "Many Jain compounds are intentionally compact and require unpacking. Traditional commentaries often record multiple interpretations, and meaning can shift depending on doctrinal context, sectarian tradition, or manuscript lineage."
+    }
+  ]
+}

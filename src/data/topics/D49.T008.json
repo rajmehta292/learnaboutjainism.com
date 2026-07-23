@@ -1,0 +1,27 @@
+{
+  "overview": "New Zealand is an island nation located in the southwestern Pacific Ocean, composed primarily of two large landmasses—the North Island (Te Ika-a-Māui) and the South Island (Te Waipounamu)—along with numerous smaller islands. It is known for its dramatic landscapes, ranging from alpine mountain ranges and volcanic plateaus to coastal fjords, rolling farmland, and subtropical forests. The country’s geographic isolation has contributed to a unique biodiversity, including endemic species such as the kiwi, kākāpō, and tuatara.\n\nHuman settlement began with the arrival of Polynesian navigators around the 13th century, who developed the rich Māori culture, language, and social structures that remain central to New Zealand’s identity. European contact intensified in the 18th and 19th centuries, culminating in the Treaty of Waitangi in 1840, signed between representatives of the British Crown and many Māori chiefs. The treaty is considered New Zealand’s founding document, though its interpretation and implementation have been the subject of ongoing historical and legal debate.\n\nModern New Zealand is a parliamentary democracy and constitutional monarchy, with a strong emphasis on social welfare, environmental conservation, and bicultural governance frameworks. Its economy is diverse, with major sectors including agriculture, tourism, film production, technology, and renewable energy. New Zealand is also known for its contributions to global culture, from literature and sports to cinema and scientific research. The nation maintains an international reputation for political stability, natural beauty, and progressive social policies.",
+  "primary_sources": [
+    {
+      "title": "No applicable Jain primary text",
+      "author": "N/A",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "The topic concerns a modern nation-state (New Zealand) and does not correspond to any Jain canonical text. In accordance with the architecture rules, when a topic falls outside Jain scripture, the primary_sources field is populated with a placeholder indicating that no canonical passage is relevant."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "New Zealand is part of Australia.",
+      "reality": "New Zealand is an independent sovereign nation with its own government, legal system, and cultural heritage. Although geographically close and historically connected, it has never been part of Australia."
+    },
+    {
+      "myth": "New Zealand is small and geographically uniform.",
+      "reality": "Despite its modest population, New Zealand has highly varied geography, including active volcanoes, glaciers, fjords, plains, and subtropical forests."
+    },
+    {
+      "myth": "Māori culture is only a historical element.",
+      "reality": "Māori culture is a living, evolving part of New Zealand’s national identity, influencing language, governance, education, and the arts."
+    }
+  ]
+}

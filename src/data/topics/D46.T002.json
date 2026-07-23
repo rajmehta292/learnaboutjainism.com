@@ -1,0 +1,47 @@
+{
+  "overview": "Jainism and Hindu traditions share a long, intertwined history on the Indian subcontinent, marked by philosophical dialogue, cultural exchange, and distinct religious identities. Although both traditions emerged within the broader landscape of ancient Indian thought, Jainism maintains its status as an independent śramaṇa tradition with its own cosmology, ethics, and path to liberation. Hindu traditions, diverse and expansive, encompass Vedic ritualism, Upanishadic philosophy, devotional movements, and later theological developments. Their interactions with Jainism have shaped literature, ritual practices, social norms, and regional cultures.\n\nHistorically, Jainism predates or parallels early Vedic religion, with references to *nirgrantha* ascetics appearing in early Brahmanical texts. Jain communities developed robust monastic institutions, lay ethics, and philosophical systems that often engaged critically with Hindu schools such as Sāṅkhya, Nyāya, Vaiśeṣika, and Vedānta. Despite differences—such as Jainism’s rejection of a creator deity, its unique doctrine of *jīva* and *ajīva*, and its detailed karma theory—both traditions share concepts like rebirth, liberation (*mokṣa*), and nonviolence (*ahiṃsā*), though interpreted differently.\n\nCulturally, Jain and Hindu communities have coexisted for millennia, influencing art, architecture, language, and regional customs. Temples in Gujarat, Rajasthan, Karnataka, and Tamil Nadu often show shared aesthetic elements while preserving distinct iconographic rules. Philosophically, Jain thinkers such as Umāsvāti, Kundakunda, and Haribhadra engaged Hindu systems through comparative treatises, contributing to India’s intellectual pluralism. Modern scholarship emphasizes that Jainism is not a sect of Hinduism but a parallel and independent tradition that has interacted with Hindu thought in complex ways.\n\nToday, Jainism and Hindu traditions continue to coexist, sometimes sharing festivals, ethical values, and cultural spaces, while maintaining clear doctrinal boundaries. Understanding their relationship requires careful attention to primary texts, historical context, and the diversity within both traditions.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Nonviolence is the supreme dharma.",
+      "notes": "Although widely quoted in Jain and Hindu contexts, this aphorism appears in later Jain commentarial traditions and inscriptions. The *Tattvārthasūtra* itself is a foundational Jain text accepted across major sects and provides a systematic outline of Jain metaphysics, ethics, and liberation. Its discussions of karma, cosmology, and conduct often contrast with or respond to Brahmanical philosophical systems."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to early Jain monastic compilers",
+      "original_text": "णं च देवं पज्झवइ",
+      "transliteration": "ṇaṃ ca devaṃ pajjhavaï",
+      "translation": "He does not pray to a god.",
+      "notes": "This passage describes the conduct of a Jain mendicant and highlights the tradition’s non-theistic orientation. It is often cited in discussions contrasting Jain monastic practice with Vedic ritualism and devotional worship."
+    },
+    {
+      "title": "Bhagavatī Sūtra",
+      "author": "Śvetāmbara canonical compilers",
+      "original_text": "एवं हि महावीरं पृच्छन्ति ब्राह्मणा",
+      "transliteration": "evaṃ hi Mahāvīraṃ pṛcchanti brāhmaṇā",
+      "translation": "Thus the Brahmins questioned Mahāvīra.",
+      "notes": "This text records dialogues between Mahāvīra and various interlocutors, including Brahmins. These exchanges illustrate early interactions between Jain ascetics and Vedic practitioners, revealing doctrinal debates on karma, ritual, and liberation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism is a sect or offshoot of Hinduism.",
+      "reality": "Jainism is an independent śramaṇa tradition with its own scriptures, cosmology, and path to liberation. While Jain and Hindu communities have interacted for millennia, Jainism is not derived from Vedic religion."
+    },
+    {
+      "myth": "Jains worship Hindu gods and therefore follow Hindu theology.",
+      "reality": "Jainism is non-theistic and does not posit a creator god. While some Jains participate in regional cultural practices involving Hindu deities, Jain theology centers on liberated beings (*tīrthaṅkaras*) and the path of self-effort."
+    },
+    {
+      "myth": "Ahiṃsā has the same meaning in Jainism and Hindu traditions.",
+      "reality": "Although both traditions value nonviolence, Jainism interprets *ahiṃsā* with far stricter implications, extending to microscopic life forms and influencing diet, professions, and monastic conduct in ways distinct from Hindu interpretations."
+    },
+    {
+      "myth": "Shared festivals like Diwali mean the traditions are the same.",
+      "reality": "Diwali has different meanings across traditions. For Jains, it marks Mahāvīra’s liberation (*nirvāṇa*), whereas Hindu traditions associate it with narratives such as Rāma’s return to Ayodhya or Lakṣmī worship."
+    }
+  ]
+}

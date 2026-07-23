@@ -1,0 +1,35 @@
+{
+  "overview": "Concept appropriation refers to the process by which ideas, symbols, practices, or philosophical categories originating within one cultural, religious, or intellectual tradition are adopted, repurposed, or reinterpreted by another tradition—often without full acknowledgment of the original context or without maintaining the integrity of the source meaning. In Jain studies, the term is used descriptively rather than normatively: it helps scholars analyze how Jain philosophical categories (such as ahiṃsā, anekāntavāda, or karma theory) are borrowed, reframed, or selectively adapted in other religious, academic, or popular settings.\n\nWithin the broader humanities, concept appropriation is studied as a phenomenon of cultural exchange, translation, and sometimes distortion. It can occur through historical contact, comparative philosophy, colonial-era scholarship, modern interfaith dialogue, or global popular culture. Appropriation may be neutral, beneficial, or problematic depending on whether the borrowed concept is accurately represented, whether its ethical or metaphysical structure is preserved, and whether the originating community is recognized.\n\nIn Jain contexts, scholars often examine how Jain categories were appropriated by Buddhist, Brahmanical, or modern Western philosophical frameworks. For example, the Jain doctrine of anekāntavāda has been selectively reframed as a general theory of relativism, even though primary texts present it as a disciplined epistemological method grounded in nonviolence and karmic ontology. Similarly, ahiṃsā is sometimes appropriated as a broad ethical ideal without its rigorous ascetic, cosmological, and karmic dimensions. Concept appropriation thus becomes a tool for analyzing how ideas travel, how they change, and how traditions negotiate identity and continuity.\n\nThe study of concept appropriation also highlights the importance of returning to primary sources, understanding doctrinal nuance, and distinguishing between faithful adaptation and interpretive overreach. It encourages careful attention to linguistic, historical, and sectarian contexts so that Jain concepts are not flattened or misrepresented when used outside their original frameworks.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अनेकान्तात् स्याद्वादः",
+      "transliteration": "anekāntāt syādvādaḥ",
+      "translation": "“From non-one-sidedness arises the doctrine of conditioned predication.”",
+      "notes": "This brief aphorism is frequently referenced when discussing how anekāntavāda and syādvāda are interpreted or appropriated in later traditions. Modern presentations sometimes reduce anekāntavāda to relativism, but the text situates it within a precise epistemological and metaphysical system."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "जिवा दया सव्वेसिं",
+      "transliteration": "jivā dayā savvesiṃ",
+      "translation": "“Compassion for all living beings.”",
+      "notes": "This passage is foundational for Jain understandings of ahiṃsā. Modern appropriations often emphasize compassion but omit the text’s detailed analysis of life forms, karmic consequences, and ascetic obligations."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Concept appropriation is always harmful or disrespectful.",
+      "reality": "Appropriation can be neutral or even constructive when it involves accurate representation, contextual awareness, and acknowledgment of the originating tradition. Problems arise when concepts are distorted, oversimplified, or detached from their doctrinal foundations."
+    },
+    {
+      "myth": "Anekāntavāda is simply a form of relativism adopted by modern thinkers.",
+      "reality": "Primary Jain sources present anekāntavāda as a disciplined epistemological method rooted in karmic ontology and nonviolence. Modern relativistic interpretations often appropriate the term while omitting its metaphysical structure."
+    },
+    {
+      "myth": "Ahiṃsā can be fully understood without reference to Jain cosmology or ascetic practice.",
+      "reality": "Ahiṃsā in Jainism is inseparable from detailed classifications of life forms, karmic theory, and monastic discipline. Popular appropriations frequently highlight compassion while overlooking these foundational elements."
+    }
+  ]
+}

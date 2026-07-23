@@ -1,0 +1,65 @@
+{
+  "overview": "Paul Dundas (1952–2023) was a British Indologist and one of the most influential modern scholars of Jainism and Prakrit studies. Trained in Sanskrit and Middle Indo-Aryan philology, he spent the bulk of his academic career at the University of Edinburgh, where he served as senior lecturer in Sanskrit and later as Head of Asian Studies, eventually becoming an honorary fellow in Sanskrit. His work combined close reading of primary texts with historical and sociological sensitivity, making him a central figure in the global academic study of Jain traditions.\n\nDundas’s most widely known book, \"The Jains\" (first published in 1992 and revised in 2002), quickly became—and remains—one of the standard English-language introductions to Jainism. In this volume he presents the history, doctrines, sectarian developments, ritual practices, and social contexts of Jain communities, drawing on both Śvetāmbara and Digambara sources. The book is notable for its careful attention to non-violence (ahiṃsā), anekāntavāda (the doctrine of non-one-sidedness), karma theory, and the lived realities of Jain laypeople and ascetics, while consistently distinguishing descriptive scholarship from internal theological claims.  [[0]](https://en.wikipedia.org/wiki/Paul_Dundas) [[1]](https://www.soas.ac.uk/sites/default/files/2024-02/Cort%20IJJS%2020%2C%201%202024%20Print%201%20%283%29_0.pdf)\n\nBeyond this synthetic introduction, Dundas produced specialized studies that reshaped understanding of Jain history and sectarianism. His monograph \"History, Scripture and Controversy in a Medieval Jain Sect\" (2007) offers a detailed examination of medieval Śvetāmbara sectarian debates, scriptural authority, and the dynamics of reform and continuity. Earlier, he had worked on the Sattasaī and its commentators, contributing to the study of Prakrit literature, and he wrote influential articles on topics such as the nature of the kevalin (omniscient being), the Digambara Jain warrior, and the so‑called \"dark age\" of Jainism between major imperial formations.  [[1]](https://www.soas.ac.uk/sites/default/files/2024-02/Cort%20IJJS%2020%2C%201%202024%20Print%201%20%283%29_0.pdf) [[2]](https://en.bharatpedia.org/wiki/Paul_Dundas)\n\nDundas also engaged deeply with broader Sanskrit literary culture. His edition and translation of Māgha’s \"Śiśupālavadha\" (\"The Killing of Shishupala\") for the Murty Classical Library of India (2017) demonstrated his mastery of classical Sanskrit poetics and his commitment to making complex texts accessible to modern readers. He contributed numerous encyclopedia entries, book chapters, and articles on major Jain authors such as Haribhadra, Hemacandra, Yaśovijaya, and Kundakunda, and co‑edited \"Brill’s Encyclopedia of Jainism\" (2020), which has become a key reference work for scholars and students alike.  [[1]](https://www.soas.ac.uk/sites/default/files/2024-02/Cort%20IJJS%2020%2C%201%202024%20Print%201%20%283%29_0.pdf) [[3]](https://www.soas.ac.uk/about/news/paul-dundas-1952-2023)\n\nWithin institutional and scholarly networks, Dundas served on the Council of the Pali Text Society and was closely associated with the Centre of Jaina Studies (CoJS) at SOAS, University of London, where he acted as an external adviser for many years. In recognition of his contributions to Prakrit and Jain studies, he received the Prakrit Jñānabhāratī International Award in 2019. Colleagues remember him not only for his erudition and breadth of reading across Sanskrit and Prakrit literature, but also for his generosity, humor, and willingness to mentor younger scholars. His death in 2023 was widely felt as a major loss to the field of Jain studies and Indology more broadly.  [[3]](https://www.soas.ac.uk/about/news/paul-dundas-1952-2023) [[2]](https://en.bharatpedia.org/wiki/Paul_Dundas)\n\nFor students of Jainism, Dundas’s work is especially important because it models a careful, source‑grounded approach that respects internal Jain perspectives while maintaining critical academic distance. He consistently foregrounded primary texts—canonical scriptures, commentaries, narrative literature, and sectarian treatises—while situating them within historical processes and social realities. As a result, his writings are frequently recommended as starting points for serious study of Jain philosophy, ethics, ritual, and community life, across both Digambara and Śvetāmbara traditions.",
+  "primary_sources": [
+    {
+      "title": "The Jains",
+      "author": "Paul Dundas",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "A comprehensive English-language monograph introducing Jain history, doctrine, sects, practices, and social contexts, based on extensive engagement with Sanskrit and Prakrit sources.",
+      "notes": "First published in 1992 in the Library of Religious Beliefs and Practices series (Routledge), with a revised and enlarged edition in 2002. Widely regarded as a standard academic introduction to Jainism and frequently cited in both teaching and research.  [[0]](https://en.wikipedia.org/wiki/Paul_Dundas) [[1]](https://www.soas.ac.uk/sites/default/files/2024-02/Cort%20IJJS%2020%2C%201%202024%20Print%201%20%283%29_0.pdf)"
+    },
+    {
+      "title": "History, Scripture and Controversy in a Medieval Jain Sect",
+      "author": "Paul Dundas",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "An English-language study analyzing medieval Śvetāmbara Jain sectarian debates, scriptural authority, and the dynamics of reform and continuity.",
+      "notes": "Published by Routledge in 2007 (paperback edition 2012). The work focuses on a specific medieval Jain sect but has broader implications for understanding how religious communities negotiate canon, authority, and internal disagreement.  [[0]](https://en.wikipedia.org/wiki/Paul_Dundas) [[1]](https://www.soas.ac.uk/sites/default/files/2024-02/Cort%20IJJS%2020%2C%201%202024%20Print%201%20%283%29_0.pdf)"
+    },
+    {
+      "title": "Magha’s Śiśupālavadha (The Killing of Shishupala)",
+      "author": "Māgha; edited and translated by Paul Dundas",
+      "original_text": "Selected verses in classical Sanskrit, e.g. \"śrīr nārāyaṇam āśritā\" (illustrative only, not a full citation).",
+      "transliteration": "śrīr nārāyaṇam āśritā",
+      "translation": "“Fortune has taken refuge in Nārāyaṇa.” (Illustrative line; the volume contains a full critical edition and English translation of the mahākāvya.)",
+      "notes": "Published in the Murty Classical Library of India by Harvard University Press in 2017. Although primarily a Sanskrit literary text rather than a Jain scripture, Dundas’s work on it showcases his broader philological expertise and contributes to understanding the cultural milieu in which Jain and non-Jain Sanskrit authors interacted.  [[0]](https://en.wikipedia.org/wiki/Paul_Dundas) [[1]](https://www.soas.ac.uk/sites/default/files/2024-02/Cort%20IJJS%2020%2C%201%202024%20Print%201%20%283%29_0.pdf)"
+    },
+    {
+      "title": "Brill’s Encyclopedia of Jainism",
+      "author": "Co-edited by Paul Dundas, John E. Cort, Knut A. Jacobsen, and Kristi L. Wiley",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "English-language reference work containing scholarly entries on Jain history, doctrine, texts, practices, and communities.",
+      "notes": "Published by Brill in 2020. Dundas served as one of the co-editors and contributed entries, helping to shape a major reference tool for contemporary Jain studies.  [[1]](https://www.soas.ac.uk/sites/default/files/2024-02/Cort%20IJJS%2020%2C%201%202024%20Print%201%20%283%29_0.pdf)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Paul Dundas was a Jain religious authority or guru whose writings function as binding doctrinal rulings for Jain communities.",
+      "reality": "Dundas was an academic Indologist and philologist, not a Jain monk, guru, or sectarian leader. His works are scholarly analyses based on primary sources and historical methods; they are widely respected in universities and research circles but do not carry the status of scriptural or sectarian authority within Jain lineages. For religious rulings or practice decisions, Jains turn to their own ācāryas, monks, nuns, and community leaders."
+    },
+    {
+      "myth": "\"The Jains\" presents a single, definitive, uncontested view of Jainism that all Jain traditions accept without qualification.",
+      "reality": "While \"The Jains\" is a major, carefully researched introduction, it is still an academic synthesis that reports, compares, and analyzes multiple Jain perspectives. Dundas explicitly notes sectarian differences, historical debates, and areas of scholarly uncertainty. Jain communities may agree with much of his description but can hold their own internal interpretations and priorities that differ from academic framing."
+    },
+    {
+      "myth": "Dundas’s focus on history and controversy implies that Jainism is primarily a religion of internal disputes and fragmentation.",
+      "reality": "Dundas examined controversies and sectarian debates to illuminate how Jain communities negotiate scripture, authority, and reform, but he also highlighted continuity in core ethical commitments such as ahiṃsā, the centrality of the Tīrthaṅkaras, and shared ritual and philosophical frameworks. His work shows both diversity and coherence within Jain traditions, rather than reducing Jainism to conflict."
+    },
+    {
+      "myth": "Because Dundas wrote in English and worked in European institutions, his scholarship is detached from Jain primary sources and traditional learning.",
+      "reality": "Dundas’s research is grounded in extensive engagement with Sanskrit and Prakrit texts, commentaries, and sectarian literature, and he interacted closely with other specialists in Jain and Buddhist philology. His contributions bridge traditional textual study and modern academic methods, making primary materials accessible to a wider audience without abandoning rigorous attention to original languages and contexts."
+    }
+  ]
+}
+
+
+
+> [0] [Paul Dundas - Wikipedia](https://en.wikipedia.org/wiki/Paul_Dundas)
+>
+> [1] [PAUL DUNDAS: BIBLIOGRAPHY](https://www.soas.ac.uk/sites/default/files/2024-02/Cort%20IJJS%2020%2C%201%202024%20Print%201%20%283%29_0.pdf)
+>
+> [2] [Paul Dundas - Bharatpedia](https://en.bharatpedia.org/wiki/Paul_Dundas)
+>
+> [3] [Paul Dundas, 1952–2023 | SOAS](https://www.soas.ac.uk/about/news/paul-dundas-1952-2023)

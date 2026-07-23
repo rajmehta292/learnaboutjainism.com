@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain ontology, **ākāśa** (space) is one of the six fundamental dravyas (substances) that constitute reality. It is defined as the all-pervasive, non-material expanse that accommodates and provides room for the existence and movement of other substances. Unlike Western metaphysical notions of space as an abstract container or a geometric construct, Jain thought treats ākāśa as a real, eternal, and independent substance with its own characteristics.\n\nJainism divides ākāśa into two major categories: **lokākāśa** (the space of the cosmos) and **alokākāśa** (the infinite space beyond the cosmos). Lokākāśa is finite and contains all other dravyas—jīva (souls), pudgala (matter), dharma (medium of motion), adharma (medium of rest), and kāla (time). Alokākāśa, by contrast, is infinite and empty, containing no other substances. This distinction is central to Jain cosmology, which envisions a structured universe suspended within an infinite void.\n\nĀkāśa is characterized by **accommodating capacity (avagāha-guṇa)**. It does not obstruct or interact with other substances; instead, it allows them to exist and move. It is eternal, without beginning or end, and is not subject to karmic transformation. Jain philosophers emphasize that ākāśa is not a causal agent—it does not produce, modify, or destroy anything. Its sole function is to provide room.\n\nWithin lokākāśa, Jain texts further describe subdivisions such as **uttarārdha** (upper world), **madhya-loka** (middle world), and **adho-loka** (lower world). These regions are spatially organized within ākāśa and host different classes of beings. Thus, ākāśa is not merely an abstract concept but a foundational element of Jain cosmography, shaping the structure of the universe and the placement of all living and non-living entities.\n\nPhilosophically, ākāśa illustrates Jainism’s commitment to a pluralistic realism in which each dravya has its own intrinsic nature (svabhāva) and function. Space is neither reducible to matter nor dependent on consciousness. It is one of the eternal building blocks of reality, coexisting with other substances without interference. This view supports the Jain doctrine of **anekāntavāda**, acknowledging multiple aspects of truth and the irreducible diversity of existence.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmī (traditionally attributed)",
+      "original_text": "आकाशः अवगाहस्थानम्",
+      "transliteration": "ākāśaḥ avagāhasthānam",
+      "translation": "Space is that which provides room (for other substances).",
+      "notes": "Tattvārtha Sūtra 5.1 defines ākāśa succinctly. Commentaries from both Digambara and Śvetāmbara traditions agree that its primary function is accommodation, not motion or support."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Ācārya Nemicandra",
+      "original_text": "अवगाहो गुणो यस्य तदाकाशं द्रव्यं",
+      "transliteration": "avagāho guṇo yasya tad ākāśaṃ dravyam",
+      "translation": "That substance whose quality is accommodation is called space.",
+      "notes": "Dravyasaṃgraha verse 29 elaborates on the defining quality of ākāśa and distinguishes lokākāśa from alokākāśa."
+    },
+    {
+      "title": "Gommatasāra (Jīvakāṇḍa)",
+      "author": "Ācārya Nemicandra",
+      "original_text": "लोकालोकविभागोऽस्य स्वभावः",
+      "transliteration": "lokāloka-vibhāgo'sya svabhāvaḥ",
+      "translation": "Its nature consists in the division between the cosmos and the non-cosmos.",
+      "notes": "This passage highlights the fundamental cosmological division within ākāśa, central to Jain universe-structure."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Ākāśa is identical to the modern scientific concept of physical space or vacuum.",
+      "reality": "In Jainism, ākāśa is a real, eternal substance with the specific function of accommodation. It is not reducible to physical vacuum, spacetime geometry, or an absence of matter."
+    },
+    {
+      "myth": "Ākāśa interacts with or influences other substances.",
+      "reality": "Jain texts consistently state that ākāśa does not cause motion, rest, or transformation. It merely provides room; dharma and adharma are the mediums of motion and rest."
+    },
+    {
+      "myth": "Alokākāśa contains hidden worlds or spiritual realms.",
+      "reality": "Alokākāśa is explicitly described as empty and devoid of all other substances. It contains no souls, no matter, and no cosmological structures."
+    }
+  ]
+}

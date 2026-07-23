@@ -1,0 +1,43 @@
+{
+  "overview": "Right livelihood (samyak‑ājīva or sammā‑ājīva) is one of the core components of the Jain ethical framework for both ascetics and laypeople. In Jainism, livelihood is inseparable from the broader commitment to ahiṃsā (non‑violence), satya (truthfulness), and aparigraha (non‑possessiveness). The term appears across Śvetāmbara and Digambara canonical and post‑canonical literature, where it is treated not merely as an economic guideline but as a spiritual discipline shaping karmic inflow (āsrava) and restraint (saṃvara).\n\nFor mendicants, right livelihood is defined in highly restrictive terms: they must not engage in any form of trade, ownership, or economic activity. Their livelihood is sustained through regulated alms, and the purity of this practice is governed by detailed rules in the Ācāra corpus. For householders, right livelihood is framed as ethical participation in society—earning wealth without causing direct or indirect harm to living beings, avoiding deceit, and refraining from professions that inherently violate ahiṃsā.\n\nAcross traditions, right livelihood is linked to karmic theory: professions involving violence, exploitation, or falsehood generate heavy paāp karma, while livelihoods grounded in honesty, minimal harm, and restraint support spiritual progress. Commentarial literature emphasizes that livelihood is not judged solely by the profession itself but also by intention, method, and the degree of harm caused. Modern Jain teachers extend the principle to contemporary contexts such as industrial production, environmental impact, and digital ethics, while maintaining continuity with canonical foundations.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्ज्ञानदर्शनचारित्राणि मोक्षमार्गः ।",
+      "transliteration": "samyag‑jñāna‑darśana‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right knowledge, right faith, and right conduct constitute the path to liberation.",
+      "notes": "While the sūtra does not list right livelihood separately, Digambara and Śvetāmbara commentaries (Tier B) place livelihood under the broader category of right conduct (samyak‑cāritra). The commentarial tradition explains that householders must avoid trades involving weapons, fire, animal slaughter, and deceit."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Attributed to early Jain community; redactional layers",
+      "original_text": "अहिंसा परमो धर्मः ।",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non‑violence is the supreme dharma.",
+      "notes": "Although this famous line is often cited, the text contains detailed prescriptions on mendicant livelihood, prohibiting possession, trade, or economic activity. These rules form the foundation for defining right livelihood for monks and nuns."
+    },
+    {
+      "title": "Śrāvakācāra texts (e.g., Ratnakaraṇḍa Śrāvakācāra)",
+      "author": "Samantabhadra (Digambara)",
+      "original_text": "अहिंसादानविरतिः श्रावकाचारः ।",
+      "transliteration": "ahiṃsā‑dāna‑viratiḥ śrāvakācāraḥ",
+      "translation": "Non‑violence, charity, and restraint constitute the conduct of a lay follower.",
+      "notes": "The text elaborates specific forbidden livelihoods for laypeople, including professions involving slaughter, weapon‑making, and deceitful trade. It is one of the most cited Digambara sources for defining right livelihood."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Right livelihood in Jainism only prohibits violent professions.",
+      "reality": "Canonical and commentarial sources also prohibit livelihoods involving deceit, exploitation, excessive possession, or indirect harm. Ethical livelihood includes intention, method, and the broader karmic impact."
+    },
+    {
+      "myth": "Laypeople must follow the same livelihood rules as monks.",
+      "reality": "Mendicants follow absolute renunciation and cannot engage in any economic activity. Laypeople follow moderated rules that allow earning a living while minimizing harm and practicing honesty."
+    },
+    {
+      "myth": "Modern professions are not covered by traditional Jain teachings.",
+      "reality": "While ancient texts list traditional trades, the underlying principles—ahiṃsā, satya, and aparigraha—are applied by contemporary Jain teachers to modern fields such as finance, technology, medicine, and manufacturing."
+    }
+  ]
+}

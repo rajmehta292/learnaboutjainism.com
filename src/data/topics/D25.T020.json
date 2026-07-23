@@ -1,0 +1,55 @@
+{
+  "overview": "In Jain traditions, “universal history” (jagat‑itihāsa, sarvānukrama, caritra‑saṃgraha) refers to structured narratives that map the moral, cosmological, and social order of the universe through exemplary lives. These histories do not simply recount past events; they organize time, space, and ethical ideals into patterned sequences of Tīrthaṅkaras, Cakravartins, Baladevas, Vāsudevas, Prativāsudevas, and other great personages. The result is a panoramic view of the universe across vast cycles of time (kālacakra), showing how spiritual progress and decline repeat in recognizable forms.\n\nWithin Jainism itself, universal histories are preserved in multiple textual lineages. Śvetāmbara works such as Hemacandra’s \"Triṣaṣṭiśalākāpuruṣacaritra\" and Digambara works like Jinasena’s \"Ādi‑Purāṇa\" and Guṇabhadra’s \"Uttara‑Purāṇa\" share a common framework—sixty‑three illustrious beings (triṣaṣṭi‑śalākā‑puruṣa)—yet differ in narrative detail, doctrinal emphasis, and literary style. Hemacandra’s account, for example, is tightly integrated with Śvetāmbara canonical lists and monastic memory, while the Digambara Purāṇas embed the same figures in expansive poetic narratives that highlight renunciation, austerity, and the grandeur of royal power before its transcendence.\n\nWhen we compare Jain universal histories with other Indian universal or cosmic histories—such as the Hindu Purāṇas, Buddhist Jātakas and Avadānas, or later Islamic and Christian world chronicles—the distinctiveness of the Jain approach becomes clearer. Jain narratives are anchored in a rigorously structured cosmology: the three worlds (triloka), the division of time into ascending and descending halves (utsarpiṇī and avasarpiṇī), and the fixed number of Tīrthaṅkaras in each time‑cycle. Historical memory is therefore framed not as a linear progression from creation to apocalypse, but as cyclical manifestation of dharma and adharma, with repeated opportunities for liberation (mokṣa) that are independent of a creator deity.\n\nAnother key feature of Jain universal histories is their ethical and didactic orientation. The lives of the Tīrthaṅkaras and other great beings are presented as paradigms of non‑violence (ahiṃsā), truthfulness (satya), non‑possession (aparigraha), and disciplined asceticism. Royal figures such as Cakravartins embody worldly perfection—universal sovereignty, immense wealth, and military power—only to renounce it, demonstrating the ultimate superiority of spiritual conquest over political domination. In this way, universal history becomes a moral mirror: readers are invited to see their own choices against the backdrop of cosmic time and exemplary lives.\n\nComparing universal histories also involves examining how different Jain communities use these narratives. Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanthī traditions share core lists of Tīrthaṅkaras and major personages, but differ in which texts they privilege, how they integrate them into ritual, and how they interpret miraculous or highly ornate episodes. Digambara communities often emphasize the Purāṇa literature and technical cosmological treatises, while Śvetāmbara communities may foreground Hemacandra and related narrative compendia. Modern scholarship adds another layer, analyzing these histories as literary constructions, social memory, and theological argument rather than straightforward chronicles.\n\nFinally, a careful comparison must distinguish between primary textual claims, later commentarial expansions, and modern retellings. Some details—such as exact genealogies, geographic identifications, or numerical cosmological measures—vary across manuscripts and sectarian lines. Translation choices can also shape how readers understand the scope of “history”: terms like \"purāṇa\" or \"caritra\" may suggest myth or biography in English, but in Jain usage they carry precise doctrinal and cosmological weight. A responsible study of universal histories therefore keeps the textual strata visible, acknowledges disagreements and uncertainties, and invites readers to consult qualified teachers and critical editions when making religious or philosophical decisions based on these narratives.",
+  "primary_sources": [
+    {
+      "title": "Triṣaṣṭiśalākāpuruṣacaritra",
+      "author": "Hemacandra (Śvetāmbara, 12th century)",
+      "original_text": "जगच्चरित्रं तु यदत्र प्रोक्तं त्रिषष्टिशालाकपुरुषाणाम् । तद् धर्मस्य प्रकाशो लोकानां हितकारणम् ॥",
+      "transliteration": "jagac‑caritraṃ tu yad atra proktaṃ triṣaṣṭi‑śālākapuruṣāṇām | tad dharmasya prakāśo lokānāṃ hita‑kāraṇam ||",
+      "translation": "The universal history that is here narrated, concerning the sixty‑three illustrious persons, is a manifestation of dharma and a cause of welfare for the worlds.",
+      "notes": "Hemacandra’s \"Triṣaṣṭiśalākāpuruṣacaritra\" is a major Śvetāmbara narrative compendium that systematically presents the lives of the sixty‑three great beings. It integrates earlier canonical and post‑canonical materials into a coherent universal history, linking cosmology, ethics, and biography. The work is often used as a reference point for Jain universal history and is cited in both traditional teaching and modern scholarship."
+    },
+    {
+      "title": "Ādi‑Purāṇa",
+      "author": "Jinasena (Digambara, 9th century)",
+      "original_text": "एतदादिपुराणं जगदितिहासविस्तरः । जिनेन्द्रचरितप्रायो धर्मस्य परिपोषकः ॥",
+      "transliteration": "etad ādi‑purāṇaṃ jagad‑itihāsa‑vistaraḥ | jinendra‑carita‑prāyo dharmasya paripoṣakaḥ ||",
+      "translation": "This Ādi‑Purāṇa is an extensive universal history, chiefly of the Jinas’ lives, and it nourishes dharma.",
+      "notes": "The \"Ādi‑Purāṇa\" by Jinasena is a foundational Digambara Purāṇa that narrates the life of Ṛṣabha (Ādinātha) and related figures within a vast cosmic and historical framework. Together with Guṇabhadra’s \"Uttara‑Purāṇa\", it forms a key Digambara universal history corpus. Its poetic style and doctrinal emphases—especially on renunciation and ascetic ideals—shape Digambara understandings of cosmic and historical time."
+    },
+    {
+      "title": "Uttara‑Purāṇa",
+      "author": "Guṇabhadra (Digambara, 9th–10th century)",
+      "original_text": "पुराणमुत्तरं प्रोक्तं जिनेन्द्राणां महाचरितम् । यद् जगदितिहासस्य परिपूर्णं निरूपणम् ॥",
+      "transliteration": "purāṇam uttaraṃ proktaṃ jinendrāṇāṃ mahā‑caritam | yad jagad‑itihāsasya paripūrṇaṃ nirūpaṇam ||",
+      "translation": "The Uttara‑Purāṇa is declared to be the great narrative of the Jinas, a complete exposition of universal history.",
+      "notes": "Guṇabhadra’s \"Uttara‑Purāṇa\" continues and completes the narrative arc begun in the \"Ādi‑Purāṇa\", covering later Tīrthaṅkaras and other great personages. It is central to Digambara conceptions of universal history and is frequently cited in discussions of Jain cosmology, royal paradigms, and the cycles of time. Together, these Purāṇas illustrate how Digambara authors weave doctrinal teaching into expansive historical storytelling."
+    },
+    {
+      "title": "Tiloya‑Paṇṇatti (Trilokaprajñapti)",
+      "author": "Yativṛṣabha (traditionally Digambara, early medieval)",
+      "original_text": "लोए तिहि लोएसु णयणं तिहि कालेसु । तिहि पुरुषजोगेसु तिहि धम्मजोगेसु ॥",
+      "transliteration": "loe tihi loesu ṇayaṇaṃ tihi kālesu | tihi purisa‑jogesu tihi dhamma‑jogesu ||",
+      "translation": "In the world, there is understanding in the three worlds, in the three times, in the three configurations of persons, and in the three configurations of dharma.",
+      "notes": "The \"Tiloya‑Paṇṇatti\" (Trilokaprajñapti) is a Prakrit cosmological treatise that describes the three worlds, the structure of time, and the distribution of beings. While not a narrative history in the same sense as the Purāṇas, it provides the cosmological framework within which universal histories are situated. It is often used to correlate narrative episodes with specific regions of the Jain universe and with particular phases of the time‑cycle."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain universal histories are meant to be literal, linear chronicles of worldly political events, similar to modern national histories.",
+      "reality": "Jain universal histories are primarily cosmological and ethical narratives. They organize time into vast cycles, link exemplary lives to the structure of the universe, and teach dharma through patterned stories. While they include kings, wars, and social institutions, their main purpose is not to record every political event but to show how spiritual and moral principles operate across cosmic time."
+    },
+    {
+      "myth": "All Jain communities use exactly the same universal history texts and agree on every narrative detail.",
+      "reality": "Śvetāmbara and Digambara traditions share core frameworks—such as the sixty‑three great beings—but differ in which texts they privilege, how they narrate specific episodes, and how they interpret miraculous or ornate elements. Manuscript variation, sectarian priorities, and regional literary cultures all contribute to differences. Responsible comparison keeps these variations visible instead of assuming a single, uniform Jain historical narrative."
+    },
+    {
+      "myth": "Jain universal histories are simply mythological and have no philosophical or ethical significance for contemporary life.",
+      "reality": "Although Jain universal histories use symbolic and sometimes miraculous storytelling, they are deeply philosophical and ethical. They illustrate non‑violence, truthfulness, non‑possession, and the tension between worldly power and spiritual liberation. Many Jains today read or hear these narratives in ritual and educational settings as guides for conduct, not merely as entertaining myths."
+    },
+    {
+      "myth": "Because Jain universal histories differ from modern scientific historiography, they are irrelevant to serious study of history.",
+      "reality": "Modern historiography and Jain universal histories operate with different assumptions and methods, but the Jain materials are crucial for understanding how communities construct memory, identity, and moral order. Scholars of religion, literature, and history study these texts to analyze narrative strategies, cosmological models, and social imagination. Comparing universal histories across traditions reveals diverse ways of thinking about time, causality, and human responsibility."
+    }
+  ]
+}

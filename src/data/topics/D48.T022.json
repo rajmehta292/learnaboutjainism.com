@@ -1,0 +1,55 @@
+{
+  "overview": "Temple visits (derśan, ālaya‑yātrā) in Jain traditions are lay-oriented devotional and ethical practices centered on approaching a Jina image or shrine with reverence, mindfulness, and non-harm. While temple worship is not mandatory for all Jain lineages, it is a major feature of Śvetāmbara Mūrti-pūjaka and Digambara communities, and a point of doctrinal distinction with Sthānakavāsī and Terāpanth traditions, which emphasize non‑iconic devotion.\n\nHistorically, temple visits developed alongside the rise of image worship (mūrti‑pūjā) between the early centuries CE and the medieval period. Archaeological evidence from Mathura, Aihole, Shravanabelagola, and Mount Abu shows that temples became centers for ritual, learning, manuscript preservation, and community gatherings. Temple visits typically include preparatory mental purification, physical cleanliness, and mindful conduct to avoid harm to living beings. Laypeople often perform pradakṣiṇā (circumambulation), offer flowers or rice (in Śvetāmbara practice), and engage in sāmāyika or pratikramaṇa in the temple precincts.\n\nThe purpose of a temple visit is not to seek blessings from the Jina—who is beyond intervention—but to cultivate inner virtues such as equanimity, humility, and non-attachment. The Jina image functions as a visual reminder of perfected qualities (guṇa-smaraṇa). Temple visits also serve social and educational roles, providing spaces for scriptural recitation, ethical instruction, and community festivals such as Paryuṣaṇa, Daśalakṣaṇa, and Mahāvīra Jayantī.\n\nDifferent Jain traditions interpret temple visits through their own doctrinal lenses. Digambara texts emphasize darśana of the Jina as a meritorious act (puṇya) that supports right faith (samyak-darśana). Śvetāmbara Mūrti-pūjaka manuals detail ritual sequences such as snātra-pūjā, ārtī, and abhiṣeka. Sthānakavāsī and Terāpanth traditions, while rejecting image worship, still maintain the value of visiting upāśrayas (non-iconic prayer halls) for meditation, scriptural study, and ethical reflection.\n\nAcross traditions, temple visits remain a central lay practice aimed at reinforcing ethical discipline, community identity, and remembrance of the Jina’s path to liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "देवदर्शनानन्तरं पुण्यं",
+      "transliteration": "devadarśanānantaraṃ puṇyaṃ",
+      "translation": "After the sight of the deva (Jina image), merit arises.",
+      "notes": "Tattvārtha Sūtra 6.23 (Tier A). The term ‘deva’ here refers to the Jina, not a deity. Commentaries (Tier B) clarify that darśana is meritorious because it strengthens right faith, not because the Jina grants boons."
+    },
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (attributed)",
+      "original_text": "दंसणं नाम पुण्णस्स कारणं",
+      "transliteration": "daṃsaṇaṃ nāma puṇṇassa kāraṇaṃ",
+      "translation": "Darśana is indeed a cause of merit.",
+      "notes": "A foundational Śvetāmbara text (Tier A/B). Used in temple contexts during pratikramaṇa and daily observances. The passage frames darśana as a mental purification practice."
+    },
+    {
+      "title": "Mūlācāra",
+      "author": "Vattakera",
+      "original_text": "देवालये सम्यक् भावेन प्रविशेत्",
+      "transliteration": "devālaye samyak bhāvena praviśet",
+      "translation": "One should enter the temple with proper attitude.",
+      "notes": "A Digambara monastic code (Tier A). Although directed at monks, later Digambara lay manuals adapt its guidance for respectful conduct during temple visits."
+    },
+    {
+      "title": "Pratiṣṭhā-sāroddhāra (ritual manual)",
+      "author": "Traditional Śvetāmbara authors",
+      "original_text": "जिनप्रतिमा दर्शनं भावनां जनयति",
+      "transliteration": "jinapratimā darśanaṃ bhāvanāṃ janayati",
+      "translation": "The sight of the Jina image generates contemplative attitudes.",
+      "notes": "Tier B. A ritual commentary explaining the psychological purpose of temple visits: cultivating remembrance of the Jina’s qualities."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Temple visits are mandatory for all Jains.",
+      "reality": "Sthānakavāsī and Terāpanth traditions do not practice image worship and emphasize meditation halls instead. Even in Mūrti-pūjaka and Digambara traditions, temple visits are recommended but not doctrinally compulsory."
+    },
+    {
+      "myth": "Jina images grant blessings or intervene in worldly affairs.",
+      "reality": "Primary texts (Tattvārtha Sūtra 10.1) state that liberated beings do not act in the world. Temple visits cultivate inner virtues, not supernatural intervention."
+    },
+    {
+      "myth": "Temple rituals replace ethical conduct.",
+      "reality": "Jain texts consistently prioritize right conduct, non-harm, and self-discipline. Rituals are supportive practices, not substitutes for ethical living."
+    },
+    {
+      "myth": "Temple visits require elaborate offerings.",
+      "reality": "Offerings vary by tradition, and many communities emphasize simple, non-harmful acts such as recitation, meditation, and circumambulation."
+    }
+  ]
+}

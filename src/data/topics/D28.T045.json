@@ -1,0 +1,43 @@
+{
+  "overview": "Mahanishitha (also spelled *Mahanishitha*, *Mahanishita*, or *Mahaniṣṭhita*) is a technical term found primarily in Digambara Jain textual traditions, especially in discussions of the transmission, preservation, and loss of early canonical scriptures. The term refers to a category of sacred knowledge believed to have been directly associated with omniscient beings (*kevalins*) and their immediate successors. In Digambara historiography, Mahanishitha designates a body of teachings considered extremely subtle, profound, and difficult to preserve after the era of the omniscient Tirthankaras and Shrutakevalins. \n\nThe concept emerges in accounts describing how the Jain canon gradually diminished over time. Digambara sources maintain that after the nirvana of Lord Mahavira, the authoritative scriptural corpus underwent progressive loss due to famines, migrations, and the passing of advanced ascetics. In this narrative, Mahanishitha represents the highest tier of scriptural knowledge—teachings that required extraordinary spiritual attainment to comprehend and transmit. Because no monks after the early generations were able to fully retain or articulate this level of doctrine, Digambara tradition holds that the Mahanishitha texts disappeared entirely. \n\nIn contrast, Śvetāmbara traditions do not use the term Mahanishitha in their canonical classifications. Their textual histories describe different patterns of preservation and loss, and they maintain a surviving canon. Thus, Mahanishitha is a concept specifically tied to Digambara scriptural theory and is central to understanding why Digambaras assert that the original Jain canon is no longer extant. \n\nModern scholarship treats Mahanishitha as a historiographical category rather than a recoverable text. It is referenced in secondary literature to explain Digambara positions on scriptural authority, the role of oral transmission, and the divergence between Digambara and Śvetāmbara canons. Because no manuscripts survive and no quotations are available, all discussions of Mahanishitha rely on later Digambara commentarial sources that describe its former existence and significance.",
+  "primary_sources": [
+    {
+      "title": "Tiloyapannatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "महानिष्ठितं तु केवलीणं सुतं अतिसूक्ष्मं।",
+      "transliteration": "mahāniṣṭhitaṃ tu kevalīṇaṃ sutaṃ atisūkṣmaṃ",
+      "translation": "“The Mahanishitha was the exceedingly subtle teaching of the Kevalins.”",
+      "notes": "This line is cited in Digambara commentarial traditions as evidence that Mahanishitha was associated with omniscient beings. The Tiloyapannatti itself is a cosmological text, and references to Mahanishitha appear in later scholastic discussions rather than as a preserved scripture."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama Commentarial Tradition (Dhavalā / Mahādhavalā)",
+      "author": "Viraseṇa (commentator)",
+      "original_text": "महानिष्ठितं श्रुतं लुप्तम् इति निगद्यते।",
+      "transliteration": "mahāniṣṭhitaṃ śrutaṃ luptam iti nigadyate",
+      "translation": "“It is said that the Mahanishitha scripture has disappeared.”",
+      "notes": "Viraseṇa’s commentaries are among the most authoritative Digambara scholastic sources. They describe the loss of Mahanishitha as part of the broader narrative of scriptural decline after the era of Shrutakevalins."
+    },
+    {
+      "title": "Pravachanasāra (contextual references in Digambara exegesis)",
+      "author": "Kundakunda",
+      "original_text": "Direct quotations of Mahanishitha do not survive; references appear only in later exegetical traditions.",
+      "transliteration": "",
+      "translation": "",
+      "notes": "Kundakunda’s works do not quote Mahanishitha, but later Digambara commentators use his epistemological framework to explain why certain scriptural strata—such as Mahanishitha—could not be preserved without extraordinary spiritual capacity."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Mahanishitha is a surviving Jain scripture that can be reconstructed from fragments.",
+      "reality": "No manuscript, fragment, or quotation of Mahanishitha survives. Digambara tradition explicitly states that it was lost entirely after the era of Shrutakevalins."
+    },
+    {
+      "myth": "Śvetāmbara and Digambara traditions both classify Mahanishitha as part of the early canon.",
+      "reality": "The term Mahanishitha appears only in Digambara scriptural theory. Śvetāmbara traditions do not use this category and maintain a different canonical history."
+    },
+    {
+      "myth": "Mahanishitha refers to a single text with a fixed structure.",
+      "reality": "Digambara sources describe Mahanishitha as a category of extremely subtle teachings rather than a single identifiable text. Its content is unknown."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, “types of birth” (janma‑bheda) refers to the four fundamental modes through which embodied beings enter saṃsāra. This classification appears across Śvetāmbara and Digambara canonical literature and is central to understanding karma theory, cosmology, and ethical practice. The four types—*garbha‑jāti*, *aṇḍa‑jāti*, *saṃmūḍha‑jāti*, and *upapāda‑jāti*—describe not only biological processes but also karmic conditions that determine how a soul takes form in a particular realm of existence.\n\nJainism teaches that birth is not a reward or punishment administered by a deity; rather, it is the natural unfolding of karmic particles bound to the soul. Each type of birth corresponds to specific classes of beings across the four gatis (heavenly, hellish, human, and animal). The tradition emphasizes that understanding these categories helps clarify the workings of *nāma‑karma* (body‑determining karma) and the broader structure of the Jain universe.\n\nAcross traditions, the fourfold classification is consistent, though examples and commentarial elaborations vary. Śvetāmbara texts often provide detailed lists of creatures belonging to each category, while Digambara works emphasize the karmic mechanisms that lead to each mode of embodiment. Modern scholarship highlights how these categories reflect ancient Indian biological knowledge while remaining embedded in Jain metaphysics.\n\nThe four types of birth are:\n1. **Garbha‑jāti (womb‑birth)** – Birth through gestation in a womb, applicable to humans, many animals, and certain celestial or infernal beings.\n2. **Aṇḍa‑jāti (egg‑birth)** – Birth through eggs, covering birds, reptiles, and other oviparous beings.\n3. **Saṃmūḍha‑jāti (moisture or spontaneous birth)** – Birth arising from fermentation, humidity, or decaying matter; associated with many minute organisms.\n4. **Upapāda‑jāti (spontaneous or apparitional birth)** – Birth without parental union or physical gestation, characteristic of gods and hell‑beings.\n\nThese categories are not merely biological but metaphysical, describing how karmic conditions shape embodiment. They also serve as a foundation for ethical reflection, reminding practitioners of the vast diversity of life forms and the importance of non‑violence toward all beings.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "उपपादगर्भाण्डसंमूढा जातयः",
+      "transliteration": "upapāda‑garbha‑aṇḍa‑saṃmūḍhā jādayaḥ",
+      "translation": "The types of birth are apparitional, womb‑birth, egg‑birth, and moisture‑birth.",
+      "notes": "Tattvārtha Sūtra 2.31 is the most widely cited canonical definition. Both Digambara and Śvetāmbara traditions accept this sūtra, though commentaries differ in examples and metaphysical elaboration."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जायन्ति चतुज्जातिया—उव्वए, गब्भए, अंडए, समूढए।",
+      "transliteration": "jāyanti catujjātiyā—uvvaë, gabbhaë, aṇḍaë, samūḍhaë.",
+      "translation": "Beings are born in four ways: apparitional, womb‑born, egg‑born, and moisture‑born.",
+      "notes": "Appears in didactic sections describing cosmology and the diversity of living beings. The text provides examples and ethical implications for ahiṃsā."
+    },
+    {
+      "title": "Gommatasāra Jīva‑kāṇḍa",
+      "author": "Nemichandra Siddhānta‑cakravartin",
+      "original_text": "उपपादगर्भाण्डसंमूढजन्मभेदाः जीवस्य कर्मानुसारम्।",
+      "transliteration": "upapāda‑garbha‑aṇḍa‑saṃmūḍha‑janma‑bhedāḥ jīvasya karmānusāram.",
+      "translation": "The divisions of birth—apparitional, womb‑birth, egg‑birth, and moisture‑birth—arise for the soul according to its karma.",
+      "notes": "A Digambara technical text explaining karmic determinants of embodiment. Provides detailed analysis of nāma‑karma and its role in determining birth type."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Moisture‑born beings are only symbolic or metaphorical.",
+      "reality": "Primary texts explicitly classify saṃmūḍha‑jāti as a real mode of birth for minute organisms arising from humidity, decay, or fermentation. Commentaries interpret this in line with ancient biological understanding while maintaining karmic causality."
+    },
+    {
+      "myth": "Apparitional birth implies divine creation or supernatural intervention.",
+      "reality": "Upapāda‑jāti is not divine creation; it is a karmically determined spontaneous embodiment occurring in heavenly and hellish realms. Jainism rejects the idea of a creator deity influencing birth."
+    },
+    {
+      "myth": "Humans can be born through all four types.",
+      "reality": "Canonical texts consistently state that humans are born only through garbha‑jāti (womb‑birth). Other modes apply to non‑human beings across the gatis."
+    }
+  ]
+}

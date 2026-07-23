@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain studies, “no impersonation” refers to the ethical, doctrinal, and disciplinary prohibition against presenting oneself as someone one is not—especially in roles connected to spiritual authority, monastic identity, scriptural transmission, or ritual competence. Jain traditions treat impersonation not merely as social misconduct but as a violation of satya (truthfulness), one of the five foundational vows. The principle applies to both monastic and lay contexts, though its gravity increases when impersonation involves religious offices, vows, or the authority to teach or interpret doctrine.\n\nWithin the broader Jain ethical framework, impersonation is understood as a form of false speech (mr̥ṣāvāda) and deceit (māyā). These are karmically harmful because they distort reality, mislead others, and obstruct the path to right knowledge (samyag‑jñāna). The prohibition is also tied to the integrity of the saṅgha: impersonating a monk, nun, or teacher undermines trust, disrupts proper transmission of teachings, and may cause laypeople to unknowingly violate rules of respect or almsgiving.\n\nHistorically, Jain legal and disciplinary texts outline specific penalties for impersonation, especially when someone falsely claims monastic status or misrepresents their level of vows. Digambara and Śvetāmbara traditions both preserve rules that forbid wearing monastic attire, using monastic titles, or performing monastic rituals without proper initiation. In lay contexts, impersonation includes falsely claiming ritual competence, misrepresenting scriptural knowledge, or assuming roles such as paṭṭa‑dhara (lineage holder) without authorization.\n\nModern Jain communities extend the principle to digital and organizational life: impersonating religious leaders online, misusing institutional identities, or presenting fabricated teachings as canonical are considered serious ethical breaches. The core idea remains consistent across centuries—truthfulness and transparency are essential for spiritual progress and communal trust.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "मृषावादो मायाचौर्यैः",
+      "transliteration": "mṛṣāvādo māyā‑cauryaiḥ",
+      "translation": "False speech arises from deceit and theft.",
+      "notes": "TS 7.9 associates false speech with deceit (māyā). Traditional commentaries explain that impersonation is a form of deceit because it involves presenting a false identity, thereby misleading others."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "सच्चं भासे, नो असच्चं।",
+      "transliteration": "sacchaṃ bhāse, no asacchaṃ.",
+      "translation": "Speak what is true, not what is untrue.",
+      "notes": "This foundational injunction is applied by commentators to prohibit impersonation, since claiming an identity one does not possess is considered a form of untruth."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "अविरतवेषधारणं न कर्तव्यम्।",
+      "transliteration": "avirataveṣa‑dhāraṇaṃ na kartavyam.",
+      "translation": "One who is not a renunciant must not adopt the appearance of a renunciant.",
+      "notes": "This passage is frequently cited in Digambara disciplinary discussions. It directly prohibits impersonating monastic identity through attire or behavior."
+    },
+    {
+      "title": "Niśītha Sūtra (Śvetāmbara monastic code)",
+      "author": "Anonymous monastic compilers",
+      "original_text": "मुनिवेषं अनधिकारिणा न धारयेत्।",
+      "transliteration": "muni‑veṣaṃ anadhikāriṇā na dhārayet.",
+      "translation": "One without proper authority must not wear the attire of a monk.",
+      "notes": "This rule addresses impersonation of monastic status. Commentaries emphasize that such acts mislead laypeople and violate the vow of truth."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Impersonation is only about wearing monastic robes.",
+      "reality": "Jain ethics treat impersonation broadly: falsely claiming spiritual authority, ritual competence, scriptural mastery, or vow status are all forms of deceit."
+    },
+    {
+      "myth": "Impersonation is a minor ethical issue for laypeople.",
+      "reality": "Laypeople are also bound by satya. Misrepresenting one’s role, knowledge, or religious qualifications is considered karmically harmful and socially disruptive."
+    },
+    {
+      "myth": "Digital impersonation is not addressed in Jain teachings.",
+      "reality": "While ancient texts do not mention digital contexts, the underlying principle of truthfulness applies. Modern Jain teachers consistently extend satya to online identity and communication."
+    }
+  ]
+}

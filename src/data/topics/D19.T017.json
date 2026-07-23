@@ -1,0 +1,55 @@
+{
+  "overview": "Ekasana (Skt. *ekāsana*, Prakrit *egāsaṇa*) is a regulated dietary discipline in Jain lay practice in which a practitioner takes food only once per day, in a single sitting, without returning to eat again until the next day. It is classified as a voluntary vrata‑adjacent austerity rather than a monastic vow, and is practiced across Śvetāmbara and Digambara traditions with slight variations in rules and motivations. Ekasana is framed within the broader Jain ethic of minimizing harm (*ahiṃsā*), reducing attachment (*parigraha*), and cultivating mindfulness (*apramatta*). It is not a fast; it is a restriction of frequency and intentionality.\n\nIn classical sources, Ekasana is described as a layperson’s practice that supports mental steadiness, reduces the karmic influx associated with indulgence, and prepares the practitioner for more advanced observances such as *upavāsa* (fasting) or *rasaparityāga* (renunciation of particular tastes). The practice is always voluntary and must be adapted to health, age, and capacity. Traditional commentaries emphasize that Ekasana should be accompanied by ethical reflection, scriptural study, and non‑violence in food preparation.\n\nAcross sects, Ekasana is often performed on auspicious days such as *pañchami*, *aṣṭami*, *caturdaśi*, or during *Paryuṣaṇa* and *Daśalakṣaṇa*. Digambara manuals sometimes pair Ekasana with *pāṇiyāparimāṇa* (measured water intake), while Śvetāmbara texts emphasize purity of intention and avoidance of distraction during the single meal. Modern Jain teachers describe Ekasana as a way to cultivate restraint without entering the domain of prolonged fasting, which requires careful supervision and is subject to mandatory ethical and medical safeguards.\n\nHistorically, Ekasana appears in early canonical lists of lay austerities and continues to be taught in contemporary Jain educational materials. Its interpretation varies: some communities treat it as a mild austerity suitable for beginners, while others reserve it for experienced practitioners. All traditions agree that Ekasana must never compromise health, livelihood, or family responsibilities.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara Canon)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "“egāsaṇaṃ vā bhāsāsaṇaṃ vā”",
+      "transliteration": "egāsanaṃ vā bhāsāsanaṃ vā",
+      "translation": "“One‑sitting or two‑sitting [meals]…”",
+      "notes": "This occurs in a list of regulated food‑taking practices for disciplined living. The text does not prescribe Ekasana as a vow but lists it among modes of controlled consumption. Editions vary; the phrase appears in the context of restraint and mindfulness."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "“upavāsa‑ekāsanādayo vrata‑saṃyama‑bhāgāḥ” (paraphrased from commentarial tradition)",
+      "transliteration": "upavāsa‑ekāsanādayo vrata‑saṃyama‑bhāgāḥ",
+      "translation": "“Fasting, one‑sitting eating, and similar practices are components of disciplined conduct.”",
+      "notes": "The exact compound varies by commentary. The sūtra itself lists austerities; Ekasana is explicitly discussed in Digambara and Śvetāmbara commentaries (Tier B) as a lay austerity supporting *saṃyama*."
+    },
+    {
+      "title": "Bhagavatī Sūtra (Vyākhyāprajñapti)",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "References to regulated food‑taking appear in discussions of lay conduct; specific Ekasana terminology is later systematized in commentaries.",
+      "transliteration": "",
+      "translation": "No single line defines Ekasana, but the text frames controlled consumption as part of ethical discipline.",
+      "notes": "Primary canonical material provides the conceptual foundation; explicit technical terms are elaborated in later tradition."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "Mentions controlled eating practices for monks and laypeople; Ekasana is discussed more fully in later Digambara manuals.",
+      "transliteration": "",
+      "translation": "The text emphasizes intentionality and restraint in food intake.",
+      "notes": "Digambara tradition uses Ekasana in lay contexts; monastic rules differ significantly and must not be conflated."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Ekasana is a form of fasting equivalent to upavāsa.",
+      "reality": "Ekasana is not a fast. It is a single‑meal discipline. The practitioner eats once per day in one sitting; it does not require total abstention from food."
+    },
+    {
+      "myth": "Ekasana is mandatory for all Jains on holy days.",
+      "reality": "No canonical text mandates Ekasana universally. It is voluntary and must be adapted to health, age, and capacity. Community norms vary."
+    },
+    {
+      "myth": "Ekasana is a monastic vow.",
+      "reality": "Ekasana is a lay austerity. Monastic food rules are more complex and differ by lineage; they cannot be equated with Ekasana."
+    },
+    {
+      "myth": "Performing Ekasana automatically yields spiritual advancement.",
+      "reality": "Classical sources emphasize intention, non‑violence, and ethical conduct. Ekasana without mindfulness or ethical grounding is considered incomplete."
+    }
+  ]
+}

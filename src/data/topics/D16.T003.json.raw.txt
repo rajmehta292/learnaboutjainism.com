@@ -1,0 +1,55 @@
+{
+  "overview": "Eśanā-samiti (often written as Eshana-samiti) is one of the five samitis, the regulations of activity or modes of careful conduct, central to Jain monastic discipline and, by extension, an ethical ideal for lay followers. It specifically governs the careful, faultless search for and acquisition of necessities—primarily food, but also water, clothing, shelter, and other requisites—so that this process remains free from violence, deceit, attachment, and other karmically harmful states. [[0]](https://www.wisdomlib.org/definition/eshanasamiti) [[1]](https://www.wisdomlib.org/jainism/book/uttaradhyayana-sutra/d/doc424234.html)\n\nIn classical Jain sources, samiti is the technical term for disciplined, vigilant regulation of actions that cannot be entirely abandoned, such as walking, speaking, eating, handling objects, and disposing of waste. For ascetics who still must engage in these activities, samiti ensures that they are performed with maximum non‑violence (ahiṃsā) and inner purity. Eśanā-samiti, therefore, is not merely about the physical act of begging or obtaining food; it is about the entire ethical field surrounding sustenance—how one searches, from whom one receives, in what manner, at what time, and with what mental attitude. [[1]](https://www.wisdomlib.org/jainism/book/uttaradhyayana-sutra/d/doc424234.html) [[2]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084928.html)\n\nTexts describe Eśanā-samiti in terms of avoiding a detailed list of faults in the search, reception, and use of alms. The Uttarādhyayana-sūtra, for example, speaks of “receiving alms in a manner to avoid the forty-two faults,” indicating that the tradition developed a fine-grained taxonomy of errors such as begging from unsuitable donors, accepting impure or harmful food, showing greed or partiality, or causing distress to householders and other beings. The careful ascetic must examine the giver, the gift, the time, and his own intention, ensuring that the act of obtaining food does not become a source of new karmic bondage. [[1]](https://www.wisdomlib.org/jainism/book/uttaradhyayana-sutra/d/doc424234.html) [[3]](https://jaingpt.org/knowledge/eshna_samiti_229999_229999)\n\nHemacandra and later commentators connect Eśanā-samiti with the broader doctrine of dharmopagraha-dāna, the “gift that supports dharma.” Here, the purity of the receiver is defined in part by his observance of the five samitis, including Eśanā-samiti. A monk who practices faultless begging, free from the forty-two faults, becomes a worthy field of merit for donors, and the interaction between giver and receiver becomes mutually purifying rather than karmically entangling. This relational dimension shows that Eśanā-samiti is not only self-regulation but also a way of protecting laypeople from participating in unwholesome acts. [[0]](https://www.wisdomlib.org/definition/eshanasamiti) [[3]](https://jaingpt.org/knowledge/eshna_samiti_229999_229999)\n\nAcross sectarian lines, the five samitis are acknowledged as a core ethical framework. The Tattvārtha-sūtra, authoritative for both Digambara and Śvetāmbara traditions, lists Eśanā alongside īryā (careful walking), bhāṣā (careful speech), ādāna-nikṣepa (careful lifting and laying down), and utsarga (careful disposal of waste). Commentators explain that these regulations are instruments of saṃvara, the stoppage of karmic influx: by practicing Eśanā-samiti, the ascetic minimizes harm to subtle living beings involved in food production and handling, and restrains passions such as greed and attachment that typically arise around sustenance. [[2]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084928.html) [[4]](https://jainworld.jainworld.com/jainbooks/guideline/61.htm)\n\nWhile originally formulated for monks and nuns, Eśanā-samiti has inspired lay ethics as well. Community-oriented expositions encourage householders to internalize its spirit by choosing non-violent, pure, and modest means of livelihood and consumption, avoiding waste, ostentation, and exploitation. In modern contexts, some teachers extend Eśanā-samiti to questions of ethical sourcing, vegetarian or vegan practice, and ecological responsibility, though such applications are interpretive and should be checked against qualified human guidance within living lineages. What remains constant is the core Jain insight: how one acquires and uses necessities is a crucial arena for spiritual progress, and carefulness (samiti) in this domain is indispensable for the path toward liberation.\n",
+  "primary_sources": [
+    {
+      "title": "Uttarādhyayana-sūtra, Chapter 24 (Samitis)",
+      "author": "Traditionally attributed to canonical Śvetāmbara Jain scripture; translated by Hermann Jacobi",
+      "original_text": "३. एषणा समिति (भिक्षा ग्रहणं दोषचत्वारिंशद्वर्जनपूर्वकम्)।\n\n(English edition paraphrases) \"3. eṣaṇā-samiti (receiving alms in a manner to avoid the forty-two faults that are laid down).\"",
+      "transliteration": "3. eṣaṇā-samiti (bhikṣā grahaṇaṃ doṣa-catvāriṃśad-varjana-pūrvakam).\n\n“eṣaṇā-samiti (receiving alms in a manner to avoid the forty-two faults that are laid down).”",
+      "translation": "“The Samitis are: … 3. eṣaṇā-samiti, receiving alms in a manner to avoid the forty-two faults that are laid down.”\n\nThis passage defines Eśanā-samiti as the regulated, faultless mode of begging and receiving alms, emphasizing the avoidance of a specific set of ethical and practical errors.",
+      "notes": "Corpus tier: A (primary text) with B (classic translation/commentary).\nThis chapter presents the five samitis and three guptis as eight core articles of the creed. Eśanā-samiti is explicitly linked to detailed lists of faults in begging, receiving, and using food and other requisites, underscoring the technical precision of Jain monastic discipline. [[1]](https://www.wisdomlib.org/jainism/book/uttaradhyayana-sutra/d/doc424234.html)"
+    },
+    {
+      "title": "Tattvārtha-sūtra 9.5 with Sarvārthasiddhi commentary",
+      "author": "Ācārya Umāsvāti/Umāsvāmi (root text); Ācārya Pūjyapāda (commentary)",
+      "original_text": "ईर्याभाषैषणादाननिक्षेपोत्सर्गाः समितयः ॥ ९.५ ॥",
+      "transliteration": "īryā-bhāṣaiṣaṇā-dāna-nikṣepotsargāḥ samitayaḥ || 9.5 ||",
+      "translation": "“The fivefold regulation of activities—samiti—pertain to walking (īryā), speaking (bhāṣā), eating/begging (eṣaṇā), lifting and laying down (ādāna-nikṣepa), and depositing waste products (utsarga).”\n\nThe commentary explains that for an ascetic who cannot completely cease activity, these carefully regulated activities, including Eśanā-samiti, are prescribed so that they are free from injury to living beings.",
+      "notes": "Corpus tier: A (root sutra) and B (classical commentary).\nThis verse situates Eśanā-samiti within a systematic list of five samitis, emphasizing its role in saṃvara, the stoppage of karmic influx. The commentary clarifies that ‘samyak’ (carefulness) qualifies each activity, making Eśanā-samiti a disciplined, non-violent way of obtaining and consuming necessities. [[2]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084928.html)"
+    },
+    {
+      "title": "Triṣaṣṭiśalākāpuruṣacaritra and Yoga-śāstra references to Eṣaṇā-samiti",
+      "author": "Hemacandra",
+      "original_text": "एषणासमिति (eṣaṇāsamiti) – तदेल्लेसं व्यवहारं भिक्षायां।",
+      "transliteration": "eṣaṇāsamiti – tad-ellesaṃ vyavahāraṃ bhikṣāyāṃ.",
+      "translation": "“Eṣaṇā-samiti: correct, faultless behaviour in begging for food.”\n\nHemacandra describes Eśanā-samiti as the carefulness that ensures purity in the receiver and the act of begging, making the ascetic a suitable recipient of dharmopagraha-dāna, the gift that supports dharma.",
+      "notes": "Corpus tier: B (traditional scholastic commentary and narrative literature).\nHemacandra’s works elaborate how the five samitis, including Eśanā-samiti, contribute to the purity of giver, receiver, gift, time, and thought in religious donations. This reinforces the relational and communal dimension of Eśanā-samiti beyond individual ascetic practice. [[0]](https://www.wisdomlib.org/definition/eshanasamiti)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Eśanā-samiti is only about the physical act of begging for food and has no inner or ethical dimension.",
+      "reality": "Primary texts and commentaries present Eśanā-samiti as a comprehensive regulation of the search, reception, and use of necessities, including examination of the giver, the gift, the time, and the ascetic’s mental state. It aims to prevent harm to living beings and to restrain passions such as greed and attachment, making it a deeply ethical and spiritual discipline rather than a merely procedural rule. [[1]](https://www.wisdomlib.org/jainism/book/uttaradhyayana-sutra/d/doc424234.html) [[2]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084928.html)"
+    },
+    {
+      "myth": "Eśanā-samiti applies only to monks and nuns and has no relevance for lay Jains today.",
+      "reality": "While originally formulated for ascetics, later community teachings use Eśanā-samiti as an inspiration for lay practice—encouraging careful, non-violent, and modest acquisition and consumption, and ethical livelihood. Modern applications to issues like food ethics and ecological responsibility are interpretive extensions, but they reflect the enduring Jain insight that how one acquires and uses necessities is central to spiritual progress. [[4]](https://jainworld.jainworld.com/jainbooks/guideline/61.htm) [[3]](https://jaingpt.org/knowledge/eshna_samiti_229999_229999)"
+    },
+    {
+      "myth": "Observing Eśanā-samiti is a minor detail compared to major vows like ahiṃsā and aparigraha.",
+      "reality": "Jain sources treat the five samitis and three guptis as ‘mother-precepts’ that embody and operationalize the great vows in daily conduct. Eśanā-samiti concretizes ahiṃsā, satya, asteya, brahmacarya, and aparigraha in the specific domain of sustenance, making it a crucial practical means for saṃvara, the stoppage of karmic influx, rather than a peripheral rule. [[3]](https://jaingpt.org/knowledge/eshna_samiti_229999_229999) [[2]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084928.html)"
+    }
+  ]
+}
+
+
+
+> [0] [Eshanasamiti, Eṣaṇāsamiti, Eshana-samiti: 3 definitions](https://www.wisdomlib.org/definition/eshanasamiti)
+>
+> [1] [The Samitis [Chapter 24]](https://www.wisdomlib.org/jainism/book/uttaradhyayana-sutra/d/doc424234.html)
+>
+> [2] [The fivefold regulation of activities (samiti) [Verse 9.5]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084928.html)
+>
+> [3] [Eshna Samiti - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/eshna_samiti_229999_229999)
+>
+> [4] [Samiti and Gupti](https://jainworld.jainworld.com/jainbooks/guideline/61.htm)

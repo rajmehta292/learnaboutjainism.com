@@ -1,0 +1,43 @@
+{
+  "overview": "Apabhramsha literature refers to the body of texts composed in the late Middle Indo‑Aryan linguistic stage known as *Apabhramsha*, generally dated between roughly the 6th and 13th centuries CE. In Jain studies, Apabhramsha holds particular importance because many Digambara and Śvetāmbara authors used it for narrative poetry, didactic works, and philosophical summaries. Linguistically, Apabhramsha represents the transitional phase between earlier Prakrits (such as Ardhamāgadhī and Śaurasenī) and the emerging New Indo‑Aryan vernaculars (such as Gujarati, Rajasthani, and Hindi). It preserves features of Prakrit grammar while showing innovations in morphology, syntax, and vocabulary that anticipate later regional languages.\n\nJain monastic and lay scholars adopted Apabhramsha for genres including *rasas* (narrative-poetic compositions), *kathā* literature, moral instruction, cosmological summaries, and poetic retellings of canonical themes. The tradition includes major authors such as Svayambhū, Puṣpadanta, and Hemacandra, whose works demonstrate both literary creativity and doctrinal precision. Apabhramsha literature also provides evidence for the transmission of Jain ethical ideals—nonviolence, restraint, and karmic analysis—into broader cultural spheres. Because many manuscripts survive in Jain libraries, Apabhramsha is a key domain for philologists studying the evolution of Indo‑Aryan languages and the intellectual history of Jain communities.\n\nModern scholarship emphasizes that Apabhramsha was not a single uniform language but a cluster of regional literary dialects. Jain authors often employed standardized poetic registers, while inscriptions and non-Jain texts show local variation. The study of Apabhramsha literature therefore requires careful attention to manuscript lineage, scribal practice, and commentary traditions. Although Apabhramsha is sometimes described as a “decayed” form of Prakrit, this characterization is rejected by contemporary linguists and Jain scholars; instead, Apabhramsha is recognized as a dynamic and sophisticated literary medium that played a crucial role in shaping later vernacular literatures of North and West India.",
+  "primary_sources": [
+    {
+      "title": "Svayambhūdeva’s *Pauma‑cariya*",
+      "author": "Svayambhū (Digambara tradition)",
+      "original_text": "“pauma‑cariyaṃ kariuṃ ṇivvāṇa‑maggassa lābhaṃ”",
+      "transliteration": "pauma‑cariyaṃ kariuṃ nivvāṇa‑maggassa lābhaṃ",
+      "translation": "“The *Pauma‑cariya* is composed for the attainment of the path to liberation.”",
+      "notes": "A foundational Apabhramsha retelling of the Rāmāyaṇa from a Digambara Jain perspective. The text emphasizes nonviolence, karmic causality, and the exemplary conduct of ideal characters. Editions vary, and some passages survive only in later manuscript strata."
+    },
+    {
+      "title": "Puṣpadanta and Bhūtabali’s *Mahāpurāṇa* (including *Taraṅga* sections)",
+      "author": "Puṣpadanta and Bhūtabali (Digambara tradition)",
+      "original_text": "“jahaṃ puvvāiṃ saṃthiyā ṇivvāṇa‑sāraṃ”",
+      "transliteration": "jahaṃ puvvāiṃ saṃthiyā nivvāṇa‑sāraṃ",
+      "translation": "“As the ancient sages established the essence of liberation.”",
+      "notes": "A major Apabhramsha purāṇic cycle narrating cosmology, ethics, and biographies of Jain exemplars. It is central to Digambara literary history and shows the mature poetic style of Apabhramsha narrative composition."
+    },
+    {
+      "title": "Hemacandra’s *Siddha‑Hema‑Śabdānuśāsana* (Apabhramsha sections)",
+      "author": "Hemacandra (Śvetāmbara Mūrti‑pūjaka tradition)",
+      "original_text": "Hemacandra includes systematic examples of Apabhramsha forms, e.g., “bhāsaï” (he speaks).",
+      "transliteration": "bhāsaï",
+      "translation": "“He speaks.”",
+      "notes": "Although primarily a Sanskrit grammar, Hemacandra’s work contains extensive Prakrit and Apabhramsha grammatical descriptions. These sections are among the most authoritative premodern sources for understanding Apabhramsha morphology and usage."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Apabhramsha is merely a corrupt or degenerate form of Prakrit.",
+      "reality": "Linguistic research and Jain grammatical traditions show that Apabhramsha is a structured literary language with its own conventions. It represents a natural evolutionary stage between Middle Indo‑Aryan and New Indo‑Aryan languages."
+    },
+    {
+      "myth": "Apabhramsha literature is exclusively Jain.",
+      "reality": "While Jain authors produced the majority of surviving Apabhramsha texts, non‑Jain works also exist. Jain preservation efforts, however, ensured that most extant manuscripts are found in Jain libraries."
+    },
+    {
+      "myth": "Apabhramsha disappeared abruptly with the rise of vernacular languages.",
+      "reality": "Apabhramsha continued to influence early Hindi, Gujarati, and Rajasthani literature. Its decline was gradual, and many poetic forms persisted into early modern vernacular traditions."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "overview": "Prakrit scholars occupy a central place in the intellectual history of Jainism and in the wider study of classical Indian languages. Because most early Jain canonical and post‑canonical texts were composed in various Prakrits—especially Ardhamāgadhī, Jaina Māhārāṣṭrī, and Jaina Śaurasenī—Jain ācāryas and later philologists developed sophisticated tools to describe, preserve, and interpret these languages. Their work ranges from internal, tradition‑based grammars and commentaries to modern academic philology.\n\nIn the early Jain period, the primary “scholars of Prakrit” were not grammarians in the later technical sense but teachers and redactors of the canon who transmitted the language orally and then in written form. Councils such as those at Pāṭaliputra and Vallabhī, remembered in Śvetāmbara tradition, are associated with figures like Skandila and Devarddhi Gaṇi, who systematized Ardhamāgadhī Prakrit for the Jain āgamas. Their work ensured that the linguistic form of texts such as the Āyāraṅga (Ācārāṅga), Sūyagaḍaṅga (Sūtrakṛtāṅga), and Bhagavaī (Bhagavatī) remained intelligible and relatively stable across centuries.\n\nFrom about the 11th–12th centuries CE, Jain polymaths such as Hemacandra (Hemacandra Sūri) became pivotal Prakrit scholars. Hemacandra’s grammatical treatises describe Sanskrit and multiple Prakrits side by side, including specifically “Jaina” varieties. His Siddha‑Hema‑Śabdānuśāsana and related works codify phonological changes, sandhi rules, and morphological patterns that distinguish Prakrit from Sanskrit, while also documenting the language of Jain scriptures and narrative literature. These grammars are among the earliest systematic attempts to treat Prakrit as a family of languages with its own internal logic rather than as mere “corrupt” Sanskrit.\n\nAlongside grammarians, Jain commentators such as Haribhadra Sūri, Abhayadeva Sūri, and Śīlāṅka Sūri functioned as practical Prakrit scholars. Their exegesis on canonical texts often includes lexical glosses, etymological notes, and explanations of archaic Prakrit forms. Recent scholarship has shown that these ācāryas used Prakrit not only as a medium of doctrine but also as a tool for sectarian reconciliation, employing inclusive formulas like “savve jīvā piyāyarā” (all souls are beloved) and “nāṇā‑maggehi eko maggo” (through various paths, one path) to bridge Śvetāmbara–Digambara tensions.\n\nIn the modern era, Prakrit scholarship has expanded into a global academic field. Pioneering Indologists such as Hermann Jacobi and later scholars like A. N. Upadhye, Muni Jinavijaya, Sagarmal Jain, and N. Vasupal produced critical editions, translations, and linguistic studies of Jain Prakrit texts. Works like “Prakrit Bhāṣā kā Prācīn Svarūp” and “Contribution of Prakrit to Jain Canonical Literature” emphasize that Prakrits are historically older spoken dialects from which classical Sanskrit was refined, and they trace the evolution of Ardhamāgadhī and other Jain Prakrits through inscriptions and textual evidence.\n\nToday, Prakrit scholars work across several domains: historical linguistics (reconstructing the development of Middle Indo‑Aryan), philology (editing and translating Jain āgamas and narrative texts), literary studies (analyzing Prakrit poetry and poetics), and digital humanities (creating searchable corpora and lexica). Within Jain studies, their work supports accurate understanding of doctrinal terms, karmic classifications, and ethical instructions that depend on subtle linguistic distinctions. At the same time, Prakrit scholarship contributes to comparative religion and intellectual history by showing how language choice shaped Jain identity, inter‑sectarian dialogue, and interactions with Buddhist and Brahmanical traditions.\n\nBecause Prakrit texts often survive in multiple recensions and scripts, Prakrit scholars must navigate variant readings, regional orthographies, and layered commentarial traditions. They distinguish between primary canonical language (Tier A), traditional commentaries (Tier B), and modern academic interpretations (Tier C), carefully marking where evidence is strong, where transmission is uncertain, and where translation requires interpretive judgment. This methodological care is especially important for Jain communities that rely on Prakrit texts for liturgy, ethics, and doctrinal study, and it underscores why qualified human experts—monastic and lay—remain essential partners alongside any digital or AI‑based tools in the study of Prakrit and Jainism.",
+  "primary_sources": [
+    {
+      "title": "Āyāraṅga‑sutta (Ācārāṅga‑sūtra)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; redacted by Devarddhi Gaṇi and earlier councils",
+      "original_text": "सव्वे पाणाः सव्वे भूताः सव्वे जीवाः सव्वे सत्ताः सव्वे इन्द्रियियाः सव्वे भव्या सव्वे अभव्या।",
+      "transliteration": "savve pāṇā savve bhūtā savve jīvā savve sattā savve indriyiyā savve bhavyā savve abhavyā.",
+      "translation": "All breathing beings, all living things, all souls, all creatures, all with senses, all capable of liberation and all not capable of liberation.",
+      "notes": "This famous Ardhamāgadhī passage from the Ācārāṅga‑sūtra illustrates early Jain Prakrit used to express universal compassion and ontological classification of living beings. Prakrit scholars analyze its phonology (e.g., savve for Sanskrit sarve) and morphology to understand how doctrinal categories were articulated in Middle Indo‑Aryan. The text is a Tier A canonical source for both linguistic and ethical study."
+    },
+    {
+      "title": "Bhagavaī‑sutta (Bhagavatī‑sūtra / Viyāha‑paṇṇatti)",
+      "author": "Traditionally attributed to disciples of Mahāvīra; preserved in Śvetāmbara canon",
+      "original_text": "णाणं चरिअं तवो च, इमं तिहं सुत्तं।",
+      "transliteration": "nāṇaṃ cariaṃ tavo ca, imaṃ tihaṃ suttaṃ.",
+      "translation": "Knowledge, conduct, and austerity—this is the threefold teaching.",
+      "notes": "The Bhagavatī‑sūtra, composed in Ardhamāgadhī Prakrit, is encyclopedic in scope. Prakrit scholars study its language to trace doctrinal formulations of the three jewels (right faith, right knowledge, right conduct) and related ascetic practices. Variants of this line appear in different recensions, highlighting the importance of philological work in establishing reliable readings."
+    },
+    {
+      "title": "Siddha‑Hema‑Śabdānuśāsana (including Prakrit sections)",
+      "author": "Hemacandra Sūri (c. 12th century CE)",
+      "original_text": "संसकृतं नाम देवानां भाषा, प्राकृतं नाम लोकभाषा।",
+      "transliteration": "saṃsakṛtaṃ nāma devānāṃ bhāṣā, prākṛtaṃ nāma lokabhāṣā.",
+      "translation": "Sanskrit is called the language of the gods; Prakrit is called the language of the people.",
+      "notes": "Although wording varies across manuscripts, Hemacandra’s grammar contrasts Sanskrit and Prakrit while treating multiple Prakrits (Māhārāṣṭrī, Śaurasenī, Magadhī, and Jain varieties) systematically. Prakrit scholars rely on this Tier B traditional grammatical text to understand medieval Jain views of language hierarchy and to reconstruct rules governing Jain Prakrit used in āgamas and narrative literature."
+    },
+    {
+      "title": "Prākṛta‑Prakāśa",
+      "author": "Vararuci (traditional attribution; historical identity debated)",
+      "original_text": "संस्कृतस्यापभ्रंशो यः स प्राकृत इति स्मृतः।",
+      "transliteration": "saṃskṛtasyāpabhraṃśo yaḥ sa prākṛta iti smṛtaḥ.",
+      "translation": "That which is a deviation from Sanskrit is remembered as Prakrit.",
+      "notes": "This classical Prakrit grammar, though not specifically Jain, strongly influenced later descriptions of Prakrit. Modern Jain and non‑Jain Prakrit scholars critically examine such definitions, noting that they reflect a Sanskrit‑centric perspective and may not fully capture the historical development of spoken Middle Indo‑Aryan dialects. The text is a key Tier B source for understanding how Prakrit was conceptualized in pre‑modern scholarship."
+    },
+    {
+      "title": "Prakrit Bhāṣā kā Prācīn Svarūp",
+      "author": "Dr. Sagarmal Jain",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "This modern Hindi work (Tier C scholarship) argues, on the basis of inscriptions and Jain āgamas, that Prakrits are older natural dialects from which classical Sanskrit was refined, rather than mere corruptions of Sanskrit. Sagarmal Jain’s analyses of Ardhamāgadhī, Jaina Śaurasenī, and Jaina Māhārāṣṭrī are widely cited in contemporary Jain studies and Prakrit linguistics, and they exemplify how modern scholars integrate philology, epigraphy, and doctrinal history."
+    },
+    {
+      "title": "Contribution of Prakrit to Jain Canonical Literature",
+      "author": "Dr. N. Vasupal",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "This modern study (Tier C) surveys the role of Prakrit in the formation of the Śvetāmbara Jain canon, discussing councils at Pāṭaliputra and Vallabhī, the work of scholars like Skandila and Devarddhi, and the classification of āgamas (aṅgas, upāṅgas, chedasūtras, mūlasūtras). It is an important resource for understanding how Prakrit scholars within the tradition and in academia reconstruct the history of Jain canonical language and its transmission."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Prakrit is simply a corrupt or degraded form of Sanskrit, and Prakrit scholars only study it as a secondary, inferior language.",
+      "reality": "Historical and linguistic evidence shows that Prakrits are older spoken Middle Indo‑Aryan dialects from which classical Sanskrit was refined. Jain āgamas and early narrative texts were composed directly in Prakrit, not as “broken” Sanskrit. Prakrit scholars—traditional and modern—treat these languages as primary vehicles of doctrine and literature, with their own grammar, poetics, and philosophical vocabulary."
+    },
+    {
+      "myth": "Only non‑Jain, Western Indologists are serious Prakrit scholars; Jain tradition itself did not develop rigorous Prakrit scholarship.",
+      "reality": "Long before modern Indology, Jain ācāryas such as Hemacandra, Haribhadra, Abhayadeva, and Śīlāṅka produced grammars, lexica, and detailed commentaries that analyze Prakrit forms, meanings, and usage. Modern Jain scholars like Sagarmal Jain, A. N. Upadhye, N. Vasupal, and Muni Jinavijaya continue this tradition. Western Indologists contributed important editions and translations, but they build on and interact with a rich internal Jain scholarly heritage."
+    },
+    {
+      "myth": "Prakrit scholarship is purely technical linguistics and has little relevance for Jain ethical or spiritual practice.",
+      "reality": "Because core Jain teachings on non‑violence, karma, vows, and liberation are articulated in Prakrit, accurate understanding of these texts depends on careful linguistic and philological work. Prakrit scholars clarify the meanings of key doctrinal terms, resolve ambiguities in scriptural passages, and trace how language was used to promote compassion and sectarian reconciliation. Their work directly supports informed lay practice, monastic study, and inter‑tradition dialogue."
+    },
+    {
+      "myth": "There is a single, uniform ‘Jain Prakrit’, and scholars treat all Jain texts as written in the same language.",
+      "reality": "Jain texts employ several distinct Prakrits—Ardhamāgadhī, Jaina Māhārāṣṭrī, Jaina Śaurasenī, and others—each with its own phonological and morphological features. Canonical, narrative, and poetic works differ in style and dialect. Prakrit scholars carefully distinguish these varieties, mapping them to historical regions, genres, and periods, rather than collapsing them into a single undifferentiated ‘Jain Prakrit’."
+    }
+  ]
+}

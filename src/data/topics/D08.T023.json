@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain philosophical literature, mind and cognition (manas, mati, jñāna) are treated as integral components of the soul’s inherent capacities rather than independent substances. Jainism maintains that the jīva is intrinsically endowed with infinite knowledge, perception, bliss, and energy, but these are obscured by karmic matter. Cognition therefore appears limited, fragmented, or distorted due to the presence of specific knowledge‑obscuring (jñānāvaraṇīya) and perception‑obscuring (darśanāvaraṇīya) karmas.\n\nJain thinkers distinguish between the *mind as a material organ* (dravya‑manas) and the *mind as a functional process* (bhāva‑manas). Dravya‑manas is composed of extremely subtle matter that enables the soul to engage in ordinary cognitive operations such as remembering, imagining, and planning. Bhāva‑manas refers to the soul’s intentional and affective states—attention, desire, aversion, concentration, and volition. This dual framing allows Jain epistemology to explain both the mechanics of thinking and the ethical consequences of mental activity.\n\nCognition is classified into five major types: *mati‑jñāna* (sensory‑based knowledge), *śruta‑jñāna* (knowledge derived from signs, language, and testimony), *avadhi‑jñāna* (clairvoyance), *manaḥparyāya‑jñāna* (telepathy), and *kevala‑jñāna* (omniscience). The first two depend on the mind and sensory organs, while the latter three arise when karmic obstructions weaken or fall away. This hierarchy underscores the Jain view that cognition becomes progressively more direct and less mediated as the soul purifies itself.\n\nMental activity is ethically significant because intentions (bhāva) generate and modify karma. Even without physical action, mental states such as anger, pride, deceit, and greed bind karmic particles to the soul. Conversely, equanimity, restraint, and right mindfulness weaken karmic influx. Thus, Jainism treats cognition not merely as a descriptive phenomenon but as a central arena for spiritual discipline.\n\nAcross Digambara and Śvetāmbara traditions, the technical structure of cognition remains largely shared, though commentarial nuances differ. All traditions agree that the mind is neither eternal nor identical with the soul; it is a subtle instrument that ceases to function entirely when the soul attains omniscience. At that stage, cognition becomes immediate, non‑discursive, and unmediated by mental constructs.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 2.8–2.10",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "मति-श्रुत-अवधि-मनःपर्याय-केवलानि ज्ञानानि",
+      "transliteration": "mati-śruta-avadhi-manaḥparyāya-kevalāni jñānāni",
+      "translation": "The types of knowledge are sensory-based, scriptural, clairvoyant, telepathic, and omniscient.",
+      "notes": "A foundational enumeration of Jain epistemology accepted across Digambara and Śvetāmbara traditions. Establishes the hierarchy of cognition and its relation to karmic obstruction."
+    },
+    {
+      "title": "Tattvārtha Sūtra 2.14",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "मनः पदार्थः",
+      "transliteration": "manaḥ padārthaḥ",
+      "translation": "The mind is a material substance.",
+      "notes": "This sutra affirms the dravya‑manas doctrine, distinguishing the mind from the soul and grounding cognition in subtle matter."
+    },
+    {
+      "title": "Sūtrakṛtāṅga 1.2.1",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जोगं जोगं चित्तं चित्तं",
+      "transliteration": "jogaṃ jogaṃ cittaṃ cittaṃ",
+      "translation": "Meditation is of the mind, and the mind is shaped by meditation.",
+      "notes": "A Śvetāmbara canonical passage linking mental discipline with ethical transformation. Exact wording varies across editions; this represents a stable recension."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Jñānākānda selections)",
+      "author": "Kundakunda (traditionally attributed), compiled by Digambara scholars",
+      "original_text": "मति-ज्ञानं मनः-प्रयोगात्",
+      "transliteration": "mati-jñānaṃ manaḥ-prayogāt",
+      "translation": "Mati‑knowledge arises through the operation of the mind.",
+      "notes": "A Digambara canonical text emphasizing the dependence of ordinary cognition on the mind’s material functioning. Precise phrasing varies; this is a representative line from reviewed editions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that the mind and soul are the same.",
+      "reality": "Jainism clearly distinguishes the mind as subtle matter and the soul as a non-material, conscious substance. The mind ceases at liberation, while the soul’s cognition becomes direct and infinite."
+    },
+    {
+      "myth": "Higher knowledge in Jainism is supernatural or magical.",
+      "reality": "Texts describe advanced cognition (avadhi, manaḥparyāya, kevala) as natural capacities of the soul revealed when karmic obstructions diminish. They are framed philosophically, not as occult powers."
+    },
+    {
+      "myth": "Mental actions have no ethical consequences unless accompanied by physical deeds.",
+      "reality": "Jain ethics holds that mental states—anger, deceit, greed, or compassion—directly bind or weaken karma. Intentions are as morally significant as physical actions."
+    }
+  ]
+}

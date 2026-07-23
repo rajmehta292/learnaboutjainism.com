@@ -1,0 +1,61 @@
+{
+  "overview": "Hermeneutic disagreement, in a Jain context, refers to sustained differences in how canonical and post‑canonical texts are interpreted, applied, and systematized across lineages, sects, and historical periods. It is not merely a matter of casual opinion, but of structured, often technically argued divergences about meaning (artha), scope (viṣaya), and authority (prāmāṇya) of scriptural statements. These disagreements arise around issues such as the status of particular āgamas, the intent of key sūtras, the relationship between doctrine and practice, and the reconciliation of apparently conflicting passages.\n\nWithin Jainism, hermeneutic disagreement is shaped by several factors: the early oral transmission of teachings, the loss or partial preservation of some canonical corpora, the emergence of distinct sectarian traditions (Śvetāmbara, Digambara, and sub‑traditions), and the development of sophisticated commentarial cultures. For example, the Śvetāmbara canon, including texts like the Ācārāṅga Sūtra, is accepted as scriptural by Śvetāmbaras but not by Digambaras, who hold that the original oral canon was lost and instead privilege texts such as the Ṣaṭkhaṇḍāgama and the works of Kundakunda. This difference in what counts as a primary source already sets the stage for divergent hermeneutics.\n\nA central arena of hermeneutic disagreement is the interpretation of the Tattvārthasūtra, a concise Sanskrit treatise that both Śvetāmbara and Digambara traditions accept as authoritative, yet read through different textual recensions and commentarial lenses. Modern scholarship, such as Suzuko Ohira’s study of the Tattvārthasūtra with Bhāṣya and Sagarmal Jain’s work on its tradition, documents disputes over authorship (Umāsvāti vs. alternative attributions), the originality of the Bhāṣya, and the priority of Śvetāmbara or Digambara versions. These debates show how questions of textual history and transmission are inseparable from hermeneutic claims about what the text ‘really’ teaches.  [[0]](https://jaingpt.org/knowledge/tattvartha_sutra_aur_uski_parampara_003603_003603) [[1]](https://jaingpt.org/knowledge/study_of_tattvarthasutra_with_bhasya_001578_001578)\n\nJain hermeneutics also involves techniques for retrieving ‘hidden meaning’ (nigūḍhārtha) and organizing memory, as explored in studies of commentarial practices. Commentators employ strategies such as cross‑referencing āgamas, invoking doctrinal frameworks like anekāntavāda (the doctrine of non‑one‑sidedness) and syādvāda (conditioned predication), and distinguishing between literal (yathārtha) and figurative (lakṣaṇā) readings. Hermeneutic disagreement often turns on whether a passage should be taken as absolute, context‑bound, or pedagogically adapted for specific audiences. For instance, prescriptions on ascetic conduct may be read strictly for mendicants by some, while others extend or limit them for lay practice through interpretive reasoning.\n\nComparative work on Jain and Buddhist epistemology shows that Jain thinkers were acutely aware of interpretive conflict and developed theories of standpoint (naya) and multiple perspectives to address it. These theories do not erase disagreement but provide a meta‑framework for understanding how different, partially true readings can coexist without collapsing into relativism. Hermeneutic disagreement thus becomes an expected feature of a tradition that emphasizes the complexity of reality and the limitations of any single viewpoint.  [[2]](https://link.springer.com/article/10.1007/s10781-023-09534-8) [[3]](https://link.springer.com/article/10.1007/s10781-010-9086-8)\n\nFrom a historical perspective, hermeneutic disagreements have practical consequences: they influence monastic discipline, ritual forms (including image‑worship vs. non‑image‑worship), lay vows, and ethical stances on issues like violence, commerce, and modern technology. They also shape sectarian identities, as communities narrate their own interpretive lineage and sometimes critique others as deviating from ‘true’ meaning. Modern Jain scholarship and community education attempt to document these disagreements carefully, distinguishing between primary textual evidence (Tier A), traditional commentaries (Tier B), and later doctrinal or educational syntheses (Tiers C–D). For serious questions of practice—especially those touching on health, family obligations, or initiation—Jain hermeneutic guides consistently recommend consultation with qualified living teachers rather than relying solely on textual or abstract interpretation.\n\nIn sum, hermeneutic disagreement in Jainism is a structured, historically layered phenomenon. It arises from differing canons, recensions, commentarial traditions, and philosophical commitments, and is navigated through techniques of textual criticism, doctrinal reasoning, and anekāntic sensitivity to multiple perspectives. Rather than being a flaw, it is often seen as a sign of the tradition’s intellectual vitality—provided that disagreements are handled with care, humility, and attention to both scriptural authority and lived ethical consequences.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra (with Bhāṣya)",
+      "author": "Umāsvāti / Umāsvāmi (traditional attribution)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः ।",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ.",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This foundational sūtra is accepted across major Jain sects, yet its textual history and commentarial tradition are sites of hermeneutic disagreement. Śvetāmbara and Digambara recensions differ in some readings, and scholars debate whether the Bhāṣya is an autocommentary by Umāsvāti or a later addition. Interpretive disputes concern not only philological details but also how the triad of right faith, knowledge, and conduct is to be understood and applied in monastic and lay contexts.  [[0]](https://jaingpt.org/knowledge/tattvartha_sutra_aur_uski_parampara_003603_003603) [[1]](https://jaingpt.org/knowledge/study_of_tattvarthasutra_with_bhasya_001578_001578)"
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara canon)",
+      "author": "Traditionally attributed to early Jain teachers; preserved in Śvetāmbara lineage",
+      "original_text": "सव्वे पाणे दुव्विहा—ठाणगया य चलगया ।",
+      "transliteration": "savve pāṇe duvvihā—ṭhāṇagayā ya calagayā.",
+      "translation": "All living beings are of two kinds: those that move and those that do not move.",
+      "notes": "The Ācārāṅga Sūtra is a key Śvetāmbara canonical text on ascetic conduct and non‑violence. Digambara tradition, however, does not accept the extant Śvetāmbara canon as fully authentic, leading to hermeneutic disagreement about how such passages should be treated as scriptural authority. Interpretive debates focus on the scope of non‑violence, the classification of living beings, and the extent to which these teachings bind laypeople versus mendicants. The disagreement here is both about textual status (canon vs. non‑canon) and about the meaning and application of the text’s ethical instructions."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara canonical text)",
+      "author": "Traditionally attributed to Ācāryas Puṣpadanta and Bhūtabali",
+      "original_text": "जिवाजिवाणुगुणपरिणामो धम्मो ।",
+      "transliteration": "jivājivāṇu‑guṇa‑pariṇāmo dhammo.",
+      "translation": "The transformation of the qualities of souls and non‑souls is dharma.",
+      "notes": "For Digambaras, the Ṣaṭkhaṇḍāgama is a central scriptural source, especially for karma theory and ontology. Śvetāmbara traditions, however, do not include it in their canon, which creates a hermeneutic gap: doctrinal formulations derived from this text may not be recognized or may be interpreted differently in Śvetāmbara frameworks. Disagreements arise over how to correlate its detailed karmic classifications with more concise canonical statements, and over whether later systematizations (such as elaborate guṇasthāna schemes) are implicit in earlier texts or represent doctrinal development."
+    },
+    {
+      "title": "Commentarial traditions on Tattvārthasūtra",
+      "author": "Various, including Pūjyapāda, Akalaṅka, and later commentators",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "Digambara commentators like Pūjyapāda and Akalaṅka, and Śvetāmbara commentators in their own lineages, provide extensive glosses on the Tattvārthasūtra. These commentaries often disagree on the precise meaning of key terms, the hierarchy of tattvas (fundamental realities), and the interpretation of doctrines such as anekāntavāda and syādvāda. Modern studies of Jain commentarial techniques highlight how these works use cross‑textual references, logical argumentation, and memory aids to retrieve ‘hidden meaning,’ while also revealing the depth of hermeneutic disagreement between and within traditions.  [[3]](https://link.springer.com/article/10.1007/s10781-010-9086-8)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Hermeneutic disagreement in Jainism means that ‘anything goes’ and all interpretations are equally valid.",
+      "reality": "Jain hermeneutic disagreement is structured and disciplined. Interpretations are evaluated against canonical sources, established commentarial traditions, and logical consistency. The doctrines of anekāntavāda and syādvāda acknowledge multiple partial viewpoints, but they do not endorse arbitrary or self‑serving readings. Instead, they require careful reasoning, attention to context, and respect for lineage‑based authority."
+    },
+    {
+      "myth": "Sectarian differences (such as between Śvetāmbara and Digambara) are purely historical accidents and have no textual or hermeneutic basis.",
+      "reality": "Sectarian differences are closely tied to distinct canons, recensions, and interpretive methods. Disagreements about which texts are authentic, how to read key sūtras, and how to systematize doctrine have shaped the formation of sects and sub‑traditions. While history and social factors matter, hermeneutic disagreement over scripture and doctrine is a central driver of these distinctions."
+    },
+    {
+      "myth": "Modern academic studies of Jain texts simply replace traditional interpretations and resolve all hermeneutic disagreements.",
+      "reality": "Scholarly work on Jain texts—using philology, history, and comparative philosophy—can clarify textual transmission and highlight patterns of disagreement, but it does not automatically override traditional hermeneutics or settle all disputes. Academic and traditional approaches often coexist, sometimes in tension, and responsible guidance emphasizes both source‑grounded analysis and consultation with qualified living teachers, especially for questions that affect practice, health, or family responsibilities."
+    }
+  ]
+}
+
+
+
+> [0] [Tattvartha Sutra Aur Uski Parampara - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/tattvartha_sutra_aur_uski_parampara_003603_003603)
+>
+> [1] [Study Of Tattvarthasutra With Bhasya - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/study_of_tattvarthasutra_with_bhasya_001578_001578)
+>
+> [2] [Confronting the Truth: Epistemological Conflicts between Early Buddhists and Jains | Journal of Indian Philosophy | Springer Nature Link](https://link.springer.com/article/10.1007/s10781-023-09534-8)
+>
+> [3] [Retrieving the Hidden Meaning: Jain Commentarial Techniques and the Art of Memory | Journal of Indian Philosophy | Springer Nature Link](https://link.springer.com/article/10.1007/s10781-010-9086-8)

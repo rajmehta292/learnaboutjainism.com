@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical vocabulary, “recognition” is most commonly discussed under the broader categories of *jñāna* (knowledge), *pratyakṣa* and *parokṣa* (direct and indirect cognition), and the epistemic processes by which the soul apprehends objects. Jain thinkers do not treat recognition as a standalone technical term in the way some later Nyāya or Buddhist schools do; instead, they embed it within the layered structure of cognition, memory, and the soul’s inherent capacity for knowing. Recognition is therefore best understood as the moment in which a previously encountered object is apprehended again through the interplay of sense perception, mental functioning, and residual impressions (*saṃskāra*), all of which are conditioned by karmic obscurations.\n\nWithin classical Jain epistemology, recognition is typically classified as a form of *parokṣa-jñāna* (indirect knowledge), because it relies on mental operations that go beyond raw sensory input. When one sees an object and identifies it as something previously known—such as recognizing a friend, a place, or a symbol—the cognition is shaped by memory traces and conceptual associations. These associations are themselves influenced by *jñānāvaraṇīya* (knowledge-obscuring) karma, which limits the clarity and immediacy of awareness. Thus, recognition is not merely a psychological act but a karmically conditioned epistemic event.\n\nIn Digambara and Śvetāmbara commentarial traditions, recognition is often explained through the triad of *smṛti* (memory), *saṃjñā* (conceptualization), and *cintā* (deliberation). Recognition occurs when memory supports the identification of an object and conceptualization provides the category under which the object is placed. This process is not considered infallible; Jain epistemology emphasizes that recognition can be distorted by karmic veiling, inattentiveness, or mistaken inference. As such, recognition is treated as a valuable but limited cognitive tool within the broader path toward unobstructed knowledge (*kevala-jñāna*).\n\nIn ethical and devotional contexts, recognition also appears as the act of acknowledging the qualities of the *tīrthaṅkaras*, the guidance of teachers, or the presence of virtues within oneself. This is not an authoritative ritual act but a reflective practice that supports humility, discernment, and the cultivation of right faith (*samyak-darśana*). In these contexts, recognition is not merely cognitive but transformative, helping the practitioner align perception with the Jain ideal of non-violent, truth-oriented awareness.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "स्मृतिसंज्ञाचिन्ताज्ञानानि च",
+      "transliteration": "smṛti-saṃjñā-cintā-jñānāni ca",
+      "translation": "Memory, conceptualization, and deliberation are forms of knowledge.",
+      "notes": "Tattvārtha Sūtra 1.13 is a foundational passage for understanding how Jain epistemology classifies mental operations. Recognition is not named explicitly, but traditional commentaries explain that recognition arises through the coordinated functioning of these three forms of knowledge."
+    },
+    {
+      "title": "Pramāṇa-mīmāṃsā (Śvetāmbara tradition)",
+      "author": "Hemacandra",
+      "original_text": "स्मृतिः पूर्वानुभूतविषयावबोधः",
+      "transliteration": "smṛtiḥ pūrvānubhūta-viṣayāvabodhaḥ",
+      "translation": "Memory is the apprehension of an object previously experienced.",
+      "notes": "Hemacandra’s definition of memory is central to Jain discussions of recognition. Recognition depends on memory traces that allow the mind to identify an object as familiar."
+    },
+    {
+      "title": "Pramāṇa-samaya (Digambara tradition)",
+      "author": "Akalanka",
+      "original_text": "संज्ञा नामार्थविभागज्ञानम्",
+      "transliteration": "saṃjñā nāmārtha-vibhāga-jñānam",
+      "translation": "Conceptualization is knowledge that divides and categorizes objects.",
+      "notes": "Akalanka’s analysis clarifies how recognition involves categorization. Without conceptualization, recognition cannot occur because the mind would not classify the object under a known category."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Recognition is treated in Jainism as a flawless or authoritative form of knowledge.",
+      "reality": "Jain epistemology consistently emphasizes that recognition is indirect and fallible. It depends on memory and conceptualization, both of which are subject to karmic obscuration and error."
+    },
+    {
+      "myth": "Recognition is equivalent to direct perception (*pratyakṣa*).",
+      "reality": "Recognition is classified under indirect knowledge (*parokṣa*), because it involves mental processing beyond immediate sensory contact."
+    },
+    {
+      "myth": "Recognition has a fixed meaning across all Jain traditions.",
+      "reality": "While the basic epistemic structure is shared, Digambara and Śvetāmbara commentaries differ in emphasis—some highlight memory, others conceptualization, and others karmic conditioning as the primary factor."
+    }
+  ]
+}

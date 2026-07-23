@@ -1,0 +1,55 @@
+{
+  "overview": "Across Jain traditions, liberation (mokṣa or kevalī-bhāva) is understood as the complete and irreversible freedom of the jīva from karmic bondage, resulting in infinite perception, knowledge, energy, and bliss. While Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth lineages share the same canonical metaphysics—rooted in the Tattvārtha Sūtra and early āgamas—they differ in scriptural canons, interpretive emphases, and ritual pathways for lay and monastic practice.\n\nAll traditions agree that liberation is attained only when the soul destroys all ghātiyā karmas (knowledge-obscuring, perception-obscuring, deluding, and energy-obstructing) and subsequently sheds the remaining aghātiyā karmas. The liberated soul rises to the siddha-śilā at the apex of the loka, never to return.\n\nDigambara texts emphasize the absolute nudity of the kevalin and the necessity of complete renunciation for final liberation. Śvetāmbara traditions maintain that clothing does not obstruct liberation and that kevalins may still engage in minimal speech and bodily activity. Sthānakavāsī and Terāpanth traditions, which reject image-worship, frame liberation primarily through internal austerity, meditation, and ethical discipline rather than temple ritual.\n\nDespite these differences, all Jain traditions uphold the same fundamental doctrinal structure: liberation is achieved through right faith (samyag-darśana), right knowledge (samyag-jñāna), and right conduct (samyak-cāritra), culminating in the destruction of karma through asceticism, meditation, and ethical purity. The Gunasthāna ladder, shared across traditions, provides the technical map of spiritual progress. Liberation is not granted by divine grace but realized through the soul’s own effort, discipline, and purification.\n\nModern scholarship highlights that while ritual forms and monastic codes vary, the philosophical core of mokṣa remains remarkably consistent across Jain history. Each tradition preserves its own interpretive lineage, yet all converge on the ideal of the siddha—pure, omniscient, bodiless consciousness.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (shared across traditions)",
+      "original_text": "मोक्षमार्गोऽविरतसम्यग्दर्शनज्ञानचारित्राणि",
+      "transliteration": "mokṣa-mārgo’virata-samyag-darśana-jñāna-cāritrāṇi",
+      "translation": "“The path to liberation consists of right faith, right knowledge, and right conduct.”",
+      "notes": "A universally authoritative text (Tier A) across Digambara and Śvetāmbara traditions. Commentaries differ, but the definition of mokṣa and its path is shared."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "णाणं तहा दंसणं च चरित्तं चाविरंति मोक्षं",
+      "transliteration": "ñāṇaṃ tahā daṃsaṇaṃ ca carittaṃ cāviraṃti mokkhaṃ",
+      "translation": "“Knowledge, faith, and conduct lead to liberation.”",
+      "notes": "Śvetāmbara canonical text (Tier A). Often cited in Mūrti-pūjaka, Sthānakavāsī, and Terāpanth study traditions."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama",
+      "author": "Kundakunda lineage (Digambara)",
+      "original_text": "जोगो मोक्कस्स कारणं",
+      "transliteration": "jogo mokkassa kāraṇaṃ",
+      "translation": "“Yoga (disciplined conduct) is the cause of liberation.”",
+      "notes": "A foundational Digambara canonical text (Tier A). Emphasizes the technical mechanics of karma and liberation."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Kundakunda",
+      "original_text": "सुद्धो सुद्धं पवेसदि",
+      "transliteration": "suddho suddhaṃ pavesadi",
+      "translation": "“The pure (soul) enters the state of purity.”",
+      "notes": "A Digambara philosophical classic (Tier B). Interprets liberation as the soul’s realization of its intrinsic purity."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Different Jain traditions teach different ultimate goals.",
+      "reality": "All Jain traditions—Digambara, Śvetāmbara, Sthānakavāsī, and Terāpanth—share the same doctrinal definition of mokṣa as the destruction of all karma and attainment of the siddha state."
+    },
+    {
+      "myth": "Liberation can be granted by divine beings or through ritual alone.",
+      "reality": "Jainism teaches that liberation is achieved solely through the soul’s own effort, ethical discipline, and karmic purification. No deity intervenes to grant mokṣa."
+    },
+    {
+      "myth": "Only monastics can progress toward liberation.",
+      "reality": "While final liberation requires complete renunciation, laypeople meaningfully progress along the Gunasthāna ladder through vows, meditation, and ethical living."
+    },
+    {
+      "myth": "Digambara and Śvetāmbara differences imply contradictory doctrines.",
+      "reality": "Differences concern practice, monastic discipline, and scriptural canons—not the fundamental metaphysics of karma, liberation, or the nature of the siddha."
+    }
+  ]
+}

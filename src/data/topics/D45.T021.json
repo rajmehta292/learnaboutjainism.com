@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, mental health is approached as an integrated condition of the mind (manas), consciousness (citta), and the ethical dispositions (bhāva) that shape one’s experience of the world. Jain texts do not use the modern clinical vocabulary of psychology, but they offer a sophisticated account of mental states, emotional regulation, and the karmic processes that influence wellbeing. Mental health is understood as both an inner condition and a relational reality shaped by conduct, perception, and non‑harm.\n\nAcross traditions, the Jain view emphasizes that mental suffering arises from internal disturbances such as anger (krodha), pride (māna), deceit (māyā), and greed (lobha), collectively known as kaṣāyas. These are not merely moral flaws but destabilizing forces that cloud judgment, intensify distress, and obstruct clarity. The cultivation of equanimity (samatā), non‑violence (ahiṃsā), and careful attention (apramatta) is presented as a path toward mental steadiness. This is not a replacement for modern mental‑health care; rather, it is a philosophical and ethical framework that can complement contemporary understanding.\n\nJain texts also describe the mind as dynamic and conditioned by karmic influx (āsrava) and bondage (bandha). Harmful mental states are linked to passions that bind destructive karma, while calm and compassionate states reduce karmic accumulation. The tradition recognizes that mental agitation can impair ethical decision‑making and spiritual progress. Commentaries from both Digambara and Śvetāmbara lineages emphasize gradual training, self-awareness, and supportive community practices.\n\nModern Jain scholars and community educators often integrate these classical insights with contemporary mental‑health perspectives, stressing that professional care, therapy, and medical support are essential when someone is experiencing distress, illness, or crisis. Jain ethics strongly discourage self-harm and affirm the importance of protecting life—including one’s own—through compassionate action, seeking help, and maintaining supportive relationships.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 7.3–7.4",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "कषायाः कर्मबन्धहेतवः ।",
+      "transliteration": "kaṣāyāḥ karmabandhahetavaḥ.",
+      "translation": "Passions are the causes of karmic bondage.",
+      "notes": "This foundational aphorism links mental disturbances—anger, pride, deceit, greed—to karmic processes. Traditional commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi) explain that these passions disrupt mental clarity and wellbeing."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 29.1",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "संतो समो भवति ।",
+      "transliteration": "saṃto samo bhavati.",
+      "translation": "The calm person becomes equanimous.",
+      "notes": "This passage highlights equanimity as a mental state cultivated through discipline and awareness. Commentaries emphasize its role in reducing agitation and fostering stability."
+    },
+    {
+      "title": "Śrāvakācāra (various versions)",
+      "author": "Digambara lay conduct manuals (e.g., Ācārya Amitagati)",
+      "original_text": "अप्रमत्तो धर्ममार्गेण चरति ।",
+      "transliteration": "apramatto dharmamārgeṇa carati.",
+      "translation": "The attentive person walks the path of dharma.",
+      "notes": "Lay conduct texts stress attentiveness and self-regulation as essential for ethical living and mental steadiness. They do not replace medical or therapeutic care but provide ethical framing."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that all mental suffering is purely karmic and must be endured without seeking external help.",
+      "reality": "Classical texts describe karmic influences on mental states, but modern Jain teachers and scholars emphasize that professional mental‑health care, therapy, and medical support are essential. Jain ethics require protecting life—including one’s own—through compassionate action."
+    },
+    {
+      "myth": "Practices like meditation or pratikramaṇa alone can cure clinical mental illness.",
+      "reality": "Jain practices can support emotional regulation and ethical reflection, but they are not medical treatments. Clinical conditions require qualified mental‑health professionals; spiritual practices may complement but never replace evidence‑based care."
+    },
+    {
+      "myth": "Sallekhanā is a response to mental distress or depression.",
+      "reality": "Sallekhanā is a highly regulated vow requiring physical decline, community oversight, and lineage authorization. It is never a response to psychological suffering. Any request related to self-harm or suicide requires immediate professional support."
+    }
+  ]
+}

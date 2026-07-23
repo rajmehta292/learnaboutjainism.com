@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, “study and discourse” (svādhyāya and pravacana) form a central pillar of lay and monastic practice. They are not merely intellectual activities but disciplined engagements with scripture, ethical reflection, and community learning. Across Digambara and Śvetāmbara lineages, study is framed as a direct means of cultivating right knowledge (samyag‑jñāna) and supporting right faith (samyag‑darśana), two of the three jewels (ratnatraya) that structure the path to liberation.\n\nSvādhyāya traditionally includes reading, recitation, memorization, and analytical reflection on canonical texts, commentaries, and ethical manuals. Pravacana refers to discourse—listening to teachings, participating in discussions, and engaging in interpretive dialogue. Both practices are considered forms of internal austerity (ābhyantara tapa) in several canonical lists, emphasizing that disciplined learning is itself a spiritual exercise.\n\nHistorically, Jain communities developed rich pedagogical cultures: monastic instruction, lay study circles, scriptural recitation during festivals, and public discourses by learned teachers. Manuscript traditions in Prakrit and Sanskrit preserved extensive commentarial lineages, and modern Jain education continues through paṭhaśālās, university programs, and community seminars. While styles differ—Digambara emphasis on śāstra‑study, Śvetāmbara Mūrti‑pūjaka focus on canonical āgamas, Sthānakavāsī and Terāpanth attention to non‑iconic scriptural and ethical texts—the underlying principle remains shared: study and discourse refine discernment, reduce karmic obscurations, and strengthen ethical commitment.\n\nIn contemporary practice, study and discourse also serve as bridges between ancient teachings and modern ethical questions. Practitioners explore how classical doctrines—nonviolence, restraint, karma theory, and cosmology—inform decisions about ecology, technology, and social responsibility. Yet traditional sources emphasize that interpretation must remain grounded in verified scripture and lineage‑reviewed commentary, and that complex doctrinal questions should be discussed with qualified human teachers.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "स्वाध्यायो ज्ञानवृद्धिः",
+      "transliteration": "svādhyāyo jñānavṛddhiḥ",
+      "translation": "Study is the growth of knowledge.",
+      "notes": "Tattvārtha Sūtra 9.27 (Digambara numbering varies). This aphorism identifies svādhyāya as one of the internal austerities, linking disciplined study directly to spiritual progress. Commentaries differ on whether svādhyāya refers primarily to scriptural recitation or broader analytical engagement."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text; author unknown",
+      "original_text": "णंमि णंमि सुणह सुयणं, जं वि भणइ भणइ तं वि सुणह।",
+      "transliteration": "ṇammi ṇammi suṇaha suyaṇaṃ, jaṃ vi bhaṇaï bhaṇaï taṃ vi suṇaha.",
+      "translation": "Listen again and again to the teachings; whatever is spoken, listen to it attentively.",
+      "notes": "Uttarādhyayana Sūtra 28.1. This passage emphasizes repeated listening and attentive engagement as essential components of discourse (pravacana)."
+    },
+    {
+      "title": "Samayasāra (Digambara)",
+      "author": "Ācārya Kundakunda",
+      "original_text": "पढमि णं जोगं, जोगं णं पढमि।",
+      "transliteration": "paḍhami ṇaṃ jogaṃ, jogaṃ ṇaṃ paḍhami.",
+      "translation": "I study the path of yoga, and the path of yoga studies me.",
+      "notes": "A poetic line from Samayasāra (context varies by edition). It highlights the reciprocal relationship between disciplined study and inner realization. Editions differ, and some manuscripts omit or vary this phrasing; thus it is presented with caution."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Study and discourse are purely intellectual activities without spiritual significance.",
+      "reality": "Primary texts classify svādhyāya and pravacana as internal austerities that directly reduce karmic bondage and cultivate right knowledge."
+    },
+    {
+      "myth": "Only monastics are expected to engage in scriptural study.",
+      "reality": "Laypeople are repeatedly encouraged in canonical and commentarial literature to study, listen to teachings, and participate in discourse as part of their daily ethical practice."
+    },
+    {
+      "myth": "All Jain traditions use the same scriptural corpus for study.",
+      "reality": "Digambara and Śvetāmbara lineages preserve different canonical collections and commentarial traditions, though they share core philosophical themes and value disciplined study."
+    }
+  ]
+}

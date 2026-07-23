@@ -1,0 +1,51 @@
+{
+  "overview": "Faith‑deluding karma (darśana‑mohanīya karma) is one of the two major categories of mohanīya karma described in Jain philosophy, the other being conduct‑deluding karma (cāritra‑mohanīya). Within the Jain karmic ontology, mohanīya karma is considered the most powerful and obstructive because it directly distorts the soul’s innate capacity for right perception, right knowledge, and right conduct. Faith‑deluding karma specifically obscures **right faith (samyak‑darśana)**—the soul’s ability to intuitively and correctly apprehend the nature of reality, including the existence of the soul, karma, liberation, and the teachings of the Jinas.\n\nIn classical Jain doctrine, faith‑deluding karma is subdivided into three principal types: **(1) mithyātva** (complete wrong belief), **(2) miśra‑darśana** (mixed or oscillating belief), and **(3) samyak‑mithyātva** (right belief that is unstable or vulnerable). These gradations reflect the degree to which the soul’s perception is clouded. When faith‑deluding karma is fully operative, the soul cannot recognize the path to liberation; when partially operative, the soul may intermittently grasp correct teachings but fail to sustain them.\n\nFaith‑deluding karma plays a central role in the progression through the **fourteen guṇasthānas** (stages of spiritual development). The destruction or subsidence of this karma marks the transition from the lowest stages of spiritual ignorance to the attainment of **samyak‑darśana**, the indispensable foundation for liberation. Jain texts emphasize that without overcoming faith‑deluding karma, no amount of scriptural learning or ritual practice can yield true spiritual advancement.\n\nBoth Digambara and Śvetāmbara traditions agree on the fundamental structure of faith‑deluding karma, though their commentarial traditions sometimes differ in classification details and interpretive nuance. Across traditions, the core idea remains: faith‑deluding karma is the primary veil preventing the soul from recognizing its own purity and the reality of the path taught by the Jinas.\n\nIn modern Jain education, faith‑deluding karma is often explained as the psychological and existential tendencies that lead individuals to doubt, ignore, or misunderstand spiritual truths. However, classical texts maintain that this karma is not merely metaphorical—it is a real, subtle material entity binding to the soul due to passions (kaṣāyas) and delusion. Its removal is achieved through ethical discipline, meditation, and the gradual weakening of passions, culminating in the soul’s liberation (mokṣa).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "मोहनियं द्विविधम् ।",
+      "transliteration": "mohaniyaṃ dvividham.",
+      "translation": "Deluding karma is of two kinds.",
+      "notes": "Tattvārtha Sūtra 8.1 introduces the division of mohanīya karma into faith‑deluding and conduct‑deluding. Subsequent sūtras (8.4–8.6) classify the subdivisions of faith‑deluding karma."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "मिथ्यात्वं मिश्रं सम्यग्मिथ्यात्वं च दर्शनमोहनियं ।",
+      "transliteration": "mithyātvaṃ miśraṃ samyagmithyātvaṃ ca darśanamohaniyaṃ.",
+      "translation": "Wrong belief, mixed belief, and right‑wrong belief constitute faith‑deluding karma.",
+      "notes": "This passage (Tattvārtha Sūtra 8.4) provides the canonical threefold classification of faith‑deluding karma."
+    },
+    {
+      "title": "Gommatasāra (Karmakāṇḍa)",
+      "author": "Nemichandra Siddhānta‑cakravartin",
+      "original_text": "दर्शनमोहनियं तिण्णि—मिच्छत्त, मिश्र, सम्मत्तमिच्छत्तं ।",
+      "transliteration": "dassana‑mohaniyaṃ tiṇṇi—micchatta, misra, sammattamicchattaṃ.",
+      "translation": "Faith‑deluding karma is of three kinds: wrong belief, mixed belief, and right‑wrong belief.",
+      "notes": "A Digambara canonical summary text elaborating the same threefold division with detailed karmic mechanics."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Kundakunda",
+      "original_text": "दंसणमोहनियं पोग्गलम् ।",
+      "transliteration": "daṃsaṇa‑mohaniyaṃ poggalam.",
+      "translation": "Faith‑deluding karma is material (pudgala).",
+      "notes": "Kundakunda emphasizes the ontological reality of karma as subtle matter binding to the soul."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Faith‑deluding karma is simply a psychological state of doubt or confusion.",
+      "reality": "Classical Jain texts describe it as a real, subtle material karma (pudgala) that binds to the soul and obstructs right faith. Psychological explanations are modern pedagogical interpretations, not replacements for the traditional ontology."
+    },
+    {
+      "myth": "Faith‑deluding karma can be removed instantly through belief or ritual alone.",
+      "reality": "Primary texts state that its destruction or subsidence requires sustained ethical discipline, reduction of passions, and progression through the guṇasthānas. Mere intellectual assent does not eliminate this karma."
+    },
+    {
+      "myth": "All forms of wrong belief are equal in karmic severity.",
+      "reality": "Jain doctrine distinguishes three graded forms—mithyātva, miśra, and samyak‑mithyātva—each with different karmic intensities and spiritual consequences."
+    }
+  ]
+}

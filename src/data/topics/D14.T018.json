@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, “family” (kutumba, kula, parivāra) is understood as a social, ethical, and karmic context in which laypeople (śrāvakas and śrāvikās) cultivate non‑violence, truthfulness, restraint, and mutual care. While liberation (mokṣa) is ultimately an individual attainment, Jain texts consistently acknowledge that household life is the normative setting for most practitioners and that family relationships can support or hinder ethical progress.\n\nAcross Digambara and Śvetāmbara traditions, family is framed as part of the *gṛhastha dharma*—the duties of householders. These duties include providing for dependents, practicing ahiṃsā in domestic life, maintaining honesty in livelihood, and fostering an environment conducive to spiritual study. The family is not treated as a spiritual obstacle by default; rather, it is a field for disciplined conduct, generosity, and emotional regulation.\n\nClassical texts describe the family as a site of karmic entanglement—attachments, expectations, and conflicts can intensify passions (kaṣāyas). Yet they also emphasize that supportive relationships, ethical upbringing of children, and shared commitment to vows (vratas) can strengthen the layperson’s path. Later commentaries and community teachings highlight the importance of compassion, equitable treatment, and non‑harm within the household, including care for elders, children, and animals.\n\nIn modern Jain communities, “family” also includes extended kin networks, intergenerational transmission of values, and collective participation in rituals, festivals, and charitable activities. Contemporary scholarship notes that Jain families often serve as primary institutions for teaching ahiṃsā, vegetarianism, and ethical consumption. Despite these social functions, Jain doctrine maintains that spiritual responsibility rests with the individual, and no family member can absolve or transfer another’s karma.\n\nThus, the Jain conception of family integrates ethical responsibility, emotional discipline, and spiritual aspiration, while acknowledging the complexity of attachments and the need for mindful engagement with domestic life.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं कुले णं गोत्रे णं वयणे णं वयस्से",
+      "transliteration": "ṇaṃ kule ṇaṃ gotre ṇaṃ vayaṇe ṇaṃ vayasse",
+      "translation": "“Neither family, nor lineage, nor speech, nor age [determines one’s conduct].”",
+      "notes": "This passage (Ācārāṅga Sūtra 1.2.3, Śvetāmbara recension) emphasizes that ethical worth is not based on family status. It is often cited to show that while family is socially significant, spiritual progress depends on personal discipline."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "गृहस्थस्य व्रतानि",
+      "transliteration": "gṛhasthasya vratāni",
+      "translation": "“The vows of the householder.”",
+      "notes": "Tattvārtha Sūtra 7.1 introduces the lay vows (aṇu‑vratas), which structure ethical life within the family. Commentaries explain that householders practice these vows while fulfilling responsibilities to spouse, children, and dependents."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra",
+      "author": "Samantabhadra (Digambara)",
+      "original_text": "कुलधर्मपालनं श्रावकस्य कर्तव्यं",
+      "transliteration": "kuladharmapālanaṃ śrāvakasyā kartavyaṃ",
+      "translation": "“A layperson ought to uphold the duties of the family.”",
+      "notes": "Although phrased broadly, Digambara commentators clarify that ‘family duties’ include non‑harm, honesty, and care for dependents. The text frames family obligations as compatible with spiritual progress when practiced without excessive attachment."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "संसारो बन्धनं लोए, तं बन्धं कुले जणे",
+      "transliteration": "saṃsāro bandhanaṃ loe, taṃ bandhaṃ kule jaṇe",
+      "translation": "“In the world, saṃsāra is bondage; that bondage arises among family and people.”",
+      "notes": "This verse highlights the potential for attachment within family life. Commentaries stress that the point is not to reject family but to remain vigilant about passions arising from relationships."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that family life is inherently an obstacle to spiritual progress.",
+      "reality": "Primary texts state that attachment—not family itself—is the obstacle. Household life is the normative path for laypeople, and ethical family conduct is considered part of gṛhastha dharma."
+    },
+    {
+      "myth": "Jain doctrine allows transferring merit or karma among family members.",
+      "reality": "Karma is strictly individual. While family members can support one another’s practice, no one can transfer or cancel another’s karmic results."
+    },
+    {
+      "myth": "Jain families must follow identical vows and practices.",
+      "reality": "Texts distinguish between monastic vows and lay vows, and within lay life individuals adopt vows according to capacity. Families often share values, but obligations are personal."
+    }
+  ]
+}

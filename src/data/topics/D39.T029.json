@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain thought, water (*āpa*, *jala*) is both a physical substance and a living habitat containing innumerable subtle life-forms. Classical Jain cosmology classifies water as one of the five *pudgala* aggregates and one of the five single-sensed (*ekendriya*) beings. This dual framing—material and sentient—shapes how water is described in primary texts, how it is treated in ethical practice, and how it is understood in metaphysics.\n\nFrom a physical standpoint, water is considered a form of matter capable of combination, transformation, and interaction with other substances. It is essential for sustaining embodied life, regulating bodily processes, and enabling environmental balance. Jain texts describe water as composed of extremely fine particles that can combine to form droplets, streams, and oceans. These descriptions appear in both Śvetāmbara and Digambara traditions, though terminology and emphasis vary.\n\nFrom a biological and ethical standpoint, water is also home to *āpa-kāyika jīvas*—water-bodied beings. These are subtle organisms possessing only the sense of touch. Because they are living entities, harming them generates *hiṃsā* (violence) and binds karma. This is why many Jain practices emphasize careful use of water: filtering it before drinking, avoiding unnecessary wastage, and refraining from actions that disturb aquatic life. The concern is not ritual purity but the minimization of harm to living beings.\n\nIn cosmology, water occupies specific regions of the Jain universe, including the great oceans surrounding Jambūdvīpa. These oceans are described with precise measurements and contain unique life-forms and substances. While these descriptions are symbolic and cosmographic, they reflect the broader Jain commitment to mapping all forms of life and matter.\n\nIn modern Jain ethics, water conservation is often linked to traditional principles of nonviolence and nonpossessiveness. Contemporary interpreters draw connections between ancient teachings on water-bodied beings and ecological responsibility, emphasizing sustainable use, protection of aquatic ecosystems, and awareness of the living complexity within water.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अप्कायिकाः स्पर्शेन्द्रियाः",
+      "transliteration": "apkāyikāḥ sparśendriyāḥ",
+      "translation": "Water-bodied beings possess only the sense of touch.",
+      "notes": "Tattvārtha Sūtra 2.13 (Śvetāmbara numbering) or 2.14 (Digambara numbering). This is a foundational statement identifying water-bodied beings as single-sensed organisms."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Anonymous Śvetāmbara canonical text",
+      "original_text": "जले अप्पगया बहू बहू जिवा",
+      "transliteration": "jale appagaya bahū bahū jīvā",
+      "translation": "In water, countless water-bodied beings dwell.",
+      "notes": "A common canonical passage (chapter-level variations across editions). It emphasizes the presence of innumerable subtle organisms in water."
+    },
+    {
+      "title": "Gommatasāra (Jīvakāṇḍa)",
+      "author": "Nemichandra Siddhānta Chakravartin",
+      "original_text": "अप्पकायो जलरूपो एकेन्द्रियः",
+      "transliteration": "appakāyo jalarūpo ekendriyaḥ",
+      "translation": "The water-bodied being, having the form of water, is single-sensed.",
+      "notes": "A Digambara technical text detailing classifications of living beings. It provides systematic descriptions of water-bodied organisms and their karmic characteristics."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain texts teach that all water itself is alive.",
+      "reality": "Jainism distinguishes between water as matter (*pudgala*) and water-bodied beings (*āpa-kāyika jīvas*) that inhabit water. The substance is not alive, but living organisms exist within it."
+    },
+    {
+      "myth": "Filtering water is a ritual purity practice.",
+      "reality": "Filtering water is an ethical practice intended to reduce harm to subtle aquatic life-forms. It is not about ritual purity but about minimizing violence."
+    },
+    {
+      "myth": "Ancient Jain descriptions of oceans are meant as literal geography.",
+      "reality": "Jain cosmographic oceans belong to a symbolic and structured cosmology. They are not intended as empirical maps of Earth’s oceans."
+    }
+  ]
+}

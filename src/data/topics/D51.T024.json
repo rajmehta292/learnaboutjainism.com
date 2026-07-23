@@ -1,0 +1,39 @@
+{
+  "overview": "BibTeX is both a bibliographic file format and a companion program used primarily with the TeX and LaTeX typesetting systems to manage references and generate bibliographies automatically. Created in 1985 by Oren Patashnik, with Leslie Lamport involved in its early development, BibTeX was designed to separate bibliographic data from its visual presentation—mirroring LaTeX’s broader philosophy of separating content from formatting. In practice, BibTeX allows authors to maintain a single database of references and reuse it across multiple documents and citation styles.\n\nAt the core of BibTeX is the .bib file, a plain-text database that stores bibliographic entries. Each entry begins with an entry type (such as @article, @book, @inproceedings, @phdthesis, or @misc), followed by a citation key and a set of field–value pairs. The citation key is a short identifier chosen by the user (for example, knuth1984texbook or smith2023deep) and is what the author uses in the LaTeX document with commands like \\cite{knuth1984texbook}. The fields describe the work—common ones include author, title, year, journal, booktitle, publisher, volume, pages, and doi. Because the .bib file is plain text, it can be version-controlled, shared, and edited with any text editor, and it can be generated or imported from reference managers and online databases.\n\nThe BibTeX program itself acts as a processor that runs alongside LaTeX. The typical workflow is: (1) compile the LaTeX document, which produces an auxiliary .aux file listing all citation keys used; (2) run BibTeX on that .aux file, which causes BibTeX to read the specified .bib database(s), select only the entries actually cited, and format them according to a chosen style file (.bst); (3) recompile the LaTeX document one or more times so that the generated bibliography (.bbl file) is incorporated and all cross-references are resolved. The style file (.bst) is written in a special stack-based language and defines how each entry type should be formatted—ordering of fields, punctuation, capitalization, and overall layout. By changing only the .bst file via the \\bibliographystyle command, the same underlying data can be rendered in different citation styles (for example, numeric, author–year, or journal-specific formats).\n\nBibTeX has become a de facto standard for citation management in LaTeX-based workflows and is widely supported by reference managers and online tools, which can export bibliographic data directly in BibTeX format. Over time, limitations of classic BibTeX—such as restricted Unicode support, difficulty customizing styles, and limited handling of modern metadata like URLs and DOIs—led to the development of successors and extensions. The most prominent is BibLaTeX, a LaTeX package that uses a more flexible interface and typically relies on the biber backend, offering better Unicode handling, richer entry types, and more powerful sorting and filtering. Nonetheless, traditional BibTeX remains in heavy use, especially in journals and conferences whose templates still expect BibTeX-based workflows.\n\nIn contemporary practice, BibTeX is valued for its ability to maintain a reusable, centralized bibliography, ensure consistent citation formatting, and integrate smoothly with automated tools. It supports large bibliographic databases, cross-referencing between entries (such as linking a conference paper to its proceedings volume), and collaboration through shared .bib files. Even when newer systems like BibLaTeX are adopted, the BibTeX file format itself often remains the underlying standard for storing and exchanging citation data, making BibTeX a foundational component of modern academic typesetting and reference management.",
+  "primary_sources": [
+    {
+      "title": "BibTeX User Documentation (BibTeXing)",
+      "author": "Oren Patashnik",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "BibTeXing is the original user guide written by BibTeX’s author, explaining the design of the system, the structure of .bib files, and the behavior of the BibTeX processor. It describes entry types, required and optional fields, and gives examples of how to construct bibliographic databases and style files.",
+      "notes": "This document is considered the primary technical reference for BibTeX. It is distributed with many TeX systems and is available through TeX user group archives. While not a religious or philosophical text, it functions as a canonical source for understanding BibTeX’s intended usage and design."
+    },
+    {
+      "title": "BibTeX Program and Source Code",
+      "author": "Oren Patashnik (with early collaboration by Leslie Lamport)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The BibTeX program is written in WEB/Pascal and its source code, along with accompanying comments, documents the internal logic of how BibTeX parses .bib files, applies .bst style rules, and generates .bbl output for LaTeX. The comments and structure serve as a primary source for the technical behavior of BibTeX.",
+      "notes": "The source code is maintained in TeX distributions such as TeX Live and is licensed under the Knuth License. It is a foundational technical artifact rather than a narrative text, but it is authoritative for implementation details and historical versions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "BibTeX is only a file format and not a program.",
+      "reality": "BibTeX is both a bibliographic flat-file format (.bib) and a separate program that processes these files to generate formatted bibliographies for LaTeX documents. The term BibTeX commonly refers to both aspects together."
+    },
+    {
+      "myth": "BibTeX automatically supports all modern citation styles without any configuration.",
+      "reality": "BibTeX relies on .bst style files to define how citations and bibliographies are formatted. To use a particular style—such as APA, IEEE, or a journal-specific format—you must select or install an appropriate .bst file, and in some cases customization or additional packages are required."
+    },
+    {
+      "myth": "BibTeX fully supports Unicode and all modern metadata fields out of the box.",
+      "reality": "Classic BibTeX has limited Unicode support and was designed before widespread use of fields like URLs, DOIs, and complex non-Latin scripts. Extensions, careful encoding, or alternative systems like BibLaTeX with the biber backend are often used to handle modern requirements more robustly."
+    },
+    {
+      "myth": "Switching from BibTeX to BibLaTeX requires abandoning existing .bib files.",
+      "reality": "BibLaTeX typically uses the same .bib file format as BibTeX. While some additional fields and entry types are available in BibLaTeX, existing BibTeX databases can usually be reused with minimal changes, making migration more about changing LaTeX commands and backend configuration than rewriting the bibliography data."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "The six external austerities (bahya tapa) form one half of the twelvefold discipline of tapas described in classical Jain literature. They are considered supportive practices that discipline the body and environment so that the mind can engage more deeply in internal austerities (abhyantara tapa). While internal austerities are regarded as more directly efficacious for the destruction of karmic matter, external austerities cultivate restraint, simplicity, and endurance, preparing the practitioner for higher levels of spiritual effort.\n\nAcross Śvetāmbara and Digambara traditions, the six external austerities are generally listed as: (1) anāśana (fasting), (2) avamaudarya or alpāhāra (eating less), (3) vṛttipariśuddhi (purity of food), (4) rasaparityāga (renunciation of tasty foods), (5) kāyakleśa (physical endurance), and (6) saṃlīnatā (withdrawal or seclusion). Their definitions vary slightly by sect and commentary, but the core intent remains consistent: reducing bodily dependence, simplifying consumption, and strengthening equanimity.\n\nIn practice, these austerities are framed for laypeople as moderated disciplines—such as periodic fasting, mindful consumption, and voluntary simplicity—while monastic codes describe more rigorous applications. Classical texts emphasize that austerities must be paired with right intention (bhāva) and nonviolence (ahiṃsā); without these, austerities risk becoming mere bodily hardship rather than spiritual purification.\n\nModern Jain teachers often highlight that external austerities should never compromise health or safety. They are meant to cultivate awareness of desire, habit, and attachment—not to cause harm. Thus, responsible guidance, personal capacity, and ethical considerations are central to their application.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अनशनावमौद्यार्यवृत्तिपरिशुद्धिरसपरित्यागकायक्लेशसंलीनता बाह्यास्तपांसि",
+      "transliteration": "anaśanā‑vamaudyārya‑vṛttipariśuddhi‑rasaparityāga‑kāyakleśa‑saṃlīnatā bāhyās tapāṃsi",
+      "translation": "Fasting, eating less, purity of food, renunciation of tasty foods, physical endurance, and withdrawal are the external austerities.",
+      "notes": "Tattvārtha Sūtra 9.19 is the most widely cited canonical definition across sects. Commentaries by Pūjyapāda (Digambara) and Siddhasena Gaṇin (Śvetāmbara) elaborate on the ethical and psychological dimensions of each austerity."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "तपसा बहुविधेन देहम् परिशुद्ध्यति।",
+      "transliteration": "tapasā bahuvidhena deham pariśuddhyati",
+      "translation": "By various forms of austerity, the body becomes purified.",
+      "notes": "Uttarādhyayana Sūtra chapters 30–32 discuss austerities in narrative and instructional form. Although not listing the six external austerities in a single verse, the text provides examples of fasting, endurance, and simplicity as foundational practices."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (with Dhavalā commentary)",
+      "author": "Kundakunda (root text), Amṛtacandra and others (commentaries)",
+      "original_text": "तपो हि कर्मक्षयहेतुः।",
+      "transliteration": "tapo hi karmakṣayahetuḥ",
+      "translation": "Austerity is indeed a cause of the destruction of karma.",
+      "notes": "The Digambara canonical corpus does not enumerate the six external austerities in a single sutra but discusses their functions within the broader karmic framework. Dhavalā provides detailed analysis of how bodily restraint supports internal purification."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "External austerities are primarily about severe physical hardship.",
+      "reality": "Classical texts emphasize intention, nonviolence, and moderation. External austerities are preparatory disciplines meant to reduce attachment, not to inflict harm."
+    },
+    {
+      "myth": "All six external austerities must be practiced in their most rigorous monastic form by laypeople.",
+      "reality": "Jain tradition clearly distinguishes lay and monastic capacities. Lay practice focuses on gentle, sustainable forms such as periodic fasting or mindful consumption."
+    },
+    {
+      "myth": "External austerities alone can lead to liberation.",
+      "reality": "Primary texts consistently state that internal austerities—such as meditation, repentance, and self-study—are more directly responsible for karmic destruction. External austerities support but do not replace internal ones."
+    }
+  ]
+}

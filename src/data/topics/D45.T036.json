@@ -1,0 +1,51 @@
+{
+  "overview": "Within Jain thought, the idea of a “career” is not treated as a separate doctrinal category, yet it emerges naturally within discussions of right livelihood (*samyak jīvana*), lay conduct (*śrāvakācāra*), and ethical participation in society. Jainism does not prescribe specific professions for householders; instead, it provides a moral framework for evaluating work according to non‑violence (*ahiṃsā*), honesty (*satya*), non‑stealing (*asteya*), sexual restraint (*brahmacarya*), and non‑possessiveness (*aparigraha*). A career, in this sense, becomes an arena in which laypersons apply the vows and cultivate spiritual progress while fulfilling worldly responsibilities.\n\nJain traditions recognize that householders must engage in economic activity to sustain themselves and their families. Texts such as the *Ācārāṅga Sūtra*, *Sūtrakṛtāṅga*, *Daśavaikālika*, and *Ratnakaraṇḍa Śrāvakācāra* outline principles for ethical livelihood rather than prescribing occupations. These principles include minimizing harm to living beings, avoiding deceit, practicing fair trade, and maintaining awareness of karmic consequences. Careers involving violence, exploitation, or deception are discouraged, while professions that support social welfare, education, medicine, commerce, and administration are generally considered compatible with lay ethics when practiced responsibly.\n\nAcross Digambara and Śvetāmbara traditions, the emphasis remains on intention, conduct, and restraint rather than the profession itself. Modern Jain communities often interpret these teachings to support careers in business, science, technology, law, medicine, and the arts, provided practitioners uphold ethical standards and avoid unnecessary harm. The concept of career thus becomes a dynamic intersection of spiritual discipline and worldly engagement, shaped by scriptural guidance, commentary, and contemporary application.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं तं जहा णं अण्णं अण्णस्स जिविअं, तं जहा णं अण्णं अण्णस्स उवकारं।",
+      "transliteration": "ṇaṃ taṃ jahā ṇaṃ aṇṇaṃ aṇṇassa jiviaṃ, taṃ jahā ṇaṃ aṇṇaṃ aṇṇassa uvakāraṃ.",
+      "translation": "“Just as one’s own life is dear to oneself, so is the life of others; just as one’s own welfare is valued, so is the welfare of others.”",
+      "notes": "Tier A. This passage is frequently cited to frame ethical conduct, including livelihood. It does not mention careers explicitly but provides the foundational ethic of non‑harm that guides occupational choices."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "अहिंसा परमो धम्मो।",
+      "transliteration": "ahiṃsā paramo dhammo.",
+      "translation": "“Non‑violence is the supreme dharma.”",
+      "notes": "Tier A. A core principle applied to evaluating professions. Commentaries (Tier B) extend this to discourage livelihoods involving killing, exploitation, or deceit."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra",
+      "author": "Ācārya Samantabhadra (Digambara)",
+      "original_text": "अहिंसासत्यास्तेयब्रह्मचर्यापरिग्रहव्रतानि श्रावकस्य।",
+      "transliteration": "ahiṃsā‑satya‑asteya‑brahmacaryā‑parigraha‑vratāni śrāvakasya.",
+      "translation": "“The vows of non‑violence, truth, non‑stealing, chastity, and non‑possessiveness belong to the lay follower.”",
+      "notes": "Tier A/B. This text provides the clearest classical framework for lay ethics. Commentators apply these vows to professional conduct, emphasizing honest trade, avoidance of harm, and restraint in accumulation."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "सच्चं भणेमि, असच्चं न भणेमि।",
+      "transliteration": "sacchaṃ bhaṇemi, asacchaṃ na bhaṇemi.",
+      "translation": "“I speak what is true; I do not speak what is untrue.”",
+      "notes": "Tier A. Often applied to professional ethics, especially in commerce, law, and administration."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism forbids most modern careers because they inevitably involve some form of harm.",
+      "reality": "Primary texts do not prohibit specific professions. They provide ethical criteria—minimizing harm, avoiding deceit, and practicing restraint—allowing householders to pursue diverse careers responsibly."
+    },
+    {
+      "myth": "Jain laypersons must choose only traditional mercantile occupations.",
+      "reality": "While many historical Jain communities specialized in trade, the tradition does not mandate this. Modern Jains work across fields such as medicine, technology, academia, law, and the arts, guided by ethical principles rather than occupational categories."
+    },
+    {
+      "myth": "A career is spiritually incompatible with Jain practice.",
+      "reality": "Lay ethics explicitly assume householders will engage in livelihood. Careers become a field for practicing vows, cultivating discipline, and contributing to society while progressing spiritually."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "overview": "Combined-tradition centers in Jainism are contemporary institutions—usually temples or community halls—designed to serve multiple Jain sects under a single organizational and architectural roof. They have emerged most visibly in the global diaspora (North America, UK, parts of Europe), but similar experiments exist in India and elsewhere. Their defining feature is not merely co-location of Jains, but intentional provision of distinct spaces, schedules, and governance structures for different traditions (such as Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, Terāpanthī, and lineages like Śrīmad Rājacandra), while affirming a shared ethical and philosophical core rooted in the teachings of the Jinas.  [[0]](https://en.wikipedia.org/wiki/Jain_Center_of_America) [[1]](https://southasianherald.com/historic-unity-jain-sects-unite-to-inaugurate-landmark-temple-in-beltsville-maryland/)\n\nHistorically, Jain communities organized themselves along sectarian lines, with separate temples, monastic lineages, and canonical emphases. Archaeological and textual evidence shows that the Digambara–Śvetāmbara schism solidified over centuries, and later reform movements such as Sthānakavāsī and Terāpanth further diversified institutional life. Combined-tradition centers respond to a new social reality: smaller, geographically dispersed Jain populations in cities where building multiple fully staffed temples for each sect is impractical. In these contexts, lay Jains often share language, migration histories, and professional networks, making a unified physical center both economically feasible and socially attractive.  [[2]](https://www.noosaga.com/explore/jainism/jain-history-and-community) [[3]](https://settleinamerica.com/guides/indian/bay-area/jain/)\n\nArchitecturally, many combined-tradition centers allocate separate sanctums or floors for different traditions. The Jain Center of America in New York, for example, houses a Śvetāmbara Mahāvīra shrine, a Digambara Ṛṣabhanātha shrine, an upāśraya-style space for Sthānakavāsīs (who do not use images), and a meditation hall associated with the Śrīmad Rājacandra tradition—all within one building. Each area follows its own iconographic norms, ritual protocols, and festival observances, while common halls host lectures, youth classes (pāṭhaśālā), and community meals. This model allows sectarian integrity and mutual respect to coexist, embodying the Jain principle of anekāntavāda (many-sidedness) at the institutional level.  [[0]](https://en.wikipedia.org/wiki/Jain_Center_of_America)\n\nIn North America, centers such as the Jain Center of Northern California (Milpitas) and the Jain Society of Houston explicitly describe themselves as “all-sect” or “multi-sect,” serving Śvetāmbara and Digambara families together and often welcoming members from Sthānakavāsī and Terāpanth backgrounds. These centers typically develop shared educational curricula emphasizing core doctrines—ahiṃsā (non-violence), aparigraha (non-possessiveness), samyag-darśana (right faith), samyag-jñāna (right knowledge), and samyag-cāritra (right conduct)—while acknowledging differences in scriptural canons, monastic discipline, and ritual practice. For many youth and second-generation Jains, combined-tradition centers become the primary lens through which Jain identity is experienced, making them crucial sites for modern religious formation.  [[3]](https://settleinamerica.com/guides/indian/bay-area/jain/) [[4]](https://settleinamerica.com/guides/indian/houston/jain/)\n\nCombined-tradition centers also function as laboratories of intra-Jain dialogue. Planning committees must negotiate issues such as idol placement, shared festival calendars, dietary norms in community kitchens, and the invitation of teachers from different lineages. When done carefully, these negotiations deepen lay understanding of doctrinal nuances and cultivate habits of respectful disagreement. When done hastily, they can generate tensions—for example, over the use of microphones during sermons, the presence or absence of images in certain halls, or the scheduling of Paryuṣaṇa and Daśalakṣaṇa observances. Many centers therefore adopt written constitutions that affirm non-partisanship, specify representation from multiple traditions on boards, and emphasize that no single sect’s practices are normative for all.  [[1]](https://southasianherald.com/historic-unity-jain-sects-unite-to-inaugurate-landmark-temple-in-beltsville-maryland/) [[0]](https://en.wikipedia.org/wiki/Jain_Center_of_America)\n\nFrom a doctrinal perspective, combined-tradition centers do not attempt to erase historical differences in canons or monastic codes. Instead, they foreground shared ethical commitments and the common goal of liberation (mokṣa) while leaving questions of scriptural authority and ascetic discipline to the respective lineages. In this sense, they are lay-driven institutions shaped by diaspora realities rather than formal theological mergers. Their existence, however, has practical consequences: children grow up seeing multiple ritual forms as equally Jain; inter-sect marriages become more common; and community projects—such as animal shelters, vegan advocacy, or educational outreach—are framed as collective Jain initiatives rather than sect-specific efforts. These developments raise important questions for scholars and practitioners about how Jain identity will be narrated in coming generations, and how traditional authorities will relate to these hybrid spaces.\n\nFinally, combined-tradition centers highlight a tension between preservation and adaptation. On one hand, they protect minority traditions in cities where a single-sect temple might never be built. On the other, they risk flattening complex doctrinal histories into a generic “Jainism” if educational programs do not carefully distinguish between shared foundations and sect-specific teachings. Responsible centers therefore invest in robust pāṭhaśālā curricula, invite teachers from multiple lineages, and encourage youth to study primary texts and commentaries from their own traditions alongside comparative materials. In doing so, they embody a modern application of anekāntavāda: not as relativism, but as disciplined openness to multiple, well-grounded perspectives within a single liberation path.\n",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः ।",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ.",
+      "translation": "Right faith, right knowledge, and right conduct—these constitute the path to liberation.",
+      "notes": "This foundational Jain philosophical text is accepted across major traditions (Digambara and Śvetāmbara) and is frequently cited in combined-tradition centers as a shared doctrinal anchor. By emphasizing the triad of right faith, knowledge, and conduct without specifying sectarian ritual forms, it provides a common framework for multi-sect educational programs and sermons."
+    },
+    {
+      "title": "Ācārāṅga-sūtra (Śvetāmbara canon)",
+      "author": "Traditionally attributed to disciples of Mahāvīra; redacted by later councils",
+      "original_text": "अहिंसा परमो धर्मः ।",
+      "transliteration": "ahiṃsā paramo dharmaḥ.",
+      "translation": "Non-violence is the supreme religion.",
+      "notes": "Although the exact phrasing is better known from later summaries and inscriptions, the Ācārāṅga-sūtra is a key early text on ascetic conduct and non-violence. Combined-tradition centers often use this maxim—widely recognized across Jain sects—as a shared ethical slogan in common halls, educational materials, and outreach programs, even while acknowledging differences in canonical status between traditions."
+    },
+    {
+      "title": "Samayasāra (Digambara philosophical text)",
+      "author": "Ācārya Kundakunda",
+      "original_text": "जो समइं जाणइ सो धम्मं जाणइ ।",
+      "transliteration": "jo samaiṃ jāṇai so dhammaṃ jāṇai.",
+      "translation": "One who knows the self (samaya) knows the dharma.",
+      "notes": "Samayasāra is central in Digambara metaphysical teaching, focusing on the pure self and its distinction from karmic bondage. In combined-tradition centers, especially those with strong Digambara participation, verses from Samayasāra are used in classes and study groups to represent the Digambara philosophical voice alongside Śvetāmbara canonical materials, illustrating how multiple textual lineages can coexist in a single institution."
+    },
+    {
+      "title": "Kalpa-sūtra (Śvetāmbara ritual and biographical text)",
+      "author": "Traditionally attributed to Bhadrabāhu",
+      "original_text": "णमो अरिहंताणं, णमो सिद्धाणं, णमो आयरियाणं, णमो उवज्झायाणं, णमो लोए सव्वसाहूणं ।",
+      "transliteration": "ṇamo arihaṃtāṇaṃ, ṇamo siddhāṇaṃ, ṇamo āyariyāṇaṃ, ṇamo uvajjhāyāṇaṃ, ṇamo loe savva-sāhūṇaṃ.",
+      "translation": "Obeisance to the Arhats, obeisance to the Siddhas, obeisance to the Ācāryas, obeisance to the Upādhyāyas, obeisance to all the Sādhus in the world.",
+      "notes": "The Navakāra (Namokāra) mantra, in this Prakrit form, is revered across Jain traditions, even where the Kalpa-sūtra itself is not equally central. Combined-tradition centers commonly use this mantra in shared events, emphasizing that veneration is directed to categories of spiritually advanced beings rather than to any single sectarian lineage, thereby supporting a pan-Jain devotional language."
+    },
+    {
+      "title": "Modern institutional charters and constitutions (e.g., Jain Center of America, Jain Center of Northern California)",
+      "author": "Lay governing boards and founding committees",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "While not scriptural texts, the constitutions and bylaws of combined-tradition centers function as practical normative documents. They typically affirm non-sectarian governance, guarantee representation for multiple traditions on boards, and specify that each sect retains autonomy over its own ritual spaces. These charters operationalize Jain ethical principles—such as non-violence, non-possessiveness, and many-sidedness—in the concrete context of multi-sect community life, and are important primary sources for understanding how combined-tradition centers negotiate identity and authority.  [[0]](https://en.wikipedia.org/wiki/Jain_Center_of_America) [[3]](https://settleinamerica.com/guides/indian/bay-area/jain/)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Combined-tradition centers aim to erase or merge all Jain sects into a single, uniform tradition.",
+      "reality": "In practice, combined-tradition centers are designed to preserve sectarian integrity while enabling shared infrastructure and community life. They provide distinct spaces, schedules, and sometimes separate educational tracks for different traditions, while emphasizing common ethical and philosophical foundations. The goal is coexistence and cooperation, not doctrinal homogenization."
+    },
+    {
+      "myth": "Multi-sect worship under one roof is historically unprecedented and therefore inauthentic.",
+      "reality": "Archaeological and historical evidence shows that diverse Jain practices have coexisted in shared regions and even shared complexes—for example, nude and robed images in ancient Mathurā. Modern combined-tradition centers extend this pattern in diaspora contexts, formalizing coexistence through constitutions and architectural design rather than claiming to innovate new theology. Their authenticity lies in continuity with core Jain values, not in replicating past institutional forms exactly.  [[2]](https://www.noosaga.com/explore/jainism/jain-history-and-community) [[0]](https://en.wikipedia.org/wiki/Jain_Center_of_America)"
+    },
+    {
+      "myth": "Combined-tradition centers inevitably dilute serious religious practice and turn Jainism into a purely cultural identity.",
+      "reality": "While there is a risk of superficiality if education is weak, many combined-tradition centers invest heavily in pāṭhaśālā programs, scriptural study, and ethical practice. They often host visiting teachers from multiple lineages, organize intensive festival observances, and encourage disciplined lay vows. For diaspora Jains, these centers can deepen practice by providing access to resources that would otherwise be unavailable in small, scattered communities.  [[3]](https://settleinamerica.com/guides/indian/bay-area/jain/) [[4]](https://settleinamerica.com/guides/indian/houston/jain/)"
+    },
+    {
+      "myth": "Such centers exist only in North America and are purely a Western experiment.",
+      "reality": "North American examples like the Jain Center of America, the Jain Center of Northern California, and the Jain Society of Houston are well-known, but similar multi-sect or broadly inclusive centers and associations exist in other regions, including parts of India and the UK. The underlying impulse—to share infrastructure while respecting diversity—is not geographically limited, even if diaspora conditions make it more visible and structurally necessary.  [[0]](https://en.wikipedia.org/wiki/Jain_Center_of_America) [[1]](https://southasianherald.com/historic-unity-jain-sects-unite-to-inaugurate-landmark-temple-in-beltsville-maryland/)"
+    },
+    {
+      "myth": "If one sect is numerically dominant in a combined-tradition center, its practices automatically become normative for all.",
+      "reality": "Responsible combined-tradition centers explicitly reject this assumption in their charters and governance practices. They typically guarantee representation for minority traditions on boards, protect distinct ritual spaces, and frame common events around shared ethical themes rather than sect-specific doctrines. When dominance does occur informally, it is recognized as a challenge to be corrected, not as an inherent feature of the model."
+    }
+  ]
+}
+
+
+
+> [0] [Jain Center of America - Wikipedia](https://en.wikipedia.org/wiki/Jain_Center_of_America)
+>
+> [1] [Historic Unity: Jain Sects Unite to Inaugurate Landmark Temple in Beltsville, Maryland - South Asian Herald](https://southasianherald.com/historic-unity-jain-sects-unite-to-inaugurate-landmark-temple-in-beltsville-maryland/)
+>
+> [2] [Jain History And Community Map | Noosaga Explore](https://www.noosaga.com/explore/jainism/jain-history-and-community)
+>
+> [3] [Jain Community in the Bay Area | JCNC Milpitas, 2,200+ Members | Settle In America](https://settleinamerica.com/guides/indian/bay-area/jain/)
+>
+> [4] [Jain Community in Houston | 1,000+ Families, JSH & Fort Bend Guide | Settle In America](https://settleinamerica.com/guides/indian/houston/jain/)

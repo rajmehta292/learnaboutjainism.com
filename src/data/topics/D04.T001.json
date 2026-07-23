@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain philosophy, **jīva** refers to the living, conscious principle present in all sentient beings. It is one of the two fundamental categories of reality, alongside **ajīva** (non‑living substances). Jīva is characterized by inherent consciousness (*cetanā*), which is considered eternal, uncreated, and indestructible. Although consciousness is its defining attribute, a jīva also possesses numerous other qualities described in canonical texts, including bliss, energy, and knowledge in varying degrees.\n\nJīvas are infinite in number and exist throughout the cosmos. They are classified according to the number of sense faculties they possess—from one‑sensed beings such as plants and earth‑bodied organisms to five‑sensed beings capable of complex cognition. A jīva’s embodiment and experience are shaped by karmic particles that adhere to it due to activities of body, speech, and mind. These karmas obscure the jīva’s natural qualities, such as perfect knowledge (*kevala‑jñāna*) and perfect perception (*kevala‑darśana*).\n\nIn its pure state, a jīva is formless, omniscient, and endowed with infinite bliss and energy. However, in the worldly condition (*saṃsāra*), it becomes associated with a physical or subtle body, undergoes birth and death, and experiences pleasure and pain. Liberation (*mokṣa*) occurs when all karmic matter is completely shed, allowing the jīva to ascend to the top of the universe (*siddha‑śilā*) and remain eternally in its pure, perfected state.\n\nAcross Jain traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—the core characteristics of jīva remain consistent, though nuances in interpretation and terminology may vary. The concept forms the foundation of Jain ethics, emphasizing non‑violence, compassion, and responsibility toward all living beings.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "जीवो जीवः चेतनावान्",
+      "transliteration": "jīvo jīvaḥ cetanāvān",
+      "translation": "A jīva is that which possesses consciousness.",
+      "notes": "Tattvārtha Sūtra 2.8 provides one of the most concise definitions of jīva accepted across Jain traditions. Commentaries elaborate that consciousness is the essential and distinguishing attribute of jīva."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "जीवो सुद्धो सुद्धभावो",
+      "transliteration": "jīvo suddho suddhabhāvo",
+      "translation": "The jīva is pure by its inherent nature.",
+      "notes": "Samayasāra emphasizes the distinction between the pure jīva and its worldly, karma‑bound condition. The text is central to Digambara metaphysics."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "सव्वे पाणाः जीवाः",
+      "transliteration": "savve pāṇā jīvā",
+      "translation": "All living beings are jīvas.",
+      "notes": "This early Śvetāmbara canonical text highlights the universality of life and forms the ethical basis for non‑violence toward all beings."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Ācārya Nemicandra",
+      "original_text": "चेतनं जीवद्रव्यम्",
+      "transliteration": "cetanaṃ jīvadravyam",
+      "translation": "Consciousness is the defining attribute of the substance called jīva.",
+      "notes": "A concise Digambara primer that systematically describes the characteristics of jīva and other substances."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jīva and body are the same entity.",
+      "reality": "Jain texts clearly distinguish between the conscious jīva and the physical or subtle bodies it occupies. The body is temporary and material, while the jīva is eternal and immaterial."
+    },
+    {
+      "myth": "Only animals and humans are considered jīvas.",
+      "reality": "Canonical Jain texts classify plants, microorganisms, and elemental beings (earth‑bodied, water‑bodied, fire‑bodied, air‑bodied) as jīvas with varying sensory capacities."
+    },
+    {
+      "myth": "A liberated jīva retains a physical form.",
+      "reality": "Upon liberation, the jīva becomes completely free of all karmic matter and bodily association, existing in a formless state at the top of the universe."
+    }
+  ]
+}

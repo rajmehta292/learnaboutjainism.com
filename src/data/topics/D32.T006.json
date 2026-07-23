@@ -1,0 +1,43 @@
+{
+  "overview": "Old Gujarati (often called *Juna Gujarati* or *Purāṇī Gujarātī*) refers to the historical stage of the Gujarati language spoken and written approximately between the 12th and 16th centuries CE. It represents a transitional Indo‑Aryan linguistic phase emerging from Apabhraṃśa varieties of Western India, especially those associated with Jain literary culture. Old Gujarati is foundational for the development of modern Gujarati, Rajasthani, and parts of Western Hindi, and it preserves grammatical, phonological, and orthographic features that later evolved or disappeared.\n\nOld Gujarati flourished in regions corresponding to present‑day Gujarat, Saurashtra, and parts of Rajasthan. It was used extensively by Jain authors—both Śvetāmbara and Digambara—who composed narrative poetry, didactic works, commentaries, and vernacular translations of Prakrit and Sanskrit texts. Its script was an early form of the Gujarati script, itself derived from Nagari but showing distinctive letter shapes and orthographic conventions. Many manuscripts survive in Jain libraries (*bhandāras*), providing rich evidence for the language’s evolution.\n\nLinguistically, Old Gujarati retained Apabhraṃśa‑like verb morphology, including participial constructions and older case endings. It displayed a three‑gender system (masculine, feminine, neuter), post‑positional case marking, and a lexicon influenced by Sanskrit, Prakrit, and regional vernaculars. Over time, phonological simplification, loss of grammatical gender distinctions, and increasing Persianate vocabulary shaped the transition toward Middle Gujarati (16th–18th centuries) and eventually modern Gujarati.\n\nOld Gujarati is crucial for Jain studies because many canonical commentaries, narrative *rasas*, *prabandhas*, and ethical treatises were composed in this language. It provides insight into medieval Jain pedagogy, manuscript culture, and the transmission of Prakrit and Sanskrit learning into vernacular forms. Scholars rely on paleography, comparative linguistics, and manuscript collation to reconstruct its grammar and vocabulary, noting significant regional and sectarian variation.",
+  "primary_sources": [
+    {
+      "title": "Vasudevahindi (Old Gujarati recension)",
+      "author": "Attributed to Sanghadasa (Prakrit original); later vernacular redactors",
+      "original_text": "वसुदेवहिंदि (Prakrit passages)",
+      "transliteration": "vasudevahindi",
+      "translation": "Selected Old Gujarati recensions paraphrase narrative episodes from the Prakrit original, rendering them in accessible vernacular prose and verse.",
+      "notes": "Although the core text is in Prakrit (Tier A), several medieval Jain manuscripts contain Old Gujarati narrative expansions (Tier D). These vernacular layers illustrate early Gujarati syntax and vocabulary."
+    },
+    {
+      "title": "Prabandha-cintāmaṇi (vernacular-influenced manuscripts)",
+      "author": "Merutuṅga",
+      "original_text": "प्रबन्धचिन्तामणि (Sanskrit)",
+      "transliteration": "prabandha-cintāmaṇi",
+      "translation": "The Sanskrit narrative is occasionally accompanied by Old Gujarati glosses in later manuscripts, clarifying difficult terms for lay readers.",
+      "notes": "The main text is Sanskrit (Tier A), but Old Gujarati marginalia (Tier D) provide evidence of medieval Gujarati explanatory style."
+    },
+    {
+      "title": "Rasavāhinī (Old Gujarati narrative verse)",
+      "author": "Various Jain poets",
+      "original_text": "N/A (vernacular composition)",
+      "transliteration": "rasavāhinī",
+      "translation": "These poetic narratives recount moral tales and religious episodes in early Gujarati meters.",
+      "notes": "Rasa literature is central to understanding Old Gujarati poetics. Manuscripts vary widely, reflecting regional dialects and scribal conventions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Old Gujarati is simply an early form of modern Gujarati with minor spelling differences.",
+      "reality": "Old Gujarati differs significantly in grammar, gender system, verb morphology, and phonology. It is a distinct historical stage, not merely an archaic spelling of modern Gujarati."
+    },
+    {
+      "myth": "Old Gujarati was used only by Jain authors.",
+      "reality": "While Jain communities produced the majority of surviving manuscripts, Old Gujarati was a broader regional vernacular used in administrative, mercantile, and literary contexts."
+    },
+    {
+      "myth": "Old Gujarati manuscripts are uniform and standardized.",
+      "reality": "Manuscripts show substantial variation in script, vocabulary, and grammar due to regional dialects, scribal practices, and sectarian traditions."
+    }
+  ]
+}

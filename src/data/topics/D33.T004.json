@@ -1,0 +1,43 @@
+{
+  "overview": "In the history of books, printing, and manuscript studies, the term \"folio format\" refers to both a specific way of folding a sheet of writing material and, by extension, a characteristic large book size. The word \"folio\" comes from the Latin \"folium,\" meaning \"leaf,\" and originally described a single leaf or sheet. Over time, it became closely associated with how printers and scribes arranged and folded sheets to create codices, and with the physical stature and prestige of the resulting volumes.\n\nIn traditional printing, a folio is created when a full sheet of paper is printed on both sides and then folded once down the middle. This single fold produces two leaves, each leaf having a front and back, for a total of four pages per sheet. Multiple such folded sheets—often called gatherings or signatures—are nested and sewn together to form a book. Because the sheet is folded only once, folio books tend to be large, often around 15 inches (38 cm) tall or more, though exact dimensions vary with the original sheet size and period. This distinguishes folios from other formats such as quarto (where the sheet is folded twice to produce four leaves, eight pages) and octavo (folded three times to produce eight leaves, sixteen pages).\n\nBeyond the technical folding process, \"folio\" also functions as a general term for a leaf in a manuscript or early printed book. In codicology and manuscript cataloging, individual leaves are often numbered by folio rather than by page. A citation such as \"f. 26r\" refers to folio (leaf) 26, recto side (the front or right-hand page in left-to-right scripts), while \"f. 26v\" refers to the verso side (the back or left-hand page). This system reflects medieval and early modern practices, where scribes and early printers treated each leaf as the basic unit of reference, and it remains standard in scholarly descriptions of manuscripts and many early printed works.\n\nHistorically, the folio format carried strong cultural and symbolic weight. Because large sheets of paper or parchment were more expensive and required more material, labor, and storage space, folio books were typically reserved for texts considered important or authoritative. Bibles, legal codes, liturgical books, scientific treatises, and collected works of major authors were frequently printed in folio. The physical size allowed for larger type, generous margins for annotation, and durable bindings, all of which reinforced the sense that the content was serious and worthy of preservation. Famous examples include the Gutenberg Bible (c. 1455), one of the earliest substantial printed books in Europe, and the 1623 \"First Folio\" edition of William Shakespeare’s plays, whose large format signaled that drama—often treated as ephemeral entertainment—deserved recognition as literature.\n\nIn modern bibliographical practice, \"folio\" is sometimes used more loosely as an approximate size category for large books, even when the original printing method or sheet folding is unknown or irrelevant. Antiquarian booksellers and librarians may classify any volume above a certain height (often more than 13 inches) as a folio, regardless of whether it was actually produced by folding a single sheet once. At the same time, scholars of manuscripts and early printed books continue to use the term in its more precise technical sense, describing both the folding format and the leaf-based referencing system.\n\nThus, \"folio format\" sits at the intersection of physical bookmaking, descriptive bibliography, and cultural history. Technically, it denotes a sheet folded once to create two leaves and four pages; practically, it evokes large, often prestigious volumes; and in scholarly citation, it marks the basic unit of the leaf, with recto and verso sides. Understanding folio format helps readers, collectors, and researchers interpret the physical structure of books, trace historical printing practices, and appreciate how material form has long been used to signal the perceived importance of a text.",
+  "primary_sources": [
+    {
+      "title": "Gutenberg Bible (Biblia Latina)",
+      "author": "Johann Gutenberg (printer; Latin Vulgate text traditionally attributed to St. Jerome)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The Gutenberg Bible, printed around 1455 in Mainz, is one of the earliest major books produced with movable type in Europe and is traditionally described as being in folio format, with large sheets folded once to create substantial leaves suitable for liturgical and scholarly use.",
+      "notes": "This Bible is frequently cited in book history as a paradigmatic early folio: its large size, two-column layout, and ample margins exemplify how folio format was used for authoritative religious texts. Surviving copies and detailed bibliographical studies confirm its status as a large-format, folio-structured book."
+    },
+    {
+      "title": "Mr. William Shakespeares Comedies, Histories, & Tragedies (First Folio)",
+      "author": "Compiled by John Heminge and Henry Condell; plays by William Shakespeare",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The 1623 collected edition of Shakespeare’s plays, commonly known as the First Folio, was printed in folio format, with large sheets folded once to produce substantial leaves. The choice of folio for a collection of plays signaled that the works were to be treated as serious literature rather than disposable entertainment.",
+      "notes": "Bibliographical descriptions of the First Folio emphasize its format as central to its cultural meaning. In early modern England, folio was typically reserved for Bibles, legal texts, and major scholarly works; printing Shakespeare’s plays in this format was a deliberate statement about their importance."
+    },
+    {
+      "title": "Traditional book format descriptions in bibliographical glossaries",
+      "author": "Various bibliographers and antiquarian booksellers",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Standard glossaries of book terminology define a folio as a format in which a sheet of paper is printed and then folded once, producing two leaves (four pages). They contrast folio with quarto (sheet folded twice) and octavo (sheet folded three times), and often provide approximate size ranges for each format.",
+      "notes": "Modern reference works and trade glossaries, such as those used by antiquarian booksellers and librarians, codify the technical definition of folio format and its approximate size. These sources help standardize usage across book history, cataloging, and the rare book trade."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "A folio is simply any large book, regardless of how it was made.",
+      "reality": "While modern usage sometimes treats \"folio\" as a general label for large books, the term originally and most precisely refers to a specific printing and folding format: a full sheet of paper folded once to create two leaves and four pages. Size alone does not guarantee that a book is technically a folio."
+    },
+    {
+      "myth": "Folio format is only about page size and has no cultural or historical significance.",
+      "reality": "Historically, folio format was closely associated with prestige and authority. Because folio books required more material and expense, they were often reserved for important texts such as Bibles, legal codes, and collected works. Choosing folio format could signal that a text was considered serious, enduring, or worthy of special status."
+    },
+    {
+      "myth": "In manuscript studies, \"folio\" always means a page number just like modern pagination.",
+      "reality": "In codicology and manuscript cataloging, \"folio\" refers to a leaf, not a single side. Citations such as \"f. 12r\" and \"f. 12v\" distinguish the recto and verso sides of the same leaf. This leaf-based system differs from modern page numbering, which counts each side as a separate page."
+    }
+  ]
+}

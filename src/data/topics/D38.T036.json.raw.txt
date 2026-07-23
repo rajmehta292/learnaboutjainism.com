@@ -1,0 +1,68 @@
+{
+  "overview": "Bioethics, in general terms, is the systematic study of moral questions arising from medicine, the life sciences, and technologies that affect living beings—questions about birth, illness{
+  "overview": "Bioethics, in general terms, is the systematic study of moral questions arising from the biological sciences, medicine, and technologies that affect birth, life, and death. Within Jain thought, bioethics is not a separate, modern invention but an extension of a very old concern: how embodied beings should act in a universe saturated with living entities, each on its own karmic journey and worthy of moral regard. Jainism frames questions about medical treatment, reproductive technologies, organ donation, animal research, and end‑of‑life care through its core commitments to nonviolence (ahiṃsā), restraint, and carefulness (apramatta), rather than through rights language or utilitarian cost–benefit calculations.\n\nAt the heart of Jain bioethical reflection is the conviction that life (jīva) is pervasive and graded, from one‑sensed beings such as plants and microorganisms to five‑sensed beings such as humans and larger animals. Every living being possesses consciousness and an aversion to pain, and every act of mind, speech, and body has karmic consequences. This ontology makes even routine medical interventions morally serious: taking antibiotics, performing surgery, or using disinfectants all involve harm to some forms of life, even when they aim to preserve other lives. Jain bioethics therefore does not promise a harm‑free path; instead, it seeks to cultivate the least violent, most careful course of action in a given context, acknowledging both direct and indirect forms of harm.\n\nHistorically, early canonical texts show a cautious, sometimes skeptical attitude toward medicine, especially for mendicants whose ideal is radical non‑attachment and endurance of bodily hardship. Over time, however, post‑canonical literature and community practice reveal a growing acceptance of medicine for both laypeople and ascetics, provided it is approached with restraint and awareness of its karmic implications. This evolution is guided by the tools of carefulness: attention to pervasive life forms, examination of one’s desires and motivations, analysis of how harm is produced, and commitment to reducing avoidable harm. Contemporary Jain medical professionals often navigate these tools when considering issues such as abortion, in vitro fertilization, stem‑cell research, organ transplantation, and palliative sedation, balancing professional obligations, legal frameworks, and Jain ethical ideals.\n\nIn reproductive ethics, Jain perspectives tend to emphasize the moral status of the embryo or fetus as a living being whose destruction entails grave karmic consequences, while also recognizing complex circumstances such as maternal health, social pressures, and medical risk. Assisted reproductive technologies raise questions about the creation, selection, and disposal of embryos, prompting reflection on intention, attachment, and the multiplication of lives whose futures are uncertain. In animal research and biotechnology, the Jain commitment to ahiṃsā challenges practices that treat animals as mere instruments, urging alternatives that minimize suffering, reduce the number of beings harmed, or avoid such research when possible.\n\nEnd‑of‑life questions—such as life‑support withdrawal, pain management, and definitions of death—are filtered through Jain views of karma, consciousness, and the continuity of the soul. While the tradition values endurance and spiritual vigilance, it also recognizes the importance of reducing intense suffering and maintaining clarity of mind. Practices like terminal sedation, organ donation, or decisions about resuscitation are therefore evaluated in terms of intention, the degree and kind of harm involved, and their impact on the dying person’s capacity for spiritual awareness. The controversial ascetic practice of sallekhanā (gradual fasting at the end of life) is treated in classical sources as a highly regulated, rare vow undertaken with strict spiritual criteria, not as a general model for medical decision‑making.\n\nModern Jain bioethics, informed by classical texts and contemporary scholarship, does not offer a single, uniform answer to every medical dilemma. Instead, it provides a framework: recognize the ubiquity and diversity of life, cultivate nonviolent restraint, examine motivations, attend to both visible and invisible harms, and seek context‑sensitive ways to reduce avoidable violence. Within this framework, lay Jains are encouraged to consult qualified medical professionals, community leaders, and knowledgeable scholars when facing complex decisions, integrating Jain ethical insights with responsible participation in modern healthcare systems.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra (That Which Is)",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "परस्परोपग्रहो जीवानाम् ।",
+      "transliteration": "parasparopagraho jīvānām.",
+      "translation": "Living beings are mutually supportive of one another.",
+      "notes": "This aphorism (often cited as Tattvārthasūtra 5.21) expresses the interdependence of all life forms. In bioethical reflection, it underlines that medical actions affecting one being reverberate through a wider network of lives. It supports an ethic that considers ecological, social, and karmic relationships rather than isolating individual bodies from their living context."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Book of Conduct)",
+      "author": "Traditionally attributed to early Jain teachers; preserved in Śvetāmbara canon",
+      "original_text": "सव्वे पाणा सव्वे भूतā सव्वे जीवā सव्वे प्राणā ।",
+      "transliteration": "savve pāṇā savve bhūtā savve jīvā savve prāṇā.",
+      "translation": "All breathing beings, all existing beings, all living beings, all beings with vitalities (are to be regarded).",
+      "notes": "This passage emphasizes the breadth of beings encompassed by Jain concern, from visible animals to subtle life forms. In bioethics, it grounds the intuition that even microorganisms, embryos, and non‑human animals possess moral significance, making medical and technological interventions ethically weighty."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Book of Conduct)",
+      "author": "Traditionally attributed to early Jain teachers; preserved in Śvetāmbara canon",
+      "original_text": "न हणे न घाये न जंपे न बंधे न विणासे ।",
+      "transliteration": "na haṇe na ghāe na jaṃpe na bandhe na viṇāse.",
+      "translation": "One should not kill, not cause to be killed, not torment, not bind, and not destroy.",
+      "notes": "This verse articulates the layered prohibition against direct and indirect harm. For bioethics, it highlights that responsibility extends beyond personal acts to institutional practices and systemic violence, such as participation in harmful research or careless use of medical technologies."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Traditionally attributed to early Jain teachers; preserved in Śvetāmbara canon",
+      "original_text": "अहिंसा परमो धम्मो ।",
+      "transliteration": "ahiṃsā paramo dhammo.",
+      "translation": "Nonviolence is the supreme dharma.",
+      "notes": "Though this phrase appears in multiple Jain and non‑Jain sources, within Jainism it encapsulates the central ethical ideal. In bioethics, it does not mean absolute avoidance of all harm—which is impossible in embodied life—but a disciplined effort to minimize violence, especially in contexts like surgery, reproductive interventions, and end‑of‑life care."
+    },
+    {
+      "title": "Niśītha Cūrṇi and related post‑canonical texts (on mendicant discipline and medicine)",
+      "author": "Anonymous commentators in the Śvetāmbara tradition",
+      "original_text": "दव्वे दव्वे समणेहिं पेस्सइए अप्रमत्तेहिं ।",
+      "transliteration": "davve davve samaṇehiṃ pessaiye apramattehiṃ.",
+      "translation": "In every matter, mendicants should proceed with carefulness.",
+      "notes": "Later commentarial literature introduces the notion of apramāda/apramatta (carefulness) as a practical tool for navigating complex situations, including the use of medicine. This concept is foundational for modern Jain bioethical frameworks that stress context‑sensitive judgment, attention to pervasive life, and efforts to reduce avoidable harm rather than rigid rules alone."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain bioethics simply forbids all modern medical treatments because they involve some form of harm.",
+      "reality": "Classical and later Jain sources acknowledge that embodied life inevitably involves harming some beings, including in medical care. Rather than rejecting medicine outright, Jain bioethics emphasizes carefulness, intention, and harm‑reduction—seeking treatments that are necessary, proportionate, and carried out with awareness of their karmic and ecological consequences."
+    },
+    {
+      "myth": "The Jain ideal of nonviolence requires that patients refuse pain relief or life‑support withdrawal, no matter the circumstances.",
+      "reality": "While endurance and spiritual vigilance are valued, Jain texts and contemporary discussions recognize the importance of reducing intense suffering and preserving clarity of mind. Decisions about analgesia, palliative care, or life‑support are evaluated through intention, degree of harm, and impact on spiritual awareness, not through a blanket prohibition or obligation."
+    },
+    {
+      "myth": "Sallekhanā (fasting at the end of life) is a general Jain solution to bioethical dilemmas about terminal illness and should replace medical decision‑making.",
+      "reality": "Sallekhanā is described in classical sources as a rare, highly regulated ascetic vow undertaken under specific spiritual conditions, not as a routine option for laypeople or a substitute for medical care. Contemporary Jain bioethical reflection treats it separately from clinical decisions and stresses the need for qualified guidance, legal awareness, and medical expertise in end‑of‑life situations."
+    },
+    {
+      "myth": "Because Jainism values all life equally, it cannot offer practical guidance when harms to different beings conflict, such as in surgery or antibiotic use.",
+      "reality": "Jain ethics recognizes graded capacities and contexts while maintaining respect for all life. Tools of carefulness—attention to pervasive life, examination of motives, analysis of direct and indirect harm, and commitment to reducing avoidable violence—provide a structured way to navigate conflicts, allowing necessary interventions while striving to limit collateral harm."
+    },
+    {
+      "myth": "Jain bioethics is only relevant to Jain practitioners and has nothing to contribute to wider medical ethics debates.",
+      "reality": "Jain thought offers a distinctive perspective on interdependence, nonviolence, and the moral status of diverse life forms that can enrich broader bioethical discussions. Its emphasis on carefulness, karmic responsibility, and the ubiquity of life invites more nuanced consideration of environmental impact, animal research, reproductive technologies, and end‑of‑life care for both Jain and non‑Jain contexts."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "Critical editions are scholarly reconstructions of a text based on the systematic comparison of all available manuscript witnesses, inscriptions, early prints, and related textual evidence. In Jain studies, they serve as the foundational tools that allow researchers, practitioners, and translators to work with reliable versions of canonical and post‑canonical literature. Because Jain scriptures—whether Śvetāmbara Āgamas, Digambara Siddhānta, or later commentarial traditions—circulated for centuries in handwritten form, scribal variations, regional recensions, and sectarian redactions accumulated over time. A critical edition aims to identify these variations, evaluate their significance, and present the most defensible reading according to established philological principles.\n\nA critical edition typically includes a main text (the editor’s reconstructed reading), an apparatus criticus (a detailed record of variant readings across manuscripts), and an introduction explaining editorial choices, manuscript families, dating, and linguistic features. For Jain Prakrit and Sanskrit works, editors often consult manuscripts from major repositories such as Jaisalmer, Patan, Jaipur, Mudbidri, and Pune, comparing Śāradā, Devanāgarī, Nandināgarī, and Jain Nāgarī scripts. The goal is not to produce a single “perfect” text but to transparently document the evidence and reasoning behind each reading.\n\nIn academic Jain studies, critical editions are essential for understanding doctrinal development, sectarian differences, and historical context. They help distinguish early strata of composition from later interpolations, clarify technical terminology, and support accurate translation. They also reveal how Jain communities preserved, transmitted, and adapted their scriptures over centuries. Modern editors emphasize methodological rigor, including stemmatics, paleography, and linguistic analysis, while acknowledging uncertainties where manuscript evidence is incomplete or contradictory.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Traditionally attributed to Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This line appears in all major critical editions, though minor variants exist in punctuation and commentary traditions. The Tattvārthasūtra is one of the most widely edited Jain texts, with both Śvetāmbara and Digambara manuscript families compared in modern critical editions."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Attributed to early Jain canonical redactors",
+      "original_text": "णं च णं च णं च, णं च णं च णं च",
+      "transliteration": "ṇaṃ ca ṇaṃ ca ṇaṃ ca, ṇaṃ ca ṇaṃ ca ṇaṃ ca",
+      "translation": "‘Not harming, not harming, not harming; not harming, not harming, not harming.’",
+      "notes": "This refrain appears in several manuscripts with slight orthographic variation. Critical editions document differences in Prakrit spelling, repetition, and metrical structure."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Kundakunda lineage; compiled by Puṣpadanta and Bhūtabali",
+      "original_text": "जीवास्तिकायाः",
+      "transliteration": "jīvāstikāyāḥ",
+      "translation": "The living beings constitute an astikāya (a real, extended category).",
+      "notes": "Critical editions of the Ṣaṭkhaṅḍāgama rely heavily on palm‑leaf manuscripts from Mudbidri. Variants often involve compound formation and technical terminology."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "A critical edition produces the single correct version of a Jain text.",
+      "reality": "Critical editions reconstruct the most defensible reading based on available evidence, but they also document uncertainties and variant traditions. They do not claim absolute finality."
+    },
+    {
+      "myth": "Critical editions remove sectarian differences between Śvetāmbara and Digambara texts.",
+      "reality": "Critical editions preserve sectarian variants and highlight doctrinal divergences. They do not harmonize traditions but instead make differences more transparent."
+    },
+    {
+      "myth": "Only ancient manuscripts matter for critical editions.",
+      "reality": "Later manuscripts, commentaries, and early printed editions can preserve older readings or clarify transmission history. Editors evaluate all witnesses, not only the oldest ones."
+    }
+  ]
+}

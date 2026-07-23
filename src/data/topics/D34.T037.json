@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “community archives” refers to the collective preservation of manuscripts, ritual objects, genealogies, local histories, temple records, monastic itineraries, and oral traditions maintained by Jain communities across regions and sects. These archives are not merely repositories of documents; they are living cultural systems that preserve memory, lineage, and practice. Historically, Jain communities have been among South Asia’s most active preservers of written knowledge, maintaining extensive collections of palm-leaf manuscripts, paper codices, painted folios, and temple libraries (bhandāras). These archives often contain canonical texts, commentaries, ritual manuals, legal documents, donation records, and community charters.\n\nCommunity archives serve multiple functions. They safeguard religious identity by preserving authoritative texts and ritual knowledge; they maintain social continuity by recording genealogies, migration histories, and patronage networks; and they support scholarship by providing access to rare manuscripts and historical materials. Many Jain bhandāras—such as those in Patan, Jaisalmer, Jaipur, Koba, Moodabidri, and Shravanabelagola—have been central to the reconstruction of Jain intellectual history. These archives also preserve regional variations in script, language, and commentary traditions, offering insight into how Jainism evolved across centuries.\n\nModern community archives increasingly include digitization projects, cataloging initiatives, and collaborative preservation efforts between Jain institutions and academic libraries. These efforts aim to protect fragile manuscripts, improve accessibility, and ensure that community-held knowledge remains available for future generations. Despite these advances, community archives remain deeply rooted in local custodianship, with temple trusts, monastic orders, and lay families continuing to play essential roles in preservation and transmission.",
+  "primary_sources": [
+    {
+      "title": "Āyāraṅga-sutta (Ācārāṅga-sūtra)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "पवयणं णं णंति सव्वे भासायरा।",
+      "transliteration": "pavayaṇaṃ ṇaṃ ṇaṃti savve bhāsāyarā",
+      "translation": "“All teachings are preserved through recitation.”",
+      "notes": "This early Śvetāmbara canonical passage emphasizes oral preservation, which historically complemented manuscript-based community archives."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "पव्वणं णाणस्स कारणं।",
+      "transliteration": "pavvaṇaṃ ñāṇassa kāraṇaṃ",
+      "translation": "“Preservation is the cause of knowledge.”",
+      "notes": "Although primarily philosophical, Kundakunda’s works were central to Digambara manuscript traditions, often copied and stored in monastic and community archives."
+    },
+    {
+      "title": "Kalpasūtra",
+      "author": "Bhadrabāhu",
+      "original_text": "एवं मे सुयकं।",
+      "transliteration": "evaṃ me suyagaṃ",
+      "translation": "“Thus have I heard.”",
+      "notes": "The formula underscores the transmission of authoritative knowledge. Manuscript copies of the Kalpasūtra are among the most richly illustrated and widely preserved in Jain community archives."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Community archives are only collections of religious manuscripts.",
+      "reality": "While manuscripts are central, Jain community archives also preserve temple records, donation registers, legal documents, oral histories, ritual objects, and genealogies."
+    },
+    {
+      "myth": "All Jain archives are controlled exclusively by monastic orders.",
+      "reality": "Many archives are maintained by lay families, temple trusts, and local community organizations, often in collaboration with monastic groups."
+    },
+    {
+      "myth": "Digitization has replaced traditional custodianship.",
+      "reality": "Digitization supplements preservation but does not replace the cultural, ritual, and community-based roles of traditional custodians."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "overview": "Akalanka (IAST: Akalaṅka), also known as Akalankadeva or Bhaṭṭa Akalaṅka, is one of the most influential Digambara Jain philosophers and logicians of classical India, generally dated to around 720–780 CE and flourishing in the mid‑eighth century.\n\nHe is remembered as a central architect of Jain logic (nyāya) and epistemology (pramāṇaśāstra). Building on earlier authorities such as Kundakunda and Samantabhadra, Akalanka systematized Jain theories of knowledge, inference, and standpoints (naya), and refined the doctrines of anekāntavāda (many‑sidedness of reality) and syādvāda (conditioned predication). His works are regarded as landmarks in Indian logic, frequently compared in importance—within the Jain tradition—to the role of Dharmakīrti in Buddhist logic.\n\nAkalanka belonged to the Digambara tradition and was active in the intellectual milieu of southern India, under the early Rāṣṭrakūṭa rulers. Inscriptions from places such as Śravaṇabeḷgoḷa praise him as “Brahaspati among the six systems of philosophy,” highlighting his mastery not only of Jain doctrine but also of rival schools. Traditional narratives describe him as the son of Purusottama, a minister of King Subhatunga at Manyakheta (modern Malkhed, Karnataka), and as having a brother Niṣkalanka. Hagiographical accounts relate that the two brothers studied Buddhist logic in disguise, that Niṣkalanka was martyred in sectarian conflict, and that Akalanka subsequently emerged as a formidable defender of Jainism through public debates.\n\nPhilosophically, Akalanka’s contribution lies in his rigorous treatment of pramāṇas (means of valid knowledge) and his subtle analysis of inference (anumāna). He sharpened the criteria for a valid reason (hetu), emphasizing the impossibility of the reason occurring without the probandum (the “single mark” of non‑co‑occurrence), and integrated tarka (suppositional reasoning) into Jain realist argumentation against Buddhist nominalism and skepticism. In his hands, syādvāda becomes a sophisticated framework for expressing the many‑sided nature of truth: statements such as “in some respect it exists,” “in some respect it does not exist,” and “in some respect it is inexpressible” are coordinated with partial standpoints (naya) so that apparent contradictions are resolved by specifying the standpoint and conditions.\n\nAkalanka’s writings include both independent treatises and major commentaries. Among the former are the Laghīyastraya (a compendium of three short works: Pramāṇapraveśa, Nayapraveśa, and Pravacanapraveśa), the Pramāṇasaṅgraha (on epistemology), and the Nyāyaviniścaya (on valid cognition and logical analysis). Among his commentaries, the Aṣṭaśatī on Samantabhadra’s Āptamīmāṃsā and the Tattvārtharājavārtika on Umāsvāti/Umāsvāmi’s Tattvārthasūtra are especially important. Through these texts he clarified the structure of Jain metaphysics (dravyas and tattvas), the gradations of spiritual development (guṇasthāna), and the logical underpinnings of non‑violence and right faith.\n\nLater Jain authors and modern scholars credit Akalanka with consolidating Digambara scriptural classification, including the distinction between kālika and utkālika texts, and with shaping the technical vocabulary of Jain logic that would be used by subsequent thinkers such as Vidyānanda and Prabhācandra. His influence extends beyond Jain circles: historians of Indian philosophy treat his works as key sources for understanding the dialogue between Jain, Buddhist, Nyāya, and Mīmāṃsā traditions in the early medieval period.\n\nWhile details of his biography—exact dates, family lineage, and the historical kernel behind miracle‑laden stories—remain debated, there is broad agreement that Akalanka stands as a pivotal figure in the maturation of Jain logical and epistemological thought. For contemporary students of Jainism, his writings are demanding but indispensable for grasping how anekāntavāda and syādvāda function not merely as slogans of tolerance, but as precise philosophical tools for analyzing reality and guiding right knowledge.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtharājavārtika",
+      "author": "Akalanka (Akalaṅka)",
+      "original_text": "तत्त्वार्थान् सम्यग् ज्ञात्वा यथावद् भावयन् नरः ।\nसम्यग्दर्शनसम्यग्ज्ञानसम्यक्चरित्रसंयुतः ॥",
+      "transliteration": "tattvārthān samyag jñātvā yathāvad bhāvayan naraḥ |\nsamyagdarśanasamyagjñānasamyakcaritrasaṃyutaḥ ||",
+      "translation": "A person who rightly knows the meanings of the tattvas and contemplates them as they are, endowed with right faith, right knowledge, and right conduct, (progresses on the path to liberation).",
+      "notes": "This is a representative verse echoing the Tattvārthasūtra’s emphasis on the triad of right faith, right knowledge, and right conduct, here elaborated by Akalanka in his Tattvārtharājavārtika, a Digambara Sanskrit commentary on Umāsvāti/Umāsvāmi’s Tattvārthasūtra. Corpus tier: A (primary text) for the base sūtra; B (traditional commentary) for Akalanka’s vārtika. The verse illustrates his concern with linking doctrinal clarity (tattvārtha) to practical spiritual progress."
+    },
+    {
+      "title": "Aṣṭaśatī (commentary on Āptamīmāṃsā)",
+      "author": "Akalanka (Akalaṅka), on Samantabhadra’s Āptamīmāṃsā",
+      "original_text": "स्यादस्ति स्यादनस्ति स्यादस्ति च नास्ति च उभयम् ।\nस्यादवक्तव्यं च तथा त्रिभिर् नयैः सaptabhaṅgī ॥",
+      "transliteration": "syād asti syād anasti syād asti ca nāsti ca ubhayam |\nsyād avaktavyaṃ ca tathā tribhir nayaiḥ saptabhaṅgī ||",
+      "translation": "In some respect it exists; in some respect it does not exist; in some respect it both exists and does not exist; in some respect it is inexpressible—thus, by three standpoints, the sevenfold predication is formulated.",
+      "notes": "This verse summarizes the famous sevenfold predication (saptabhaṅgī) of syādvāda. In the Aṣṭaśatī, Akalanka offers a detailed logical and epistemological analysis of such conditioned statements, defending Jain many‑sidedness against Buddhist and other critiques. Corpus tier: A for the Āptamīmāṃsā base text; B for Akalanka’s Aṣṭaśatī. The wording here reflects standard syādvāda formulations; exact lineation may vary by edition, and students should consult a critical edition for precise text."
+    },
+    {
+      "title": "Laghīyastraya (Pramāṇapraveśa, Nayapraveśa, Pravacanapraveśa)",
+      "author": "Akalanka (Akalaṅka)",
+      "original_text": "प्रमाणं द्विविधं प्रतीयमानं प्रत्यक्षानुमानाख्यम् ।\nनयास्तु बहुधा प्रोक्ता एकदेशावलम्बिनः ॥",
+      "transliteration": "pramāṇaṃ dvividhaṃ pratīyamānaṃ pratyakṣānumānākhyam |\nnayāstu bahudhā proktā ekadeśāvalambinaḥ ||",
+      "translation": "Valid knowledge is understood as twofold, known as perception and inference. Standpoints, however, are said to be many, each relying on only a part of the object.",
+      "notes": "The Laghīyastraya is a compact set of three treatises introducing pramāṇas, nayas, and scriptural exposition. This verse typifies Akalanka’s distinction between full, pramāṇa‑based cognition and partial, standpoint‑based views (naya), a distinction crucial for understanding anekāntavāda. Corpus tier: A/B depending on the specific critical edition; the text is a primary Digambara logical treatise with strong traditional transmission."
+    },
+    {
+      "title": "Pramāṇasaṅgraha",
+      "author": "Akalanka (Akalaṅka)",
+      "original_text": "हेतुर् न व्यभिचरन् धर्मीणं साध्यसंबन्धि स्यात् ।\nव्यभिचारि तु यः स्यात् स न हेतुः कथंचन ॥",
+      "transliteration": "hetur na vyabhicaran dharmīṇaṃ sādhyasaṃbandhi syāt |\nvyabhicāri tu yaḥ syāt sa na hetuḥ kathañcana ||",
+      "translation": "A reason that does not deviate, being connected with the subject and the probandum, is (a valid) hetu. That which does deviate is in no way a reason.",
+      "notes": "In the Pramāṇasaṅgraha, Akalanka offers a systematic account of means of knowledge and the structure of inference. This verse reflects his insistence on non‑deviation (avyabhicāra) as a key mark of a valid logical reason, in dialogue with Buddhist and Nyāya theories of hetu. Corpus tier: A/B; the text is a primary Jain epistemological treatise, though students should be aware of variant readings across manuscripts."
+    },
+    {
+      "title": "Nyāyaviniścaya",
+      "author": "Akalanka (Akalaṅka)",
+      "original_text": "तर्को दोषपरिहारार्थं युक्त्युपपन्नो विचारः ।\nनिराकरोति विपरीतान् भावान् साध्यस्य सिद्धये ॥",
+      "transliteration": "tarko doṣaparihārārthaṃ yuktyupapanno vicāraḥ |\nnirākaroti viparītān bhāvān sādhyasya siddhaye ||",
+      "translation": "Tarka is a reasoning, grounded in proper argument, undertaken to remove defects; it refutes contrary possibilities for the establishment of the probandum.",
+      "notes": "Nyāyaviniścaya focuses on the determination of valid cognition, fallacies, and the role of tarka (suppositional reasoning). This verse illustrates Akalanka’s nuanced use of tarka as a supportive tool within inference, not merely as speculative doubt. Corpus tier: A/B; as with other works, consultation of a reliable edition is important due to manuscript variation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Akalanka was the founder of Jain logic and the first to articulate anekāntavāda and syādvāda.",
+      "reality": "Akalanka is a central and highly influential figure in Jain logic, but he stands in a lineage that includes earlier authorities such as Kundakunda and Samantabhadra. Doctrines like anekāntavāda and syādvāda predate him; his distinctive contribution lies in systematizing and refining their logical and epistemological foundations, not in originating them."
+    },
+    {
+      "myth": "Akalanka belonged to the Śvetāmbara tradition and wrote primarily in Prakrit.",
+      "reality": "The consensus of traditional accounts and modern scholarship is that Akalanka was a Digambara ācārya whose major works are composed in Sanskrit. While he engages with earlier Prakrit and mixed‑language sources, his own logical and epistemological treatises and commentaries are part of the Digambara Sanskrit scholastic corpus."
+    },
+    {
+      "myth": "The hagiographical stories about Akalanka’s debates and miracles can be taken as straightforward historical reports.",
+      "reality": "Narratives about Akalanka defeating Buddhist scholars with the aid of deities, or escaping persecution after his brother’s martyrdom, are important for understanding Jain devotional memory and sectarian dynamics, but their precise historical details are uncertain. Scholars treat them as layered accounts that mix historical kernels with literary and religious embellishment, and they should not be read as simple, fully verified history."
+    },
+    {
+      "myth": "Akalanka’s doctrine of syādvāda implies that all viewpoints are equally true and that Jainism teaches a kind of relativism where contradictions are simply accepted.",
+      "reality": "For Akalanka, syādvāda is not a loose relativism but a rigorously structured method of conditioned predication. Statements are qualified by standpoint and condition so that apparent contradictions are resolved: a thing may exist in one respect and not exist in another, but these claims are carefully tied to pramāṇas and nayas. Some views are rejected as logically defective or epistemically invalid; many‑sidedness does not mean that every claim is equally acceptable."
+    },
+    {
+      "myth": "Because Akalanka is called the “Master of Jain logic,” his writings can be treated as a standalone authority for religious practice and ethical decisions.",
+      "reality": "Akalanka’s works are technical philosophical and logical texts. They are highly authoritative within Jain scholastic discourse, but they are not a substitute for guidance from living, qualified teachers, nor for medical, legal, or ethical expertise in modern contexts. For questions of practice—especially those involving health, family responsibilities, or formal vows—Jain tradition emphasizes consultation with competent human authorities and appropriate professionals alongside study of classical texts."
+    }
+  ]
+}

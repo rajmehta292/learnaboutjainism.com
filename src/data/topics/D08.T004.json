@@ -1,0 +1,43 @@
+{
+  "overview": "Shruta‑jñāna (Śruta‑jñāna) is one of the five classical categories of knowledge described in Jain epistemology. It is traditionally defined as knowledge acquired through hearing, reading, or studying authoritative teachings. In the canonical taxonomy, it is classified as parokṣa‑jñāna—indirect knowledge—because it depends on linguistic signs, symbols, and verbal instruction rather than direct, unmediated cognition. Jain philosophers emphasize that Shruta‑jñāna is not merely the mechanical act of listening to scripture; it is the correct comprehension of meaning (artha) conveyed through words (śabda). \n\nShruta‑jñāna is closely linked with mati‑jñāna (sensory‑mental knowledge). Classical texts describe them as sequential: mati‑jñāna provides the cognitive groundwork, while shruta‑jñāna organizes that cognition into structured, communicable knowledge. In both Digambara and Śvetāmbara traditions, Shruta‑jñāna is considered indispensable for spiritual progress because it enables the practitioner to understand the teachings of the Jinas, the nature of reality, and the path of liberation. \n\nThe tradition also distinguishes between ordinary Shruta‑jñāna and the perfected form possessed by omniscient beings (kevalins). While kevalins have direct, infinite knowledge, they may express portions of it through divya‑dhvani (divine sound), which becomes the basis for Shruta‑jñāna in others. Thus, Shruta‑jñāna serves as the bridge between omniscient insight and human understanding. \n\nIn Jain hermeneutics, Shruta‑jñāna encompasses not only canonical scriptures (āgamas) but also commentaries, linguistic analysis, and the broader tradition of learning. It is therefore both a category of knowledge and a cultural institution of transmission, preservation, and interpretation of teachings across generations.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "श्रुतमज्ञानं परोक्षम्",
+      "transliteration": "śrutam ajñānaṃ parokṣam",
+      "translation": "Scriptural knowledge is indirect knowledge.",
+      "notes": "Tattvārtha Sūtra 1.19 classifies Shruta‑jñāna as parokṣa‑jñāna. Both Digambara and Śvetāmbara traditions accept this sutra, though their commentaries differ in detail."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "सुतं नाणं तहा णाणं, णाणस्स कारणं भणिज्जइ",
+      "transliteration": "sutaṃ nāṇaṃ tahā ṇāṇaṃ, ṇāṇassa kāraṇaṃ bhaṇijjai",
+      "translation": "Scriptural knowledge is itself knowledge, and it is said to be the cause of (further) knowledge.",
+      "notes": "Kundakunda emphasizes Shruta‑jñāna as a catalyst for deeper realization, linking scriptural study with experiential insight."
+    },
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "सुतं नाणं णिव्वाणस्स मग्गं",
+      "transliteration": "sutaṃ nāṇaṃ nivvāṇassa maggaṃ",
+      "translation": "Scriptural knowledge is the path to liberation.",
+      "notes": "This early Śvetāmbara text highlights the indispensable role of Shruta‑jñāna in guiding lay and monastic practice."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Shruta‑jñāna simply means memorizing scriptures.",
+      "reality": "Jain epistemology defines Shruta‑jñāna as meaningful comprehension of teachings, not rote memorization. Understanding the artha (meaning) is essential."
+    },
+    {
+      "myth": "Shruta‑jñāna is inferior and unnecessary because it is indirect.",
+      "reality": "Although classified as indirect, Shruta‑jñāna is considered indispensable for spiritual progress. Without scriptural knowledge, one cannot correctly understand the path to liberation."
+    },
+    {
+      "myth": "Only monks can possess Shruta‑jñāna.",
+      "reality": "Laypeople, scholars, and anyone who studies Jain teachings can develop Shruta‑jñāna. The tradition explicitly recognizes its accessibility to all sincere learners."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain thought, intention—often expressed through terms such as *bhāva*, *cetanā*, *yoga*, and *āśaya*—is a foundational category for understanding ethical action, karmic bondage, and spiritual progress. Across Digambara and Śvetāmbara traditions, intention is not treated as a mere psychological state but as a morally charged orientation of mind, speech, and body. Jainism’s emphasis on non‑violence, truthfulness, restraint, and carefulness is grounded in the principle that karmic influx (*āsrava*) is determined primarily by the quality of intention behind actions.\n\nJain philosophers distinguish between the external act (*dravya*) and the internal disposition (*bhāva*). A deed may be physically harmless yet karmically binding if motivated by attachment, aversion, negligence, or ego. Conversely, an unavoidable act—such as a layperson preparing food—may be karmically lighter when performed with mindfulness, humility, and minimal harm. This dual structure appears throughout canonical and commentarial literature, including discussions of *lesyā* (coloration of the soul), *yoga* (activity of mind, speech, and body), and *saṃjñā* (instinctual drives).\n\nIntention also plays a central role in the *guṇasthāna* system, where the soul’s ascent is marked by progressive purification of mental states. At higher stages, harmful intentions diminish, and at the threshold of liberation, even subtle vibrations of intention cease. Lay ethics similarly emphasize intentionality: vows (*vrata*), supplementary vows (*śīlavrata*), and daily practices (*sāmāyika*, *pratikramaṇa*) all require deliberate cultivation of non‑violent intention.\n\nAcross sectarian traditions, intention is consistently portrayed as the pivot between inner transformation and outer conduct. While interpretations vary—Digambara texts often emphasize the subtle karmic mechanics of intention, whereas Śvetāmbara sources highlight ritual confession and mindfulness—the shared principle remains that liberation is achieved not merely through correct behavior but through purified intention guiding every action.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 6.1–6.2",
+      "author": "Umāsvāti/Umāsvāmi (accepted across Digambara and Śvetāmbara traditions)",
+      "original_text": "योगः कर्मास्रवः । मनोवचनकाययोगाः ।",
+      "transliteration": "yogaḥ karmāsravaḥ | manovacanakāyayogāḥ |",
+      "translation": "Activity is the cause of karmic influx. Activity occurs through mind, speech, and body.",
+      "notes": "These sūtras establish that karmic influx arises from intentional activity. Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) clarify that the moral quality of intention determines the nature and intensity of karmic bondage."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 32.7",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "भावो हि कारणं पापस्य पुण्यस्य च ।",
+      "transliteration": "bhāvo hi kāraṇaṃ pāpasya puṇyasya ca |",
+      "translation": "It is intention that is the cause of sin and merit.",
+      "notes": "This passage directly links ethical valuation to intention rather than external action. Traditional commentaries emphasize that even small acts become spiritually significant when performed with pure intention."
+    },
+    {
+      "title": "Samayasāra 262",
+      "author": "Ācārya Kundakunda (Digambara)",
+      "original_text": "भावो हि जीवस्य स्वभावो, तेनैव बन्धो मोको च ।",
+      "transliteration": "bhāvo hi jīvasya svabhāvo, tenaiva bandho moko ca |",
+      "translation": "The soul’s disposition is its true nature; through it occurs bondage and liberation.",
+      "notes": "Kundakunda’s analysis frames intention (*bhāva*) as the decisive factor in karmic bondage and release. The verse highlights the inner orientation of the soul rather than external ritual action."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain ethics judge actions solely by their physical consequences.",
+      "reality": "Primary texts consistently state that intention (*bhāva*, *cetanā*) is the principal determinant of karmic influx. Physical harm matters, but its karmic weight depends on the mental state accompanying the act."
+    },
+    {
+      "myth": "Intention is irrelevant if one follows vows perfectly.",
+      "reality": "Jain vows require both external observance and internal purity. Without correct intention, vows may become mechanical and fail to reduce karmic bondage."
+    },
+    {
+      "myth": "Only monks need to cultivate pure intention.",
+      "reality": "Laypersons are equally instructed to refine intention through daily practices such as *sāmāyika*, *pratikramaṇa*, and mindful conduct. Intention is central to all stages of spiritual development."
+    }
+  ]
+}

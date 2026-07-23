@@ -1,0 +1,65 @@
+{
+  "overview": "Prashamarati (often found as Prashamrati, Prasamrati, or Prashamarati‑prakaran) is a Jain doctrinal treatise whose central concern is the cultivation of inner peace (prashama) and the joy that arises from the pacification of passions and karmic bondage. In the classical tradition it is associated with Ācārya Umāsvāti (also known as Umasvāti or Umasvāmī), the author of the Tattvārthādhigama‑sūtra, and is presented as a systematic exposition of the path that leads from worldly entanglement to the tranquil state of the liberated soul. [[0]](https://jaingpt.org/knowledge/prasamrati_prakarana_022070_022070)\n\nThe text belongs to the genre of prakaraṇa‑grantha—topical manuals that gather and organize key doctrinal themes for study and contemplation. Prashamarati lays out, in metrical Sanskrit, the duties of householders and monks, the contemplations (bhāvanā), the fourteen stages of spiritual development (guṇasthāna), the six substances (dravya), the nine fundamental categories (nava‑tattva), and the logic of conditional predication (saptabhaṅgī). Its verses are meant not only to be understood intellectually but also to be recited and internalized as a form of svādhyāya (repeated scriptural study), gradually transforming the practitioner’s dispositions and weakening the hold of destructive karmas. [[0]](https://jaingpt.org/knowledge/prasamrati_prakarana_022070_022070)\n\nAcross Śvetāmbara circles, Prashamarati is often studied alongside Tattvārthasūtra, functioning as a more devotional and practice‑oriented companion to that highly technical work. Later Jain authors and editors—such as Vijay Śrī Rajsekhar, Tapasvī Muni Akalankvijay, and Acharya Vijay Bhadraguptasuri—have produced Sanskrit and Gujarati editions, commentaries, and pedagogical adaptations of Prashamarati, sometimes expanding the material or re‑framing it for lay audiences and youth. These modern presentations emphasize that the “joys of peace of the soul” are accessible to anyone who earnestly engages with the text’s guidance, regardless of sectarian affiliation, and they frequently highlight its relevance for character‑building, ethical decision‑making, and meditative practice in contemporary life. [[1]](https://archive.org/details/in.ernet.dli.2015.314417) [[2]](https://jainqq.org/booktext/Prashamrati_Prakaran_Romanized/022150) [[3]](https://jaingpt.org/knowledge/prashamrati_008922_008922)\n\nFrom a doctrinal standpoint, Prashamarati is important because it weaves together ontology (the nature of substances and tattvas), soteriology (the path to mokṣa), and ethics (vows, restraints, and contemplations) into a single narrative of pacification. The “peace” it describes is not mere emotional calm but the progressive silencing of rāga (attachment) and dveṣa (aversion), culminating in the complete destruction of ghātiyā‑karmas and the attainment of kevalajñāna (omniscience). The text insists that this process begins with right faith (samyag‑darśana), is supported by right knowledge (samyag‑jñāna), and is fulfilled through right conduct (samyag‑cāritra), thereby reinforcing the canonical triad of the Jain path while giving it a distinctly experiential and contemplative flavor. [[0]](https://jaingpt.org/knowledge/prasamrati_prakarana_022070_022070)\n\nModern Jain educational initiatives and reprints of Prashamarati present it as a bridge between rigorous philosophical study and accessible spiritual practice. Editors and translators stress that even partial, distracted recitation of its verses can serve as a gradual cleansing of karmic “dust,” provided it is accompanied by sincere effort to understand and live according to their meaning. At the same time, responsible teachers caution that Prashamarati does not replace the need for guidance from living ācāryas and sādhu‑s, especially when its teachings intersect with demanding ascetic practices, complex karmic doctrines, or life‑altering decisions. In this way, Prashamarati remains a respected, widely studied text whose authority is grounded in the classical Jain scriptural tradition but whose application is mediated through contemporary communities and qualified human interpreters. [[0]](https://jaingpt.org/knowledge/prasamrati_prakarana_022070_022070) [[3]](https://jaingpt.org/knowledge/prashamrati_008922_008922)",
+  "primary_sources": [
+    {
+      "title": "Prasamrati Prakarana (Prashamarati)",
+      "author": "Vācaka Śrīmad Umāsvāti (Umasvāti/Umasvāmī)",
+      "original_text": "",
+      "transliteration": "Prasamrati‑prakaraṇa",
+      "translation": "Treatise on the Joys of Peace of the Soul",
+      "notes": "This work is transmitted as a Sanskrit prakaraṇa attributed to Umāsvāti, the author of Tattvārthādhigama‑sūtra. It opens with invocatory verses saluting the Jinas, Siddhas, Ācāryas, Upādhyāyas, and Sādhus, and then announces the author’s intention to explain the path of non‑attachment and inner peace based on the teachings of the omniscient Jinas. The treatise proceeds through topics such as the duties of householders and monks, the twelve bhāvanā‑s (contemplations), the fourteen guṇasthāna‑s, the six dravya‑s, the nine tattva‑s, and the saptabhaṅgī logic, all oriented toward the attainment of mokṣa. Modern English and Gujarati translations—such as the edition translated by Mahesh Bhogilal and edited by V. M. Kulkarni—present the text with explanatory appendices and emphasize its role as a guide to the experiential realization of peace rather than a merely theoretical manual. [[0]](https://jaingpt.org/knowledge/prasamrati_prakarana_022070_022070)"
+    },
+    {
+      "title": "Śrī Prashmarati Prakaran (Sanskrit edition)",
+      "author": "Vijay Śrī Rajsekhar",
+      "original_text": "",
+      "transliteration": "Śrī Prashamarati‑prakaraṇa",
+      "translation": "The Prashamarati Treatise",
+      "notes": "This mid‑20th‑century Sanskrit edition, printed by Patan Bhogilal Smarak Granthalay, presents Prashamarati with editorial apparatus suitable for advanced students of Jain philosophy. It follows the traditional Sanskrit text, supplying clear Devanāgarī typesetting and, in some cases, marginal notes or references to parallel passages in Tattvārthasūtra and other canonical sources. The edition is used in some Śvetāmbara study circles as a base text for oral exposition (vyākhyāna) by monks and scholars. [[1]](https://archive.org/details/in.ernet.dli.2015.314417)"
+    },
+    {
+      "title": "Prashamrati Prakaran (Gujarati pedagogical edition)",
+      "author": "Tapasvī Muni Śrī Akalankvijay (editor)",
+      "original_text": "",
+      "transliteration": "Prashamrati‑prakaraṇa",
+      "translation": "Prashamarati Section",
+      "notes": "Published within the Akalank Granthamālā series, this Gujarati‑oriented edition presents Prashamarati with introductions, explanatory notes, and related devotional materials aimed at lay readers. It situates the text within a broader program of Jain education, listing other narrative and doctrinal works in the series and encouraging regular svādhyāya. The emphasis is on practical assimilation of the teachings—especially the contemplations and ethical disciplines—into everyday life, rather than on philological analysis. [[2]](https://jainqq.org/booktext/Prashamrati_Prakaran_Romanized/022150)"
+    },
+    {
+      "title": "Prashamrati (modern Gujarati exposition)",
+      "author": "Acharya Śrī Vijay Bhadraguptasuri",
+      "original_text": "",
+      "transliteration": "Prashamrati",
+      "translation": "Prashamarati",
+      "notes": "This modern Gujarati work, published by Mahavir Jain Aradhana Kendra (Koba), is an interpretive exposition that draws heavily on the themes of the classical Prashamarati while re‑articulating them for contemporary audiences. Acharya Vijay Bhadraguptasuri presents Prashamrati as a “sanjeevani” (life‑giving elixir) for dormant consciousness, promising eternal youth, supreme happiness, and ultimate bliss to those who internalize its message. The text is closely linked to Tattvārthasūtra and is framed as a comprehensive compilation of Jain principles, with particular attention to youth and character formation. While not itself a primary canonical text, it functions as a respected, tradition‑aware commentary and guide. [[3]](https://jaingpt.org/knowledge/prashamrati_008922_008922)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Prashamarati is a purely sectarian text that belongs only to one Jain sub‑tradition and cannot be studied outside that lineage.",
+      "reality": "The classical Prasamrati‑prakaraṇa attributed to Umāsvāti is respected across major Jain traditions, and its core doctrinal content—such as the nava‑tattva, guṇasthāna‑s, and dravya‑s—is shared by Śvetāmbara and Digambara communities. While particular editions and commentaries may arise within specific lineages, the underlying teachings on peace of the soul and the path to mokṣa are not restricted to a single sect. Responsible study, however, should be accompanied by guidance from qualified teachers within one’s own community. [[0]](https://jaingpt.org/knowledge/prasamrati_prakarana_022070_022070)"
+    },
+    {
+      "myth": "Prashamarati is meant only for monks and advanced ascetics; laypeople gain little from reading or reciting it.",
+      "reality": "Both the classical text and modern expositions explicitly address the duties of householders as well as monks, and they present contemplations, ethical disciplines, and doctrinal insights that are intended to guide lay practice. Translators and editors repeatedly stress that even lay recitation and study of Prashamarati, combined with sincere effort to understand and apply its teachings, can gradually purify the soul and foster inner peace. The text is therefore a key resource for lay svādhyāya, not an exclusively monastic manual. [[0]](https://jaingpt.org/knowledge/prasamrati_prakarana_022070_022070) [[3]](https://jaingpt.org/knowledge/prashamrati_008922_008922)"
+    },
+    {
+      "myth": "Prashamarati promises immediate emotional calm and worldly success, functioning like a simple devotional charm.",
+      "reality": "In the Jain doctrinal framework, the “joys of peace of the soul” described in Prashamarati refer to the deep, progressive pacification of passions and karmic bondage, culminating in liberation. The text does not guarantee instant relief from worldly problems or material prosperity; instead, it outlines a demanding path of right faith, right knowledge, and right conduct, including vows, restraints, and contemplations that may challenge one’s habits and attachments. Any application of Prashamarati that reduces it to a quick remedy for worldly success misrepresents its soteriological intent. [[0]](https://jaingpt.org/knowledge/prasamrati_prakarana_022070_022070) [[3]](https://jaingpt.org/knowledge/prashamrati_008922_008922)"
+    },
+    {
+      "myth": "Because Prashamarati discusses advanced topics like guṇasthāna‑s and saptabhaṅgī, it can be used on its own to make medical, psychological, or life‑altering decisions without consulting professionals or living ācāryas.",
+      "reality": "Prashamarati is a religious‑philosophical treatise aimed at spiritual liberation, not a manual for medical, mental‑health, legal, or financial decision‑making. Its teachings on ascetic practices, vows, and contemplations must be interpreted within a responsible community context, and any decisions that affect health, safety, or family responsibilities require consultation with qualified professionals and recognized Jain authorities. Using the text in isolation to justify extreme fasting, self‑harm, or abandonment of dependents contradicts both contemporary ethical standards and careful traditional guidance. [[0]](https://jaingpt.org/knowledge/prasamrati_prakarana_022070_022070) [[3]](https://jaingpt.org/knowledge/prashamrati_008922_008922)"
+    }
+  ]
+}
+
+
+
+> [0] [Prasamrati Prakarana - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/prasamrati_prakarana_022070_022070)
+>
+> [1] [Shri Prashmarati Prakaran : Vijay Shri Rajsekhar : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/in.ernet.dli.2015.314417)
+>
+> [2] [Prashamrati Prakaran - Jain Quantum](https://jainqq.org/booktext/Prashamrati_Prakaran_Romanized/022150)
+>
+> [3] [Prashamrati - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/prashamrati_008922_008922)

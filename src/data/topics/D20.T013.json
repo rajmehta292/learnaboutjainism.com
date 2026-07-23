@@ -1,0 +1,35 @@
+{
+  "overview": "Bhaktaparijña (also spelled *Bhaktaparijñā*, *Bhaktaparijna*, or *Bhaktaparijnā*) is a short but influential Jain devotional text traditionally attributed to the Śvetāmbara tradition. It is widely used in lay religious education, temple recitation, and introductory study of Jain ethics. The work is generally classified as a *bhakti-pradhāna* (devotion‑centered) composition that explains the qualities, conduct, and inner dispositions expected of a true *bhakta*—a devoted follower of the Jinas and the Jain path.\n\nThe text is not a canonical scripture (Āgama) but belongs to the later devotional literature that emerged as Jain communities developed structured forms of worship, temple culture, and lay ethical instruction. Its verses outline the characteristics of ideal devotion: reverence for the Jinas, respect for teachers, purity of intention, avoidance of hypocrisy, and alignment of conduct with the principles of ahiṃsā, satya, and self‑restraint. Because of its concise format, it is often memorized by students and recited during *pūjā*, *svādhyāya*, and community gatherings.\n\nIn many Śvetāmbara Mūrti‑pūjaka communities, Bhaktaparijña is taught alongside texts such as *Bhaktāmara Stotra*, *Śāntistava*, and *Chaityavandana* commentaries. Its role is pedagogical: it helps lay practitioners understand what constitutes authentic devotion beyond ritual performance. The text emphasizes inner transformation, humility, and ethical consistency. Although Digambara communities do not generally use this text liturgically, some modern comparative scholars reference it when discussing Jain devotional genres.\n\nThe manuscript tradition shows minor variations in wording across regions, but the thematic core remains stable: devotion must be grounded in right faith (*samyak‑darśana*), right knowledge (*samyak‑jñāna*), and right conduct (*samyak‑cāritra*). The text warns against superficial religiosity and encourages practitioners to cultivate sincerity, compassion, and awareness of karmic consequences. Because it is a later composition, its authority is interpretive and educational rather than doctrinal, and communities may differ in how they integrate it into practice.",
+  "primary_sources": [
+    {
+      "title": "Bhaktaparijñā",
+      "author": "Traditionally attributed to later Śvetāmbara devotional authors; exact authorship uncertain",
+      "original_text": "भक्तपरिज्ञा — भक्तस्य लक्षणं, श्रद्धा-सम्यक्त्व-निष्ठा च।",
+      "transliteration": "bhaktaparijñā — bhaktasya lakṣaṇaṃ, śraddhā‑samyaktva‑niṣṭhā ca.",
+      "translation": "“Bhaktaparijñā — the characteristics of a devotee are steadfast faith and commitment to right belief.”",
+      "notes": "This line represents a commonly cited opening sentiment found in several manuscript traditions. Exact wording varies, and no single critical edition is universally accepted. The text is used pedagogically to define the qualities of a true Jain devotee."
+    },
+    {
+      "title": "Bhaktaparijñā (regional manuscript variant)",
+      "author": "Anonymous Śvetāmbara compiler",
+      "original_text": "यः जिनेभ्यो नमस्कारं करोति स भक्तः।",
+      "transliteration": "yaḥ jinebhyo namaskāraṃ karoti sa bhaktaḥ.",
+      "translation": "“One who offers reverence to the Jinas with sincerity is a devotee.”",
+      "notes": "This verse appears in some Gujarat and Rajasthan manuscript lineages. It emphasizes sincerity (*bhāva*) over ritual form."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Bhaktaparijña is a canonical Jain scripture with doctrinal authority equal to the Āgamas.",
+      "reality": "The text is a later devotional composition, not part of the canonical Śvetāmbara Āgamas or Digambara Siddhānta. Its authority is educational and devotional, not doctrinal."
+    },
+    {
+      "myth": "The text prescribes ritual procedures for temple worship.",
+      "reality": "Bhaktaparijña focuses on the inner qualities of devotion—faith, sincerity, humility—not on ritual technique. It complements but does not replace liturgical manuals."
+    },
+    {
+      "myth": "All Jain traditions use Bhaktaparijña in regular worship.",
+      "reality": "The text is primarily used in Śvetāmbara Mūrti‑pūjaka communities. Digambara and Sthānakavāsī traditions generally do not incorporate it into standard liturgy."
+    }
+  ]
+}

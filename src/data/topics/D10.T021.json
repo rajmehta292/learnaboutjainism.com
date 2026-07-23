@@ -1,0 +1,55 @@
+{
+  "overview": "Āptamīmāṁsā (also known as Devāgama or Devāgamastotra) is a foundational Jain philosophical text composed in Sanskrit by Ācārya Samantabhadra, a major Digambara thinker generally dated to the latter part of the 2nd century CE. It consists of 114 kārikās (verses) arranged in a systematic, argumentative sequence. The work’s central concern is the nature and authority of the true āpta—the genuinely trustworthy, omniscient being exemplified by the Jinas—and the epistemic and metaphysical framework that makes such authority intelligible.\n\nThe text opens by critically examining conventional criteria used to identify a praiseworthy deity or spiritual authority. Samantabhadra points out that spectacular attributes such as attendance of heavenly beings, aerial movement, royal insignia, or even the status of a tīrthaṅkara can be shared by illusionists or beings whose teachings conflict with one another. Therefore, these external marks cannot serve as decisive proof of true spiritual authority. Instead, the āpta is defined through inner perfection: complete eradication of karmic obscurations, possession of kevalajñāna (omniscience), and speech that never contradicts valid means of knowledge (pramāṇa) or well-established doctrines. In this way, Āptamīmāṁsā links religious authority to a rigorous theory of knowledge.\n\nFrom this starting point, the text develops a sustained critique of one-sided (ekānta) philosophical positions held by rival schools—such as absolutist doctrines of existence, non-existence, non-dualism, separateness, permanence, and momentariness. Samantabhadra argues that reality is intrinsically complex and many-sided (anekānta), containing multiple, even seemingly opposed, characteristics that can be affirmed from different standpoints (naya). Any attempt to reduce reality to a single absolute property—only permanent, only momentary, only one, only many—is philosophically inadequate. This critique is especially visible in his treatment of Buddhist kṣaṇavāda (momentariness), where he raises problems about continuity, causal determination, moral responsibility, and the relation between intention, action, and karmic result.\n\nTo articulate the Jain alternative, Āptamīmāṁsā elaborates the doctrine of conditional predication (syādvāda) and the sevenfold predication scheme (saptabhaṅgī). Syādvāda insists that every assertion about reality must be qualified—“in a certain respect,” “from a certain standpoint”—so that affirmation and negation are coordinated rather than mutually destructive. The sevenfold predication system provides a logical framework for expressing that an entity may, in different respects, exist, not exist, both exist and not exist, or be inexpressible, and combinations thereof. Samantabhadra emphasizes that only when affirmation and negation are juxtaposed in a non-conflicting, conditional manner can one truly describe an object of knowledge and decide whether to accept or reject a given assertion.\n\nLater portions of the text apply this many-sided logic to practical and ethical issues. Samantabhadra argues, for example, that both fate (daiva) and human effort (pauruṣa) jointly contribute to desirable and undesirable outcomes, rejecting any extreme view that privileges only one factor. He also clarifies the nature of karmic bondage (bandha), stating that bondage arises from ignorance accompanied by delusion (moha), not from mere ignorance devoid of delusion. These discussions show how anekāntavāda and syādvāda are not merely abstract logical doctrines but have direct implications for moral responsibility, spiritual progress, and the interpretation of human experience.\n\nHistorically, Āptamīmāṁsā became a cornerstone of Jain logic and epistemology. It inspired extensive commentarial traditions, including Akalaṅka’s Aṣṭasati and later works by Vidyānanda and Yaśovijaya, and it continues to be studied in modern scholarship as a key text for understanding Jain non-absolutism, theories of valid knowledge, and interreligious philosophical debate. Contemporary translations and studies highlight its role as a “philosophy of philosophies,” synthesizing partial truths from multiple schools while defending the distinctive Jain vision of a many-sided reality grounded in the authority of the omniscient āpta.",
+  "primary_sources": [
+    {
+      "title": "Āptamīmāṁsā (Devāgamastotra)",
+      "author": "Ācārya Samantabhadra",
+      "original_text": "देवागमादि विभूतिभिः समलङ्कृतोऽपि न मायावी महान् ।\nन च तैरेव भवति त्वमाप्तो गुरुरुत्तमो स्तुत्यः ॥",
+      "transliteration": "devāgamādi vibhūtibhiḥ samalaṅkṛto’pi na māyāvī mahān |\nna ca taireva bhavati tvam āpto gurur uttamo stutyaḥ ||",
+      "translation": "Attendance of heavenly beings, movement in the sky, waving of flywhisks and other symbols of majesty are found even in jugglers; it is not owing to these that you are great—supreme preacher, worthy of adoration, and omniscient (āpta).",
+      "notes": "This verse, traditionally placed at the beginning of Āptamīmāṁsā, sets the tone for the entire treatise by denying that external, miraculous attributes are sufficient criteria for genuine spiritual authority. Samantabhadra uses the contrast between illusionists (māyāvīs) and the true āpta to argue that authority must be grounded in inner omniscience and flawless speech rather than in spectacular displays. The text survives in multiple Sanskrit editions and has been translated and commented upon by modern scholars and traditional ācāryas, including works by Nagin J. Shah and Vijay K. Jain, which provide detailed philosophical and philological analysis."
+    },
+    {
+      "title": "Āptamīmāṁsā, Verse 91",
+      "author": "Ācārya Samantabhadra",
+      "original_text": "दैवपौरुषयोः संयुक्तं शुभाशुभफलहेतुत्वम् ।",
+      "transliteration": "daiva-pauruṣayoḥ saṃyuktaṃ śubhāśubha-phala-hetutvam |",
+      "translation": "Both fate (daiva) and human effort (pauruṣa), acting together, are the causes of desirable and undesirable results.",
+      "notes": "In this verse Samantabhadra rejects one-sided explanations of human experience that rely exclusively on fate or exclusively on personal effort. By affirming their joint causal role, he applies the principle of anekānta to ethical and practical life, showing that complex outcomes cannot be reduced to a single factor. Commentators use this verse to discuss responsibility, karmic causality, and the balance between determinism and freedom in Jain thought."
+    },
+    {
+      "title": "Āptamīmāṁsā, Verse 98",
+      "author": "Ācārya Samantabhadra",
+      "original_text": "अविद्या मोहेन सहितैव बन्धहेतुः, न तु मोहरहिताविद्या बन्धहेतुः ।",
+      "transliteration": "avidyā mohena sahitaiva bandha-hetuḥ, na tu moha-rahitāvidyā bandha-hetuḥ |",
+      "translation": "Ignorance accompanied by delusion (moha) alone is the cause of bondage; ignorance not accompanied by delusion is not the cause of bondage.",
+      "notes": "This verse refines the Jain account of karmic bondage by distinguishing between mere lack of knowledge and ignorance that is intertwined with delusive attachment and aversion. The nuance reflects the many-sided analysis of mental states and their karmic consequences. Traditional commentaries and modern studies use this passage to explore how Jainism differentiates between epistemic limitation and morally significant delusion."
+    },
+    {
+      "title": "Āptamīmāṁsā, Verse 113",
+      "author": "Ācārya Samantabhadra",
+      "original_text": "निगमनानुगुणा यत्र न विरोधिनि प्रतिषेधे सिध्यति वृत्तिः ।\nतत्रैव स्याद्वादोऽयं सत्यप्रतिपत्तिहेतुत्वेन प्रतिष्ठितः ॥",
+      "transliteration": "nigamanānuguṇā yatra na virodhini pratiṣedhe sidhyati vṛttiḥ |\ntatraiva syādvādo’yaṃ satya-pratipatti-hetutvena pratiṣṭhitaḥ ||",
+      "translation": "Affirmation, when not in conflict with negation, yields the desired result of truly describing an object of knowledge. Only where affirmation and negation are coordinated without mutual opposition does this doctrine of conditional predication (syādvāda) stand established as the means of attaining truth.",
+      "notes": "This verse is frequently cited as a concise statement of syādvāda. Samantabhadra explains that truth is reached not by unilateral affirmation or negation, but by their carefully qualified coordination. The verse underpins later Jain logical developments, including the formalization of saptabhaṅgī, and is central in commentarial literature such as Akalaṅka’s Aṣṭasati."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Āptamīmāṁsā is merely a devotional hymn praising the Jinas and has little philosophical content.",
+      "reality": "Although the text is reverential toward the omniscient Jinas, it is primarily a rigorous philosophical treatise. Samantabhadra systematically analyzes criteria for spiritual authority, critiques rival schools’ one-sided doctrines, and develops core Jain theories of knowledge, logic, and reality—especially anekāntavāda and syādvāda. Its structure, argumentative style, and extensive commentarial tradition show that it functions as a cornerstone of Jain logic and epistemology rather than as a simple stotra."
+    },
+    {
+      "myth": "Āptamīmāṁsā teaches that only fate (daiva) determines human outcomes, leaving no real role for personal effort.",
+      "reality": "The text explicitly rejects such fatalism. In verse 91, Samantabhadra states that both fate and human effort jointly cause desirable and undesirable results. This balanced view reflects Jain non-absolutism: neither fate nor effort can be absolutized. Human agency, ethical discipline, and spiritual practice remain crucial, even as karmic and circumstantial factors are acknowledged."
+    },
+    {
+      "myth": "Syādvāda in Āptamīmāṁsā implies that all views are equally true and that Jainism endorses complete relativism.",
+      "reality": "Syādvāda does not claim that every statement is true in an unqualified way. It insists that assertions must be made conditionally—“in a certain respect”—to avoid one-sidedness. Some views are rejected because they absolutize a single aspect of reality and ignore other valid standpoints. Āptamīmāṁsā uses syādvāda to discriminate between partial truths and dogmatic errors, aiming at a more comprehensive grasp of reality, not at indiscriminate relativism."
+    },
+    {
+      "myth": "The authority of the āpta in Āptamīmāṁsā is based on miraculous powers and external signs like levitation or celestial attendants.",
+      "reality": "Samantabhadra explicitly denies that such external attributes are decisive. The opening verse contrasts jugglers, who may display similar marvels, with the true āpta, whose authority rests on omniscience, complete removal of karmic obscurations, and speech that never contradicts valid knowledge. Miraculous signs are treated as unreliable indicators; inner perfection and logical coherence are the true foundations of spiritual authority."
+    }
+  ]
+}

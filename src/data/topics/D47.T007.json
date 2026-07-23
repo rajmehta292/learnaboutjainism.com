@@ -1,0 +1,39 @@
+{
+  "overview": "In Jain intellectual history, poetry (kāvya) occupies a significant place as a vehicle for ethical instruction, narrative preservation, and aesthetic expression. Jain poets—across Prakrit, Apabhramsha, and Sanskrit—used verse to communicate philosophical ideas, moral exemplars, and cosmological structures in forms accessible to lay and monastic audiences. Poetry served not only as art but also as pedagogy, reinforcing ahiṃsā, aparigraha, and the broader soteriological aims of Jainism.\n\nJain poetic traditions developed in dialogue with broader Indian literary culture. Early Prakrit verse in canonical texts tends to be concise, aphoristic, and didactic, while later narrative poems (mahākāvyas) by Digambara and Śvetāmbara authors adopt elaborate courtly styles. Works such as the *Paumacariya*, *Kuvalayamālā*, and *Yogasāra* demonstrate how poets adapted epic conventions to Jain ethical frameworks, replacing violent heroism with renunciation-centered ideals.\n\nPoetry also played a role in ritual and devotional life. Hymns (stavan, caityavandana) express reverence for tīrthaṅkaras and enlightened beings, often using ornate metaphors to evoke purity and liberation. In monastic settings, verse was used for memorization, meditation, and moral reflection. In lay communities, poetic storytelling helped transmit values across generations.\n\nAcross centuries, Jain poets contributed to the evolution of Indian aesthetics, influencing metrics, narrative structure, and linguistic innovation. Their works remain central to Jain cultural identity, offering insight into how artistic expression can coexist with rigorous ethical commitments.",
+  "primary_sources": [
+    {
+      "title": "Uttarajjhayaṇa (Uttarādhyayana Sūtra)",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "जगति जो ण भणइ, सो भणइ, जो भणइ सो ण भणइ",
+      "transliteration": "jagati jo ṇ bhaṇai, so bhaṇai, jo bhaṇai so ṇ bhaṇai",
+      "translation": "“One who speaks in the world does not truly speak; one who does not speak, truly speaks.”",
+      "notes": "A didactic verse (A-tier canonical text) illustrating paradoxical poetic expression used to convey the value of restraint and inner realization."
+    },
+    {
+      "title": "Paumacariya",
+      "author": "Vimalasūri (Digambara)",
+      "original_text": "सीहसूरि पउमचरिअं कहइ",
+      "transliteration": "sīhasūri paumacariaṃ kahai",
+      "translation": "“The sage Vimalasūri narrates the Paumacariya.”",
+      "notes": "An early Jain retelling of the Rāmāyaṇa (A/B-tier), replacing violent motifs with non-violent and ascetic ideals. The text is composed largely in Prakrit verse."
+    },
+    {
+      "title": "Kuvalayamālā",
+      "author": "Uddyotana Sūri (Śvetāmbara)",
+      "original_text": "कुवलयमालए विणिअं सुयसस्स",
+      "transliteration": "kuvalayamālae viṇiaṃ suyassassa",
+      "translation": "“The Kuvalayamālā was composed by the venerable Uddyotana.”",
+      "notes": "A 8th-century narrative poem in mixed Prakrit and Sanskrit (B/C-tier), notable for its sophisticated literary style and detailed depiction of Jain social life."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain literature is purely philosophical and does not include artistic or emotional poetry.",
+      "reality": "Jain traditions contain extensive poetic works—narrative epics, hymns, and lyrical verse—demonstrating rich aesthetic engagement alongside ethical instruction."
+    },
+    {
+      "myth": "Jain poets avoided all references to mainstream Indian literary motifs.",
+      "reality": "Jain poets frequently adapted broader Indian literary conventions, reshaping them to align with Jain values such as nonviolence and renunciation."
+    }
+  ]
+}

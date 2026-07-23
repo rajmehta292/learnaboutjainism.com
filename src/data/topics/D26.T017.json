@@ -1,0 +1,55 @@
+{
+  "overview": "Jain Ramayanas are a diverse corpus of retellings, expansions, and reinterpretations of the Ramayana narrative within Jain intellectual, ethical, and cosmological frameworks. These works appear across both Digambara and Śvetāmbara traditions and span more than fifteen centuries, ranging from Prakrit and Apabhraṃśa compositions to elaborate Sanskrit mahākāvyas. Jain Ramayanas preserve the broad narrative arc of Rāma, Sītā, Lakṣmaṇa, and Rāvaṇa, but they reinterpret the characters through Jain ethical categories such as ahiṃsā, aparigraha, karma theory, and the multi-life trajectories of śalākā puruṣas.\n\nA defining feature of Jain Ramayana literature is the transformation of Rāvaṇa from a purely villainous figure into a tragic, complex, and often morally ambivalent character whose downfall is tied to passions (kaṣāyas) and karmic entanglements rather than inherent evil. Rāma is typically depicted as a virtuous but non-liberated hero who ultimately attains liberation only after renouncing violence and worldly life. Lakṣmaṇa, not Rāma, is usually the one who kills Rāvaṇa, preserving Rāma’s status as a future tīrthaṅkara or advanced spiritual being who avoids the direct act of killing.\n\nThese texts also expand the cosmological setting: the story unfolds across multiple continents (dvīpas), includes detailed karmic backstories, and integrates Jain metaphysics such as the three jewels (ratnatraya), the ladder of spiritual development (guṇasthāna), and the doctrine of anekāntavāda. Jain Ramayanas are not merely adaptations but full theological recontextualizations, using the familiar epic narrative to teach Jain ethics, critique royal violence, and illustrate the workings of karma across lifetimes.\n\nMajor Jain Ramayana works include Vimalasūri’s *Paumacariya* (c. 3rd–5th century CE), one of the earliest surviving Jain versions; Svayambhū’s *Paumacariyam*; Hemacandra’s *Trīṣaṣṭiśalākāpuruṣacaritra* (12th century); and later vernacular retellings in Gujarati, Kannada, and Rajasthani. Each tradition preserves its own nuances, but all share the core Jain interpretive principles: nonviolence, karmic causality, and the spiritual potential of all beings, including those portrayed as antagonists in other traditions.",
+  "primary_sources": [
+    {
+      "title": "Paumacariya",
+      "author": "Vimalasūri (Digambara tradition)",
+      "original_text": "“paumāe yaṇaṃ savvaṃ jāvaṇāṇaṃ viṇāsaṇaṃ”",
+      "transliteration": "paumāe yaṇaṃ savvaṃ jāvaṇāṇaṃ vināsaṇaṃ",
+      "translation": "“The entire account of Padma (Rāma) is told here, destroying false (non-Jain) versions.”",
+      "notes": "This is the earliest extensive Jain Ramayana. Vimalasūri reinterprets Rāma (Padma), Lakṣmaṇa, and Rāvaṇa through Jain ethics, rejects supernatural elements he considers implausible, and emphasizes karmic causality. Lakṣmaṇa kills Rāvaṇa, preserving Rāma’s nonviolent status."
+    },
+    {
+      "title": "Paumacariyam",
+      "author": "Svayambhū (Śvetāmbara tradition)",
+      "original_text": "“paumācariaṃ karissaṃ savvasaṃghassa māṇasaṃ”",
+      "transliteration": "paumācariaṃ karissaṃ savvasaṃghassa māṇasaṃ",
+      "translation": "“I shall compose the Paumacariyam for the delight of the entire saṅgha.”",
+      "notes": "An Apabhraṃśa retelling that follows the broad Jain narrative pattern but includes Śvetāmbara stylistic and doctrinal nuances. It expands the moral psychology of Rāvaṇa and emphasizes the spiritual trajectory of Rāma."
+    },
+    {
+      "title": "Trīṣaṣṭiśalākāpuruṣacaritra (Rāma–Lakṣmaṇa–Rāvaṇa Caritra)",
+      "author": "Ācārya Hemacandra",
+      "original_text": "“rāmo ’tha lakṣmaṇo rāvaṇavadhe nimittam abhavat”",
+      "transliteration": "rāmo ’tha lakṣmaṇo rāvaṇavadhe nimittam abhavat",
+      "translation": "“Rāma and then Lakṣmaṇa became the instrumental cause in the slaying of Rāvaṇa.”",
+      "notes": "Hemacandra integrates the Ramayana narrative into his universal history of the 63 illustrious beings. Rāma is portrayed as a future tīrthaṅkara, Lakṣmaṇa as a vīra who performs the act of killing, and Rāvaṇa as a powerful but passion-driven king whose downfall is karmically determined."
+    },
+    {
+      "title": "Padmapurāṇa (Jain versions)",
+      "author": "Multiple authors; Digambara and Śvetāmbara recensions",
+      "original_text": "Varies by recension",
+      "transliteration": "N/A",
+      "translation": "N/A",
+      "notes": "Several Jain Padmapurāṇas exist, expanding the Ramayana narrative with cosmology, genealogies, and karmic backstories. They often include detailed descriptions of Jain heavens, hells, and the multi-life journeys of the protagonists."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain Ramayanas are simply Jainized retellings of the Hindu Valmiki Ramayana.",
+      "reality": "Jain Ramayanas are independent theological and cosmological works that reinterpret the narrative through Jain ethics, karma theory, and nonviolence. They often reject or revise elements of the Valmiki tradition and introduce entirely new narrative structures."
+    },
+    {
+      "myth": "Rāma kills Rāvaṇa in all versions of the Ramayana, including Jain ones.",
+      "reality": "In Jain Ramayanas, Lakṣmaṇa kills Rāvaṇa. This preserves Rāma’s status as a future tīrthaṅkara or spiritually advanced being who avoids direct violence."
+    },
+    {
+      "myth": "Rāvaṇa is portrayed as purely evil in Jain texts.",
+      "reality": "Jain Ramayanas depict Rāvaṇa as a complex figure whose downfall arises from passions and karmic entanglements, not inherent evil. He is often shown as learned, powerful, and capable of virtue, though ultimately overcome by anger and desire."
+    },
+    {
+      "myth": "Jain Ramayanas remove all supernatural elements.",
+      "reality": "While some miraculous elements are minimized or rationalized, Jain Ramayanas include their own cosmological frameworks—multiple continents, celestial beings, karmic transformations, and detailed descriptions of heavens and hells."
+    }
+  ]
+}

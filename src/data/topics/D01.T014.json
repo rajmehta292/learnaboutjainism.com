@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “advanced learning paths” refers to structured, tradition‑aware routes that guide a student from foundational concepts toward deeper engagement with primary texts, commentarial traditions, technical doctrines, and lineage‑specific interpretations. These paths are not monastic training programs and do not replace guidance from qualified human teachers; rather, they help lay learners, researchers, and advanced students navigate the vast Jain intellectual landscape responsibly.\n\nAdvanced learning paths typically begin once a student has mastered introductory material such as the core ethical framework (ahiṃsā, anekāntavāda, aparigraha), the basic cosmology, and the lay vows. From there, learners progress into text‑based study, comparative doctrinal analysis, and specialized domains such as Prakrit philology, karma theory, or manuscript history. Because Jainism contains multiple living traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—advanced paths emphasize careful differentiation of sources, variant readings, and doctrinal disagreements.\n\nA mature learning path often includes: (1) direct engagement with primary texts in Prakrit or Sanskrit; (2) study of authoritative commentaries; (3) awareness of sectarian variations; (4) historical contextualization; (5) technical study of karma theory, guṇasthāna, and epistemology; and (6) reflection on modern ethical applications. These paths encourage slow, source‑grounded reading, cross‑checking editions, and acknowledging uncertainties in translation. They also highlight when a topic requires consultation with a qualified scholar or lineage holder, especially in areas involving ritual authorization, monastic discipline, or interpretive disputes.\n\nAdvanced learning paths are not linear. Students may specialize in textual philology, doctrinal systems, comparative traditions, or applied ethics. The goal is not mastery in the sense of religious authority but rather informed, critical, and respectful engagement with Jain thought, grounded in verifiable sources and transparent methodology.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This aphorism (TS 1.1) is foundational for advanced study because it frames all subsequent doctrinal exploration. Digambara and Śvetāmbara editions differ slightly in terminology and commentary, and advanced learners study both to understand sectarian nuances."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama",
+      "author": "Puṣpadanta and Bhūtabali (Digambara tradition)",
+      "original_text": "कर्मप्रकृतयः जीवस्य भावान् बाधन्ति",
+      "transliteration": "karma‑prakṛtayaḥ jīvasya bhāvān bādhanti",
+      "translation": "The varieties of karma obstruct the states of the soul.",
+      "notes": "A central Digambara canonical text used for advanced karma theory. The surviving manuscripts are fragmentary, and students rely on authoritative commentaries such as those by Vīrasena (Dhavalā)."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to early Śvetāmbara redactors",
+      "original_text": "णं च देहं पिडए, णं च देहं पिडए",
+      "transliteration": "ṇaṃ ca dehaṃ piḍae, ṇaṃ ca dehaṃ piḍae",
+      "translation": "One should not injure living bodies; one should not injure living bodies.",
+      "notes": "A core Śvetāmbara text emphasizing ahiṃsā. Advanced learners study variant recensions and the commentarial tradition (e.g., Abhayadeva)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Advanced Jain study requires becoming a monk or nun.",
+      "reality": "Laypeople, students, and researchers can pursue advanced learning paths without entering monastic life. Monastic training is distinct and requires lineage authorization."
+    },
+    {
+      "myth": "All Jain traditions interpret advanced doctrines, such as karma theory or cosmology, in the same way.",
+      "reality": "Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth traditions preserve different textual canons and commentaries. Advanced study requires comparing sources rather than assuming uniformity."
+    },
+    {
+      "myth": "Translations alone are sufficient for advanced study.",
+      "reality": "Many doctrinal nuances depend on Prakrit or Sanskrit terminology, manuscript variants, and commentarial context. Advanced learners consult original languages and multiple editions."
+    }
+  ]
+}

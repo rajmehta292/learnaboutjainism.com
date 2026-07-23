@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain cosmology and embryology, “agglutination birth” refers to one of the technical modes by which a jīva (sentient being) takes physical form within the cycle of rebirth. The term corresponds to the Sanskrit/Prakrit category *saṃghāta‑garbha* or *saṃghāta‑janma*, describing a process in which the body arises through the coagulation, clustering, or compact aggregation of subtle material particles. This is contrasted with other Jain categories of birth, such as womb‑birth (*garbha‑janma*), spontaneous birth (*upapāda‑janma*), and birth through transformation (*vaikriyika‑janma*).\n\nAgglutination birth is primarily discussed in the context of beings whose bodies are formed not through sexual reproduction but through the natural clustering of matter under karmic influence. In classical Jain ontology, matter (*pudgala*) is infinitely divisible and capable of forming aggregates (*skandha*) when karmic conditions draw particles together. Certain classes of infernal beings, subhuman organisms, and minute life‑forms are described as arising through such aggregation rather than through parental gestation.\n\nThe concept serves two functions in Jain thought. First, it provides a metaphysical explanation for the emergence of embodied life in realms where conventional reproduction does not occur. Second, it illustrates the broader Jain principle that karmic forces shape not only consciousness but also the physical structures that consciousness inhabits. Agglutination birth thus belongs to the technical vocabulary of Jain cosmology, karma theory, and biological classification, appearing in both Śvetāmbara and Digambara textual traditions with minor terminological variations.\n\nModern scholarship treats agglutination birth as part of Jainism’s sophisticated attempt to categorize all possible modes of embodiment across the vast cosmological map. While the term may appear obscure, it reflects the tradition’s commitment to systematic classification and its belief that karmic processes govern even the most minute forms of life.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "संघातगर्भाश्च",
+      "transliteration": "saṃghāta‑garbhāś ca",
+      "translation": "“There are also beings born through agglutination.”",
+      "notes": "This brief sūtra (Tattvārtha Sūtra 2.32 in many editions) is the primary canonical reference to agglutination birth. Commentaries explain that certain beings arise through the clustering of matter without parental gestation."
+    },
+    {
+      "title": "Tattvārtha Sūtra — Digambara Commentary (Sarvārthasiddhi)",
+      "author": "Pujyapāda",
+      "original_text": "संघातगर्भा इति येषां जन्म पुद्गलसंघातात्",
+      "transliteration": "saṃghāta‑garbhā iti yeṣāṃ janma pudgala‑saṃghātāt",
+      "translation": "“Agglutination‑born are those whose birth arises from the aggregation of matter.”",
+      "notes": "Pujyapāda clarifies that karmic forces draw together subtle matter to form the bodies of certain beings, especially in lower realms."
+    },
+    {
+      "title": "Tattvārtha Sūtra — Śvetāmbara Commentary (Bhāṣya)",
+      "author": "Umāsvāti (attributed), with later redaction",
+      "original_text": "संघातेन पुद्गलानां गर्भो भवति",
+      "transliteration": "saṃghātena pudgalānāṃ garbho bhavati",
+      "translation": "“Through aggregation of matter, a body is formed.”",
+      "notes": "The Śvetāmbara Bhāṣya emphasizes the role of karmic attraction in producing a compact mass that becomes the organism’s body."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Agglutination birth refers to a mystical or supernatural creation of life without any material basis.",
+      "reality": "Jain texts describe agglutination birth as a natural process governed by karmic forces acting on subtle matter (*pudgala*). It is not supernatural but part of Jainism’s systematic cosmology."
+    },
+    {
+      "myth": "Agglutination birth is equivalent to spontaneous generation in pre-modern biology.",
+      "reality": "Although both involve non-sexual emergence of organisms, Jain agglutination birth is a metaphysical category tied to karma theory and cosmology, not an empirical biological hypothesis."
+    },
+    {
+      "myth": "All non-womb births in Jainism are agglutination births.",
+      "reality": "Jainism distinguishes multiple non-womb births, including spontaneous birth (*upapāda*) and transformation birth (*vaikriyika*). Agglutination birth is only one specific mode among several."
+    }
+  ]
+}

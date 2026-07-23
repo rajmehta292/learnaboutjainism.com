@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical literature, the concept of “error” is not treated as a single, isolated category but appears across multiple domains: epistemology (pramāṇa and nayavāda), conduct (ācāra), karmic theory, and scriptural interpretation. Jain thinkers—both Digambara and Śvetāmbara—approach error as a deviation from correct knowledge (samyag‑jñāna), correct perception (samyag‑darśana), or correct conduct (samyak‑cāritra). Error is therefore not merely intellectual; it is existential, shaping the soul’s bondage and liberation.\n\nIn epistemology, error is typically framed as mithyātva (false belief) or bhrānti (cognitive distortion). Mithyātva is a major category in the Tattvārtha Sūtra, where it is described as the fundamental misapprehension of reality that binds the soul with deluding karma. This error can manifest as mistaken views about the nature of substances (dravya), categories (tattva), or the path to liberation. Jain philosophers distinguish between simple factual mistakes and deeper metaphysical errors that obstruct spiritual progress.\n\nIn ethical and practical contexts, error is linked to transgressions (aticāra) of vows, inattentiveness (pramāda), and misapplication of scriptural teachings. These errors are not treated as moral failings in a punitive sense but as obstacles to clarity and non‑violence. The literature emphasizes careful self‑examination, guidance from qualified teachers, and gradual refinement of conduct.\n\nIn karmic theory, error is both cause and effect: deluding karma produces erroneous cognition, and erroneous cognition reinforces karmic bondage. The Gunasthāna system maps the progressive elimination of error, beginning with pervasive mithyātva and culminating in perfect knowledge (kevala‑jñāna), where all cognitive error is extinguished.\n\nAcross traditions, Jain texts encourage humility in interpretation, acknowledging that partial viewpoints (naya) can lead to error if mistaken for complete truth. The doctrine of anekāntavāda—many‑sidedness—serves as a safeguard against absolutism and a method for reducing interpretive error. Thus, “error” in Jainism is not merely a mistake but a structural feature of embodied existence, gradually overcome through disciplined inquiry, ethical restraint, and meditative clarity.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "मिथ्यात्वसम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "mithyātva‑samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "False belief, right perception, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "TS 1.1 establishes mithyātva (error/false belief) as a foundational category. Commentaries note that liberation requires the removal of mithyātva, making error central to Jain soteriology."
+    },
+    {
+      "title": "Pramāṇa‑nāya‑tattvālokālaṅkāra (Śvetāmbara epistemological tradition)",
+      "author": "Devasena (Digambara attribution varies by manuscript)",
+      "original_text": "भ्रान्तिर्नाम यथार्थावगाहिविपर्यासः",
+      "transliteration": "bhrāntir nāma yathārthāvagāhi‑viparyāsaḥ",
+      "translation": "Error is the inversion of correct apprehension of reality.",
+      "notes": "A classical definition of cognitive error, used in discussions of perception and inference."
+    },
+    {
+      "title": "Gunasthāna descriptions (various canonical sources)",
+      "author": "Canonical compilations; redaction varies by sect",
+      "original_text": "मिथ्यात्वगुणस्थानं प्रथमं",
+      "transliteration": "mithyātva‑guṇasthānaṃ prathamaṃ",
+      "translation": "The first stage of spiritual development is the state of false belief.",
+      "notes": "The Gunasthāna system begins with pervasive error and charts its gradual elimination. Exact phrasing varies across manuscripts; this line represents a stable traditional formulation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Error in Jainism is simply a moral fault or sin.",
+      "reality": "Jain texts treat error primarily as cognitive and perceptual distortion (mithyātva, bhrānti), not as moral guilt. It is a condition of misapprehension that binds the soul and is corrected through knowledge, perception, and disciplined conduct."
+    },
+    {
+      "myth": "Anekāntavāda means all viewpoints are equally correct, so error does not exist.",
+      "reality": "Anekāntavāda acknowledges partial truths but does not deny error. A viewpoint can be valid in a limited sense yet still be incorrect if asserted as absolute. Jain epistemology carefully distinguishes partial truth from full truth."
+    },
+    {
+      "myth": "Error is eliminated only through scriptural study.",
+      "reality": "Scriptural study is important, but Jain texts emphasize that error is removed through a combination of right perception, ethical discipline, meditation, and guidance from qualified teachers. Intellectual study alone cannot eliminate karmic delusion."
+    }
+  ]
+}

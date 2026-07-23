@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “living-person consent” refers to the ethical, scriptural, and community-governed requirement that any action affecting a living individual—whether physical, ritual, educational, or involving their image, voice, or personal data—must be undertaken only with their voluntary, informed, and non‑coerced agreement. Although classical Jain texts do not use a modern legal term equivalent to “consent,” they articulate closely related principles through ahiṃsā (non‑harm), anukampā (compassion), apramatta‑yoga (carefulness), and the strict prohibition against causing distress or fear to any living being. In contemporary Jain communities, these principles are applied to interpersonal conduct, temple administration, research ethics, digital media, and family life.\n\nWithin the ontology of Jain ethics, living-person consent is grounded in the broader duty to avoid *paryāvaraṇa hiṃsā* (environmental harm), *manovāca‑kāya hiṃsā* (harm through mind, speech, or body), and *saṅkalpa‑hiṃsā* (intentional harm). Any action that affects another person’s autonomy or dignity is evaluated through these categories. Consent is therefore not merely permission but a safeguard against subtle forms of violence, including emotional pressure, spiritual coercion, or social manipulation.\n\nAcross traditions—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth—the emphasis remains consistent: laypeople must not impose religious practices, vows, austerities, or obligations on others without their free choice. Modern Jain educators and ethicists extend this to digital privacy, photography in temples, participation in rituals, and community decision-making. The concept also intersects with mandatory escalation domains: any situation involving coercion, abuse, forced fasting, or pressure toward renunciation requires qualified human intervention.\n\nIn academic and manuscript studies, living-person consent is relevant when recording oral histories, interviewing monks or nuns, or digitizing community archives. Scholars must ensure that participants understand the purpose, scope, and use of their contributions. This aligns with the Jain virtue of *satya* (truthfulness) and the prohibition against misrepresentation.\n\nThus, living-person consent in Jainism is a modern articulation of ancient ethical commitments: respect for autonomy, avoidance of harm, and carefulness in all interactions. It is not a ritual requirement but an ethical imperative derived from primary texts and reinforced by contemporary community norms.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "जिवा दुव्विहा — परसपरिण्णायरा",
+      "transliteration": "jivā duvviha — parasapariṇṇāyara",
+      "translation": "“Living beings are of two kinds — those who affect others and those affected by others.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.1) is used in commentarial traditions to emphasize that one must act with awareness of how one’s conduct impacts other living beings. Modern interpreters apply this to interpersonal ethics, including consent, because actions that disturb another’s mental or physical state constitute hiṃsā."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "प्रमत्तयोगात् हिंसा",
+      "transliteration": "pramattayogāt hiṃsā",
+      "translation": "“Violence arises from carelessness.”",
+      "notes": "Tattvārtha Sūtra VII.13 is foundational for the principle that any action undertaken without careful regard for another person’s autonomy or well-being may constitute hiṃsā. Commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi) stress intentionality and awareness, which modern ethics map to informed consent."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "ण भणइ दुहं कसायं",
+      "transliteration": "ṇa bhaṇaï duhaṃ kasāyaṃ",
+      "translation": "“One should not speak in a way that causes suffering or agitation.”",
+      "notes": "Uttarādhyayana Sūtra 9 emphasizes non-harm through speech. Coercive persuasion, emotional pressure, or manipulative requests violate this principle. Modern Jain educators use this verse to frame consent as protection against psychological harm."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain texts do not mention consent, so it is a modern, non‑Jain concept.",
+      "reality": "While the term “consent” is modern, the ethical foundations—ahiṃsā, carefulness, compassion, and non‑coercion—are deeply rooted in primary Jain scriptures. Contemporary Jain communities apply these principles to modern contexts such as digital privacy, ritual participation, and interpersonal boundaries."
+    },
+    {
+      "myth": "If an action is religiously motivated, consent is not required.",
+      "reality": "Jain ethics strictly prohibit imposing vows, austerities, or practices on others. Any religious action that causes distress, fear, or pressure constitutes hiṃsā. Consent remains essential regardless of spiritual intent."
+    },
+    {
+      "myth": "Consent is only relevant for physical actions.",
+      "reality": "Jainism recognizes harm through speech, thought, and intention. Emotional manipulation, spiritual coercion, or social pressure violate ahiṃsā even without physical contact. Consent therefore applies to mental and social domains as well."
+    }
+  ]
+}

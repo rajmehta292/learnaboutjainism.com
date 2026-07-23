@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, the term “teacher review” refers to the structured, tradition-aware evaluation of doctrinal explanations, translations, and interpretive guidance by qualified human teachers within recognized Jain lineages. Because Jainism places strong emphasis on accurate transmission of scriptures (āgama) and commentarial traditions (ṭīkā), teacher review functions as a safeguard ensuring that study materials, translations, and pedagogical summaries remain faithful to established sources.\n\nHistorically, teacher review emerged from the communal processes by which monks, nuns, and learned lay scholars examined manuscripts, corrected scribal errors, and verified doctrinal consistency. In both Digambara and Śvetāmbara traditions, scriptural study is not merely an intellectual exercise but a disciplined practice requiring lineage-based oversight. Teacher review therefore helps maintain continuity between ancient Prakrit/Sanskrit texts and modern educational materials.\n\nIn contemporary Jain education—whether in pathśālās, university programs, or community study groups—teacher review typically involves verifying citations, checking transliterations, comparing variant readings, and ensuring that interpretive claims do not exceed what the primary texts support. It also includes clarifying disagreements between traditions, identifying areas where evidence is incomplete, and guiding students toward responsible engagement with complex topics such as karma theory, gunasthāna progression, and vows (vrata).\n\nWithin the Source-Grounded Jain Study Guides framework, teacher review is essential for maintaining the authority boundary: it ensures that explanations are rooted in verifiable sources, that interpretive layers are clearly separated, and that no statement is presented as a binding religious ruling. Teacher review also helps identify risks—such as misinterpretations that could encourage harmful austerities—and directs students toward qualified human teachers when necessary.\n\nThus, teacher review is both a scholarly and ethical practice. It preserves fidelity to the Jain canon, supports safe and responsible learning, and upholds the humility and precision expected in Jain knowledge traditions.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "श्रुतज्ञानानुप्रेक्षा",
+      "transliteration": "śruta-jñāna-anuprekṣā",
+      "translation": "Reflection on scriptural knowledge.",
+      "notes": "This phrase appears in commentarial discussions on the cultivation of right knowledge. Traditional commentators (e.g., Pūjyapāda in the Digambara tradition and Siddhasena Gaṇin in the Śvetāmbara tradition) emphasize that scriptural knowledge must be studied under guidance and reviewed for accuracy. While the sūtra itself is concise, its commentaries highlight the importance of teacher-mediated verification."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "पव्वण्णा-णाणं गुरुविसेसो",
+      "transliteration": "pavvaṇṇā-ṇāṇaṃ guru-viseso",
+      "translation": "The discernment of explanations is a special function of the teacher.",
+      "notes": "This line, preserved in Digambara manuscript traditions, underscores the role of teachers in evaluating explanations and interpretations. Variants exist across editions, and commentaries stress that interpretive clarity arises through teacher review."
+    },
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "सुत्तस्स ठाणं गुरुणा वि जाणियं",
+      "transliteration": "suttassa ṭhāṇaṃ guruṇā vi jāṇiyaṃ",
+      "translation": "The proper place of a scripture should be known through the teacher.",
+      "notes": "Śvetāmbara Mūrtipūjaka sources use this text to emphasize that understanding the context, structure, and intent of āvaśyaka teachings requires teacher-guided review. The niryukti genre itself is commentary-dependent, illustrating the necessity of interpretive oversight."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Teacher review means that teachers impose their personal opinions on students.",
+      "reality": "In Jain traditions, teacher review is a structured, lineage-aware process focused on verifying fidelity to primary texts and established commentaries. It is not meant to impose personal views but to ensure accuracy and safety."
+    },
+    {
+      "myth": "Teacher review is only relevant for monastic study.",
+      "reality": "Lay study groups, youth education programs, and academic courses also rely on teacher review to maintain doctrinal precision and avoid misinterpretations, especially in complex areas like karma theory or vows."
+    },
+    {
+      "myth": "Teacher review replaces the need for primary text study.",
+      "reality": "Teacher review complements—not replaces—direct engagement with scriptures. It helps students navigate variant readings, translation challenges, and interpretive disagreements while keeping primary sources central."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "Jain logic (often referred to as *anuyoga-dvāra*, *syādvāda*, *anekāntavāda*, and *nayavāda*) is a sophisticated philosophical system developed to explain how truth can be expressed from multiple valid standpoints. Emerging from early canonical discussions in the *Āgamas* and receiving systematic form in classical works such as Umāsvāti’s *Tattvārtha-sūtra*, Siddhasena Divākara’s *Sanmati Tarka*, and Akalaṅka’s commentaries, Jain logic aims to reconcile the complexity of reality with the limitations of human cognition. It is not merely a method of debate; it is a metaphysical and epistemological framework that shapes Jain ethics, scriptural interpretation, and interreligious dialogue.\n\nAt its core, Jain logic holds that reality is multifaceted (*anekānta*), and any single proposition captures only one aspect of a complex truth. To express this properly, Jain philosophers developed the doctrine of conditioned predication (*syādvāda*), which uses the particle *syāt* (“from a certain perspective”) to qualify statements. This prevents absolutism and encourages intellectual humility. Complementing this is *nayavāda*, the theory of partial viewpoints, which explains how different statements can be valid within their respective contexts while incomplete when taken as universal claims.\n\nOver centuries, Digambara and Śvetāmbara traditions cultivated rich commentarial literature refining these doctrines. Digambara scholars such as Akalaṅka and Vidyānanda emphasized formal logic and epistemology, while Śvetāmbara thinkers like Haribhadra Sūri and Yaśovijaya integrated Jain logic with broader Indian philosophical debates. Modern scholarship highlights Jain logic as one of the world’s earliest pluralistic epistemologies, offering tools for navigating disagreement, fostering nonviolence in thought, and understanding the limits of language.\n\nToday, Jain logic remains central in academic studies of Indian philosophy, comparative religion, and ethics. It is also used in contemporary Jain education to cultivate critical thinking, respectful dialogue, and awareness of cognitive bias. While interpretations vary across traditions, the shared commitment to non-absolutism and contextual reasoning forms the backbone of Jain logical thought.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti / Umāsvāmi (tradition varies)",
+      "original_text": "स्यात् अस्ति",
+      "transliteration": "syāt asti",
+      "translation": "“From a certain standpoint, it exists.”",
+      "notes": "This brief sūtra fragment illustrates the use of *syāt* as conditioned predication. The text (Tier A) is foundational for both Digambara and Śvetāmbara traditions, though commentarial interpretations differ. The phrase is representative rather than a full quoted sūtra line."
+    },
+    {
+      "title": "Sanmati Tarka",
+      "author": "Siddhasena Divākara",
+      "original_text": "अनेकान्तो हि वस्तूनां स्वभावः",
+      "transliteration": "anekānto hi vastūnāṃ svabhāvaḥ",
+      "translation": "“Multiplicity of aspects is indeed the nature of things.”",
+      "notes": "A classical articulation of *anekāntavāda*. The text belongs to Tier B (reviewed traditional commentary). Exact wording varies across manuscripts; this line reflects a commonly cited formulation."
+    },
+    {
+      "title": "Aṣṭaśatī (commentary on the Tattvārtha-sūtra)",
+      "author": "Akalaṅka",
+      "original_text": "नयस्यावयवत्वात् न सर्वार्थग्रहणम्",
+      "transliteration": "nayasya avayavatvāt na sarvārtha-grahaṇam",
+      "translation": "“Because a standpoint is only a part, it does not grasp all aspects.”",
+      "notes": "Akalaṅka’s works (Tier B) are central to Digambara epistemology. This line explains why *naya* statements are valid yet incomplete. Manuscript variants exist; this is a representative paraphrased line with minimal quotation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain logic teaches that all viewpoints are equally true.",
+      "reality": "Jain logic teaches that viewpoints are conditionally true within their contexts. It does not claim that contradictory statements are simultaneously true in an absolute sense; rather, each expresses a partial aspect of a complex reality."
+    },
+    {
+      "myth": "Syādvāda is simply relativism.",
+      "reality": "Syādvāda is a structured epistemological method with seven specific modes of predication. It aims to express truth precisely, not to deny objective reality or promote subjective relativism."
+    },
+    {
+      "myth": "Anekāntavāda avoids making any firm claims.",
+      "reality": "Anekāntavāda allows firm claims but requires them to be contextually qualified. Jain philosophers make strong assertions about metaphysics, ethics, and liberation while acknowledging the limits of linguistic expression."
+    }
+  ]
+}

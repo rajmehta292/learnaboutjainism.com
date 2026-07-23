@@ -1,0 +1,55 @@
+{
+  "overview": "Food ethics in Jainism is a comprehensive domain that integrates non‑violence (ahiṃsā), non‑possession (aparigraha), carefulness (saṃiti), and karmic theory into everyday dietary conduct. It is not limited to vegetarianism; rather, it is a multi‑layered ethical system that evaluates how food is produced, prepared, consumed, and shared. Jain food ethics emerge from the broader commitment to minimize harm to all living beings (jīva), including those with one sense (ekendriya) such as plants, water‑bodied beings, and earth‑bodied beings.\n\nAt its foundation, Jain food ethics emphasize intentionality and awareness. Eating is understood as an act with karmic consequences, because it inevitably involves contact with living organisms. Therefore, the tradition encourages practices that reduce violence: avoiding meat, eggs, root vegetables, honey, and foods produced through fermentation that may involve microbial harm. Laypeople adopt graded vows (aṇu‑vrata) that shape their dietary habits, while monastics follow stricter rules based on canonical texts.\n\nFood ethics also include temporal disciplines such as avoiding eating after sunset to reduce accidental harm to insects, and spatial disciplines such as maintaining cleanliness and avoiding food prepared under conditions of negligence. The tradition further considers social ethics: sharing food with care, avoiding waste, and supporting livelihoods that do not depend on violence. Modern Jain communities extend these principles to environmental sustainability, animal welfare, and ethical consumption.\n\nAcross sects—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth—the core principles remain consistent, though specific interpretations vary. Some groups emphasize stricter avoidance of certain foods, while others focus on mindful preparation and community norms. Despite these differences, all Jain traditions treat food ethics as a practical expression of ahiṃsā and a daily opportunity to cultivate compassion, restraint, and spiritual awareness.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non‑violence is the supreme dharma.",
+      "notes": "Although this phrase is widely cited in Jain tradition, the Ācārāṅga Sūtra contains extensive discussions on carefulness in movement, speech, and consumption. Food ethics derive from its injunctions to avoid harming even subtle life forms."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Traditionally attributed to early Jain canonical compilers",
+      "original_text": "जिवा जिवं परिजहन्ति",
+      "transliteration": "jīvā jīvaṃ parijahanti",
+      "translation": "Living beings harm other living beings.",
+      "notes": "This passage frames the inevitability of harm in worldly life and motivates the development of ethical disciplines, including dietary restrictions, to minimize violence."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अहिंसा यथाकालं",
+      "transliteration": "ahiṃsā yathākālaṃ",
+      "translation": "Non‑violence must be practiced according to proper conditions.",
+      "notes": "Commentaries interpret this to include mindful eating, avoidance of foods involving greater harm, and temporal rules such as not eating at night."
+    },
+    {
+      "title": "Niśītha Sūtra (Śvetāmbara monastic code)",
+      "author": "Canonical compilers",
+      "original_text": "पाणगहणं दुहं",
+      "transliteration": "pāṇagahaṇaṃ duhaṃ",
+      "translation": "Taking life is harmful.",
+      "notes": "Provides detailed monastic regulations on food preparation, acceptance, and consumption, emphasizing avoidance of harm to minute organisms."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain food ethics are only about being vegetarian.",
+      "reality": "Vegetarianism is only one component. Jain ethics also address microbial life, food preparation, timing of meals, environmental impact, and intentionality."
+    },
+    {
+      "myth": "All Jains follow identical dietary rules.",
+      "reality": "Core principles are shared, but practices vary across Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth traditions, as well as among laypeople and monastics."
+    },
+    {
+      "myth": "Jains avoid root vegetables because they believe plants feel pain like animals.",
+      "reality": "The avoidance is based on scriptural classifications of life forms: root vegetables contain multiple souls (anantakāya) and harvesting them causes greater harm."
+    },
+    {
+      "myth": "Jain food ethics are outdated and unrelated to modern issues.",
+      "reality": "Contemporary Jain communities apply ahiṃsā to sustainability, animal welfare, ecological conservation, and ethical consumption, making the principles highly relevant today."
+    }
+  ]
+}

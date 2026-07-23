@@ -1,0 +1,55 @@
+{
+  "overview": "Diacritic-insensitive search is a family of text-processing techniques that allow search systems to match words regardless of the presence, absence, or specific form of diacritical marks such as accents, umlauts, tildes, and cedillas. In practical terms, it means that a query like \"cafe\" can successfully retrieve documents containing \"café\", \"CAFÉ\", or even differently encoded variants of the same word. This capability is crucial for multilingual systems, modern information retrieval, and user-friendly interfaces, because many users either omit diacritics when typing or use devices and keyboards that make entering them difficult.\n\nAt the technical level, diacritic-insensitive search is usually built on top of Unicode-aware normalization and character folding. Unicode allows the same visually identical character to be represented either as a single precomposed code point (for example, \"é\" as U+00E9) or as a sequence of a base letter plus one or more combining marks (\"e\" U+0065 followed by COMBINING ACUTE ACCENT U+0301). To avoid mismatches caused by these multiple encodings, search pipelines first normalize text to a canonical form—often NFD (canonical decomposition) or NFKD (compatibility decomposition)—so that base letters and combining marks are separated in a predictable way. Once decomposed, the system can remove or “strip” combining diacritical marks, leaving only the base letters. This process converts \"café\" to \"cafe\", \"Ångström\" to \"Angstrom\", and \"naïve\" to \"naive\", enabling accent-insensitive matching.\n\nIn addition to diacritic stripping, robust search implementations often combine case folding and other character foldings. Case folding is a Unicode-defined operation that maps letters to a canonical case-insensitive form, going beyond simple lowercasing to handle special cases such as the German \"ß\" or Greek sigma variants. Character folding more broadly refers to mapping similar characters to a common target—for example, treating full-width and half-width forms as equivalent, or folding ligatures like \"œ\" to \"oe\". Diacritic-insensitive search is one specific application of character folding, focused on ignoring distinctions created by accent marks while preserving enough information for meaningful matching.\n\nDesigning diacritic-insensitive search requires careful consideration of context and semantics. In some languages, diacritics are primarily orthographic refinements, and removing them for search greatly improves recall without seriously harming meaning. In other languages, such as Vietnamese, diacritics can be central to lexical identity, and stripping them may cause ambiguity or incorrect matches. For this reason, many systems adopt a layered approach: they store and index the fully accented, normalized text for fidelity, while also maintaining a diacritic-stripped representation for broad matching. Queries are processed through the same pipeline, and search engines may combine accent-sensitive and accent-insensitive scoring to balance precision and recall.\n\nFrom an implementation perspective, diacritic-insensitive search appears in many domains: web search engines, digital libraries, database collation, URL slug generation, and natural language processing pipelines. In web applications, a common pattern is to normalize text to NFD, remove characters in the Unicode Combining Diacritical Marks range, optionally normalize back to NFC, and then apply case folding. In Python, this can be done with the `unicodedata` module and a filter over combining characters; in JavaScript, with `text.normalize('NFD')` followed by a regular expression that strips combining marks. For search indexes, both documents and queries pass through the same transformation so that users can type unaccented text and still find accented content.\n\nConceptually, diacritic-insensitive search is about defining when two different byte sequences should be treated as representing the “same” text for the purposes of retrieval. It is inherently lossy—once diacritics are stripped, they cannot be reconstructed from the folded form—but this loss is acceptable in contexts where the goal is discoverability rather than authoritative textual comparison. Well-designed systems therefore keep the original, fully accented text for display and archival purposes, while using diacritic-insensitive representations as an additional lens for matching. The result is search that feels natural to users across languages and devices, while remaining grounded in rigorous Unicode normalization and character-folding principles.",
+  "primary_sources": [
+    {
+      "title": "Unicode Technical Report #30: Character Foldings",
+      "author": "Asmus Freytag and contributors of the Unicode Consortium",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This technical report defines character folding operations, including mappings that ignore distinctions such as case and diacritics. It explains how foldings can be applied to search so that similar characters are treated as equivalent, providing algorithms and guidelines for implementing accent-insensitive and other forms of loose matching.",
+      "notes": "UTR #30 is an informative specification that describes character foldings as operations mapping similar characters to a common target. Diacritic-insensitive search is a practical application of these foldings, where combining marks or accented variants are folded to their base forms to support fuzzy or loose search. The report also discusses the relationship between folding, normalization, and collation, emphasizing that different contexts may require different folding strategies."
+    },
+    {
+      "title": "Unicode Standard – Normalization Forms (NFC, NFD, NFKC, NFKD)",
+      "author": "Unicode Consortium",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The Unicode Standard defines canonical and compatibility normalization forms that transform text into consistent encodings. NFD and NFKD decompose precomposed characters into base letters plus combining marks, making diacritics explicit and enabling their removal for accent-insensitive search.",
+      "notes": "Normalization is the foundation of diacritic-insensitive search. By decomposing characters like \"é\" into \"e\" plus a combining accent, search pipelines can reliably strip diacritics and compare base letters. The standard clarifies that normalization itself is lossless, while subsequent diacritic removal is a deliberate, context-dependent lossy transformation used for search, slugs, and fuzzy matching."
+    },
+    {
+      "title": "Text Normalization: Unicode Forms, Case Folding & Whitespace Handling for NLP",
+      "author": "Michael Brenndoerfer",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This modern technical guide explains how Unicode normalization, case folding, and diacritic handling interact in real-world text-processing pipelines. It distinguishes between exact, accent-sensitive matching and broader, accent-insensitive search, showing how to build robust normalization pipelines for search and deduplication.",
+      "notes": "The article provides worked examples of characters like \"é\" represented as precomposed and decomposed forms, and shows how normalization plus diacritic removal affects equality and search behavior. It emphasizes that for search engines, \"café\" and \"cafe\" often should match, while for archival or literary databases they may need to remain distinct, highlighting the contextual nature of diacritic-insensitive search."
+    },
+    {
+      "title": "Diacritics and Transliteration: Accents in Search and Slugs",
+      "author": "Jaroslav Havelka (reviewed)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This reference explains how diacritics are stored in Unicode and presents a standard algorithm for stripping them using NFD normalization followed by removal of combining marks. It illustrates how accent-insensitive search allows queries without diacritics to match accented text and how similar techniques are used for generating URL slugs.",
+      "notes": "The guide details the dual representation of diacritics (precomposed vs. combining sequences) and shows language-agnostic code examples in JavaScript and Python for implementing diacritic stripping. It also notes that for some languages, diacritics carry essential meaning, so systems must balance accent-insensitive search with the risk of ambiguity, often by combining multiple matching strategies."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Diacritic-insensitive search is just simple lowercasing of text.",
+      "reality": "Lowercasing alone does not address the multiple Unicode encodings of accented characters or the presence of combining marks. Diacritic-insensitive search requires Unicode-aware normalization (often NFD or NFKD) to decompose characters, followed by explicit removal or folding of diacritical marks and, usually, case folding. Without these steps, visually identical strings like \"é\" and \"e\" plus a combining accent may fail to match."
+    },
+    {
+      "myth": "Removing diacritics is always safe and should be done everywhere.",
+      "reality": "Diacritic removal is a lossy transformation that can blur important distinctions, especially in languages where diacritics are central to meaning. While it improves recall in search and makes URL slugs more typeable, it is not suitable for authoritative equality checks, linguistic analysis, or contexts where precise orthography matters. Well-designed systems keep the original accented text and use diacritic-insensitive forms only in specific, clearly defined parts of the pipeline."
+    },
+    {
+      "myth": "Diacritic-insensitive search automatically works the same way for all languages.",
+      "reality": "Different languages use diacritics in different ways, and the impact of stripping them varies. In some languages, removing accents mainly affects pronunciation or stylistic nuance; in others, it can change word identity or create ambiguity. Effective diacritic-insensitive search must be tuned to language-specific needs, sometimes combining accent-sensitive and accent-insensitive matching or applying special rules for particular scripts and character sets."
+    },
+    {
+      "myth": "Once text is normalized, diacritic-insensitive search no longer needs special handling.",
+      "reality": "Normalization ensures consistent encoding but does not itself remove diacritics. After normalization, combining marks remain present and must be explicitly stripped or folded if accent-insensitive behavior is desired. Normalization is a prerequisite for reliable diacritic handling, not a replacement for it, and search pipelines must still implement character folding or mark removal to achieve accent-insensitive matching."
+    }
+  ]
+}

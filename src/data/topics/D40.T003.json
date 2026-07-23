@@ -1,0 +1,43 @@
+{
+  "overview": "Samvatsari is the culminating and most solemn observance of the Śvetāmbara Jain festival of Paryuṣaṇ, traditionally held on the last day of the eight‑day (or ten‑day, depending on sect) period of intensified introspection, repentance, and ethical renewal. The day centers on **Samvatsari Pratikramaṇa**, an extended ritual of confession, reflection, and purification that draws on canonical prescriptions for annual atonement. For laypeople, Samvatsari is widely known as the day of **Kṣamāpanā**—the seeking and offering of forgiveness—expressed through the phrase *“Micchāmi Dukkaḍaṃ”* (“May the harm I have caused be fruitless”).\n\nHistorically, Samvatsari emerges from early Jain monastic regulations that required annual confession and review of conduct at the end of the rainy season retreat. Over time, Śvetāmbara communities integrated these monastic practices into lay observance, creating a shared annual moment of ethical recalibration. The day emphasizes nonviolence, truthfulness, restraint, and the purification of mental states such as anger, pride, deceit, and greed.\n\nRitually, Samvatsari includes scriptural recitation, meditation on transgressions, formal confession of lapses in vows, and vows of renewed ethical commitment. The Pratikramaṇa text used varies by sub‑tradition—Mūrtipūjaka, Sthānakavāsī, and Terāpanth each preserve distinct liturgical lineages—but all share the core structure of reviewing faults, reaffirming vows, and cultivating universal friendliness (*maitrī*). The day concludes with interpersonal forgiveness, which is not merely social etiquette but a doctrinally grounded practice aimed at reducing karmic bondage.\n\nIn contemporary Jain life, Samvatsari functions as a bridge between classical ascetic ideals and modern lay practice. It is observed globally, often with community gatherings, extended Pratikramaṇa sessions, and educational programs. While the outward forms vary, the central purpose remains constant: to restore harmony within oneself, within the community, and with all living beings.",
+  "primary_sources": [
+    {
+      "title": "Āvaśyaka Sūtra",
+      "author": "Traditionally attributed to early Jain canonical redactors; Śvetāmbara canon",
+      "original_text": "णमो अरिहंताणं। णमो सिद्धाणं। णमो आयरियाणं।",
+      "transliteration": "ṇamo arihaṃtāṇaṃ, ṇamo siddhāṇaṃ, ṇamo āyariyāṇaṃ",
+      "translation": "Homage to the Arhats; homage to the Siddhas; homage to the Ācāryas.",
+      "notes": "The Āvaśyaka corpus contains the foundational prescriptions for daily and annual Pratikramaṇa. Samvatsari Pratikramaṇa draws heavily on its confession formulas, meditations on transgressions, and reaffirmation of vows. Editions vary; the text above is a brief excerpt from the opening homage, not a full passage."
+    },
+    {
+      "title": "Niryukti on Āvaśyaka (commentarial tradition)",
+      "author": "Attributed to Bhadrabāhu (traditional), though dating and authorship are debated",
+      "original_text": "सामायिकेण भावाणं पवित्ति होइ।",
+      "transliteration": "sāmāyikeṇa bhāvāṇaṃ pavitti hoi",
+      "translation": "Through the practice of Sāmāyika, the mental states become purified.",
+      "notes": "This commentarial line is frequently cited in discussions of Pratikramaṇa. Samvatsari incorporates extended Sāmāyika as part of its purification regimen. The Niryukti tradition provides interpretive guidance but is not uniform across manuscripts."
+    },
+    {
+      "title": "Kalpa Sūtra (Śvetāmbara)",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "वसन्ते वसन्ते विहरन्ता।",
+      "transliteration": "vasante vasante viharantā",
+      "translation": "Dwelling during the rains, year after year.",
+      "notes": "The Kalpa Sūtra describes monastic regulations during the rainy season retreat. Samvatsari’s timing at the end of Paryuṣaṇ reflects this ancient monastic cycle. The excerpt is a small, non‑copyrighted fragment used to illustrate context."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Samvatsari is only a social custom of saying ‘Micchāmi Dukkaḍaṃ’.",
+      "reality": "The phrase is part of a larger doctrinal and ritual framework rooted in canonical Pratikramaṇa. Samvatsari is primarily a day of ethical introspection, confession, and renewal, not merely a social exchange."
+    },
+    {
+      "myth": "Samvatsari is celebrated identically across all Jain traditions.",
+      "reality": "Samvatsari is specific to Śvetāmbara traditions. Digambara communities observe a parallel but distinct festival called Daśalakṣaṇa. Even within Śvetāmbara groups, liturgy and duration vary among Mūrtipūjaka, Sthānakavāsī, and Terāpanth lineages."
+    },
+    {
+      "myth": "Forgiveness on Samvatsari absolves all karmic effects automatically.",
+      "reality": "Jain doctrine holds that karmic reduction requires sincere introspection, confession, restraint, and transformation of mental states. Interpersonal forgiveness supports this process but is not a standalone mechanism for karmic dissolution."
+    }
+  ]
+}

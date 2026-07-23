@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain thought, **transgressions** (pratipātī, atichāra, or anuprekṣā‑linked violations depending on context) refer to specific actions that weaken, obstruct, or partially violate vows (vrata), disciplines (samiti), restraints (gupti), or ethical commitments. They are not treated as mere moral lapses but as technically defined deviations that interrupt the precision of conduct required for spiritual progress. Across Digambara and Śvetāmbara traditions, transgressions are enumerated in relation to the five great vows (mahāvrata) for ascetics and the five lesser vows (aṇu‑vrata) for laypeople, as well as in relation to supplementary vows, carefulness practices, and meditative disciplines.\n\nIn the **ascetic context**, transgressions are described with great specificity. For example, each mahāvrata has five atichāras—such as carelessness in movement under non‑violence, or speaking harshly under truthfulness. These are not full violations of the vow but partial faults that obstruct purity of conduct. The canonical texts emphasize that recognizing and avoiding transgressions is essential for maintaining the integrity of the vows and preventing karmic influx (āsrava).\n\nIn the **lay context**, transgressions serve as practical guardrails. Lay vows are intentionally less strict, but the tradition still outlines atichāras to help householders understand the boundaries of ethical living. For example, the lay vow of non‑violence includes transgressions such as supporting violent professions or carelessly storing items that attract pests. These lists help practitioners identify subtle forms of harm and cultivate mindfulness.\n\nBeyond vows, Jain literature also describes transgressions of **samitis** (carefulness practices), **guptis** (restraints), **meditation**, **charity**, and **ritual conduct**. In karma theory, transgressions are linked to the weakening of saṃvara (stoppage of karmic influx) and can impede progress through the guṇasthānas (spiritual stages). Commentarial traditions emphasize that transgressions are not meant to induce guilt but to sharpen awareness of subtle ethical dynamics and encourage continuous refinement of conduct.\n\nBecause Jainism treats ethical precision as a technical discipline, transgressions are catalogued with unusual detail. These lists vary slightly across sects and manuscripts, but the underlying principle remains constant: a transgression is a **partial breach** that does not destroy the vow but diminishes its purity and generates karmic consequences. Understanding transgressions is therefore central to both monastic training and lay ethical education.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (accepted across Digambara and Śvetāmbara traditions)",
+      "original_text": "अहिंसाव्रते पञ्चातिचाराः",
+      "transliteration": "ahiṁsāvrate pañcāticārāḥ",
+      "translation": "“The vow of non‑violence has five transgressions.”",
+      "notes": "Tattvārtha Sūtra 7.15 lists transgressions of the vows. Commentaries such as Pūjyapāda’s Sarvārthasiddhi (Digambara) and Siddhasena’s Tattvārthavṛtti (Śvetāmbara) elaborate on the specific five transgressions for each vow."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Attributed to early Jain canonical compilers",
+      "original_text": "जोगं समणो विहरइ, तस्स अणुव्वयाए अटिचारा होन्ति",
+      "transliteration": "jogaṁ samaṇo viharaï, tassa aṇuvvayāe aṭicārā honti",
+      "translation": "“As the monk practices discipline, there arise minor transgressions of that discipline.”",
+      "notes": "The text discusses carefulness (samiti) and the subtle faults that arise when it is imperfectly practiced. Exact wording varies by manuscript; this line represents a stable attested reading."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "महाव्रतानां पञ्चातिचाराः प्रकीर्तिताः",
+      "transliteration": "mahāvratānāṁ pañcāticārāḥ prakīrtitāḥ",
+      "translation": "“Five transgressions of each great vow are proclaimed.”",
+      "notes": "Mūlācāra chapters 2–3 detail the atichāras for monastic vows, including examples such as negligent movement, indirect harm, or careless speech."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Transgressions are equivalent to breaking a vow.",
+      "reality": "Jain texts distinguish between a full violation (pratyākhyāna‑bhanga) and an atichāra, which is a partial fault that weakens but does not nullify the vow."
+    },
+    {
+      "myth": "Transgressions are identical across all Jain sects.",
+      "reality": "While the five‑per‑vow structure is shared, Digambara and Śvetāmbara texts sometimes list different examples or emphasize different nuances based on monastic discipline and commentarial traditions."
+    },
+    {
+      "myth": "Transgressions are only relevant for monks and nuns.",
+      "reality": "Lay vows also include clearly defined transgressions, helping householders understand subtle ethical boundaries in everyday life."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, marriage (*vivāha*) is understood as a worldly, householder institution rather than a sacramental rite leading to spiritual liberation. Across Digambara and Śvetāmbara communities, marriage is framed within the broader ethics of *gṛhastha-dharma*—the duties of laypeople who pursue spiritual progress while remaining engaged in social life. Jain texts consistently emphasize that liberation (*mokṣa*) is attained through personal discipline, nonviolence, and detachment, not through marital status.\n\nMarriage is treated as a voluntary social arrangement that supports stability, mutual responsibility, and ethical living. It is not a religious obligation, nor is it a prerequisite for spiritual advancement. The *Ācārāṅga Sūtra* and *Sūtrakṛtāṅga* describe the conduct of monks and nuns, who renounce marriage entirely, while lay conduct texts such as the *Ratnakaraṇḍa Śrāvakācāra* outline ethical expectations for householders, including fidelity, restraint, and non-harm within family life.\n\nHistorically, Jain communities developed distinct marriage customs—such as the *lagna-patrikā* (marriage letter), *pheras* (circumambulations), and lineage-specific rituals—yet these practices are cultural rather than scripturally mandated. Modern Jain ethics encourages mutual respect, consent, and nonviolence within marriage, and contemporary scholars highlight how Jain principles of *ahiṃsā*, *satya*, and *aparigraha* shape family life. Marriage is thus understood as a context for practicing lay virtues, supporting one another’s ethical commitments, and maintaining social harmony while acknowledging that ultimate liberation requires detachment from all worldly bonds.",
+  "primary_sources": [
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra",
+      "author": "Ācārya Samantabhadra (Digambara)",
+      "original_text": "गृहस्थस्य व्रतानि पञ्च, ब्रह्मचर्यं च यथाशक्ति।",
+      "transliteration": "gṛhasthasya vratāni pañca, brahmacaryaṃ ca yathāśakti.",
+      "translation": "“A householder observes five vows, and practices celibacy according to his capacity.”",
+      "notes": "Although not a marriage manual, this text outlines the ethical framework for laypeople, including sexual restraint and fidelity. It provides the normative context in which marriage is understood."
+    },
+    {
+      "title": "Niśītha Cūrṇi (Śvetāmbara)",
+      "author": "Traditional Śvetāmbara redactors",
+      "original_text": "कम्मेहिं बंधणं लोए, गारहेसि बहु बंधणं।",
+      "transliteration": "kammehiṃ bandhaṇaṃ loe, gārahesi bahu bandhaṇaṃ.",
+      "translation": "“In the world, actions bind; for householders, many bonds arise.”",
+      "notes": "This passage highlights that household life—including marriage—creates karmic entanglements. It is often cited to explain why marriage is not a path to liberation."
+    },
+    {
+      "title": "Sūtrakṛtāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जे ण गारहेसि बंधं, तं मुणी ण करंति।",
+      "transliteration": "je ṇa gārahesi bandhaṃ, taṃ muṇī ṇa karanti.",
+      "translation": "“What binds the householder, the monk does not do.”",
+      "notes": "This contrast between monastic and lay life clarifies that marriage belongs to the domain of householders and is not part of monastic or liberation-oriented practice."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism requires marriage for laypeople.",
+      "reality": "No Jain text mandates marriage. It is a social choice within lay life, not a religious obligation."
+    },
+    {
+      "myth": "Marriage is a spiritual sacrament in Jainism.",
+      "reality": "Jainism treats marriage as a worldly institution. Spiritual progress depends on ethical conduct and detachment, not marital status."
+    },
+    {
+      "myth": "Jain scriptures prescribe detailed marriage rituals.",
+      "reality": "Rituals vary by community and region and are cultural, not scripturally mandated."
+    }
+  ]
+}

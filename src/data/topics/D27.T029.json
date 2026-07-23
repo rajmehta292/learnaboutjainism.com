@@ -1,0 +1,63 @@
+{
+  "overview": "In Jain studies, \"comparative cautions\" refers to a cluster of methodological and ethical warnings that arise whenever Jain doctrine, practice, or history is compared with other religious or philosophical traditions. These cautions are not meant to discourage comparison itself—Jain thinkers have long engaged with Buddhists, Brahmanical schools, materialists, and modern scholars—but to ensure that comparison does not distort core Jain concepts such as ahiṃsā, anekāntavāda, syādvāda, karma, and the path of liberation. Comparative work can illuminate Jainism’s distinctive contributions, yet it can also flatten differences, project foreign categories onto Jain sources, or treat living traditions as static museum objects.\n\nA first major caution concerns the use of external categories. When Jain doctrines are explained primarily through lenses borrowed from other systems—such as \"Jainism as Indian utilitarianism\" or \"Jainism as a variant of Buddhism\"—key elements of Jain ontology and soteriology are easily lost. For example, equating Jain ahiṃsā with modern pacifism or general kindness ignores its precise karmic logic, its graded application to different life-forms, and its role in vows (vrata) and stages of spiritual development (guṇasthāna). Similarly, reading anekāntavāda only as \"tolerance\" or \"pluralism\" overlooks its technical function as a doctrine of non-one-sidedness grounded in the multiplicity of substances, modes, and standpoints (naya). Comparative cautions therefore insist that Jain categories be understood first in their own textual and ritual context before analogies are drawn.\n\nA second caution addresses historical and sectarian diversity. Jain traditions—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, Terāpanth, and others—share core commitments but differ in canonical collections, ritual forms, and interpretive emphases. Comparative studies that treat \"Jainism\" as a single, uniform entity risk erasing these internal differences, especially in matters such as image worship, monastic discipline, scriptural authority, and lay ethics. Responsible comparison must therefore specify which lineage, region, and period are under discussion, and must acknowledge that a claim valid for one sub-tradition may not hold for another. Comparative cautions also highlight the need to distinguish between early canonical materials, later commentaries, and modern reform movements when drawing parallels with other religions.\n\nA third caution concerns the translation and interpretation of technical terms. Many key Jain concepts—such as jīva, ajīva, lesyā, bandha, saṃvara, nirjarā, kevalajñāna, and sallekhanā—have no exact equivalents in other traditions or modern languages. Rendering them into English or another language using familiar but imprecise terms (for example, \"soul\" for jīva or \"suicide\" for sallekhanā) can mislead readers and skew comparative conclusions. Comparative cautions therefore call for transparent translation practices: clearly marking where a term is being approximated, where multiple meanings are possible, and where scholarly or sectarian disagreements exist. They also encourage separating direct quotation from interpretive paraphrase and modern application, so that readers can see which claims come from primary texts and which arise from later reflection.\n\nA fourth caution relates to ethical and practical implications. Comparative work often moves quickly from doctrinal description to contemporary issues—environmental ethics, animal rights, nonviolence movements, or interfaith dialogue. While such applications can be fruitful, they must not override the internal discipline of Jain vows, the authority of living lineages, or the health and safety of practitioners. For instance, discussions of fasting, austerity, or sallekhanā must be handled with particular care, especially when readers may be ill, pregnant, very young, or otherwise vulnerable. Comparative cautions insist that any practical guidance derived from Jain sources be checked against qualified human authorities and modern medical, legal, and mental-health standards.\n\nFinally, comparative cautions emphasize intellectual humility. Anekāntavāda itself warns against one-sidedness, but this does not mean that all views are equally valid or that doctrinal boundaries disappear. Instead, it invites careful attention to multiple standpoints while preserving the distinctive structure of the Jain path to liberation. Comparative studies that respect this balance can show how Jainism both converges with and diverges from other traditions, without collapsing its unique voice. In this sense, \"comparative cautions\" are not obstacles to dialogue but safeguards that help ensure that Jainism is studied, taught, and practiced in ways that are faithful to its sources and responsible toward contemporary readers and communities.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः ।",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ.",
+      "translation": "Right faith, right knowledge, and right conduct are the path to liberation.",
+      "notes": "This foundational Sanskrit text, accepted by both Digambara and Śvetāmbara traditions, defines the path to liberation in terms that are often compared with other Indian soteriologies. Comparative cautions remind us that these three jewels must be understood within Jain ontology and karma theory, rather than being equated too quickly with faith, knowledge, and ethics in other systems."
+    },
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "अनेकान्तान्यथाख्यातिवादः ।",
+      "transliteration": "anekānta-anyathākhyāti-vādaḥ.",
+      "translation": "There is the doctrine of non-one-sidedness and of misrepresentation of reality.",
+      "notes": "This brief sūtra is linked in later commentarial traditions to anekāntavāda and the analysis of partial viewpoints. Comparative discussions often treat anekāntavāda as \"pluralism\" or \"tolerance\"; comparative cautions stress that it is a technical doctrine about the complexity of substances and modes, not a simple endorsement of all opinions."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "जोगसमयसारो णिच्चं, णाणं चेरं च चरित्तं च ।",
+      "transliteration": "joga-samayasāro niccaṃ, ñāṇaṃ ceraṃ ca carittaṃ ca.",
+      "translation": "The essence of the self is truly union with right knowledge, right faith, and right conduct.",
+      "notes": "A key Digambara Prakrit text, Samayasāra explores the nature of the self and its relation to knowledge and conduct. Comparative cautions highlight that Kundakunda’s distinction between the pure self and empirical states should not be casually equated with similar-sounding doctrines in other Indian or Western philosophies without careful textual analysis."
+    },
+    {
+      "title": "Uttarādhyayanasūtra",
+      "author": "Traditionally attributed to Lord Mahāvīra’s teaching, preserved in Śvetāmbara canon",
+      "original_text": "णाणं चरित्तं सम्यग्दंसणं च, एतत्त्रयं मोक्षमार्गो उवओ ।",
+      "transliteration": "ñāṇaṃ carittaṃ samyag-daṃsaṇaṃ ca, etat-trayaṃ mokṣamārgo uvao.",
+      "translation": "Knowledge, conduct, and right faith—this triad is declared to be the path to liberation.",
+      "notes": "This canonical Prakrit text reiterates the three jewels in a form often cited in introductory Jain teachings. Comparative cautions note that while similar triads appear in other traditions, the Jain configuration is embedded in a specific cosmology, karma theory, and monastic-lay framework that must be preserved in comparative work."
+    },
+    {
+      "title": "Ācārāṅgasūtra",
+      "author": "Traditionally attributed to early Jain canonical compilers (Śvetāmbara)",
+      "original_text": "सव्वे पाणाः दुखभायरा, न हन्तव्वा न घातव्वा ।",
+      "transliteration": "savve pāṇā dukkhabhāyarā, na hantavvā na ghātavvā.",
+      "translation": "All living beings fear suffering; they should not be struck nor killed.",
+      "notes": "An early canonical articulation of ahiṃsā, this passage is frequently compared with nonviolence teachings in other religions. Comparative cautions emphasize that Jain ahiṃsā is not only an ethical sentiment but a detailed discipline tied to vows, gradations of harm, and karmic consequences."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain anekāntavāda means that all viewpoints are equally true and there are no firm doctrinal boundaries.",
+      "reality": "Anekāntavāda teaches that reality has many aspects and that any single standpoint is partial, but it does not erase the distinction between right and wrong views or dissolve the structured path to liberation. It is a disciplined method of analysis, not a blanket endorsement of all opinions."
+    },
+    {
+      "myth": "Jainism can be fully understood by treating it as a variant of Buddhism or as a general philosophy of nonviolence.",
+      "reality": "While Jainism shares certain historical and ethical concerns with Buddhism and other Indian traditions, it has a distinct ontology, karma theory, and scriptural heritage. Comparative cautions insist that Jain doctrines be studied first in their own textual and ritual context before drawing parallels, to avoid reducing Jainism to another tradition’s categories."
+    },
+    {
+      "myth": "Technical Jain terms like jīva, ajīva, lesyā, and sallekhanā can be safely translated using familiar modern words such as \"soul,\" \"matter,\" \"mood,\" or \"suicide.\"",
+      "reality": "These terms carry specific meanings within Jain metaphysics and ethics that do not map neatly onto modern or cross-religious vocabulary. Comparative cautions call for careful, transparent translation and for clear separation between literal textual meaning, scholarly interpretation, and modern application—especially in sensitive areas like austerity and end-of-life practices."
+    },
+    {
+      "myth": "Because Jainism values nonviolence and many-sidedness, any comparative ethical or political application that invokes these ideas automatically reflects authentic Jain teaching.",
+      "reality": "Authentic application of Jain principles requires attention to canonical sources, traditional commentaries, and guidance from qualified living lineages, along with modern medical, legal, and mental-health considerations. Comparative cautions warn against using Jain concepts as rhetorical labels for contemporary agendas without grounding them in responsible study and practice."
+    }
+  ]
+}

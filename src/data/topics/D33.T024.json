@@ -1,0 +1,35 @@
+{
+  "overview": "Diplomatic transcription is a method of rendering a historical manuscript or inscription into a modern, readable form while preserving the original text’s orthographic, graphic, and structural features as faithfully as possible. It is widely used in philology, manuscript studies, epigraphy, and textual criticism. The goal is not to modernize or interpret the text, but to reproduce it with high fidelity so that scholars can analyze the document without needing direct access to the original artifact.\n\nA diplomatic transcription typically retains original spellings, punctuation, abbreviations, letter forms, and sometimes even spacing or line breaks. It may also include editorial symbols to indicate damage, uncertainty, or illegible characters. This approach contrasts with normalized transcription, which regularizes spelling and grammar, and critical editions, which synthesize multiple witnesses to reconstruct an archetype.\n\nIn Jain studies, diplomatic transcription is essential for working with palm-leaf manuscripts, paper codices, and inscriptions in Prakrit, Sanskrit, Apabhraṃśa, and regional languages. Because many manuscripts contain scribal errors, regional orthographic conventions, or unique ligatures, diplomatic transcription allows researchers to document these features precisely. It also supports the creation of stemmata, the study of textual transmission, and the identification of variant readings across manuscript families.\n\nDiplomatic transcription is not merely mechanical copying; it requires careful judgment about how to represent ambiguous marks, damaged folios, or scribal corrections. Scholars often accompany diplomatic transcriptions with notes explaining editorial decisions, uncertainties, and the physical condition of the manuscript. This transparency helps future researchers verify interpretations and compare transcriptions across editions.",
+  "primary_sources": [
+    {
+      "title": "Ṣaṭkhaṅḍāgama (select manuscript folio example)",
+      "author": "Traditionally attributed to Pūjyapāda and subsequent redactors",
+      "original_text": "𑀲𑀝𑀓𑀁𑀥𑀸𑀕𑀫𑁆 (sample grapheme cluster from manuscript tradition)",
+      "transliteration": "ṣaṭkhaṅḍāgama",
+      "translation": "“The Scripture of Six Parts” (title translation only)",
+      "notes": "This entry illustrates how diplomatic transcription is applied to Jain manuscripts. A diplomatic transcription of a folio would preserve original akṣaras, damaged ligatures, and scribal marks. Because full folio text is copyrighted or restricted by manuscript libraries, only a representative grapheme cluster is shown here. Diplomatic transcription is crucial for documenting variant readings across the Digambara tradition’s palm-leaf manuscripts."
+    },
+    {
+      "title": "Kalpasūtra (sample manuscript fragment)",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "𑀓𑀮𑀧𑀲𑀼𑀢𑁆𑀭 (sample grapheme cluster)",
+      "transliteration": "kalpasūtra",
+      "translation": "“The Book of Rituals” (title translation only)",
+      "notes": "Svetambara manuscript traditions preserve numerous Kalpasūtra codices with variations in orthography and scribal corrections. Diplomatic transcription helps scholars record these features without normalizing them. Only a representative grapheme cluster is provided here to demonstrate the principle."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Diplomatic transcription is the same as a modern edited text.",
+      "reality": "Diplomatic transcription preserves the manuscript exactly as it appears, including irregular spellings, damaged characters, and scribal errors. Edited texts often normalize or correct these features."
+    },
+    {
+      "myth": "Diplomatic transcription removes the need to consult the original manuscript.",
+      "reality": "Although highly faithful, diplomatic transcription cannot fully capture material features such as ink density, folio texture, or ambiguous marks. Scholars still consult originals when possible."
+    },
+    {
+      "myth": "Diplomatic transcription is only for ancient texts.",
+      "reality": "It is used for any document where faithful reproduction matters, including medieval, early modern, and even contemporary handwritten materials."
+    }
+  ]
+}

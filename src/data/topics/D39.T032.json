@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain thought, pollution (often discussed under terms such as *ashuddhi*, *parisaha*, or forms of *himsa* toward the environment) refers not only to the physical contamination of air, water, and soil but also to the ethical and karmic disturbances caused by actions that harm living beings. Jainism’s foundational commitment to *ahimsa* (non‑violence) and *aparigraha* (non‑possessiveness) frames pollution as both a material and moral problem. Physical pollution disrupts ecosystems filled with innumerable *jivas* (living beings), including subtle life forms recognized in Jain ontology, such as air-bodied (*vayukaya*) and water-bodied (*apkaya*) beings.\n\nFrom an ecological perspective, pollution includes the introduction of harmful substances—industrial waste, chemicals, plastics, smoke, and noise—into natural systems. Jain texts do not use modern scientific terminology, but they repeatedly emphasize the moral gravity of harming even the smallest life forms. This creates a conceptual bridge between ancient teachings and contemporary environmental ethics. Modern Jain communities often interpret pollution as a form of collective violence, urging sustainable living, vegetarianism, reduced consumption, and careful use of natural resources.\n\nPhilosophically, pollution is also linked to karmic influx (*asrava*). Actions rooted in negligence, greed, or exploitation of nature generate karmic impurities that cloud the soul. Thus, environmental degradation is not only a worldly crisis but also a spiritual obstacle. Jain thinkers across traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—have engaged with pollution as a modern challenge requiring ethical restraint, compassion for all life, and mindful stewardship.\n\nHistorically, Jain monastic codes include strict rules to avoid harming micro‑organisms in water, soil, and air. These rules reflect an early awareness of environmental sensitivity. In contemporary scholarship, pollution is studied as part of Jain environmental ethics, highlighting how ancient principles can inform responses to climate change, biodiversity loss, and industrial contamination.\n\nOverall, pollution in a Jain framework is a multidimensional concept: a physical threat to ecosystems, a moral violation of *ahimsa*, and a spiritual impediment to liberation. The Jain approach encourages both practical environmental responsibility and inner purification through disciplined conduct.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "जीवास्तिकायाः",
+      "transliteration": "jīvāstikāyāḥ",
+      "translation": "Living beings constitute an extended category.",
+      "notes": "TS 5.1 introduces the five categories of living beings, including air-bodied and water-bodied beings. While not explicitly about pollution, this ontology underlies Jain environmental ethics: harming air or water through pollution harms the beings residing within them."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to early Jain canonical compilers",
+      "original_text": "एगं अप्पगहं निहिंसइ",
+      "transliteration": "egaṃ appagahaṃ nihinsai",
+      "translation": "One should not harm even the smallest creature.",
+      "notes": "This passage (Ācārāṅga Sūtra I.4) emphasizes non‑violence toward all life forms. Modern interpreters use it to argue that pollution, which kills or injures micro‑organisms, violates foundational Jain ethics."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Canonical Śvetāmbara text",
+      "original_text": "पाणगहणं दुहं",
+      "transliteration": "pāṇagahaṇaṃ duhaṃ",
+      "translation": "Taking life is suffering.",
+      "notes": "Sūtrakṛtāṅga I.11 discusses the consequences of harming living beings. Pollution is interpreted as an indirect form of life‑taking, causing suffering to countless subtle organisms."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain texts directly discuss modern pollution such as plastics, industrial waste, or carbon emissions.",
+      "reality": "Classical Jain scriptures do not mention modern pollutants. They provide ethical principles—especially *ahimsa* and care for subtle life forms—that contemporary scholars and communities apply to modern environmental issues."
+    },
+    {
+      "myth": "Pollution only concerns physical harm and has no spiritual significance in Jainism.",
+      "reality": "In Jain philosophy, harmful actions that damage ecosystems also generate karmic influx (*asrava*), making pollution both a material and spiritual problem."
+    },
+    {
+      "myth": "Jain environmental rules were created only for monastics and have no relevance for laypeople today.",
+      "reality": "While monastic codes are stricter, Jain lay ethics also emphasize non‑violence, restraint, and responsible consumption. These principles are widely applied to modern environmental stewardship."
+    }
+  ]
+}

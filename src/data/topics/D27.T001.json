@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain cosmology, **Devas** (divine beings) are sentient, embodied souls residing in heavenly realms. They are not creators, saviors, or objects of ultimate refuge; rather, they are **saṃsārin jīvas**—souls still bound by karma, experiencing pleasure, longevity, and power due to auspicious karmic fruition. Jain texts classify Devas within a vast cosmological hierarchy, emphasizing that their existence is temporary and conditioned. They inhabit the upper regions of the universe (Urdhva Loka), above the human and animal realms, but below the liberated Siddhas.\n\nJainism divides Devas into four broad categories: **Bhavanavāsī**, **Vyantaras**, **Jyotiṣkas**, and **Vaimānikas**. Each category contains numerous subtypes, clans, and hierarchical levels. Their lifespans range from thousands to innumerable years, depending on the realm. Despite their grandeur, Devas remain subject to passions (kaṣāyas), karmic bondage, and eventual rebirth. Jain doctrine stresses that devotion to Devas is permissible only as **respect for spiritually advanced beings**, not as worship of omnipotent gods.\n\nAcross Digambara and Śvetāmbara traditions, descriptions of Devas are largely consistent, though ritual contexts differ. Śvetāmbara Mūrti-pūjaka communities incorporate Deva imagery in temple iconography, while Sthānakavāsī and Terāpanth traditions avoid such imagery but still acknowledge Devas within cosmology. Jain philosophers consistently emphasize that liberation arises solely from self-effort, ethical conduct, and right knowledge—not from divine intervention.\n\nThus, Devas occupy an important but non-soteriological role in Jain thought: they illustrate the vastness of saṃsāra, the workings of karma, and the diversity of embodied existence, while reinforcing the central Jain principle that **even the highest heavenly pleasures are impermanent**.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "देवास्तु भवनवास्यन्तरज्योतिषवैमानिकाः",
+      "transliteration": "devāstu bhavanavāsyantara-jyotiṣa-vaimānikāḥ",
+      "translation": "The gods (devas) are of four kinds: Bhavanavāsī, Vyantara, Jyotiṣka, and Vaimānika.",
+      "notes": "Tattvārtha Sūtra 4.10 provides the canonical fourfold classification of Devas accepted across Jain traditions. Commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi) elaborate on their realms, lifespans, and karmic conditions."
+    },
+    {
+      "title": "Śvetāmbara Āgamas – Sūtrakṛtāṅga",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "देवा अपि कामरागादिभिः संसक्ताः",
+      "transliteration": "devā api kāma-rāgādibhiḥ saṃsaktāḥ",
+      "translation": "Even the gods are bound by passions such as desire and attachment.",
+      "notes": "This passage (contextual paraphrase from thematic sections) emphasizes that Devas, despite their splendor, remain within saṃsāra due to karmic bondage."
+    },
+    {
+      "title": "Digambara Text – Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha",
+      "original_text": "उव्वालोए देवा बहुविहा णिव्वाणस्स ण होन्ति कारणं",
+      "transliteration": "uvvāloe devā bahu-vihaā nivvāṇassa ṇa honti kāraṇaṃ",
+      "translation": "The heavenly gods, though manifold, are not causes of liberation.",
+      "notes": "Tiloyapaṇṇatti provides detailed cosmological mapping of heavenly realms, reinforcing that Devas cannot grant mokṣa."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Devas in Jainism are creators or controllers of the universe.",
+      "reality": "Jain cosmology is non-theistic; Devas are embodied souls enjoying karmic fruits. They do not create, sustain, or destroy the universe."
+    },
+    {
+      "myth": "Worshiping Devas can grant liberation.",
+      "reality": "Texts consistently state that Devas cannot remove karma or bestow mokṣa. Liberation arises only from personal effort through right faith, knowledge, and conduct."
+    },
+    {
+      "myth": "All Devas are morally perfect beings.",
+      "reality": "Many Devas still possess passions and limitations. Only Siddhas are completely free from karma and passions."
+    }
+  ]
+}

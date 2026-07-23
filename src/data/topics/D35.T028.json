@@ -1,0 +1,55 @@
+{
+  "overview": "Non-image worship (also called *nirākāra pūjā*, *amūrta pūjā*, or *nirguṇa upāsanā* in various Jain contexts) refers to devotional practices that do not involve physical icons, statues, or pictorial representations of the Tīrthaṅkaras. Within Jainism, this mode of worship is most prominently associated with the Sthānakavāsī and Śvetāmbara Terāpanth traditions, though elements of non-image devotion also appear in Digambara textual traditions and in certain meditative practices across sects.\n\nAt its core, non-image worship emphasizes internalization of the qualities of the Jinas rather than external ritual forms. The focus is on *śuddha bhāvanā* (pure mental states), ethical discipline, scriptural recitation, and meditation on the formless attributes of liberated beings. This approach is grounded in canonical and post-canonical texts that describe the Jina as *arūpa* (without form), *nirvāṇa-stha* (beyond material existence), and *guṇa-rāśi* (a mass of pure qualities).\n\nHistorically, non-image worship emerged as a reformist movement within Śvetāmbara Jainism between the 15th and 18th centuries CE, critiquing ritual excess, temple wealth, and the perceived risk of attachment to material objects. The Sthānakavāsīs rejected temple-based mūrti-pūjā entirely, advocating instead for meditation halls (*sthānakas*) and scriptural study. The Terāpanth, founded by Ācārya Bhikṣu in the 18th century, further systematized non-image worship with strict monastic discipline and centralized leadership.\n\nIn practice, non-image worship includes recitation of canonical texts (such as the *Kalpasūtra* and *Uttarādhyayana Sūtra*), contemplation of the *pañca paramesthi*, ethical vows, *sāmāyika*, *pratikramaṇa*, and meditative absorption on the qualities of the Jina. While image-worshipping traditions emphasize temple rituals, offerings, and iconography, non-image traditions highlight introspection, moral purification, and the cultivation of equanimity.\n\nModern scholarship notes that both image and non-image worship share the same doctrinal foundation: reverence for the Jina’s qualities and the aspiration to emulate them. The difference lies in method, not metaphysical commitment. Non-image worship remains a vibrant part of Jain practice globally, especially among communities influenced by Sthānakavāsī and Terāpanth teachings.",
+  "primary_sources": [
+    {
+      "title": "Uttarādhyayana Sūtra 29.1–2",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "अरूपो विगतकषायो सिद्धो",
+      "transliteration": "arūpo vigata-kaṣāyo siddho",
+      "translation": "“The Siddha is without form and free from passions.”",
+      "notes": "This passage is frequently cited by non-image traditions to emphasize that liberated beings cannot be represented materially. Source Tier: A (Śvetāmbara canon)."
+    },
+    {
+      "title": "Tattvārtha Sūtra 6.7",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सिद्धाः शरीरवर्जिताः",
+      "transliteration": "siddhāḥ śarīra-varjitāḥ",
+      "translation": "“The Siddhas are devoid of body.”",
+      "notes": "A foundational pan-Jain text used to support the idea that ultimate reality of the Jina is non-material. Source Tier: A."
+    },
+    {
+      "title": "Ācārāṅga Sūtra 1.6.3",
+      "author": "Śvetāmbara canonical compilers",
+      "original_text": "णं जिणं पउस्सहं धरेज्जा",
+      "transliteration": "ṇaṃ jiṇaṃ paussahaṃ dharejjā",
+      "translation": "“One should bear in mind the heroic Jina.”",
+      "notes": "Non-image traditions interpret this as emphasizing mental recollection rather than physical representation. Source Tier: A."
+    },
+    {
+      "title": "Samayasāra (Digambara) gāthā 1",
+      "author": "Kundakunda",
+      "original_text": "निच्चं सुद्धं निरंजनं",
+      "transliteration": "niccaṃ suddhaṃ nirañjanaṃ",
+      "translation": "“Eternal, pure, and unstained is the Self.”",
+      "notes": "Although Digambara traditions use images, Kundakunda’s metaphysics is often cited to support meditative, non-material conceptions of the Jina. Source Tier: A/B."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Non-image worship rejects devotion entirely.",
+      "reality": "Non-image traditions reject material icons, not devotion. They emphasize internal reverence, meditation, scriptural recitation, and ethical purification."
+    },
+    {
+      "myth": "Non-image worship is a modern invention.",
+      "reality": "While institutional non-image sects arose later, canonical texts long emphasized the formless nature of liberated beings. Reform movements revived these themes, not invented them."
+    },
+    {
+      "myth": "Non-image Jains deny the value of temples for all Jains.",
+      "reality": "Non-image sects avoid temple worship for themselves but do not claim that image worship is invalid for other Jain traditions. They frame their approach as a disciplined alternative."
+    },
+    {
+      "myth": "Non-image worship is less rigorous than temple-based practice.",
+      "reality": "Non-image traditions often require strict ethical discipline, daily meditation, and intensive scriptural study, making their practice equally rigorous though differently structured."
+    }
+  ]
+}

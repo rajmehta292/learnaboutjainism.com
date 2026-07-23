@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, the term “modern orders” refers to the organizational forms, reform movements, and lineage-based structures that emerged from the late 18th century onward within the Digambara and Śvetāmbara traditions. These orders are not new religions but contemporary expressions of older monastic and lay lineages adapting to colonial modernity, print culture, urbanization, and global diaspora. Modern orders maintain continuity with classical Jain ideals—ahiṃsā, aparigraha, anekāntavāda—while developing new administrative frameworks, educational institutions, and outreach methods.\n\nWithin the Śvetāmbara tradition, three major modern orders are typically discussed: Mūrtipūjaka, Sthānakavāsī, and Terāpanth. Although their roots predate the modern period, their present-day organizational structures, leadership models, and pedagogical systems took shape in the 19th–20th centuries. The Mūrtipūjaka orders formalized temple management committees and standardized ritual calendars. Sthānakavāsī groups emphasized non-idolatrous practice, itinerant teaching, and scriptural study. The Terāpanth order, founded by Ācārya Bhikṣu in the 18th century, developed a highly centralized leadership model under a single Ācārya, later expanding into global educational and meditation institutions such as Prekṣā Dhyāna centers.\n\nAmong Digambaras, modern orders include the bhaṭṭāraka seats that survived into the 20th century, the rise of new muni lineages, and lay-led reform movements emphasizing scriptural literacy and ethical discipline. Digambara modernity also includes the emergence of large lay organizations, publication societies, and global diaspora communities that support monastic travel, text preservation, and temple construction.\n\nAcross traditions, modern orders share several features: structured leadership, standardized curricula for lay education, engagement with print and digital media, and participation in interfaith and academic forums. They also navigate contemporary ethical issues—environmentalism, animal welfare, biomedical dilemmas—while maintaining fidelity to classical Jain principles. Modern orders thus represent the living, evolving institutions through which Jain communities practice, teach, and transmit their heritage in the 21st century.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं च वि णं च वि, णं च वि णं च वि",
+      "transliteration": "ṇaṃ ca vi ṇaṃ ca vi, ṇaṃ ca vi ṇaṃ ca vi",
+      "translation": "“He should not harm, nor cause harm, nor consent to harm.”",
+      "notes": "This foundational Śvetāmbara text (Corpus Tier A) is frequently cited by modern orders to ground contemporary ethical initiatives in classical ahiṃsā."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "A pan-Jain text (Corpus Tier A) used by both Digambara and Śvetāmbara modern orders to articulate doctrinal unity across diverse organizational forms."
+    },
+    {
+      "title": "Bhikṣu Navāvatāra (Terāpanth tradition)",
+      "author": "Ācārya Bhikṣu",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "“Nonviolence is the supreme dharma.”",
+      "notes": "Although the phrase appears widely in Jain literature, Terāpanth commentaries (Corpus Tier B) emphasize its role in the order’s reformist ethos and centralized discipline."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Modern Jain orders are entirely new creations disconnected from classical Jainism.",
+      "reality": "Modern orders are contemporary organizational expressions of older monastic and lay lineages. Their teachings remain grounded in canonical texts such as the Ācārāṅga Sūtra and Tattvārtha Sūtra."
+    },
+    {
+      "myth": "All modern orders share identical practices and leadership structures.",
+      "reality": "Modern orders differ significantly: Terāpanth has a single Ācārya; Sthānakavāsī groups emphasize non-idolatry; Mūrtipūjaka communities maintain temple-centered ritual life; Digambara orders vary between muni lineages and surviving bhaṭṭāraka seats."
+    },
+    {
+      "myth": "Modern orders represent a break from traditional ascetic ideals.",
+      "reality": "While adapting to contemporary contexts, modern orders consistently cite primary texts and classical commentaries to justify reforms and maintain continuity with ancient Jain ethical and spiritual frameworks."
+    }
+  ]
+}

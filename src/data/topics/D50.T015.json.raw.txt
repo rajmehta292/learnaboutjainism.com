@@ -1,0 +1,63 @@
+{
+  "overview": "In Jain studies, the phrase \"sectarian sources\" refers to the bodies of scripture, scholastic works, and ritual texts that are recognized as authoritative within particular Jain sects—most prominently the Digambara and Śvetāmbara traditions, and within Śvetāmbara, sub‑traditions such as Mūrtipūjaka, Sthānakavāsī, and Terāpanth. Rather than a single universally accepted canon, Jainism presents a plural landscape of textual authority in which different communities trace their lineages of teaching (āgama, siddhānta) through distinct corpora, transmission histories, and interpretive frameworks.\n\nFrom a historical perspective, sectarian sources emerge out of the shared early oral tradition (śrutajñāna) and the gradual loss, redaction, and re‑organization of teachings after Mahāvīra’s nirvāṇa. Śvetāmbara communities preserve a Prakrit canon known as the Āgamas, structured into Aṅgas, Upāṅgas, Cheda‑sūtras, Mūla‑sūtras, Prakīrṇakas, and Cūlikā‑sūtras, and transmitted through monastic recitation and scholastic cataloguing. Digambara communities, by contrast, deny the full authenticity of the Śvetāmbara Āgamas and locate scriptural authority in other early works such as the Ṣaṭkhaṇḍāgama and Kaṣāya‑pāhuḍa, as well as in systematic treatises (śāstras) and later commentarial traditions. Both sides remember a lost twelfth Aṅga, the Dṛṣṭivāda, as a symbol of the fragmentary nature of preserved scripture.\n\nSectarian sources are not limited to canonical lists. They include commentaries (bhāṣya, ṭīkā, vṛtti), doctrinal compendia, narrative literature, ritual manuals, and philosophical treatises that interpret and extend earlier teachings. Śvetāmbara authors such as Haribhadra Sūri, Abhayadeva Sūri, and Śīlāṅka Sūri produced extensive commentaries on the Āgamas, often using Prakrit and Sanskrit to negotiate doctrinal differences and to articulate reconciliation strategies between sectarian positions. Digambara ācāryas such as Kundakunda and Samantabhadra, and later scholastics, systematized doctrine in works like the Samayasāra and Svayambhū‑stotra, grounding their authority in a different remembered scriptural stream. Modern scholarship emphasizes that these corpora are best understood as overlapping symbolic technologies of memory, discipline, and liberation rather than as mutually exclusive “Bibles.”\n\nThe study of sectarian sources therefore requires careful attention to provenance (which community preserves and uses a text), language (Ardhamāgadhī, other Prakrits, Sanskrit, and vernaculars), and genre (canonical sūtra, commentary, philosophical treatise, ritual manual, narrative). It also demands awareness of disagreement: Digambaras and Śvetāmbaras differ over the status of the Āgamas, the completeness of transmission, and the interpretation of monastic rules, while sharing core soteriological structures such as the three jewels (right faith, right knowledge, right conduct), karma theory, and the path through the guṇasthānas. Contemporary Jain communities and scholars increasingly highlight reconciliation discourses within the tradition, showing how sectarian sources themselves sometimes articulate multi‑perspectival (anekāntavāda) approaches that acknowledge diversity of textual authority while affirming a common goal of liberation.\n\nIn academic and community study, it is crucial to distinguish between primary sectarian sources (canonical texts and early commentaries), later doctrinal and ritual elaborations, and modern educational materials. Primary texts and reviewed commentaries (corpus tiers A and B) provide the most reliable basis for understanding how each sect defines scripture and authority. Peer‑reviewed scholarship (tier C) helps map disagreements, transmission histories, and linguistic features, while community education (tier D) often simplifies or harmonizes complex sectarian debates. A responsible guide to Jain sectarian sources will therefore present multiple viewpoints, indicate where evidence is missing or contested, and encourage consultation with qualified teachers within living lineages for questions of practice and discipline.",
+  "primary_sources": [
+    {
+      "title": "Śvetāmbara Jain Āgamas (Aṅgas and associated canonical texts)",
+      "author": "Collective monastic transmission; later redactors and commentators",
+      "original_text": "अहं सुणामि भगवतो वचनं। सव्वे जीवा पियायरा।",
+      "transliteration": "ahaṃ suṇāmi bhagavato vacanaṃ. savve jīvā piyāyarā.",
+      "translation": "I hear the word of the Blessed One: all living beings are dear (beloved).",
+      "notes": "The Śvetāmbara Āgamas constitute the principal sectarian canon for Śvetāmbara communities, preserved in Ardhamāgadhī and other Prakrits. They are commonly described as comprising 11 Aṅgas, 12 Upāṅgas, 10 Prakīrṇakas, 6 Cheda‑sūtras, 2 Cūlikā‑sūtras, and 4 Mūla‑sūtras, with the 12th Aṅga, Dṛṣṭivāda, remembered as lost. These texts encode doctrine, monastic discipline, cosmology, and ethics, and are accompanied by extensive commentaries by ācāryas such as Haribhadra Sūri, Abhayadeva Sūri, and Śīlāṅka Sūri. Digambara authors generally deny the full authenticity of this canon, which makes the Āgamas a paradigmatic example of a sectarian source whose authority is affirmed in one major tradition and rejected in another.  [[0]](https://archania.org/p/the-symbolic-world/symbolic-works/literature/religious-texts/jain-agamas) [[1]](https://hiroshima.repo.nii.ac.jp/record/2025811/files/Ann-ResProjCent-CompStudLogic_3_101.pdf)"
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara scriptural corpus)",
+      "author": "Traditionally attributed to Puṣpadanta and Bhūtabali; preserved and systematized by later Digambara ācāryas",
+      "original_text": "जोगस्स णाणं चरिस्स णाणं।",
+      "transliteration": "jogassa ṇāṇaṃ carissa ṇāṇaṃ.",
+      "translation": "Knowledge of the yogin, knowledge of the one who practices.",
+      "notes": "The Ṣaṭkhaṇḍāgama (\"Scripture in Six Sections\") is a foundational Digambara sectarian source, regarded as preserving portions of Mahāvīra’s teaching through a distinct transmission line. Together with the Kaṣāya‑pāhuḍa and related works, it forms part of the Digambara siddhānta, which is treated as scriptural in place of the Śvetāmbara Āgamas. Much of this corpus survives in fragmentary form and is known through later commentaries and scholastic re‑organization. Its status illustrates how Digambara communities construct scriptural authority around texts that are largely unknown or non‑canonical in Śvetāmbara circles, reinforcing the sectarian character of Jain sources.  [[1]](https://hiroshima.repo.nii.ac.jp/record/2025811/files/Ann-ResProjCent-CompStudLogic_3_101.pdf) [[2]](https://en.wikipedia.org/wiki/Jain_literature)"
+    },
+    {
+      "title": "Tattvārtha‑sūtra (shared doctrinal treatise)",
+      "author": "Umāsvāti / Umāsvāmi (sectarian attribution varies)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः।",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ.",
+      "translation": "Right faith, right knowledge, and right conduct are the path to liberation.",
+      "notes": "The Tattvārtha‑sūtra is a concise Sanskrit treatise on Jain doctrine that is accepted, with some differences in attribution and commentary, by both Digambara and Śvetāmbara traditions. While not an Āgama in the strict Śvetāmbara sense, it functions as a cross‑sectarian source that systematizes core teachings on reality (tattva), karma, cosmology, and the path. Sectarian differences appear in the commentarial traditions and in details of interpretation, but the text itself demonstrates that not all Jain sources are confined to a single sect; some works occupy a shared space of authority across communities.  [[2]](https://en.wikipedia.org/wiki/Jain_literature)"
+    },
+    {
+      "title": "Haribhadra Sūri’s Āgama commentaries (e.g., on the Uttarādhyayana‑sūtra)",
+      "author": "Haribhadra Sūri (Śvetāmbara Mūrtipūjaka ācārya)",
+      "original_text": "णाणं चरित्तं च सुद्धं तिहि णयाहि पवत्तं।",
+      "transliteration": "ṇāṇaṃ carittaṃ ca suddhaṃ tihi ṇayāhi pavattaṃ.",
+      "translation": "Knowledge and conduct are pure when understood through the three standpoints (naya).",
+      "notes": "Haribhadra Sūri’s Prakrit and Sanskrit commentaries on key Āgama texts are central Śvetāmbara sectarian sources that also engage with Digambara positions. Medieval studies show that Haribhadra and other commentators employed linguistic and philosophical strategies—such as anekāntavāda and the vyavahāra‑niścaya framework—to address sectarian disagreements while emphasizing shared soteriological foundations. These commentaries exemplify how sectarian sources can themselves become vehicles for reconciliation discourse, not merely instruments of division.  [[3]](https://horizon-jhssr.com/articles/authors/pdf-version-18/JHSSR-1318-2025.pdf) [[4]](https://www.academia.edu/150297173/Resolving_Sectarian_Rifts_in_Early_Jainism_Prakrit_Poetics_and_the_Politics_of_Reconciliation_10th_12th_CE)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism has a single universally accepted \"Bible\" that all sects recognize as equally authoritative.",
+      "reality": "Jain textual authority is plural. Śvetāmbara communities preserve a canon of Āgamas, while Digambara communities deny the full authenticity of that canon and ground scriptural authority in other works such as the Ṣaṭkhaṇḍāgama and Kaṣāya‑pāhuḍa. Some texts, like the Tattvārtha‑sūtra, are widely respected across sects, but there is no single book that functions as a universally accepted Jain \"Bible.\"  [[0]](https://archania.org/p/the-symbolic-world/symbolic-works/literature/religious-texts/jain-agamas) [[1]](https://hiroshima.repo.nii.ac.jp/record/2025811/files/Ann-ResProjCent-CompStudLogic_3_101.pdf) [[2]](https://en.wikipedia.org/wiki/Jain_literature)"
+    },
+    {
+      "myth": "Sectarian sources are purely divisive and only serve to reinforce conflicts between Digambaras and Śvetāmbaras.",
+      "reality": "While sectarian sources do encode differences in scriptural lists, monastic discipline, and doctrinal emphasis, they also contain internal resources for reconciliation. Medieval commentators such as Haribhadra Sūri, Abhayadeva Sūri, and Śīlāṅka Sūri used Prakrit poetics, multi‑perspectival reasoning (anekāntavāda), and nuanced hermeneutics to articulate unity within diversity and to address sectarian tensions. Modern scholarship highlights these peace‑building discourses as integral parts of the sectarian textual heritage.  [[3]](https://horizon-jhssr.com/articles/authors/pdf-version-18/JHSSR-1318-2025.pdf) [[4]](https://www.academia.edu/150297173/Resolving_Sectarian_Rifts_in_Early_Jainism_Prakrit_Poetics_and_the_Politics_of_Reconciliation_10th_12th_CE)"
+    },
+    {
+      "myth": "Only ancient canonical texts count as sectarian sources; later commentaries and vernacular works are secondary and unimportant.",
+      "reality": "In practice, Jain communities rely heavily on commentaries, doctrinal treatises, ritual manuals, and vernacular narratives to understand and apply canonical teachings. These later works are themselves sectarian sources, shaping how each tradition interprets scripture, constructs authority, and teaches lay and monastic audiences. Distinguishing corpus tiers (primary texts, reviewed commentaries, scholarly studies, and community education) helps clarify their roles, but it does not reduce their importance in the living sectarian landscape.  [[0]](https://archania.org/p/the-symbolic-world/symbolic-works/literature/religious-texts/jain-agamas) [[2]](https://en.wikipedia.org/wiki/Jain_literature)"
+    }
+  ]
+}
+
+
+
+> [0] [Jain Agamas](https://archania.org/p/the-symbolic-world/symbolic-works/literature/religious-texts/jain-agamas)
+>
+> [1] [Svetambara Canons in the Digambara Tradition](https://hiroshima.repo.nii.ac.jp/record/2025811/files/Ann-ResProjCent-CompStudLogic_3_101.pdf)
+>
+> [2] [Jain literature - Wikipedia](https://en.wikipedia.org/wiki/Jain_literature)
+>
+> [3] [Horizon J. Hum. Soc. Sci. Res. (2) 66 (202) Journal of Humanities and Social Sciences Research](https://horizon-jhssr.com/articles/authors/pdf-version-18/JHSSR-1318-2025.pdf)
+>
+> [4] [(PDF) Resolving Sectarian Rifts in Early Jainism: Prakrit Poetics and the Politics of Reconciliation (10th-12th CE](https://www.academia.edu/150297173/Resolving_Sectarian_Rifts_in_Early_Jainism_Prakrit_Poetics_and_the_Politics_of_Reconciliation_10th_12th_CE)

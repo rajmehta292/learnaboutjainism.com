@@ -1,0 +1,43 @@
+{
+  "overview": "Jambudvipa is one of the central cosmographical regions described in Jain canonical literature. It is presented as the middle continent of Madhyaloka—the human-inhabited middle world—situated within the larger structure of the Jain universe (loka). Jain texts depict Jambudvipa not as a metaphor but as a precise cosmographical domain with fixed dimensions, mountain ranges, rivers, and subdivisions. It is the only continent where humans can attain liberation (moksha), making it spiritually significant across all Jain traditions.\n\nIn Jain cosmology, Jambudvipa is circular, surrounded by concentric rings of oceans and continents. At its center stands Mount Meru, the cosmic axis. The continent is divided into seven regions (kṣetras), including Bharata Kṣetra and Airāvata Kṣetra—areas where Tirthankaras appear and where the current cycle of time unfolds. The descriptions of Jambudvipa in Śvetāmbara and Digambara traditions are broadly aligned, though some measurements and narrative details differ.\n\nJambudvipa is not intended to correspond to modern geography. Instead, it functions as a cosmological map that situates human moral action, karmic consequences, and spiritual possibility within a structured universe. Its rivers, mountains, and regions symbolize order, balance, and the cyclical nature of time. The continent’s detailed depiction in canonical texts reflects the Jain commitment to systematic cosmology, mathematical precision, and the integration of metaphysics with geography.\n\nScholars interpret Jambudvipa as a cosmological model that blends empirical observation, symbolic representation, and spiritual teaching. Traditional commentaries emphasize that understanding Jambudvipa helps practitioners grasp the broader Jain worldview: the vastness of the universe, the rarity of human birth, and the unique opportunity for liberation available in the middle world.",
+  "primary_sources": [
+    {
+      "title": "Tiloyapannatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "जम्बुदिव्वओ महोअहियं तिविहं तिविहं पवत्तइ।",
+      "transliteration": "jambudivvaō mahōahiyaṃ tiviham tiviham pavattaï",
+      "translation": "“Jambudvipa, the great continent, is arranged in threefold divisions.”",
+      "notes": "Tiloyapannatti (c. 6th century CE) is one of the most detailed Digambara cosmology texts. It provides measurements, descriptions of regions, and the placement of Mount Meru."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Attributed to Mahāvīra’s disciples (Śvetāmbara)",
+      "original_text": "जम्बुद्वीपे भरतक्षेत्रे मनुजाणं णिव्वाणस्स ठाणं।",
+      "transliteration": "jambudvīpe bharatakṣetre manujāṇaṃ nivvāṇassa ṭhāṇaṃ",
+      "translation": "“In Jambudvipa, in the Bharata region, lies the place where humans may attain liberation.”",
+      "notes": "This passage highlights the spiritual importance of Bharata Kṣetra within Jambudvipa."
+    },
+    {
+      "title": "Jambudvīpaprajñapti",
+      "author": "Canonical Śvetāmbara text",
+      "original_text": "जम्बुद्वीपं ताव जम्बूनां फलानां प्राप्तेः।",
+      "transliteration": "jambudvīpaṃ tāva jambūnāṃ phalānāṃ prāpteḥ",
+      "translation": "“The continent is called Jambudvipa because of the abundance of jambu fruits.”",
+      "notes": "This text is the primary Śvetāmbara source on cosmography, offering detailed descriptions of the continent’s structure, rivers, and regions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jambudvipa is meant to represent the modern Earth or a specific continent like Asia.",
+      "reality": "Jain texts describe Jambudvipa as a cosmological continent with fixed dimensions and features that do not correspond to modern geography. It is part of a symbolic and metaphysical universe model."
+    },
+    {
+      "myth": "All regions of Jambudvipa are accessible to humans today.",
+      "reality": "Traditional Jain cosmology states that only Bharata Kṣetra and Airāvata Kṣetra are accessible in the current time cycle. Other regions exist within the cosmological model but are not part of the present human world."
+    },
+    {
+      "myth": "Descriptions of Jambudvipa are purely mythological and lack systematic structure.",
+      "reality": "Jain cosmography is highly systematic, with precise measurements, geometric layouts, and consistent descriptions across canonical texts and commentaries."
+    }
+  ]
+}

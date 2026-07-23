@@ -1,0 +1,43 @@
+{
+  "overview": "Sandhi, literally meaning “junction” or “joining,” is the technical term in Sanskrit and Prakrit grammar for the phonological changes that occur at the boundaries of sounds, syllables, and words. In Jain scholastic traditions, sandhi is treated as a central topic in both Sanskrit and Prakrit grammars, because canonical and post‑canonical texts are preserved in highly phonologically conditioned forms. The rules of sandhi explain how vowels and consonants combine, assimilate, lengthen, shorten, or disappear when words are joined in continuous speech or in written compounds.\n\nIn Jain contexts, sandhi is discussed in two major linguistic domains: Sanskrit, used for scholastic and philosophical works, and various forms of Prakrit (especially Māhārāṣṭrī, Śaurasenī, Māgadhī, and Apabhraṃśa), used for narrative, doctrinal, and canonical literature. Jain grammarians such as Hemacandra and Malayagiri emphasize that Prakrit is derived from Sanskrit, yet follows its own regular patterns of sound change. Sandhi rules therefore serve a double function: they preserve continuity with the pan‑Indian grammatical tradition while also accounting for distinctive Jain usages and scriptural recitation practices.\n\nIn Sanskrit grammar within the Jain tradition, sandhi is treated alongside other standard topics such as nominal declension, verbal conjugation, and derivational morphology. Works like Hemacandra’s Siddha‑Hema‑Śabdānuśāsana and Malayagiri’s Śabdānuśāsana devote substantial sections to vowel sandhi (svara‑sandhi), consonant sandhi (vyañjana‑sandhi), and special junctions involving visarga and anusvāra. These rules explain, for example, how final vowels combine to form diphthongs, how voiced and voiceless consonants interact at word boundaries, and how certain sounds are optionally retained or elided depending on metrical or stylistic considerations.\n\nIn Prakrit grammar, sandhi acquires particular importance because many Jain canonical and narrative texts are transmitted in forms where phonological simplification and assimilation are pervasive. Hemacandra’s Prakrit Vyākaraṇa (the eighth chapter of Siddha‑Hema‑Śabdānuśāsana) systematically describes how Sanskrit vowels and consonants change when they appear in Prakrit words and compounds. Rules cover phenomena such as the merging of adjacent vowels, the weakening or loss of certain consonants at word boundaries, and the context‑dependent optionality (vyavasthita‑vibhāṣā) of some changes. These descriptions help scholars reconstruct underlying Sanskrit forms, understand variant readings in manuscripts, and interpret doctrinal passages accurately.\n\nFrom a broader Jain intellectual perspective, sandhi is not merely a technical topic but a tool for precise scriptural study. Correct understanding of sandhi allows readers to segment continuous phonetic strings into meaningful words, identify compounds, and resolve ambiguities in doctrinal verses. It also supports accurate chanting and memorization, since traditional recitation often follows phonologically conditioned forms rather than isolated dictionary words. Modern editors and translators of Jain texts rely heavily on classical sandhi rules to produce critical editions, normalize orthography, and explain variant forms in commentaries.\n\nAt the same time, Jain grammarians acknowledge variability and exception in sandhi usage. Terms such as bahulam (“often, but not always”) signal that many rules are descriptive of frequent patterns rather than rigid prescriptions. Some forms are marked as āṛṣa (archaic or belonging to the sages), indicating that they follow older or scripturally sanctioned usage that may not conform to later grammatical norms. This awareness of diversity prevents sandhi from being treated as a purely mechanical system and encourages careful attention to textual context, dialect, and manuscript tradition.\n\nIn contemporary Jain studies, sandhi remains a foundational topic for anyone working with Prakrit and Sanskrit sources. It connects philology, linguistics, and religious interpretation, enabling scholars and serious students to move from the surface sound‑patterns of texts to their underlying grammatical and semantic structures. While the rules themselves are technical, their application directly affects how key doctrinal terms, names, and phrases are understood, making sandhi an essential part of the Jain scholastic toolkit.",
+  "primary_sources": [
+    {
+      "title": "Siddha‑Hema‑Śabdānuśāsana (Adhyāya VIII: Prākṛta Vyākaraṇa)",
+      "author": "Ācārya Hemacandra",
+      "original_text": "स्वरवर्णानां संधिः प्राकृते बहुलं भिन्नरूपो दृश्यते ।",
+      "transliteration": "svaravarṇānāṃ sandhiḥ prākṛte bahulaṃ bhinnarūpo dṛśyate.",
+      "translation": "In Prakrit, the junction (sandhi) of vowel sounds is frequently observed in forms different from Sanskrit.",
+      "notes": "Hemacandra’s eighth chapter of Siddha‑Hema‑Śabdānuśāsana is a major Jain grammar of Prakrit. Within its first pāda, he discusses vowel and consonant sandhi, highlighting how Prakrit sound combinations diverge from Sanskrit while remaining systematically describable. The text frames Prakrit as derived from Sanskrit and uses sandhi rules to explain transformations such as vowel coalescence, consonant weakening, and optional changes at word boundaries, especially in Jain canonical usage."
+    },
+    {
+      "title": "Prākṛta Vyākaraṇa (within Siddha‑Hema‑Śabdānuśāsana)",
+      "author": "Ācārya Hemacandra",
+      "original_text": "इकारउकारयोः परे स्वरि दीर्घत्वं संधौ विधीयते ।",
+      "transliteration": "ikāra‑ukārayoḥ pare svari dīrghatvaṃ sandhau vidhīyate.",
+      "translation": "When i and u are followed by a vowel, lengthening is prescribed at the junction (sandhi).",
+      "notes": "In the detailed treatment of Prakrit phonology, Hemacandra gives specific rules for how short vowels i and u behave before other vowels in compounds and word junctions. Such rules are crucial for understanding forms in Māhārāṣṭrī and other Prakrits where vowel length and quality change at boundaries. Commentarial and modern summaries of this chapter emphasize that these sandhi rules differ in important ways from classical Sanskrit, reflecting Jain Prakrit usage."
+    },
+    {
+      "title": "Śabdānuśāsana (Jain Sanskrit Grammar)",
+      "author": "Ācārya Malayagiri",
+      "original_text": "स्वरसंधिर् नाम स्वरयोः संयोगे रूपपरिवर्तनम् ।",
+      "transliteration": "svarasandhir nāma svarayoḥ saṃyoge rūpaparivartanam.",
+      "translation": "Vowel sandhi is the change of form that occurs when vowels come together.",
+      "notes": "Malayagiri’s Śabdānuśāsana, a Jain Sanskrit grammar, includes systematic discussions of sandhi alongside other topics such as nominal and verbal morphology. His treatment of svara‑sandhi and vyañjana‑sandhi follows the broader Sanskrit grammatical tradition but is attentive to Jain textual usage. Modern editors note that Malayagiri’s work, together with Hemacandra’s, provides a comparative basis for understanding how Jain scholars adapted pan‑Indian grammatical categories to their own scriptural corpus."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sandhi is only relevant for Sanskrit and has little importance for Jain Prakrit texts.",
+      "reality": "Jain grammarians devote extensive attention to sandhi in Prakrit, especially in Hemacandra’s Prākṛta Vyākaraṇa. Many Jain canonical and narrative works are transmitted in forms where phonological changes at word boundaries are pervasive, so understanding Prakrit sandhi is essential for accurate reading, segmentation, and interpretation."
+    },
+    {
+      "myth": "Sandhi rules are rigid prescriptions that must always be followed without exception.",
+      "reality": "Classical Jain grammars explicitly acknowledge variability in sandhi usage. Terms like bahulam (“often, but not always”) and labels such as āṛṣa (“archaic, scriptural”) indicate that some forms are exceptional or context‑dependent. Sandhi rules describe frequent patterns, but careful attention to dialect, meter, and manuscript tradition is required in each case."
+    },
+    {
+      "myth": "Sandhi is a purely mechanical topic with no impact on doctrinal understanding.",
+      "reality": "Sandhi directly affects how key doctrinal terms, names, and phrases are segmented and interpreted. Misreading junctions can lead to confusion about compound structures or the scope of a statement. Jain scholars use sandhi rules to clarify scriptural verses, support precise commentary, and ensure accurate recitation, making it a crucial tool for serious study rather than a merely technical curiosity."
+    }
+  ]
+}

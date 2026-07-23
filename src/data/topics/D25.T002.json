@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical literature, the term “fourfold restraint” refers to a structured set of disciplined limitations that regulate conduct, speech, and mental activity. Although the exact formulation varies across textual lineages and historical periods, the concept consistently expresses the Jain commitment to minimizing harm (ahiṃsā), stabilizing ethical behavior, and preparing the practitioner for deeper stages of spiritual progress. In early canonical Prakrit sources, the fourfold restraint (caujjama / catursaṃyama) is often presented as a foundational ethical framework for both ascetics and lay followers, though with differing degrees of rigor.\n\nIn many Śvetāmbara canonical contexts, the fourfold restraint is associated with controlling four domains: movement, speech, consumption, and bodily activity. These restraints are not merely external rules but are tied to the broader Jain theory of karma, where unregulated actions bind subtle karmic matter to the soul. Digambara sources sometimes frame the fourfold restraint in relation to the broader ascetic vows, emphasizing the progressive internalization of restraint as one moves toward higher guṇasthānas.\n\nAcross traditions, the fourfold restraint is understood as a practical method for cultivating vigilance (apramatta), reducing inadvertent violence, and stabilizing the mind. Commentarial literature highlights that these restraints are not isolated rules but interdependent disciplines that reinforce one another. For example, restraint in movement reduces opportunities for harm, which in turn supports restraint in speech and consumption. The fourfold restraint thus functions as a bridge between basic ethical observance and more advanced ascetic practice.\n\nModern scholarship notes that the fourfold restraint appears in multiple Jain contexts—monastic regulations, lay ethics, and descriptions of meditative conduct—indicating its adaptability and importance across centuries. While interpretations differ, the underlying purpose remains consistent: to cultivate a life oriented toward nonviolence, mindfulness, and liberation.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara Canon)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "“Caujjamaṃ samiyamaṃ.”",
+      "transliteration": "caujjamaṃ saṃyamaṃ",
+      "translation": "“Fourfold restraint.”",
+      "notes": "Appears in discussions of monastic conduct. The text associates restraint with careful regulation of movement, speech, and interaction with living beings. Editions vary; the term is embedded within broader prescriptions for ascetic vigilance."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Attributed to Śivārya (Śvetāmbara)",
+      "original_text": "“Caturvidhaṃ saṃyamaṃ bhikkhūṇaṃ.”",
+      "transliteration": "caturvidhaṃ saṃyamaṃ bhikṣūṇām",
+      "translation": "“The monks possess four kinds of restraint.”",
+      "notes": "This passage situates the fourfold restraint within monastic training. Commentaries describe these restraints as regulating movement, speech, begging practices, and bodily discipline."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "“Caturvidhaḥ saṃyamaḥ.”",
+      "transliteration": "caturvidhaḥ saṃyamaḥ",
+      "translation": "“Restraint is fourfold.”",
+      "notes": "Digambara tradition interprets the fourfold restraint in relation to broader ascetic vows, emphasizing internalization of restraint and its role in progressing through the guṇasthānas."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The fourfold restraint is identical across all Jain traditions and texts.",
+      "reality": "While the term appears widely, its specific components differ between Śvetāmbara, Digambara, and sub-sects. Some texts emphasize physical restraint, others speech or consumption, and some integrate it into meditative practice."
+    },
+    {
+      "myth": "The fourfold restraint applies only to monks.",
+      "reality": "Although monastic texts discuss it extensively, lay ethics manuals also reference forms of fourfold restraint adapted for householders, emphasizing mindful conduct and reduced harm."
+    },
+    {
+      "myth": "The fourfold restraint is a standalone vow.",
+      "reality": "It is typically part of a larger ethical or ascetic framework. Commentaries stress that it supports, and is supported by, other vows such as ahiṃsā, satya, and brahmacarya."
+    }
+  ]
+}

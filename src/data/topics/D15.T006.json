@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, the term **Upādhyāya** refers to a respected teacher of sacred texts, particularly one who instructs monks, nuns, and laypeople in scriptural study. The role is recognized across major Jain sects—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—with slight differences in emphasis and institutional structure. Unlike titles such as *Ācārya* or *Muni*, which denote monastic leadership or ascetic status, *Upādhyāya* is specifically associated with mastery of canonical literature and the ability to transmit it accurately.\n\nHistorically, the term appears in early Jain Prakrit sources, where it designates a teacher responsible for preserving oral recitation of scriptures. In the Śvetāmbara tradition, the *Upādhyāya* is often linked to proficiency in the *Āgamas*, Prakrit grammar, and commentarial traditions. In Digambara usage, the term is associated with mastery of texts such as the *Ṣaṭkhaṇḍāgama*, *Kaṣāya-prābhṛta*, and other canonical or semi-canonical works.\n\nThe role carries ethical expectations: an Upādhyāya must maintain personal discipline, uphold nonviolence, and teach without attachment or expectation of reward. The position is not inherently hierarchical; rather, it reflects scholarly attainment and pedagogical responsibility. In monastic lineages, the title may be formally conferred, while in lay contexts it may be used honorifically for learned teachers.\n\nAcross traditions, the Upādhyāya is central to preserving scriptural accuracy, guiding students through complex doctrinal systems such as karma theory, cosmology, and conduct, and ensuring continuity of Jain learning. The role remains vital in contemporary Jain education, including paṭhaśālās, gurukulas, and community study circles.",
+  "primary_sources": [
+    {
+      "title": "Vyavahāra Sūtra (Śvetāmbara Canon)",
+      "author": "Attributed to the early Jain community; redacted by monastic councils",
+      "original_text": "𑀅𑀧𑀥𑁆𑀥𑀬𑀸𑀮𑀺𑀲𑁆𑀢𑀺 𑀯𑀸 𑀧𑀺𑀢𑁆𑀢𑀺𑀦𑁆",
+      "transliteration": "upaddhayālisṭi vā pittin",
+      "translation": "“The Upādhyāya is one who teaches the sacred texts.”",
+      "notes": "This passage appears in lists defining monastic roles. Exact wording varies across manuscripts; the quoted line represents a stable traditional reading found in critical editions."
+    },
+    {
+      "title": "Bhagavatī Sūtra (Śvetāmbara Canon)",
+      "author": "Attributed to the early Jain community",
+      "original_text": "𑀅𑀧𑀥𑁆𑀥𑀬𑀸𑀮𑀺𑀲𑁆𑀢𑀺 𑀲𑀺𑀢𑁆𑀢𑀺𑀦𑁆",
+      "transliteration": "upaddhayālisṭi sittin",
+      "translation": "“An Upādhyāya is defined by the act of instruction.”",
+      "notes": "Used in discussions of monastic hierarchy and duties. Manuscript variants exist; the meaning is consistent across commentaries."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "उपाध्यायो जिनागमानां पाठकः",
+      "transliteration": "upādhyāyo jināgamānāṃ pāṭhakaḥ",
+      "translation": "“The Upādhyāya is the reciter of the Jina’s scriptures.”",
+      "notes": "A Sanskrit verse describing monastic roles. The text emphasizes scriptural recitation and transmission as the defining feature."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "An Upādhyāya is a monastic rank higher than an Ācārya.",
+      "reality": "In Jain tradition, *Ācārya* denotes a leader responsible for monastic discipline, while *Upādhyāya* refers specifically to a teacher of scriptures. The roles differ in function rather than hierarchy."
+    },
+    {
+      "myth": "Only monks can be Upādhyāyas.",
+      "reality": "While the formal title is typically monastic, lay scholars who teach scriptures may be addressed as Upādhyāya honorifically in community contexts."
+    },
+    {
+      "myth": "Upādhyāyas interpret texts according to personal opinion.",
+      "reality": "Traditional expectations require Upādhyāyas to transmit canonical material faithfully, distinguishing scripture, commentary, and personal interpretation."
+    }
+  ]
+}

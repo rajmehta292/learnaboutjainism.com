@@ -1,0 +1,47 @@
+{
+  "overview": "Debates on consciousness and personhood within Jain philosophy revolve around the nature, attributes, and moral significance of the *jīva* (sentient soul). These discussions are foundational because Jainism treats consciousness not as an emergent property of matter but as an intrinsic, eternal quality of living beings. The tradition maintains a dualistic ontology: *jīva* (sentient substance) and *ajīva* (non-sentient substance). Consciousness (*cetanā*) is the defining characteristic of *jīva*, and personhood is understood as the embodied, karmically conditioned manifestation of this conscious substance.\n\nAcross Jain history, debates have addressed how consciousness is recognized, how it varies across life forms, and how karmic influx obscures or reveals its capacities. Digambara and Śvetāmbara traditions agree on the core metaphysics but differ in certain interpretive details, especially regarding the soul’s embodiment and the epistemic status of liberated beings. Modern scholarship further engages Jain views in dialogue with contemporary philosophy of mind, animal ethics, and cognitive science.\n\nJain texts classify living beings according to the number of sense faculties—from one-sensed organisms like plants to five-sensed beings like humans and animals. This classification is not merely biological; it reflects degrees of manifest consciousness. Personhood, in Jain terms, is not restricted to humans. Any being possessing consciousness, however faint, is a moral subject. This leads to a broad ethical framework emphasizing non-harm (*ahiṃsā*) toward all life forms.\n\nPhilosophical debates also explore whether consciousness can be obstructed, expanded, or partially manifested. The *guṇasthāna* system describes fourteen stages of spiritual development, mapping how karmic veils progressively diminish, allowing consciousness to shine forth in its pure form. In this sense, personhood is dynamic: the soul’s true nature remains constant, but its expression varies according to karmic conditions.\n\nIn modern contexts, Jain thinkers engage with questions about artificial intelligence, brain death, and animal cognition. While classical texts do not address these directly, their metaphysical framework provides criteria: consciousness requires a *jīva*, and a *jīva* must be capable of karmic bondage and liberation. Thus, debates continue about whether certain modern entities—such as advanced AI systems—could be considered conscious or persons within a Jain framework. Most traditional scholars maintain that consciousness cannot arise from purely material configurations, but discussions remain open in comparative philosophy.\n\nOverall, Jain debates on consciousness and personhood offer a distinctive perspective: consciousness is universal, eternal, and morally significant, and personhood extends far beyond human boundaries. These views shape Jain ethics, cosmology, and soteriology, and continue to inform contemporary philosophical dialogue.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "जीवो चेतनावान्",
+      "transliteration": "jīvo cetanāvān",
+      "translation": "The soul is possessed of consciousness.",
+      "notes": "Tattvārtha Sūtra 2.8 is a foundational statement establishing consciousness as the essential attribute of the soul. Both Digambara and Śvetāmbara traditions accept the text, though they differ on certain commentarial interpretations."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "चेतना लक्षणं जीवस्य",
+      "transliteration": "cetanā lakṣaṇaṃ jīvasya",
+      "translation": "Consciousness is the defining characteristic of the soul.",
+      "notes": "A central Digambara text emphasizing the pure nature of the soul and distinguishing it from karmic obscurations. Discussions of personhood often draw on Kundakunda’s distinction between the empirical and the pure soul."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Anonymous (Śvetāmbara canonical text)",
+      "original_text": "सव्वे पाणाः लोए",
+      "transliteration": "savve pāṇā loe",
+      "translation": "All living beings in the world...",
+      "notes": "This text includes extensive classifications of living beings and discussions of their consciousness levels, forming the basis for Jain ethical obligations toward all forms of life."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that only humans possess full consciousness and moral personhood.",
+      "reality": "Jainism holds that all living beings—from microorganisms to humans—possess consciousness and moral significance. Personhood is not limited to humans but extends to any being with a *jīva*."
+    },
+    {
+      "myth": "Consciousness in Jainism is produced by the brain or nervous system.",
+      "reality": "Classical Jain metaphysics asserts that consciousness is an inherent attribute of the soul, not a product of material processes. The body enables expression of consciousness but does not generate it."
+    },
+    {
+      "myth": "Jain philosophy denies variation in consciousness across species.",
+      "reality": "Jain texts describe degrees of manifest consciousness based on sense faculties and karmic conditions. All souls are equal in essence, but their expression of consciousness varies."
+    },
+    {
+      "myth": "Artificial intelligence could be considered conscious within Jain ontology.",
+      "reality": "Traditional Jain philosophy maintains that consciousness requires a *jīva*, which cannot arise from purely material constructs. AI systems, being non-sentient matter, do not qualify as conscious or as persons in the Jain sense."
+    }
+  ]
+}

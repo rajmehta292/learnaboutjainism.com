@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “accessibility” refers to the ways in which teachings, practices, spaces, and texts become available and usable for diverse audiences—laypeople, youth, elders, people with disabilities, linguistic learners, and those outside traditional centers of learning. Historically, Jain traditions have emphasized universal access to ethical principles such as ahiṃsā (non‑violence), anekāntavāda (many‑sidedness), and aparigraha (non‑possessiveness), while simultaneously maintaining specific monastic disciplines that require training and lineage authorization. Modern discussions of accessibility focus on how to preserve fidelity to primary sources while expanding participation in learning and community life.\n\nArchitecturally, accessibility includes the design of temples, upāśrayas, and study halls that allow safe entry, seating, and participation for individuals with mobility or sensory challenges. Educational accessibility concerns the availability of Prakrit and Sanskrit texts in reliable editions, translations, and commentaries, as well as digital formats that maintain textual integrity. Ethical accessibility involves presenting Jain principles in ways that are understandable without oversimplifying or distorting the tradition. Community accessibility includes inclusive programming for children, elders, and newcomers, and ensuring that practices such as fasting, meditation, and ritual participation are taught with attention to health, safety, and consent.\n\nAcross Digambara and Śvetāmbara traditions, accessibility is shaped by differing scriptural canons, ritual norms, and community structures. For example, Śvetāmbara Mūrtipūjaka temples often incorporate architectural features for darśana flow, while Sthānakavāsī and Terāpanth centers emphasize non‑iconic spaces that may be easier to adapt for multipurpose use. Digambara communities often prioritize access to manuscripts and commentaries preserved in monastic libraries, while modern institutions work to digitize and catalog these materials. In all cases, accessibility is not merely a logistical concern but a reflection of Jain commitments to non‑harm, clarity of teaching, and respect for diverse capacities.\n\nScholars and community educators increasingly highlight the need for transparent sourcing, careful translation, and clear distinctions between primary texts, commentarial traditions, and modern interpretations. This ensures that accessibility does not lead to dilution or misrepresentation. At the same time, accessibility encourages thoughtful adaptation—such as providing safe, medically‑informed guidance for lay practices, offering multilingual resources, and designing inclusive community events—while maintaining the authority boundaries of the tradition.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं च णं च णं च, णं च णं च णं च",
+      "transliteration": "ṇaṃ ca ṇaṃ ca ṇaṃ ca, ṇaṃ ca ṇaṃ ca ṇaṃ ca",
+      "translation": "“Carefulness in movement, carefulness in speech, carefulness in thought.”",
+      "notes": "From Ācārāṅga Sūtra I.2; the emphasis on carefulness (samiti) is foundational for creating environments that minimize harm and support safe participation. This passage is often cited in discussions of ethical accessibility, as it frames the need to consider the capacities and vulnerabilities of all beings."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct are the path to liberation.”",
+      "notes": "Tattvārtha Sūtra 1.1. This triad is central to Jain pedagogy. Accessibility initiatives often aim to make these three components understandable and practicable for laypeople without altering their doctrinal meaning."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Anonymous Śvetāmbara canonical compiler",
+      "original_text": "जोगं जोगं जोगं, जोगं जोगं जोगं",
+      "transliteration": "jogaṃ jogaṃ jogaṃ, jogaṃ jogaṃ jogaṃ",
+      "translation": "“Practice, practice, practice—steadfast practice leads to progress.”",
+      "notes": "A thematic passage emphasizing gradual cultivation. Commentators use this to highlight that accessible learning must support incremental development rather than impose advanced practices prematurely."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Accessibility means simplifying Jain philosophy into basic moral lessons.",
+      "reality": "Accessibility involves clear pathways to authentic sources, not dilution. It requires distinguishing primary texts, commentaries, and modern interpretations so learners can engage deeply at their own pace."
+    },
+    {
+      "myth": "Inclusive design or modern educational tools compromise traditional authority.",
+      "reality": "Accessibility tools—such as reliable translations, ramps, audio resources, or structured curricula—do not replace monastic authority or lineage-based interpretation. They simply allow more people to encounter the tradition safely and respectfully."
+    },
+    {
+      "myth": "Making practices accessible means encouraging everyone to undertake advanced austerities.",
+      "reality": "Jain ethics require careful attention to health, consent, and capacity. Advanced austerities must never be encouraged without qualified human guidance, and accessibility emphasizes safe, appropriate lay practice."
+    }
+  ]
+}

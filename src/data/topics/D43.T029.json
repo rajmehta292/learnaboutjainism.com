@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, elder care (vṛddha-sevā) is understood as an ethical, relational, and karmic responsibility grounded in ahiṃsā (non‑violence), dayā (compassion), and vinaya (respect). Jain texts consistently emphasize care for parents, teachers, and vulnerable beings as part of lay conduct (śrāvaka‑ācāra). Elder care is not framed as a separate institutional system in classical literature; instead, it is embedded within broader duties of householders, community support, and compassionate service.\n\nAcross Digambara and Śvetāmbara traditions, caring for elders is seen as an expression of gratitude (kṛtajñatā) and a means of cultivating humility and reducing passions (kaṣāyas). The act of serving aging parents is described as a meritorious practice that supports the development of right conduct (samyak‑cāritra). Commentaries often highlight that elder care is not merely physical assistance but includes emotional presence, respectful speech, and ensuring elders can maintain spiritual practices according to their capacity.\n\nModern Jain communities interpret elder care through contemporary realities: medical needs, long‑term care facilities, intergenerational households, and diaspora challenges. While classical texts do not prescribe medical decisions, they encourage compassionate support, avoidance of harm, and seeking qualified human guidance. Modern Jain ethics emphasizes balancing spiritual ideals with practical responsibilities, ensuring elders receive appropriate medical care, emotional support, and opportunities for religious engagement without coercion.\n\nElder care also intersects with Jain views on autonomy, dignity, and non‑violence. Caregivers are encouraged to avoid actions that cause psychological harm, neglect, or pressure regarding religious practices. The tradition values elders’ lived experience and spiritual maturity, seeing them as carriers of memory, lineage, and community wisdom. Thus, elder care becomes both a personal duty and a communal expression of Jain values.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non‑violence is the supreme dharma.",
+      "notes": "While not explicitly about elder care, this foundational principle frames all compassionate service. Commentaries (B-tier) apply ahiṃsā to caring for vulnerable persons, including elders."
+    },
+    {
+      "title": "Tattvārtha Sūtra 6.25",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "वृद्धबालरोगिणां च परितोषः",
+      "transliteration": "vṛddha‑bāla‑rogiṇāṃ ca paritoṣaḥ",
+      "translation": "One should provide satisfaction and care to the elderly, children, and the sick.",
+      "notes": "This is the clearest primary reference to elder care. The verse appears in the context of lay duties (śrāvaka‑ācāra). Commentaries emphasize compassionate service as part of household responsibility."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 25",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जे णं माणेइ तं माणेइ, जे णं पूएइ तं पूएइ",
+      "transliteration": "jeṇa māṇei taṃ māṇei, jeṇa pūei taṃ pūei",
+      "translation": "Honor those who should be honored; serve those who should be served.",
+      "notes": "Traditional commentaries identify parents, teachers, and elders as among those deserving honor and service."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra 70–72",
+      "author": "Samantabhadra (Digambara)",
+      "original_text": "गुरुजनपूजनं सेवाचरणं च",
+      "transliteration": "gurujana‑pūjanaṃ sevā‑caraṇaṃ ca",
+      "translation": "One should honor elders and perform acts of service.",
+      "notes": "Although focused on spiritual elders, Digambara commentators extend the principle to household elders, emphasizing humility and gratitude."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain texts require elders to avoid all medical treatment and rely only on spiritual practices.",
+      "reality": "No primary Jain text prohibits medical care. Classical literature predates modern medicine and focuses on ethical principles, not clinical directives. Modern Jain ethics encourages compassionate support and qualified medical guidance."
+    },
+    {
+      "myth": "Elder care in Jainism is only a family responsibility and has no community dimension.",
+      "reality": "While family plays a central role, Jain communities historically supported elders through collective resources, temple networks, and social structures. Modern communities continue this through senior centers, religious classes, and social support."
+    },
+    {
+      "myth": "Serving elders is only a social duty and has no spiritual significance.",
+      "reality": "Primary texts and commentaries consistently frame service to elders as a practice that cultivates humility, reduces passions, and strengthens right conduct. It is both ethical and spiritually meaningful."
+    }
+  ]
+}

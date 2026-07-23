@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical literature, the term “kāya” (Sanskrit/Prakrit: kāya, meaning ‘body’) is a multi-layered concept that appears across cosmology, ontology, ethics, and the analysis of living beings (jīva). While the everyday meaning refers to the physical body, Jainism uses the term with far greater precision. In its most technical sense, kāya denotes the structural form or bodily category through which a soul manifests in saṃsāra. This includes the number of sense-organs, the type of mobility, and the material constitution of the organism.\n\nJain texts classify living beings according to the number of sense faculties (indriyas) they possess, resulting in five principal kāyas: ekendriya (one-sensed), dvindriya (two-sensed), trindriya (three-sensed), caturindriya (four-sensed), and pañcendriya (five-sensed). These categories are foundational for understanding karma theory, ethical conduct, and the scope of ahiṃsā. The term also appears in discussions of the subtle bodies (śarīras) that accompany the soul—such as the tejas (fiery) body and kārmaṇa (karmic) body—though these are usually referred to as śarīra rather than kāya.\n\nIn cosmological texts like the *Tattvārtha Sūtra*, kāya is used to describe the embodied condition of souls across the three realms of the Jain universe. The classification of kāyas helps determine the intensity of karmic bondage, the range of possible actions, and the ethical obligations of laypeople and ascetics. Because Jain ethics emphasize non-harm to all forms of life, understanding kāya is essential for grasping why even microscopic or elemental beings are considered morally significant.\n\nAcross Digambara and Śvetāmbara traditions, the core definition of kāya remains consistent, though commentarial nuances differ. Digambara commentators often emphasize the ontological precision of bodily categories, while Śvetāmbara Mūrtipūjaka and Sthānakavāsī authors highlight the ethical implications for daily practice. Modern scholarship further explores how the kāya taxonomy intersects with biology, ecology, and environmental ethics.\n\nThus, kāya is not merely a physical descriptor but a key structural concept that shapes Jain metaphysics, moral reasoning, and the lived practice of ahiṃsā.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "कायाः पञ्चेन्द्रियादयः",
+      "transliteration": "kāyāḥ pañcendriyādayaḥ",
+      "translation": "Bodies are of five kinds, beginning with the five-sensed.",
+      "notes": "This passage (TS 2.13 in many editions) establishes the canonical classification of kāyas based on sense faculties. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārtha-vṛtti* (Śvetāmbara) elaborate on the characteristics of each kāya."
+    },
+    {
+      "title": "Praśnavyākaraṇa Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "एगेन्दियाणं कायो पव्वायो",
+      "transliteration": "egendiyāṇaṃ kāyo pavvāyo",
+      "translation": "The body of one-sensed beings is elemental.",
+      "notes": "This text provides detailed descriptions of ekendriya beings (earth-bodied, water-bodied, fire-bodied, air-bodied, and plant-bodied). It is central for understanding how Jainism extends moral concern to subtle life forms."
+    },
+    {
+      "title": "Gommatasāra Jīvakāṇḍa",
+      "author": "Nemicandra Siddhānta Cakravartin (Digambara)",
+      "original_text": "कायो जीवस्स स्वरूपं",
+      "transliteration": "kāyo jīvassa svarūpaṃ",
+      "translation": "The body is the manifested form of the soul.",
+      "notes": "This Digambara text analyzes bodily categories with mathematical precision, linking kāya to karmic conditions and the soul’s capacities."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Kāya simply means the physical human body.",
+      "reality": "In Jainism, kāya is a technical term referring to the bodily category of any living being, from microscopic organisms to humans and celestial beings."
+    },
+    {
+      "myth": "Only beings with visible bodies have kāya.",
+      "reality": "Jain texts describe elemental and subtle-bodied beings (earth-bodied, fire-bodied, etc.) as possessing kāya, even though their bodies are not visible to ordinary perception."
+    },
+    {
+      "myth": "Kāya classification is only theoretical and has no ethical implications.",
+      "reality": "Kāya taxonomy directly informs Jain ethics, especially ahiṃsā, because harming beings with different kāyas results in different karmic consequences."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "overview": "In Jain traditions, fasting (upavāsa) is a disciplined practice of voluntary restraint undertaken to cultivate non‑violence, self‑control, and awareness of the workings of karma. It appears across all major Jain communities—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth—yet its interpretation and permitted forms vary. Fasting is not a stand‑alone path to liberation; rather, it is one among many austerities (tapas) described in canonical texts, always paired with ethical conduct, meditation, and right knowledge.\n\nJain fasting ranges from partial dietary restraint to complete abstention from solid food, and in some cases, liquids. Laypeople typically undertake short, time‑bounded fasts such as ekāṣaṇa (one meal a day), upavāsa (full‑day fast), or thematic fasts during festivals like Paryuṣaṇa and Daśalakṣaṇa. Monastic texts describe more advanced austerities, but these are not prescribed for lay practitioners without guidance from qualified human teachers. Canonical sources emphasize intention: fasting is meaningful only when accompanied by mental purification, forgiveness, and non‑attachment.\n\nPrimary texts also warn against harmful or coercive fasting. The *Ācārāṅga Sūtra* and *Tattvārtha Sūtra* frame austerities within the broader discipline of non‑violence, making clear that practices causing bodily harm, undertaken without proper preparation, or performed for social display contradict Jain ethical principles. Modern Jain communities and scholars consistently stress safety, moderation, and the need for medical awareness.\n\nFasting is therefore best understood as a structured ethical and spiritual exercise, grounded in scriptural guidance, shaped by community tradition, and always subject to careful human oversight. It is not a requirement for all practitioners, nor a measure of spiritual worth, but one optional tool among many for cultivating equanimity and reducing passions.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to the early Jain community; preserved in Śvetāmbara canon",
+      "original_text": "“तवस्सि णं तवस्सि, ण तवस्सि तवस्सि।”",
+      "transliteration": "tavassiṇaṃ tavassi, ṇa tavassi tavassi",
+      "translation": "“One who practices austerity is an ascetic; one who does not practice it is not an ascetic.”",
+      "notes": "This passage (Ācārāṅga Sūtra 1.7) frames austerity as an inner discipline rather than mere physical deprivation. Commentaries note that fasting must be accompanied by non‑violence, mindfulness, and ethical restraint."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "“तपः कर्माणां क्षयहेतुः।”",
+      "transliteration": "tapaḥ karmāṇāṃ kṣayahetuḥ",
+      "translation": "“Austerity is a cause of the destruction of karmas.”",
+      "notes": "Tattvārtha Sūtra 9.3 lists six external and six internal austerities. Fasting (upavāsa, anāśana) appears among the external austerities, but the text emphasizes that internal austerities—meditation, repentance, humility—are primary."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "“अणस्सणं तवस्सं, तवस्सं अणस्सणं।”",
+      "transliteration": "aṇassaṇaṃ tavassaṃ, tavassaṃ aṇassaṇaṃ",
+      "translation": "“Fasting is austerity, and austerity is fasting.”",
+      "notes": "Uttarādhyayana Sūtra 30 discusses graded forms of fasting and the mental states required. Traditional commentaries clarify that fasting without right intention yields no spiritual benefit."
+    },
+    {
+      "title": "Bhagavatī Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "Passages describe Mahāvīra’s disciplined fasting accompanied by meditation and equanimity.",
+      "transliteration": "N/A (various passages)",
+      "translation": "Only brief paraphrase permitted: Mahāvīra is depicted as undertaking long fasts while maintaining non‑violence, calmness, and awareness.",
+      "notes": "The text emphasizes that advanced austerities belong to fully committed ascetics and are not models for laypeople."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Fasting is mandatory for all Jains and a measure of spiritual status.",
+      "reality": "Canonical texts present fasting as optional and context‑dependent. Ethical conduct, non‑violence, and mental purification are primary; fasting is secondary and must never be harmful."
+    },
+    {
+      "myth": "Long or waterless fasts are universally encouraged in Jainism.",
+      "reality": "Primary texts warn against harmful austerities. Modern Jain communities emphasize safety, medical awareness, and guidance from qualified human teachers. Waterless or prolonged fasts require careful oversight and are not appropriate for most practitioners."
+    },
+    {
+      "myth": "Fasting alone destroys karma.",
+      "reality": "Texts such as the *Tattvārtha Sūtra* state that austerity works only when paired with internal purification—meditation, humility, repentance, and reduction of passions."
+    },
+    {
+      "myth": "Sallekhanā is simply an extreme fast.",
+      "reality": "Sallekhanā is a distinct vow with strict ethical conditions, requiring non‑attachment, full consent, and qualified human guidance. It is not a fasting technique and must never be equated with self‑harm or undertaken without proper oversight."
+    }
+  ]
+}

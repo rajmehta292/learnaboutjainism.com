@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, nuns (Skt. *āryikā*, *sādhvī*; Prakrit *āriyā*, *sāhūī*) are women who undertake full mendicant vows and live according to the rigorous discipline of the Jain monastic codes (*cheda-sūtras*). They represent one of the oldest continuously existing female monastic communities in South Asia. Jain nuns are found in all major sects—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Śvetāmbara Terāpanth—each with distinct disciplinary rules, ordination procedures, and expectations regarding mobility, possessions, and ritual practice.\n\nAcross traditions, Jain nuns commit to the Five Great Vows (*mahāvrata*): nonviolence (*ahiṃsā*), truth (*satya*), non-stealing (*asteya*), celibacy (*brahmacarya*), and non-possession (*aparigraha*). Their daily life centers on scriptural study, meditation, ethical instruction to lay communities, and careful observance of conduct rules designed to minimize harm to living beings. Śvetāmbara nuns typically wear white robes and may use regulated items such as the *muhapatti* (mouth-cover) or *rajoharaṇa* (broom), while Digambara nuns (āryikās) follow a distinct discipline that includes wearing simple white garments and maintaining strict dietary and mobility rules.\n\nHistorically, Jain nuns have played major roles in manuscript preservation, community education, and the transmission of ethical teachings. Texts such as the *Ācārāṅga Sūtra*, *Bhagavatī Sūtra*, and *Vyavahāra Bhāṣya* contain early references to female mendicants, indicating that women were part of the monastic community from the earliest strata of Jain literature. Modern Jain nuns continue to contribute to scholarship, social service, and ethical outreach, while adhering to lineage-specific rules and receiving guidance from qualified monastic authorities.\n\nBecause monastic vows involve lifelong commitments, Jain traditions emphasize careful preparation, mentorship, and the necessity of guidance from authorized teachers. Laypersons are encouraged to seek instruction from qualified human experts when exploring monastic history or considering the meaning of renunciation.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara Canon)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "सीलव्रतसमितिगुत्तो भिक्खू…",
+      "transliteration": "śīlavrata-samiti-gutto bhikkhū…",
+      "translation": "“A mendicant protected by conduct, vows, and carefulness…” (partial line; describes general mendicant discipline applicable to monks and nuns).",
+      "notes": "The *Ācārāṅga* outlines foundational rules for mendicants, including careful movement, speech, and possession. Although not always gender-specific, commentarial traditions apply these rules to nuns as part of the monastic code."
+    },
+    {
+      "title": "Bhagavatī Sūtra (Vyākhyāprajñapti)",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "ते त्ति भिक्खू भिक्खुणीओ…",
+      "transliteration": "te ti bhikkhū bhikkhuṇīo…",
+      "translation": "“There are monks and nuns…” (partial line; acknowledges both male and female mendicants within the community).",
+      "notes": "This text contains narrative dialogues that reference nuns as part of the broader mendicant community, indicating their presence in early Jain tradition."
+    },
+    {
+      "title": "Vyavahāra Bhāṣya (Digambara tradition)",
+      "author": "Kundakunda (attributed)",
+      "original_text": "साध्वीणं अप्पगिलाणविहारे…",
+      "transliteration": "sādhvīṇaṃ appagilāṇavihāre…",
+      "translation": "“For nuns, the conduct free of negligence…” (partial line; describes disciplinary expectations for Digambara nuns).",
+      "notes": "The *Bhāṣya* provides guidance on mendicant conduct, including rules applied to āryikās. Exact interpretations vary by lineage."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain nuns follow identical rules across all sects.",
+      "reality": "Disciplinary codes differ significantly between Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth traditions. Each lineage has its own ordination procedures, permitted items, and mobility rules."
+    },
+    {
+      "myth": "Nuns primarily perform ritual worship.",
+      "reality": "While some Śvetāmbara traditions include ritual elements, the core of monastic life is ethical discipline, scriptural study, and teaching. Many sects—especially Sthānakavāsī and Terāpanth—emphasize non-idolatrous practice."
+    },
+    {
+      "myth": "Female monasticism is a later development in Jainism.",
+      "reality": "Primary texts such as the *Bhagavatī Sūtra* and early commentaries reference nuns, indicating that women were part of the mendicant community from the earliest canonical layers."
+    }
+  ]
+}

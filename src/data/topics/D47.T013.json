@@ -1,0 +1,59 @@
+{
+  "overview": "In Jain intellectual history, **logic (tarka, nyāya, anumāna)** is not merely a technical discipline but a foundational method for understanding reality, evaluating knowledge, and supporting the path toward liberation. Jain thinkers developed a distinctive logical tradition that integrates epistemology (pramāṇa), ontology (dravya–guṇa–paryāya), and perspectival analysis (anekāntavāda and syādvāda). Their approach emphasizes that truth is multifaceted, and logical reasoning must account for the complexity of real entities.\n\nFrom early canonical discussions in the *Āgamas* to the sophisticated treatises of medieval philosophers, Jain logic evolved into one of the major schools of classical Indian reasoning. It is characterized by three pillars: **(1) epistemic rigor**, distinguishing valid and invalid cognition; **(2) perspectival logic**, which structures statements according to conditional predication; and **(3) inferential analysis**, which outlines how knowledge arises from signs and reasons. Jain logic is not purely abstract—it is tied to ethical conduct, because right knowledge (samyag‑jñāna) is one of the three jewels (ratnatraya) essential for liberation.\n\nThe tradition includes contributions from both Digambara and Śvetāmbara lineages. Early sources such as the *Nandī Sūtra* and *Anuyogadvāra Sūtra* classify types of knowledge and reasoning. Later scholars—Umāsvāti/Umāsvāmi, Siddhasena Divākara, Akalaṅka, Haribhadra, Vidyānanda, Hemacandra, and Yaśovijaya—systematized Jain logic into a robust philosophical discipline. Their works engage with Buddhist, Nyāya, and Mīmāṃsā schools, often defending Jain perspectival realism against absolutist claims.\n\nIn modern scholarship, Jain logic is recognized for its contributions to multi‑valued reasoning, conditional statements, and pluralistic epistemology. However, traditional texts remain the authoritative foundation, and interpretations must be grounded in verified editions and commentaries.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "प्रमाणान्यनुभवः",
+      "transliteration": "pramāṇāny anubhavaḥ",
+      "translation": "Valid cognition is direct experience.",
+      "notes": "Chapter 1 of the *Tattvārtha Sūtra* outlines categories of knowledge, including perception, inference, and scriptural testimony. The text is accepted across Jain traditions and provides a concise foundation for Jain epistemology."
+    },
+    {
+      "title": "Nandī Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "तत्तो नंदि नामं सुत्तं, णाणस्स णाणविहाणं वक्खाणइ।",
+      "transliteration": "tatto nandi nāmaṃ suttaṃ, ṇāṇassa ṇāṇavihāṇaṃ vakkhāṇaï.",
+      "translation": "Thus begins the Nandī Sūtra, which explains the varieties of knowledge.",
+      "notes": "The *Nandī Sūtra* classifies pramāṇas and naya viewpoints, forming an early canonical basis for Jain logical analysis."
+    },
+    {
+      "title": "Aptamīmāṃsā",
+      "author": "Siddhasena Divākara",
+      "original_text": "सयवस्स ववहारो, णिव्वाणस्स त्थिदो।",
+      "transliteration": "sayavassa vavahāro, ṇivvāṇassa tthido.",
+      "translation": "Conditional predication belongs to worldly discourse; the liberated state is beyond such usage.",
+      "notes": "This text is a foundational treatise on syādvāda, explaining how conditional statements reflect the complexity of reality."
+    },
+    {
+      "title": "Nyāyāvatāra",
+      "author": "Siddhasena Divākara",
+      "original_text": "प्रमाणं तावद् द्विविधं प्रत्यक्षमनुमानं च।",
+      "transliteration": "pramāṇaṃ tāvad dvividhaṃ pratyakṣam anumānaṃ ca.",
+      "translation": "There are two kinds of valid knowledge: perception and inference.",
+      "notes": "A concise manual of Jain logic, often studied with commentaries by Akalaṅka and others."
+    },
+    {
+      "title": "Aṣṭaśatī (Commentary on Nyāyāvatāra)",
+      "author": "Akalaṅka",
+      "original_text": "अनेकान्ताद् विनाऽर्थानां नोपपत्तिः।",
+      "transliteration": "anekāntād vinā'rthānāṃ nopapattiḥ.",
+      "translation": "Without non‑one‑sidedness, the explanation of things is impossible.",
+      "notes": "Akalaṅka is one of the most influential Digambara logicians. His works defend Jain epistemology against Buddhist and Nyāya critiques."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain logic is simply a form of relativism where all viewpoints are equally true.",
+      "reality": "Jain logic asserts that truth is multifaceted, not arbitrary. Anekāntavāda and syādvāda require disciplined analysis of conditions, contexts, and ontological states. Some statements are valid only under specific conditions, and false under others."
+    },
+    {
+      "myth": "Jain logic rejects classical inference and relies only on perspectival reasoning.",
+      "reality": "Jain philosophers developed sophisticated inferential systems comparable to other Indian logical schools. Perspectival logic complements, rather than replaces, standard inference."
+    },
+    {
+      "myth": "Syādvāda means that every statement must include sevenfold predication.",
+      "reality": "The sevenfold schema is a pedagogical tool. In practice, Jain texts apply conditional predication selectively, depending on the complexity of the subject."
+    }
+  ]
+}

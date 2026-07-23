@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, the term *caturvidha saṅgha* (fourfold community) refers to the complete social and spiritual structure envisioned for sustaining the Jain path. It consists of monks (*sādhu*), nuns (*sādhvī*), laymen (*śrāvaka*), and laywomen (*śrāvikā*). This structure appears across both Digambara and Śvetāmbara traditions, though each lineage interprets the roles and disciplines with its own doctrinal nuances.\n\nThe fourfold sangha is not merely a sociological grouping; it is a doctrinally significant concept rooted in early canonical texts. It expresses the idea that liberation-oriented practice requires a mutually supportive ecosystem. Ascetics preserve and transmit the teachings through renunciation, scriptural study, and disciplined conduct. Lay followers sustain the ascetics materially and cultivate ethical conduct appropriate to household life. Together, these four groups maintain the continuity of *dharma* across generations.\n\nIn early Jain narratives, the establishment of a fourfold sangha by each *tīrthaṅkara* is considered a defining event in the formation of a *tīrtha* (ford across saṃsāra). The sangha is thus part of the cosmological and historical identity of Jainism. Texts such as the *Ācārāṅga Sūtra*, *Kalpa Sūtra*, and *Tiloyapaṇṇatti* describe the sangha as essential for preserving right knowledge (*samyag‑jñāna*), right faith (*samyag‑darśana*), and right conduct (*samyak‑cāritra*).\n\nModern scholarship notes that the fourfold sangha also reflects Jainism’s emphasis on gender inclusivity in spiritual pursuit, with canonical recognition of both male and female ascetics and lay practitioners. However, interpretations of ascetic eligibility and ritual roles differ between Digambara and Śvetāmbara traditions. Despite these differences, the fourfold sangha remains a shared conceptual foundation across Jain communities.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to the early Jain community; Śvetāmbara canon",
+      "original_text": "सव्वे जीवा अत्तस्स परस्स च सुहदुक्खा सहंति",
+      "transliteration": "savve jīvā attassa parassa ca suhadukkhā sahaṃti",
+      "translation": "“All living beings experience pleasure and pain in themselves and in relation to others.”",
+      "notes": "While the Ācārāṅga Sūtra does not list the fourfold sangha explicitly, it establishes the ethical foundation for ascetic and lay conduct. Later commentaries link its prescriptions to the roles of monks, nuns, laymen, and laywomen."
+    },
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "तत्थ मग्गं देसइ, सग्गं चतुव्विहं",
+      "transliteration": "tattha maggaṃ desai, saggaṃ catuvvihaṃ",
+      "translation": "“There he teaches the path, and establishes the fourfold community.”",
+      "notes": "This passage appears in the narrative of Mahāvīra’s life, describing the formation of the fourfold sangha. The Kalpa Sūtra is a key Śvetāmbara text used during Paryuṣaṇa."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha",
+      "original_text": "साहू साहूइओ णं, णेहं णेहइओ णं",
+      "transliteration": "sāhū sāhūio ṇaṃ, ṇehaṃ ṇehaio ṇaṃ",
+      "translation": "“Monks and nuns, laymen and laywomen…”",
+      "notes": "A Digambara cosmological text that explicitly enumerates the fourfold sangha when describing the establishment of a tīrtha. The text is important for understanding Digambara perspectives on community structure."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The fourfold sangha is identical across all Jain traditions.",
+      "reality": "While the basic structure is shared, Digambara and Śvetāmbara traditions differ in their interpretations of ascetic eligibility, clothing, scriptural authority, and ritual roles."
+    },
+    {
+      "myth": "Laypeople are secondary or marginal in Jain practice.",
+      "reality": "Primary texts consistently emphasize the indispensable role of lay followers in sustaining the sangha, supporting ascetics, and practicing ethical disciplines appropriate to household life."
+    },
+    {
+      "myth": "The sangha is only a historical concept and has little relevance today.",
+      "reality": "Contemporary Jain communities continue to organize religious life around the fourfold sangha, including education, ritual, ethical practice, and community service."
+    }
+  ]
+}

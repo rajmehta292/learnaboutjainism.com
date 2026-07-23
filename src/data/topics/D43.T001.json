@@ -1,0 +1,43 @@
+{
+  "overview": "The **fourfold saṅgha** (caturvidha saṅgha) is a foundational social and spiritual structure in Jain tradition, referenced across early Śvetāmbara and Digambara canonical literature. It denotes the complete community of Jain adherents who preserve, transmit, and practice the teachings of the Jinas. The four components are: **muni** (male monastics), **āryikā/sādhvī** (female monastics), **śrāvaka** (laymen), and **śrāvikā** (laywomen). Together, they form the full ecosystem necessary for sustaining Jain dharma, including scriptural preservation, ethical practice, ritual life, and community support.\n\nIn early canonical texts, the saṅgha is described not as an institution with centralized authority but as a living network of practitioners who collectively uphold ahiṃsā, anekāntavāda, and the vows appropriate to their station. Monastics embody the ideal of renunciation, while lay followers maintain households, support monastic communities, and practice graded vows (aṇu-vratas). The fourfold structure is also central to Jain narratives of the tīrthaṅkaras, who are said to establish a saṅgha during their teaching period (samavasaraṇa), enabling the transmission of dharma across generations.\n\nDifferent Jain traditions—Śvetāmbara Mūrtipūjaka, Sthānakavāsī, Terāpanth, and Digambara—share the basic concept of the fourfold saṅgha but differ in historical developments, monastic regulations, and interpretations of canonical passages. Despite these variations, the fourfold saṅgha remains a unifying concept that expresses the interdependence of renunciants and householders in the Jain path.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; Śvetāmbara canon",
+      "original_text": "सव्वे णं णाणिणो णाणिणं णाणिणो सग्गं चउव्विहं।",
+      "transliteration": "savveṇaṃ ṇāṇiṇo ṇāṇiṇaṃ ṇāṇiṇo saggaṃ cauvvihaṃ",
+      "translation": "“All who know (the doctrine) know that the saṅgha is fourfold.”",
+      "notes": "This passage appears in discussions of community structure and the transmission of teachings. Exact wording varies across manuscripts; the line is often cited in traditional commentaries to establish the canonical basis for the fourfold saṅgha."
+    },
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "तत्थ णं भगवाऐ चउव्विहो संघो पवत्तो।",
+      "transliteration": "tattha ṇaṃ bhagavāe cauvviho saṅgho pavatto",
+      "translation": "“There the Blessed One established the fourfold saṅgha.”",
+      "notes": "Appears in narrative sections describing Mahāvīra’s teaching period. The text emphasizes the formation of monastic and lay communities around the Jina."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सङ्घो जिनशासनस्य।",
+      "transliteration": "saṅgho jinaśāsanasya",
+      "translation": "“The saṅgha is the community belonging to the Jina’s teaching.”",
+      "notes": "Commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi) explicitly define the saṅgha as consisting of monks, nuns, laymen, and laywomen. The sūtra itself is concise, requiring commentary for full interpretation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The fourfold saṅgha refers only to monastics.",
+      "reality": "Canonical texts consistently define the saṅgha as including both monastics and lay followers. Lay practitioners are essential for sustaining the material and social conditions of Jain practice."
+    },
+    {
+      "myth": "The structure of the fourfold saṅgha is identical across all Jain traditions.",
+      "reality": "While the fourfold division is universal, Digambara and Śvetāmbara traditions differ in monastic rules, ordination practices, and historical developments. These variations do not negate the shared conceptual framework."
+    },
+    {
+      "myth": "The fourfold saṅgha is a rigid hierarchy with monastics at the top.",
+      "reality": "Texts describe interdependence rather than hierarchy. Monastics rely on lay support, and laypeople rely on monastic guidance. Each group has distinct vows and responsibilities appropriate to its role."
+    }
+  ]
+}

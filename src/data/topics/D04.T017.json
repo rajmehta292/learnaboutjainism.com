@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, the term *śarīra* (body) refers not only to the physical form but to a complex taxonomy of bodily structures that accompany the soul (*jīva*) across its transmigratory journey. These bodies are subtle, layered, and functionally distinct. They explain how karmic matter attaches to the soul, how perception and activity occur, and how liberation becomes possible. The doctrine is foundational in both Digambara and Śvetāmbara traditions, with minor terminological variations but broad conceptual agreement.\n\nJain texts describe **five principal bodies**: *audārika* (gross physical body), *vaikriya* (transformative or protean body), *āhāraka* (translocative body), *taijasa* (fiery or energy body), and *kārmaṇa* (karmic body). Some traditions also discuss additional classifications such as *bhāva śarīra* (psychical body) or *no-karma bodies*, but the core five remain standard.\n\nThe **gross physical body** is the familiar biological form, arising from the *audārika-nāma-karma*. The **vaikriya body** is possessed by celestial beings, infernal beings, and certain advanced ascetics; it allows instantaneous transformation of shape and size. The **āhāraka body** is extremely rare and is produced only by advanced ascetics at the eleventh *guṇasthāna* for the purpose of seeking clarification from omniscient beings. The **taijasa body** is composed of subtle fiery matter and enables digestion, vitality, and the functioning of the senses. The **kārmaṇa body** is the most subtle, consisting of karmic particles that bind the soul until liberation.\n\nThese bodies coexist simultaneously, except in liberated souls (*siddhas*), who retain no bodies at all. The doctrine serves as a metaphysical explanation for perception, movement, karmic bondage, and the extraordinary capacities attributed to celestial beings and advanced ascetics. It also provides a framework for understanding how karmic matter persists across lifetimes and how liberation requires the destruction of the *kārmaṇa śarīra*.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (shared across Digambara and Śvetāmbara traditions)",
+      "original_text": "आहारकवैक्रियौदारिकतैजसकर्मणि शरीराणि",
+      "transliteration": "āhārakavaikriyau dārikataijasakarmaṇi śarīrāṇi",
+      "translation": "The bodies are: āhāraka, vaikriya, audārika, taijasa, and karmic.",
+      "notes": "Tattvārtha Sūtra 2.37 provides the canonical list of the five bodies. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārthavṛtti* (Śvetāmbara) elaborate on their functions and conditions of formation."
+    },
+    {
+      "title": "Gommatasāra (Jīvakāṇḍa)",
+      "author": "Nemichandra Siddhānta Chakravartin (Digambara)",
+      "original_text": "कर्म शरीरं जीवस्य अनादिनिधनं",
+      "transliteration": "karma śarīraṃ jīvasya anādi-nidhanaṃ",
+      "translation": "The karmic body of the soul is without beginning and persists until liberation.",
+      "notes": "This text provides detailed technical descriptions of the karmic body, its constituents, and its role in bondage."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Kundakunda (Digambara)",
+      "original_text": "तेजसा देहेण जीवो विहरति",
+      "transliteration": "tejasā deheṇa jīvo viharati",
+      "translation": "The soul operates through the taijasa body.",
+      "notes": "Kundakunda’s works emphasize the subtle bodies as instruments through which the soul interacts with matter."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that each body exists separately and sequentially across lifetimes.",
+      "reality": "Jain doctrine states that multiple bodies coexist simultaneously (e.g., gross, taijasa, and karmic bodies). Only liberated souls are without bodies."
+    },
+    {
+      "myth": "The āhāraka body is a common spiritual phenomenon accessible to all advanced practitioners.",
+      "reality": "The āhāraka body is extremely rare and arises only at the eleventh guṇasthāna for a specific doctrinal purpose—seeking clarification from omniscient beings."
+    },
+    {
+      "myth": "The vaikriya body is a mythological concept referring to magical transformations.",
+      "reality": "Canonical texts describe the vaikriya body as a subtle material body possessed by celestial and infernal beings, enabling instantaneous transformation; it is not merely symbolic."
+    }
+  ]
+}

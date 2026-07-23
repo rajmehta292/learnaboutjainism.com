@@ -1,0 +1,43 @@
+{
+  "overview": "Digital practice in contemporary Jain communities refers to the use of electronic media, online platforms, and digital tools to support learning, reflection, and community engagement while remaining aligned with the core principles of ahiṃsā, self-restraint, and scriptural fidelity. Because Jainism traditionally emphasizes direct transmission through teachers, texts, and lived discipline, digital practice is not considered a replacement for embodied sādhanā but rather a supplementary mode of access for laypeople, youth, diaspora communities, and researchers.\n\nIn most traditions, digital practice includes listening to recorded pravacanas, participating in virtual satsaṅga, accessing digitized manuscripts, using apps for daily recitation, and engaging with online study groups. These practices are framed as aids to śruta-jñāna (scriptural knowledge) rather than substitutes for ritual, ethical conduct, or guidance from qualified human teachers. Digital tools also support manuscript preservation, cataloging, and comparative study, especially through initiatives that digitize Śvetāmbara and Digambara canonical literature.\n\nEthical considerations arise around distraction, commercialization, misinformation, and the risk of treating digital content as authoritative without verifying its source. Therefore, responsible digital practice emphasizes source-grounded study, transparency of lineage, and careful distinction between primary texts, commentaries, and modern interpretations. Digital practice is most effective when used to deepen understanding, support daily reflection, and maintain connection with community, while avoiding claims of spiritual authority or ritual sufficiency.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "श्रुतज्ञानान् ज्ञानम्",
+      "transliteration": "śrutajñānān jñānam",
+      "translation": "Scriptural knowledge is a form of knowledge.",
+      "notes": "This sutra (Tattvārtha Sūtra 1.19) is frequently cited to justify the value of learning through mediated forms, including digital access, provided the sources are authentic and verified. It does not endorse digital practice directly but establishes the principle that hearing and studying teachings is a legitimate mode of knowledge."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं णं णं सुणह",
+      "transliteration": "ṇaṃ ṇaṃ ṇaṃ suṇaha",
+      "translation": "Listen attentively.",
+      "notes": "This imperative appears in various recensional contexts and emphasizes attentive listening as a foundational discipline. Digital listening (e.g., recorded discourses) is sometimes framed as an extension of this principle, though traditional teachers stress that attentive listening requires ethical preparation and proper context."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Attributed to Śivārya",
+      "original_text": "धम्मं सुणंतु सव्वे",
+      "transliteration": "dhammaṃ suṇantu savve",
+      "translation": "Let all listen to the Dharma.",
+      "notes": "Often quoted in community education to support inclusive access to teachings. Digital dissemination is seen as a modern means of enabling broader listening, though not a substitute for disciplined practice."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Digital practice can replace traditional rituals, vows, or in-person guidance.",
+      "reality": "Across Jain traditions, digital tools are considered supplementary. Rituals, ethical vows, and advanced study require qualified human guidance and embodied practice."
+    },
+    {
+      "myth": "Any Jain content found online is authoritative.",
+      "reality": "Digital content varies widely in accuracy. Verified primary texts, reviewed commentaries, and lineage-based teachings must be distinguished from unverified or commercial material."
+    },
+    {
+      "myth": "Using digital tools for study is a modern innovation without precedent.",
+      "reality": "While digital media are new, mediated learning—such as listening to recitation, copying manuscripts, or studying commentaries—has long been part of Jain tradition. Digital practice continues this lineage of mediated access, though with new risks and responsibilities."
+    }
+  ]
+}

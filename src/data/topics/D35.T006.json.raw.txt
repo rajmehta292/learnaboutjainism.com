@@ -1,0 +1,57 @@
+{
+  "overview": "Digambara Terapanth is a reformist sub‑tradition within the Digambara branch of Jainism that crystallized in the 17th century in the Jaipur region of present‑day Rajasthan, particularly around Sanganer, Amer, and Jaipur. It emerged as a distinct current over against the older Digambara mainstream, which retrospectively came to be called Bispanthi, and is therefore best understood as an internal Digambara reform rather than a separate sect outside the Digambara fold. [[0]](https://en.wikipedia.org/wiki/Digambara_Terapanth)\n\nHistorically, Terapanth grew out of the Adhyatma (“inner spirituality”) movement that began in Agra around 1626 CE (V.S. 1683), associated with lay intellectuals such as Banarasidas and later poets like Dyanatrai. These circles emphasized introspective spirituality, scriptural study, and a critical stance toward what they perceived as ritual excess and institutional domination. Within this climate, prominent merchants Amra Bhaunsa Godika and his son Jodhraj Godika of Sanganer led a group that, between about 1664–1667, openly opposed the authority of Bhattaraka Narendrakirti of Amber, the local representative of the Digambara bhattaraka hierarchy. [[0]](https://en.wikipedia.org/wiki/Digambara_Terapanth)\n\nThe name “Terapanth” is traditionally explained as referring to a group of thirteen (tera) individuals who cooperated to build a new temple and establish a reformed pattern of worship; another interpretive strand reads “tera” as “your” (i.e., the Lord’s) path, but the numerical etymology is the one most commonly cited in historical sources. In the royal capital of Jaipur, King Jai Singh II (1688–1743) recognized the growing division by sponsoring separate temples for Bispanthi and Terapanthi Digambaras, indicating that the distinction had become socially and ritually salient by the early 18th century. [[0]](https://en.wikipedia.org/wiki/Digambara_Terapanth)\n\nDoctrinally, Digambara Terapanth does not introduce new philosophical principles beyond classical Digambara Jainism; rather, it reconfigures practice and authority. Terapanthis affirm core Digambara teachings on karma, non‑violence (ahiṃsā), non‑possession (aparigraha), and the path to liberation, and they accept the same major Digambara scriptural and doctrinal corpus (such as the Ṣaṭkhaṅḍāgama and the works of Kundakunda) as normative. Their reform lies in insisting on direct engagement with scripture and inner spiritual discipline (adhyātma‑sādhana), while rejecting what they saw as accretions: elaborate ritual offerings, the worship of minor deities, and the mediating authority of bhattarakas in temple life. [[0]](https://en.wikipedia.org/wiki/Digambara_Terapanth) [[1]](https://www.wikiwand.com/en/articles/Digambar_Jain)\n\nIn ritual practice, Terapanthis oppose the worship of subsidiary gods and goddesses and restrict devotional focus to the Jinas (Tirthankaras). They are known for rejecting the use of flowers and certain other perishable offerings in temple worship, arguing that such practices conflict with non‑violence and simplicity. Over time, some of these reforms—especially the avoidance of flowers—spread beyond Terapanth circles and influenced broader North Indian Digambara practice, blurring the visible boundary between Terapanthi and non‑Terapanthi communities in some regions. Nevertheless, Terapanthi identity remains marked by a self‑conscious emphasis on scriptural purity, restrained ritual, and lay‑driven spiritual initiatives. [[0]](https://en.wikipedia.org/wiki/Digambara_Terapanth)\n\nSeveral influential lay scholars and authors are associated with the Terapanth movement, including Daulatram Kasliwal and Pandit Todarmal, whose works systematized Digambara doctrine for lay audiences and reinforced the movement’s focus on rational, text‑based exposition of the path to liberation. Todarmal’s son, Gumaniram, later founded a stricter sub‑tradition known as Gumanapantha in the 1770s, sometimes described as “śuddha Terapantha amana” (pure Terapanth tradition), which tightened ritual rules and further minimized external forms of worship. Bakhtaram’s 18th‑century drama “Mithyātva‑khaṇḍana‑nāṭaka” preserves early narrative memories of the founding group and their opposition to bhattaraka control. [[0]](https://en.wikipedia.org/wiki/Digambara_Terapanth)\n\nFrom a historical‑critical perspective, much of what is known about Digambara Terapanth comes from later narrative, community histories, and modern scholarship, and there is some uncertainty about details such as the exact composition of the founding group, the internal diversity of early Adhyatma circles, and the degree to which royal patronage shaped the movement’s trajectory. The broad contours, however—17th‑century origins in the Jaipur region, roots in the Adhyatma movement, opposition to bhattaraka authority, reform of ritual practice, and enduring influence on North Indian Digambara worship—are consistently attested across independent sources. Modern researchers therefore treat Terapanth as a paradigmatic example of an early‑modern Jain reform movement that remained firmly within the doctrinal boundaries of its parent sect while significantly reshaping its institutional and ritual life.",
+  "primary_sources": [
+    {
+      "title": "Mithyātva-khaṇḍana-nāṭaka",
+      "author": "Bakhtaram (Bhakṭarāma)",
+      "original_text": "मिथ्यात्वखण्डननाटक",
+      "transliteration": "Mithyātva-khaṇḍana-nāṭaka",
+      "translation": "“The Drama of Refuting Wrong Belief”",
+      "notes": "An 18th‑century Digambara dramatic work that includes narrative references to the early Terapanth group and their opposition to bhattaraka authority. It is used by later historians to reconstruct the social memory of the movement’s founding, including the motif of thirteen lay leaders building a new temple. The text belongs to the broader Adhyatma‑oriented literary milieu that stresses inner spirituality and critique of ritual excess."
+    },
+    {
+      "title": "Ardhakathānaka",
+      "author": "Banārasīdās",
+      "original_text": "अर्धकथानक",
+      "transliteration": "Ardhakathānaka",
+      "translation": "“Half‑Story (Autobiographical Narrative)”",
+      "notes": "A seminal autobiographical work by the Agra‑based Jain lay intellectual Banarasidas (early 17th century), written in Braj‑bhasha. While not a Terapanth manifesto, it is a key primary source for the Adhyatma movement’s ethos: introspective self‑examination, emphasis on inner spirituality, and critical reflection on conventional ritual. These currents provided the spiritual and intellectual soil from which Digambara Terapanth later emerged."
+    },
+    {
+      "title": "Mokṣa-mārga-prakāśaka",
+      "author": "Paṇḍit Toḍarmal",
+      "original_text": "मोक्षमार्गप्रकाशक",
+      "transliteration": "Mokṣa-mārga-prakāśaka",
+      "translation": "“Illuminator of the Path to Liberation”",
+      "notes": "A major doctrinal treatise by the lay scholar Pandit Todarmal, closely associated with the Terapanth reform milieu. Composed in Hindi with extensive use of Sanskrit and Prakrit terminology, it systematizes Digambara teachings on right faith, right knowledge, and right conduct, and reflects the Terapanthi emphasis on scriptural clarity, rational exposition, and lay access to doctrinal knowledge. It became highly influential among North Indian Digambara communities."
+    },
+    {
+      "title": "Adhyātma-granthāvali (various Adhyatma texts)",
+      "author": "Various (including Dhyānatrāi and other Adhyatma authors)",
+      "original_text": "अध्यात्म ग्रन्थावली",
+      "transliteration": "Adhyātma-granthāvali",
+      "translation": "“Collection of Adhyatma (Inner Spirituality) Texts”",
+      "notes": "A loose designation for the corpus of Adhyatma‑oriented texts circulating in Agra, Lahore, Multan, and other centers between the early and mid‑17th century. These works, often in vernaculars with Prakrit and Sanskrit citations, stress inner realization, meditation, and direct understanding of Jain doctrine. They form the broader textual environment from which Terapanth’s reformist orientation—especially its focus on inner spirituality over external ritual—developed."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Digambara Terapanth is the same as the Śvetāmbara Terāpanth founded by Ācārya Bhikṣu.",
+      "reality": "Despite the similarity of names, Digambara Terapanth and Śvetāmbara Terāpanth are historically and doctrinally distinct traditions. Digambara Terapanth is a 17th‑century reform movement within the Digambara sect in the Jaipur region, rooted in the Adhyatma movement and opposition to bhattaraka authority. Śvetāmbara Terāpanth, by contrast, is an 18th‑century Śvetāmbara reform tradition founded by Ācārya Bhikṣu in Rajasthan, with its own lineage, monastic organization, and doctrinal emphases."
+    },
+    {
+      "myth": "Terapanthis reject all image worship and are therefore non‑iconic.",
+      "reality": "Digambara Terapanth is not a non‑iconic or image‑rejecting movement. Terapanthis continue to venerate images of the Jinas (Tirthankaras) in temples, in continuity with mainstream Digambara mūrti‑pūjā. Their reform concerns the manner of worship: they oppose the worship of minor deities and certain ritual offerings (such as flowers) and emphasize simplicity, non‑violence, and inner spiritual focus, rather than abolishing images altogether."
+    },
+    {
+      "myth": "Terapanth introduced a new philosophy different from classical Digambara Jainism.",
+      "reality": "Terapanth does not claim a new philosophical system; it accepts the standard Digambara doctrinal framework on karma, liberation, and ethical conduct. Its distinctiveness lies in institutional and ritual reform—challenging bhattaraka control, promoting lay scriptural study, and simplifying worship—while remaining within the established Digambara philosophical and scriptural tradition."
+    }
+  ]
+}
+
+
+
+> [0] [Digambara Terapanth - Wikipedia](https://en.wikipedia.org/wiki/Digambara_Terapanth)
+>
+> [1] [Digambara - Wikiwand](https://www.wikiwand.com/en/articles/Digambar_Jain)

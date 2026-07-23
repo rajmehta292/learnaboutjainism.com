@@ -1,0 +1,43 @@
+{
+  "overview": "Malayagiri (often styled Ācārya Malayagiri) is a prominent Śvetāmbara Jain scholar of the late 11th–12th centuries, known primarily for his Sanskrit commentaries on canonical Jain scriptures and for his independent works in grammar and philosophy. He belongs to the long exegetical tradition that sought to clarify the Ardhamāgadhī and Prakrit Āgamas for later generations by composing detailed Sanskrit vṛttis (commentaries). In modern scholarship he is regularly listed alongside other major Śvetāmbara commentators such as Śīlaṅka and Abhayadeva, forming an important layer in the history of Jain hermeneutics.\n\nChronologically, Malayagiri is generally placed between the late 11th and early 13th century of the Common Era and is often regarded as a near-contemporary of the celebrated polymath Hemacandra. His works show familiarity with a wide range of philosophical literature, both Jain and non-Jain, and they frequently engage with Buddhist, Mīmāṃsā, and other Brahmanical positions. This intertextuality is especially visible in his commentary on the Nandīsūtra, where he cites and discusses sources such as Dharmakīrti’s Pramāṇavārttika (via Prajñākaragupta’s Vārtikālaṅkāra), Haribhadra’s Śāstravārtāsamuccaya, and other classical texts.\n\nWithin the Śvetāmbara tradition, Malayagiri is best known for his canonical commentaries (vṛttis) on several Āgamas, including the Nandīsūtra, a text that treats the five kinds of knowledge (jñānapañcaka) and related epistemological topics. His commentary elaborates on categories of knowledge, the nature of perception and inference, and the gradations of spiritual cognition, often using technical terminology drawn from wider Indian philosophical debates. These commentaries are valued not only for doctrinal clarification but also for preserving fragments and quotations from otherwise lost or difficult-to-access works.\n\nBeyond scriptural exegesis, Malayagiri also composed the Śabdānuśāsana, a substantial treatise on Sanskrit grammar from a Jain perspective. This work, transmitted with an auto-commentary, situates Jain grammatical thought within the broader landscape of Indian linguistics, engaging with and sometimes critiquing other grammatical schools. Modern editors and scholars have highlighted the Śabdānuśāsana as an important comparative resource alongside grammars by Jainendra, Śākaṭāyana, and Hemacandra, noting Malayagiri’s systematic treatment of topics such as sandhi, nominal declension, verbal conjugation, and derivative formations.\n\nMalayagiri’s name also appears in connection with the Panch Saṅgraha (Pañcasaṅgraha), a text on Jain karma doctrine originally composed by Ācārya Candramahattara, for which Malayagiri provided a commentary. In this context he is remembered as a careful systematizer of karmavāda, integrating discussions of time (kāla), nature (svabhāva), destiny (niyati), and human effort (puruṣārtha) into a coherent framework. His treatment of karma reflects the broader Jain concern with explaining moral causality without reducing it to a single principle.\n\nIn later narrative and doctrinal literature, Malayagiri is occasionally mentioned as an authority on topics related to jīvas (souls) and narakas (hell realms), contributing to the understanding of Jain cosmology and the conditions of suffering. These references underline his role as a commentator whose work helped shape the way subsequent generations understood the structure of the universe, the classification of living beings, and the consequences of karmic bondage.\n\nModern scholarship continues to study Malayagiri’s contributions, especially through critical editions of his commentaries and grammatical works. Researchers emphasize both the richness and the complexity of his exegetical style, noting that his writings are part of a vast and still only partially explored corpus of Jain commentary literature. Because many of his texts survive in multiple manuscript traditions, questions of dating, textual variants, and doctrinal nuance remain active areas of investigation, and detailed conclusions often require consultation with qualified Jain scholars and philologists.",
+  "primary_sources": [
+    {
+      "title": "Nandīsūtra-vṛtti (Commentary on the Nandīsūtra)",
+      "author": "Ācārya Malayagiri",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Malayagiri’s commentary on the Nandīsūtra explains the five kinds of knowledge recognized in Jain epistemology, elaborating categories such as sensory cognition, scriptural knowledge, clairvoyance, telepathy, and omniscience. He situates these forms of knowledge within a broader philosophical context, responding to non-Jain theories and clarifying how right knowledge functions in the path to liberation.",
+      "notes": "The Nandīsūtra is a Śvetāmbara canonical text in Ardhamāgadhī that focuses on jñānapañcaka (fivefold knowledge). Malayagiri’s Sanskrit vṛtti, published in modern times from manuscript sources, is notable for its extensive philosophical quotations and cross-references. Because the surviving editions involve complex textual history, precise wording and line references should be checked against a critical edition and, where possible, with guidance from qualified Jain scholars."
+    },
+    {
+      "title": "Śabdānuśāsana (with auto-commentary)",
+      "author": "Ācārya Malayagiri",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The Śabdānuśāsana is a Jain grammatical treatise that systematically presents rules for Sanskrit phonology, morphology, and syntax, often accompanied by Malayagiri’s own explanatory commentary. It addresses topics such as euphonic combination (sandhi), nominal declension, verbal conjugation, and derivative formations, while occasionally engaging in philosophical discussion and critique of other grammatical traditions.",
+      "notes": "Edited in the twentieth century with an introduction and appendices, the Śabdānuśāsana is considered an important contribution to Jain and Indian grammatical literature. The text reflects Malayagiri’s deep familiarity with contemporary linguistic debates and his effort to articulate a Jain perspective on language. For exact sutras and grammatical examples, consultation of the critical edition and specialist studies is necessary."
+    },
+    {
+      "title": "Pañcasaṅgraha (Panch Saṅgraha) – Commentary",
+      "author": "Ācārya Malayagiri (commentator; original text by Ācārya Candramahattara)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "In his commentary on the Pañcasaṅgraha, Malayagiri expounds Jain karma doctrine, explaining the nature of karmic particles, their bondage to the soul, and the processes of influx, binding, and shedding. He integrates discussions of time, nature, destiny, and human effort, emphasizing that Jainism treats karma as one factor among several that shape the soul’s experience.",
+      "notes": "The Pañcasaṅgraha is a doctrinal text on karmavāda. Malayagiri’s commentary survives in manuscript and later printed forms, often accompanied by vernacular translations and explanatory notes. Because of the layered transmission, specific passages should be verified in reliable editions, and doctrinal interpretation should be cross-checked with other standard Jain karma texts and commentaries."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Malayagiri was a Digambara ācārya and part of the Digambara canonical lineage.",
+      "reality": "Available historical and textual evidence places Malayagiri within the Śvetāmbara tradition, where he is known for Sanskrit commentaries on Śvetāmbara Āgamas and for works like the Śabdānuśāsana. His role is distinct from Digambara canonical redactors and commentators."
+    },
+    {
+      "myth": "Malayagiri is primarily a legendary or mythic figure associated with a mountain or sacred site, rather than a historical author.",
+      "reality": "In Jain studies, “Malayagiri” refers to a historical scholar whose works are preserved in manuscripts and modern editions. While the name may resemble geographical or mythic terms, the Jain usage in this context clearly denotes an exegete and grammarian, not a purely symbolic or mythic entity."
+    },
+    {
+      "myth": "Malayagiri authored the original Jain Āgamas themselves.",
+      "reality": "The Jain Āgamas are much earlier canonical texts, traditionally attributed to the teachings of Mahāvīra and preserved by early Jain communities. Malayagiri did not compose these scriptures; he wrote later Sanskrit commentaries and independent treatises that interpret and systematize the already existing canonical material."
+    }
+  ]
+}

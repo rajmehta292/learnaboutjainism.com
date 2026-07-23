@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, **yantras** are geometric, symbolic diagrams used as aids for contemplation, ritual focus, and devotional visualization. They are not mechanical devices but sacred schemata that encode cosmological, ethical, and spiritual principles. Jain yantras appear in both Digambara and Śvetāmbara settings, though their usage, iconography, and ritual framing vary by lineage.\n\nHistorically, yantras emerge from broader Indic practices of sacred geometry, but Jain usage is distinct in its emphasis on *śuddhopayoga* (pure attention), non-theistic cosmology, and the centrality of the Jinas rather than deities who grant worldly boons. Many yantras are associated with **Tīrthaṅkaras**, **yakṣas/yakṣiṇīs**, or protective motifs found in medieval temple manuals. Others encode metaphysical structures such as the **loka** (cosmos), **karma categories**, or **meditation stages**.\n\nIn practice, yantras serve as visual anchors for **dhyāna** (meditation), **pūjā** (ritual veneration), and **svādhyāya** (study). They may be drawn on metal plates, paper, cloth, or engraved in stone. Their use is typically accompanied by recitation of canonical verses, reflection on the qualities of the Jinas, or contemplation of cosmological truths. Importantly, Jain yantras do not function as magical talismans; their purpose is ethical and spiritual refinement aligned with non-violence, non-possession, and right knowledge.\n\nCommon Jain yantras include the **Śrī Vīra Yantra** (associated with Mahāvīra), **Śrī Pārśvanātha Yantra**, **Śrī Padmāvatī Yantra**, and cosmological diagrams such as the **Jain Loka Yantra**. Their geometric forms—lotuses, triangles, circles, and mandalas—symbolize purity, stability, and the layered nature of reality. Medieval commentaries emphasize that the yantra is not worshipped as an independent power; rather, it is a pedagogical and contemplative tool pointing toward the qualities of the liberated beings.\n\nModern scholarship highlights that Jain yantras bridge ritual practice and philosophical abstraction, offering a visual grammar for complex doctrines such as karma theory, cosmology, and the path to liberation. Their interpretation requires careful attention to sectarian context, manuscript tradition, and the guidance of qualified teachers.",
+  "primary_sources": [
+    {
+      "title": "Bhaktamara Stotra (used in yantra-associated ritual contexts)",
+      "author": "Ācārya Māntuṅga",
+      "original_text": "जगदुद्धारकं नाथं वन्दे तद्भक्तमानसम्",
+      "transliteration": "jagaduddhārakaṃ nāthaṃ vande tadbhaktamānasam",
+      "translation": "I bow to the Lord who uplifts the world and purifies the minds of devotees.",
+      "notes": "While the Bhaktamara Stotra is not itself a yantra text, several medieval Jain ritual manuals pair specific verses with yantras for meditative focus. Usage varies by sect, and the stotra’s application to yantras is a later ritual development rather than a primary canonical instruction."
+    },
+    {
+      "title": "Jain Loka Diagram (Loka-pratimā sections in cosmological texts)",
+      "author": "Attributed to canonical cosmology in works such as the Tiloyapaṇṇatti",
+      "original_text": "लोयप्पहुट्ठे तिहि भुवणे",
+      "transliteration": "loyappahuṭṭhe tihi bhuvaṇe",
+      "translation": "The cosmos extends across its three realms.",
+      "notes": "Cosmological yantras often draw directly from canonical descriptions of the three worlds (upper, middle, lower). The Tiloyapaṇṇatti provides mathematical and spatial descriptions that later ritualists rendered into geometric yantras."
+    },
+    {
+      "title": "Śrī Pārśvanātha Yantra inscriptions (medieval temple manuals)",
+      "author": "Anonymous ritual compilers",
+      "original_text": "ॐ ह्रीं श्रीपार्श्वनाथाय नमः",
+      "transliteration": "oṃ hrīṃ śrīpārśvanāthāya namaḥ",
+      "translation": "Om hrīṃ, reverence to Śrī Pārśvanātha.",
+      "notes": "This formula appears in yantra inscriptions associated with Pārśvanātha. It is not part of the canonical āgamas but belongs to medieval ritual traditions. Sectarian commentaries differ on the role of seed syllables (bīja-mantras), with some Śvetāmbara lineages using them symbolically and Digambara scholars often treating them cautiously."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Yantras are magical objects that grant worldly boons or supernatural powers.",
+      "reality": "Jain yantras are contemplative diagrams meant to support meditation, ethical reflection, and devotion to the qualities of the Jinas. They do not function as talismans or instruments of supernatural intervention."
+    },
+    {
+      "myth": "All Jain sects use yantras in the same way.",
+      "reality": "Usage varies significantly. Digambara traditions often emphasize philosophical diagrams and may avoid mantra-heavy yantras, while Śvetāmbara Mūrtipūjaka lineages incorporate yantras into temple rituals. Sthānakavāsī and Terāpanth traditions generally minimize or avoid yantra use."
+    },
+    {
+      "myth": "Yantras are independent objects of worship.",
+      "reality": "Yantras are symbolic aids. The focus of reverence is always the Jinas and the path to liberation, not the diagram itself."
+    }
+  ]
+}

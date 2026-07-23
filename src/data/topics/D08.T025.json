@@ -1,0 +1,43 @@
+{
+  "overview": "Perception‑obscuring karma (darśanāvaraṇīya‑karma) is one of the four *ghātiyā* or destructive karmas in Jain philosophy. It is classified within the broader Jain karmic ontology as the type of karma that obstructs the soul’s innate capacity for *darśana*—non‑conceptual, immediate perception. Jain thinkers distinguish *darśana* from *jñāna* (cognitive knowledge): perception is the preliminary, direct awareness of an object, while knowledge is its determinate understanding. Perception‑obscuring karma therefore affects the soul at a foundational level, limiting its ability to apprehend reality even before conceptual thought arises.\n\nIn both Digambara and Śvetāmbara traditions, darśanāvaraṇīya‑karma is divided into four subtypes: (1) *cakṣu‑darśana‑āvaraṇīya* (obstructing visual perception), (2) *acakuṣu‑darśana‑āvaraṇīya* (obstructing non‑visual sensory perception), (3) *avadhi‑darśana‑āvaraṇīya* (obstructing clairvoyant perception), and (4) *kevala‑darśana‑āvaraṇīya* (obstructing omniperception). These subtypes reflect the Jain view that perception exists in multiple modes, some ordinary and some extraordinary. The karma does not create sensory organs or destroy them; rather, it limits the soul’s inherent perceptual capacities.\n\nAccording to the canonical karmic theory, perception‑obscuring karma binds to the soul due to activities rooted in negligence, anger, pride, deceit, and greed. Its fruition results in varying degrees of perceptual limitation, ranging from ordinary sensory dullness to the obstruction of higher spiritual perception. When this karma is fully shed—along with the other ghātiyā karmas—the soul attains *kevala‑jñāna*, perfect knowledge, and ultimately liberation (*mokṣa*).\n\nTraditional commentaries emphasize that perception‑obscuring karma operates in tandem with knowledge‑obscuring karma. While the former blocks the initial apprehension of objects, the latter blocks their determinate cognition. This distinction is central to Jain epistemology and is consistently maintained across sectarian traditions. Modern scholarship highlights the sophistication of this model, noting that Jainism treats perception not merely as a physiological process but as a metaphysical function of the soul itself.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "दर्शनावरणीयं चतुर्विधम्",
+      "transliteration": "darśanāvaraṇīyaṃ caturvidham",
+      "translation": "“Perception‑obscuring karma is of four kinds.”",
+      "notes": "Tattvārtha Sūtra 8.7 is the foundational pan‑Jain source enumerating the four subtypes of perception‑obscuring karma. Digambara and Śvetāmbara commentaries agree on the classification, though they differ in some interpretive details."
+    },
+    {
+      "title": "Gommatasāra (Karmakāṇḍa)",
+      "author": "Nemicandra Siddhānta‑cakravartin",
+      "original_text": "दस्सणावरइयकम्मं चउव्विहं",
+      "transliteration": "dassaṇāvaraïya‑kammaṃ cauvvihaṃ",
+      "translation": "“Perception‑obscuring karma is fourfold.”",
+      "notes": "A Digambara Prakrit exposition offering detailed analysis of the causes, duration, and intensity of perception‑obscuring karma."
+    },
+    {
+      "title": "Karmaprakṛti (Śvetāmbara tradition)",
+      "author": "Śrī Devagupta Sūri (attributed)",
+      "original_text": "दर्शनावरणकर्मणोऽवधिपर्यन्तं फलम्",
+      "transliteration": "darśanāvaraṇa‑karmaṇo ’avadhi‑paryantaṃ phalam",
+      "translation": "“The fruition of perception‑obscuring karma extends up to the obstruction of clairvoyant perception.”",
+      "notes": "A classical Śvetāmbara treatise elaborating the gradations of perceptual obstruction and their karmic causes."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Perception‑obscuring karma affects only physical eyesight.",
+      "reality": "Jain texts state that it obstructs multiple forms of perception, including non‑visual sensory awareness, clairvoyance, and omniperception. It is metaphysical, not merely physiological."
+    },
+    {
+      "myth": "Perception‑obscuring karma creates sensory organs or destroys them.",
+      "reality": "Jain doctrine holds that karma affects the soul’s perceptual capacity, not the physical organs. The organs are instrumental causes; karma is an obstructive cause."
+    },
+    {
+      "myth": "Perception and knowledge are the same, so perception‑obscuring karma is identical to knowledge‑obscuring karma.",
+      "reality": "Jain epistemology distinguishes non‑conceptual perception (*darśana*) from determinate knowledge (*jñāna*). Each has its own obstructing karma with different functions."
+    }
+  ]
+}

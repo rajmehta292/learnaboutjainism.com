@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, unintentional harm (often discussed under terms such as *akāmāyika hiṃsā*, *saṃkalpī/asaṃkalpī hiṃsā*, and *ārambhajā hiṃsā*) is a central ethical concern because the tradition places extraordinary emphasis on non‑violence (*ahiṃsā*) as both a moral and metaphysical principle. Jainism recognizes that living beings are everywhere and that some degree of harm may occur even without deliberate intent. The tradition therefore distinguishes between intentional harm, which binds heavy karma, and unintentional harm, which binds lighter but still significant karma depending on negligence, carelessness, and the degree of awareness present.\n\nUnintentional harm is not treated as morally neutral. Even when harm is accidental, Jain texts emphasize that the underlying mental states—carelessness (*pramāda*), lack of vigilance (*apramatta*), or attachment and aversion—can generate karmic bondage. The tradition therefore encourages laypeople and monastics to cultivate mindfulness, restraint, and carefulness in daily activities. This includes practices such as filtering water, sweeping the ground gently, avoiding nighttime eating, and minimizing occupations that inherently involve harm.\n\nDifferent Jain traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—agree on the basic principle that intention is the primary determinant of karmic weight, but they differ in the details of permissible lay occupations, ritual practices, and the interpretation of specific scriptural passages. Across all traditions, unintentional harm is understood as a reality of embodied life, something to be minimized through vigilance rather than a source of guilt or fatalism. The broader philosophical framework emphasizes that the soul’s purity is restored through right knowledge, right faith, and right conduct, which includes reducing both intentional and unintentional harm.\n\nIn modern Jain ethics, unintentional harm is discussed in relation to environmental impact, industrial production, medical practice, and technological development. Scholars and teachers highlight that while complete avoidance of harm is impossible, conscious reduction, transparency about consequences, and compassionate decision‑making align with the spirit of *ahiṃsā* and the lay vows (*aṇuvratas*).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अहिंसा परमो धर्मः ।",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non‑violence is the supreme duty.",
+      "notes": "Although this line is widely cited in Jain tradition, it appears in commentarial literature rather than the root sūtras. The *Tattvārtha Sūtra* itself discusses harm in terms of intention and activity. For example, TS 7.13–7.14 classify violence based on mental states and negligence, forming the basis for later discussions of unintentional harm."
+    },
+    {
+      "title": "Tattvārtha Sūtra 7.13–7.14",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "संकल्पद्वेषरागप्रमादाद् हिंसा ।\nआरम्भसमारम्भद्रव्यत्यागप्रायोगिकाः कर्मबन्धाः ।",
+      "transliteration": "saṃkalpa‑dveṣa‑rāga‑pramādād hiṃsā.\nārambha‑samārambha‑dravya‑tyāga‑prāyogikāḥ karma‑bandhāḥ.",
+      "translation": "Violence arises from intention, hatred, attachment, and negligence. Karmic bondage results from activities such as undertaking, continuing, abandoning material objects, and bodily exertion.",
+      "notes": "These sūtras are foundational for distinguishing intentional harm from harm arising through negligence. Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) elaborate that unintentional harm still binds karma when accompanied by carelessness."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "जिवा जीवं पिडेइ ।",
+      "transliteration": "jivā jīvaṃ piḍei",
+      "translation": "A living being harms another living being.",
+      "notes": "This passage appears in discussions of the ubiquity of life and the need for vigilance. The text emphasizes carefulness in movement, speech, and livelihood to reduce both intentional and accidental harm."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra)",
+      "author": "Pūjyapāda (Digambara)",
+      "original_text": "प्रमादेनापि हिंसा बन्धहेतुः ।",
+      "transliteration": "pramādenāpi hiṃsā bandha‑hetuḥ",
+      "translation": "Even violence arising from negligence is a cause of karmic bondage.",
+      "notes": "This commentary clarifies that unintentional harm is ethically significant because negligence reflects an underlying mental state that binds karma, though less intensely than deliberate violence."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Unintentional harm has no karmic consequences in Jainism.",
+      "reality": "Jain texts consistently state that harm arising from negligence or carelessness still binds karma, though less severely than intentional harm. Vigilance is therefore a core ethical practice."
+    },
+    {
+      "myth": "Jain ethics require eliminating all accidental harm, which is impossible.",
+      "reality": "Jainism recognizes that complete avoidance of harm is impossible in embodied life. The goal is mindful reduction, not perfection. Lay vows are designed to be practicable while encouraging gradual ethical refinement."
+    },
+    {
+      "myth": "Only monks need to worry about accidental harm.",
+      "reality": "Laypeople also take vows that include minimizing unintentional harm, such as filtering water, avoiding nighttime eating, and choosing livelihoods that reduce harm. The degree of discipline differs, but the principle applies to all practitioners."
+    }
+  ]
+}

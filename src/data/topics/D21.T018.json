@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, **mantras** are revered sound-formulae used for remembrance (smaraṇa), reverence (vandana), and inner purification (śuddhi). They are not magical incantations but disciplined vocal or mental recitations grounded in devotion, ethical intention, and awareness of the qualities of the liberated beings and exemplary teachers. Across Digambara and Śvetāmbara lineages, mantras function as concise carriers of doctrine: they recall the hierarchy of spiritual exemplars, the nature of liberation, and the aspirant’s commitment to nonviolence, restraint, and right knowledge.\n\nJain mantras are typically in Ardhamāgadhī Prakrit or Sanskrit, though vernacular devotional forms also exist. The most widely used is the **Namokāra Mantra** (also called the Pañca-Namaskāra Mantra), which venerates the five categories of spiritually advanced beings. Other mantras include those praising specific tīrthaṅkaras, protective mantras found in medieval ritual manuals, and contemplative formulas used in meditation traditions such as those described in the *Āvaśyaka* corpus.\n\nMantras serve several functions: (1) **ethical recollection**, reminding the practitioner of the virtues embodied by the beings saluted; (2) **mental discipline**, as rhythmic recitation stabilizes attention; (3) **ritual framing**, marking the beginning or end of worship, meditation, or scriptural study; and (4) **doctrinal transmission**, preserving canonical phrasing across centuries. Jainism does not treat mantras as vehicles of supernatural intervention; instead, their efficacy is tied to intention, purity of conduct, and alignment with right faith (samyak-darśana). Differences across sects concern pronunciation, ritual context, and the inclusion or exclusion of deity-oriented mantras, but the foundational Namokāra remains universally accepted.\n\nModern Jain teachers emphasize that mantra practice should be accompanied by ethical living, nonviolence, and study of primary texts. Recitation is not a substitute for right conduct but a supportive discipline that cultivates humility, gratitude, and awareness of the path toward liberation.",
+  "primary_sources": [
+    {
+      "title": "Namokāra Mantra (Pañca-Namaskāra)",
+      "author": "Canonical across traditions; appears in early Prakrit liturgical corpora such as the Āvaśyaka literature",
+      "original_text": "णमो अरिहंताणं। णमो सिद्धाणं। णमो आयरियाणं। णमो उवज्झायाणं। णमो लोए सव्वसाहूणं।",
+      "transliteration": "ṇamo arihaṃtāṇaṃ | ṇamo siddhāṇaṃ | ṇamo āyariyāṇaṃ | ṇamo uvajjhāyāṇaṃ | ṇamo loe savvasāhūṇaṃ",
+      "translation": "Salutation to the Arihants. Salutation to the Siddhas. Salutation to the Ācāryas. Salutation to the Upādhyāyas. Salutation to all Sādhus in the world.",
+      "notes": "Tier A source. This mantra is universally accepted across Digambara and Śvetāmbara traditions. It is not addressed to a creator deity but to categories of perfected or exemplary beings. Its earliest attestations are in the Āvaśyaka canonical materials, though exact dating varies across manuscript traditions."
+    },
+    {
+      "title": "Āvaśyaka Niryukti (commentarial tradition)",
+      "author": "Bhadrabāhu (attributed)",
+      "original_text": "णमो अरिहंताणं ति एत्थ अरिहंतगुणाणं स्मरणं।",
+      "transliteration": "ṇamo arihaṃtāṇaṃ ti ettha arihaṃtaguṇāṇaṃ smaraṇaṃ",
+      "translation": "‘Salutation to the Arihants’—here, the remembrance of the qualities of the Arihants is intended.",
+      "notes": "Tier B commentary. Shows that mantra recitation is tied to recollection of virtues, not ritualized petition. Attribution to Bhadrabāhu is traditional but historically debated."
+    },
+    {
+      "title": "Tattvārtha Sūtra 1.1",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः।",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "Tier A philosophical anchor. While not a mantra, this sūtra is frequently used in meditative recitation and frames the doctrinal context for mantra practice."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain mantras are magical spells that grant worldly benefits or supernatural protection.",
+      "reality": "Primary texts and early commentaries emphasize remembrance of virtues, mental discipline, and ethical alignment. Any benefit arises from inner transformation, not supernatural intervention."
+    },
+    {
+      "myth": "The Namokāra Mantra is a prayer to a god who controls the universe.",
+      "reality": "The mantra salutes perfected beings and teachers, acknowledging their qualities. Jainism does not posit a creator deity; the mantra is non-theistic and hierarchical in structure."
+    },
+    {
+      "myth": "Mantra recitation alone can purify karma.",
+      "reality": "Canonical sources state that purification requires right conduct, restraint, and nonviolence. Mantras support these practices but do not replace them."
+    }
+  ]
+}

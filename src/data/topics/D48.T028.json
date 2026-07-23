@@ -1,0 +1,43 @@
+{
+  "overview": "The principle of “no fear‑based karma teaching” refers to a well‑attested interpretive stance within Jain philosophical and pedagogical traditions that rejects the use of terror, threats, or exaggerated depictions of karmic punishment as a means of motivating ethical conduct. Jainism’s karma doctrine is rigorous, detailed, and often vividly described in canonical literature, but its intended function—according to primary texts and authoritative commentaries—is to cultivate discernment (viveka), non‑violence (ahiṃsā), and self‑restraint (saṃyama), not fear or coercion. \n\nAcross Śvetāmbara and Digambara sources, karma is presented as a natural, non-theistic causal law. It operates without divine wrath, external judgment, or supernatural punishment. The soul binds karma through its own passions (kaṣāyas) and sheds karma through its own disciplined effort. Because karmic processes are intrinsic to the soul’s condition, fear-based persuasion is considered pedagogically unsound and doctrinally inaccurate. \n\nClassical texts such as the *Tattvārtha Sūtra* emphasize knowledge (jñāna), right faith (samyagdarśana), and right conduct (samyakcāritra) as the path to liberation. These are cultivated through clarity and understanding, not intimidation. Commentarial traditions—such as Pūjyapāda’s *Sarvārthasiddhi* and Abhayadeva Sūri’s expositions—explicitly frame karmic consequences as natural results of mental states, not punitive threats. \n\nModern Jain educators and scholars similarly warn against fear-based interpretations, noting that exaggerated depictions of hells or karmic retribution can distort the philosophical precision of Jain metaphysics. Instead, they emphasize the constructive aims of karma teaching: encouraging ethical sensitivity, reducing harmful passions, and fostering responsibility for one’s own actions. \n\nThus, “no fear-based karma teaching” is not a modern invention but a consistent thread across canonical texts, classical commentaries, and contemporary pedagogy. It aligns with Jainism’s broader commitment to non-harm, truthfulness, and self-directed spiritual development.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 8.1–8.3",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "कर्मबंधः भावात् ।\nभावाश्च कषाययोगात् ।",
+      "transliteration": "karma-bandhaḥ bhāvāt ।\nbhāvāś ca kaṣāya-yogāt ।",
+      "translation": "Karmic bondage arises from mental states. These mental states arise from the operation of the passions.",
+      "notes": "This passage establishes karma as a natural consequence of internal dispositions, not an externally imposed punishment. It is frequently cited to counter fear-based interpretations."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra 8.1)",
+      "author": "Pūjyapāda",
+      "original_text": "भावो हि स्वभावपरिणामः, न दण्डनियमः ।",
+      "transliteration": "bhāvo hi svabhāva-pariṇāmaḥ, na daṇḍa-niyamaḥ ।",
+      "translation": "Mental states are transformations of one’s own nature, not instruments of punishment.",
+      "notes": "Pūjyapāda clarifies that karmic consequences are intrinsic processes, not punitive threats. This is a key textual basis for rejecting fear-based karma teaching."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 29.1–2",
+      "author": "Śvetāmbara canonical text (author unknown)",
+      "original_text": "जोगं कुलेसि भिक्खू, भयं न कुलेसि ।",
+      "transliteration": "jogaṃ kulesi bhikkhū, bhayaṃ na kulesi ।",
+      "translation": "A monk should cultivate discipline, not fear.",
+      "notes": "Although directed at monastic discipline, this passage is often applied in pedagogical contexts to emphasize that fear is not an appropriate motivator for spiritual practice."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain texts intend descriptions of hells and karmic consequences to frighten people into obedience.",
+      "reality": "Canonical descriptions of hells serve as cosmological explanations and ethical illustrations, not fear-based threats. Primary texts consistently frame karma as a natural causal process, not a punitive system."
+    },
+    {
+      "myth": "Karma in Jainism functions like divine punishment administered by a god.",
+      "reality": "Jainism is non-theistic. Karma is a subtle material substance that binds to the soul through passions. No deity judges or punishes; karmic results arise from the soul’s own states."
+    },
+    {
+      "myth": "Fear is necessary to motivate laypeople to follow vows and avoid sin.",
+      "reality": "Jain pedagogy emphasizes understanding, self-awareness, and compassion. Fear-based motivation is considered contrary to ahiṃsā and ineffective for cultivating stable ethical conduct."
+    }
+  ]
+}

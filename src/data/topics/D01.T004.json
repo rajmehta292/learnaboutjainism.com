@@ -1,0 +1,43 @@
+{
+  "overview": "Shared Jain foundations refer to the core principles, cosmological assumptions, ethical commitments, and soteriological aims that are accepted across all major Jain traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth. Despite differences in monastic discipline, scriptural canons, ritual practice, and historical development, these foundations form a common civilizational and philosophical base.\n\nAt the heart of these shared foundations is the conviction that reality is composed of eternal substances (*dravya*)—most centrally *jīva* (sentient soul) and *ajīva* (non-sentient substances). All traditions affirm that each *jīva* is inherently endowed with infinite perception, knowledge, bliss, and energy, but these qualities are obscured by karmic matter (*karma pudgala*) that binds to the soul through passions and activities. Liberation (*mokṣa*) is achieved when karmic matter is completely shed, allowing the soul to rise to the apex of the universe (*siddha-śilā*).\n\nEthically, all Jain traditions uphold the Five Great Vows (*mahāvrata*) for monastics and their lay equivalents (*aṇu-vrata*) for householders: nonviolence (*ahiṃsā*), truthfulness (*satya*), non-stealing (*asteya*), celibacy (*brahmacarya*), and non-possession (*aparigraha*). Nonviolence is the foundational vow, shaping Jain dietary norms, professions, ritual practices, and environmental ethics. All traditions also accept the Three Jewels (*ratnatraya*)—right faith, right knowledge, and right conduct—as the essential path to liberation.\n\nCosmologically, Jains share a detailed map of the universe (*loka*) that is beginningless, eternal, and governed by natural laws rather than divine creation. Time cycles through ascending and descending eras (*utsarpiṇī* and *avasarpiṇī*), and liberated beings (*siddhas*) exist eternally at the top of the universe. All traditions accept the existence of Tīrthaṅkaras—omniscient teachers who re-establish the path of liberation in each time cycle—and revere Mahāvīra as the most recent Tīrthaṅkara of our era.\n\nThese shared foundations provide the conceptual and ethical unity of Jainism, enabling diverse sects to recognize one another as part of a single tradition while maintaining distinct practices and interpretations. They also serve as the basis for comparative study, inter-sect dialogue, and modern applications of Jain ethics in fields such as ecology, nonviolence studies, and global philosophy.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (disputed between Digambara and Śvetāmbara traditions)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This aphorism (TS 1.1) is accepted across all Jain traditions and is the most cited definition of the Three Jewels. The text is unique in being authoritative for both Digambara and Śvetāmbara lineages, though commentarial traditions differ."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to the early Śvetāmbara canon; compiler unknown",
+      "original_text": "जिवा दया भूत हि",
+      "transliteration": "jīvā dayā bhūta hi",
+      "translation": "Living beings are indeed to be treated with compassion.",
+      "notes": "The Ācārāṅga Sūtra is one of the earliest Jain texts and emphasizes nonviolence as the central discipline of ascetics. While preserved primarily in the Śvetāmbara canon, its teachings on ahiṃsā are foundational across Jainism."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (excerpt paraphrased)",
+      "author": "Kundakunda and subsequent Digambara redactors",
+      "original_text": "—",
+      "transliteration": "—",
+      "translation": "The soul is characterized by consciousness; karmic matter obscures its innate qualities.",
+      "notes": "The Ṣaṭkhaṅḍāgama is a major Digambara canonical text. Its detailed analysis of karma aligns with the broader Jain doctrine that karmic particles bind to the soul through passions and activities."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain sects have completely different beliefs and scriptures.",
+      "reality": "While sects differ in monastic rules, ritual practices, and canonical collections, they share core doctrines such as the eternal soul, karma theory, nonviolence, the Three Jewels, and the goal of liberation."
+    },
+    {
+      "myth": "Jains worship gods who create or control the universe.",
+      "reality": "Jains do not believe in a creator deity. Reverence toward Tīrthaṅkaras is devotional respect for perfected beings who have attained liberation, not worship of cosmic rulers."
+    },
+    {
+      "myth": "Nonviolence in Jainism only refers to avoiding physical harm.",
+      "reality": "Ahiṃsā includes mental, verbal, and emotional harm. It also extends to ecological care, restraint in consumption, and professions that minimize harm to all forms of life."
+    }
+  ]
+}

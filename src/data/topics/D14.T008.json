@@ -1,0 +1,51 @@
+{
+  "overview": "Aticāra (Sanskrit/Prakrit: अतिचार / अतिकार) is a technical term in Jain ethics referring to a specific class of transgressions committed against a vow (vrata) or disciplinary rule (samiti). In classical Jainism—across Śvetāmbara, Digambara, and non‑mūrti‑pūjaka traditions—the vows are not treated as binary states of ‘kept’ or ‘broken’. Instead, each vow has a set of defined aticāras, meaning actions that fall short of the ideal observance but do not constitute total abandonment of the vow. This structure allows laypeople (śrāvakas) and ascetics (munis/āryikās/sādhvīs) to assess ethical lapses with precision.\n\nThe term appears in early canonical literature such as the *Ācārāṅga Sūtra*, *Sūtrakṛtāṅga*, *Daśavaikālika*, and in Digambara sources like *Ṣaṭkhaṇḍāgama* and *Mūlācāra*. Later commentaries—such as Abhayadeva Sūri’s exegesis on Śvetāmbara texts and Pūjyapāda’s *Sarvārthasiddhi*—systematically list aticāras for each vow. For example, the five great vows (mahāvratas) of ascetics and the five minor vows (aṇu‑vratas) of laypeople each have five aticāras, forming a structured ethical matrix.\n\nIn practice, identifying an aticāra serves several purposes: (1) it helps practitioners recognize subtle forms of harm or negligence; (2) it guides confession (ālocanā/pratikramaṇa) by naming the specific lapse; and (3) it preserves the integrity of the vow by distinguishing between minor transgressions and full violation. The concept is central to Jain moral psychology, karmic theory, and the graded path of conduct (cāritra) within the guṇasthāna framework.\n\nDifferent traditions sometimes vary in the examples or emphasis of aticāras, but the underlying principle remains consistent: vows are living disciplines requiring continuous mindfulness, and aticāras are the diagnostic tools for maintaining them.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Āyāraṅga)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; Śvetāmbara canon",
+      "original_text": "“विरमणि-भूय-ए अतिकारो।”",
+      "transliteration": "viramaṇi-bhūya-e atikāro",
+      "translation": "“A transgression (aticāra) is that which goes against the restraint.”",
+      "notes": "This passage appears in discussions of monastic conduct, where restraint (viramaṇa) is the core of ethical discipline. The text does not list all aticāras systematically but establishes the conceptual foundation."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "“व्रतानां पञ्चातिचाराः।” (TS 7.15)",
+      "transliteration": "vratānāṃ pañcāticārāḥ",
+      "translation": "“Each vow has five transgressions.”",
+      "notes": "This is the most cited classical definition. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārthādhigama-bhāṣya* (Śvetāmbara) elaborate the specific aticāras for each vow."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "“अहिंसाया अतिकारो—कसिरा, दंडा, तड्ढा…”",
+      "transliteration": "ahiṃsāyā atikāro—kasirā, daṃḍā, taḍḍhā…",
+      "translation": "“The transgressions of non‑violence include carelessness, striking, tormenting…”",
+      "notes": "Lists specific aticāras for ahiṃsā in monastic discipline. Exact lists vary slightly across manuscripts and commentarial traditions."
+    },
+    {
+      "title": "Mūlācāra",
+      "author": "Vattakera (Digambara)",
+      "original_text": "“अतिकारो हि व्रतभङ्गस्य कारणम्।”",
+      "transliteration": "atikāro hi vratabhaṅgasya kāraṇam",
+      "translation": "“A transgression is indeed a cause leading toward the breaking of a vow.”",
+      "notes": "Provides detailed lists of aticāras for Digambara monastic vows, emphasizing vigilance (apramatta‑yoga)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Aticāra means the vow is fully broken and must be restarted.",
+      "reality": "In Jain doctrine, an aticāra is a partial lapse, not a total violation. It signals negligence but does not annul the vow. Confession and renewed mindfulness restore proper observance."
+    },
+    {
+      "myth": "Aticāras are identical across all Jain traditions.",
+      "reality": "While the principle of five aticāras per vow is shared, the specific examples and emphases differ between Śvetāmbara, Digambara, and non‑mūrti‑pūjaka traditions due to variations in monastic codes and commentarial lineages."
+    },
+    {
+      "myth": "Only monks and nuns have aticāras; laypeople do not.",
+      "reality": "Lay vows (aṇu‑vratas, guṇa‑vratas, śikṣā‑vratas) also have defined aticāras. The concept applies to all levels of Jain ethical practice."
+    }
+  ]
+}

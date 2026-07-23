@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain ontology, non‑mind‑bearing beings (amanasa‑jīvas or amanograhya‑jīvas) constitute a major category within the broader taxonomy of living beings (jīva). Jainism holds that all jīvas possess consciousness (cetanā) as an intrinsic attribute, yet not all beings possess an active, functioning mind (manas). The distinction between mind‑bearing and non‑mind‑bearing beings is therefore not about the presence or absence of consciousness, but about the operational capacity for mental processing, deliberation, and complex intention.\n\nNon‑mind‑bearing beings include the vast majority of life forms recognized in Jain cosmology: one‑sensed beings (ekendriyas) such as earth‑bodied, water‑bodied, fire‑bodied, air‑bodied, and plant‑bodied beings; as well as many two‑ to five‑sensed beings whose karmic conditions prevent the functioning of mind. Their inability to utilize mind arises from specific karmic obstructions, especially the mohaniya (deluding) and jñānāvaraṇīya (knowledge‑obstructing) karmas, which limit cognitive capacities.\n\nThis classification plays a central role in Jain ethics. Although all jīvas are considered worthy of non‑violence (ahiṃsā), the degree of harm caused to non‑mind‑bearing beings is evaluated differently from harm to mind‑bearing beings, because the latter can experience more complex forms of suffering and intentionality. Nevertheless, Jain texts emphasize that even the smallest non‑mind‑bearing beings possess life, consciousness, and the potential for liberation when karmic obstructions are removed.\n\nAcross Digambara and Śvetāmbara traditions, the core definition remains consistent: non‑mind‑bearing beings are those whose consciousness does not manifest through mental activity. Commentarial traditions further elaborate the karmic mechanisms, the cosmological distribution of such beings, and the ethical implications for lay and monastic conduct.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "मनःप्रत्ययो मनोवन्तोऽमनस्काश्च",
+      "transliteration": "manaḥ‑pratyayo mano‑vanto ’manaskāś ca",
+      "translation": "“The criterion of mind is mental cognition; beings are mind‑bearing and non‑mind‑bearing.”",
+      "notes": "Tattvārtha Sūtra 2.19 provides the foundational classification of mind‑bearing and non‑mind‑bearing beings. Commentaries such as Pūjyapāda’s Sarvārthasiddhi (Digambara) and Siddhasena’s Tattvārthavṛtti (Śvetāmbara) explain that the presence of mind depends on karmic conditions enabling mental activity."
+    },
+    {
+      "title": "Saṃgrahaṇī Sūtra",
+      "author": "Traditional Śvetāmbara attribution",
+      "original_text": "अमनसकाणं जीवाणं बहुलं पव्वं",
+      "transliteration": "amanasakāṇaṃ jīvāṇaṃ bahulaṃ pavvaṃ",
+      "translation": "“Among living beings, the non‑mind‑bearing are exceedingly numerous.”",
+      "notes": "The Saṃgrahaṇī Sūtra emphasizes the cosmological abundance of non‑mind‑bearing beings, especially among one‑sensed life forms. Traditional commentaries detail their distribution across the three worlds."
+    },
+    {
+      "title": "Gommatasāra Jīvakāṇḍa",
+      "author": "Nemicandra Siddhānta‑cakravartin",
+      "original_text": "अमनसकाणं जीवाणं मनोवग्गो न होइ",
+      "transliteration": "amanasakāṇaṃ jīvāṇaṃ mano‑vaggo na hoi",
+      "translation": "“For non‑mind‑bearing beings, the operation of mind does not occur.”",
+      "notes": "Gommatasāra Jīvakāṇḍa provides technical Digambara analysis of karmic factors determining the presence or absence of mind, linking it to specific knowledge‑obstructing and deluding karmas."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Non‑mind‑bearing beings lack consciousness.",
+      "reality": "Jainism teaches that all jīvas possess consciousness inherently. Non‑mind‑bearing beings lack functional mind due to karmic obstruction, not due to absence of consciousness."
+    },
+    {
+      "myth": "Only higher animals are mind‑bearing beings.",
+      "reality": "Mind‑bearing status is not determined by biological complexity. Some five‑sensed beings may be non‑mind‑bearing, while certain celestial or hell beings are mind‑bearing regardless of physical form."
+    },
+    {
+      "myth": "Ethical concern is unnecessary for non‑mind‑bearing beings.",
+      "reality": "Jain ethics requires ahiṃsā toward all beings. Although harm to mind‑bearing beings is considered more severe, harming non‑mind‑bearing beings still generates significant karmic bondage."
+    }
+  ]
+}

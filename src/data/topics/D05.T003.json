@@ -1,0 +1,51 @@
+{
+  "overview": "Asrava (Āsrava) is one of the foundational concepts in Jain philosophy, central to the Jain understanding of karma, bondage, and liberation. The term derives from the Sanskrit/Prakrit root meaning “inflow,” “leakage,” or “that which flows toward.” In Jain metaphysics, it refers specifically to the inflow of karmic matter (karma‑pudgala) into the soul (jīva). This inflow occurs when the soul’s innate purity is disturbed by activities of body, speech, and mind, combined with passions (kaṣāyas) such as anger, pride, deceit, and greed.\n\nAcross both Digambara and Śvetāmbara traditions, Āsrava is treated as a technical term within the broader framework of the seven tattvas (fundamental realities): jīva, ajīva, āsrava, bandha, saṃvara, nirjarā, and mokṣa. Āsrava is the third tattva, describing the mechanism by which karmic particles enter and bind to the soul. It is not considered “evil” in a moralistic sense; rather, it is a natural process arising from vibrational activity (yoga) and passions (kaṣāya). When these are active, the soul becomes permeable to karmic influx.\n\nClassical Jain texts describe multiple categories of Āsrava, including those arising from bodily actions, verbal actions, mental activities, and emotional states. The Tattvārtha Sūtra, accepted across Jain traditions, systematizes these causes and links them to the broader karmic theory. Commentaries further explain that stopping Āsrava (saṃvara) is essential for spiritual progress, and that practices such as right conduct, restraint, meditation, and equanimity reduce the inflow of karma.\n\nIn advanced doctrinal contexts, especially within the Karma and Guṇasthāna technical literature, Āsrava is analyzed in relation to the stages of spiritual development. As one ascends the guṇasthānas, the intensity and types of Āsrava diminish. At the highest stages, all causes of karmic influx cease, enabling complete liberation (mokṣa).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "आस्रवः कर्मणोऽनुभवः",
+      "transliteration": "āsravaḥ karmaṇo’nubhavaḥ",
+      "translation": "“Āsrava is the inflow that leads to the experience of karma.”",
+      "notes": "This is a widely cited definition. The exact wording varies slightly across manuscripts and commentarial traditions. The text identifies yoga (activity of body, speech, and mind) and kaṣāya (passions) as primary causes of karmic influx."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra)",
+      "author": "Ācārya Pūjyapāda",
+      "original_text": "योगः कारणम्",
+      "transliteration": "yogaḥ kāraṇam",
+      "translation": "“Activity is the cause [of Āsrava].”",
+      "notes": "Pūjyapāda elaborates that yoga creates vibrational movement in the soul, making it receptive to karmic particles. Passions intensify this receptivity."
+    },
+    {
+      "title": "Gommatasāra (Karmakāṇḍa)",
+      "author": "Ācārya Nemicandra",
+      "original_text": "कषाययोगाद् आसवः",
+      "transliteration": "kaṣāya‑yogād āsavaḥ",
+      "translation": "“Āsrava arises from passions and activity.”",
+      "notes": "A Digambara technical text that provides detailed classifications of karmic influx and its relation to the soul’s vibrational states."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जोगं कारणं आसवस्स",
+      "transliteration": "jogaṃ kāraṇaṃ āsavassa",
+      "translation": "“Activity is the cause of Āsrava.”",
+      "notes": "This Prakrit formulation parallels the Tattvārtha Sūtra’s definition and is used in Śvetāmbara monastic curriculum."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Āsrava is a form of sin or moral wrongdoing.",
+      "reality": "In Jain philosophy, Āsrava is not a moral category but a metaphysical process describing the inflow of karmic matter due to activity and passions. Even ordinary actions can generate Āsrava without implying moral fault."
+    },
+    {
+      "myth": "Āsrava can be eliminated only through extreme austerities.",
+      "reality": "Classical texts emphasize that right conduct, equanimity, carefulness (samiti), and restraint (gupti) are primary methods for reducing Āsrava. Austerities support this process but are not the sole or mandatory path."
+    },
+    {
+      "myth": "Āsrava is identical to bandha (bondage).",
+      "reality": "Āsrava refers to the inflow of karma, while bandha refers to the actual binding of karma to the soul. They are distinct tattvas with different causes and mechanisms."
+    }
+  ]
+}

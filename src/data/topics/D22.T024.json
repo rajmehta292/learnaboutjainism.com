@@ -1,0 +1,43 @@
+{
+  "overview": "In academic and philological contexts, a “literal translation” refers to a method of rendering a source text into another language with maximal fidelity to the original wording, grammatical structure, and semantic range. In Jain studies, this term appears frequently in discussions of Prakrit and Sanskrit scriptures, where scholars must decide how closely to mirror the original syntax and morphology. A literal translation aims to preserve the source text’s linguistic form, often retaining compound structures, technical terminology, and idiomatic expressions even when they sound unfamiliar in the target language.\n\nWithin Jain textual traditions, literal translation is particularly relevant because canonical and commentarial works often employ dense aphoristic phrasing (sūtra-style), elliptical grammar, and culturally embedded metaphors. A literal translation can help readers see the architecture of the original composition—how terms cluster, how doctrinal categories are arranged, and how the text signals emphasis through repetition or meter. However, literal translation can also obscure meaning when the original relies on cultural assumptions, technical vocabulary, or grammatical conventions that do not map neatly onto modern languages.\n\nModern Jain scholarship typically distinguishes between literal translation, interpretive translation, and explanatory translation. Literal translation attempts to reproduce the text’s linguistic surface; interpretive translation prioritizes conveying intended meaning; explanatory translation adds clarifying notes or paraphrastic expansions. Each approach has strengths and limitations, and responsible academic work often pairs a literal translation with commentary to avoid misinterpretation. Literal translations are especially valuable for students of Prakrit and Sanskrit who wish to understand how doctrinal terms such as *jīva*, *ajīva*, *lesyā*, *gunasthāna*, or *samiti* function within the original grammatical environment.\n\nIn Jainism, where scriptural authority is tied to precise phrasing, literal translation serves as a bridge between philology and practice. It allows readers to examine how concepts were originally articulated while acknowledging that full comprehension often requires interpretive guidance from traditional commentaries and qualified teachers.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "तत्त्वार्थसूत्रम् १.१: सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "tattvārthasūtram 1.1: samyagdarśanajñānacāritrāṇi mokṣamārgaḥ",
+      "translation": "Literal: “Right faith, right knowledge, and right conduct are the path to liberation.”",
+      "notes": "This aphorism is frequently used to illustrate how literal translation preserves the compact sūtra structure. The Sanskrit compounds (*samyagdarśana-jñāna-cāritra*) require careful handling: a literal translation shows the triad clearly, while interpretive translations may expand the meaning or add doctrinal context."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara canon)",
+      "author": "Traditionally attributed to early Jain teachers",
+      "original_text": "सीयालोगस्स पहुधा विण्णाणं",
+      "transliteration": "sīyālogosssa pahudhā viṇṇāṇaṃ",
+      "translation": "Literal: “The knowledge of the noble ones is manifold.”",
+      "notes": "A literal translation preserves the terse Prakrit phrasing. Interpretive translations often expand this line to clarify that enlightened beings perceive reality in diverse modes, reflecting Jain epistemology."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara tradition)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "जीवास्तिकायः",
+      "transliteration": "jīvāstikāyaḥ",
+      "translation": "Literal: “The existent body-category of living beings.”",
+      "notes": "Literal translation retains the technical term *astikāya*, which has no direct English equivalent. Commentarial literature is required to unpack its doctrinal significance."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "A literal translation is always the most accurate representation of a Jain scripture.",
+      "reality": "Literal translations preserve linguistic form, not necessarily intended meaning. Many Jain texts rely on cultural, philosophical, and grammatical conventions that require interpretive guidance to avoid misunderstanding."
+    },
+    {
+      "myth": "Literal translations eliminate the need for commentaries.",
+      "reality": "Jain scriptures often use condensed sūtra-style phrasing. Literal translations can be opaque without traditional commentaries that explain doctrinal context and interpretive nuances."
+    },
+    {
+      "myth": "Literal translation means word-for-word equivalence.",
+      "reality": "True word-for-word equivalence is rarely possible across languages. Literal translation aims for structural and semantic fidelity, but translators must still make interpretive choices."
+    }
+  ]
+}

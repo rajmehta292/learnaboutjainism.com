@@ -1,0 +1,43 @@
+{
+  "overview": "Apratyakhyana (also spelled *apratyākhyāna*) is a technical term in Jain karma theory referring to a specific subtype of **kaṣāya‑generated bondage**. In the classical taxonomy of karmic influx (*āsrava*) and bondage (*bandha*), apratyakhyana denotes the karmic attachment produced by **non-renunciation**, specifically when a person recognizes a fault or harmful tendency but does **not** undertake a formal resolve to abstain from it. It is therefore classified as a *kaṣāya-bandha* arising from **weak or moderate passions**.\n\nIn both Digambara and Śvetāmbara traditions, apratyakhyana is paired with *pratyakhyana* (renunciation). When one fails to adopt pratyakhyana—whether through negligence, indecision, or insufficient moral resolve—the resulting karmic bondage is termed apratyakhyana-bandha. This is not merely a psychological state but a technical karmic condition described in canonical and post-canonical literature.\n\nApratyakhyana is most often discussed within the fourfold schema of bondage caused by passions: *anantānubandhi*, *apratyakhyana*, *pratyakhyana*, and *sañjvalana*. Among these, apratyakhyana represents a middle level of intensity. It does not have the destructive force of anantānubandhi (which blocks spiritual progress), but it still binds karma that obstructs higher states of spiritual development. In the progression of the **guṇasthānas**, apratyakhyana-bandha is associated with the lower stages where partial restraint is absent or unstable.\n\nThe term also appears in discussions of ethical practice for laypeople (*śrāvakas*). Here, apratyakhyana refers to moments when one recognizes a lapse—such as unnecessary violence, deceit, or indulgence—but does not take the vow-based corrective step of renunciation. Traditional commentaries emphasize that apratyakhyana is not a moral condemnation but a diagnostic category that helps practitioners understand how karmic bondage arises and how it can be reduced through conscious restraint, confession (*ālocanā*), and vow-renewal (*pratyākhyāna*).\n\nBecause apratyakhyana is a technical karmic term, its interpretation varies slightly across sectarian commentaries. Digambara authors often emphasize its role in the gradation of passions, while Śvetāmbara Mūrtipūjaka and Sthānakavāsī sources highlight its relevance for lay ethics. Across traditions, however, the core meaning remains: **karmic bondage caused by failure to renounce a known fault**.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अप्रत्याख्यानकषायबन्धः",
+      "transliteration": "apratyākhyāna-kaṣāya-bandhaḥ",
+      "translation": "“Bondage arises from the passion of non-renunciation.”",
+      "notes": "This concise sūtra (Tattvārtha Sūtra 8.10–8.11 in most editions) is the foundational canonical reference. Digambara and Śvetāmbara commentaries agree that apratyakhyana refers to karmic bondage produced when one recognizes a fault but does not undertake renunciation."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra)",
+      "author": "Pūjyapāda",
+      "original_text": "अप्रत्याख्यानं नाम ज्ञातदोषस्यापि त्यागव्रताद्यनुष्ठानम्",
+      "transliteration": "apratyākhyānaṃ nāma jñāta-doṣasyāpi tyāga-vratādy-anuṣṭhānam",
+      "translation": "“Apratyakhyana is the failure to undertake renunciation or vows even after recognizing a fault.”",
+      "notes": "A Digambara commentary that clarifies the psychological and ethical dimension of apratyakhyana. The passage explains that mere awareness of wrongdoing does not prevent karmic bondage unless renunciation is actively undertaken."
+    },
+    {
+      "title": "Tattvārtha Sūtra Bhāṣya (Śvetāmbara Commentary)",
+      "author": "Śrī Pūjyapāda/Śrī Umāsvāti (attributed differently in sectarian traditions)",
+      "original_text": "अप्रत्याख्यानकषायो मन्दमध्यकषायः",
+      "transliteration": "apratyākhyāna-kaṣāyo manda-madhya-kaṣāyaḥ",
+      "translation": "“The passion of non-renunciation is a weak or moderate passion.”",
+      "notes": "Śvetāmbara commentators classify apratyakhyana as a middle-level passion, distinguishing it from the more intense anantānubandhi passions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Apratyakhyana means refusing to take vows or rejecting Jain ethics.",
+      "reality": "Apratyakhyana is not a rejection of ethics. It is a technical karmic category describing bondage that arises when one recognizes a fault but does not yet undertake formal renunciation. It is diagnostic, not condemnatory."
+    },
+    {
+      "myth": "Apratyakhyana is equivalent to severe passions like anger or pride.",
+      "reality": "Classical sources classify apratyakhyana as a weak or moderate passion. It is distinct from intense passions (*anantānubandhi*) that block spiritual progress."
+    },
+    {
+      "myth": "Apratyakhyana applies only to monks and nuns.",
+      "reality": "Laypeople also experience apratyakhyana-bandha. Śrāvaka ethics explicitly discuss how everyday lapses can create apratyakhyana unless corrected through confession and vow-renewal."
+    }
+  ]
+}

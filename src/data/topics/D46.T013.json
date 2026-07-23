@@ -1,0 +1,75 @@
+{
+  "overview": "Nonviolence comparisons—especially around the Sanskrit/Prakrit term \"ahiṃsā\"—offer a window into how different South Asian traditions articulate the value of not harming and the reasons they give for it. Jainism, Buddhism, and Hindu traditions all affirm nonviolence, yet they embed it in distinct metaphysical, ethical, and social frameworks. Modern figures such as Mahatma Gandhi further reinterpret these classical teachings, turning spiritual disciplines into instruments of political and social transformation.\n\nIn Jainism, ahiṃsā is not merely one virtue among many; it is explicitly proclaimed as the highest dharma (\"ahiṃsā paramo dharmaḥ\"). Canonical and authoritative texts such as the Tattvārthasūtra, Ācārāṅga-sūtra, Uttarādhyayana-sūtra, and the modern compendium Saman Suttam present nonviolence as a metaphysical necessity grounded in the nature of the soul (jīva) and karmic bondage. Any injury to a living being—by thought, word, or deed; directly, indirectly, or by approval—binds karma to the soul and obstructs liberation. Jainism therefore develops a highly detailed taxonomy of violence and corresponding vows: the great vows (mahāvrata) for ascetics demand near-absolute nonviolence, while the smaller vows (aṇuvrata) for householders aim at minimization of harm within practical life. This rigor extends to diet, speech, profession, and even the handling of water, fire, and earth, which are understood to contain innumerable subtle life-forms.\n\nBuddhist articulations of nonviolence share the rejection of killing but emphasize a different foundation. The first precept—\"to abstain from taking life\"—is framed within a broader cultivation of compassion (karuṇā) and loving-kindness (mettā). Texts such as the Dhammapada present nonviolence as arising from empathetic awareness: recognizing that all beings tremble at violence and fear death, one refrains from killing and from causing others to kill. The karmic consequences of violence are acknowledged, yet the focus is often on mental states—greed, hatred, and delusion—that drive harmful actions. Nonviolence thus becomes part of a path of mental purification and insight rather than a metaphysical rule tied to a detailed ontology of souls and substances.\n\nIn Hindu traditions, nonviolence appears as a high virtue within a broader dharmic framework that also includes duties related to social order, ritual, and caste. Dharmasūtras, the Manusmṛti, and the Mahābhārata praise ahiṃsā and related virtues such as ānṛśaṃsya (non-cruelty), yet they also grapple with situations where violence seems unavoidable—war, punishment, and self-defense. The Bhagavadgītā famously stages this tension: Arjuna’s reluctance to fight arises from a sense of the harm war will cause, while Kṛṣṇa’s teaching reframes action in terms of detached duty, devotion, and the cosmic order. Later Hindu texts and commentaries continue to negotiate the balance between personal nonviolence and social responsibility, often allowing limited, regulated violence while still honoring ahiṃsā as an ideal.\n\nComparatively, Jainism stands out for the breadth and intensity of its nonviolence ethic. Where Buddhist and many Hindu sources focus primarily on refraining from killing sentient beings, Jain texts extend concern to all forms of life, including microorganisms and elemental beings, and to all modes of harm—physical, verbal, and mental. Jainism’s metaphysical commitment to the universal presence of souls and the precise mechanics of karmic bondage leads to a more comprehensive and sometimes austere discipline. At the same time, Jain tradition distinguishes between the absolute demands placed on renunciants and the moderated obligations of laypeople, acknowledging social realities while still urging progressive refinement of conduct.\n\nModern comparative scholarship and ethical reflection highlight both convergences and divergences. All three traditions affirm that violence has moral and spiritual consequences and that compassion or non-harming is central to a good life. Yet they differ in how they weigh personal liberation against social justice, and how they interpret necessary force in policing, warfare, or activism. Gandhi’s reinterpretation of ahiṃsā—deeply influenced by Jain thought and by texts such as the Bhagavadgītā—transforms nonviolence into an active, creative principle expressed through satyāgraha (truth-force). Here, nonviolence is not only abstention from harm but a deliberate, courageous engagement with injustice, seeking to convert opponents rather than destroy them. Comparative studies therefore show a spectrum: from ascetic, world-renouncing nonviolence aimed at karmic purity (especially in Jainism) to engaged, world-transforming nonviolence aimed at social and political change (as in Gandhian practice).\n\nScholars also note internal debates and interpretive uncertainties. Within Jainism, discussions continue about the ethical limits of professions, technology, and environmental impact, and how traditional categories of violence apply to modern contexts. In Hindu and Buddhist settings, there are disagreements about just war, self-defense, and the role of nonviolence in statecraft. Translation issues—such as how to render ahiṃsā, karuṇā, or dharma—can obscure nuances, and different commentarial traditions sometimes offer divergent readings of the same verses. A careful comparative approach therefore distinguishes between primary textual statements, later commentarial interpretations, and modern applications, while encouraging practitioners and students to consult qualified teachers in living lineages when making concrete ethical decisions.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "अहिंसा परमो धर्मः।",
+      "transliteration": "ahiṃsā paramo dharmaḥ.",
+      "translation": "Nonviolence is the supreme religion.",
+      "notes": "The Tattvārthasūtra is a foundational Jain philosophical text accepted by both major Jain traditions. The aphorism \"ahiṃsā paramo dharmaḥ\" encapsulates the centrality of nonviolence in Jain ethics and metaphysics. Later commentaries elaborate that violence includes harm by thought, word, and deed, and that even indirect or approved harm binds karma to the soul. The exact wording appears in related Jain scriptural and liturgical contexts, and its interpretation is shaped by commentarial traditions."
+    },
+    {
+      "title": "Ācārāṅga-sūtra (Acaranga Sutra)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; part of Śvetāmbara canon",
+      "original_text": "सव्वे पाणे दुव्विहा—ठाणेगया इमगया। तेसु यं न हरेज्जीविं, सो अहिंसाओ भवइ।",
+      "transliteration": "savve pāṇe duvviha—ṭhāṇegayā imagayā. tesu yaṃ na harejjīviṃ, so ahiṃsāo bhavai.",
+      "translation": "All living beings are of two kinds—those that move and those that do not. One who does not deprive them of life is truly nonviolent.",
+      "notes": "The Ācārāṅga-sūtra is among the earliest Jain canonical texts and focuses on the conduct of monks. It describes the carefulness required to avoid harming even the smallest creatures, emphasizing that nonviolence extends to all forms of life. The Prakrit wording and its variants differ slightly across editions, and translations vary in how they render technical terms for living beings and movement."
+    },
+    {
+      "title": "Uttarādhyayana-sūtra (Uttaradhyayana Sutra)",
+      "author": "Traditionally attributed to early Jain teachers; part of Śvetāmbara canon",
+      "original_text": "ण हणे, ण पहणे, ण विहणे, ण उवहणे। एतं अहिंसासुत्तं, जोगी ण हणइ कंणं।",
+      "transliteration": "ṇa haṇe, ṇa pahaṇe, ṇa vihaṇe, ṇa uvahaṇe. etaṃ ahiṃsā-suttaṃ, jogī ṇa haṇai kaṃṇaṃ.",
+      "translation": "He should not strike, not cause others to strike, not consent to striking, not speak in favor of striking. This is the teaching on nonviolence; the yogin does not harm any being.",
+      "notes": "The Uttarādhyayana-sūtra contains didactic verses on ethical discipline. This passage highlights the threefold structure of violence—doing, causing, and approving—and insists that all three are morally significant. The text is often cited in discussions of Jain nonviolence and its implications for social and political life. Different recensions and commentaries offer slightly varied readings and explanations of the terms for striking and harming."
+    },
+    {
+      "title": "Saman Suttam",
+      "author": "Compiled by a committee of Jain monks and scholars in the 20th century",
+      "original_text": "अहिंसा परमो धर्मो, यः सर्वभूतेषु दया करोति स धर्मं चरति।",
+      "transliteration": "ahiṃsā paramo dharmo, yaḥ sarvabhūteṣu dayā karoti sa dharmaṃ carati.",
+      "translation": "Nonviolence is the highest religion; one who shows compassion to all beings truly practices dharma.",
+      "notes": "Saman Suttam is a modern Sanskrit compendium drawing on earlier Jain canonical and commentarial sources, intended to present a unified doctrinal summary acceptable to multiple Jain sects. This verse links nonviolence with compassion (dayā), echoing both Jain and broader Indian ethical language. Because the work is a modern compilation, its wording synthesizes older materials rather than representing a single ancient canonical passage."
+    },
+    {
+      "title": "Dhammapada (Buddhist text, for comparison)",
+      "author": "Traditionally attributed to the Buddha; part of the Pāli canon",
+      "original_text": "सबे तस्सन्ति दण्डस्स, सबे भायन्ति मरणा। अत्तानं उपमं कत्वा, न हन्ये न घातये।",
+      "transliteration": "sabe tassanti daṇḍassa, sabe bhāyanti maraṇā. attānaṃ upamaṃ katvā, na haneyya na ghātaye.",
+      "translation": "All tremble at the rod; all fear death. Comparing others with oneself, one should not kill nor cause others to kill.",
+      "notes": "The Dhammapada is a widely read collection of verses in the Theravāda Buddhist tradition. This verse (often numbered 129–130 in modern editions) is frequently cited as a concise expression of Buddhist nonviolence grounded in empathy and shared vulnerability. It provides a useful comparative point: while Jain texts emphasize karmic bondage and the ontology of souls, this Buddhist passage highlights psychological identification and compassion as the basis for refraining from harm."
+    },
+    {
+      "title": "Bhagavadgītā (for Hindu comparative context)",
+      "author": "Traditionally attributed to Vyāsa; part of the Mahābhārata",
+      "original_text": "अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम्। दया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम्॥",
+      "transliteration": "ahiṃsā satyam akrodhas tyāgaḥ śāntir apaiśunam, dayā bhūteṣv aloluptvaṃ mārdavaṃ hrīr acāpalam.",
+      "translation": "Nonviolence, truth, absence of anger, renunciation, peace, absence of slander, compassion toward beings, freedom from greed, gentleness, modesty, and steadiness.",
+      "notes": "In this verse (Bhagavadgītā 16.2), ahiṃsā appears among a list of divine qualities. The Gītā acknowledges nonviolence as a virtue while simultaneously addressing the duty of a warrior to fight in a just war. Commentarial traditions differ on how to reconcile these strands, making the text central to comparative discussions about the limits of nonviolence in Hindu thought and its relation to social and political obligations."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain, Buddhist, and Hindu teachings on nonviolence all say exactly the same thing and differ only in minor details.",
+      "reality": "While these traditions share a commitment to avoiding harm, they ground nonviolence in different metaphysical and ethical frameworks. Jainism develops a highly detailed ontology of souls and karmic bondage and extends nonviolence to all forms of life and all modes of harm. Buddhism emphasizes mental states and compassion as the basis for refraining from killing, and Hindu texts often balance nonviolence with duties related to social order and warfare. These differences shape how nonviolence is understood and practiced in each tradition."
+    },
+    {
+      "myth": "Jain nonviolence is purely passive and world-renouncing, with no relevance to social or political issues.",
+      "reality": "Classical Jain texts do prioritize ascetic nonviolence aimed at liberation, but they also address lay ethics, professions, and social responsibilities through graded vows and careful distinctions among types of violence. Modern Jain thinkers and comparative scholars explore how Jain principles can inform environmental ethics, animal protection, and social justice. Gandhi’s activist nonviolence was significantly influenced by Jain ideas, showing that Jain ahiṃsā can inspire engaged, rather than merely passive, responses to injustice."
+    },
+    {
+      "myth": "Hindu scripture simply endorses violence through the Bhagavadgītā and therefore rejects nonviolence as an ideal.",
+      "reality": "Hindu texts present a complex picture. The Bhagavadgītā does call Arjuna to fight, but it also lists ahiṃsā among divine qualities and emphasizes compassion, self-control, and detachment. Other texts, such as the Dharmasūtras, Manusmṛti, and Mahābhārata, praise nonviolence and express suspicion about war and aggression, even while allowing regulated violence in certain roles. Hindu tradition thus contains both strong affirmations of nonviolence and nuanced discussions of its limits in social and political life."
+    },
+    {
+      "myth": "Gandhian nonviolence is identical to classical Jain ahiṃsā and can be understood simply by reading modern political writings.",
+      "reality": "Gandhi drew deeply from Jain and Hindu sources, but he reinterpreted ahiṃsā as an active, creative force expressed through satyāgraha. Classical Jain nonviolence is primarily oriented toward personal karmic purity and liberation, with strict disciplines for ascetics and moderated vows for householders. Gandhian nonviolence, by contrast, is explicitly aimed at transforming unjust social and political structures. Understanding their relationship requires careful study of both primary religious texts and Gandhi’s own writings, rather than assuming a simple identity between them."
+    },
+    {
+      "myth": "Nonviolence in these traditions only concerns physical acts like killing and has little to do with speech or mental states.",
+      "reality": "Jain, Buddhist, and Hindu sources all extend nonviolence beyond physical harm. Jain texts explicitly include violence by thought, word, and deed, and warn that harsh speech and malicious intention bind karma. Buddhist teachings emphasize that mental states such as hatred and ill will are themselves harmful and must be transformed through practices like mettā and karuṇā. Hindu texts list qualities such as absence of anger, gentleness, and truthfulness alongside ahiṃsā. Comparative study shows that nonviolence is understood as a holistic discipline of body, speech, and mind."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain ontology, “air-bodied” beings—known in Prakrit as *vāyukāya*—constitute one of the five classes of *kāyika jīvas* (embodied living beings). Jainism teaches that all living beings possess *jīva* (sentience), regardless of whether they have a gross physical form. Air-bodied beings belong to the category of *one-sensed* (*ekendriya*) organisms, whose only sense faculty is touch (*sparśendriya*). They are subtle, imperceptible to ordinary human senses, and exist throughout cosmic space wherever air functions as a medium. \n\nJain texts describe air-bodied beings as aggregates of innumerable *pradeśas* (space-points) of air that are enlivened by a soul. They are not identical with the physical substance of air (*vāyu dravya*) itself; rather, they are living entities that inhabit and utilize air as their bodily form. This distinction between the physical element and the living organism is central to Jain metaphysics. \n\nAir-bodied beings are included in discussions of non-violence (*ahiṃsā*) because harming or destroying them—through excessive movement, fire, or careless actions—is considered a form of injury to living beings. Lay and monastic conduct texts emphasize awareness of subtle life forms to cultivate restraint and compassion. \n\nAcross Digambara and Śvetāmbara traditions, the classification of *vāyukāya* remains consistent, though commentarial elaborations differ in describing their modes of existence, karmic bondage, and spatial distribution. Modern scholarship highlights how this category reflects Jainism’s broader commitment to a universal, non-anthropocentric conception of life.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (shared across traditions)",
+      "original_text": "वायुकायास्त्वेकेंद्रियाः",
+      "transliteration": "vāyukāyās tvekendriyāḥ",
+      "translation": "Air-bodied beings are one-sensed.",
+      "notes": "Tattvārtha Sūtra 2.13 classifies air-bodied beings within the broader taxonomy of one-sensed organisms. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārthavṛtti* (Śvetāmbara) clarify that these beings possess only touch and are distinct from non-living air."
+    },
+    {
+      "title": "Śvetāmbara Āgamas – Sūtrakṛtāṅga",
+      "author": "Attributed to Mahāvīra’s teachings; compiled by early Śvetāmbara tradition",
+      "original_text": "एगेइंदिया जिवा—पव्वायो वायुकायो",
+      "transliteration": "egeindiyā jivā—pavvāyo vāyukāyo",
+      "translation": "Among one-sensed beings are those with air as their body.",
+      "notes": "This passage appears in lists of *ekendriya jīvas*. The text emphasizes their subtlety and the ethical implications of harming them through careless actions."
+    },
+    {
+      "title": "Digambara Tradition – Praśnavyākaraṇa (cited in commentarial literature)",
+      "author": "Ancient canonical text; exact authorship uncertain",
+      "original_text": "वायुकायो अनंतप्रदेशसमुदायो",
+      "transliteration": "vāyukāyo anantapradeśasamudāyo",
+      "translation": "An air-bodied being is a conglomeration of innumerable space-points of air.",
+      "notes": "Frequently cited by Digambara commentators to explain the subtle constitution of air-bodied organisms and their distinction from inert air."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Air-bodied beings are simply the physical air we breathe.",
+      "reality": "Jain texts distinguish between *vāyu dravya* (non-living air as a physical substance) and *vāyukāya jīva* (a living organism whose body is composed of air). The presence of a soul is what makes the latter a living being."
+    },
+    {
+      "myth": "Air-bodied beings are symbolic or metaphorical rather than real.",
+      "reality": "In Jain ontology, air-bodied beings are ontologically real and included in ethical calculations of non-violence. Their existence is affirmed in both canonical texts and classical commentaries."
+    },
+    {
+      "myth": "Only visible or tangible beings count in Jain ethics.",
+      "reality": "Jainism explicitly includes subtle, invisible life forms—earth-bodied, water-bodied, fire-bodied, air-bodied, and plant-bodied—in its ethical framework. Awareness of these beings is essential for practicing *ahiṃsā*."
+    }
+  ]
+}

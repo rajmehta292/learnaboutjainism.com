@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “versioned scope” refers to a controlled, text-critical method for defining exactly which edition, recension, manuscript lineage, or interpretive tradition is being referenced when presenting doctrinal, historical, or philological information. Because Jain canonical and post‑canonical literature exists in multiple recensions—Śvetāmbara, Digambara, regional manuscript families, and modern critical editions—scholars and tradition-aware guides use versioned scope to prevent conflation of sources, avoid accidental harmonization, and maintain transparency about textual provenance.\n\nWithin the Source-Grounded Jain Study Guides framework, versioned scope functions as a metadata layer that specifies: (1) the tradition (e.g., Śvetāmbara Mūrtipūjaka, Digambara), (2) the textual tier (canonical, commentarial, scholastic, modern), (3) the edition or manuscript lineage, (4) the interpretive mode (philological, doctrinal, comparative), and (5) the confidence level of the material claim. This ensures that every doctrinal statement—whether about karma theory, gunasthāna progression, vows, cosmology, or ethics—is anchored to a verifiable textual witness.\n\nVersioned scope also protects against anachronism. For example, a term appearing in a 10th‑century Digambara commentary may not exist in early Śvetāmbara Āgamas; likewise, a modern Gujarati pravachan may reinterpret a Prakrit sutra through contemporary ethical concerns. By declaring versioned scope, the guide makes clear which layer of tradition is being used and how far interpretation extends beyond the primary text.\n\nIn manuscript studies, versioned scope is essential for tracking variant readings (pāṭha-bheda), scribal interventions, regional orthographies, and sectarian redactions. In doctrinal analysis, it prevents mixing Digambara and Śvetāmbara karma terminology or assuming uniformity across commentarial traditions. In modern ethics, it clarifies when a principle is drawn from canonical sutras versus later community education.\n\nOverall, versioned scope is a methodological safeguard ensuring precision, transparency, and fidelity to Jain textual diversity. It allows scholars and guides to present information responsibly while acknowledging the complexity of Jain literary transmission.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (sectarian attribution varies)",
+      "original_text": "तत्त्वार्थसूत्रम् १.१: सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "tattvārthasūtram 1.1: samyagdarśanajñānacāritrāṇi mokṣamārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This sutra is shared across traditions but appears in different recensional contexts. Versioned scope is required because Digambara and Śvetāmbara commentaries diverge significantly in terminology, metaphysics, and interpretive emphasis."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Attributed to early Jain canonical redactors",
+      "original_text": "सीयालोगस्स अहिंसा परमो धम्मो",
+      "transliteration": "sīyālogosssa ahiṃsā paramo dhammo",
+      "translation": "For the Śramaṇa, nonviolence is the supreme dharma.",
+      "notes": "Different manuscript families preserve variant phrasing. Versioned scope clarifies whether the citation comes from the Viyāhapannatti-linked recension, the Āgama Mandala critical edition, or regional manuscripts."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara)",
+      "author": "Pūjyapāda’s lineage; foundational Digambara canonical text",
+      "original_text": "कर्मप्रकृतयः जीवस्य स्वभावान्तरं जनयन्ति",
+      "transliteration": "karmaprakṛtayaḥ jīvasya svabhāvāntaraṃ janayanti",
+      "translation": "The karma categories generate transformations in the nature of the soul.",
+      "notes": "The text survives in fragmentary manuscripts and traditional commentaries. Versioned scope is crucial because modern printed editions rely on lineage-transmitted manuscripts with known gaps and reconstructions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Versioned scope is simply a bibliographic citation style.",
+      "reality": "It is a methodological framework that specifies tradition, edition, manuscript lineage, interpretive mode, and confidence level. It prevents conflating sectarian recensions and ensures doctrinal accuracy."
+    },
+    {
+      "myth": "All Jain texts have a single authoritative version, so versioned scope is unnecessary.",
+      "reality": "Jain literature exists in multiple recensions across sects and centuries. Without versioned scope, interpretations may inadvertently mix Digambara and Śvetāmbara readings or rely on unverified editions."
+    },
+    {
+      "myth": "Versioned scope restricts interpretation and makes study rigid.",
+      "reality": "It does not limit interpretation; it clarifies its boundaries. Scholars can still explore philosophical implications, but they must distinguish primary text, commentary, and modern application."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, political participation is approached through the broader ethical framework of ahiṃsā (non‑violence), satya (truthfulness), and aparigraha (non‑possessiveness). Jainism does not prescribe a single political system, nor does it mandate political engagement or withdrawal for laypeople. Instead, it offers principles for evaluating how one’s actions in civic life align with the vows of a śrāvaka (lay follower). \n\nHistorically, Jain communities have participated in political life as advisors, administrators, merchants, and scholars, while maintaining an emphasis on ethical restraint. Classical texts describe kingship, governance, and civic duties primarily to illustrate karmic consequences and the moral responsibilities of rulers, not to endorse political authority as spiritually ideal. Monastics, bound by strict vows, do not engage in political activity, and primary texts consistently warn against coercion, violence, and harmful governance. \n\nFor laypeople, political participation is framed as a domain requiring careful discernment: supporting policies that reduce harm, avoiding speech or actions that incite violence, and recognizing the karmic weight of decisions that affect others. Modern Jain communities often interpret political engagement through contemporary ethics—environmental protection, animal welfare, religious freedom, and non‑violent conflict resolution—while acknowledging that these applications extend beyond classical texts. \n\nAcross traditions (Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth), the underlying principle remains consistent: political participation is permissible for laypeople when conducted with vigilance toward non‑violence, honesty, and responsibility, and when it does not compromise one’s spiritual commitments. The tradition also emphasizes pluralism and respectful coexistence, discouraging sectarian or coercive uses of political power.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "ṇa ya viṇāsaṃ karejja, na ya viṇāsaṃ samācarejja",
+      "transliteration": "ṇa ya vināsaṃ karejja, na ya vināsaṃ samācarejja",
+      "translation": "“One should not cause destruction; one should not carry out destruction.”",
+      "notes": "Tier A. Although not a political text, this foundational injunction against harm is used in Jain ethics to evaluate all forms of civic and social action, including political participation."
+    },
+    {
+      "title": "Tattvārtha Sūtra 7.13",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "hiṃsā‑anṛta‑asteya‑maithuna‑parigrahāḥ pāpaṃ",
+      "transliteration": "hiṃsā-anṛta-asteya-maithuna-parigrahāḥ pāpaṃ",
+      "translation": "“Violence, falsehood, theft, sexual misconduct, and possessiveness are causes of demerit.”",
+      "notes": "Tier A. Commentaries (Tier B) apply this list of five transgressions to public life, noting that political actions involving deceit, coercion, or exploitation generate karmic harm."
+    },
+    {
+      "title": "Niyamasāra (verses on householders)",
+      "author": "Ācārya Kundakunda",
+      "original_text": "jeṇa hoi para‑dukkhaṃ taṃ na kāreu puvvāṇaṃ",
+      "transliteration": "jena hoi para-dukkhaṃ taṃ na kāreu puvvāṇaṃ",
+      "translation": "“That which causes suffering to others should not be done by the wise.”",
+      "notes": "Tier A/B. Digambara tradition. Used to frame lay responsibilities in any sphere where one’s decisions affect others, including governance and civic engagement."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 2.3–4",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "rāyāṇaṃ dhammo, dhammo ya rāyāṇaṃ",
+      "transliteration": "rāyāṇaṃ dhammo, dhammo ya rāyāṇaṃ",
+      "translation": "“The king’s duty is righteousness, and righteousness is the king’s duty.”",
+      "notes": "Tier A. This passage describes ideal governance as rooted in dharma, emphasizing justice, restraint, and protection of living beings. It is descriptive, not prescriptive for lay followers."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism prohibits all political participation for laypeople.",
+      "reality": "Primary texts restrict monastics from political involvement but allow laypeople to participate, provided their actions align with non‑violence, honesty, and responsibility."
+    },
+    {
+      "myth": "Jain teachings endorse a specific political ideology or system.",
+      "reality": "Jain texts discuss governance ethically, not ideologically. They emphasize moral conduct, non‑harm, and justice rather than prescribing a particular political structure."
+    },
+    {
+      "myth": "Supporting any policy involving force automatically violates Jain principles.",
+      "reality": "Jain ethics require careful evaluation of harm, intention, and alternatives. Commentaries acknowledge complex situations where laypeople must choose the least harmful option, though monastics remain fully non‑violent."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, “pronunciation” (uchchāraṇa) is not only a technical matter of phonetics but a central part of scriptural study, liturgical recitation, and ethical discipline. Because most canonical and post‑canonical texts are preserved in Prakrit (especially Ardhamāgadhī, Śaurasenī, and Māhārāṣṭrī) and in Sanskrit, correct articulation of sounds is treated as a prerequisite for right understanding (samyag‑jñāna) and right speech (samyag‑vāca). Jain grammarians and acharyas therefore developed detailed descriptions of vowels, consonants, sandhi (phonetic combination), and prosody, so that students could recite and interpret scriptures without distorting meaning.\n\nFrom a linguistic perspective, Jain Prakrits simplify certain Sanskrit phonemes while retaining a rich consonant system. Vowels such as ṛ, ṝ, and ḷ are typically replaced by a, i, or u; Sanskrit diphthongs ai and au regularly become e and o in Prakrit. Consonant clusters are often reduced, visarga (ḥ) is generally lost, and palatal ś and retroflex ṣ tend to merge into dental s, except in some dialects like Magadhī where ś is preserved. These systematic changes mean that the pronunciation of a Jain Prakrit verse cannot simply be inferred from Sanskrit spelling; instead, students rely on grammars and recitation traditions that specify how each sound is realized in context.\n\nSanskrit, used extensively in Jain philosophical, grammatical, and commentarial literature, follows the classical phonological system described in works inspired by Pāṇini. Sounds are organized by place and manner of articulation—guttural, palatal, retroflex, dental, labial; voiced and voiceless; aspirated and unaspirated; nasals, approximants, and fricatives. Jain grammarians such as Hemacandra adopt and adapt this framework, teaching pratyāhāras (sound groups), internal and external sandhi rules, and the phonotactics of syllables (akṣara). Correct Sanskrit pronunciation is especially important for mantras, ślokas, and technical terms whose meaning can change with even small phonetic errors.\n\nIn practice, pronunciation is learned through a combination of textual study and oral transmission. Foundational grammars and phonology chapters describe the sound system, but the living tradition of recitation—teachers correcting students’ articulation, rhythm, and accent—remains crucial. Different Jain sects (Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, Terāpanth) share the same broad phonological framework, yet local languages and regional accents can influence how Prakrit and Sanskrit are pronounced in daily use. Responsible study therefore distinguishes between (1) the idealized phonetic system described in grammar texts, and (2) the actual recitation practices of particular communities.\n\nModern scholarship on Jain Prakrit and Sanskrit phonology adds further precision, using concepts like phonemes, features, and syllable weight to analyze traditional rules. It confirms many of the sound changes and sandhi patterns described by Jain grammarians, while also noting areas of uncertainty—such as exact historical vowel quality or pitch in older recitation styles. For contemporary students, this means that pronunciation should be guided first by reliable editions of primary texts and traditional grammars, then refined by comparative linguistic studies and, most importantly, by learning from qualified teachers within a living Jain lineage.",
+  "primary_sources": [
+    {
+      "title": "Siddha-Hema-Śabdānuśāsana (Chapter on Prakrit)",
+      "author": "Ācārya Hemacandra",
+      "original_text": "अथ प्राकृतम् । ऋकारलृकारयोरादेशाः प्राकृतेऽचः । ऐऔ इत्येतौ प्राकृते एकारोकारौ भवतः । शषोरोपधयोः सत्वम् ।",
+      "transliteration": "atha prākṛtam. ṛkāra-lṛkārayor ādeśāḥ prākṛte 'caḥ. ai au ity etau prākṛte ekārokarau bhavataḥ. śaṣor opadhayoḥ satvam.",
+      "translation": "Now, Prakrit. In Prakrit, the vowels ṛ and ḷ are replaced by other vowels. The diphthongs ai and au become e and o in Prakrit. The sounds ś and ṣ, when occurring internally, are replaced by s.",
+      "notes": "This grammar, highly influential in Jain traditions, systematically describes how Sanskrit sounds change when words are used in Prakrit. The cited rules explain core pronunciation shifts: loss or replacement of ṛ and ḷ, and the merger of ś and ṣ into s. The text is a primary source (Tier A) for understanding canonical Prakrit pronunciation, though exact historical phonetic realization (such as precise vowel quality) is partly reconstructed through later commentary and modern linguistics."
+    },
+    {
+      "title": "Prakrit Vyakaraṇa (based on Siddha-Hema-Śabdānuśāsana)",
+      "author": "Narmadāśaṅkar Damodar Śāstrī (expounding Hemacandra)",
+      "original_text": "प्राकृते ङञशषविसर्गप्लुतानां लोपः । ऋलृयोः सर्वत्रादेशाः । ऐऔ इत्येतौ एकारोकारौ भवतः ।",
+      "transliteration": "prākṛte ṅ-ña-śa-ṣa-visarga-plutānāṃ lopaḥ. ṛ-lṛyoḥ sarvatrādeśāḥ. ai au ity etau ekārokarau bhavataḥ.",
+      "translation": "In Prakrit, the letters ṅ, ñ, ś, ṣ, visarga, and the prolated vowels are generally dropped. The vowels ṛ and ḷ are replaced everywhere. The diphthongs ai and au become e and o.",
+      "notes": "This work, drawing directly on Hemacandra’s grammar, explains pronunciation rules for students of Jain Prakrit, especially those reading scriptural verses. It clarifies which Sanskrit letters are omitted or transformed in Prakrit and thus guides how canonical texts should be pronounced. While the base rules are primary (Tier A), the Gujarati exposition and examples function as traditional commentary (Tier B), helping modern learners connect written forms to recited sounds."
+    },
+    {
+      "title": "Jainendra Prakriyā (Part 1, sections on pratyāhāra and phonology)",
+      "author": "Guṇānandi Ācārya, Śrīlāl Jain Vyākaraṇaśāstrī",
+      "original_text": "अक इति स्वराः । इच् इति यणः । हल् इति व्यञ्जनानि । एतेषां प्रात्याहारैः वर्णसमूहे निर्दिश्यन्ते ।",
+      "transliteration": "aka iti svarāḥ. ic iti yaṇaḥ. hal iti vyañjanāni. eteṣāṃ prātyāhāraiḥ varṇa-samūhe nirdiśyante.",
+      "translation": "“ak” denotes the vowels. “ic” denotes the semivowels. “hal” denotes the consonants. By means of these pratyāhāras, groups of sounds are indicated.",
+      "notes": "Jainendra Prakriyā adapts the Pāṇinian system of pratyāhāras to Jain grammatical teaching. By defining sound groups (vowels, semivowels, consonants), it provides the framework for rules about sandhi, articulation, and syllable structure in Sanskrit as used by Jain authors. The text itself is a primary grammatical source (Tier A), while later pedagogical summaries and commentaries belong to Tier B or C. Exact recitation practices may vary regionally, so this formal system should be read alongside living oral traditions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Pronunciation in Jainism is purely a matter of local accent, so any way of saying Prakrit or Sanskrit words is acceptable.",
+      "reality": "Jain traditions preserve detailed grammatical and phonological rules for Prakrit and Sanskrit, and these rules constrain how canonical verses and technical terms should be pronounced. While regional accents exist, responsible study distinguishes between informal speech and the more precise articulation expected in scriptural recitation and formal teaching."
+    },
+    {
+      "myth": "Jain Prakrit is just simplified Sanskrit, so one can pronounce Prakrit words exactly as if they were Sanskrit.",
+      "reality": "Jain Prakrits systematically transform Sanskrit sounds: diphthongs ai and au become e and o, ṛ and ḷ are replaced, visarga is usually lost, and ś and ṣ often merge into s. Pronouncing Prakrit as if it were unchanged Sanskrit can obscure meaning and break established recitation patterns described in primary grammars."
+    },
+    {
+      "myth": "Modern printed spellings alone are sufficient to determine correct pronunciation of Jain scriptures.",
+      "reality": "Printed editions are important, but they must be read together with traditional grammars, commentaries, and living recitation practices. Orthography does not always capture historical sound changes or sandhi, and some letters are written for etymological reasons rather than actual pronunciation. Learning from qualified teachers within a Jain lineage remains essential."
+    }
+  ]
+}

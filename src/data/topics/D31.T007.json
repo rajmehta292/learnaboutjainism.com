@@ -1,0 +1,35 @@
+{
+  "overview": "Sanmati‑tarka is a foundational Jain epistemological treatise attributed to Ācārya Siddhasena Divākara (c. 5th–6th century CE), one of the earliest and most influential philosophers in the Jain tradition. The work is primarily concerned with the nature of valid knowledge (pramāṇa), the structure of viewpoints (naya), and the logic of non‑one‑sidedness (anekāntavāda). It is often studied within the broader Jain logical corpus alongside texts such as Siddhasena’s *Nyāyāvatāra* and Umāsvāti’s *Tattvārtha‑sūtra*.\n\nSanmati‑tarka is composed in Sanskrit and Prakrit, and its title can be translated as “The Reasoning of Right View” or “The Logic of Correct Understanding.” The treatise aims to clarify how one arrives at *samyak‑darśana* (right worldview) through disciplined reasoning, distinguishing between partial perspectives and comprehensive insight. It is not a ritual or devotional text; rather, it is a philosophical manual that explains how Jain thinkers evaluate claims about reality.\n\nThe work is especially important for its articulation of the relationship between conventional viewpoints (vyavahāra‑naya) and the ultimate standpoint (niścaya‑naya). Siddhasena argues that philosophical disputes often arise because thinkers cling to one standpoint while ignoring others. Sanmati‑tarka thus provides a systematic method for reconciling apparently contradictory claims by situating them within a multi‑perspectival framework.\n\nHistorically, Sanmati‑tarka influenced both Digambara and Śvetāmbara scholastic traditions. Later commentators, including Haribhadra Sūri and Abhayadeva Sūri, cite or respond to Siddhasena’s formulations. Modern scholarship views the text as a bridge between early Jain canonical thought and the more formalized logic of medieval Jain philosophers such as Akalaṅka and Hemacandra.\n\nBecause the text survives in multiple manuscript traditions, some passages differ across editions. Scholars note that certain verses appear to be later additions, and the boundaries between Sanmati‑tarka and related works are occasionally fluid. Nonetheless, the core of the treatise consistently centers on epistemology, the classification of viewpoints, and the philosophical grounding of right understanding.",
+  "primary_sources": [
+    {
+      "title": "Sanmati‑tarka",
+      "author": "Ācārya Siddhasena Divākara",
+      "original_text": "सम्यग्दर्शनसमुत्पत्तिः कारणैरनुगम्यते । नयप्रमाणविचारैः संमतिर्नाम तर्क्यते ॥",
+      "transliteration": "samyagdarśanasamutpattiḥ kāraṇair anugamyate | nayapramāṇavicāraiḥ sanmatir nāma tarkyate ||",
+      "translation": "“The arising of right worldview is traced through its causes. By examining viewpoints and means of knowledge, what is called ‘right understanding’ is reasoned out.”",
+      "notes": "This representative verse (found in several manuscript traditions) illustrates the text’s central concern: linking right worldview with disciplined inquiry into pramāṇa and naya. Exact wording varies slightly across editions, and some manuscripts place this verse in different positions within the text."
+    },
+    {
+      "title": "Nyāyāvatāra (for comparison)",
+      "author": "Ācārya Siddhasena Divākara",
+      "original_text": "नयस्यावयवो ज्ञानं ज्ञानस्यावयवो नयः ।",
+      "transliteration": "nayasya āvayavo jñānaṃ jñānasyāvayavo nayaḥ |",
+      "translation": "“Viewpoint is a component of knowledge, and knowledge is a component of viewpoint.”",
+      "notes": "Although not part of Sanmati‑tarka, this related text by Siddhasena is frequently studied alongside it. It clarifies the mutual dependence of partial perspectives and comprehensive knowledge, a theme central to Sanmati‑tarka."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sanmati‑tarka is a ritual or devotional scripture used in temple worship.",
+      "reality": "The text is a philosophical treatise on epistemology and logic. It is not used in liturgy and does not prescribe rituals."
+    },
+    {
+      "myth": "Sanmati‑tarka presents a single, definitive Jain viewpoint.",
+      "reality": "The treatise emphasizes that no single viewpoint captures the whole truth. It teaches how multiple perspectives can be integrated through anekāntavāda."
+    },
+    {
+      "myth": "Sanmati‑tarka belongs exclusively to either the Digambara or Śvetāmbara tradition.",
+      "reality": "Both traditions study Siddhasena’s works. Manuscript variations exist, but the text is part of the shared early Jain philosophical heritage."
+    }
+  ]
+}

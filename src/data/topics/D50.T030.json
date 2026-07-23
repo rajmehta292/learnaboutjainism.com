@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, the term “corrections” refers to the processes by which textual, doctrinal, ritual, or ethical inaccuracies are identified and amended within the tradition’s long history of scriptural transmission, commentary, and lived practice. Because Jainism maintains a strong emphasis on *samyak‑jñāna* (right knowledge) and *samyak‑cāritra* (right conduct), the tradition has developed careful mechanisms for correcting errors in manuscripts, clarifying doctrinal misunderstandings, and guiding practitioners toward more accurate interpretations of foundational teachings.\n\nHistorically, corrections emerged as a necessity due to the vast corpus of Jain scriptures, their transmission across centuries, and the coexistence of multiple sectarian traditions. Manuscript copying in Prakrit and Sanskrit required scribes to follow established conventions for noting doubtful readings, variant recensions, and suspected interpolations. Later commentaries—both Digambara and Śvetāmbara—often include explicit corrective notes where earlier interpretations were considered incomplete or inconsistent with canonical logic.\n\nIn ethical and ritual contexts, corrections refer to the guidance offered by teachers and texts to help laypeople refine their understanding of vows, daily practices, and karmic theory. These corrections are not authoritative rulings but educational clarifications grounded in scripture and commentary. They help practitioners avoid misunderstandings such as equating austerity with harm, confusing symbolic rituals with literal metaphysics, or misapplying karmic categories.\n\nIn modern scholarship, corrections also involve philological reconstruction, comparison of manuscript families, and critical editions that attempt to restore earlier readings while documenting uncertainties. These academic corrections do not replace traditional interpretations but provide additional layers of understanding that can illuminate historical development.\n\nAcross all domains, Jain correctional practices emphasize transparency: noting disagreements, preserving variant readings, and distinguishing between quotation, paraphrase, and interpretation. This aligns with the tradition’s commitment to *anekāntavāda*, the doctrine of many-sidedness, which encourages careful attention to context and the recognition that corrections themselves may be provisional and open to further refinement.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "अज्ञानान्धकारात् ज्ञानप्रकाशः",
+      "transliteration": "ajñānāndhakārāt jñānaprakāśaḥ",
+      "translation": "From the darkness of ignorance arises the illumination of knowledge.",
+      "notes": "Although not explicitly about textual correction, this aphorism is frequently cited in commentarial traditions to justify the need for clarifying misunderstandings and refining doctrinal interpretation. Commentators such as Pūjyapāda (Digambara) and Siddhasena Gaṇin (Śvetāmbara) use similar passages to frame corrective explanations."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Kundakunda",
+      "original_text": "पव्वत्तस्स णिव्वत्तो, णिव्वत्तस्स पव्वत्तो।",
+      "transliteration": "pavvattassa nivvatto, nivvatassa pavvatto.",
+      "translation": "The worldly state is corrected by the non-worldly, and the non-worldly is understood through the worldly.",
+      "notes": "This verse is interpreted by Digambara commentators as illustrating the corrective interplay between mistaken perception and right insight. It is often used to explain how doctrinal corrections help practitioners move from conventional views toward more accurate understanding."
+    },
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "दोसविसेसविणयो सुत्तस्स कारणं।",
+      "transliteration": "dosavisesaviṇayo suttassa kāraṇaṃ.",
+      "translation": "The removal of faults and distinctions is essential for the proper functioning of scripture.",
+      "notes": "Śvetāmbara Mūrtipūjaka and Sthānakavāsī traditions cite this line when discussing the need for careful correction of ritual misunderstandings and textual irregularities. The verse underscores the importance of identifying and resolving errors in scriptural transmission."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Corrections imply that Jain scriptures are unstable or unreliable.",
+      "reality": "Corrections are part of a long-standing scholarly and monastic tradition of preserving accuracy. Jain texts have robust systems for documenting variants, noting uncertainties, and maintaining lineage-based interpretations."
+    },
+    {
+      "myth": "Corrections allow any teacher or practitioner to reinterpret doctrine freely.",
+      "reality": "Jain correctional practices rely on established canonical sources, commentaries, and lineage-based learning. They do not authorize individuals to issue new doctrinal rulings or override traditional frameworks."
+    },
+    {
+      "myth": "Modern academic corrections replace traditional Jain interpretations.",
+      "reality": "Philological corrections in scholarship complement but do not supersede traditional commentaries. They provide historical insight while acknowledging the authority of established Jain hermeneutics."
+    }
+  ]
+}

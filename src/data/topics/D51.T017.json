@@ -1,0 +1,67 @@
+{
+  "overview": "Full-text search is a family of techniques in information retrieval that allow users to search directly within the complete textual content of documents, rather than only within metadata fields such as titles, authors, or keywords. In a full-text search system, the engine examines the words contained in stored documents and returns those whose content matches the user’s query, often ranked by estimated relevance rather than simple exact matching. This approach underpins modern search experiences in web search engines, document management systems, email clients, content management platforms, and application-level search features in databases and search engines.\n\nAt small scales, full-text search can be implemented by scanning each document directly for every query—a method known as serial scanning. Tools like grep operate in this way, reading files linearly and checking for matches to a pattern. As collections grow larger, however, serial scanning becomes too slow and resource-intensive, so full-text search is typically divided into two stages: indexing and searching. During indexing, the system scans all documents and builds a data structure—commonly an inverted index or concordance—that records each term and the documents in which it appears. During searching, queries are executed against this index rather than the raw documents, enabling sub-second retrieval across millions or billions of records.\n\nThe core data structure of most full-text search engines is the inverted index. Conceptually similar to the index at the back of a textbook, an inverted index maps each unique term in the corpus to a postings list containing the identifiers of documents where the term occurs, along with optional metadata such as term frequency and positional information. This structure allows the engine to answer the question “which documents contain this term?” very efficiently. Building the index involves a text analysis pipeline: tokenization (splitting text into words or tokens), normalization (lowercasing, removing punctuation, and handling Unicode), stop-word removal (omitting very common, low-information words like “the” or “and”), and often stemming or lemmatization (reducing inflected forms like “drives,” “drove,” and “driven” to a base form such as “drive”). These steps improve both recall (finding more relevant documents) and robustness across linguistic variation.\n\nModern full-text search systems typically support two broad modes of operation: Boolean keyword search and ranked retrieval. In Boolean search, users specify logical combinations of terms (AND, OR, NOT), and the engine returns documents that satisfy the exact logical conditions. In ranked retrieval, the engine scores documents according to relevance models such as TF–IDF (Term Frequency–Inverse Document Frequency) or BM25, then orders results so that the most likely relevant documents appear first. TF–IDF and BM25 balance how often a term appears in a document (term frequency) against how rare it is across the corpus (inverse document frequency), so that distinctive terms contribute more to relevance than ubiquitous ones. This ranking is crucial in large collections, where many documents may match a query but only a few are truly useful.\n\nFull-text search is evaluated using standard metrics such as precision and recall. Recall measures the proportion of all relevant documents that the system successfully retrieves, while precision measures the proportion of retrieved documents that are actually relevant. In practice, there is often a tradeoff between precision and recall: aggressive matching and expansion (e.g., synonyms, stemming) can increase recall but may reduce precision by including more marginally relevant results, whereas strict matching can improve precision but miss relevant documents that use different wording. Benchmarking programs like NIST’s Text REtrieval Conference (TREC) provide standardized tasks and datasets to compare retrieval systems and ranking algorithms.\n\nHistorically, full-text search techniques began to appear in the 1960s, with systems such as IBM STAIRS, and became common in online bibliographic databases by the 1990s. Today, full-text search capabilities are embedded in relational databases (e.g., PostgreSQL’s full-text search with tsvector and GIN indexes), dedicated search engines (e.g., Elasticsearch, Apache Solr, and Lucene), and specialized platforms for log analysis, e-commerce product search, and enterprise knowledge management. These systems extend basic full-text search with features like phrase queries, proximity search, wildcard and fuzzy matching, faceted navigation, highlighting, and support for multiple languages and scripts. As data volumes grow to terabytes and petabytes, full-text search remains a foundational technology for making unstructured text discoverable and useful.\n\nFull-text search is distinct from simple pattern matching or metadata-based search in both performance and functionality. A naive SQL query using LIKE '%term%' must scan every row in a table and cannot rank results by relevance, making it unsuitable for large-scale applications. By contrast, full-text search engines leverage inverted indexes, sophisticated text analysis, and relevance scoring to deliver fast, ranked results that account for linguistic variation, typos, and user intent. This combination of indexing, analysis, and ranking is what turns a raw text store into a true search engine.",
+  "primary_sources": [
+    {
+      "title": "Full-text search",
+      "author": "Wikipedia contributors",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "In text retrieval, full-text search refers to a set of techniques for searching a single computer-stored document or a collection in a full-text database. Full-text search is distinguished from searches based on metadata or on specific parts of documents, such as titles, abstracts, selected sections, or bibliographical references. In a full-text search, a search engine examines the words in stored documents to find matches for user queries.",
+      "notes": "This modern encyclopedia article provides a widely cited definition and historical overview of full-text search, including the distinction between full-text and metadata-based search, the indexing/searching split, and the role of stop words and stemming. It is a Tier C/D source in the technical corpus, useful for general orientation but not a primary research paper."
+    },
+    {
+      "title": "Okapi BM25 and probabilistic relevance framework",
+      "author": "Stephen E. Robertson and Karen Spärck Jones",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "BM25 is a ranking function used by search engines to estimate the relevance of documents to a given search query. It is based on the probabilistic retrieval framework and combines term frequency, inverse document frequency, and document length normalization to produce a relevance score.",
+      "notes": "The Okapi BM25 algorithm is a foundational relevance model in full-text search and information retrieval. Many modern search engines use BM25 or variants as their default ranking function for full-text queries. This is a Tier C primary research source for ranking models within full-text search systems."
+    },
+    {
+      "title": "Text REtrieval Conference (TREC)",
+      "author": "National Institute of Standards and Technology (NIST)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The Text REtrieval Conference (TREC) is a series of workshops that encourage research in information retrieval by providing large test collections, uniform scoring procedures, and a forum for organizations interested in comparing their results.",
+      "notes": "TREC provides standardized benchmarks and evaluation methodologies for full-text retrieval systems, including tasks that measure precision, recall, and ranking quality. It is a Tier C institutional source that anchors claims about evaluation practices in full-text search."
+    },
+    {
+      "title": "Elasticsearch documentation: Full-text search",
+      "author": "Elastic",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Full-text search is how modern applications search through large volumes of unstructured text. Rather than hunting for an exact character-by-character match like traditional database queries do, full-text search uses lexical analysis to understand the words themselves, surfacing the most relevant results based on linguistic rules, term importance, and what the user actually means.",
+      "notes": "Vendor documentation from Elastic describes practical implementation details of full-text search, including inverted indexes, analysis pipelines, and relevance scoring. It is a Tier D technical source that illustrates how theoretical concepts are applied in production systems."
+    },
+    {
+      "title": "PostgreSQL documentation: Full Text Search",
+      "author": "PostgreSQL Global Development Group",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "PostgreSQL provides full text search capabilities to search through large collections of text efficiently. It uses a tsvector data type to store preprocessed documents and GIN or GiST indexes to support fast searching, including ranking and highlighting of results.",
+      "notes": "This database documentation shows how full-text search is integrated into a relational database, including the use of specialized data types and indexes. It exemplifies the indexing/searching split and the use of linguistic preprocessing in a widely used open-source system."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Full-text search is just running a LIKE '%term%' query over text columns in a database.",
+      "reality": "Simple pattern matching with LIKE scans every row and cannot rank results by relevance. Full-text search relies on specialized indexes (such as inverted indexes), text analysis pipelines, and relevance scoring models like TF–IDF or BM25 to provide fast, ranked retrieval across large collections."
+    },
+    {
+      "myth": "Full-text search always returns exact word matches and cannot handle typos, synonyms, or different word forms.",
+      "reality": "Modern full-text search engines use tokenization, normalization, stemming or lemmatization, and sometimes synonym dictionaries and fuzzy matching to handle linguistic variation. They can match related forms of a word, tolerate minor spelling errors, and expand queries to include semantically related terms when configured to do so."
+    },
+    {
+      "myth": "Full-text search is only useful for web search engines and is not relevant to databases or enterprise applications.",
+      "reality": "Full-text search is widely used in relational databases, document stores, email systems, content management platforms, e-commerce catalogs, log analysis tools, and enterprise knowledge bases. Any application that needs to search unstructured or semi-structured text at scale benefits from full-text search techniques."
+    },
+    {
+      "myth": "Adding full-text search is a simple optimization that can be bolted on without architectural impact.",
+      "reality": "Full-text search indexes consume additional storage, must be kept in sync with source data, and introduce operational considerations such as index build times, update strategies, and relevance tuning. Designing a robust full-text search system requires architectural planning, not just a minor optimization."
+    },
+    {
+      "myth": "High recall and high precision are always achievable simultaneously in full-text search.",
+      "reality": "Precision and recall often trade off against each other. Techniques that broaden matching (e.g., aggressive stemming or synonym expansion) can increase recall but may reduce precision by including more marginally relevant results, while stricter matching can improve precision but miss relevant documents that use different wording. Balancing these metrics is a central design challenge in full-text search."
+    }
+  ]
+}

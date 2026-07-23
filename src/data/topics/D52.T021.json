@@ -1,0 +1,43 @@
+{
+  "overview": "In the Jain studies architecture, “human review” refers to the mandatory involvement of qualified human scholars, lineage‑authorized teachers, or domain experts to validate interpretations, translations, and applications of Jain primary texts. It is a structural safeguard designed to prevent misrepresentation of scripture, avoid accidental doctrinal errors, and ensure that any guidance—especially in sensitive areas such as ethics, fasting, karma theory, or sect-specific practice—remains aligned with verifiable tradition. Human review is not a ritual or religious requirement; it is an academic and methodological standard that protects both the user and the integrity of Jain knowledge.\n\nHuman review operates across several layers. First, it ensures that primary textual citations (Āgamas, Digambara canonical works, commentaries, Prakrit/Sanskrit manuscripts) are drawn from authenticated editions rather than unverified OCR or AI-generated text. Second, it confirms that interpretations are consistent with the relevant sect’s hermeneutics—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, or Terāpanth—because doctrinal nuances differ significantly across traditions. Third, it provides oversight for modern ethical applications, preventing the misuse of Jain concepts in medical, legal, or psychological contexts.\n\nHuman review also functions as a boundary marker: it clarifies when a question requires a living lineage authority rather than academic explanation. For example, dikṣā, advanced vows, or sect-specific ritual authorization cannot be determined by automated systems and must be referred to qualified human teachers. In research contexts, human review ensures that manuscript variants, philological uncertainties, and translation ambiguities are disclosed rather than hidden. In educational contexts, it helps maintain accuracy and prevents the spread of misconceptions.\n\nOverall, human review is a structural principle that keeps Jain studies grounded in verifiable sources, transparent about uncertainty, and respectful of the living traditions that steward the texts. It is not a replacement for personal inquiry or scholarly reading; rather, it is a quality-control mechanism that ensures responsible transmission of Jain knowledge.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (disputed between Śvetāmbara and Digambara traditions)",
+      "original_text": "प्रमाणज्ञानं च",
+      "transliteration": "pramāṇa‑jñānaṃ ca",
+      "translation": "Knowledge arises through valid means of cognition.",
+      "notes": "This aphorism (TS 1.6) is foundational for Jain epistemology. Human review aligns with the Jain emphasis on pramāṇa—ensuring that knowledge claims are grounded in valid sources. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* and Siddhasena’s *Tattvārtha-vṛtti* emphasize the need for correct interpretation and verification."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "णाणं तु सुद्धं णिस्संसयमविग्गहं",
+      "transliteration": "ṇāṇaṃ tu suddhaṃ nissaṃsayamaviggahaṃ",
+      "translation": "Pure knowledge is free from doubt and distortion.",
+      "notes": "Human review helps prevent distortion (*aviggaha*) by ensuring that interpretations of Kundakunda’s Prakrit texts are checked against reliable Digambara commentarial traditions."
+    },
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "सुतं नाणं दुहावहं",
+      "transliteration": "sutaṃ nāṇaṃ duhāvahaṃ",
+      "translation": "Scriptural knowledge requires careful handling.",
+      "notes": "This early Śvetāmbara text emphasizes the delicacy of scriptural interpretation. Human review reflects this principle by ensuring that scriptural citations are accurate and contextually appropriate."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Human review is a religious requirement imposed by Jain monastic authorities.",
+      "reality": "Human review is an academic and methodological safeguard, not a ritual or monastic rule. It ensures accuracy and prevents misuse of Jain texts."
+    },
+    {
+      "myth": "Human review replaces personal study of Jain scriptures.",
+      "reality": "Human review complements personal study by ensuring that the materials consulted are reliable, properly translated, and contextually accurate."
+    },
+    {
+      "myth": "Human review means only monks or nuns can validate Jain knowledge.",
+      "reality": "Human review may involve scholars, philologists, manuscript experts, or lineage teachers depending on the question. It is not restricted to monastics."
+    }
+  ]
+}

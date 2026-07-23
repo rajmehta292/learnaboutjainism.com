@@ -1,0 +1,43 @@
+{
+  "overview": "Loka-svarupa (the “structure” or “form” of the universe) is a foundational topic in Jain cosmology describing the shape, dimensions, regions, and ontological divisions of the cosmos as understood in both Digambara and Śvetāmbara traditions. Jainism presents the loka as eternal, beginningless, and uncreated, governed by natural laws rather than a creator deity. It is typically depicted as having a fixed, three-tiered vertical structure resembling a standing human figure or cosmic form. The loka contains all substances (dravya) capable of motion, experience, and karmic transformation, while the aloka—an infinite expanse beyond—remains empty and inaccessible.\n\nThe upper region (ūrdhva-loka) houses the heavens and culminates in Siddha-śilā, the realm where liberated souls reside. The middle region (madhya-loka) contains human and animal realms, including Jambūdvīpa and other continents and oceans. The lower region (adho-loka) consists of seven hells. Each region is precisely measured in Jain cosmological texts, using units such as rajju, yojana, and samaya, with detailed descriptions of the beings, karmic conditions, and environmental features present in each layer.\n\nLoka-svarupa is not merely a physical map but a metaphysical schema linking cosmology with ethics, karma theory, and spiritual progress. The structure of the loka determines where different types of beings can be born, the conditions under which liberation is possible, and the pathways through which souls ascend or descend according to karmic bondage. While Digambara and Śvetāmbara sources agree on the broad outline, they differ in certain numerical details, iconographic depictions, and interpretive emphases. Modern scholarship continues to study these models through manuscripts, commentaries, and comparative cosmology, noting both the precision of Jain measurements and the symbolic dimensions of the cosmic form.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "लोकः त्रिविधः",
+      "transliteration": "lokaḥ trividhaḥ",
+      "translation": "The universe is threefold.",
+      "notes": "Tattvārtha-sūtra 3.1 introduces the tripartite division of the loka: upper, middle, and lower. Commentaries such as Pūjyapāda’s Sarvārtha-siddhi (Digambara) and Siddhasena’s Tattvārtha-vṛtti (Śvetāmbara) elaborate on dimensions, inhabitants, and karmic conditions."
+    },
+    {
+      "title": "Saṃgrahaṇī-sūtra",
+      "author": "Attributed to Śvetāmbara tradition (often linked to Devendra)",
+      "original_text": "जम्बूद्वीपो मध्ये लोके",
+      "transliteration": "jambūdvīpo madhye loke",
+      "translation": "Jambūdvīpa lies in the middle of the universe.",
+      "notes": "A key Śvetāmbara text describing the middle world, its continents, oceans, and cosmological measurements. Often accompanied by illustrated cosmological charts in manuscripts."
+    },
+    {
+      "title": "Tiloya-paṇṇatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "लोयस्स णिव्वाणस्स णिव्वाणं णत्थि कदाचि",
+      "transliteration": "loyassa nivvāṇassa nivvāṇaṃ natthi kadāci",
+      "translation": "Within the loka, liberation occurs; outside it, liberation is not possible.",
+      "notes": "Tiloya-paṇṇatti provides extensive Digambara cosmological detail, including measurements of heavens, hells, and the middle world. The cited line emphasizes the metaphysical boundary between loka and aloka."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain cosmology describes a universe created by a deity.",
+      "reality": "Jain texts consistently state that the loka is beginningless, uncreated, and governed by natural laws. No creator god shapes or maintains the universe."
+    },
+    {
+      "myth": "The loka-svarupa is purely symbolic and not meant to be taken as a structured cosmology.",
+      "reality": "While symbolic dimensions exist, primary texts provide precise measurements, layers, and classifications. Jain cosmology is both descriptive and metaphysical."
+    },
+    {
+      "myth": "All Jain traditions depict the loka in exactly the same way.",
+      "reality": "The overall structure is shared, but Digambara and Śvetāmbara sources differ in certain numerical details, iconography, and interpretive emphasis."
+    }
+  ]
+}

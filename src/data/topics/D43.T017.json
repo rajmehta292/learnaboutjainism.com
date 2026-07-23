@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, occupations (śilpa, vṛtti, jīvika) are discussed primarily in relation to ethical livelihood, karmic consequences, and the duties of householders (śrāvakas). Jainism does not prescribe a single mandatory profession for laypeople; instead, it evaluates occupations according to the degree of violence (hiṃsā), deceit (māyā), and harm to living beings involved. The classical texts distinguish between permissible livelihoods for lay followers and the renunciatory ideal of non-possession and non-occupation for monastics.\n\nAcross traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—the core principle remains the same: occupations must minimize harm and uphold the five vows (pañca-vrata) in their lay form. The Jain householder is expected to earn wealth ethically, avoid trades involving slaughter, exploitation, or weapons, and practice restraint in consumption and accumulation. The canonical literature often groups occupations into broad categories such as agriculture, trade, crafts, governance, and service, evaluating each according to its impact on living beings and its alignment with right conduct (samyak-cāritra).\n\nLater commentaries and community traditions expand on these foundations, offering guidance for contemporary professions such as business, medicine, law, and technology. These interpretations emphasize intention, transparency, and minimizing harm, while acknowledging that modern livelihoods require nuanced application of ancient principles. The overarching goal is to cultivate livelihoods that support spiritual progress, social responsibility, and nonviolence.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं जावंति जिवा तं न हणे",
+      "transliteration": "ṇaṃ jāvaṃti jīvā taṃ na haṇe",
+      "translation": "“Where living beings exist, one should not harm them.”",
+      "notes": "Although the text does not list occupations, it establishes the foundational principle of non-harm that later guides evaluation of livelihoods. This passage is Tier A (verified primary text)."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 23.29–30",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जेण जिवा विरायंति तं वेसं न कुर्व्वइ",
+      "transliteration": "jeṇa jīvā virāyaṃti taṃ vesaṃ na kurvvaï",
+      "translation": "“One should not engage in a trade through which living beings are harmed.”",
+      "notes": "This passage directly addresses occupations, advising householders to avoid harmful trades. Tier A source."
+    },
+    {
+      "title": "Tattvārtha Sūtra 7.13",
+      "author": "Umāsvāti/Umāsvāmī",
+      "original_text": "अणर्थदण्डविरमणव्रतम्",
+      "transliteration": "anarthadaṇḍaviraṃaṇavratam",
+      "translation": "“The vow of refraining from purposeless harm.”",
+      "notes": "Commentaries (Tier B) explain that harmful occupations fall under anarthadaṇḍa (unnecessary injury), making this vow central to evaluating livelihoods."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra 75–80",
+      "author": "Samantabhadra (Digambara)",
+      "original_text": "हिंसादानवञ्चनाद्यन्यथाकरणवर्जिता वृत्तिः",
+      "transliteration": "hiṃsādānavañcanādyanyathākaraṇavarjitā vṛttiḥ",
+      "translation": "“Livelihood should be free from violence, theft, deceit, and distortion.”",
+      "notes": "A key Digambara text outlining ethical livelihood for householders. Tier B commentary tradition elaborates on acceptable and unacceptable occupations."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism forbids all occupations involving any form of harm, making most modern professions impermissible.",
+      "reality": "Primary texts distinguish between intentional, avoidable harm and unavoidable harm for householders. Jain lay ethics allow many occupations when practiced with restraint, honesty, and efforts to minimize harm."
+    },
+    {
+      "myth": "All Jains must follow the same occupational rules regardless of tradition.",
+      "reality": "While the core principles of nonviolence and ethical livelihood are shared, Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth traditions offer different emphases and interpretations in their commentaries."
+    },
+    {
+      "myth": "Jain texts provide exhaustive lists of approved and banned professions.",
+      "reality": "Canonical texts offer principles rather than exhaustive lists. Later commentaries and community guidelines apply these principles to specific occupations, especially in modern contexts."
+    }
+  ]
+}

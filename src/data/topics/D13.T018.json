@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, “mental action” (manah‑yoga or bhāva‑karma) refers to the internal activities of thought, intention, attention, evaluation, and emotional orientation that shape the moral quality of a person’s conduct. Jainism treats mental action as a fully accountable form of karma‑producing behavior, equal in ethical significance to bodily and verbal action. The tradition emphasizes that the mind is not merely a passive arena but an active generator of impulses that bind or liberate the soul.\n\nAcross the canonical and commentarial literature, mental action is described as the subtle domain in which passions (kaṣāyas), dispositions (bhāvas), and cognitive states (jñāna‑darśana) arise. These inner movements determine whether external actions become karmically binding and whether the aspirant progresses through the guṇasthānas (stages of spiritual development). Even when no physical or verbal act occurs, mental activity—such as harboring anger, pride, deceit, greed, or violent intent—creates karmic influx (āsrava) and bondage (bandha).\n\nJain texts distinguish between pure mental activity (śuddha‑bhāva), which aligns with right faith, right knowledge, and right conduct, and impure mental activity (aśuddha‑bhāva), which is driven by attachment and aversion. The cultivation of equanimity (samatā), mindfulness (apramatta), and restraint (saṃyama) is therefore central to transforming mental action. Meditation practices such as dhyāna and internal austerities (ābhyantara‑tapas) aim to stabilize and purify mental activity, reducing the intensity of passions and preventing new karmic accumulation.\n\nIn lay practice, mental action is especially important because householders cannot always avoid physical or verbal harm. By moderating intention, reducing emotional reactivity, and cultivating compassion, they minimize karmic consequences even when performing necessary worldly duties. In monastic practice, mental action becomes the primary field of discipline, as monks and nuns strive to eliminate subtle passions and achieve non‑violent cognition.\n\nOverall, mental action is the inner moral architecture of Jain ethics: the place where karmic processes begin, where spiritual progress is measured, and where liberation ultimately becomes possible.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "मनःयोगोऽर्थवचनकाययोगाः",
+      "transliteration": "manaḥ‑yogo ’rtha‑vacana‑kāya‑yogāḥ",
+      "translation": "Mental, verbal, and bodily activities are the channels through which action occurs.",
+      "notes": "Tattvārtha Sūtra 6.1 identifies mental action as one of the three yogas that enable karmic influx. Commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi) explain that mental action includes intention, decision, and emotional orientation."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "एवमिह मनसा दुष्टभावो पावं बन्धति।",
+      "transliteration": "evam iha manasā duṣṭa‑bhāvo pāvaṃ bandhati",
+      "translation": "Thus, here, an impure mental state binds sin (pāpa).",
+      "notes": "This passage highlights the karmic significance of mental impurity, even without external action. The text emphasizes vigilance over internal states as part of non‑violence."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Svetambara canonical text",
+      "original_text": "भावेण हिंसा हवे, न तु वधेन।",
+      "transliteration": "bhāveṇa hiṃsā have, na tu vadhen",
+      "translation": "Violence is caused by intention, not merely by the act of killing.",
+      "notes": "This passage clarifies that mental intention is the decisive factor in determining whether an act is violent. It is frequently cited in discussions of mental action and ahiṃsā."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Mental action does not produce karma unless it leads to physical or verbal harm.",
+      "reality": "Jain texts consistently state that mental action alone—such as harboring anger or violent intent—creates karmic influx and bondage, even without external expression."
+    },
+    {
+      "myth": "Mental action is only relevant for monks and nuns.",
+      "reality": "Laypeople are equally accountable for mental action. Jain ethics emphasizes intention and emotional regulation for all practitioners, especially because householders cannot always avoid external harm."
+    },
+    {
+      "myth": "Mental action refers only to conscious thoughts.",
+      "reality": "Jain sources include subtle passions, latent dispositions, and habitual emotional tendencies within the scope of mental action, not just explicit or deliberate thinking."
+    }
+  ]
+}

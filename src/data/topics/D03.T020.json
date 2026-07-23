@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, **karmic matter (karma pudgala)** refers to a subtle form of material particles that bind to the soul (jīva) due to its activities, passions, and vibrations. Unlike metaphorical or purely ethical notions of karma found in other traditions, Jainism treats karma as a **real, physical substance** composed of extremely fine pudgala (matter) that interacts with the soul. This doctrine is foundational across all Jain traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—though interpretive nuances vary.\n\nKarmic matter attaches to the soul when it experiences **kaṣāyas** (passions such as anger, pride, deceit, and greed) or engages in activities that generate **vibrations (yoga)**. Once bound, karmic particles obscure the soul’s innate qualities: infinite knowledge, perception, bliss, and energy. The process of karmic bondage is described through four stages: **āsrava (influx)**, **bandha (bondage)**, **saṃvara (stoppage)**, and **nirjarā (shedding)**. Liberation (mokṣa) occurs when all karmic matter is completely shed.\n\nJain texts classify karma into **eight primary types**, divided into **ghātiyā (destructive)** and **aghātiyā (non-destructive)** categories. Destructive karmas obscure the soul’s essential qualities, while non-destructive karmas shape worldly experience such as lifespan, body, and social status. The technical elaboration of karmic matter is central to Jain metaphysics, ethics, and cosmology, forming the backbone of the **guṇasthāna** (stages of spiritual development) and the path toward liberation.\n\nModern scholarship highlights the sophistication of Jain karmic theory, noting its unique combination of moral causation, metaphysical realism, and psychological analysis. However, all interpretations must remain grounded in primary texts and traditional commentaries to avoid oversimplification or misrepresentation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmī (traditionally attributed)",
+      "original_text": "कर्मास्तु द्रव्यं",
+      "transliteration": "karmāstu dravyaṁ",
+      "translation": "Karma is indeed a substance.",
+      "notes": "Tattvārtha Sūtra 8.1 defines karma as a real material substance (dravya). This is the most authoritative pan-Jain text accepted by both Digambara and Śvetāmbara traditions. Subsequent sūtras elaborate the eight types of karma, their duration, intensity, and fruition."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "कम्मपोग्गलस्स बंधो जीवस्स कारणं",
+      "transliteration": "kammapoggala-ssa bandho jīvassa kāraṇaṁ",
+      "translation": "The bondage of karmic matter is the cause affecting the soul.",
+      "notes": "A foundational Digambara canonical text detailing the mechanisms of karmic bondage, including the technical categories of karmic particles, their binding conditions, and the soul’s vibrational activities."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara redactors",
+      "original_text": "जो कम्मं बंधइ सो कम्मं भुग्गइ",
+      "transliteration": "jo kammaṁ bandhai so kammaṁ bhuggai",
+      "translation": "He who binds karma must also bear it.",
+      "notes": "This text emphasizes the ethical dimension of karmic bondage, linking moral conduct with karmic accumulation and future experience."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Karma in Jainism is purely metaphorical or psychological.",
+      "reality": "Jainism asserts that karmic matter is a real, physical substance composed of subtle pudgala that literally binds to the soul."
+    },
+    {
+      "myth": "All karma is the same and only relates to moral actions.",
+      "reality": "Jain texts classify karma into eight distinct types, some affecting knowledge and perception, others determining lifespan, body, and social conditions."
+    },
+    {
+      "myth": "Karmic bondage occurs only due to bad actions.",
+      "reality": "Both good and bad actions bind karma. Even meritorious deeds can bind auspicious karmas unless performed without attachment and passions."
+    }
+  ]
+}

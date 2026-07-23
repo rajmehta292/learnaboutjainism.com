@@ -1,0 +1,51 @@
+{
+  "overview": "The seven‑tattva system (saptatattva) is one of the most influential analytical frameworks in Jain philosophy for describing the structure of bondage and liberation. It appears in early canonical and semi‑canonical literature and becomes foundational in both Digambara and Śvetāmbara traditions. In its classical form, the system identifies seven fundamental realities—jīva (sentient being), ajīva (non‑sentient reality), āsrava (influx of karmic matter), bandha (bondage of karma to the soul), saṃvara (stoppage of influx), nirjarā (shedding of karma), and mokṣa (liberation). These tattvas are not merely metaphysical categories; they form a sequential causal chain explaining how the soul becomes bound and how it can be freed.\n\nThe earliest strata of Jain thought present tattvas as ontological constituents of reality. Over time, commentators such as Pūjyapāda, Akalaṅka, Abhayadeva, and later Yaśovijaya refine the system into a soteriological map. The tattvas are also integrated into the karma theory and the fourteen guṇasthānas (stages of spiritual development), where saṃvara and nirjarā become technical processes tied to vows, austerities, and right conduct.\n\nAlthough the seven‑tattva system is widely taught, some traditions expand it into nine tattvas by adding puṇya (merit) and pāpa (demerit). Both systems share the same core logic: understanding the soul, understanding the mechanism of bondage, and applying disciplined practice to achieve liberation. The seven‑tattva system remains central in lay education, monastic training, and comparative Jain studies, serving as a concise yet profound summary of Jain metaphysics and ethics.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "जीवाजिवाअस्रवबन्धसंवरनिर्जरामोक्षाः",
+      "transliteration": "jīvājivāsravabandhasaṃvaranirjarāmokṣāḥ",
+      "translation": "“The categories are: soul, non‑soul, influx, bondage, stoppage, dissociation, and liberation.”",
+      "notes": "Tattvārthasūtra 1.4 is the most authoritative early aphorism listing the seven tattvas. Digambara and Śvetāmbara commentaries agree on the enumeration but differ in interpretive details."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "जीवो पुण्णपावं बन्धं मोक्कं च जाणइ",
+      "transliteration": "jīvo puṇṇapāvaṃ bandhaṃ mokkaṃ ca jāṇai",
+      "translation": "“The soul knows merit, demerit, bondage, and liberation.”",
+      "notes": "Although Samayasāra often uses the nine‑tattva scheme, its discussions of bondage, influx, and liberation directly illuminate the seven‑tattva system."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "अस्सवो बन्धो च, तस्स संवरनिर्जरा मोक्को",
+      "transliteration": "asravo bandho ca, tassa saṃvaranirjarā mokko",
+      "translation": "“There is influx and bondage; for that, stoppage and dissociation lead to liberation.”",
+      "notes": "A concise Digambara articulation of the causal chain linking the tattvas."
+    },
+    {
+      "title": "Uttarādhyayana-sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जीवो जीवस्स कारणं, अस्सवो बन्धो च",
+      "transliteration": "jīvo jīvassa kāraṇaṃ, asravo bandho ca",
+      "translation": "“The soul is the cause of its own condition; there is influx and bondage.”",
+      "notes": "While not listing all seven tattvas in one verse, the text frequently references the dynamics of āsrava, bandha, saṃvara, and nirjarā."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The seven tattvas are identical across all Jain traditions without variation.",
+      "reality": "While the list of seven is stable, Digambara and Śvetāmbara commentaries differ in defining āsrava, the mechanics of saṃvara, and the role of right faith and conduct."
+    },
+    {
+      "myth": "The seven‑tattva system is purely metaphysical and unrelated to practice.",
+      "reality": "The system is explicitly soteriological. Saṃvara and nirjarā correspond to vows, ethical restraint, and austerities, forming the practical path to mokṣa."
+    },
+    {
+      "myth": "The nine‑tattva system contradicts the seven‑tattva system.",
+      "reality": "The nine‑tattva system simply adds puṇya and pāpa for pedagogical clarity. Both systems share the same underlying logic of bondage and liberation."
+    }
+  ]
+}

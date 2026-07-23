@@ -1,0 +1,43 @@
+{
+  "overview": "Moksha tattva, within the Jain ontology of the seven tattvas (fundamental realities), refers specifically to the state of complete liberation attained when the jīva (soul) becomes entirely free from karmic bondage. In classical Jain philosophy, moksha is not merely a moral ideal but an ontological condition described with precision in primary Prakrit and Sanskrit sources. It is characterized by the soul’s natural attributes—perfect knowledge (kevala‑jñāna), perfect perception (kevala‑darśana), infinite bliss (ananta‑sukha), and infinite energy (ananta‑vīrya)—manifesting without obstruction.\n\nAcross Digambara and Śvetāmbara traditions, moksha is consistently defined as the final goal of spiritual practice, though the pathways and interpretive nuances differ. All traditions agree that liberation occurs at the summit of the guṇasthāna ladder, where all ghātiyā karmas (knowledge‑obscuring, perception‑obscuring, deluding, and obstructive karmas) and aghātiyā karmas (body‑producing, lifespan‑determining, status‑determining, and feeling‑producing karmas) are destroyed. The liberated soul rises to the siddha‑śilā at the apex of the loka (cosmos), remaining eternally in a state of pure existence.\n\nMoksha tattva is traditionally studied alongside samvara (stoppage of karma) and nirjarā (shedding of karma), because liberation is only possible when karmic influx is halted and accumulated karma is eliminated. Classical texts emphasize that moksha is not granted by divine intervention; it is achieved through disciplined ethical conduct, right knowledge, and right faith—the three jewels (ratnatraya). The tattva thus functions both as a metaphysical category and as the culmination of Jain soteriology.\n\nIn modern scholarship, moksha tattva is analyzed through comparative lenses—contrasting Jain liberation with Buddhist nirvāṇa or Vedāntic mokṣa—while highlighting Jainism’s distinctive insistence on the individuality and eternal persistence of each liberated soul. Manuscript traditions show variations in terminology and ordering of tattvas, but moksha remains the universally accepted final aim of Jain dharma.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "मोक्षो निर्जरा सम्वरः",
+      "transliteration": "mokṣo nirjarā saṃvaraḥ",
+      "translation": "“Liberation results from the cessation and shedding of karma.”",
+      "notes": "Tattvārtha Sūtra 10.2 is one of the most cited aphorisms defining moksha tattva. Both Digambara and Śvetāmbara traditions accept the text, though commentarial interpretations differ."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "णिव्वाणं च णिस्सहावं, णिस्सहावं च णिव्वाणं",
+      "transliteration": "nivvāṇaṃ ca nissahāvaṃ, nissahāvaṃ ca nivvāṇaṃ",
+      "translation": "“Liberation is the natural state of the soul, and the natural state of the soul is liberation.”",
+      "notes": "A key Digambara text emphasizing the intrinsic purity of the jīva. The verse highlights that moksha is not an external acquisition but the soul’s inherent condition revealed when karma is removed."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "जोगं जहा सोहंति, तहा मोक्कं लहंति",
+      "transliteration": "jogaṃ jahā sohaṃti, tahā mokkaṃ lahaṃti",
+      "translation": "“As they practice discipline, so they attain liberation.”",
+      "notes": "This passage links ethical and meditative discipline directly to the attainment of moksha, reflecting Śvetāmbara canonical emphasis on practice."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Moksha means the soul dissolves into a universal oneness.",
+      "reality": "Jain texts consistently affirm that each liberated soul remains an individual siddha with its own eternal identity. There is no merging into a universal absolute."
+    },
+    {
+      "myth": "Moksha can be granted by divine grace or ritual worship alone.",
+      "reality": "Primary sources state that liberation occurs only through the destruction of karma via right faith, right knowledge, and right conduct. Worship may support discipline, but it does not replace karmic processes."
+    },
+    {
+      "myth": "Moksha requires abandoning all worldly responsibilities immediately.",
+      "reality": "Jain ethics emphasize gradual progression, lay vows, and responsible conduct. Sudden abandonment of dependents or obligations is not sanctioned and requires guidance from qualified human teachers."
+    }
+  ]
+}

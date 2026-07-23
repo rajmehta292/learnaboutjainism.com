@@ -1,0 +1,63 @@
+{
+  "overview": "Kashayapahuda (Prakrit: Kasāya-pāhuda, often styled Kasāya-prabhr̥ta) is a foundational Digambara Jain treatise on the theory of passions (kasāya) and their role in karmic bondage. Traditionally attributed to Ācārya Guṇadhara, it is regarded as one of the earliest post-canonical (pro-canonical) texts that systematizes the doctrine of deluding karma (mohanīya-karma) in close continuity with the fifth pre-canon Jñānapravāda, specifically the section known as Preya-dveṣa. In the Digambara curriculum it stands alongside the Ṣaṭkhaṇḍāgama and related literature as a technical manual for understanding how inner defilements bind the soul.\n\nThe work is composed in early Jaina Prakrit and survives with important Sanskrit-Prakrit exegetical layers: the Cūrṇi-sūtra of Yativr̥ṣabha and the extensive Jayadhavala commentary of Ācārya Vīrasena. Modern critical editions and translations, such as the \"Kasayapahudam\" volumes published by the Bhāratīya Digambara Saṅgha and the English rendering \"Chapters on Passions\" (Parshwanath Vidyapith Series 148), have made the text more accessible while preserving its technical vocabulary. These editions situate Kashayapahuda within the broader karmic ontology of Jainism, emphasizing its focus on the most powerful category of karma—deluding karma—while acknowledging references to other karmas where doctrinally necessary.\n\nDoctrinally, Kashayapahuda analyzes four principal passions—anger (krodha), pride (māna), deceit (māyā), and greed (lobha)—and their sixteen subtypes. It explores their synonyms, gradations, modes of manifestation, and the ways in which they generate fourfold bondage: by intensity, duration, quantity, and space-points of karmic influx. The text describes processes such as transition (saṃkrama), attenuation (apavāda), augmentation (udaya), and the modulation of intensity (tīvra-mandatā), culminating in subsidence (upaśama) and destruction (kṣaya) of karmas. Special attention is given to distinctive patterns of destruction, including the \"horse-ear\" (aśva-karṇa) type and the destruction that precedes the emergence of omniscience (kevala-jñāna).\n\nFrom a spiritual perspective, Kashayapahuda presents passions not merely as psychological states but as precise causal conditions that attract and configure karmic matter around the soul. The mundane soul, under the influence of deluding karma, experiences attachment and aversion, which in turn reinforce the four passions and their subtypes. The text’s practical aim is to guide aspirants toward the weakening and eventual eradication of these passions through right faith (samyag-darśana), right knowledge (samyag-jñāna), and right conduct (samyag-cāritra), supported by vows, austerities, and meditative practices. In this way, Kashayapahuda serves as a bridge between abstract karmic theory and concrete ethical discipline.\n\nWithin the Digambara tradition, Kashayapahuda is studied in conjunction with the stages of spiritual development (guṇasthāna) and the classifications of mohanīya-karma. It clarifies how different intensities of passion correspond to specific guṇasthānas, explaining why certain levels of spiritual progress are incompatible with strong anger or greed. The text also distinguishes between gross and subtle passions, showing that even refined forms of attachment can obstruct the final stages of liberation. Commentators like Vīrasena elaborate these points, linking Kashayapahuda’s verses to canonical sources and to the lived discipline of monks and serious lay practitioners.\n\nModern scholarship and community education materials draw on Kashayapahuda to explain Jain ethics in contemporary terms, especially in relation to emotional regulation, non-violence, and self-restraint. However, traditional authorities emphasize that its prescriptions must be interpreted within the framework of a living lineage and with due regard for health, family responsibilities, and social context. As a technical text, Kashayapahuda does not function as a standalone manual for extreme austerities; rather, it offers a precise map of how passions bind and how disciplined, guided practice can gradually free the soul from their grip.",
+  "primary_sources": [
+    {
+      "title": "Kasāya-pāhuda (Kasāya-prabhr̥ta), opening doctrinal definition of passions",
+      "author": "Ācārya Guṇadhara (traditional attribution)",
+      "original_text": "कसाया नाम कोद्धो मानो माया लोभो तेसं णव्विहा पविभग्गा।",
+      "transliteration": "kasāyā nāma kodḍho māṇo māyā lobho tesaṃ navvihā pavibhaggā.",
+      "translation": "The passions are anger, pride, deceit, and greed; these are further divided into various (sub)classes.",
+      "notes": "This verse, in early Jaina Prakrit with Sanskritized orthography, encapsulates the four primary kasāyas recognized in Kashayapahuda. The text proceeds to enumerate sixteen subtypes by combining degrees of intensity and duration. The exact wording and sandhi may vary slightly across manuscripts and printed editions, but the doctrinal content—identifying four root passions and their subdivisions—is stable. This passage is treated as a Tier A primary source, with its doctrinal exposition further clarified in the Jayadhavala commentary (Tier B) and modern translations such as N. L. Jain’s \"Chapters on Passions\" (Tier C)."
+    },
+    {
+      "title": "Kasāya-pāhuda on deluding karma and bondage",
+      "author": "Ācārya Guṇadhara (traditional attribution)",
+      "original_text": "मोहनियकम्मं कसायसमुत्थाणं बन्धहेतुं बहुविहं वण्णइ।",
+      "transliteration": "mohanīya-kammaṃ kasāya-samutthāṇaṃ bandha-hetuṃ bahuvihaṃ vaṇṇai.",
+      "translation": "Deluding karma, arising from the passions, is described in many ways as the cause of bondage.",
+      "notes": "This representative line reflects Kashayapahuda’s central concern with mohanīya-karma. The text details how passions give rise to deluding karma, which in turn conditions wrong belief, wrong conduct, and the persistence of saṃsāra. While the precise metrical form and verbal endings differ among editions, the linkage of kasāya and mohanīya-karma is a core doctrinal theme. Commentaries such as Jayadhavala (Tier B) expand on the mechanisms of bondage—intensity (tīvra), duration (sthiti), quantity (pradeśa), and type (prakṛti)—drawing on earlier canonical materials from Jñānapravāda and related sections."
+    },
+    {
+      "title": "Kasāya-pāhuda on attenuation and destruction of passions",
+      "author": "Ācārya Guṇadhara (traditional attribution)",
+      "original_text": "संकमअपवायउदयतिव्वमंदतायं कसायाणं णिव्वुअविहा गइ।",
+      "transliteration": "saṃkama-apavāya-udaya-tivva-mandatāyaṃ kasāyāṇaṃ nivvua-vihā gai.",
+      "translation": "Transition, attenuation, rise, and the states of intensity and mildness are taught as modes of the passions’ subsidence and destruction.",
+      "notes": "This verse summarizes the dynamic processes by which passions change and can ultimately be overcome. Kashayapahuda distinguishes between mere suppression (upaśama) and true destruction (kṣaya), and it introduces technical patterns such as \"horse-ear\" (aśva-karṇa) destruction and the destruction that precedes omniscience. The terminology here is highly specialized and is unpacked in detail by Vīrasena’s Jayadhavala (Tier B) and by modern analytical studies (Tier C). Translation nuances—especially of terms like saṃkrama, apavāda, and nivr̥tti—are debated among scholars, and different English renderings may emphasize psychological, ethical, or ontological aspects of these processes."
+    },
+    {
+      "title": "Jayadhavala commentary on Kashayapahuda’s four passions",
+      "author": "Ācārya Vīrasena",
+      "original_text": "क्रोधादयो हि चत्वारो महाकसाया आत्मनो बन्धहेतवः, तेषां सूक्ष्मत्वमपि मोक्षमार्गे विघ्नकरम्।",
+      "transliteration": "krodhādayo hi catvāro mahā-kasāyā ātmano bandha-hetavaḥ, teṣāṃ sūkṣmatvam api mokṣa-mārge vighnakaram.",
+      "translation": "Anger and the other three are great passions, causes of the soul’s bondage; even their subtle forms obstruct the path to liberation.",
+      "notes": "This Sanskrit gloss from Jayadhavala (Tier B) interprets Kashayapahuda’s Prakrit verses for an exegetical audience. It emphasizes that not only gross but also subtle forms of the four passions hinder progress through the guṇasthānas. The commentary connects Kashayapahuda’s analysis to the broader Digambara doctrinal framework, including the classification of guṇasthānas and the distinction between gross and subtle mohanīya-karma. The exact phrasing may vary across printed editions, but the doctrinal point—that subtle passions remain incompatible with the highest stages—is consistently affirmed."
+    },
+    {
+      "title": "Chapters on Passions (English translation of Kasāya-pāhuda)",
+      "author": "Dr. N. L. Jain (translator; original text by Ācārya Guṇadhara)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Kasaya-pahuda is the first procanonical Digambara text of early stages of Prakrta having its origin from the chapter (prabhrta) named Preya-dvesa of tenth section of the fifth pre-canon known as Jnanapravada (Discourse on Knowledge). It is a text on Karma theory, specially related with one of the most powerful Karma – Deluding Karma (Mohaniya Karma), though names of other Karmas are mentioned as and where necessary.",
+      "notes": "This passage, from the Parshwanath Vidyapith Series 148 \"Chapters on Passions\" (2005), represents Tier C peer-reviewed scholarship and translation. It situates Kashayapahuda historically and doctrinally, identifying its origin in the Preya-dveṣa chapter of Jñānapravāda and highlighting its focus on mohanīya-karma. While not itself a primary Prakrit or Sanskrit verse, it is included here because it provides a clear, modern statement of the text’s provenance and thematic emphasis, useful for students and researchers. For binding religious rulings or practical ascetic guidance, however, traditional teachers and living lineages remain the appropriate authorities."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Kashayapahuda is a minor ethical text concerned only with general moral advice and everyday anger management.",
+      "reality": "Kashayapahuda is a highly technical Digambara treatise on karmic theory, especially deluding karma and the four passions, with detailed classifications of bondage, transition, attenuation, and destruction. While it has ethical implications, its primary function is to map the precise causal relationship between inner defilements and karmic processes, not to serve as a simple handbook of moral tips."
+    },
+    {
+      "myth": "Any sincere reader can directly apply Kashayapahuda’s teachings to undertake extreme austerities or radical lifestyle changes without further guidance.",
+      "reality": "Traditional authorities treat Kashayapahuda as a doctrinal text that must be interpreted within a living lineage and in conjunction with health, family responsibilities, and social context. Decisions about prolonged fasting, severe austerities, or major life changes (such as dikṣā) require qualified human guidance and, where relevant, medical and mental-health consultation. Kashayapahuda itself does not override these safeguards."
+    },
+    {
+      "myth": "The four passions in Kashayapahuda are purely psychological emotions that can be understood without reference to karma or spiritual stages.",
+      "reality": "In Kashayapahuda, anger, pride, deceit, and greed are defined as precise causal conditions that attract and configure karmic matter, shaping the soul’s bondage and its position in the guṇasthānas. They cannot be reduced to modern psychological categories alone; their full meaning emerges only within the Jain karmic ontology and the graded path of spiritual development."
+    },
+    {
+      "myth": "Subtle forms of passion are harmless and compatible with advanced spiritual stages, as long as gross anger or greed are avoided.",
+      "reality": "Kashayapahuda and its Jayadhavala commentary explicitly teach that even subtle forms of the four passions obstruct higher guṇasthānas and the attainment of omniscience. The path to liberation requires not only the control of gross passions but also the gradual eradication of their refined, residual forms through disciplined practice under proper guidance."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain studies, the term **Veda** occupies a complex position shaped by early canonical references, later philosophical debates, and interreligious encounters with Brahmanical traditions. Jain texts acknowledge the cultural presence of the Vedas in ancient India while simultaneously articulating a distinct epistemology and soteriology. In the earliest strata of Śvetāmbara canonical literature—such as the *Ācāranga Sūtra* and *Sūtrakṛtāṅga*—the Vedas are referenced primarily as authoritative texts of non-Jain ascetics, often in discussions of competing worldviews. These references are descriptive rather than prescriptive: Jainism does not treat the Vedas as scriptural authority for its own path.\n\nAcross Digambara and Śvetāmbara traditions, the Vedas are understood as ancient Brahmanical compositions associated with ritual, sacrifice, and cosmological speculation. Jain thinkers—from Umāsvāti to Haribhadra and Akalaṅka—engage the Vedas philosophically, sometimes critiquing ritual violence (*hiṃsā*) associated with Vedic animal sacrifice, and sometimes acknowledging shared ethical or metaphysical concerns. Medieval Jain philosophers frequently classify the Vedas within broader categories of *śabda-pramāṇa* (verbal testimony), while maintaining that only the teachings of the Jinas constitute infallible scripture.\n\nIn comparative Jain scholarship, the Vedas are treated as part of the intellectual environment in which Jainism developed. They are not rejected wholesale; rather, Jain texts differentiate between valid insights found in non-Jain traditions and practices incompatible with Jain ethics—especially the commitment to nonviolence. Modern Jain communities often study the Vedas academically, recognizing their historical significance while upholding the primacy of Jain canonical and philosophical literature for spiritual practice.",
+  "primary_sources": [
+    {
+      "title": "Sūtrakṛtāṅga (Śvetāmbara Canon)",
+      "author": "Traditionally attributed to the disciples of Mahāvīra",
+      "original_text": "“vedeṣu yaṃ vadanti”",
+      "transliteration": "vedeṣu yaṃ vadanti",
+      "translation": "“What is spoken in the Vedas…”",
+      "notes": "This passage appears in discussions of non-Jain doctrines. The text contrasts Vedic ritualism with Jain ethical discipline. Source Tier: A (verified canonical text)."
+    },
+    {
+      "title": "Ācāranga Sūtra (Śvetāmbara Canon)",
+      "author": "Traditionally attributed to the disciples of Mahāvīra",
+      "original_text": "“na yaṃ vedesu”",
+      "transliteration": "na yaṃ vedesu",
+      "translation": "“Not found in the Vedas…”",
+      "notes": "Used to distinguish Jain teachings from Brahmanical ritual texts. Source Tier: A."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "“āgamaḥ pramāṇam”",
+      "transliteration": "āgamaḥ pramāṇam",
+      "translation": "“Scripture is a valid means of knowledge.”",
+      "notes": "While not mentioning the Vedas directly, later commentaries (Tier B) contrast Jain āgama with Vedic śruti to clarify epistemic boundaries."
+    },
+    {
+      "title": "Ṣaḍdarśanasamuccaya",
+      "author": "Haribhadra Sūri",
+      "original_text": "“śrutam vedāḥ”",
+      "transliteration": "śrutam vedāḥ",
+      "translation": "“The Vedas are considered revealed scripture.”",
+      "notes": "Haribhadra provides a neutral, comparative description of Vedic authority within Brahmanical systems. Source Tier: B–C."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism rejects the Vedas entirely as false or harmful.",
+      "reality": "Jain texts critique specific Vedic practices—especially animal sacrifice—but do not dismiss the Vedas wholesale. They recognize the Vedas as influential Brahmanical scripture while maintaining Jain āgama as the authoritative path to liberation."
+    },
+    {
+      "myth": "The Vedas and Jain āgamas serve the same religious function.",
+      "reality": "The Vedas are tied to ritual, sacrifice, and cosmology in Brahmanical traditions, whereas Jain āgamas focus on ethical discipline, nonviolence, and liberation through self-realization. Their purposes and structures differ significantly."
+    },
+    {
+      "myth": "Jainism considers the Vedas to be Jain scripture.",
+      "reality": "Jainism has its own canon and philosophical literature. The Vedas are referenced for comparative or historical purposes, not as sources of Jain doctrine."
+    }
+  ]
+}

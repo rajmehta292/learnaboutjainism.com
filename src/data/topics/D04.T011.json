@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, **samsarin jīvas** (Sanskrit/Prakrit: saṃsārin jīva) are living beings who remain bound within the cycle of birth, death, and rebirth due to the accumulation of karmic matter. The term contrasts with *mukta jīvas*, liberated souls who have completely shed karmic bondage and attained siddhahood. Samsarin jīvas constitute all embodied beings—humans, animals, plants, microorganisms, celestial beings, and hell beings—across the vast cosmological structure described in Jain texts.\n\nJain ontology classifies jīvas as inherently possessing infinite knowledge, perception, bliss, and energy. However, samsarin jīvas experience these qualities only in a limited and obscured form because karmic particles (*karma pudgala*) adhere to the soul through activities driven by passions (*kaṣāyas*) such as anger, pride, deceit, and greed. This bondage results in the soul’s transmigration through various states of existence (*gatis*) and levels of consciousness.\n\nThe tradition further categorizes samsarin jīvas by the number of sense faculties (from one-sensed beings like plants to five-sensed beings like humans), by mobility (immobile vs. mobile), and by the degree of karmic obscuration. The *guṇasthāna* system—fourteen stages of spiritual development—maps the progressive purification of a samsarin jīva as it moves toward liberation. Most beings remain in the lower stages, while only rare individuals ascend toward the final stages leading to moksha.\n\nAcross Digambara and Śvetāmbara traditions, the core definition of samsarin jīvas remains consistent: souls entangled in saṃsāra due to karmic bondage. Differences arise mainly in cosmological detail, scriptural interpretation, and monastic discipline, but the foundational concept is shared. The study of samsarin jīvas is central to Jain ethics, as understanding the pervasive presence of life encourages nonviolence (*ahiṃsā*), careful conduct, and compassion toward all beings.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "संसारी जीवाः कर्मबन्धात्",
+      "transliteration": "saṃsārī jīvāḥ karmabandhāt",
+      "translation": "Samsarin beings exist due to the bondage of karma.",
+      "notes": "Tattvārtha Sūtra 2.10 succinctly defines the condition of samsarin jīvas. The text is considered an authoritative compendium of Jain ontology and is accepted across major sects."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Nemicandra Siddhānta Cakravartin (Digambara)",
+      "original_text": "जीवो णिज्जराभावो संसारि",
+      "transliteration": "jīvo nijjarābhāvo saṃsāri",
+      "translation": "A soul lacking the destruction of karma is samsarin.",
+      "notes": "Dravyasaṃgraha verse 7 elaborates the distinction between liberated and samsarin souls, emphasizing the role of *nijjarā* (karmic shedding)."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text (author traditionally attributed to early Jain teachers)",
+      "original_text": "जिवा बहुविहा संसारगामिणो",
+      "transliteration": "jivā bahuvihā saṃsāragāmiṇo",
+      "translation": "Living beings, of many kinds, wander through saṃsāra.",
+      "notes": "This passage highlights the diversity of samsarin jīvas and their continuous movement through different states of existence."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Samsarin jīvas are only human beings.",
+      "reality": "Jain texts clearly state that all embodied beings—from microorganisms to celestial beings—are samsarin jīvas until they attain liberation."
+    },
+    {
+      "myth": "Samsarin jīvas are inherently impure or inferior.",
+      "reality": "Jain ontology holds that every jīva is inherently pure and possesses infinite qualities. Samsarin status reflects karmic obscuration, not the soul’s true nature."
+    },
+    {
+      "myth": "A samsarin jīva cannot make significant spiritual progress in its current life.",
+      "reality": "Jain doctrine emphasizes that any samsarin jīva, especially in human birth, can undertake vows, reduce passions, and ascend the guṇasthānas toward liberation."
+    }
+  ]
+}

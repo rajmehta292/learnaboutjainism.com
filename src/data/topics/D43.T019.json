@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “literacy” encompasses far more than the ability to read and write. It refers to multilayered competencies that allow a practitioner or scholar to engage meaningfully with Jain primary texts, commentarial traditions, and the lived practices of diverse Jain communities. Historically, Jain traditions cultivated exceptionally high levels of textual literacy, preserving vast libraries of Prakrit, Sanskrit, Apabhramsha, and vernacular works. Literacy also includes oral transmission, memorization, recitation, and interpretive skills needed to understand doctrinal categories such as karma theory, gunasthanas, vows, cosmology, ethics, and monastic regulations.\n\nFrom a historical perspective, Jain communities—both Digambara and Śvetāmbara—developed sophisticated manuscript cultures. Monasteries and lay-supported libraries (bhandāras) maintained scriptoria where scribes copied canonical and commentarial texts. Literacy was not limited to monks and nuns; laypeople often possessed strong reading skills, enabling them to participate in scriptural study, ritual recitation, and ethical instruction. In medieval western India, Śvetāmbara communities produced extensive commentaries and narrative literature, while Digambara scholars in Karnataka and North India composed philosophical treatises and grammar works.\n\nIn modern contexts, literacy includes the ability to navigate translations, critical editions, digital archives, and scholarly debates. Because Jain texts span multiple languages and centuries, literacy also requires awareness of variant recensions, sectarian differences, and the limits of translation. Contemporary Jain education programs emphasize ethical literacy—understanding ahiṃsā, aparigraha, and anekāntavāda—and practical literacy, such as interpreting vows in modern life. Thus, Jain literacy is a dynamic, evolving skill set that integrates philology, ethics, history, and lived practice.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara Canon)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "पडिसहायं णं णंति एगं चउव्विहं सुतं",
+      "transliteration": "paḍisahāyaṃ ṇaṃ ṇaṃti egaṃ cauvvihaṃ sutaṃ",
+      "translation": "“The disciple should study the fourfold teaching.”",
+      "notes": "This passage highlights early Jain emphasis on disciplined study. The fourfold teaching refers to scriptural categories preserved in the Śvetāmbara canon. Editions vary, and the line appears with minor orthographic differences across manuscripts."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (accepted across traditions with sectarian differences)",
+      "original_text": "सम्यग्ज्ञानं च",
+      "transliteration": "samyagjñānaṃ ca",
+      "translation": "“And right knowledge.”",
+      "notes": "Right knowledge (samyag-jñāna) is one of the three jewels (ratnatraya). Commentaries explain that literacy in doctrine—accurate, non-deluded understanding—is essential for liberation. Digambara and Śvetāmbara commentaries differ in interpretation of certain technical terms."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara Canon)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "कर्मप्रकृतयः सर्वे ज्ञानावरणादयः",
+      "transliteration": "karmaprakṛtayaḥ sarve jñānāvaraṇādayaḥ",
+      "translation": "“All karma categories, beginning with knowledge-obscuring karma…”",
+      "notes": "Understanding karma categories requires technical literacy in Digambara doctrinal systems. The text survives in partial manuscripts and relies heavily on commentaries such as Dhavalā and Mahādhavalā."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain literacy refers only to reading sacred texts.",
+      "reality": "Jain literacy includes oral transmission, memorization, interpretive skills, ethical understanding, and awareness of sectarian variations."
+    },
+    {
+      "myth": "Only monks and nuns historically possessed scriptural literacy.",
+      "reality": "Lay communities played major roles in manuscript preservation, copying, and study, and many laypeople were highly literate in Prakrit and Sanskrit traditions."
+    },
+    {
+      "myth": "Modern Jain literacy simply means reading translations.",
+      "reality": "Because translations vary and often simplify technical terms, modern literacy requires understanding textual history, commentarial debates, and limitations of English renderings."
+    }
+  ]
+}

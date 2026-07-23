@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, “daily duties” (āvaśyaka or nitya‑karmāṇi) refer to the structured ethical, contemplative, and devotional practices that shape the everyday life of laypeople (śrāvakas and śrāvikās) and monastics. Although the specific sequence varies across Digambara and Śvetāmbara lineages, the underlying purpose remains consistent: to cultivate vigilance (apramatta), reduce karmic influx (āsrava), strengthen restraint (saṃyama), and maintain continuity with the vows taken. Daily duties are not merely ritual actions; they are ethical disciplines grounded in canonical prescriptions and centuries of commentary.\n\nAcross traditions, the day is framed by remembrance of the three jewels (ratnatraya), mindfulness of vows, and periodic reflection on transience and non‑violence. Śvetāmbara Mūrtipūjaka communities emphasize the six āvaśyakas—sāmāyika, caturviṃśati‑stava, vandanā, pratikramaṇa, kāyotsarga, and pratyākhyāna—while Digambara texts emphasize pratikramaṇa, sāmāyika, svādhyāya, and dhyāna as daily obligations. Sthānakavāsī and Terāpanth traditions, which do not practice image‑worship, retain the āvaśyaka framework but adapt its ritual elements toward internalized meditation and moral reflection.\n\nDaily duties also include practical ethical observances: careful speech, mindful consumption, non‑harm in livelihood, and periodic confession of faults. These practices are not meant to be performed mechanically; classical commentaries repeatedly stress that intention (bhāva) determines karmic consequence more than external form. The duties serve as a rhythm of self‑examination, grounding lay life in the broader Jain path of liberation while acknowledging household responsibilities.\n\nBecause Jainism spans multiple sects and historical contexts, daily duties must be understood as a living tradition. Primary texts provide the foundation, commentaries interpret them, and communities adapt them. The article below presents representative sources, noting where traditions differ and where scholarly uncertainty remains.",
+  "primary_sources": [
+    {
+      "title": "Āvaśyaka Sūtra",
+      "author": "Attributed to canonical Śvetāmbara redactors",
+      "original_text": "समायिकं कुर्वीत, चतुर्विंशतिस्तवं जपेत्, वन्दनं कुर्वीत, प्रतिक्रमणं कुर्वीत, कायोत्सर्गं कुर्वीत, प्रत्यक्ष्यानं कुर्वीत",
+      "transliteration": "samāyikaṃ kurvīta, caturviṃśatistavaṃ japet, vandanaṃ kurvīta, pratikramaṇaṃ kurvīta, kāyotsargaṃ kurvīta, pratyakṣyānaṃ kurvīta",
+      "translation": "One should perform sāmāyika, recite the hymn to the twenty‑four, perform reverence, undertake pratikramaṇa, practice bodily abandonment, and make renunciatory resolve.",
+      "notes": "This passage outlines the six āvaśyakas in Śvetāmbara tradition. The text survives in multiple recensions; wording varies slightly. Commentaries by Haribhadra and Malayagiri expand on the internal states required."
+    },
+    {
+      "title": "Tattvārtha Sūtra 7.1–7.3",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "समायिकादयः संयमस्य।\nप्रतिक्रमणं च।\nध्यानं च।",
+      "transliteration": "samāyikādayaḥ saṃyamasya; pratikramaṇaṃ ca; dhyānaṃ ca",
+      "translation": "Sāmāyika and related practices belong to discipline; also pratikramaṇa; also meditation.",
+      "notes": "A pan‑sectarian text accepted by both Digambara and Śvetāmbara traditions. Commentaries differ: Pūjyapāda emphasizes meditative restraint; Śvetāmbara commentators link these duties to the āvaśyaka cycle."
+    },
+    {
+      "title": "Mūlācāra 5.1–5.4",
+      "author": "Vattakera (Digambara)",
+      "original_text": "समायिकं प्रतिक्रमणं च स्वाध्यायो ध्यानमेव च। एतानि नित्यकर्माणि मुनिनां परिकीर्तितानि।",
+      "transliteration": "samāyikaṃ pratikramaṇaṃ ca svādhyāyo dhyanameva ca; etāni nityakarmāṇi munināṃ parikīrtitāni",
+      "translation": "Sāmāyika, pratikramaṇa, scriptural study, and meditation are declared to be the daily duties of monks.",
+      "notes": "Although directed at monastics, Digambara lay manuals adapt these duties proportionally. The text stresses internal purity over external ritual."
+    },
+    {
+      "title": "Śrāvakācāra (various authors; representative: Amitagati)",
+      "author": "Amitagati (Śvetāmbara)",
+      "original_text": "नित्यं समायिकं कुर्यात्, प्रतिक्रमणपूर्वकं च स्वव्रतानां निरीक्षणम्",
+      "transliteration": "nityaṃ samāyikaṃ kuryāt, pratikramaṇapūrvakaṃ ca svavratānāṃ nirīkṣaṇam",
+      "translation": "One should daily perform sāmāyika and, through pratikramaṇa, examine one’s vows.",
+      "notes": "Śrāvakācāra literature provides detailed guidance for laypeople. Manuscripts vary, and some verses appear only in later compilations."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Daily duties are identical across all Jain sects.",
+      "reality": "While the ethical core is shared, Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth traditions differ in sequence, ritual form, and emphasis. Image‑worship, recitation styles, and meditation formats vary significantly."
+    },
+    {
+      "myth": "Daily duties are purely ritual and do not affect karma unless performed perfectly.",
+      "reality": "Primary texts repeatedly state that intention and mental state (bhāva) determine karmic outcome more than external precision. Even partial or imperfect practice, when done with sincerity, reduces karmic influx."
+    },
+    {
+      "myth": "Laypeople must perform all monastic duties every day to be considered good Jains.",
+      "reality": "Canonical lay codes (śrāvakācāra) prescribe proportionate duties suited to household life. Full monastic obligations are neither required nor feasible for lay practitioners."
+    }
+  ]
+}

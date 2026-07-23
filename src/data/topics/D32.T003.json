@@ -1,0 +1,31 @@
+{
+  "overview": "Jaina Maharashtri is a Prakrit language used extensively in Jain literature, particularly during the period from around the 1st century BCE to the 5th century CE. It served as a medium for many Jain texts, including religious scriptures, commentaries, and poetry. This language is a significant variant of Maharashtri Prakrit, which was widely spoken in ancient India and known for its use in classical Indian drama. Jaina Maharashtri is characterized by its simplified grammar and vocabulary compared to classical Sanskrit, making it more accessible to laypeople. It played an essential role in the propagation of Jain teachings and philosophy, as it was used to compose important scriptures such as the 'Svetambara Agamas' and various 'Digambara' texts. Its influence can also be seen in later medieval Jain literature.",
+  "primary_sources": [
+    {
+      "title": "Svetambara Agamas",
+      "author": "Various Jain Acharyas",
+      "original_text": "आयारं गा-सुत्तं",
+      "transliteration": "Āyāraṁ gā-suttaṁ",
+      "translation": "Acaranga Sutra",
+      "notes": "One of the oldest texts in the Svetambara canon, it outlines the rules of conduct for monks and nuns."
+    },
+    {
+      "title": "Kundakunda's Samayasāra",
+      "author": "Acharya Kundakunda",
+      "original_text": "समयसारो",
+      "transliteration": "Samayasāro",
+      "translation": "Essence of the Self",
+      "notes": "A key Digambara text that discusses the nature of the soul and its liberation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jaina Maharashtri is the same as Maharashtri Prakrit.",
+      "reality": "While Jaina Maharashtri is a dialect of Maharashtri Prakrit, it has specific features and vocabulary tailored to Jain texts."
+    },
+    {
+      "myth": "Jaina Maharashtri is no longer relevant.",
+      "reality": "Jaina Maharashtri remains important for the study of ancient Jain texts and the historical development of the Jain tradition."
+    }
+  ]
+}

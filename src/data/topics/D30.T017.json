@@ -1,0 +1,31 @@
+{
+  "overview": "Pujyapada was an eminent Jain philosopher and scholar from the Digambara tradition, known for his significant contributions to Jain literature and philosophy. He lived during the 5th-6th century CE and is celebrated for his works on Sanskrit grammar, medicine, and Jain doctrine. One of his most notable contributions is the 'Samadhitantra', a text on meditation and spiritual practice. Additionally, Pujyapada authored the 'Sarvarthasiddhi', a comprehensive commentary on the Tattvartha Sutra, which is a crucial text in Jain philosophy. His works are revered for their clarity, depth, and scholarly rigor, and they continue to influence Jain thought and practice today.",
+  "primary_sources": [
+    {
+      "title": "Sarvarthasiddhi",
+      "author": "Pujyapada",
+      "original_text": "सर्वार्थसिद्धिः",
+      "transliteration": "Sarvārthasiddhiḥ",
+      "translation": "Attainment of All Meanings",
+      "notes": "This text is a commentary on the Tattvartha Sutra, offering detailed insights into Jain metaphysics and ethics."
+    },
+    {
+      "title": "Samadhitantra",
+      "author": "Pujyapada",
+      "original_text": "समाधितन्त्र",
+      "transliteration": "Samādhitantra",
+      "translation": "The Treatise on Meditation",
+      "notes": "Focuses on meditation practices and achieving spiritual concentration."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Pujyapada is only a grammarian.",
+      "reality": "While Pujyapada made significant contributions to Sanskrit grammar, he was also a profound philosopher and commentator on Jain doctrine."
+    },
+    {
+      "myth": "Pujyapada's works are only relevant to the Digambara sect.",
+      "reality": "Though Pujyapada was a Digambara scholar, his works, especially the 'Sarvarthasiddhi', are respected across different Jain traditions."
+    }
+  ]
+}

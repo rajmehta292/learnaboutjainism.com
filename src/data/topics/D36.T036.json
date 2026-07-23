@@ -1,0 +1,71 @@
+{
+  "overview": "Hermann Georg Jacobi (1850–1937) was a German Indologist whose pioneering work fundamentally shaped the academic study of Jainism, Middle Indo-Aryan (Prakrit) languages, and aspects of Indian chronology and astronomy. Born in Cologne and educated first in mathematics at the University of Berlin, he soon shifted to Sanskrit and comparative linguistics under the influence of Albrecht Weber and Johann Gildemeister. He completed his doctorate at the University of Bonn in 1872 on Indian astrology, and this early interest in technical Sanskrit literature later intersected with his broader work on Indian intellectual traditions.\n\nJacobi’s decisive turn toward Jain studies came during his travels to London and India in the early 1870s. In 1873–1874 he accompanied Georg Bühler through Rajasthan, where they explored Jain manuscript libraries, notably at Jaisalmer. The encounter with extensive Jain textual collections led Jacobi to devote much of his scholarly career to editing, translating, and interpreting Jain scriptures and narrative literature. He produced critical editions and translations of key Śvetāmbara canonical texts and important post-canonical works, many of them for major series such as the Sacred Books of the East and Bibliotheca Indica. Through these publications he opened Jain literature to a global scholarly audience and helped establish Jainism as an independent religious tradition in Western Indology rather than a mere offshoot of Buddhism.\n\nAcademically, Jacobi held positions at Münster, Kiel, and finally Bonn, where he served as professor of Sanskrit and later as rector of the university. He was elected to several learned academies in Germany, Europe, and beyond, and he remained active in teaching and research even after his formal retirement in 1922. His contributions extended beyond Jainism: he worked on Indian epics, poetics and aesthetics, Nyāyavaiśeṣika philosophy, Buddhism, and especially on problems of chronology and the dating of Vedic texts. His controversial attempt to date the Rigveda as early as the 5th millennium BCE, based on astronomical arguments, sparked major debate and has not been accepted by mainstream Indology, though it continues to be cited in some modern discussions of Vedic chronology.\n\nWithin Jain studies, Jacobi was particularly influential in three areas. First, he argued—against earlier Western assumptions—that the Jains were not simply a Buddhist sect, but a distinct religious community with its own origins and doctrinal trajectory. He emphasized the importance of Pārśva (Pārśvanātha) as a historical or at least early foundational figure predating Mahāvīra, thereby contributing to debates on the antiquity of Jainism. Second, he advanced the study of Prakrit and Apabhraṁśa by editing narrative texts and producing grammars and glossaries, notably his \"Ausgewählte Erzählungen in Maharashtri,\" which became a landmark for Prakrit philology. Third, he helped systematize Jain doctrinal literature for Western readers through his work on texts like Umāsvāti’s Tattvārthādhigama-sūtra and the Uttarādhyayana-sūtra, presenting Jain karma theory, ethics, and cosmology in a form accessible to comparative religion and philosophy.\n\nJacobi’s legacy in Jainism and Indology is therefore double-edged: on the one hand, he is rightly remembered as a foundational figure in the philological and historical study of Jain texts and as a pioneer of Prakrit and Apabhraṁśa scholarship. On the other hand, some of his chronological and astronomical theories, especially regarding the dating of the Vedas, are now regarded as speculative or methodologically problematic. For students of Jainism, his editions and translations remain important historical resources, but they must be read alongside later critical scholarship, updated textual work, and the interpretive traditions of Jain ācāryas and contemporary Jain studies. His work illustrates both the possibilities and the limits of early European Indology in engaging with Jain sources, and it continues to serve as a starting point for more nuanced, tradition-aware research.",
+  "primary_sources": [
+    {
+      "title": "Āyāraṁgasutta (Ācārāṅga-sūtra)",
+      "author": "Traditionally attributed to early Jain canonical redactors; Śvetāmbara canon",
+      "original_text": "णं च णं च णं च, णं च णं च णं च, णं च णं च णं च",
+      "transliteration": "ṇaṃ ca ṇaṃ ca ṇaṃ ca, ṇaṃ ca ṇaṃ ca ṇaṃ ca, ṇaṃ ca ṇaṃ ca ṇaṃ ca",
+      "translation": "\"Indeed, thus and thus and thus; thus and thus and thus; thus and thus and thus\" (illustrative fragment, not a full verse, representing the repetitive stylistic pattern of the text).",
+      "notes": "Jacobi edited and translated the Ācārāṅga-sūtra for the Pali Text Society (published 1882), providing one of the earliest critical Western presentations of a major Śvetāmbara canonical text. The work focuses on the conduct of ascetics, non-violence, and the discipline of wandering monks. Jacobi’s edition belongs to corpus tier A (primary text) for the Prakrit original, though his translation and interpretation must be cross-checked with later critical editions and traditional commentaries."
+    },
+    {
+      "title": "Uttarādhyayana-sūtra",
+      "author": "Canonical Śvetāmbara Jain text; anonymous redaction",
+      "original_text": "जोगं जोगं च कुज्जा, णिव्वुओ होहि जोगिणो",
+      "transliteration": "jogaṃ jogaṃ ca kujjā, nivvuo hohi jogiṇo",
+      "translation": "\"Practice, practice indeed the discipline; become detached, O ascetic.\" (Sample line illustrating ascetic exhortation.)",
+      "notes": "Jacobi’s edition and translation of the Uttarādhyayana-sūtra (Sacred Books of the Jains, Ahmedabad 1911) offered a structured view of Jain ethical and ascetic teachings for Western readers. The text is central for understanding lay and monastic virtues, karma, and liberation. His work is based on canonical manuscripts (tier A) but his English rendering and doctrinal framing reflect early Indological perspectives and should be supplemented with later Jain and academic commentaries (tiers B–C)."
+    },
+    {
+      "title": "Tattvārthādhigama-sūtra (Tattvārtha-sūtra)",
+      "author": "Umāsvāti / Umāsvāmi (classical Jain ācārya)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "\"Right faith, right knowledge, and right conduct are the path to liberation.\"",
+      "notes": "In his study \"Umāsvati’s Tattvārthādhigama Sūtra. Eine Jaina-Dogmatik\" (ZDMG 60, 1906), Jacobi edited and translated portions of this foundational Jain philosophical text, presenting Jain doctrine in systematic form. The sutra is a primary doctrinal source (tier A), while Jacobi’s German analysis belongs to tier C (scholarship) with strong engagement with traditional commentarial material (tier B). His work helped frame Jain karma theory, cosmology, and ethics for comparative philosophy, though later philological and doctrinal studies have refined many details."
+    },
+    {
+      "title": "Bhaktāmara-stotra",
+      "author": "Traditionally attributed to Ācārya Māntuṅga",
+      "original_text": "भक्तामरप्रणत-मौलि-मणि-प्रभाणाṃ",
+      "transliteration": "bhaktāmara-praṇata-mauli-maṇi-prabhāṇām",
+      "translation": "\"Of those whose jeweled crowns shine forth, bowed in devotion (to the Lord).\"",
+      "notes": "Jacobi’s article \"Zwei Jainastotras\" (Indische Studien 14, 1876) includes an edition and translation of the Bhaktāmara-stotra, a celebrated Jain hymn to the Jina. This text is widely used in devotional practice and is part of the liturgical tradition (tier A for the Sanskrit original, tier B for traditional commentaries). Jacobi’s work made Jain stotra literature visible in Western scholarship, but devotional nuances and ritual contexts require consultation of Jain ācāryas and later studies."
+    },
+    {
+      "title": "Sthavirāvalīcarita (Pariśiṣṭaparvan)",
+      "author": "Hemacandra",
+      "original_text": "जिनानां चरितं पुण्यं स्थविराणां च कीर्त्यते",
+      "transliteration": "jinānāṃ caritaṃ puṇyaṃ sthavirāṇāṃ ca kīrtyate",
+      "translation": "\"The meritorious deeds of the Jinas and the elders are here recounted.\"",
+      "notes": "Jacobi edited Hemacandra’s Sthavirāvalīcarita (also known as Pariśiṣṭaparvan) for Bibliotheca Indica (Calcutta, late 19th century). This Sanskrit narrative text recounts the lives of early Jain teachers and provides historical and legendary material on the Jain saṅgha. As a post-canonical source (tier A for the text, tier B for traditional exegesis), it was crucial for Jacobi’s reconstruction of Jain history and for his argument that Jainism has independent origins distinct from Buddhism."
+    },
+    {
+      "title": "Upamitibhavaprapañcakathā",
+      "author": "Siddharṣi",
+      "original_text": "उपमितिभवप्रपञ्चकथा नामैतिह्यमिदं श्रूयताम्",
+      "transliteration": "upamitibhava-prapañca-kathā nāma itihyam idaṃ śrūyatām",
+      "translation": "\"Hear now this legendary tale called the ‘Story of the Elaborate Comparison of Existence’.\"",
+      "notes": "Jacobi’s edition of Siddharṣi’s Upamitibhavaprapañcakathā (Bibliotheca Indica, 1901–1914) is a major contribution to Prakrit and narrative literature. The text, composed in Jain Sanskrit and Prakrit, uses allegory and extended metaphor to explore ethical and spiritual themes. Jacobi’s philological work (tier A for the text, tier C for his scholarly apparatus) advanced the study of Middle Indo-Aryan and Apabhraṁśa, and remains a reference point for later linguistic and literary analyses."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Hermann Jacobi was himself a Jain monk or religious authority within the Jain tradition.",
+      "reality": "Jacobi was a German lay scholar and university professor, not a Jain monk, ācārya, or religious authority. His role was that of an Indologist working from manuscripts, philology, and historical analysis. While he was honored by some Jain communities and academies for his contributions, his interpretations do not carry the binding authority of a living Jain lineage or traditional teacher. For guidance on practice, ethics, or doctrinal decisions, qualified Jain ācāryas and contemporary Jain studies experts must be consulted."
+    },
+    {
+      "myth": "Jacobi’s astronomical dating of the Rigveda to around 4500 BCE is a settled and universally accepted result in Indology.",
+      "reality": "Jacobi’s attempt to date the Rigveda to the 5th millennium BCE, based on astronomical calculations, was controversial even in his own time and remains outside mainstream scholarly consensus. Most contemporary Vedic scholars place the composition of the earliest Vedic hymns in the second millennium BCE, and they regard Jacobi’s chronology as methodologically problematic. His dating is therefore an important historical episode in Indological debate, not a definitive conclusion, and it should not be used as a sole basis for religious, historical, or ideological claims."
+    },
+    {
+      "myth": "Before Jacobi, Western scholars already clearly recognized Jainism as fully distinct from Buddhism, so his work added little to that question.",
+      "reality": "Early Western Indology often treated Jainism as a minor offshoot or sect of Buddhism, and the distinctiveness of Jain doctrine, practice, and history was not always adequately recognized. Jacobi was among the first major European scholars to argue systematically that Jainism is an independent religious tradition with its own origins, possibly linked to figures such as Pārśva predating Mahāvīra. Although later research has refined and sometimes revised his historical reconstructions, his insistence on Jainism’s independent status was a significant corrective to earlier misconceptions."
+    },
+    {
+      "myth": "Jacobi’s editions and translations of Jain texts can be treated as final, error-free representations of Jain scripture and doctrine.",
+      "reality": "Jacobi worked with the manuscript resources and philological methods available in the late 19th and early 20th centuries. His editions and translations were pioneering, but they inevitably reflect the limitations of that period: incomplete manuscript collations, evolving standards of Prakrit and Apabhraṁśa linguistics, and a primarily European academic lens on Jain doctrine. Modern critical editions, traditional Jain commentaries, and contemporary scholarship have corrected, supplemented, and sometimes reinterpreted his work. Students should therefore treat Jacobi’s publications as historically important but not definitive, and always cross-reference them with later research and living Jain interpretive traditions."
+    }
+  ]
+}

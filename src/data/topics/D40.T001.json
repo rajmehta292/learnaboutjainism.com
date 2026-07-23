@@ -1,0 +1,51 @@
+{
+  "overview": "Jain lunar calendars—often referred to as *Jain Panchāṅga*—are systems for structuring ritual time, festival cycles, and observances according to the moon’s phases. They are used across Śvetāmbara and Digambara traditions, with regional variations in Gujarat, Rajasthan, Karnataka, Maharashtra, and diaspora communities. Although Jainism shares the broader Indian lunisolar framework, its calendrical rules emphasize tithis (lunar days) relevant to major events in the lives of the Tīrthaṅkaras, fasts such as *Pakkhi*, *Aṣṭāhnika*, and *Ayambil Oli*, and the timing of *Paryuṣaṇa* and *Daśalakṣaṇa*. \n\nJain calendars are lunisolar: months begin and end with specific lunar phases, and intercalary months (*adhika māsa*) are inserted to keep the ritual year aligned with seasonal cycles. The two principal month systems are *Amānta* (month ends on new moon) and *Pūrṇimānta* (month ends on full moon). Śvetāmbara communities often follow the Pūrṇimānta system, while Digambara communities more commonly use Amānta, though exceptions exist. \n\nKey calendrical units include: *tithi* (lunar day), *pakṣa* (fortnight), *māsa* (month), *ṛtu* (season), and *saṃvatsara* (year). Tithis are central because Jain fasts, vows, and commemorations are tied to specific lunar days—e.g., the 8th and 14th tithis for *Pakkhi*, the 5th and 14th for *Aṣṭāhnika*, and the 8th day of Kārttika for *Mahāvīra Nirvāṇa*. \n\nThe Jain calendar also preserves traditional cosmological time cycles described in canonical texts, such as *utsarpiṇī* and *avasarpiṇī*, though these vast epochs are symbolic rather than used for daily calendrical calculation. Modern Jain panchāṅgas integrate astronomical data, regional tradition, and sectarian practice, resulting in multiple authoritative versions rather than a single universal calendar.",
+  "primary_sources": [
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "“पक्खि अट्ठमी चउदस्सी…”",
+      "transliteration": "pakkhi aṭṭhamī cauadasī…",
+      "translation": "“The eighth and the fourteenth (tithis) are the days of the Pakkhi observance.”",
+      "notes": "This early Śvetāmbara canonical commentary (Tier A/B) identifies tithis central to ritual cycles, demonstrating how lunar days structure lay and monastic practice."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha",
+      "original_text": "“ससूरणं चंदस्स कालं तिहि विहियं।”",
+      "transliteration": "sasūraṇaṃ candassa kālaṃ tihi vihiyaṃ.",
+      "translation": "“The time determined by the moon is established through the three measures.”",
+      "notes": "A Digambara cosmological text (Tier A) describing lunar-based time reckoning within Jain cosmology, including tithis, fortnights, and months."
+    },
+    {
+      "title": "Kalpasūtra",
+      "author": "Attributed to Bhadrabāhu",
+      "original_text": "“कार्तिके मासि अमावस्सायं महावीरस्स निरवाणं।”",
+      "transliteration": "kārtike māsi amāvassāyaṃ mahāvīrassa niravāṇaṃ.",
+      "translation": "“In the month of Kārttika, on the new moon day, was the nirvāṇa of Mahāvīra.”",
+      "notes": "A Śvetāmbara canonical text (Tier A) anchoring a major calendrical festival—Mahāvīra Nirvāṇa—on a specific lunar day."
+    },
+    {
+      "title": "Gommatasāra (Jīvakāṇḍa)",
+      "author": "Nemicandra Siddhānta Cakravartin",
+      "original_text": "“तिथिदिवसपरिणामो जीवाणं गुणपरिणामेण जाणियव्वो।”",
+      "transliteration": "tithidivasapariṇāmo jīvāṇaṃ guṇapariṇāmeṇa jāṇiyavvo.",
+      "translation": "“The transformation of days and tithis is to be understood through the transformation of the soul’s qualities.”",
+      "notes": "A Digambara text (Tier A/B) linking calendrical units to karmic and metaphysical time, showing how tithis are embedded in Jain philosophical time theory."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jains worldwide follow a single standardized lunar calendar.",
+      "reality": "There is no universal Jain calendar. Digambara and Śvetāmbara traditions use different month systems (Amānta vs. Pūrṇimānta), and regional panchāṅgas vary in festival timing and astronomical calculation."
+    },
+    {
+      "myth": "Jain calendars are identical to Hindu lunar calendars.",
+      "reality": "While both are lunisolar, Jain calendars prioritize tithis tied to Tīrthaṅkara events, Jain fasts, and sectarian festivals. The placement of Paryuṣaṇa, Daśalakṣaṇa, and other observances differs from Hindu calendrical practice."
+    },
+    {
+      "myth": "Jain cosmological time cycles (utsarpiṇī/avasarpiṇī) are used for daily date calculation.",
+      "reality": "These cycles describe vast cosmological epochs and are not used for practical calendrical computation. Daily calendars rely on astronomical lunar phases and sectarian tradition."
+    }
+  ]
+}

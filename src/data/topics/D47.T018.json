@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain intellectual history, astronomy (often treated under *jyotiṣa*, *gaṇitāṅga*, and cosmological sections of canonical texts) is not a separate natural science in the modern sense but an integrated discipline combining cosmology, time‑cycles, spatial structure, and karmic ontology. Jain astronomy describes the shape and extent of the universe (*loka*), the nature of celestial bodies, and the movements of heavenly beings, while emphasizing that liberation lies beyond the physical cosmos. \n\nJain cosmology presents a finite yet beginningless universe shaped like a vertical human figure (*puruṣa*), divided into three realms: *ūrdhva‑loka* (upper world), *madhya‑loka* (middle world), and *adho‑loka* (lower world). Astronomy primarily concerns *madhya‑loka*, where humans, animals, and many celestial bodies exist. The middle world includes concentric continents and oceans, with Mount Meru at the center. Celestial bodies such as the sun (*sūrya*) and moon (*candra*) are described as luminous entities carried by divine attendants, with their motions explained through karmic and cosmic mechanisms rather than gravitational physics. \n\nTime in Jain astronomy is cyclical, divided into descending (*avasarpiṇī*) and ascending (*utsarpiṇī*) half‑cycles, each containing six eras. These cycles influence the conditions of life, longevity, and moral capacity. Astronomical phenomena—eclipses, planetary movements, and stellar configurations—are interpreted through karmic causality and the actions of celestial beings, not through physical laws. \n\nWhile Jain astronomy does not align with modern astrophysics, it remains a sophisticated intellectual system with its own internal logic, mathematical traditions, and commentarial history. Modern scholarship studies Jain cosmology as a window into historical Indian scientific thought, symbolic geography, and religious anthropology. The tradition itself maintains that cosmological knowledge is ultimately grounded in the omniscience (*kevala‑jñāna*) of the Jinas, transmitted through canonical texts and commentaries.",
+  "primary_sources": [
+    {
+      "title": "Sūryaprajñapti",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "सूरियं चंदं तं च ववहारं णिव्वहंति देवाः",
+      "transliteration": "sūriyaṃ caṃdaṃ taṃ ca vavahāraṃ nivvahanti devāḥ",
+      "translation": "“The gods carry out the functions of the sun and the moon.”",
+      "notes": "A canonical text focused on the sun, moon, and calendrical calculations. It describes the dimensions, motions, and attendants of celestial bodies. Editions vary; the passage illustrates the non‑mechanistic explanation of astronomical motion."
+    },
+    {
+      "title": "Jambūdvīpaprajñapti",
+      "author": "Śvetāmbara canonical tradition",
+      "original_text": "जंबूद्वीओ महिरूएणं मझ्झे ठियो",
+      "transliteration": "jambūdvīo mahirūeṇaṃ majjhe ṭhiyo",
+      "translation": "“Jambūdvīpa stands in the center with Mount Meru.”",
+      "notes": "A geographical‑astronomical text describing continents, oceans, and the central cosmic mountain. Used to understand spatial cosmology in Jain astronomy."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "लोयप्पहुट्ठं तिहि भोगभूमीहि तिहि जिणभूईहि",
+      "transliteration": "loyappahuṭṭhaṃ tihi bhogabhūmīhi tihi jiṇabhūīhi",
+      "translation": "“The universe is vast, with three realms of enjoyment and three realms of the Jinas.”",
+      "notes": "A major Digambara cosmological text offering detailed measurements of the universe, celestial regions, and cosmic cycles. Often used for technical cosmology."
+    },
+    {
+      "title": "Gommatasāra (Jīvakāṇḍa)",
+      "author": "Nemicandra Siddhānta Cakravartin",
+      "original_text": "सूर्यचंद्रादीनां गतिः कर्मप्रभावात्",
+      "transliteration": "sūryacandrādīnāṃ gatiḥ karmaprabhāvāt",
+      "translation": "“The movement of the sun, moon, and others occurs through the influence of karma.”",
+      "notes": "A Digambara text explaining cosmological and biological principles. The passage reflects the karmic framing of astronomical motion."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain astronomy attempts to provide a modern scientific model of the universe.",
+      "reality": "Jain cosmology is a religious‑philosophical system grounded in scriptural authority and symbolic geography, not empirical astrophysics."
+    },
+    {
+      "myth": "Descriptions of celestial beings imply literal anthropomorphic control of planets and stars.",
+      "reality": "Traditional texts use the language of divine attendants to explain motion within a karmic and cosmological framework; interpretations vary across commentaries."
+    },
+    {
+      "myth": "Jain cosmology is uniform across all sects.",
+      "reality": "While core structures are shared, Digambara and Śvetāmbara traditions differ in measurements, textual canons, and some interpretive details."
+    }
+  ]
+}

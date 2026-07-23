@@ -1,0 +1,43 @@
+{
+  "overview": "Samvara (saṃvara) through conduct refers to the Jain doctrinal principle of stopping the inflow of karmic particles by regulating bodily, verbal, and mental behavior. In classical Jain metaphysics, karma is a material substance (pudgala) that binds to the soul when passions (kaṣāyas) and unguarded activity (yoga) are present. Samvara is therefore a preventive discipline: it does not remove already‑bound karma (that is nirjarā), but halts new karmic influx by cultivating vigilance, restraint, and ethical purity.\n\nAcross Jain traditions, samvara through conduct is described as a multi-layered practice involving careful control of movement, speech, thought, and intention. The Tattvārtha Sūtra (TS 9.1–9.3) identifies specific categories of samvara, including gupti (restraint), samiti (carefulness), dharma (virtues), anuprekṣā (contemplations), and pariṣaha‑jaya (endurance of hardships). Conduct-based samvara primarily concerns gupti and samiti, which regulate the three yogas—body, speech, and mind—and ensure that daily actions do not generate new karmic bondage.\n\nIn Digambara sources such as the *Ṣaṭkhaṅḍāgama* and *Kundakunda’s Samayasāra*, samvara through conduct is framed as the disciplined cessation of harmful activities and the cultivation of equanimity. In Śvetāmbara Mūrtipūjaka and Sthānakavāsī traditions, samvara is closely tied to ahiṃsā, careful movement, and ritualized forms of mindfulness. Terāpanth literature emphasizes samvara as part of the integrated triad of samyama (self-restraint), samvara, and nirjarā, especially through Prekṣā meditation and anuvrata-based lay ethics.\n\nAlthough the details vary, all traditions agree that samvara through conduct is a practical, daily discipline. It is not limited to monastic life: laypeople also practice samvara by observing vows, reducing passions, and cultivating awareness in routine activities. The ultimate purpose is to stabilize the soul, prevent new karmic adhesions, and support progress toward higher guṇasthānas.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 9.1–9.3",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "गुप्तिसमितिधर्मानुप्रेक्षापरिषहजयचारित्राणि संयवराः ।",
+      "transliteration": "gupti-samiti-dharma-anuprekṣā-pariṣaha-jaya-cāritrāṇi saṃyavarāḥ",
+      "translation": "Restraints, carefulness, virtues, contemplations, endurance of hardships, and right conduct are forms of samvara (stoppage of karmic influx).",
+      "notes": "This sutra provides the canonical list of samvara categories. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārtha-vṛtti* (Śvetāmbara) elaborate on how gupti and samiti regulate bodily, verbal, and mental activity."
+    },
+    {
+      "title": "Samayasāra (gāthā 278–280)",
+      "author": "Kundakunda",
+      "original_text": "जोगो णिव्वत्तइ णिव्वत्तइ बंधो।\nसंवरस्स कारणं जोगो।",
+      "transliteration": "jogo nivvattai nivvattai bandho / saṃvarassa kāraṇaṃ jogo",
+      "translation": "When activity (yoga) ceases, bondage ceases. The cause of samvara is the cessation or regulation of yoga.",
+      "notes": "Kundakunda emphasizes that samvara arises when the soul’s activities are purified or restrained. Digambara commentators interpret this as both external conduct and internal cessation of passions."
+    },
+    {
+      "title": "Ācārāṅga Sūtra I.2",
+      "author": "Attributed to Mahāvīra’s teachings; Śvetāmbara canon",
+      "original_text": "समणे सुहुमे धम्मे धम्मस्स सारं अहिंसा।",
+      "transliteration": "samaṇe suhumme dhamme dhammasa sāraṃ ahiṃsā",
+      "translation": "In the subtle teaching of the ascetic, the essence of dharma is nonviolence.",
+      "notes": "Although not explicitly listing samvara, the text grounds conduct-based samvara in ahiṃsā and careful movement (īryā-samiti). Commentaries connect this to preventing karmic influx through disciplined behavior."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Samvara through conduct is only for monks and nuns.",
+      "reality": "While monastic rules provide the most detailed framework, Jain texts explicitly state that laypeople also practice samvara through vows, mindfulness, and reduction of passions. The Tattvārtha Sūtra applies samvara universally to all aspirants."
+    },
+    {
+      "myth": "Samvara means stopping all physical activity.",
+      "reality": "Samvara does not require inactivity. It requires regulated, careful activity free from harmful intentions and passions. Samiti (carefulness) ensures that daily actions are performed with minimal karmic influx."
+    },
+    {
+      "myth": "Samvara automatically leads to liberation.",
+      "reality": "Samvara halts new karmic influx but does not remove existing karma. Liberation requires both samvara and nirjarā (shedding of karma), along with right faith, right knowledge, and right conduct."
+    }
+  ]
+}

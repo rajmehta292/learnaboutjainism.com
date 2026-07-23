@@ -1,0 +1,43 @@
+{
+  "overview": "Charananuyoga (also spelled *Cāraṇānuyoga*) is one of the four classical Anuyogas—canonical divisions of Jain sacred literature—systematized prominently in the Digambara tradition. The term combines *cāraṇa* (conduct, discipline, ethical practice) and *anuyoga* (exposition or corpus), indicating a body of texts focused on the cultivation of right conduct, virtues, and disciplined living for both ascetics and laypeople. While the other anuyogas emphasize cosmology, doctrine, and narrative, Charananuyoga is concerned with the practical embodiment of Jain ethical ideals.\n\nIn Digambara classification, Charananuyoga typically includes texts that outline vows (*vrata*), restraints (*samiti*), carefulness (*gupti*), contemplative practices, and the behavioral expectations of monks, nuns, and householders. It also contains manuals on daily conduct, ritual purity, and the cultivation of virtues such as nonviolence (*ahiṃsā*), truthfulness (*satya*), non-possession (*aparigraha*), and restraint (*saṃyama*). These works often serve as pedagogical guides, providing structured pathways for ethical development.\n\nAlthough the term is primarily Digambara, Śvetāmbara traditions preserve parallel genres of conduct literature, such as the *Cheda-sūtras* and *Ācāra texts*, which fulfill similar functions. Comparative scholarship notes that Charananuyoga emphasizes the internalization of discipline, whereas some Śvetāmbara conduct texts focus more on monastic regulations and juridical procedures. Nevertheless, both traditions share the underlying goal of shaping conduct aligned with the Jain path to liberation.\n\nCharananuyoga is also significant for its role in bridging doctrinal knowledge and lived practice. It translates metaphysical principles—such as karma theory, the nature of the soul, and the stages of spiritual development—into actionable ethical frameworks. In this sense, Charananuyoga is not merely prescriptive but aspirational, guiding practitioners toward higher states of self-restraint and purity. Modern Jain educators often draw on Charananuyoga texts to teach youth and lay communities about foundational ethics, emphasizing their relevance in contemporary life.",
+  "primary_sources": [
+    {
+      "title": "Mūlācāra",
+      "author": "Vattakera (Digambara tradition)",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Nonviolence is the supreme dharma.",
+      "notes": "The *Mūlācāra* is a foundational Digambara conduct text often classified under Charananuyoga. It outlines monastic vows, carefulness, and ethical discipline. The quoted line is widely attested across Jain literature; here it reflects the central ethical orientation of Charananuyoga."
+    },
+    {
+      "title": "Trivarnācāra",
+      "author": "Traditionally attributed within Digambara conduct literature",
+      "original_text": "सयंमो मोक्षमार्गः",
+      "transliteration": "saṃyamo mokṣamārgaḥ",
+      "translation": "Restraint is the path to liberation.",
+      "notes": "This text elaborates the threefold conduct of monks, nuns, and laypeople. The passage highlights the centrality of restraint (*saṃyama*) in Charananuyoga."
+    },
+    {
+      "title": "Ācārāṅga-sūtra (Śvetāmbara parallel)",
+      "author": "Attributed to Mahāvīra’s early disciples",
+      "original_text": "णं चउव्विहं सयंमं",
+      "transliteration": "ṇaṃ cauvvihaṃ saṃyamaṃ",
+      "translation": "There is fourfold restraint.",
+      "notes": "Although not part of the Digambara anuyoga system, the *Ācārāṅga-sūtra* provides early canonical material on conduct. It is included here for comparative context, showing how restraint is articulated across traditions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Charananuyoga is only about monastic rules and has no relevance for laypeople.",
+      "reality": "While Charananuyoga contains detailed monastic conduct, it also includes guidance for lay ethics, vows, and daily discipline. Many texts explicitly address householders and provide frameworks for gradual ethical development."
+    },
+    {
+      "myth": "Charananuyoga is identical across Digambara and Śvetāmbara traditions.",
+      "reality": "The term Charananuyoga is primarily Digambara, and the classification system differs from Śvetāmbara canonical organization. Although both traditions preserve conduct literature, their textual corpora, emphases, and commentarial traditions vary."
+    },
+    {
+      "myth": "Charananuyoga focuses only on external behavior.",
+      "reality": "Conduct texts emphasize both external discipline and internal virtues such as intention, mindfulness, and purity of thought. Ethical transformation is understood as holistic, involving body, speech, and mind."
+    }
+  ]
+}

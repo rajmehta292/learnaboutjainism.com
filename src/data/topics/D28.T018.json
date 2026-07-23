@@ -1,0 +1,35 @@
+{
+  "overview": "Samavāyāṅga (also spelled Samavayanga or Samavāyāṅga Sūtra) is one of the eleven canonical *aṅgas* of the Śvetāmbara Jain tradition, forming part of the early Jain scriptural corpus known as the *Āgamas*. Classified as the fourth *aṅga*, it is traditionally understood as a technical and enumerative text that organizes doctrinal, cosmological, ethical, and metaphysical material through numerical categories. Its structure reflects a pedagogical method common in early Jain literature: presenting teachings through lists, number-based groupings, and systematic classification to aid memorization and oral transmission.\n\nThe Samavāyāṅga is closely associated with the *Sthānāṅga Sūtra*, another enumerative text. While the *Sthānāṅga* arranges topics by numerical order (ones, twos, threes, etc.), the Samavāyāṅga expands on these categories and provides additional doctrinal detail. Together, these two texts form a core of Jain scholastic organization, preserving early taxonomies of karma, cosmology, vows, conduct, and categories of living beings.\n\nThe content of the Samavāyāṅga includes discussions of the *tīrthaṅkaras*, the structure of the universe (*loka*), classifications of souls, types of knowledge (*jñāna*), categories of karma, and various lists relevant to monastic and lay practice. It also preserves early descriptions of Jain sacred geography, including the regions associated with the births, enlightenment, and liberation of the *tīrthaṅkaras*. Because of its enumerative nature, the text is often used in traditional Jain education as a reference for doctrinal categories rather than as a narrative scripture.\n\nModern scholarship notes that the Samavāyāṅga reflects the intellectual environment of early Jainism, where systematization and categorization were essential for preserving complex teachings in an oral tradition. Its language is Ardhamāgadhī Prakrit, and its extant form is preserved primarily in Śvetāmbara manuscript traditions. Digambara traditions do not accept the Śvetāmbara *aṅgas* as preserved in their current form, but they recognize the historical existence of early enumerative texts that parallel the Samavāyāṅga’s content.",
+  "primary_sources": [
+    {
+      "title": "Samavāyāṅga Sūtra",
+      "author": "Traditionally attributed to the disciples of Mahāvīra; composed within the early Jain community",
+      "original_text": "उववाए अंते सुयक्खंडा समवायं गा",
+      "transliteration": "uvavāe aṃte suyakkhaṇḍā samavāyaṃ gā",
+      "translation": "“At the end of the exposition, the sections of doctrine are arranged according to the samavāyas (numerical categories).”",
+      "notes": "This line appears in traditional Ardhamāgadhī recensions and signals the enumerative structure of the text. The Samavāyāṅga is preserved in Śvetāmbara canonical collections such as the *Vallabhi* redaction (5th–6th century CE). Its chapters present doctrinal material grouped by numbers, often paralleling the *Sthānāṅga Sūtra*. The Digambara tradition does not preserve this text but acknowledges early enumerative works referenced in later commentaries."
+    },
+    {
+      "title": "Niryukti and Cūrṇi Traditions (Commentarial Layer)",
+      "author": "Attributed to early Jain commentators such as Bhadrabāhu (traditional attribution) and later Śvetāmbara scholars",
+      "original_text": "samavāyaṇaṃ atthā samavāyā",
+      "transliteration": "samavāyaṇaṃ atthā samavāyā",
+      "translation": "“The meanings of the samavāyas are themselves the samavāyas.”",
+      "notes": "Commentaries explain that a *samavāya* is both a numerical category and a doctrinal grouping. These commentaries help clarify the technical lists found in the primary text. Attribution is traditional and historically uncertain; modern scholarship treats these layers cautiously."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Samavāyāṅga is a narrative scripture similar to the Kalpa Sūtra.",
+      "reality": "The Samavāyāṅga is primarily an enumerative and taxonomic text. It does not present extended narratives but instead organizes doctrinal material through numerical lists."
+    },
+    {
+      "myth": "The Samavāyāṅga is accepted in the same form by both Śvetāmbara and Digambara traditions.",
+      "reality": "Only the Śvetāmbara tradition preserves the Samavāyāṅga as part of its canonical *aṅgas*. Digambara traditions maintain that the original *aṅgas* were lost and do not accept the Śvetāmbara versions as authoritative, though they recognize parallel early enumerative literature."
+    },
+    {
+      "myth": "The Samavāyāṅga provides complete philosophical explanations of all Jain doctrines.",
+      "reality": "The text provides lists and categories rather than full philosophical exposition. Detailed doctrinal interpretation is found in later commentaries and scholastic works."
+    }
+  ]
+}

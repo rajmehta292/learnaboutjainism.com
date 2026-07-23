@@ -1,0 +1,27 @@
+{
+  "overview": "Navpad Oli is a significant Jain religious observance that occurs twice a year, during the Ashwin and Chaitra months. This practice involves a nine-day period of semi-fasting, where devotees consume only one meal a day, typically consisting of boiled grains, to honor the nine entities or 'Navapad' considered crucial for spiritual progress. These entities are: Arihant, Siddha, Acharya, Upadhyaya, Sadhu (collectively known as Panch Parmeshthi), Dharma, Gyan, Darshan, and Charitra. Each day is dedicated to one of these entities, with rituals and prayers aimed at enhancing spiritual discipline and purification. The practice of Navpad Oli is rooted in the belief that such austerities aid in karmic shedding and promote spiritual advancement.",
+  "primary_sources": [
+    {
+      "title": "Tattvartha Sutra",
+      "author": "Umaswati",
+      "original_text": "दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "Darśana-jñāna-cāritrāṇi mokṣamārgaḥ",
+      "translation": "Right perception, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This text is fundamental in understanding the principles guiding practices like Navpad Oli, emphasizing the importance of right conduct in the spiritual path."
+    },
+    {
+      "title": "Kalpa Sutra",
+      "author": "Bhadrabahu",
+      "original_text": "महापुरुषचर्या धर्मं",
+      "transliteration": "Mahāpuruṣacaryā dharmaṁ",
+      "translation": "Following the conduct of great souls is dharma.",
+      "notes": "Provides insight into the lifestyle and practices of revered figures, influencing rituals during Navpad Oli."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Navpad Oli is only a fasting ritual.",
+      "reality": "Navpad Oli is not merely about fasting; it's a comprehensive practice involving prayers, meditation, and reflection on the nine spiritual entities, aiming for spiritual purification and progress."
+    }
+  ]
+}

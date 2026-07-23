@@ -1,0 +1,51 @@
+{
+  "overview": "Female renunciation (strī‑pravrajyā or āryikā‑dīkṣā) in Jainism refers to the disciplined, text-governed path by which women undertake monastic life. Across Jain traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—female renunciants have historically formed large, influential communities. Primary sources describe women renouncing household life to pursue ahiṃsā, aparigraha, and the gradual purification of karma. The canonical literature presents renunciation as open to all genders, while commentarial traditions articulate differing views on embodiment, nudity, and liberation.\n\nEarly Śvetāmbara texts such as the *Ācārāṅga Sūtra* and *Bhagavatī Sūtra* depict women as disciples, teachers, and interlocutors. The *Kalpa Sūtra* narrates Mahāvīra’s interactions with female ascetics and householders, showing their presence in the earliest community. Digambara sources, while differing on the possibility of female kevalajñāna, still describe structured female renunciant orders (āryikā‑saṅgha) with their own vows, conduct manuals, and seniority systems.\n\nFemale renunciation historically required formal initiation by a qualified ācārya or pravartinī, adherence to the mahāvratas, and observance of strict codes of conduct (cāritra). Texts emphasize nonviolence, restraint in speech, careful movement, and meticulous attention to purity of intention. Renunciants engage in scriptural study, meditation, alms rounds, and community instruction. In modern times, female monastic communities remain numerically dominant in several Śvetāmbara traditions, and Digambara āryikās continue to maintain rigorous ascetic discipline.\n\nScholarly and traditional commentaries highlight the complexity of gender in Jain soteriology. While Śvetāmbara traditions affirm the possibility of female omniscience and liberation in the present life, Digambara commentators argue that liberation requires nudity, which they hold is not permissible for women; however, they still affirm eventual liberation through future rebirths. These differences reflect interpretive diversity rather than disagreement about the value or legitimacy of female renunciation itself.\n\nAcross history, female renunciants have served as preservers of oral tradition, teachers of lay communities, and exemplars of disciplined conduct. Manuscript colophons, inscriptions, and biographies attest to their intellectual, ritual, and pedagogical roles. Modern female renunciants continue to shape Jain education, ethics, and community life while navigating contemporary social contexts.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to the early Jain Saṅgha",
+      "original_text": "“ṇa ya māṇusā ṇa ya māṇusīeṇaṃ”",
+      "transliteration": "ṇa ya māṇusā ṇa ya māṇusīeṇaṃ",
+      "translation": "“Neither man nor woman is exempt [from the discipline of careful conduct].”",
+      "notes": "From Ācārāṅga Sūtra I.4 (Śvetāmbara canon). This passage is used in commentaries to emphasize that renunciant discipline applies universally, regardless of gender."
+    },
+    {
+      "title": "Bhagavatī Sūtra",
+      "author": "Śvetāmbara canonical redactors",
+      "original_text": "“bhikkhū bhikkhunīo ceva…”",
+      "transliteration": "bhikkhū bhikkhunīo ceva",
+      "translation": "“Monks and nuns alike…”",
+      "notes": "This recurring formula in the Bhagavatī Sūtra indicates that doctrinal instructions were addressed to both male and female renunciants."
+    },
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "“bahuṇā bhikkhunī‑saṅghena parivutto”",
+      "transliteration": "bahuṇā bhikkhunī‑saṅghena parivutto",
+      "translation": "“Surrounded by a great assembly of nuns.”",
+      "notes": "Describes Mahāvīra’s interactions with large communities of female renunciants, demonstrating their early prominence."
+    },
+    {
+      "title": "Kasāyapāhuda (Digambara)",
+      "author": "Gunadhara",
+      "original_text": "“sāhūṇaṃ sāhūīṇaṃ ca”",
+      "transliteration": "sāhūṇaṃ sāhūīṇaṃ ca",
+      "translation": "“For monks and nuns alike…”",
+      "notes": "A Digambara Prakrit text describing passions and their eradication. Commentaries use this line to affirm that the ethical path applies to both genders."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism does not permit women to become renunciants.",
+      "reality": "All major Jain traditions have long-standing female monastic orders. Canonical texts explicitly address female renunciants, and historical records show large communities of nuns."
+    },
+    {
+      "myth": "Digambara Jainism has no female ascetics.",
+      "reality": "Digambara Jainism maintains āryikā communities with formal vows, conduct manuals, and recognized seniority. The doctrinal debate concerns liberation in the present life, not the legitimacy of female renunciation."
+    },
+    {
+      "myth": "Female renunciants have a purely passive or domestic role.",
+      "reality": "Historical and modern evidence shows female renunciants teaching scriptures, guiding lay communities, commissioning manuscripts, and shaping ethical discourse."
+    }
+  ]
+}

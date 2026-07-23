@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, the term “traditional story” refers to narrative accounts preserved across canonical scriptures, commentarial literature, and oral teaching lineages. These stories serve multiple purposes: illustrating ethical principles, explaining karmic processes, modeling the conduct of exemplary figures, and transmitting cultural memory. They are not merely folklore; many are embedded within authoritative textual frameworks such as the *Āgamas* (Śvetāmbara) and *Śāstras* (Digambara), where they function as pedagogical devices.\n\nTraditional Jain stories often center on themes such as non‑violence (*ahiṃsā*), restraint (*saṃyama*), compassion (*dayā*), and the consequences of karmic bondage. Characters may include Tīrthaṅkaras, ascetics, lay exemplars, celestial beings, and animals, reflecting Jainism’s emphasis on the sentience of all living beings. The stories frequently illustrate how subtle actions—intentional or unintentional—shape karmic outcomes, thereby reinforcing doctrinal teachings on moral causation.\n\nAcross sectarian traditions, narrative transmission varies. Śvetāmbara Mūrtipūjaka communities often preserve stories through *kathā* recitation and commentaries on canonical texts like the *Kalpa Sūtra*. Sthānakavāsī and Terāpanth traditions emphasize didactic stories used in ethical instruction rather than ritual contexts. Digambara literature, including works like the *Padmapurāṇa* and *Mahāpurāṇa*, contains extensive narrative cycles that integrate cosmology, history, and moral exemplarity.\n\nModern scholarship notes that these stories evolve over time, with variations in language, emphasis, and interpretation. Yet their core function remains stable: to convey Jain ethical and metaphysical insights in accessible, memorable forms. When studied carefully—alongside primary texts and commentaries—they offer a window into how Jain communities have historically understood and lived their values.",
+  "primary_sources": [
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Traditionally attributed to early Jain canonical compilers",
+      "original_text": "एवं मे सुयक्खं तं णं जावं जावं पवणं ववस्सइ।",
+      "transliteration": "evaṃ me suyakkhaṃ taṃ ṇaṃ jāvaṃ jāvaṃ pavaṇaṃ vavassai",
+      "translation": "“Thus has it been well declared: as the wind blows again and again…” (excerpt illustrating narrative-style moral instruction)",
+      "notes": "The *Uttarādhyayana Sūtra* (Śvetāmbara canon, Tier A) contains numerous didactic stories used to teach renunciation, discipline, and karmic awareness."
+    },
+    {
+      "title": "Padmapurāṇa",
+      "author": "Raviṣeṇa (Digambara)",
+      "original_text": "ततः पद्मनाभो जिनेन्द्रवर्यं भजते स भक्त्या महितं सुदेवः।",
+      "transliteration": "tataḥ padmanābho jinendravar yaṃ bhajate sa bhaktyā mahitaṃ sudevaḥ",
+      "translation": "“Then Padmanābha, with devotion, worshipped the supreme Jina.”",
+      "notes": "The *Padmapurāṇa* (Tier A/B) contains extensive narrative cycles, including stories of previous births and karmic transformations, illustrating Digambara cosmology and ethics."
+    },
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Traditionally attributed to Bhadrabāhu (Śvetāmbara)",
+      "original_text": "तत्थएव णं महावीरस्स जनणं भओ।",
+      "transliteration": "tattha eva ṇaṃ mahāvīrassa janaṇaṃ bhao",
+      "translation": "“There, indeed, occurred the birth of Mahāvīra.”",
+      "notes": "The *Kalpa Sūtra* (Tier A) includes narrative accounts of the lives of Tīrthaṅkaras, especially Mahāvīra, forming a central part of Śvetāmbara ritual storytelling during Paryuṣaṇa."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Traditional Jain stories are purely mythological and unrelated to doctrine.",
+      "reality": "Many stories are embedded in canonical texts and serve as structured teaching tools illustrating karma theory, ethics, and ascetic ideals."
+    },
+    {
+      "myth": "All Jain traditions preserve the same set of stories.",
+      "reality": "While core narratives overlap, Digambara and Śvetāmbara traditions maintain distinct textual corpora, emphases, and interpretive lineages."
+    },
+    {
+      "myth": "Stories are meant to be taken only literally.",
+      "reality": "Traditional commentaries often treat them as layered narratives containing symbolic, ethical, and metaphysical meanings."
+    }
+  ]
+}

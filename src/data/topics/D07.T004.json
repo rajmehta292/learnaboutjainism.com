@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain thought, **deceit (māyā)** is one of the four primary passions (kaṣāyas) that obstruct the soul’s innate luminosity and perpetuate bondage in saṃsāra. It is classified alongside anger (krodha), pride (māna), and greed (lobha). Deceit refers to intentional distortion, concealment, or manipulation of truth for personal advantage. Jain philosophers treat deceit not merely as a moral flaw but as a subtle psychological mechanism that entangles the jīva in karmic influx (āsrava), especially the karma that obscures right conduct and right perception.\n\nAcross Digambara and Śvetāmbara traditions, deceit is described as a passion that undermines trust, disrupts social harmony, and weakens spiritual discipline. It is considered particularly dangerous because it can masquerade as virtue—appearing outwardly gentle or disciplined while inwardly motivated by self-serving intentions. This duality is said to create a deeper karmic imprint than simple ignorance.\n\nIn the technical analysis of karma, deceit is associated with the **conduct-deluding karma (cāritra-mohanīya karma)**. It obstructs the soul’s ability to act in alignment with vows (vratas), restraints (saṃyamas), and the gradual progression through the fourteen stages of spiritual development (guṇasthānas). At higher stages, even subtle forms of deceit—such as self-deception or rationalizing harmful actions—are considered significant obstacles.\n\nJain ethics for laypeople (śrāvakas) emphasize truthfulness (satya) as a foundational vow, and deceit is treated as a direct violation of this vow. Commentaries explain that deceit harms both the deceiver and the deceived by creating confusion, mistrust, and karmic entanglement. Modern Jain teachers often highlight that deceit includes digital misinformation, manipulative communication, and self-deception in personal habits.\n\nDespite its severity, Jain texts also describe pathways for reducing deceit through introspection (bhāvanā), confession (ālochanā), and disciplined adherence to vows. The traditions agree that recognizing deceit within oneself is a crucial step toward spiritual clarity and nonviolence (ahiṃsā).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmī",
+      "original_text": "माया मान लोभ क्रोधाः कषायाः",
+      "transliteration": "māyā māna lobha krodhāḥ kaṣāyāḥ",
+      "translation": "Deceit, pride, greed, and anger are the passions.",
+      "notes": "This sutra (Tattvārtha Sūtra 8.10) is a foundational definition of the four kaṣāyas. Both Digambara and Śvetāmbara traditions accept the text, though commentaries differ in nuance. Deceit is described as intentional misrepresentation that binds conduct-deluding karma."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "मायालोभो महापापो",
+      "transliteration": "māyā-lobho mahā-pāpo",
+      "translation": "Deceit and greed are great sins.",
+      "notes": "This passage appears in didactic sections emphasizing ethical discipline for monks and laypeople. The text pairs deceit with greed to illustrate how internal distortions lead to external harm."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "मायायुक्तो जीवो मोहनीयकर्म बन्धं लभते",
+      "transliteration": "māyā-yukto jīvo mohanīya-karma bandhaṃ labhate",
+      "translation": "A soul endowed with deceit acquires the bondage of deluding karma.",
+      "notes": "This early Digambara canonical text connects deceit directly to the mechanism of karmic bondage. Commentaries by later Digambara ācāryas elaborate on subtle forms of deceit, including self-deception."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Deceit in Jainism refers only to lying in speech.",
+      "reality": "Jain texts define deceit as a broad passion that includes manipulation, concealment, hypocrisy, and self-deception. It can occur in thought, speech, or action."
+    },
+    {
+      "myth": "Deceit is a minor ethical issue compared to violence.",
+      "reality": "Deceit is considered a major kaṣāya that directly binds deluding karma and obstructs spiritual progress. It is treated as a serious ethical and spiritual impediment."
+    },
+    {
+      "myth": "Only monks are expected to avoid deceit.",
+      "reality": "Laypeople also take the vow of truthfulness (satya), and deceit is considered a violation of this vow. Jain ethics apply to all practitioners, though with different levels of rigor."
+    }
+  ]
+}

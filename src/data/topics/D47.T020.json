@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, “medicine” (auṣadha) is understood through a layered framework that integrates non‑violence (ahiṃsā), karmic theory, monastic discipline, and lay responsibility. Jain texts do not reject medical care; rather, they place it within an ethical system that prioritizes minimizing harm, maintaining equanimity, and recognizing the limits of bodily intervention. Medicine is treated differently for monks and laypeople: householders may use medical treatments within ethical boundaries, while mendicants follow stricter rules that limit the types of interventions they may accept.\n\nAcross the canonical and commentarial literature, medicine is discussed in relation to the body’s impermanence, the karmic causes of illness, and the practical need to preserve life without generating unnecessary violence. The Śvetāmbara canon includes explicit references to physicians, treatments, and permissible remedies for monks, while Digambara texts emphasize restraint and avoidance of harm but still acknowledge the legitimacy of basic medical care for householders. Later commentaries and scholastic works expand on these rules, clarifying which substances, procedures, and intentions are ethically acceptable.\n\nJain medical ethics also intersects with broader Indian medical traditions. Classical Jain texts show familiarity with Ayurvedic categories such as doṣa, dietetics, and herbal remedies, though they reinterpret these within a karmic and ascetic worldview. Modern Jain communities continue to engage with contemporary medicine, often emphasizing vegetarianism, non‑harmful pharmaceuticals, and ethical medical practice. The tradition consistently encourages seeking qualified medical professionals for diagnosis and treatment, while maintaining spiritual practices such as meditation, pratikramaṇa, and compassion toward all living beings.\n\nOverall, Jainism views medicine as a necessary but ethically sensitive domain. It is neither rejected nor absolutized; instead, it is framed as a tool for reducing suffering while upholding the central Jain commitments to non‑violence, truthfulness, and spiritual progress.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "तं णं भिसगं वि भिसगं वि भिसगं वि",
+      "transliteration": "taṃṇaṃ bhisagaṃ vi bhisagaṃ vi bhisagaṃ vi",
+      "translation": "“There are physicians, and indeed physicians, and indeed physicians.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.7) acknowledges the existence of medical practitioners and situates them within the social world encountered by mendicants. The surrounding context discusses how monks should interact with householders, including physicians, without attachment or expectation. Editions: A-tier Śvetāmbara canonical text; translation varies slightly across editions."
+    },
+    {
+      "title": "Niśītha Sūtra (Śvetāmbara)",
+      "author": "Anonymous canonical compilers",
+      "original_text": "ओसहं कुडुगं पाणिणा ण उवहणिज्जा",
+      "transliteration": "osahaṃ kuḍugaṃ pāṇiṇā ṇa uvahaṇijjā",
+      "translation": "“A monk should not administer medicine or apply a poultice with his own hand.”",
+      "notes": "Niśītha Sūtra 10 outlines restrictions on monastic medical practice. Monks may receive certain treatments but must avoid actions that involve direct harm or attachment. A-tier canonical text; interpretations differ between Mūrtipūjaka and Sthānakavāsī traditions."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "दुःखं कर्मनिमित्तम्",
+      "transliteration": "duḥkhaṃ karma-nimittam",
+      "translation": "“Suffering arises from karma.”",
+      "notes": "Tattvārtha Sūtra 8.1 frames illness within karmic causation. Commentaries (B-tier) clarify that medical treatment does not contradict karmic theory; rather, it is a legitimate means of alleviating suffering while practicing equanimity."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism forbids all medical treatment.",
+      "reality": "Primary texts explicitly acknowledge physicians and allow medical care for householders. Monks follow stricter rules, but even they may receive limited treatment within ethical boundaries."
+    },
+    {
+      "myth": "Illness in Jainism must be endured without intervention because it is karmic.",
+      "reality": "While illness is karmically conditioned, Jain texts and commentaries affirm that using medicine ethically is permissible. Karmic causation does not prohibit compassionate action."
+    },
+    {
+      "myth": "Jains reject modern medicine in favor of only herbal or traditional remedies.",
+      "reality": "Modern Jain communities widely use contemporary medical treatments. The ethical focus is on minimizing harm, not rejecting scientific medicine."
+    }
+  ]
+}

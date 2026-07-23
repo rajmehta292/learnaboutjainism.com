@@ -1,0 +1,75 @@
+{
+  "overview": "Evidence-based claims are assertions that are explicitly grounded in publicly accessible, critically appraised evidence rather than intuition, authority alone, or mere tradition. In contemporary epistemology and philosophy of science, such claims are understood as those that can be traced back to identifiable data, observations, or arguments, together with transparent methods that connect this material to the conclusion. The emphasis is not only on having some supporting facts, but on showing how those facts were gathered, how alternative explanations were considered, and why the proposed claim is the best warranted interpretation of the available evidence.  [[0]](https://philosophy.institute/philosophy-of-science-and-cosmology/science-knowledge-philosophy-epistemology/) [[1]](https://archive.ncarb.org/002-dime/pdf?docid=jVM21-6768&title=all-claims-in-science-should-be-supported-by.pdf)\n\nFrom an epistemic standpoint, evidence-based claims sit at the intersection of belief, truth, and justification. Epistemology asks what it means to \"know\" something and how we distinguish genuine knowledge from opinion or speculation. A belief qualifies as knowledge, in the classical analysis, when it is true and justified; evidence provides the backbone of that justification. In science and scholarship, this justification is typically articulated through explicit research designs, data collection procedures, inferential frameworks (such as inductive reasoning, hypothetico–deductive testing, or Bayesian updating), and critical peer review. Different epistemological traditions—empiricism, rationalism, confirmationism, falsificationism, and Bayesianism—offer distinct accounts of how evidence supports or undermines claims, but they converge on the idea that responsible assertion requires more than personal conviction.  [[0]](https://philosophy.institute/philosophy-of-science-and-cosmology/science-knowledge-philosophy-epistemology/) [[2]](https://arxiv.org/pdf/2607.09281)\n\nIn practical research settings, evidence-based claims emerge from a structured process: formulating a question or hypothesis, selecting methods that are fit for purpose, collecting data with attention to bias and error, analyzing results with appropriate tools, and then appraising whether the totality of evidence justifies the proposed conclusion. Methodological rigor—careful design, reproducibility, transparency, and critical scrutiny—is central to this process. Peer review and replication serve as communal checks on whether the evidence really supports the claim or whether alternative explanations, methodological flaws, or selective reporting weaken its warrant. Frameworks for appraising evidence stress the \"fitness for purpose\" of a claim: its trustworthiness, relevance, clarity about uncertainty, and openness about value assumptions and limitations.  [[3]](https://www.mdpi.com/2304-6775/14/1/18) [[1]](https://archive.ncarb.org/002-dime/pdf?docid=jVM21-6768&title=all-claims-in-science-should-be-supported-by.pdf) [[4]](https://journals.sagepub.com/doi/pdf/10.3102/0091732X20985072?download=true)\n\nModern discussions also highlight that evidence-based does not mean infallible or purely mechanical. Evidence must be interpreted, and interpretation is shaped by theoretical commitments, background knowledge, and sometimes probabilistic reasoning. Bayesian epistemology, for example, treats evidence as information that updates the probability of a hypothesis, integrating both confirmation and falsification into a single framework. This perspective underscores that scientists and scholars may disagree less about data than about how to weigh and model that data. Recognizing these epistemological underpinnings helps prevent dogmatism: evidence-based claims are always provisional, open to revision when new data, better methods, or more coherent theories emerge.  [[0]](https://philosophy.institute/philosophy-of-science-and-cosmology/science-knowledge-philosophy-epistemology/) [[2]](https://arxiv.org/pdf/2607.09281)\n\nBeyond formal science, the idea of evidence-based claims has spread into policy-making, education, medicine, and everyday decision-making. In these domains, the call for \"evidence-based\" practice is a call to move from habit, anecdote, or untested assumptions toward decisions that are explicitly justified by systematically gathered and appraised information. At the same time, critical scholarship warns against treating the label \"evidence-based\" as a rhetorical shield: users must still ask what counts as evidence, whose perspectives shaped the research questions, how inclusive the data are, and whether the conclusions genuinely serve the needs and values of those affected. In this broader sense, evidence-based claims are not only about technical correctness but also about transparency, accountability, and ethical responsibility in how knowledge is produced and used.  [[3]](https://www.mdpi.com/2304-6775/14/1/18) [[4]](https://journals.sagepub.com/doi/pdf/10.3102/0091732X20985072?download=true)",
+  "primary_sources": [
+    {
+      "title": "The Logic of Scientific Discovery",
+      "author": "Karl Popper",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Popper argues that scientific claims must be framed so they can, in principle, be falsified by evidence, shifting the focus from confirmation to critical testing and emphasizing that the strength of a claim lies in how severely it has been exposed to potential refutation.",
+      "notes": "A foundational work in 20th-century philosophy of science, this book articulates falsificationism as a criterion for scientific theories and shapes later debates about what it means for a claim to be properly supported by evidence."
+    },
+    {
+      "title": "Studies in the Logic of Confirmation",
+      "author": "Carl G. Hempel",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Hempel analyzes how observational evidence can confirm or disconfirm general hypotheses, exploring paradoxes of confirmation and clarifying the logical relations between data and theoretical claims.",
+      "notes": "This work represents the confirmationist tradition, focusing on how positive instances and systematic observations can support evidence-based claims while revealing conceptual challenges such as the raven paradox."
+    },
+    {
+      "title": "Rethinking the Scientific Method: An Introduction to Bayesian Epistemology",
+      "author": "Jordan Hart and Daniel W. Franks",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The authors present Bayesian epistemology as a framework in which evidence updates the probability of competing hypotheses, integrating insights from both confirmationism and falsificationism and offering practical guidance for study design and evidence synthesis.",
+      "notes": "This contemporary work shows how probabilistic reasoning can clarify what it means for a claim to be supported by evidence, emphasizing discrimination between hypotheses and the revisability of beliefs.  [[2]](https://arxiv.org/pdf/2607.09281)"
+    },
+    {
+      "title": "All Claims in Science Should Be Supported By: Evidence, Rigor, and the Pursuit of Truth",
+      "author": "Evelyn Reed",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Reed argues that the principle that all scientific claims must be supported by robust evidence is the cornerstone of scientific inquiry, detailing forms of evidence, methodological rigor, peer review, and reproducibility as safeguards of trustworthy claims.",
+      "notes": "This article synthesizes philosophical and practical perspectives on evidence-based claims, highlighting the role of methodological standards and communal scrutiny in maintaining scientific integrity.  [[1]](https://archive.ncarb.org/002-dime/pdf?docid=jVM21-6768&title=all-claims-in-science-should-be-supported-by.pdf)"
+    },
+    {
+      "title": "Appraising Evidence Claims",
+      "author": "David Gough",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Gough proposes a framework for assessing whether research-based claims are justified and useful, focusing on how evidence is identified and synthesized, the technical quality of included studies, and the overall warrant and relevance of the claim.",
+      "notes": "This chapter is central to evidence-use debates in education and policy, emphasizing \"fitness for purpose\" and providing conceptual tools for critically appraising evidence-based claims in applied contexts.  [[4]](https://journals.sagepub.com/doi/pdf/10.3102/0091732X20985072?download=true)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "An evidence-based claim is the same as a proven, final truth.",
+      "reality": "Evidence-based claims are always provisional and revisable. They represent the best-supported interpretation of available data under current methods and theories, but they can be updated or overturned when new evidence or better reasoning emerges."
+    },
+    {
+      "myth": "Any reference to data or a single study is enough to make a claim evidence-based.",
+      "reality": "Merely citing data does not guarantee that a claim is well supported. Evidence-based claims require attention to study design, bias, reproducibility, synthesis of multiple sources, and consideration of alternative explanations, not just the existence of some data."
+    },
+    {
+      "myth": "Evidence-based means value-free and purely objective.",
+      "reality": "While evidence-based reasoning strives for rigor and transparency, research questions, methods, and interpretations are shaped by values, perspectives, and theoretical commitments. Recognizing these influences is part of responsibly appraising and using evidence-based claims."
+    },
+    {
+      "myth": "If experts disagree, there must be no evidence-based position.",
+      "reality": "Expert disagreement often reflects different epistemological frameworks or interpretations of the same evidence, not an absence of evidence. In such cases, it is still possible to compare how well each position accounts for the data, handles uncertainty, and remains open to revision."
+    }
+  ]
+}
+
+
+
+> [0] [Exploring the Intersection of Science and Knowledge: Philosophy of Science and Epistemology • Philosophy Institute](https://philosophy.institute/philosophy-of-science-and-cosmology/science-knowledge-philosophy-epistemology/)
+>
+> [1] [All Claims In Science Should Be Supported By | archive.ncarb.org](https://archive.ncarb.org/002-dime/pdf?docid=jVM21-6768&title=all-claims-in-science-should-be-supported-by.pdf)
+>
+> [2] [Rethinking the Scientific Method: An Introduction to Bayesian Epistemology](https://arxiv.org/pdf/2607.09281)
+>
+> [3] [Research with Epistemology: Are We Really Following the Scientific Method?](https://www.mdpi.com/2304-6775/14/1/18)
+>
+> [4] [Appraising Evidence Claims](https://journals.sagepub.com/doi/pdf/10.3102/0091732X20985072?download=true)

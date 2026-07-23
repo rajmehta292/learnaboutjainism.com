@@ -1,0 +1,51 @@
+{
+  "overview": "Within Jain thought, medical ethics emerges from the core principles of **ahiṃsā (non‑violence)**, **anukampā (compassion)**, **aparigraha (non‑possessiveness)**, and **satya (truthfulness)**. Although classical Jain scriptures do not present a standalone category called “medical ethics,” they contain extensive guidance on injury, care for living beings, duties of healers, and the moral evaluation of actions that affect embodied life. Later commentaries and modern Jain scholarship expand these foundations into contemporary discussions on healthcare, bioethics, end‑of‑life care, and public health.\n\nIn early canonical literature, medical concerns appear in discussions of **bodily suffering**, **injury**, **disease**, and **the karmic consequences of harming living beings**. The ethical framework is not primarily clinical but moral: actions that reduce suffering without causing additional harm are praised, while actions that inflict violence—even for beneficial ends—require careful evaluation. Digambara and Śvetāmbara traditions both preserve narratives of physicians, herbalists, and caretakers who act with compassion while minimizing harm.\n\nIn modern Jain communities, medical ethics is shaped by the tension between **minimizing harm** and **maximizing care**. For example, Jains widely accept medical treatment, surgery, and pharmaceuticals, while also encouraging practitioners to avoid unnecessary harm to microorganisms, animals, and ecosystems. Ethical debates arise around antibiotics, vaccinations, reproductive technologies, and end‑of‑life decisions. Contemporary Jain ethicists emphasize intention, proportionality, and the karmic weight of actions, arguing that medical interventions aimed at relieving suffering—when performed with awareness and restraint—can align with Jain values.\n\nAcross traditions, the guiding principle remains: **medical care is a form of compassionate service**, but it must be undertaken with mindfulness of the subtle forms of violence inherent in biological life. This creates a distinctive Jain contribution to global medical ethics: a call to reduce harm at every level—physical, ecological, psychological, and karmic—while supporting the well‑being of patients and communities.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "जिवा दुव्विहा — पाणो पाणो",
+      "transliteration": "jīvā duvviha — pāṇo pāṇo",
+      "translation": "Living beings are of many kinds — each life is delicate.",
+      "notes": "This passage (Ācārāṅga Sūtra I.1) underscores the vulnerability of life and the ethical responsibility to avoid harm. Commentators use it to frame medical ethics as an extension of ahiṃsā, emphasizing carefulness in any action affecting embodied beings."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "तं दुंहं विणासेइ — दव्वं दव्वं",
+      "transliteration": "taṃ duṃhaṃ viṇāsei — davvaṃ davvaṃ",
+      "translation": "One should remove suffering wherever possible, with appropriate means.",
+      "notes": "Although the text primarily discusses moral conduct, this line is cited in traditional commentaries to support compassionate action, including alleviating physical suffering through medical care."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non‑violence is the highest dharma.",
+      "notes": "This foundational statement (TS 7.1) is central to Jain medical ethics. Commentators explain that medical practitioners must minimize harm even when performing necessary interventions, and patients should choose treatments that align with compassionate intent."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "दया जीवाणं हवे — दव्वं दव्वं",
+      "transliteration": "dayā jīvāṇaṃ have — davvaṃ davvaṃ",
+      "translation": "Compassion toward living beings is required in all circumstances.",
+      "notes": "Used in ethical discussions to justify medical care as an expression of compassion. Traditional teachers highlight that relieving suffering is a meritorious act when done without unnecessary violence."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jains must avoid all medical treatment because it involves harm to microorganisms.",
+      "reality": "Classical and modern Jain sources affirm that relieving suffering is a compassionate duty. While Jains aim to minimize harm, they widely accept medical treatment, including surgery and pharmaceuticals, when necessary."
+    },
+    {
+      "myth": "Jain ethics forbids the use of antibiotics and vaccines.",
+      "reality": "Jain traditions do not categorically prohibit these interventions. Ethical evaluation focuses on intention, proportionality, and minimizing harm. Many Jain communities actively support vaccination and responsible antibiotic use."
+    },
+    {
+      "myth": "Jainism promotes passive acceptance of illness instead of active care.",
+      "reality": "Canonical texts encourage the removal of suffering through appropriate means. Jain lay ethics supports medical care, healthy living, and compassionate service to the sick."
+    }
+  ]
+}

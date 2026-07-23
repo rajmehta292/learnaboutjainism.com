@@ -1,0 +1,47 @@
+{
+  "overview": "Misinformation refers to false, inaccurate, or misleading claims that are spread without the deliberate intent to deceive. In Jain studies, misinformation can arise when secondary interpretations are mistaken for primary doctrine, when unverified digital texts circulate without manuscript comparison, or when practices from one Jain tradition are incorrectly generalized to all others. Because Jainism places strong emphasis on *samyak‑jnana* (right knowledge), the tradition treats misinformation not merely as an intellectual error but as a condition that obscures accurate understanding of reality and hinders ethical conduct.\n\nWithin Jain epistemology, misinformation is best understood through the lens of *mithyātva* (false belief) and the obstacles it creates for spiritual progress. Classical texts describe how misunderstanding arises from inattentive study, reliance on unreliable teachers, or attachment to preconceived views. Modern scholarship adds that misinformation can also emerge from digital circulation of unverified translations, selective quotations, or oversimplified summaries detached from their canonical context.\n\nIn contemporary settings, misinformation affects discussions of karma theory, fasting practices, sallekhana, sectarian differences, and historical chronology. It can lead to unsafe behavior when doctrinal concepts are misapplied to health, family obligations, or ethical decision‑making. Therefore, responsible Jain study requires grounding claims in verified primary sources, acknowledging sectarian variations, and distinguishing between quotation, paraphrase, commentary, and modern interpretation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "मिथ्यात्वसम्यक्त्वज्ञानदर्शनचारित्राणि",
+      "transliteration": "mithyātva‑samyaktva‑jñāna‑darśana‑cāritrāṇi",
+      "translation": "False belief, right belief, knowledge, perception, and conduct are (the fundamental categories).",
+      "notes": "TS 1.2 identifies *mithyātva* (false belief) as a foundational condition that obstructs right knowledge. Commentaries in both Digambara and Śvetāmbara traditions explain that misunderstanding of doctrine is a primary cause of spiritual error."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "अण्णं न जाणंति, जाणंति तं विणा कारणं।",
+      "transliteration": "aṇṇaṃ na jāṇaṃti, jāṇaṃti taṃ viṇā kāraṇaṃ",
+      "translation": "Some do not know, and some think they know without proper reason.",
+      "notes": "This passage (UttS 28.6, Prakrit) highlights the danger of assuming knowledge without proper grounding, a classical description of misinformation arising from unsupported belief."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "अविद्या कारणं बन्धस्य",
+      "transliteration": "avidyā kāraṇaṃ bandhasya",
+      "translation": "Ignorance is the cause of bondage.",
+      "notes": "Although brief, this line reflects the Digambara emphasis on ignorance—including doctrinal misunderstanding—as a root of karmic bondage."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain sects share identical interpretations of karma, fasting, and scripture.",
+      "reality": "Primary texts are shared, but Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth traditions maintain distinct commentarial lineages and practice norms. Treating one tradition’s interpretation as universal is a form of misinformation."
+    },
+    {
+      "myth": "Sallekhana is equivalent to suicide.",
+      "reality": "Primary sources describe sallekhana as a voluntary, gradual, and highly regulated vow undertaken under strict conditions, with emphasis on mental equanimity and medical, ethical, and familial considerations. Modern misuse of the term without context constitutes misinformation."
+    },
+    {
+      "myth": "Digital Jain texts circulating online are always reliable.",
+      "reality": "Many online texts are unverified OCR reproductions or incomplete excerpts. Without manuscript comparison or authoritative editions, errors and distortions can spread easily."
+    },
+    {
+      "myth": "Karma theory explains all misfortune in a simplistic cause‑and‑effect manner.",
+      "reality": "Canonical texts present karma as a complex system involving multiple categories, conditions, and modes of fruition. Oversimplified explanations misrepresent the tradition."
+    }
+  ]
+}

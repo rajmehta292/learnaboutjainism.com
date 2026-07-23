@@ -1,0 +1,43 @@
+{
+  "overview": "Roman transliteration refers to the practice of representing words from non‑Latin scripts—such as Devanagari, Brahmi-derived Indic scripts, Prakrit orthographies, and Sanskrit—using the Roman (Latin) alphabet. In Jain studies, Roman transliteration is essential for making Prakrit and Sanskrit texts accessible to readers who cannot read the original scripts. It allows scholars, students, and practitioners to discuss canonical terms, quote verses, and compare manuscripts across traditions without requiring script proficiency.\n\nRoman transliteration systems vary depending on scholarly goals. Academic systems such as IAST (International Alphabet of Sanskrit Transliteration) aim for phonetic precision, using diacritics to represent retroflex consonants, long vowels, and nasalization. More informal systems—often used in community education—omit diacritics and rely on approximate English spellings. For Prakrit, additional challenges arise because canonical languages such as Ardhamāgadhī and Śaurasenī contain phonological features not always captured in Sanskrit-based schemes.\n\nIn Jainism, Roman transliteration is used in editions of the *Āgamas*, Digambara *Śāstras*, commentaries, and modern pedagogical materials. It supports comparative work across Śvetāmbara and Digambara traditions, facilitates digital cataloging of manuscripts, and enables cross-linguistic study of technical terms such as *jīva*, *ajīva*, *leśyā*, *guṇasthāna*, and *karma*. Despite its usefulness, transliteration is not a substitute for script literacy; subtle semantic and grammatical features sometimes depend on orthographic cues present only in the original script.\n\nBecause Jain canonical languages evolved over centuries, transliteration must be applied carefully. Manuscripts may differ in spelling, sandhi, or regional orthographic conventions. Scholars therefore emphasize transparency: clearly marking where a transliteration is a direct representation of a manuscript reading, where it is normalized, and where editorial judgment has been applied.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "जिवाजिवकर्मबंधमोक्षाः",
+      "transliteration": "jīvājivakarmabandhamokṣāḥ",
+      "translation": "The categories are: living beings, non-living entities, karma, bondage, and liberation.",
+      "notes": "This line illustrates how Roman transliteration preserves long vowels (ī, ā), conjunct consonants (kṣ), and visarga (ḥ). The text is shared across Jain traditions, and transliteration helps compare Digambara and Śvetāmbara recensions."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं चेसु णं चेसु",
+      "transliteration": "ṇaṃ cesu ṇaṃ cesu",
+      "translation": "In restraint, in restraint.",
+      "notes": "Ardhamāgadhī Prakrit contains retroflex nasal sounds (ṇ) and nasalized vowels (ṃ). Roman transliteration allows these features to be represented even when the reader cannot access the original script."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "कर्मप्रकृतयः",
+      "transliteration": "karmaprakṛtayaḥ",
+      "translation": "The varieties of karma.",
+      "notes": "Roman transliteration is widely used in modern Digambara scholarship because many manuscripts are preserved in regional scripts such as Śāradā or Nandināgarī. Transliteration enables cross-script comparison."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Roman transliteration is the same as translation.",
+      "reality": "Transliteration only represents the original sounds using Roman letters; it does not provide meaning. Translation requires semantic interpretation, which is a separate process."
+    },
+    {
+      "myth": "There is one universally correct Roman transliteration system for Jain texts.",
+      "reality": "Multiple systems exist—IAST, community spellings, manuscript-normalized forms—and each serves different scholarly or pedagogical purposes. No single system fits all contexts."
+    },
+    {
+      "myth": "Transliteration removes the need to study original scripts.",
+      "reality": "Transliteration is a helpful bridge, but script literacy remains essential for advanced study because manuscripts contain orthographic, metrical, and grammatical cues not captured in Roman letters."
+    }
+  ]
+}

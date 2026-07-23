@@ -1,0 +1,55 @@
+{
+  "overview": "Vegetarianism in Jainism is not merely a dietary preference but a core ethical discipline rooted in the principle of **ahiṃsā** (non‑violence). Across Jain traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—the avoidance of meat, fish, eggs, and animal by‑products is treated as a foundational expression of compassion toward all living beings. The practice is grounded in canonical texts that classify living beings (jīvas) by their sensory capacities and emphasize the karmic consequences of harming them.\n\nJain vegetarianism is historically strict. It excludes meat and eggs entirely, and many communities also avoid root vegetables such as potatoes, onions, and garlic because uprooting plants destroys multiple one‑sensed organisms in the soil. This practice is attested in medieval commentaries and remains widely observed among Śvetāmbara Mūrti‑pūjaka and Terāpanth households. Digambara texts emphasize similar principles, though regional practice varies.\n\nThe dietary discipline is framed as part of **āhāra‑saṃyama** (restraint in food), which supports mental clarity, ethical conduct, and reduced harm. Laypeople adopt vegetarianism as part of the **aṇu‑vratas** (small vows), while monastics follow even stricter rules, including avoiding raw fruits with many seeds, filtering water, and refusing food that involves harm in its preparation.\n\nModern Jain communities continue to interpret vegetarianism through both traditional commentaries and contemporary ethical concerns such as environmental impact, animal agriculture, and global food systems. While the core principle remains unchanged—minimizing harm to living beings—scholars note diversity in practice across regions and sects, and emphasize that canonical texts do not prescribe modern veganism, though some Jains adopt it voluntarily for ethical reasons.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "पाणो पाणं न हन्तव्वो",
+      "transliteration": "pāṇo pāṇaṃ na hantavvo",
+      "translation": "“A living being should not be harmed by another living being.”",
+      "notes": "This foundational Śvetāmbara text (Tier A) establishes non‑violence as the primary ethical rule. While not a dietary manual, its broad injunction against harming jīvas is the basis for vegetarianism."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Śvetāmbara canon",
+      "original_text": "एगइन्दियाणं हाणे महा पावं बन्धइ",
+      "transliteration": "egaindiyāṇaṃ hāṇe mahā pāvaṃ bandhai",
+      "translation": "“Harming one‑sensed beings binds great sin.”",
+      "notes": "This passage is frequently cited in discussions of root vegetables, which involve disturbing soil organisms. The text classifies beings by senses and links harm to karmic bondage."
+    },
+    {
+      "title": "Tattvārtha Sūtra 7.13",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "प्राणातिपातो हिंसा",
+      "transliteration": "prāṇātipāto hiṃsā",
+      "translation": "“Injury to life is violence.”",
+      "notes": "A pan‑sectarian authoritative text (Tier A). Commentaries (Tier B) explain that food choices are a major domain where prāṇātipāta occurs, thus vegetarianism is a necessary lay vow."
+    },
+    {
+      "title": "Śrāvakācāra (various authors, e.g., Amitagati)",
+      "author": "Amitagati (Digambara)",
+      "original_text": "मांसभक्षणं महापापकरं",
+      "transliteration": "māṃsabhakṣaṇaṃ mahāpāpakaraṃ",
+      "translation": "“Eating meat causes great sin.”",
+      "notes": "Digambara lay conduct manuals explicitly prohibit meat consumption. These texts form the basis for modern Digambara vegetarian norms."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain vegetarianism is identical across all sects.",
+      "reality": "While all major Jain traditions prohibit meat and eggs, practices such as avoiding root vegetables vary by region, lineage, and household. Texts provide principles, but application differs."
+    },
+    {
+      "myth": "Jain texts mandate modern veganism.",
+      "reality": "Canonical sources do not discuss dairy ethics in modern industrial contexts. Some Jains adopt veganism voluntarily, but it is not a scriptural requirement."
+    },
+    {
+      "myth": "Vegetarianism alone fulfills the vow of ahiṃsā.",
+      "reality": "Ahiṃsā includes restraint in speech, thought, livelihood, and daily conduct. Diet is one important expression, not the entirety of the vow."
+    },
+    {
+      "myth": "Jains avoid root vegetables because they are ‘impure.’",
+      "reality": "The rationale is not ritual impurity but the harm caused to multiple one‑sensed beings in the soil when roots are uprooted, as explained in commentarial literature."
+    }
+  ]
+}

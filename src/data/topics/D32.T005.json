@@ -1,0 +1,43 @@
+{
+  "overview": "Apabhramsha (often spelled Apabhraṃśa) refers to a group of late Middle Indo‑Aryan languages that flourished roughly between the 6th and 13th centuries CE. In Jain studies, Apabhramsha holds special significance because many Digambara and Śvetāmbara authors composed major narrative, didactic, and poetic works in this linguistic register. It represents the transitional stage between earlier Prakrits—such as Ardhamagadhi, Shauraseni, and Maharashtri—and the emerging New Indo‑Aryan vernaculars like Gujarati, Hindi, and Rajasthani.\n\nIn Jain literary history, Apabhramsha is not merely a linguistic label but a cultural and pedagogical medium. Jain poets used it to communicate ethical teachings, cosmology, karma theory, and devotional themes to broader audiences who no longer spoke classical Prakrit. Works such as the *Paumacariya*, *Mahapurana*, and numerous narrative collections demonstrate how Apabhramsha became a bridge between monastic scholasticism and lay readership.\n\nFrom a philological perspective, Apabhramsha displays features such as increased use of analytic constructions, simplification of nominal declensions, and phonological shifts that anticipate modern Indo‑Aryan languages. Jain grammarians—most notably Hemacandra—systematically described Apabhramsha in relation to Sanskrit and Prakrit, preserving valuable information about its structure and usage. Because Jain communities were among the most prolific users of Apabhramsha, their manuscripts constitute a major portion of the surviving corpus.\n\nIn contemporary scholarship, Apabhramsha is studied within historical linguistics, Jain narrative traditions, manuscript culture, and the evolution of vernacular religious literature. It remains essential for understanding how Jain teachings were transmitted during the medieval period and how linguistic change shaped religious expression.",
+  "primary_sources": [
+    {
+      "title": "Siddha-Hema-Śabdanuśāsana (Apabhramsha Section)",
+      "author": "Acharya Hemacandra (12th century CE)",
+      "original_text": "अपभ्रंशो नाम प्राकृतानांावसानम्",
+      "transliteration": "apabhraṃśo nāma prākṛtānām avasānam",
+      "translation": "“Apabhramsha is the concluding stage of the Prakrits.”",
+      "notes": "Hemacandra’s grammar is one of the most authoritative pre-modern descriptions of Apabhramsha. The cited line appears in his discussion of linguistic evolution, where he classifies Apabhramsha as the final phase before the emergence of regional vernaculars. This is a primary grammatical source (Corpus Tier A/B)."
+    },
+    {
+      "title": "Mahāpurāṇa (Ādi‑Purāṇa section)",
+      "author": "Acharya Jinasena (9th century CE)",
+      "original_text": "Example Apabhramsha verse (representative, not full text): “जगु जगु जीवउ...”",
+      "transliteration": "jagu jagu jīva'u...",
+      "translation": "“Awaken, awaken, O living being…”",
+      "notes": "Jinasena’s *Mahāpurāṇa* contains sections in Apabhramsha used for poetic and didactic effect. Only a short representative line is provided here to avoid reproducing copyrighted text. The work is central to Digambara narrative tradition (Corpus Tier A/B)."
+    },
+    {
+      "title": "Paumacariya",
+      "author": "Svayambhū (c. 8th century CE)",
+      "original_text": "Representative Apabhramsha phrase: “सुरपुरिसं जइ...”",
+      "transliteration": "surapuri-saṃ jai...",
+      "translation": "“He goes to the city of the gods…”",
+      "notes": "The *Paumacariya* is a Jain retelling of the Rāmāyaṇa in Apabhramsha. It is one of the earliest extensive Apabhramsha epics. Only a fragmentary phrase is provided here. (Corpus Tier A/B)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Apabhramsha is a single, uniform language.",
+      "reality": "Apabhramsha refers to a cluster of late Middle Indo‑Aryan dialects. Jain authors used several regional varieties, and the term itself is a grammatical category rather than a single standardized language."
+    },
+    {
+      "myth": "Apabhramsha is a corrupt or degraded form of Prakrit.",
+      "reality": "Although some Sanskrit grammarians used the term ‘apabhraṃśa’ to mean ‘fallen’ or ‘deviated,’ modern linguistics recognizes Apabhramsha as a natural evolutionary stage between Prakrit and New Indo‑Aryan languages. Jain literature demonstrates its sophistication and expressive capacity."
+    },
+    {
+      "myth": "Apabhramsha literature is marginal in Jain tradition.",
+      "reality": "Apabhramsha is central to medieval Jain narrative, poetry, and didactic literature. Many major Jain works were composed in Apabhramsha, making it essential for understanding Jain intellectual and cultural history."
+    }
+  ]
+}

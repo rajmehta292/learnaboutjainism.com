@@ -1,0 +1,43 @@
+{
+  "overview": "Youth organizations within Jain communities are structured, voluntary groups that support young people in learning, practicing, and transmitting Jain values in contemporary contexts. Although not mandated by any canonical text, they have become important institutions for cultural continuity, ethical education, and community service. These organizations typically operate under local sanghas, temples, or national federations, and they serve as bridges between traditional teachings and modern youth experiences.\n\nMost Jain youth organizations emphasize ahimsa (non‑violence), aparigraha (non‑possessiveness), and anekantavada (many‑sidedness) as guiding principles. Activities often include scriptural study, Prakrit/Sanskrit learning, meditation, community service, environmental projects, and interfaith dialogue. They also provide leadership training, mentorship, and opportunities for young Jains to engage with global issues through a Jain ethical lens.\n\nAcross traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—youth organizations differ in emphasis. Some prioritize temple‑based ritual education, while others focus on non‑ritual ethical practice or structured programs like the Terāpanth’s *Jain Shwetambar Terapanth Youth Wing*. Despite these differences, all share the goal of cultivating informed, compassionate, and socially responsible Jain adults.\n\nIn diaspora communities, youth organizations play an additional role: preserving linguistic, cultural, and ritual knowledge that might otherwise fade. They often collaborate with academic institutions, host summer camps, and create digital learning resources. Their work is not a substitute for guidance from qualified teachers or monastic lineages, but rather a supportive environment for lay youth to explore Jain identity responsibly.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "Youth organizations frequently use this foundational verse (TS 1.1) as a framework for educational programs. While the text does not mention youth groups, its emphasis on cultivating correct understanding and conduct is applied pedagogically."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "णाणं चरित्तं च अहिंसा सव्वजीवाणं",
+      "transliteration": "ñāṇaṃ carittaṃ ca ahiṃsā savva‑jīvāṇaṃ",
+      "translation": "Knowledge, conduct, and non‑violence toward all living beings.",
+      "notes": "This early Śvetāmbara canonical text is often cited in youth ethics workshops. The verse underscores non‑violence as a universal obligation, forming the basis for environmental and compassion‑focused youth activities."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (select Digambara tradition)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "जीवस्य स्वभावो ज्ञानदर्शनचारित्रलक्षणः",
+      "transliteration": "jīvasya svabhāvo jñāna‑darśana‑cāritra‑lakṣaṇaḥ",
+      "translation": "The nature of the soul is characterized by knowledge, perception, and conduct.",
+      "notes": "Digambara youth organizations often reference this doctrinal foundation when teaching karma theory and the cultivation of virtues. The text itself is highly technical; youth programs typically rely on traditional commentaries for accessible explanations."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Youth organizations are modern inventions with no connection to Jain teachings.",
+      "reality": "While the institutional form is modern, the ethical and educational aims draw directly from canonical principles such as right conduct, non‑violence, and disciplined learning."
+    },
+    {
+      "myth": "Youth organizations replace guidance from monks, nuns, or qualified teachers.",
+      "reality": "They are supplementary lay institutions. They do not provide authoritative religious rulings and encourage participants to seek qualified guidance for doctrinal or practice‑related questions."
+    },
+    {
+      "myth": "All Jain youth organizations follow the same curriculum and practices.",
+      "reality": "Different traditions emphasize different aspects—ritual practice, non‑ritual ethics, meditation, or structured leadership training—reflecting the diversity within Jainism."
+    }
+  ]
+}

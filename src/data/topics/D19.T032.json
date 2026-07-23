@@ -1,0 +1,55 @@
+{
+  "overview": "Lay fasting (anuśana / upavāsa / paḍikkamana‑anuṣṭhāna) in Jainism is a structured, voluntary discipline practiced by householders (śrāvakas and śrāvikās) to cultivate self‑restraint, reduce passions, and support ethical living. It is distinct from monastic fasting in both scope and intensity. Lay fasting is framed within the broader Jain ethic of ahiṃsā, carefulness, and gradual spiritual development. It is never coercive, never undertaken during illness or vulnerability, and always embedded in community guidance.\n\nAcross Jain traditions, fasting is classified as part of the lay vows (aṇu‑vrata) and supplementary vows (śīla‑vrata, caryā‑vrata). It includes practices such as eating once a day (ekāṣaṇa), twice a day with restraint (beyāṣaṇa), partial fasts (rasa‑parityāga), full fasts (upavāsa), and extended observances during festivals like Paryuṣaṇa or Daśalakṣaṇa. The purpose is not bodily harm but purification of intention, reduction of attachment, and cultivation of equanimity.\n\nLay fasting is always contextualized by the householder’s responsibilities: caring for dependents, maintaining health, and fulfilling social duties. Classical texts repeatedly emphasize moderation, medical awareness, and suitability to one’s capacity. Modern Jain teachers across traditions reinforce that fasting must never be used to escape responsibilities, express distress, or imitate monastic austerities without guidance.\n\nIn contemporary practice, lay fasting often includes additional components such as scriptural study, pratikramaṇa, meditation, and charitable acts. Many communities also encourage non‑food fasts—such as digital restraint, speech restraint, or consumption reduction—to align ancient principles with modern life.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "अहिंसा-सत्य-चौर्य-ब्रह्मचर्य-अपरिग्रहा व्रतानि",
+      "transliteration": "ahiṃsā-satya-caurya-brahmacarya-aparigrahā vratāni",
+      "translation": "Nonviolence, truthfulness, non-stealing, chastity, and non‑possession are the vows.",
+      "notes": "TS 7.1–7.5 outlines the vows for householders and ascetics. Later commentaries (B) explain that lay fasting is a supportive discipline under the broader vow of restraint (saṃyama) and supplementary vows (śīla‑vrata). The text does not prescribe specific fasting schedules but frames austerity (tapas) as a means of reducing karmic influx (TS 9.19–9.27)."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "तवस्सि णं तवो, धम्मो णं धम्मो",
+      "transliteration": "tavassi ṇaṃ tavo, dhammo ṇaṃ dhammo",
+      "translation": "Austerity is indeed austerity; righteousness is indeed righteousness.",
+      "notes": "The text primarily addresses monastic conduct (A). However, passages describing measured austerity and carefulness are used in lay contexts through later commentarial tradition. Lay fasting is derived by analogy, with explicit caution that householders must adapt practices to their capacity."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra",
+      "author": "Samantabhadra",
+      "original_text": "उपवासोऽपि शुद्धभावनया हितः",
+      "transliteration": "upavāso'pi śuddha-bhāvanayā hitaḥ",
+      "translation": "Fasting, when accompanied by pure intention, is beneficial.",
+      "notes": "A foundational Digambara lay‑conduct text (A/B). It describes upavāsa as a voluntary discipline that must be accompanied by mental purity, scriptural reflection, and non‑violence. It explicitly warns against fasting undertaken with pride, competition, or harm to the body."
+    },
+    {
+      "title": "Śrāvakaprajñapti (Śvetāmbara)",
+      "author": "Traditional compilation",
+      "original_text": "एकासणं बेयासणं च, उपवासो च श्रावकस्य शीलम्",
+      "transliteration": "ekāsaṇaṃ beyāsaṇaṃ ca, upavāso ca śrāvakasyā śīlam",
+      "translation": "Eating once, eating twice with restraint, and fasting are disciplines of the lay follower.",
+      "notes": "This text (A/B) provides one of the clearest early enumerations of lay dietary disciplines. It emphasizes suitability, moderation, and alignment with the lay vows."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Lay fasting is meant to imitate monastic austerities or extreme tapas.",
+      "reality": "Primary texts and commentaries consistently differentiate lay and monastic obligations. Household responsibilities, health, and capacity limit the scope of lay fasting. It is a supportive practice, not an attempt to replicate ascetic austerity."
+    },
+    {
+      "myth": "Long or waterless fasts are expected of all lay Jains during festivals.",
+      "reality": "No primary text mandates prolonged or waterless fasting for householders. Traditions emphasize voluntary participation, medical suitability, and alternative practices such as scriptural study, meditation, or partial fasts."
+    },
+    {
+      "myth": "Fasting is primarily about physical deprivation.",
+      "reality": "Jain sources frame fasting as mental purification, reduction of passions, and cultivation of equanimity. Physical restraint is secondary to intention, awareness, and ethical alignment."
+    },
+    {
+      "myth": "Breaking a fast is spiritually harmful or forbidden.",
+      "reality": "Texts and teachers emphasize that fasting must never endanger health. Breaking a fast due to weakness or medical need is appropriate and encouraged. Intention and safety take precedence over completion."
+    }
+  ]
+}

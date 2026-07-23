@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical and historical literature, the idea of “prison” (bandhana, karagara) appears in multiple layers: as a literal institution within ancient and medieval polities, as a metaphor for karmic bondage, and as a narrative setting in biographies of tīrthaṅkaras, śrāvakas, and political figures. Jain texts do not treat prisons as a central doctrinal topic, but they do reference them when describing worldly governance, ethical consequences of violence, and the karmic results of actions that restrict another being’s freedom.\n\nHistorically, Jain communities lived under diverse political systems—Mauryan, Gupta, regional kingdoms, and later sultanates and colonial administrations. Prisons in these contexts were state institutions used for detention, punishment, or political control. Jain narratives often highlight the moral dilemmas surrounding imprisonment, especially when it involves cruelty, torture, or unjust confinement. The emphasis is on ahiṃsā (non-harm), anukampā (compassion), and the karmic repercussions of causing suffering.\n\nIn philosophical discourse, “prison” is frequently used metaphorically. The bondage of karma (bandha) is described as a confinement of the soul, restricting its innate qualities of infinite knowledge, perception, bliss, and energy. The worldly body itself is sometimes portrayed as a kind of karmic prison, binding the jīva until it attains liberation. This metaphor appears across Śvetāmbara and Digambara traditions, especially in discussions of the guṇasthānas (stages of spiritual development).\n\nNarrative literature—such as the *Kalpa Sūtra*, *Uttarādhyayana Sūtra*, and various commentaries—occasionally depicts kings imprisoning rivals or wrongdoers. These episodes are not endorsements of punitive incarceration but serve to illustrate moral lessons: the impermanence of power, the dangers of anger and attachment, and the triumph of forgiveness and truth. Jain lay ethics (śrāvaka-dharma) emphasize lawful conduct, avoidance of harm, and advocacy for humane treatment of all beings, which extends to concerns about cruelty in prisons.\n\nModern Jain ethical discussions sometimes engage with contemporary prison reform, focusing on nonviolence, rehabilitation, and the dignity of incarcerated individuals. These discussions are not doctrinal rulings but applications of ahiṃsā and compassion to modern institutions.",
+  "primary_sources": [
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Traditionally attributed to early Śvetāmbara canonical compilers",
+      "original_text": "“Bandho khalu jīvāṇaṃ, jāyanti dukkhā bahū.”",
+      "transliteration": "bandho khalu jīvāṇaṃ, jāyanti dukkhā bahū",
+      "translation": "“Bondage indeed belongs to living beings, and from it arise many sufferings.”",
+      "notes": "This passage (Uttarādhyayana Sūtra 28.1, canonical Śvetāmbara edition) uses ‘bandha’ metaphorically as karmic imprisonment. It is not about physical prisons but illustrates how confinement is a central metaphor for samsaric suffering."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "“Bandhaḥ karmaṇo jīvaḥ.”",
+      "transliteration": "bandhaḥ karmaṇo jīvaḥ",
+      "translation": "“Bondage is the attachment of karma to the soul.”",
+      "notes": "Tattvārtha Sūtra 8.1 defines karmic bondage. Later Digambara and Śvetāmbara commentaries compare karmic bandha to confinement, limiting the soul’s freedom. This is a philosophical rather than literal reference."
+    },
+    {
+      "title": "Kalpa Sūtra (Mahāvīra’s Life)",
+      "author": "Śvetāmbara canonical tradition",
+      "original_text": "No direct prison term appears, but episodes describe kings detaining individuals under political conflict.",
+      "transliteration": "",
+      "translation": "Narrative sections describe royal authority, including detention, to illustrate moral lessons about power and nonviolence.",
+      "notes": "The Kalpa Sūtra does not provide a doctrinal theory of prisons but includes narrative references to confinement within royal courts. These passages are used in commentarial literature to discuss ethical governance."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain texts endorse imprisonment as a preferred method of punishment.",
+      "reality": "Jain canonical literature does not prescribe prison systems or punitive incarceration. References to prisons are descriptive of historical governance, not normative endorsements. Jain ethics emphasize nonviolence and minimizing harm."
+    },
+    {
+      "myth": "The Jain concept of bandha (bondage) refers to literal imprisonment.",
+      "reality": "Bandha in Jain philosophy refers to karmic attachment, not physical confinement. While metaphors of imprisonment appear, they describe the soul’s entanglement in karma, not a physical jail."
+    },
+    {
+      "myth": "Jainism prohibits all forms of detention, even for public safety.",
+      "reality": "Jain texts do not provide political or legal codes for modern states. Lay ethics emphasize nonviolence and compassion, but practical governance decisions require qualified human legal and ethical judgment."
+    }
+  ]
+}

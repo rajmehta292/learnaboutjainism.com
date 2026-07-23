@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, **jīva** refers to the living, conscious principle—often translated as “soul,” though its meaning is more technical and precise than many English equivalents. Jīva is one of the two fundamental and eternal categories of reality (dravya), the other being **ajīva**, the non-living. According to both Digambara and Śvetāmbara traditions, jīvas are infinite in number, beginningless, and indestructible. They possess inherent qualities such as consciousness (cetanā), bliss (sukha), energy (vīrya), and knowledge (jñāna), which exist in a pure state but are obscured by karmic matter.\n\nJīva is characterized by **upayoga**, the activity of consciousness, which manifests as knowing and perceiving. In its liberated condition, a jīva is omniscient, bodiless, and resides at the apex of the universe (siddha-śilā). In its worldly condition, it is embodied, subject to birth and death, and bound by karma. The interaction between jīva and karma forms the core of Jain metaphysics and ethics: actions attract karmic particles, which bind to the jīva and shape its future experiences, capacities, and rebirths.\n\nJain texts classify jīvas into various categories based on the number of sense faculties (indriyas), mobility, and spiritual development. From one-sensed beings like plants and microorganisms to five-sensed beings like humans and animals, each jīva possesses consciousness appropriate to its karmic condition. This taxonomy underlies Jain ethics, emphasizing nonviolence (ahiṃsā) toward all forms of life.\n\nThe concept of jīva is foundational for understanding Jain cosmology, karma theory, ethics, and the path to liberation. It is not merely a metaphysical entity but the very locus of moral responsibility and spiritual transformation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmī",
+      "original_text": "जीवो उपयोगलक्षणः",
+      "transliteration": "jīvo upayoga-lakṣaṇaḥ",
+      "translation": "The characteristic of the jīva is upayoga (the activity of consciousness).",
+      "notes": "Tattvārtha Sūtra 2.8 provides the most widely cited definition of jīva across Jain traditions. Commentaries differ slightly on the nuances of upayoga, but all agree it refers to knowing and perceiving."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Nemicandra Siddhānta Cakravartin",
+      "original_text": "जीवो णिजभूयणो उप्पादवयध्रुवत्तो",
+      "transliteration": "jīvo ṇijabhūyaṇo uppādavaya-dhuvvatto",
+      "translation": "The jīva has its own nature and possesses origination, decay, and permanence.",
+      "notes": "Dravyasaṃgraha verse 2 describes jīva as a dravya with the threefold characteristics of change. It emphasizes the soul’s permanence despite momentary modifications."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "सव्वे पाणाओ णिज्जीवा",
+      "transliteration": "savve pāṇāo nijjīvā",
+      "translation": "All living beings possess a soul.",
+      "notes": "This early Śvetāmbara canonical text affirms the universality of jīva across all forms of life, forming the ethical basis for ahiṃsā."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jīva is identical to the physical body.",
+      "reality": "Jain texts consistently distinguish jīva from the body. The body is a temporary material aggregate shaped by karma, while jīva is eternal, conscious, and independent of physical form."
+    },
+    {
+      "myth": "Only humans and animals have jīva.",
+      "reality": "Jainism teaches that all living beings—including plants, microorganisms, and subtle elemental beings—possess jīva. Ethical practice must consider the full spectrum of life."
+    },
+    {
+      "myth": "Jīva can be destroyed.",
+      "reality": "Jīva is beginningless and indestructible. While its states and capacities change due to karma, its fundamental existence is permanent."
+    }
+  ]
+}

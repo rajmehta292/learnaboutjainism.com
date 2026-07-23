@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain cosmology, “continents” refers not to the modern Earth-based classification (such as Asia or Africa), but to the vast, structured landmasses that form part of the Jain universe (loka). These landmasses are described in meticulous detail in canonical texts, especially within the cosmological sections of the Śvetāmbara and Digambara traditions. The Jain universe is eternal, without beginning or end, and its geography is not meant as a physical map of Earth but as a moral–spiritual cartography illustrating karmic conditions, realms of rebirth, and the structure of existence.\n\nThe middle world (madhyaloka), where humans reside, contains concentric rings of continents and oceans. At the center lies **Jambūdvīpa**, the most significant continent for human life and liberation. Surrounding it are **Dhātakīkhaṇḍa**, **Puṣkaradvīpa**, and additional alternating rings of oceans and continents extending outward. Each continent has its own mountains, rivers, regions, and human or non-human inhabitants. The structure is symmetrical, mathematically ordered, and deeply symbolic.\n\nJambūdvīpa itself contains regions such as **Bharata**, **Airāvata**, and **Videha**, each with distinct karmic conditions. According to Jain texts, Tīrthaṅkaras appear in specific regions (notably Bharata and Airāvata during descending time cycles, and Videha perpetually). The continents are not merely geographical—they encode the moral architecture of time cycles (kālacakra), the distribution of human capacities, and the possibility of spiritual progress.\n\nAcross traditions, descriptions of continents serve as a pedagogical tool: they help practitioners understand the vastness of samsāra, the rarity of human birth, and the structured nature of karmic consequences. While interpretations vary between Digambara and Śvetāmbara sources, the core cosmological framework remains consistent: the continents are part of an ordered, multi-tiered universe designed to orient the practitioner toward liberation (mokṣa).",
+  "primary_sources": [
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara tradition)",
+      "original_text": "जम्बूद्वीपो महाअद्धो, तस्स मझ्झे सुदेसो।",
+      "transliteration": "jambūdvīpo mahāddho, tassa majjhe sudeso.",
+      "translation": "“Jambūdvīpa is the great continent; at its center lies the auspicious region.”",
+      "notes": "A foundational Digambara cosmological text (c. 6th century CE) describing the structure of continents, oceans, and the middle world. The quoted line is representative rather than exhaustive; full passages are extensive and vary by manuscript."
+    },
+    {
+      "title": "Saṃgrahaṇī Sūtra",
+      "author": "Attributed to Śvetāmbara tradition",
+      "original_text": "जम्बूद्वीपं तु मध्यलोके।",
+      "transliteration": "jambūdvīpaṃ tu madhyaloke.",
+      "translation": "“Jambūdvīpa is indeed in the middle world.”",
+      "notes": "A Śvetāmbara canonical text offering concise descriptions of cosmological structures. Manuscripts differ slightly in phrasing; this line reflects a common recension."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "मध्यलोके जम्बूद्वीपादयः।",
+      "transliteration": "madhyaloke jambūdvīpādayaḥ.",
+      "translation": "“In the middle world are Jambūdvīpa and the other continents.”",
+      "notes": "A universally respected text across Jain traditions (c. 2nd–5th century CE). Commentaries elaborate on the number, shape, and characteristics of continents."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain continents refer to physical continents on Earth such as Asia or Europe.",
+      "reality": "Jain cosmological continents are metaphysical and symbolic landmasses within the Jain universe, not geographical regions of Earth."
+    },
+    {
+      "myth": "All Jain traditions describe the continents identically.",
+      "reality": "While the overall cosmological framework is shared, Digambara and Śvetāmbara texts differ in measurements, diagrams, and some regional details."
+    },
+    {
+      "myth": "Continents are merely mythological and have no ethical significance.",
+      "reality": "In Jainism, continents encode karmic conditions, human capacities, and the structure of time cycles, serving as a moral–spiritual map rather than a physical one."
+    }
+  ]
+}

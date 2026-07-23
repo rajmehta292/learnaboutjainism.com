@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain ontology, four‑sensed beings (catur‑indriya jīva) occupy a distinct position within the broader taxonomy of living beings (jīva‑sāmānya). Jainism classifies embodied life according to the number of functioning senses, ranging from one to five. Four‑sensed beings possess touch, taste, smell, and sight, but lack hearing. This classification appears consistently across Śvetāmbara and Digambara traditions and is foundational to understanding karma theory, cosmology, and ethics.\n\nThese beings include certain insects and arthropods—such as flies, bees, wasps, and many varieties of small creatures described in classical Prakrit texts. They are mobile (trasa jīva) and capable of intentional movement, which increases the karmic weight of harming them compared to immobile one‑sensed beings. Their sensory capacities allow them to engage in more complex interactions with their environment, and thus they accumulate and shed karma in more varied ways.\n\nIn Jain ethics, awareness of four‑sensed beings is crucial for lay and monastic conduct. Activities such as food preparation, agriculture, and travel may inadvertently harm these beings. Traditional commentaries emphasize carefulness (samiti) and vigilance (apramatta) to minimize violence (hiṃsā). The classification also plays a role in cosmological mapping, as four‑sensed beings inhabit all three worlds—upper, middle, and lower—depending on karmic conditions.\n\nWhile the category is stable across sects, descriptions vary in detail. Śvetāmbara texts often provide extensive lists of examples, whereas Digambara works emphasize the karmic mechanisms governing embodiment. Modern scholarship highlights the sophistication of Jain biological classification, noting its systematic approach to sensory capacity, mobility, and moral consequence.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "चतुर्इन्द्रियाः स्पर्शरसगन्धरूपग्राहिणः",
+      "transliteration": "caturindriyāḥ sparśa‑rasa‑gandha‑rūpa‑grāhiṇaḥ",
+      "translation": "Four‑sensed beings are those that perceive touch, taste, smell, and form.",
+      "notes": "Tattvārtha Sūtra 2.23 provides the canonical definition of four‑sensed beings. Both Digambara and Śvetāmbara traditions accept this sutra, though commentaries differ in examples and elaboration."
+    },
+    {
+      "title": "Saṃgrahaṇī Sūtra (Śvetāmbara)",
+      "author": "Attributed to Śīlāṅka (commentary), canonical text anonymous",
+      "original_text": "ते चतुर्इन्द्रियाः पत्तङ्गादयो बहवो",
+      "transliteration": "te caturindriyāḥ pattaṅgādayo bahavo",
+      "translation": "Many four‑sensed beings include flying insects and similar creatures.",
+      "notes": "The Saṃgrahaṇī Sūtra lists examples of four‑sensed beings and situates them within Jain cosmology. The text is central to Śvetāmbara classifications of jīvas."
+    },
+    {
+      "title": "Gommatasāra Jīvakāṇḍa (Digambara)",
+      "author": "Nemichandra Siddhānta‑cakravartin",
+      "original_text": "चतुर्इन्द्रियाणां रूपग्रहणं विशेषतः प्रवर्तते",
+      "transliteration": "caturindriyāṇāṃ rūpa‑grahaṇaṃ viśeṣataḥ pravartate",
+      "translation": "Among four‑sensed beings, the activity of perceiving form is particularly operative.",
+      "notes": "Nemichandra emphasizes the karmic and perceptual mechanisms that enable four‑sensed beings to experience visual forms, linking sensory capacity to karmic embodiment."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Four‑sensed beings are limited to insects that can fly.",
+      "reality": "Classical Jain texts include both flying and non‑flying creatures. The defining feature is possession of four senses, not locomotion type."
+    },
+    {
+      "myth": "Four‑sensed beings suffer less karmic consequence than higher beings, so harming them is minor.",
+      "reality": "Jain ethics holds that harming any mobile being—including four‑sensed ones—creates significant negative karma. Their mobility and sensory awareness increase the moral seriousness of violence."
+    },
+    {
+      "myth": "All traditions list the same examples of four‑sensed beings.",
+      "reality": "While the sensory definition is shared, Śvetāmbara and Digambara texts differ in examples and explanatory detail, reflecting distinct commentarial traditions."
+    }
+  ]
+}

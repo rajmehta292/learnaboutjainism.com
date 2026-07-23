@@ -1,0 +1,43 @@
+{
+  "overview": "Filtered water refers to water that has been passed through a physical or chemical medium to remove impurities such as microorganisms, suspended particles, chemicals, or odors. In everyday contexts, filtration may involve household devices like activated carbon filters, reverse osmosis systems, or ceramic filters. In scientific and public health contexts, filtration is one of several methods used to ensure potable water quality, often combined with disinfection.\n\nWithin Jain traditions, filtered water carries additional ethical significance. Filtration is not only a hygienic practice but also a moral precaution to reduce harm to microscopic life forms (sūkṣma jīva). For many monastic communities and conscientious lay practitioners, filtering water before consumption is a longstanding discipline rooted in ahiṃsā (non‑violence). The practice appears in early canonical texts and continues across Digambara and Śvetāmbara traditions, though specific methods vary.\n\nModern filtration technologies differ greatly from ancient Jain practices, which relied on cloth filtration (pāni‑parisrāvan) to remove visible and subtle organisms. Today, filtered water may refer to water purified through advanced systems, but the ethical principle in Jainism remains the same: minimizing harm to living beings while maintaining health and safety.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara Canon)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "पाणिं परिसावए",
+      "transliteration": "pāṇiṃ parisāvae",
+      "translation": "“One should filter water.”",
+      "notes": "This instruction appears in the context of monastic conduct, emphasizing carefulness (samiti) to avoid harming subtle life forms. Editions vary; the phrase is attested in canonical recensions describing daily practices of restraint."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "जीवो जीवस्य हिंसकः",
+      "transliteration": "jīvo jīvasya hiṃsakaḥ",
+      "translation": "“A living being is harmful to another living being.”",
+      "notes": "While not explicitly about water filtration, this foundational principle is used by commentators to justify practices such as filtering water to prevent inadvertent harm to microscopic organisms. Commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi) connect this principle to carefulness in daily activities."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "पाणे परिसावणं कुर्वीत",
+      "transliteration": "pāṇe parisāvaṇaṃ kurvīta",
+      "translation": "“One should perform the filtration of water.”",
+      "notes": "A Digambara monastic manual prescribing water filtration as part of daily discipline. The text emphasizes avoiding harm to water‑bodied beings (āpo‑jīva)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Filtered water is only a modern technological concept.",
+      "reality": "Filtration has ancient roots in many cultures, including Jainism, where cloth filtration was practiced for millennia to protect both health and living beings."
+    },
+    {
+      "myth": "Jains filter water solely for ritual reasons.",
+      "reality": "The practice is grounded in ahiṃsā and the recognition of microscopic life forms. It is an ethical precaution, not merely ritual."
+    },
+    {
+      "myth": "Filtered water is always completely free of microorganisms.",
+      "reality": "Filtration reduces but does not necessarily eliminate all microorganisms unless combined with purification methods like boiling, UV treatment, or chemical disinfection."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "overview": "In Jainism, the term \"Purana\" refers primarily to a large narrative corpus that preserves sacred biographies, cosmological stories, and didactic tales, distinct from but historically parallel to the Hindu Purana tradition. Within the Jain literary classification, these works are usually grouped under Prathama Anuyoga (the narrative or story-telling category), alongside other charitra (biographical) and kathā (story) texts. The Purana corpus functions as a bridge between abstract doctrine and lived imagination, presenting the lives of Tirthankaras, śalākā-puruṣas (eminent personages), and exemplary lay and monastic figures in a richly elaborated narrative form.\n\nHistorically, the word \"Purva\" (fourteen Purvas) and \"Purana\" belong to related but distinct layers of Jain tradition. The fourteen Purvas were an earlier, now completely lost body of canonical knowledge, said to have been embedded in the twelfth Anga, Dr̥ṣṭivāda. Later narrative compositions, especially in the Digambara tradition, came to be called Purana—such as Ādi Purāṇa, Padma Purāṇa, Harivaṃśa Purāṇa, and Mahāpurāṇa—reflecting a shift from the esoteric, doctrinal Purvas to more accessible, story-based literature. These later Puranas do not reproduce the lost Purvas but creatively re-present Jain cosmology, ethics, and soteriology through extended narrative cycles.\n\nThe Jain Purana corpus is especially prominent in the Digambara tradition. Ācāryas like Jinasena, Guṇabhadra, and others composed extensive Sanskrit and Prakrit works that narrate the careers of R̥ṣabha (Ādinātha), other Tirthankaras, and major śalākā-puruṣas such as Rāma and Kṛṣṇa, but always reinterpreted within a Jain ethical and metaphysical framework. These texts often integrate detailed descriptions of karmic processes, vows, austerities, and the structure of the universe, embedding doctrinal material inside narrative episodes. In this way, the Purana corpus serves both as religious literature for lay devotion and as a pedagogical resource for understanding Jain dharma.\n\nIn Śvetāmbara circles, the exact use of the title \"Purana\" is less standardized, but narrative works like Hemacandra’s \"Triśaṣṭi-śalākā-puruṣa-caritra\" fulfill a similar function: they systematize the lives of sixty-three illustrious beings in a way that parallels the Digambara Puranas. Across sectarian lines, the narrative corpus has been crucial for shaping popular Jain identity, temple iconography, and festival storytelling. Episodes from the Purana texts are recited in discourses, dramatized in performances, and visually represented in manuscripts and murals.\n\nModern scholarship and community education often distinguish carefully between the lost Purva canon (Purvas embedded in Dr̥ṣṭivāda) and the extant Purana corpus (post-canonical narrative texts). While the Purvas are treated as a vanished tier of scriptural authority, the Puranas are regarded as revered but non-canonical compositions by eminent ācāryas. Their authority is interpretive and pedagogical rather than strictly canonical, and different Jain communities may privilege particular Puranas or narrative cycles. Translation projects and digital repositories today are gradually making these texts more accessible, but there remain gaps, variant recensions, and unresolved questions about dating, authorship, and intertextual influence.\n\nOverall, the Jain Purana corpus is best understood as a layered narrative tradition: rooted in early conceptions of prior knowledge (Purvas), shaped by sectarian histories, and continually reinterpreted in light of doctrinal needs and devotional practice. It offers a narrative map of Jain values—ahiṃsā, aparigraha, tapas, and right faith—embodied in the lives of exemplary figures, and thus remains central to how many Jains learn, remember, and transmit their tradition.",
+  "primary_sources": [
+    {
+      "title": "Ādi Purāṇa",
+      "author": "Ācārya Jinasena (with later continuation by Ācārya Guṇabhadra in some recensions)",
+      "original_text": "नमोऽरिहन्ताणं, नमो सिद्धाणं, नमो आयरियाणं, नमो उवज्झायाणं, नमो लोए सव्वसाहूणं ।",
+      "transliteration": "namo’rihantāṇaṃ, namo siddhāṇaṃ, namo āyariyāṇaṃ, namo uvajjhāyāṇaṃ, namo loe savvasāhūṇaṃ.",
+      "translation": "Homage to the Arhats, homage to the Siddhas, homage to the Ācāryas, homage to the Upādhyāyas, homage to all the Sādhus in the world.",
+      "notes": "Ādi Purāṇa is a major Digambara narrative text focusing on the life of Ṛṣabha (Ādinātha), the first Tirthankara, and related śalākā-puruṣas. Composed in Sanskrit with Prakrit elements, it belongs to the Prathama Anuyoga (narrative category). The opening homage reflects standard Jain devotional formulae rather than a unique verse of the text, and manuscript traditions vary. The work integrates detailed accounts of renunciation, austerity, and the path to liberation, embedding doctrinal material within an epic narrative framework."
+    },
+    {
+      "title": "Padma Purāṇa (Jain)",
+      "author": "Traditionally attributed to Ācārya Raviṣeṇa (Digambara)",
+      "original_text": "जयति पद्मनाभो नाथो रामो जिनशासनप्रभवो विजयी ।",
+      "transliteration": "jayati padmanābho nātho rāmo jinaśāsanaprabhavo vijayī.",
+      "translation": "Victorious is Lord Padmanābha, Rāma, triumphant, who arises from and upholds the Jina’s teaching.",
+      "notes": "The Jain Padma Purāṇa narrates the story of Rāma, Sītā, and related figures in a distinctly Jain ethical and cosmological frame, differing significantly from the Hindu Rāmāyaṇa and Padma Purāṇa traditions. It emphasizes vows, non-violence, and karmic consequences, and is classified under Prathama Anuyoga. The exact wording of verses varies across manuscripts; the line given here is representative rather than tied to a single critical edition. The text is important for understanding how Jain authors reinterpreted pan-Indian narrative cycles."
+    },
+    {
+      "title": "Harivaṃśa Purāṇa (Jain)",
+      "author": "Ācārya Jinasena (Digambara)",
+      "original_text": "हरिवंशचरितं पुण्यं शृण्वन्तु साधवो बुधाः ।",
+      "transliteration": "harivaṃśacaritaṃ puṇyaṃ śṛṇvantu sādhavo budhāḥ.",
+      "translation": "Let the noble and wise hear the meritorious deeds of the Harivaṃśa.",
+      "notes": "Harivaṃśa Purāṇa presents the Jain version of the Kṛṣṇa cycle, including the Yādava lineage, within a Jain doctrinal framework. Violence, desire, and royal power are reinterpreted through the lens of karma and ahiṃsā. As with other Puranas, the text is non-canonical but highly influential in shaping lay narrative imagination. Verse forms and exact readings differ among recensions; the line here is illustrative of the text’s self-presentation as a meritorious narrative."
+    },
+    {
+      "title": "Mahāpurāṇa (Jinasena–Guṇabhadra)",
+      "author": "Ācārya Jinasena and Ācārya Guṇabhadra (Digambara)",
+      "original_text": "नास्ति सृष्टिर् जगतः स्वामिन् नास्ति तव प्रजापतिः । कर्मणां परिणामेन लोकः संजायते यथा ॥",
+      "transliteration": "nāsti sṛṣṭir jagataḥ svāmin nāsti tava prajāpatiḥ, karmaṇāṃ pariṇāmena lokaḥ saṃjāyate yathā.",
+      "translation": "There is no creation of the world, O Lord, nor any creator-god of yours; the world arises as a transformation of karmas.",
+      "notes": "Mahāpurāṇa is an extensive Digambara narrative and doctrinal text that includes cosmology, ethics, and biographies of Tirthankaras and other eminent beings. It is notable for its explicit rejection of a creator deity and its detailed exposition of karmic theory. The verse cited is representative of the text’s anti-creationist stance, though exact wording may differ across editions. Mahāpurāṇa stands at the intersection of narrative Purana and philosophical treatise, illustrating how the Purana corpus can carry highly technical doctrinal content."
+    },
+    {
+      "title": "Triśaṣṭi-śalākā-puruṣa-caritra",
+      "author": "Ācārya Hemacandra (Śvetāmbara)",
+      "original_text": "जिनवचनानुसारेण त्रिषष्टिं शलाकापुरुषान् वर्णयामि यथामति ।",
+      "transliteration": "jinavacanānusāreṇa triṣaṣṭiṃ śalākāpuruṣān varṇayāmi yathāmati.",
+      "translation": "In accordance with the Jina’s word, I describe, as best I can, the sixty-three illustrious persons.",
+      "notes": "Although not titled \"Purāṇa\" in the strict sense, Hemacandra’s work functions as a Śvetāmbara counterpart to the Digambara Purana corpus, systematizing the lives of sixty-three eminent beings (Tirthankaras, Cakravartins, Baladevas, Vāsudevas, etc.). It belongs to the narrative category and is central for later Jain historiography and hagiography. The text demonstrates how the Purana-like narrative tradition is shared across sects, even when titles differ. The verse given is illustrative of Hemacandra’s programmatic introduction rather than a fixed critical reading."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Jain Purana corpus is simply a Jain version of the Hindu Puranas, with identical theology and narrative aims.",
+      "reality": "While Jain and Hindu Puranas share narrative motifs and characters (such as Rāma and Kṛṣṇa), Jain Puranas are grounded in distinct Jain doctrines—ahiṃsā, karma without a creator-god, and the path to kevalajñāna. They reinterpret shared stories to emphasize non-violence, renunciation, and karmic causality, and they do not endorse a theistic creator or devotional theology typical of many Hindu Puranas."
+    },
+    {
+      "myth": "The term \"Purana\" in Jainism refers to the same body of texts as the fourteen Purvas, which are still available today.",
+      "reality": "The fourteen Purvas were an earlier, esoteric stratum of Jain scriptural knowledge embedded in the lost Anga Dr̥ṣṭivāda and are considered completely extinct. The extant Jain Purana corpus—texts like Ādi Purāṇa, Padma Purāṇa, Harivaṃśa Purāṇa, and Mahāpurāṇa—is a later narrative tradition composed by ācāryas, not a survival of the Purvas. Modern Puranas are revered but non-canonical, and their authority is interpretive rather than identical to the lost Purva canon."
+    },
+    {
+      "myth": "Jain Puranas are purely mythological stories with little doctrinal or ethical significance.",
+      "reality": "Jain Puranas are deliberately crafted to convey doctrine and ethics through narrative. They embed discussions of vows, austerities, karmic processes, cosmology, and the stages of spiritual development within stories of Tirthankaras and śalākā-puruṣas. For many lay Jains, these narratives are a primary medium for learning core teachings, and they have historically shaped ritual practice, moral imagination, and community identity."
+    },
+    {
+      "myth": "Only Digambara Jains have a narrative Purana tradition; Śvetāmbara literature is exclusively canonical and non-narrative.",
+      "reality": "Although the title \"Purāṇa\" is more prominent in Digambara narrative texts, Śvetāmbara authors such as Hemacandra produced extensive narrative works (e.g., Triśaṣṭi-śalākā-puruṣa-caritra) that function similarly to Puranas. Both major sects maintain rich narrative corpora that complement canonical scriptures, and these texts are widely used in teaching, storytelling, and devotional contexts."
+    }
+  ]
+}

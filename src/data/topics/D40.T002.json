@@ -1,0 +1,47 @@
+{
+  "overview": "Paryushana (also spelled Paryushan or Pajjusan) is one of the most important annual observances in Jainism, practiced across Śvetāmbara and Digambara traditions with distinct calendrical and ritual variations. It is a period dedicated to intensified introspection, ethical discipline, scriptural study, and communal forgiveness. The term derives from the Prakrit *pajjusanā*, related to Sanskrit *paryuṣaṇa*, commonly interpreted as “coming together,” “abiding,” or “staying near” — specifically staying near the soul’s true nature through restraint and reflection.\n\nAmong Śvetāmbara Mūrti-pūjaka and Sthānakavāsī communities, Paryushana typically lasts eight days, culminating in *Samvatsarī*, the Great Day of Forgiveness. The festival centers on the recitation and study of the *Kalpa Sūtra* and other canonical texts, fasting according to one’s capacity, and practices of *pratikramaṇa* (ritual repentance). The final day’s *kṣamāpanā* — asking forgiveness from all living beings — is expressed through the phrase *Micchāmi Dukkaḍaṃ*.\n\nIn Digambara tradition, the parallel observance is *Daśalakṣaṇa Parva*, a ten‑day festival beginning immediately after the Śvetāmbara Samvatsarī. It emphasizes ten cardinal virtues such as *kṣamā* (forbearance), *mārdava* (humility), and *uttama satya* (truth). Scriptural study focuses on texts like the *Tattvārtha Sūtra* and Digambara commentarial literature. While forgiveness remains central, the structure and liturgical content differ from Śvetāmbara practice.\n\nAcross traditions, Paryushana is not merely a ritual period but a concentrated ethical retreat. It reinforces ahiṃsā, self-restraint, and accountability, encouraging laypeople to examine their conduct over the past year. The festival’s emphasis on repentance and forgiveness is grounded in canonical teachings on karma, where intentional harm and negligence bind karmic matter to the soul. Paryushana provides a structured opportunity to reduce these bonds through confession, study, and disciplined living.\n\nModern Jain communities worldwide observe Paryushana with adaptations such as community lectures, youth programs, and digital access to scriptural readings. Despite regional and sectarian variations, the core purpose remains the same: to realign one’s life with Jain ethical ideals and cultivate universal goodwill.",
+  "primary_sources": [
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Traditionally attributed to Bhadrabāhu",
+      "original_text": "पज्जुसणं समायं, तहा चउस्सरणं।",
+      "transliteration": "pajjusaṇaṃ samāyaṃ, tahā cau-ssaraṇaṃ",
+      "translation": "“Paryushana is a time of restraint, and likewise of returning (to the path).”",
+      "notes": "The *Kalpa Sūtra* is central to Śvetāmbara Paryushana observance. The text includes biographies of the Tīrthaṅkaras, monastic rules, and descriptions of Mahāvīra’s life. Recitation during Paryushana is traditionally linked to communal reflection and ethical renewal. Editions vary, and some passages have uncertain transmission histories."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (disputed across traditions)",
+      "original_text": "क्षमा मार्दव आर्जव शौच सत्य संयम तप त्याग आकिंचन्य ब्रह्मचर्याणि।",
+      "transliteration": "kṣamā mārdava ārjava śauca satya saṃyama tapa tyāga ākiñcanya brahmacaryāṇi",
+      "translation": "“Forbearance, humility, straightforwardness, purity, truth, restraint, austerity, renunciation, non‑possessiveness, and celibacy are the virtues.”",
+      "notes": "This verse (TS 9.6) forms the foundation of the Digambara Daśalakṣaṇa Parva. Commentaries differ on the scope and application of each virtue. The text is pan‑sectarian, but ritual use during Paryushana varies."
+    },
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Attributed to Bhadrabāhu (traditional), with later commentarial layers",
+      "original_text": "तस्स कालो परियुसणं।",
+      "transliteration": "tassa kālo pariyusaṇaṃ",
+      "translation": "“Its time is Paryushana.”",
+      "notes": "The *Āvaśyaka* corpus governs daily and festival repentance practices. The Niryukti provides interpretive verses explaining *pratikramaṇa*, confession, and forgiveness. Transmission varies across manuscripts."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Paryushana is only about fasting.",
+      "reality": "Fasting is optional and secondary to scriptural study, ethical reflection, and repentance. Canonical texts emphasize restraint, forgiveness, and introspection rather than mandatory austerity."
+    },
+    {
+      "myth": "Śvetāmbara and Digambara communities celebrate the same festival with identical rituals.",
+      "reality": "Śvetāmbara traditions observe an eight‑day Paryushana culminating in Samvatsarī, while Digambara communities observe the ten‑day Daśalakṣaṇa Parva with different scriptural readings and thematic focus."
+    },
+    {
+      "myth": "Micchāmi Dukkaḍaṃ is a casual greeting used only on Samvatsarī.",
+      "reality": "The phrase is a formal request for forgiveness rooted in *Āvaśyaka* repentance practices. While commonly exchanged on Samvatsarī, its ethical meaning applies throughout the year."
+    },
+    {
+      "myth": "Paryushana requires extreme austerities for spiritual benefit.",
+      "reality": "Primary texts emphasize right intention, non‑violence, and truthful self‑assessment. Extreme austerities without proper guidance can be harmful and are not required for lay practitioners."
+    }
+  ]
+}

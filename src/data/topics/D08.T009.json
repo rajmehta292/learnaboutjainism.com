@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain epistemology, “indirect knowledge” refers to all cognition that does not arise through the soul’s immediate, unobstructed awareness. It is knowledge mediated by instruments such as the senses, the mind, inference, testimony, or scriptural study. Jain philosophers classify knowledge (jñāna) into five principal types: mati‑jñāna (sensory‑mental knowledge), śruta‑jñāna (scriptural knowledge), avadhi‑jñāna (clairvoyance), manaḥparyāya‑jñāna (telepathy), and kevala‑jñāna (omniscience). Among these, mati‑jñāna and śruta‑jñāna are consistently described as *parokṣa*, meaning indirect or mediated, while the remaining three are *pratyakṣa*, direct or immediate.\n\nIndirect knowledge is foundational for lay and monastic learning because it encompasses ordinary perception, reasoning, and study of authoritative texts. Jain thinkers emphasize that indirect knowledge is reliable when properly cultivated, yet inherently limited because it depends on external conditions and is subject to error. Sensory limitations, linguistic ambiguity, and mental distraction can distort indirect cognition. Therefore, Jain epistemology pairs indirect knowledge with rigorous methods of verification, including multi‑perspectival reasoning (anekāntavāda) and conditional predication (syādvāda).\n\nWithin the broader Jain tradition, indirect knowledge is not viewed negatively; rather, it is the necessary starting point for spiritual progress. Scriptural knowledge, though indirect, is considered indispensable because it conveys the teachings of the Jinas and provides the conceptual framework for ethical conduct, meditation, and karmic analysis. As practitioners refine their conduct and reduce karmic obstructions, indirect knowledge becomes clearer and more reliable, eventually giving way to direct forms of cognition. Thus, indirect knowledge is both a practical tool for daily life and a stepping‑stone toward higher states of awareness described in the gunasthāna system.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "मतिश्रुतावधिमनःपर्यायकैवल्यं ज्ञानम्",
+      "transliteration": "mati‑śruta‑avadhi‑manaḥparyāya‑kaivalyaṃ jñānam",
+      "translation": "“Knowledge is of five kinds: sensory‑mental, scriptural, clairvoyant, telepathic, and omniscient.”",
+      "notes": "Tattvārtha Sūtra 1.9 is the canonical pan‑Jain classification of knowledge. Commentaries across Digambara and Śvetāmbara traditions agree that the first two—mati and śruta—are indirect (parokṣa), while the remaining three are direct (pratyakṣa)."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Kundakunda",
+      "original_text": "परोक्षं तं जहा णाणं णेहिं पविसइ अत्तणो।",
+      "transliteration": "parokṣaṃ taṃ jahā ṇāṇaṃ ṇehiṃ pavisai attaṇo",
+      "translation": "“Indirect is that knowledge which does not enter the self directly.”",
+      "notes": "This verse (approx. Niyamasāra 92, numbering varies by edition) distinguishes mediated cognition from direct realization of the self. Digambara commentators emphasize that indirect knowledge is still valuable for guiding conduct."
+    },
+    {
+      "title": "Pramāṇa‑mīmāṃsā (Śvetāmbara tradition)",
+      "author": "Hemacandra",
+      "original_text": "प्रत्यक्षा परोक्षा च द्वे ज्ञानस्य विभेदने",
+      "transliteration": "pratyakṣā parokṣā ca dve jñānasya vibhedane",
+      "translation": "“Direct and indirect are the two divisions of knowledge.”",
+      "notes": "Hemacandra’s epistemological treatise elaborates the criteria distinguishing direct from indirect cognition, including sensory mediation and mental construction."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Indirect knowledge is unreliable or spiritually inferior.",
+      "reality": "Jain texts affirm that indirect knowledge is essential, especially scriptural study. It is limited but not inferior; it provides the conceptual foundation for ethical practice and meditation."
+    },
+    {
+      "myth": "Only direct knowledge leads to liberation.",
+      "reality": "Liberation requires kevala‑jñāna, but the path toward it depends heavily on cultivating indirect knowledge—particularly śruta‑jñāna—which guides right faith, right conduct, and karmic purification."
+    },
+    {
+      "myth": "Indirect knowledge refers only to sensory perception.",
+      "reality": "It includes both sensory‑mental cognition (mati‑jñāna) and scriptural knowledge (śruta‑jñāna), the latter being central to Jain religious learning."
+    }
+  ]
+}

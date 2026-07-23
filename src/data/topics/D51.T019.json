@@ -1,0 +1,55 @@
+{
+  "overview": "Indic tokenization refers to the set of algorithms, design choices, and preprocessing pipelines used to segment text in Indian languages into tokens—units such as words, subwords, characters, or multi-word expressions—for use in natural language processing (NLP) and large language models (LLMs). Unlike tokenization for English and other Latin-script languages, Indic tokenization must contend with a high degree of script diversity, complex orthography, and rich morphology across dozens of languages and multiple writing systems.\n\nThe Indian subcontinent includes languages written in Devanagari (Hindi, Marathi, Nepali, Sanskrit), Bengali-Assamese, Gurmukhi (Punjabi), Gujarati, Oriya, Tamil, Telugu, Kannada, Malayalam, Meitei-Mayek, Ol Chiki (Santali), and Arabic-derived scripts (Urdu, Sindhi), among others. These scripts exhibit features such as consonant clusters, dependent vowel signs, ligatures, diacritics, and script-specific punctuation. Many Indic languages are morphologically rich, with extensive inflection, derivation, compounding, and agglutination. When standard subword tokenizers—originally optimized for English—are applied directly, they often fragment words excessively, produce long token sequences, and fail to align tokens with meaningful linguistic units.\n\nModern work on Indic tokenization emphasizes script-aware normalization, linguistically informed pre-tokenization, and specialized vocabulary construction strategies. Script-specific Unicode normalization (often using NFKC plus custom rules) is crucial to ensure that visually identical sequences are represented consistently and that combining marks, ligatures, and zero-width characters do not lead to spurious token splits. Pre-tokenization rules must respect word boundaries while handling punctuation, digits, and code-mixed text (e.g., Hindi written in Latin script). Subword algorithms such as Byte Pair Encoding (BPE) and Unigram Language Model tokenization are then trained on large multilingual corpora, with careful control over vocabulary size and the balance between languages.\n\nA key concept in Indic tokenization research is fertility—the average token-to-word ratio. High fertility indicates that a single word is broken into many tokens, increasing sequence length, memory usage, and inference latency. Studies have shown that generic multilingual tokenizers can yield fertility values above 10 for some Indic languages, compared to around 1–2 for English, creating an unfair computational burden for Indic users. To address this, recent systems introduce hybrid approaches that combine fine-grained subword units with larger multi-word \"superword\" tokens, and they design curriculum-style training pipelines that first learn within-word merges and then allow cross-word merges to capture frequent phrases.\n\nIndic-specific tokenizers, such as IndicSuperTokenizer (IST) and related Brahmic tokenizers, implement multi-stage BPE pipelines with script-agnostic pre-tokenization followed by script-aware merging. They apply Unicode normalization, regex-based segmentation tuned to each script, and open-vocabulary byte fallback for rare or unseen sequences. Empirical evaluations across 17 or more Indic languages show that script-specific normalization improves tokenization quality, Unigram LM often preserves morphological boundaries better than vanilla BPE, and cluster-based or curriculum-style vocabulary construction strategies yield better downstream performance and lower fertility than joint, English-centric vocabularies.\n\nBeyond efficiency, Indic tokenization has implications for fairness, accessibility, and linguistic representation. Poor tokenization can weaken a model’s ability to capture morphology, syntax, and semantics in Indian languages, leading to lower accuracy on tasks such as machine translation, question answering, and text generation. By designing tokenizers that respect Indic scripts and linguistic structures, researchers aim to reduce token fragmentation, improve compression, and ensure that speakers of Indian languages receive performance and usability comparable to those of high-resource, Latin-script languages.",
+  "primary_sources": [
+    {
+      "title": "Multilingual Tokenization through the Lens of Indian Languages: Challenges and Insights",
+      "author": "Maharaj Brahma, N. J. Karthika, Rajat Verma, Nagasai Saketh Naidu, Rohit Saluja, Maunendra Sankar Desarkar, Ganesh Ramakrishnan",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This ACL 2026 paper presents a comprehensive empirical study of multilingual tokenization across 17 Indic languages and 11 scripts. It systematically evaluates BPE and Unigram LM tokenizers, script- and orthography-aware normalization, vocabulary size, and multilingual vocabulary construction strategies. The authors show that script-specific normalization improves tokenization quality, Unigram LM better preserves morphological boundaries than BPE, and cluster-based vocabulary construction improves downstream performance, highlighting the need for linguistically informed design in Indic tokenization.",
+      "notes": "Corpus tier: C (peer-reviewed scholarship). This work is a central technical reference for understanding how standard subword algorithms behave on Indic scripts and how design choices affect fertility, morphological alignment, and downstream NLP performance."
+    },
+    {
+      "title": "The Art of Breaking Words: Rethinking Multilingual Tokenizer Design",
+      "author": "Aamod Thakur, Ajay Nagpal, Atharva Savarkar, Kundeshwar Pundalik, Siddhesh Dosi, Piyush Sawarkar, Viraj Thakur, Rohit Saluja, Maunendra Sankar Desarkar, Ganesh Ramakrishnan (BharatGen Team)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This study analyzes vocabulary size, pre-tokenization rules, and training-corpus composition for multilingual tokenizers, with extensive experiments on Indic scripts. It demonstrates that Latin-centric vocabularies lead to high token-to-word ratios and suboptimal performance on Indian languages, and proposes improved data composition and pre-tokenization strategies that reduce fertility and enhance model quality.",
+      "notes": "Corpus tier: C (scholarship). Important for understanding how corpus design and pre-tokenization interact with Indic scripts, and for motivating specialized Indic tokenizers rather than reusing English-focused ones."
+    },
+    {
+      "title": "IndicSuperTokenizer (IST): Efficient Tokenization for Indic Languages",
+      "author": "Rana et al.",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "IndicSuperTokenizer is a hybrid tokenizer that combines subword and superword tokenization to reduce token fragmentation and improve fertility scores for Indic languages. Its pipeline includes Unicode normalization, script-agnostic pre-tokenization, a two-stage BPE merging process, and byte fallback. Evaluations show reduced sequence lengths and up to 44% improvement in inference throughput while maintaining competitive downstream performance.",
+      "notes": "Corpus tier: C/D (technical system description and community education). This source exemplifies a practical, deployed Indic tokenizer optimized for efficiency and fairness across 22+ Indian languages."
+    },
+    {
+      "title": "IndicSuperTokenizer: Optimized Indic Tokenization (BrahmicTokenizer-131K and related variants)",
+      "author": "Shravan, Kumar et al.",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This family of tokenizers extends the IndicSuperTokenizer approach with a two-stage, curriculum-style BPE pipeline that alternates language-agnostic and script-aware phases. It achieves substantial token-to-word compression (up to ~39.5% reduction in token counts) and significant inference speed gains, while maintaining strong performance on multilingual tasks involving 22+ Indian languages and code data.",
+      "notes": "Corpus tier: C/D. These implementations illustrate how Indic tokenization can be integrated into large-scale LLMs (e.g., Krutrim) and provide concrete algorithms and metrics for fertility, compression, and throughput."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Indic tokenization is just standard English tokenization applied to different scripts.",
+      "reality": "Indic tokenization must account for diverse scripts, complex orthography, and rich morphology. Simply reusing English-focused tokenizers leads to excessive fragmentation, high token-to-word ratios, and poor alignment with linguistic units in Indian languages."
+    },
+    {
+      "myth": "Byte Pair Encoding (BPE) works equally well for all Indic languages without modification.",
+      "reality": "Studies show that vanilla BPE often fails to preserve morphological boundaries and yields very high fertility for some Indic languages. Script-specific normalization, tailored pre-tokenization, and alternative algorithms like Unigram LM or hybrid subword–superword approaches are needed to achieve good performance."
+    },
+    {
+      "myth": "Higher vocabulary size alone solves tokenization problems for Indic scripts.",
+      "reality": "While vocabulary size matters, corpus composition, script-aware normalization, and vocabulary construction strategies are equally important. Poorly designed vocabularies can still fragment words and waste context length, even if they are large."
+    },
+    {
+      "myth": "Tokenization is a minor implementation detail compared to model architecture and training objectives.",
+      "reality": "For Indic languages, tokenization is a critical lever that directly affects sequence length, memory usage, inference speed, and linguistic fidelity. Well-designed Indic tokenizers can significantly improve downstream task performance and fairness for Indian language users."
+    }
+  ]
+}

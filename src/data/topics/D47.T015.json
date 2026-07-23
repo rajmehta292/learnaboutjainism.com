@@ -1,0 +1,43 @@
+{
+  "overview": "Mathematics is the systematic study of quantity, structure, space, change, and the logical relationships that arise from these concepts. It is both an abstract intellectual discipline and a practical tool used across sciences, engineering, economics, and everyday reasoning. Historically, mathematics developed independently in many cultures—Babylonian arithmetic, Egyptian geometry, Greek deductive proofs, Indian algebraic innovations, and Chinese computational methods all contributed to the global mathematical heritage.\n\nModern mathematics is often divided into pure and applied branches. Pure mathematics investigates abstract structures such as numbers, sets, functions, and geometric spaces, seeking internal coherence and general principles. Applied mathematics uses these structures to model real-world phenomena, from planetary motion and fluid dynamics to financial markets and data science. The rise of computer science has further expanded mathematics into algorithmic thinking, complexity theory, and discrete structures.\n\nMathematics is characterized by rigorous proof, which distinguishes it from empirical sciences. A mathematical statement is accepted only when derived logically from axioms or previously established results. This emphasis on proof creates a stable foundation that allows mathematical knowledge to accumulate over centuries. At the same time, mathematics remains dynamic: new fields such as category theory, topology, and mathematical logic continue to reshape the landscape.\n\nIn Jain intellectual history, mathematics appears in cosmological measurements, calendrical calculations, and logical treatises. While Jainism is primarily a spiritual tradition, its scholars engaged deeply with reasoning, combinatorics, and spatial descriptions of the universe. These contributions form part of the broader Indian mathematical tradition, illustrating how religious and philosophical inquiry can intersect with quantitative thought.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "लोकानां त्रिविधो विभागः",
+      "transliteration": "lokānāṃ trividho vibhāgaḥ",
+      "translation": "“The universe is divided into three parts.”",
+      "notes": "While not a mathematical text, the Tattvārthasūtra includes cosmological descriptions requiring quantitative reasoning. Commentaries (B) elaborate on spatial dimensions of the Jain cosmos, including measurements of the three worlds, which demonstrate the use of mathematical structuring in doctrinal exposition."
+    },
+    {
+      "title": "Sūryaprajñapti",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "सूर्यस्य गतिपथाः प्राणिनां कालविभागाय",
+      "transliteration": "sūryasya gatipathāḥ prāṇināṃ kālavibhāgāya",
+      "translation": "“The paths of the sun are for the division of time for living beings.”",
+      "notes": "This canonical text contains detailed astronomical and calendrical calculations. Although not a mathematical treatise in the modern sense, it demonstrates early Jain engagement with arithmetic, geometry, and observational astronomy."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha",
+      "original_text": "जगच्चेत्तविस्तारो गणितेन निगद्यते",
+      "transliteration": "jagacchettavistāro gaṇitena nigadyate",
+      "translation": "“The expanse of the universe is described through calculation.”",
+      "notes": "A Digambara cosmological text offering extensive numerical descriptions of cosmic regions. Scholars classify its mathematical content as part of Indian combinatorial and geometric traditions. The exact measurements are symbolic and doctrinal rather than empirical."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Mathematics is only about numbers and arithmetic.",
+      "reality": "Mathematics includes logic, geometry, algebra, topology, probability, and many other abstract structures beyond simple numerical calculation."
+    },
+    {
+      "myth": "Mathematics is purely objective and independent of culture.",
+      "reality": "While mathematical truths are universal, the development of mathematical ideas is deeply shaped by cultural, philosophical, and historical contexts—including Jain cosmological and logical traditions."
+    },
+    {
+      "myth": "Mathematics is complete and all major problems are solved.",
+      "reality": "Many fundamental questions remain open, such as the Riemann Hypothesis or P vs NP. Mathematics continues to evolve with new theories and applications."
+    }
+  ]
+}

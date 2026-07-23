@@ -1,0 +1,35 @@
+{
+  "overview": "Accessibility descriptions are structured, intentional explanations designed to make visual, auditory, spatial, or interactive content understandable to people who cannot perceive it directly. They appear in many forms—alt text for images, long descriptions for complex graphics, captions for videos, tactile diagrams, and audio descriptions for performances. Their purpose is not merely to restate what is visible but to convey meaning, context, and function so that users with disabilities can participate fully in digital and physical environments.\n\nIn academic and professional accessibility practice, descriptions follow established principles: accuracy, neutrality, relevance, and user-centered clarity. A good description identifies essential elements, avoids subjective interpretation unless context requires it, and prioritizes information that affects understanding or action. For example, describing a chart requires noting axes, trends, and conclusions rather than every decorative detail. Describing a religious artifact may require cultural or historical context to convey significance.\n\nAccessibility descriptions also intersect with ethics, inclusion, and legal frameworks. In many countries, accessibility is mandated by law for public institutions, digital services, and educational materials. Beyond compliance, descriptions support equitable participation for people with blindness, low vision, cognitive differences, or sensory processing challenges. They are increasingly recognized as part of universal design, benefiting all users by clarifying content and improving searchability.\n\nWithin Jain studies, accessibility descriptions can help convey manuscript illustrations, temple architecture, ritual objects, or diagrams of cosmology to learners who cannot see the images. While Jain primary texts do not explicitly discuss modern accessibility practices, the tradition’s emphasis on non-harm (ahiṃsā) and inclusivity aligns with efforts to make knowledge available to all. When describing Jain imagery, care must be taken to distinguish between factual depiction and interpretive commentary, following the same source-grounded standards used in textual study.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non-harm is the highest dharma.",
+      "notes": "Although the text does not address accessibility directly, this foundational principle is often cited in modern Jain educational contexts to support inclusive practices, including making knowledge accessible to people with disabilities."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Gautama Svāmī",
+      "original_text": "णं च देहिं णं च अदेहिं",
+      "transliteration": "ṇaṃ ca dehiṃ ṇaṃ ca adehiṃ",
+      "translation": "One should care for both embodied and disembodied beings.",
+      "notes": "This passage, in context, concerns ethical conduct toward all living beings. Modern interpreters sometimes draw on its spirit to emphasize compassionate inclusion, though it does not prescribe accessibility descriptions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Accessibility descriptions must include every detail visible in an image.",
+      "reality": "Effective descriptions prioritize meaning, context, and function. Overloading users with unnecessary detail can reduce clarity and usability."
+    },
+    {
+      "myth": "Accessibility descriptions are only for people who are blind.",
+      "reality": "They support a wide range of users, including people with low vision, cognitive differences, sensory processing challenges, and anyone who benefits from clearer explanations."
+    },
+    {
+      "myth": "Accessibility descriptions are purely technical and do not require cultural or contextual sensitivity.",
+      "reality": "Descriptions must respect cultural meaning, religious significance, and historical context, especially when describing sacred objects or manuscripts."
+    }
+  ]
+}

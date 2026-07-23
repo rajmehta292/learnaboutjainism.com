@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, pluralism refers to the recognition that reality, moral life, and spiritual insight are multifaceted and cannot be captured by a single, exclusive viewpoint. Within Jainism, this idea is most systematically expressed through *anekāntavāda* (the doctrine of non-one-sidedness), *syādvāda* (the doctrine of conditioned predication), and *nayavāda* (the doctrine of partial viewpoints). Pluralism in this context is not mere tolerance; it is a philosophical commitment to the complexity of truth and the limitations of human cognition.\n\nJain pluralism emerges from the metaphysical claim that substances possess infinite attributes and modes. Because human perception and language grasp only fragments of this complexity, any single assertion about reality is necessarily partial. This insight leads to a disciplined intellectual humility: one acknowledges the validity of multiple perspectives while also recognizing their limits. In classical Jain epistemology, pluralism is therefore a method for approaching truth, not a denial of truth itself.\n\nHistorically, Jain pluralism developed in dialogue with other Indian traditions. Jain philosophers such as Kundakunda, Siddhasena Divākara, Haribhadra Sūri, and Akalaṅka engaged Buddhist, Nyāya, Mīmāṃsā, and Vedānta thinkers, arguing that rigid absolutism leads to logical contradictions and ethical harm. Pluralism, by contrast, encourages careful reasoning, nonviolence in speech, and respectful engagement with differing worldviews.\n\nIn modern contexts, Jain pluralism is often invoked in discussions of interreligious harmony, democratic ethics, and global coexistence. Scholars highlight that Jainism does not claim all views are equally true; rather, it claims that truth is many-sided and must be approached through disciplined, conditional, and context-sensitive reasoning. This makes Jain pluralism a distinctive contribution to global philosophical conversations about diversity, dialogue, and peaceful coexistence.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "अनेकान्तवादः",
+      "transliteration": "anekāntavādaḥ",
+      "translation": "The doctrine of non-one-sidedness.",
+      "notes": "Although the term appears succinctly, the text’s broader metaphysics—asserting substances with infinite attributes—forms the foundation for pluralistic reasoning. Edition: Tier A, critical editions vary; the term is widely attested."
+    },
+    {
+      "title": "Sanmati Tarka",
+      "author": "Siddhasena Divākara",
+      "original_text": "नयस्यावयवाः स्युः, स्याद्वादो नयसमुदायः",
+      "transliteration": "nayasya avayavāḥ syuḥ, syādvādo nayasamudāyaḥ",
+      "translation": "The viewpoints are its components; syādvāda is the collection of viewpoints.",
+      "notes": "A foundational text for understanding how partial viewpoints combine to form a pluralistic epistemology. Tier A/B depending on manuscript lineage."
+    },
+    {
+      "title": "Aṣṭaśatī (Commentary on the Ṣaṭkhaṇḍāgama)",
+      "author": "Akalaṅka",
+      "original_text": "अनेकान्तो हि वस्तुनः स्वभावः",
+      "transliteration": "anekānto hi vastunaḥ svabhāvaḥ",
+      "translation": "Non-one-sidedness is indeed the nature of reality.",
+      "notes": "Akalaṅka’s works provide rigorous logical defense of pluralism against rival schools. Tier B commentary on Tier A Digambara scripture."
+    },
+    {
+      "title": "Yogabindu",
+      "author": "Haribhadra Sūri",
+      "original_text": "सर्वदर्शनसमन्वयः",
+      "transliteration": "sarva-darśana-samanvayaḥ",
+      "translation": "A harmonious integration of all viewpoints.",
+      "notes": "Haribhadra’s ecumenical approach exemplifies Jain pluralism applied to interreligious dialogue. Tier B/C depending on edition."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Pluralism in Jainism means that all views are equally true.",
+      "reality": "Jain pluralism asserts that all views are partial, not equally valid. Truth is approached through conditional reasoning (*syādvāda*) and structured viewpoints (*nayavāda*), which evaluate claims based on context and logical coherence."
+    },
+    {
+      "myth": "Pluralism implies relativism or the absence of firm ethical commitments.",
+      "reality": "Jain pluralism is grounded in strong ethical principles, especially nonviolence. It encourages humility and dialogue, but it does not abandon moral discernment or the pursuit of liberation."
+    },
+    {
+      "myth": "Pluralism is a modern reinterpretation of Jainism.",
+      "reality": "Pluralistic reasoning is deeply rooted in classical Jain texts and commentaries. Modern applications build on ancient doctrines rather than replacing them."
+    }
+  ]
+}

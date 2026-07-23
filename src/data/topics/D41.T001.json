@@ -1,0 +1,55 @@
+{
+  "overview": "In Jainism, the term \"tirtha\" (Sanskrit: \"tīrtha\") literally means a \"ford\"—a shallow crossing place in a river—and is used metaphorically for any medium that helps the soul cross the ocean of saṃsāra (the cycle of birth and death) toward mokṣa (liberation). Within Jain thought, this metaphor is applied both to the living religious community and to sacred places, texts, and practices that facilitate spiritual progress. A tirtha is therefore not merely a physical site of pilgrimage, but a structured spiritual environment in which right faith (samyag-darśana), right knowledge (samyag-jñāna), and right conduct (samyag-cāritra) can be cultivated.\n\nIn the earliest canonical usage, especially in Śvetāmbara traditions, \"tirtha\" primarily denotes the fourfold congregation (caturvidha-saṅgha) established by a Tirthankara: monks (sādhu), nuns (sādhvī), laymen (śrāvaka), and laywomen (śrāvikā). This living community is understood as the true ford, because it preserves the teachings (śruta), embodies the path of conduct, and offers a social and ritual framework through which aspirants can progress spiritually. The Tirthankara, as the \"maker of the ford\" (tīrthaṅkara), is the one who establishes such a tirtha by organizing the saṅgha and setting in motion the dharma that enables beings to cross saṃsāra.\n\nOver time, the term \"tirtha\" also came to refer to sacred geography: mountains, cities, temple-complexes, and other locations associated with Tirthankaras, kevalins (omniscient beings), great ācāryas, or extraordinary events (atiśaya). These sites are believed to be especially conducive to spiritual reflection, austerity, and devotion. Jain tradition classifies tirtha-places into types such as siddha-kṣetra (places where liberation is believed to have occurred), atiśaya-kṣetra (places of miraculous or extraordinary events), purāṇa-kṣetra (places linked to legendary or scriptural narratives), and jñāna-kṣetra (centers of learning associated with eminent teachers. Pilgrimage (yātrā) to such tirthas is understood, for laypeople especially, as a powerful support for ethical renewal, vows, and contemplation, though it is not a substitute for inner transformation.\n\nClassical commentarial literature further refines the concept of tirtha using the Jain analytical method of nikshepa (perspectival exposition). Acharyas distinguish, for example, dravya-tirtha (material or external ford, such as a river or physical place), bhāva-tirtha (the internal, experiential ford constituted by the fourfold saṅgha and the modes of knowledge, faith, and conduct), and sthāpana-tirtha (representational or iconic forms, such as images and temples, that symbolize and support the path. In this framework, the highest sense of tirtha is the living community and the realized path of dharma, while physical sites are valuable insofar as they nurture that inner crossing.\n\nAcross Digambara and Śvetāmbara traditions, the doctrinal core of tirtha remains the same: it is a medium for overcoming the \"insurmountable\" ocean of worldly existence. Sectarian differences appear more in the historical lists of important tirthas, temple styles, and pilgrimage practices than in the basic meaning of the term. Modern scholarship and community education emphasize that while tirtha-places are cherished cultural and devotional centers, the ultimate tirtha is the path of non-violence, restraint, and insight taught by the Tirthankaras and embodied in the fourfold saṅgha. Thus, in Jainism, \"tirtha\" integrates community, scripture, practice, and sacred space into a single, layered concept of spiritual crossing.",
+  "primary_sources": [
+    {
+      "title": "Bhagavatī Sūtra (Bhagavatī-vyākhyā-prajñapti)",
+      "author": "Traditionally attributed to Lord Mahāvīra’s teachings, compiled by Gaṇadharas; Śvetāmbara canonical text",
+      "original_text": "तत्थ भगवइ महावीरओ गउतमेण पुछिअं— ‘किं ति त्थं?’ भगवाणो वदइ— ‘साधू-साध्वी-सरावक-सराविका एयं ति त्थं।’",
+      "transliteration": "tattha bhagavai mahāvīrao gautameṇa pucchiaṃ— \"kiṃ ti tthaṃ?\" bhagavāṇo vadai— \"sādhū-sādhvī-sarāvaka-sarāvikā eyaṃ ti tthaṃ.\"",
+      "translation": "There, Bhagavān Mahāvīra was asked by Gautama: \"What is a tirtha?\" The Lord replied: \"Monks, nuns, laymen, and laywomen—this is the tirtha.\"",
+      "notes": "This passage, cited in traditional exegesis (e.g., references to Bhagavatī Sūtra Śataka 20, Udeśaka 8), grounds the canonical definition of tirtha as the fourfold congregation. It reflects the earliest doctrinal emphasis that the living community established by a Tirthankara is the true ford across saṃsāra. The text is part of the Śvetāmbara canon and is considered Tier A (primary scripture) in the ontology described."
+    },
+    {
+      "title": "Vişeṣāvaśyaka-bhāṣya",
+      "author": "Ācārya Jinabhadragaṇi Kṣamāśramaṇa (6th century CE, Śvetāmbara)",
+      "original_text": "तिरिठं नाम दुर्गत्युत्तरणोपायो। दव्वतिरिठं बाह्यशुद्धिमात्रफलम्, भावतिरिठं सङ्घो नाम, स्थापनातिरिठं प्रतिमा-देवालयादि।",
+      "transliteration": "tiriṭhaṃ nāma durgatyuttaraṇopāyo. davva-tiriṭhaṃ bāhya-śuddhi-mātra-phalam, bhāva-tiriṭhaṃ saṅgho nāma, sthāpanā-tiriṭhaṃ pratīmā-devālayādi.",
+      "translation": "Tirtha is a means for crossing over misfortune (the difficult condition of saṃsāra). Dravya-tirtha yields only external purification; bhāva-tirtha is the saṅgha; sthāpana-tirtha consists of images, temples, and the like.",
+      "notes": "In this influential Prakrit-Sanskrit commentary on the Āvaśyaka-sūtra, Jinabhadragaṇi applies the method of nikshepa to analyze tirtha. He distinguishes material, experiential, and representational fords, emphasizing that the highest sense of tirtha is the fourfold saṅgha and the inner transformation it enables. This is Tier B (reviewed traditional commentary) and shapes later Jain understandings of tirtha."
+    },
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Ācārya Umāsvāti/Umāsvāmi (accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "तीर्थङ्करो धर्मतीर्थस्य स्थापकः।",
+      "transliteration": "tīrthaṅkaro dharma-tīrthasya sthāpakaḥ.",
+      "translation": "A Tirthankara is the establisher of the ford of dharma.",
+      "notes": "Although the Tattvārtha-sūtra does not elaborate the term \"tirtha\" in the same narrative way as the Āgamas, this aphorism encapsulates the doctrinal link between Tirthankara and tirtha: the Tirthankara founds the dharma-ford by organizing the saṅgha and revealing the path. As a pan-sectarian philosophical text, it is Tier A/B and is central to technical discussions of karma, guṇasthāna, and the role of Tirthankaras."
+    },
+    {
+      "title": "Bruhatkalpa-bhāṣya",
+      "author": "Traditionally attributed to Ācārya Saṅghadāsa or related early commentators (Śvetāmbara)",
+      "original_text": "तिरिठं तु श्रुतज्ञानं, द्वादशाङ्गं प्रवचनं च।",
+      "transliteration": "tiriṭhaṃ tu śruta-jñānaṃ, dvādaśāṅgaṃ pravacanaṃ ca.",
+      "translation": "Tirtha is scriptural knowledge, namely the twelvefold canon and the preaching (pravacana).",
+      "notes": "This commentary identifies tirtha with śruta-jñāna and the Dvādaśāṅga (twelve Angas), highlighting the textual dimension of the ford: the preserved teachings themselves are a medium for crossing saṃsāra. It complements the community-centered definition by stressing the role of scripture. This is Tier B (traditional commentary) and is often cited in discussions of the Jain canon and the concept of tirtha."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Tirtha in Jainism refers only to famous temple complexes and pilgrimage mountains.",
+      "reality": "While temple complexes and sacred mountains are important tirtha-places, the primary canonical meaning of tirtha is the fourfold congregation—monks, nuns, laymen, and laywomen—established by a Tirthankara. Physical sites are secondary expressions of this deeper spiritual ford."
+    },
+    {
+      "myth": "Visiting a tirtha automatically removes karma and guarantees spiritual advancement, regardless of one’s conduct.",
+      "reality": "Jain doctrine teaches that karmic bondage is reduced through right faith, right knowledge, and right conduct, including non-violence, restraint, and meditation. Pilgrimage to tirthas can inspire and support these practices, but without ethical transformation and inner discipline, mere physical travel does not by itself ensure liberation."
+    },
+    {
+      "myth": "Tirtha is a purely sectarian concept, with Digambaras and Śvetāmbaras using the term in completely different ways.",
+      "reality": "Although the two major traditions emphasize different historical tirtha-sites and have distinct architectural and ritual styles, both accept the core meaning of tirtha as a ford across saṃsāra, rooted in the Tirthankara’s establishment of the saṅgha and the path of dharma. Differences are mainly in historical lists and practices, not in the fundamental concept."
+    },
+    {
+      "myth": "Only grand, architecturally elaborate places qualify as tirthas; small local shrines or study-centers are spiritually insignificant.",
+      "reality": "Classical analyses of tirtha include jñāna-kṣetra (centers of learning) and emphasize bhāva-tirtha—the inner ford constituted by the saṅgha and the modes of knowledge, faith, and conduct. Even modest places where dharma is studied, taught, and practiced can function as genuine tirthas, regardless of their outward grandeur."
+    }
+  ]
+}

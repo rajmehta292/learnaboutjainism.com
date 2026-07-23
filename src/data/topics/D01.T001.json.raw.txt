@@ -1,0 +1,6 @@
+{
+      "myth": "A common myth",
+      "reality": "The factual reality"
+    }
+  ]
+}

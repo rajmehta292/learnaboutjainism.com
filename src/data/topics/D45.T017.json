@@ -1,0 +1,43 @@
+{
+  "overview": "End‑of‑life medicine refers to the clinical, ethical, and spiritual care provided to individuals approaching the final phase of life. Within Jain studies, this topic is examined through a combination of historical medical practices in South Asia, contemporary biomedical ethics, and Jain philosophical frameworks concerning non‑violence (ahiṃsā), non‑possession (aparigraha), compassion (dayā), and the karmic implications of bodily processes. Modern end‑of‑life medicine includes palliative care, symptom management, psychological support, and ethical decision‑making about interventions such as pain control, artificial nutrition, hydration, and life‑support technologies.\n\nJain traditions do not provide medical protocols, but they do offer interpretive principles that shape how laypersons and clinicians may reflect on end‑of‑life decisions. Ahiṃsā encourages minimizing harm to oneself and others, including avoiding unnecessary suffering. Aparigraha encourages reducing excessive attachment to bodily interventions when they no longer serve meaningful recovery. Compassionate care is emphasized across Jain communities, with attention to dignity, clarity of mind, and avoidance of coercion. Importantly, Jain texts distinguish between medically indicated care, compassionate withdrawal of futile treatment, and religious vows such as sallekhanā—each with different ethical and scriptural foundations.\n\nIn contemporary Jain medical ethics, end‑of‑life medicine is approached collaboratively with qualified physicians, mental‑health professionals, and family members. Decisions about pain management, palliative sedation, and discontinuation of burdensome treatments are framed through both biomedical evidence and Jain ethical reasoning. Scholars highlight that Jainism does not mandate refusal of medical care; rather, it encourages thoughtful, non‑violent, and non‑coercive decision‑making that respects life, minimizes suffering, and avoids actions rooted in despair or self‑harm. The tradition also emphasizes clarity of intention, making a sharp distinction between medical care that supports comfort and actions that intentionally hasten death.\n\nAcross Jain communities—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—end‑of‑life medicine is interpreted through shared principles but with variations in emphasis. Some traditions highlight scriptural discussions of bodily decline, karmic shedding, and mental equanimity, while others focus on practical guidance for families and caregivers. Modern Jain medical ethics integrates classical sources with contemporary scholarship to support humane, evidence‑based, and spiritually sensitive end‑of‑life care.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 7.11–7.13",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "कायवेदनादुःखम् । वेदनाविरोधि सुखम् ।",
+      "transliteration": "kāya‑vedanā‑duḥkham | vedanā‑virodhi sukham |",
+      "translation": "“Pain arises from bodily sensation. Pleasure is that which opposes painful sensation.”",
+      "notes": "These aphorisms describe the nature of bodily pain and pleasure. While not medical instructions, they are used in Jain ethical discussions to clarify that pain is a natural bodily process and that compassionate relief of suffering does not contradict spiritual aims."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 32.7–9",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जोगं कुलेसु कत्तव्वं, दुव्वं दुव्वं विणा भयं ।",
+      "transliteration": "jogaṃ kulesu kattavvaṃ, duvvaṃ duvvaṃ viṇā bhayaṃ |",
+      "translation": "“One should act with care among one’s kin, doing what is appropriate without fear.”",
+      "notes": "This passage is traditionally interpreted as guidance for mutual care and responsibility. Commentators apply it to end‑of‑life contexts, emphasizing non‑coercive support, familial duty, and compassionate presence."
+    },
+    {
+      "title": "Ācārāṅga Sūtra 1.2.3",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "अहिंसा परमो धम्मो ।",
+      "transliteration": "ahiṃsā paramo dhammo |",
+      "translation": "“Non‑violence is the supreme dharma.”",
+      "notes": "This foundational statement is central to Jain medical ethics. In end‑of‑life medicine, it is interpreted to mean minimizing harm, avoiding coercion, and supporting compassionate care. Commentators stress that non‑violence includes preventing unnecessary suffering and respecting the natural course of life."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism requires refusing all medical treatment at the end of life.",
+      "reality": "No Jain text mandates refusal of medical care. Traditional and modern Jain authorities affirm that evidence‑based treatment, pain relief, and palliative care are compatible with ahiṃsā and can support clarity of mind and dignity."
+    },
+    {
+      "myth": "End‑of‑life decisions in Jainism are purely religious and do not involve medical professionals.",
+      "reality": "Jain ethical reasoning explicitly encourages collaboration with qualified physicians and mental‑health professionals. Scriptural principles guide intention and conduct, but medical expertise is essential for safe and compassionate care."
+    },
+    {
+      "myth": "Any reduction of treatment at the end of life is equivalent to sallekhanā.",
+      "reality": "Sallekhanā is a formal vow with strict conditions, requiring non‑coercion, mental clarity, and spiritual preparation. Withdrawal of futile medical treatment is a clinical decision and not a religious vow. Jain texts and commentaries treat these as distinct categories."
+    }
+  ]
+}

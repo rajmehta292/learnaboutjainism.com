@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain thought, aging (*jarā*, *vṛddhatā*) is understood as a natural, continuous transformation of the body shaped by karmic processes, biological change, and the soul’s long journey through saṃsāra. Jain texts describe aging not as a moral failure or divine punishment but as an inherent characteristic of embodied existence. The body, composed of matter (*pudgala*), is subject to constant modification—growth, maturation, decline, and dissolution. Aging is therefore one phase in the broader cycle of impermanence (*anityatā*) that governs all conditioned phenomena.\n\nJain philosophical discussions emphasize that while the soul (*jīva*) is eternal, the physical form it occupies is transient. The deterioration of strength, sensory acuity, and vitality is attributed to the fruition of specific karmas—particularly *āyuṣya* (lifespan-determining karma), *nāma* (body-making karma), and *gotra* (status-determining karma). These karmas shape the duration and quality of embodied life, including the experience of aging. The soul itself remains untouched by decay, but its embodied condition reflects the karmic residues it carries.\n\nAging is also treated as an ethical and spiritual opportunity. As worldly capacities diminish, Jain teachings encourage increased reflection on impermanence, non-attachment (*aparigraha*), and the cultivation of equanimity (*samatā*). Lay practice texts advise older householders to gradually simplify responsibilities, deepen scriptural study, and strengthen commitments to ahiṃsā, truthfulness, and restraint. Aging is thus framed as a stage that can support spiritual maturation rather than merely physical decline.\n\nAcross Jain traditions—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth—aging is approached with compassion and realism. Care for elders is considered a lay duty, and texts emphasize non-harm, mutual support, and avoidance of coercive austerities. While some narratives describe exemplary elders who pursue intensified spiritual discipline, these accounts are not prescriptive and do not override medical or ethical considerations. Modern Jain scholarship highlights the need to interpret ancient teachings with sensitivity to contemporary health knowledge, ensuring that spiritual aims never conflict with wellbeing or safety.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "जरा-मरण-संस्काराः शरीरस्य।",
+      "transliteration": "jarā-maraṇa-saṃskārāḥ śarīrasya",
+      "translation": "Aging, death, and bodily transformations belong to the body.",
+      "notes": "Tattvārtha Sūtra 2.46 (Digambara and Śvetāmbara editions) identifies aging as a natural modification of the physical body, distinct from the eternal soul. Commentaries (Kundakunda’s lineage; Pūjyapāda’s Sarvārthasiddhi) emphasize that bodily decline arises from the fruition of *nāma* and *āyuṣya* karmas."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "जरा आयं दुहं, जरा आयं भयं।",
+      "transliteration": "jarā ayaṃ duhaṃ, jarā ayaṃ bhayaṃ",
+      "translation": "Aging brings hardship; aging brings fear.",
+      "notes": "Uttarādhyayana Sūtra 9.34 describes aging as a condition that challenges the practitioner, encouraging increased mindfulness and detachment. The verse is often cited in Śvetāmbara commentaries to illustrate the importance of equanimity in later life."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Kundakunda",
+      "original_text": "जरा-मरणादि देहधर्मो न आत्मधर्मः।",
+      "transliteration": "jarā-maraṇādi dehadharmo na ātmadharmaḥ",
+      "translation": "Aging and death are attributes of the body, not of the soul.",
+      "notes": "Though phrased differently across manuscripts, this doctrinal point appears throughout Digambara philosophical literature. It reinforces the distinction between the soul’s permanence and the body’s impermanence."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that aging is a sign of spiritual failure or negative karma alone.",
+      "reality": "Primary texts describe aging as a universal bodily process governed by multiple karmas, not a moral judgment. Even highly advanced souls experience bodily aging until liberation."
+    },
+    {
+      "myth": "Older Jains are expected to undertake extreme austerities as they age.",
+      "reality": "No Jain tradition mandates intensified austerities for elders. Canonical and lay texts emphasize non-harm, health, and voluntary practice. Any practice that risks wellbeing requires guidance from qualified human teachers and medical professionals."
+    },
+    {
+      "myth": "Aging diminishes one’s ability to progress spiritually.",
+      "reality": "Jain teachings often frame aging as an opportunity for increased reflection, simplification of life, and cultivation of equanimity. Spiritual progress is not limited by age."
+    }
+  ]
+}

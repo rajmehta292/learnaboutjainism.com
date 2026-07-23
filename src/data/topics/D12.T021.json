@@ -1,0 +1,43 @@
+{
+  "overview": "Karmic classification (karma‑bheda) is a central analytical framework in Jain philosophy used to describe the structure, function, and consequences of karmic matter (karma‑pudgala) that binds to the soul (jīva). Jainism treats karma not as metaphorical moral residue but as extremely subtle material particles that interact with the soul through processes of influx (āsrava), bondage (bandha), stoppage (saṃvara), and shedding (nirjarā). The classification system appears in early canonical texts and is refined in later scholastic works, forming the backbone of Jain metaphysics, ethics, and soteriology.\n\nThe classical schema divides karma into eight primary types (mūla‑prakṛti), grouped into four destructive (ghātiyā) and four non‑destructive (aghātiyā) categories. Destructive karmas obscure the soul’s essential qualities of infinite knowledge, perception, bliss, and energy. Non‑destructive karmas shape embodiment, lifespan, social conditions, and bodily experience. Each of the eight types further subdivides into numerous subtypes (uttara‑prakṛti), with Digambara and Śvetāmbara traditions offering slightly different enumerations.\n\nThe system also classifies karma by duration (sthiti), intensity (anubhāga), quantity (pradeśa), and the specific psychological causes that lead to its binding. These classifications allow Jain thinkers to explain why souls experience diverse conditions, how ethical conduct modifies karmic accumulation, and how liberation (mokṣa) is achieved through the complete eradication of all karmic matter.\n\nAcross traditions, karmic classification serves as both a metaphysical map and a practical ethical tool. It informs lay conduct (śrāvaka‑ācāra), monastic discipline (saṃyama), and advanced doctrinal study such as the guṇasthāna ladder. While the broad structure is shared, commentarial traditions differ in technical details, terminology, and interpretive emphasis, reflecting the rich diversity of Jain scholasticism.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अज्ञानावरणदर्शनावरणवेदनीयमोहनीयायुष्यनामगोत्रान्तरायाः कर्माणि",
+      "transliteration": "ajñānāvaraṇa‑darśanāvaraṇa‑vedanīya‑mohanīya‑āyuṣya‑nāma‑gotra‑antarāyāḥ karmāṇi",
+      "translation": "The karmas are: knowledge‑obscuring, perception‑obscuring, feeling‑producing, deluding, lifespan‑determining, body‑making, status‑determining, and obstructive.",
+      "notes": "Tattvārtha Sūtra 8.1 provides the canonical list of the eight primary karmas. The text is accepted across Digambara and Śvetāmbara traditions, though commentaries differ in interpretation."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text (author not specified)",
+      "original_text": "कम्मं जोगंति जीवस्स, जोगंति तं विणा न होइ।",
+      "transliteration": "kammaṃ joganti jīvassa, joganti taṃ viṇā na hoi.",
+      "translation": "Karma attaches to the soul; without the soul, it cannot attach.",
+      "notes": "This passage (Uttarādhyayana Sūtra 3.3) emphasizes the relational nature of karmic bondage and the role of conduct in attracting or repelling karmic matter."
+    },
+    {
+      "title": "Gommaṭasāra (Karmakāṇḍa)",
+      "author": "Nemicandra Siddhānta‑cakravartin",
+      "original_text": "अष्टकर्मप्रकृतयः सप्तसप्ततिः उत्तरप्रकृतयः",
+      "transliteration": "aṣṭa‑karma‑prakṛtayaḥ sapta‑saptatiḥ uttara‑prakṛtayaḥ",
+      "translation": "The eight primary karmas have seventy‑two subsidiary forms.",
+      "notes": "A Digambara scholastic text offering one of the most detailed enumerations of karmic subtypes, including technical discussions of duration, intensity, and causes of bondage."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Karma in Jainism is purely metaphorical or psychological.",
+      "reality": "Primary texts consistently describe karma as subtle material particles (pudgala) that physically bind to the soul. Ethical and psychological states cause this material interaction, but the ontology is explicitly physical."
+    },
+    {
+      "myth": "All karmas are equally harmful and operate in the same way.",
+      "reality": "Jainism distinguishes destructive karmas that obscure the soul’s essential qualities from non‑destructive karmas that shape worldly embodiment. Each type has distinct causes, durations, and effects."
+    },
+    {
+      "myth": "Karmic classification is identical across all Jain traditions.",
+      "reality": "While the eightfold structure is shared, Digambara and Śvetāmbara commentaries differ in the number and naming of subtypes, technical definitions, and interpretive emphasis."
+    }
+  ]
+}

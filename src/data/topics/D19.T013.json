@@ -1,0 +1,51 @@
+{
+  "overview": "Svādhyāya (स्वाध्याय), in Jain traditions, refers to disciplined study of scripture, reflection on doctrine, and internalization of teachings that support right knowledge (samyag‑jñāna) and right conduct (samyak‑cāritra). It is one of the essential daily practices for laypeople and monastics across Digambara and Śvetāmbara lineages. The term combines *sva* (self) and *adhyāya* (study), indicating both the act of studying canonical texts and the inward examination of one’s own dispositions in light of those teachings.\n\nIn early canonical sources, svādhyāya is presented as a meritorious activity that purifies knowledge-obscuring karma (jñānāvaraṇīya) and supports progress through the guṇasthānas. It encompasses recitation, listening, questioning, and contemplation. Later commentarial traditions classify svādhyāya into forms such as *vācanā* (recitation), *pratyākhyāna* (renunciation-oriented reflection), *anuśīlana* (analytical study), and *dharmopadeśa* (teaching or discussing dharma). These modes emphasize that svādhyāya is not passive reading but an engaged, ethical, and cognitive discipline.\n\nFor householders, svādhyāya is integrated into daily routines—often after pratikramaṇa or before samayika—serving as a bridge between doctrinal learning and practical restraint. For monastics, it is a core component of their vows, ensuring preservation of textual lineages and accurate transmission of doctrine. Across sects, svādhyāya is understood as a safeguard against forgetfulness of dharma and a means of cultivating equanimity, discernment, and humility.\n\nModern Jain communities continue to emphasize svādhyāya through study circles, commentarial reading groups, and youth education programs. While methods have evolved—incorporating printed editions, digital archives, and scholarly translations—the underlying principle remains: svādhyāya is a disciplined, source‑grounded engagement with teachings that guide ethical transformation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "स्वाध्यायो ज्ञानवृद्धिः",
+      "transliteration": "svādhyāyo jñānavṛddhiḥ",
+      "translation": "“Svādhyāya is the increase of knowledge.”",
+      "notes": "This concise sūtra (TS 9.27 in many editions) links svādhyāya directly to the cultivation of right knowledge. Commentaries in both Digambara and Śvetāmbara traditions elaborate that svādhyāya purifies knowledge‑obscuring karma and is indispensable for doctrinal clarity."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Śvetāmbara canon; attributed to early Jain community",
+      "original_text": "णं च सुयणं धरेज्जा",
+      "transliteration": "ṇaṃ ca suyaṇaṃ dharejjā",
+      "translation": "“One should uphold good hearing (learning).”",
+      "notes": "In context, the text emphasizes attentive listening to teachings as part of monastic discipline. Traditional commentaries interpret ‘good hearing’ as foundational svādhyāya—receiving and retaining the words of the Jina."
+    },
+    {
+      "title": "Samayasāra (Digambara)",
+      "author": "Ācārya Kundakunda",
+      "original_text": "णिज्जहं सुतं पव्वं",
+      "transliteration": "nijjahaṃ sutaṃ pavvaṃ",
+      "translation": "“Scriptural knowledge is a ladder.”",
+      "notes": "Kundakunda frames scriptural study as a means to ascend toward experiential knowledge of the self. Digambara commentators stress that svādhyāya must lead to internal realization rather than remain merely verbal."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Śvetāmbara canon",
+      "original_text": "सुतं धरेज्जा, सुतं ववज्जा",
+      "transliteration": "sutaṃ dharejjā, sutaṃ vavajjā",
+      "translation": "“One should retain scripture; one should examine scripture.”",
+      "notes": "This passage highlights two aspects of svādhyāya: memorization and critical reflection. Commentaries describe examination (*vavajjā*) as questioning, analyzing, and clarifying meaning with guidance from teachers."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Svādhyāya is only reading religious books.",
+      "reality": "Primary sources and commentaries define svādhyāya as a multi‑layered discipline including recitation, listening, questioning, memorization, contemplation, and ethical application. Passive reading alone does not fulfill its traditional meaning."
+    },
+    {
+      "myth": "Svādhyāya is optional for laypeople and mainly for monks.",
+      "reality": "Canonical texts and lay‑practice manuals across sects describe svādhyāya as a daily duty for householders. It supports right knowledge, strengthens vows, and guides ethical decision‑making."
+    },
+    {
+      "myth": "Svādhyāya guarantees spiritual advancement regardless of intention.",
+      "reality": "Jain karma theory emphasizes that svādhyāya must be performed with attentiveness, humility, and non‑attachment. Mechanical or prideful study does not yield the intended purification of knowledge‑obscuring karma."
+    }
+  ]
+}

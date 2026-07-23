@@ -1,0 +1,51 @@
+{
+  "overview": "Non-image worship (also called *nirākāra upāsanā* or *nirguṇa bhakti* in broader Indic discourse) refers to strands of Jain devotional practice that do not employ anthropomorphic or iconic representations of the Tirthankaras. Within Jainism, this mode is most strongly associated with the Sthānakavāsī and Terāpanth Śvetāmbara traditions, though Digambara and Mūrtipūjaka sources also preserve non-iconic contemplative practices. The emphasis is on internalization of the qualities of the Jinas—such as *ahiṃsā*, *saṃyama*, *aparigraha*, and *kevala-jñāna*—rather than on physical images or temple rituals.\n\nHistorically, non-image worship emerges from reformist movements between the 15th and 18th centuries CE, which critiqued ritual excess, temple wealth, and the perceived risk of attachment to material forms. These movements advocated meditation on scriptural passages, recitation of canonical sutras, ethical discipline, and communal study as the primary modes of devotion. The practice is grounded in early canonical ideals that prioritize mental worship (*bhāva-pūjā*) over physical offerings (*dravya-pūjā*), though interpretations differ across traditions.\n\nIn non-image worship, the central objects of reverence are virtues, vows, and the liberated state rather than physical icons. Practitioners may gather in *upāśrayas* or *sabhas* rather than temples, engage in *sāmāyika*, *pratikramaṇa*, and *svādhyāya*, and recite texts such as the *Namaskāra Mahāmantra*, *Sāmāyika Sūtra*, and *Pratikramaṇa Sūtra*. The focus remains on cultivating inner transformation, reducing passions, and aligning conduct with the path of liberation. While distinct from image-based worship, non-image worship is not anti-devotional; it is a disciplined, text-centered, and introspective mode of Jain religious life.\n\nScholars note that non-image worship should not be understood as a rejection of Tirthankaras themselves but as a reinterpretation of how best to honor them. Traditions differ on scriptural authority, historical lineage, and ritual practice, but all agree that devotion must ultimately support ethical purification and progress toward *mokṣa*. The diversity of Jain worship forms—iconic and non-iconic—reflects the religion’s long-standing emphasis on plural perspectives (*anekāntavāda*) and the adaptability of devotional expression within the bounds of non-violence and self-restraint.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं जं णंति तं जं पज्जवति",
+      "transliteration": "ṇaṃ jaṃ ṇaṃti taṃ jaṃ pajjavati",
+      "translation": "“What one thinks, that one becomes.”",
+      "notes": "Tier A. Early canonical emphasis on internal mental states as the foundation of spiritual progress. Non-image traditions cite such passages to support inward-focused worship."
+    },
+    {
+      "title": "Sāmāyika Sūtra (Śvetāmbara)",
+      "author": "Canonical liturgical text",
+      "original_text": "सामायिकं कुर्वीत",
+      "transliteration": "sāmāyikaṃ kurvīta",
+      "translation": "“One should perform the state of equanimity.”",
+      "notes": "Tier A/B. Central to non-image worship; equanimity is treated as a direct form of devotion without reliance on icons."
+    },
+    {
+      "title": "Namaskāra Mahāmantra",
+      "author": "Canonical mantra of all Jain traditions",
+      "original_text": "णमो अरिहंताणं",
+      "transliteration": "ṇamo arihaṃtāṇaṃ",
+      "translation": "“I bow to the Arihants.”",
+      "notes": "Tier A. Recited universally, including by non-image traditions. The mantra venerates qualities of liberated beings rather than physical representations."
+    },
+    {
+      "title": "Pratikramaṇa Sūtra",
+      "author": "Śvetāmbara canonical liturgy",
+      "original_text": "मिच्छा मी दुक्कडं",
+      "transliteration": "micchā mi dukkadaṃ",
+      "translation": "“May my faults be undone.”",
+      "notes": "Tier A/B. Non-image worship emphasizes confession, reflection, and ethical purification as devotional acts."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Non-image worship rejects devotion entirely.",
+      "reality": "Non-image traditions maintain strong devotional practices centered on virtues, scriptural recitation, and meditative worship rather than physical icons."
+    },
+    {
+      "myth": "Non-image worship is a modern invention without scriptural basis.",
+      "reality": "While institutionalized later, non-image worship draws on early canonical emphasis on mental worship, equanimity, and ethical discipline."
+    },
+    {
+      "myth": "Non-image worship denies the importance of Tirthankaras.",
+      "reality": "The Tirthankaras remain central; the focus shifts from their physical representation to their qualities and teachings."
+    }
+  ]
+}

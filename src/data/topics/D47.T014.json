@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain philosophy, epistemology (pramāṇa-śāstra) is the disciplined study of valid knowledge, its sources, limits, and conditions. It is foundational to Jain metaphysics and ethics because right knowledge (samyag‑jñāna) is one of the three jewels (ratnatraya) required for liberation. Jain epistemology is distinctive for its pluralistic approach, combining rigorous logical classification with an emphasis on perspectival humility.\n\nJain thinkers classify knowledge broadly into two domains: direct knowledge (pratyakṣa) and indirect or mediated knowledge (parokṣa). Direct knowledge includes sensory perception in its purified form and the extraordinary modes of cognition possessed by advanced spiritual beings, such as clairvoyance (avadhi‑jñāna), telepathy (manaḥparyāya‑jñāna), and omniscience (kevala‑jñāna). Indirect knowledge includes scriptural knowledge (śruta‑jñāna) and inferential or reasoning-based knowledge.\n\nA hallmark of Jain epistemology is its perspectival doctrines: anekāntavāda (many-sidedness), syādvāda (conditioned predication), and nayavāda (partial viewpoints). These frameworks do not deny objective truth; rather, they assert that any single statement captures only a portion of a complex reality. Thus, epistemology becomes both a logical discipline and an ethical practice, encouraging intellectual nonviolence (ahiṃsā in thought) by acknowledging the limits of one’s own perspective.\n\nAcross Digambara and Śvetāmbara traditions, the core epistemological categories remain consistent, though commentarial elaborations differ. Classical Jain epistemology developed through foundational works such as the *Tattvārtha Sūtra*, *Niyamasāra*, *Pramāṇa-mīmāṃsā*, and extensive scholastic commentaries by thinkers like Umāsvāti/Umāsvāmi, Kundakunda, Akalaṅka, Vidyānanda, and Hemacandra. Modern scholarship highlights Jain epistemology as one of the most sophisticated systems of classical Indian philosophy, notable for its integration of logic, ontology, and ethics.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "प्रमाणं ज्ञानम्",
+      "transliteration": "pramāṇaṃ jñānam",
+      "translation": "Valid knowledge is right knowledge.",
+      "notes": "TS 1.6 provides the foundational definition of pramāṇa. The text is accepted across Digambara and Śvetāmbara traditions, though commentaries differ in classification details."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Kundakunda",
+      "original_text": "णाणं तु दुविहं—पमायं च अप्पमायं च",
+      "transliteration": "ñāṇaṃ tu duvihaṃ—pamāyaṃ ca appamāyaṃ ca",
+      "translation": "Knowledge is of two kinds—valid and invalid.",
+      "notes": "Kundakunda’s works emphasize the distinction between conventional and ultimate standpoints (vyavahāra and niścaya), shaping Digambara epistemological interpretation."
+    },
+    {
+      "title": "Pramāṇa-mīmāṃsā",
+      "author": "Akalanka",
+      "original_text": "सर्वार्थानैकान्त्यात् प्रमाणानां बहुविधता",
+      "transliteration": "sarvārthānaikāntyāt pramāṇānāṃ bahuvidhatā",
+      "translation": "Because objects have many aspects, the means of valid knowledge are manifold.",
+      "notes": "Akalanka’s treatise is central to classical Jain logic, defending anekāntavāda against Buddhist and Nyāya critiques."
+    },
+    {
+      "title": "Anekāntavāda sections of the Yogaśāstra",
+      "author": "Hemacandra",
+      "original_text": "स्याद्वादो हि नयैर् अनुगतः",
+      "transliteration": "syādvādo hi nayair anugataḥ",
+      "translation": "The doctrine of conditioned predication is supported by the various viewpoints.",
+      "notes": "Hemacandra integrates epistemology with ethics, showing how perspectival reasoning supports nonviolence and disciplined conduct."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain epistemology claims that all viewpoints are equally true.",
+      "reality": "Jain epistemology asserts that viewpoints are conditionally true. Syādvāda does not endorse relativism; it states that each claim expresses a partial truth dependent on context."
+    },
+    {
+      "myth": "Anekāntavāda prevents making any definitive statements.",
+      "reality": "Anekāntavāda allows definitive statements when properly qualified. It encourages precision and contextual clarity, not indecision."
+    },
+    {
+      "myth": "Omniscience (kevala‑jñāna) is a mythological concept without philosophical role.",
+      "reality": "In Jain epistemology, omniscience is a logical endpoint of perfect non-obstruction of knowledge. It functions as a theoretical ideal within the system’s model of cognition."
+    }
+  ]
+}

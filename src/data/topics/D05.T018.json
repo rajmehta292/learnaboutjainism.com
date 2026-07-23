@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain thought, meditation (dhyāna) is inseparable from the analysis of tattvas—the fundamental ontological categories that describe the structure of reality and the path to liberation. When Jain texts discuss meditation, they do not present it as an isolated technique but as a disciplined contemplation of the soul’s condition in relation to these tattvas. The classical list of seven or nine tattvas—jīva (soul), ajīva (non-soul), āsrava (influx of karmic matter), bandha (bondage), saṃvara (stoppage), nirjarā (shedding), and mokṣa (liberation), with some traditions adding puṇya (merit) and pāpa (demerit)—provides the conceptual framework for reflective and discriminative meditation.\n\nAcross Digambara and Śvetāmbara traditions, meditation on tattvas is described as a method for cultivating samyagdarśana (right vision) and reducing mohaniya karma (deluding karma). Rather than focusing on breath or bodily sensations, the practitioner directs attention toward the soul’s pure nature, the mechanisms of karmic bondage, and the means of liberation. This form of meditation is often categorized under bhāvanā (contemplative reflections) and is considered essential for progressing through the guṇasthānas (stages of spiritual development).\n\nIn practice, meditation on tattvas involves sequential contemplation: recognizing the distinction between jīva and ajīva, observing how actions and passions generate āsrava, understanding how attachment and aversion create bandha, and cultivating equanimity to achieve saṃvara and nirjarā. The culmination of this contemplative process is a stable awareness of mokṣa as the soul’s natural state. While different sects emphasize specific techniques—such as sāmāyika in Śvetāmbara traditions or kāyotsarga in Digambara practice—the underlying philosophical orientation remains consistent: meditation is a disciplined engagement with the tattvas that leads to clarity, restraint, and ultimately liberation.\n\nModern scholarship highlights that Jain meditation is not merely metaphysical reflection but a structured ethical and psychological discipline. By repeatedly contemplating the tattvas, practitioners reshape habitual patterns of perception and emotion, reducing the intensity of passions and strengthening non-violence, truthfulness, and self-restraint. This integration of ontology, ethics, and meditative practice is a distinctive feature of Jain spiritual methodology.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (accepted across Digambara and Śvetāmbara traditions)",
+      "original_text": "जीवाजिवाअस्रवबन्धसंवरनिर्जरामोक्षास्तत्त्वम्",
+      "transliteration": "jīvājivāsravabandhasaṃvaranirjarāmokṣās tattvam",
+      "translation": "“The categories are: soul, non-soul, influx, bondage, stoppage, shedding, and liberation.”",
+      "notes": "Tattvārtha Sūtra 1.4 provides the canonical list of tattvas. Later chapters (6–10) explain how meditative awareness of these categories supports saṃvara and nirjarā. The text is foundational for all sects and is the primary source for linking tattvas with contemplative practice."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "धम्मो धारणाविचयसमताजोगो",
+      "transliteration": "dhammo dhāraṇā-vicaya-samatā-jogo",
+      "translation": "“Religion is concentration, discernment, and equanimity.”",
+      "notes": "This passage (Uttarādhyayana Sūtra 28.1) is frequently cited in Śvetāmbara traditions to describe meditation as a combination of focused attention, analytical reflection, and equanimity—functions directly tied to contemplation of tattvas."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara)",
+      "author": "Pūjyapāda, Virasena, and Jinasena (commentarial tradition)",
+      "original_text": "अस्रवो नाम भावपरिणामः",
+      "transliteration": "āsravo nāma bhāva-pariṇāmaḥ",
+      "translation": "“Āsrava is the transformation of mental states.”",
+      "notes": "This definition, appearing in the Digambara canonical-commentarial corpus, connects meditation directly to the regulation of mental states that cause karmic influx. Digambara teachers use this text to emphasize meditative restraint (saṃvara) as a practical method for reducing karmic flow."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Meditation on tattvas is purely intellectual and does not involve ethical practice.",
+      "reality": "Classical Jain texts consistently integrate contemplation of tattvas with ethical transformation. Understanding āsrava and bandha is inseparable from reducing passions, practicing non-violence, and cultivating equanimity."
+    },
+    {
+      "myth": "Tattva-based meditation is identical across all Jain sects.",
+      "reality": "While the philosophical framework is shared, Digambara and Śvetāmbara traditions differ in technique and emphasis. Digambaras highlight kāyotsarga and internal austerity, whereas Śvetāmbaras emphasize sāmāyika and scriptural reflection."
+    },
+    {
+      "myth": "Meditation in Jainism focuses on breath or bodily sensations like other Indian traditions.",
+      "reality": "Jain meditation is primarily discriminative and contemplative, centered on analyzing the soul’s relation to the tattvas. Breath-based techniques are not central in canonical Jain sources."
+    }
+  ]
+}

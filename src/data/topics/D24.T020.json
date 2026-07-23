@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, oral transmission refers to the processes by which teachings, narratives, disciplinary rules, and philosophical doctrines were preserved, memorized, and conveyed before the widespread use of written manuscripts. For many centuries, Jain communities—both Śvetāmbara and Digambara—relied on recitation, communal repetition, mnemonic devices, and lineage-based instruction to maintain continuity of doctrine. This mode of preservation was shaped by the early ascetic ideal of non-possession, which discouraged monks from keeping written materials, and by the linguistic environment of ancient India, where Prakrits were spoken vernaculars suited to memorization.\n\nOral transmission operated through structured pedagogical relationships. Senior ascetics taught juniors through repeated recitation of canonical sutras, technical lists (such as karma categories), and ethical codes. Laypeople learned through sermons, storytelling, and ritual recitations. The reliability of oral transmission was reinforced by communal recitation during festivals, assemblies, and monastic examinations, which helped maintain consistency across regions.\n\nOver time, as monastic lineages diversified and political conditions changed, written redactions became necessary. Śvetāmbara communities compiled their canon at councils in Valabhi (5th–6th century CE), while Digambara traditions preserved teachings through commentarial literature after the loss of early scriptures. Even after the rise of manuscripts, oral transmission remained central: monks continued to memorize large portions of texts, and lay communities preserved hymns, narratives, and ritual formulas orally.\n\nToday, oral transmission persists in the form of pravacana (sermons), svādhyāya (scriptural study), chanting of canonical sutras, and the memorization of key ethical verses. Modern scholarship recognizes oral transmission as a foundational mechanism that shaped the structure, style, and mnemonic features of Jain literature.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to early Jain community; preserved by Śvetāmbara tradition",
+      "original_text": "णं च णं च सुयणं दुहणं दुहणं",
+      "transliteration": "ṇaṃ ca ṇaṃ ca suyaṇaṃ duhaṇaṃ duhaṇaṃ",
+      "translation": "“Knowing and knowing again, hearing and hearing again.”",
+      "notes": "This line, found in early sections describing ascetic discipline, reflects the repetitive oral learning process central to monastic training. The text itself was transmitted orally for centuries before its redaction at Valabhi."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Kundakunda (Digambara)",
+      "original_text": "सुत्तस्स सुग्गहणं तवो",
+      "transliteration": "suttassa suggahaṇaṃ tavo",
+      "translation": "“Proper grasping of the teachings is itself a form of austerity.”",
+      "notes": "Kundakunda emphasizes the disciplined internalization of doctrine. Although Digambara traditions hold that early scriptures were lost, their philosophical works repeatedly stress memorization and correct oral comprehension."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "ववहारो सव्वेसिं सुत्ताणं",
+      "transliteration": "vavahāro savvesiṃ suttāṇaṃ",
+      "translation": "“Practice is the foundation of all teachings.”",
+      "notes": "The text frequently references teachers, pupils, and recitation practices, illustrating how oral instruction shaped ethical training."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain scriptures were always written down from the beginning.",
+      "reality": "Early Jain teachings were transmitted orally for centuries. Śvetāmbara redactions occurred in the 5th–6th century CE, while Digambara traditions rely on later commentaries due to the loss of early canonical material."
+    },
+    {
+      "myth": "Oral transmission was informal and unstructured.",
+      "reality": "Jain oral transmission followed rigorous pedagogical systems, including memorization drills, lineage-based instruction, and communal recitation, ensuring high fidelity across generations."
+    },
+    {
+      "myth": "Written manuscripts replaced oral transmission entirely.",
+      "reality": "Even after the rise of manuscripts, oral recitation, chanting, and memorization remained central to monastic and lay practice, and continue today in sermons and ritual contexts."
+    }
+  ]
+}

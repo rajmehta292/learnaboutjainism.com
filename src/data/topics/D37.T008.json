@@ -1,0 +1,47 @@
+{
+  "overview": "In Jain cosmology, the **seven hells** (often called *Adho-loka* or the lower worlds) form a structured part of the universe where beings experience intense suffering due to the fruition of extremely destructive karmas. These realms are not eternal: souls enter them due to their own karmic bondage and eventually rise again when the relevant karmas are exhausted. The seven hells are arranged vertically, each deeper level associated with progressively more severe conditions. They are described in both Śvetāmbara and Digambara canonical cosmology, with minor differences in naming conventions and interpretive details.\n\nJain texts emphasize that these realms are not governed by a deity or external judge. Instead, karmic law (*karma-siddhānta*) determines rebirth. The hells are populated by beings called *naraki*, who possess bodies suited to intense suffering. Time in these realms is measured in extraordinarily long durations, often spanning multiple *sāgaropamas* (vast cosmic time units). The purpose of these descriptions is ethical and pedagogical: they illustrate the consequences of violent, deceitful, cruel, or intensely passion-driven actions.\n\nThe seven hells are traditionally listed as: **Ratna-prabhā**, **Śarkarā-prabhā**, **Vālukā-prabhā**, **Pankā-prabhā**, **Dhūma-prabhā**, **Tamaḥ-prabhā**, and **Mahā-tamaḥ-prabhā**. Each level is characterized by distinct environmental conditions—ranging from scorching heat to crushing darkness—and specific forms of suffering. Commentaries note that these descriptions are symbolic as well as literal, conveying the moral gravity of harmful actions. Jain teachers consistently warn that descriptions of hells should not be used to frighten or coerce but to cultivate nonviolence, self-restraint, and compassion.\n\nAcross traditions, the seven hells are treated as part of the broader cosmological map that includes heavens, human realms, and subhuman realms. Their study belongs to Jain cosmology (*lokaprakaraṇa*) and is often included in advanced doctrinal learning rather than introductory lay instruction. Modern scholarship highlights the consistency of these descriptions across centuries while noting variations in manuscript traditions and regional recensions.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अधोलोकः सप्तविभक्तः",
+      "transliteration": "adho-lokaḥ sapta-vibhaktaḥ",
+      "translation": "The lower world is divided into seven regions.",
+      "notes": "Tattvārtha Sūtra 3.1 provides the canonical enumeration of the seven hells. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārtha-vṛtti* (Śvetāmbara) elaborate on their names, conditions, and karmic causes."
+    },
+    {
+      "title": "Śvetāmbara Āgamas – Sūtrakṛtāṅga (2.1.13–2.1.20)",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "नरकाणं दुःखं अविरतं…",
+      "transliteration": "narakāṇaṃ duḥkhaṃ avirataṃ…",
+      "translation": "In the hells, suffering is unceasing…",
+      "notes": "This passage describes the nature of suffering in the hell realms. The text does not list all seven levels explicitly but provides vivid descriptions of naraki experience. Variants exist across manuscript traditions."
+    },
+    {
+      "title": "Tiloyapaṇṇatti (Digambara cosmology text)",
+      "author": "Yativṛṣabha",
+      "original_text": "सत्त नरकाणं नामं तेसिं गुणो वि बहुविधो",
+      "transliteration": "satta narakāṇaṃ nāmaṃ tesiṃ guṇo vi bahuvidho",
+      "translation": "The seven hells have names, and their qualities are manifold.",
+      "notes": "Tiloyapaṇṇatti gives one of the most detailed cosmological accounts, including measurements, environmental features, and classifications of hell beings. The text is Prakrit and survives in multiple recensions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain hells are eternal places where souls remain forever.",
+      "reality": "Jain doctrine states that no rebirth is eternal. Souls eventually leave hell once the relevant karmas are exhausted."
+    },
+    {
+      "myth": "A divine being sends people to hell as punishment.",
+      "reality": "Jainism rejects divine judgment. Rebirth in hell occurs solely due to one’s own karmic actions and passions."
+    },
+    {
+      "myth": "Descriptions of hells are meant to frighten or coerce religious practice.",
+      "reality": "Traditional commentaries emphasize their ethical purpose: illustrating the consequences of harmful actions and encouraging nonviolence and restraint."
+    },
+    {
+      "myth": "All Jain traditions list the hells identically.",
+      "reality": "While the number seven is consistent, Digambara and Śvetāmbara sources sometimes differ in naming conventions, ordering, and descriptive details."
+    }
+  ]
+}

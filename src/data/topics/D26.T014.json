@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain literature and philosophy, **Krishna** (often referred to as *Vāsudeva Krishna* or *Kṛṣṇa Vāsudeva*) appears as a significant figure within the broader narrative framework of Jain universal history. Unlike the devotional portrayals found in Vaishnava traditions, Jain texts present Krishna as a heroic, worldly, and complex personality—an extraordinary but non-liberated soul who plays a major role in the cyclical histories of the current avasarpinī (descending time cycle).\n\nAcross Digambara and Śvetāmbara traditions, Krishna is classified as a **Vāsudeva**, one of the 63 *Śalākāpuruṣas* (Great Persons). Vāsudevas are powerful, charismatic rulers who uphold order but remain entangled in worldly action and karmic consequences. Jain texts consistently emphasize that Krishna, despite his virtues and accomplishments, does not attain liberation in this lifetime. His story is intertwined with that of **Balarāma (Baladeva)** and **Jarāsandha**, forming a triad of heroic figures whose lives illustrate the workings of karma, destiny, and ethical complexity.\n\nJain narratives describe Krishna’s birth in the Yādava clan, his political and military leadership, his conflicts with Jarāsandha, and his eventual role in the destruction of the Yādavas. These accounts often parallel but significantly differ from Brahmanical Purāṇic stories. In Jainism, Krishna’s life is not framed as divine incarnation but as the journey of a powerful human being whose actions—both virtuous and violent—shape his karmic trajectory.\n\nThe death of Krishna is also treated differently: Jain texts describe his final moments as occurring in a forest, where he is accidentally struck by a hunter. His soul then continues its karmic journey, destined for future rebirths until liberation is eventually attained. This portrayal underscores Jainism’s commitment to universal karmic law and the non-theistic nature of its cosmology.\n\nOverall, Krishna in Jainism is a culturally significant figure whose story provides insight into Jain narrative traditions, ethical frameworks, and the doctrine of karma. His portrayal reflects Jainism’s broader approach to integrating pan-Indian cultural figures into its own philosophical worldview while maintaining clear doctrinal boundaries.",
+  "primary_sources": [
+    {
+      "title": "Harivaṁśa Purāṇa",
+      "author": "Jinasena (Digambara)",
+      "original_text": "कंसो हि तत्र दैत्येन्द्रो यदुवंशे च वासुदेवः ।",
+      "transliteration": "kaṁso hi tatra daityendro yaduvaṁśe ca vāsudevaḥ.",
+      "translation": "There, Kamsa was the lord of the demons, and in the Yadu lineage was Vāsudeva.",
+      "notes": "The *Harivaṁśa Purāṇa* (9th century CE) is a major Digambara text narrating the lives of the Śalākāpuruṣas, including Krishna. It presents Krishna as a Vāsudeva, detailing his battles, political alliances, and karmic consequences."
+    },
+    {
+      "title": "Triṣaṣṭiśalākāpuruṣacaritra",
+      "author": "Hemacandra (Śvetāmbara)",
+      "original_text": "ततो वासुदेवः कृष्णो बलदेवेन सह स्थितः ।",
+      "transliteration": "tato vāsudevaḥ kṛṣṇo baladevena saha sthitaḥ.",
+      "translation": "Then the Vāsudeva Krishna stood together with Baladeva.",
+      "notes": "Hemacandra’s 12th-century epic is a foundational Śvetāmbara source. It provides a detailed Jain retelling of Krishna’s life, emphasizing his role as a heroic but non-liberated figure."
+    },
+    {
+      "title": "Padmapurāṇa (Jain version)",
+      "author": "Ravishena (Digambara)",
+      "original_text": "वासुदेवकथा लोके प्रसिद्धा यदुनन्दनः ।",
+      "transliteration": "vāsudevakathā loke prasiddhā yadunandanaḥ.",
+      "translation": "The stories of the Vāsudeva, the joy of the Yadus, are well known in the world.",
+      "notes": "The Jain *Padmapurāṇa* includes narrative material about Krishna as part of the Śalākāpuruṣa cycle, integrating him into Jain cosmology."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism considers Krishna an incarnation of Vishnu.",
+      "reality": "Jain texts do not accept divine incarnations. Krishna is portrayed as a powerful human hero (a Vāsudeva), not a deity."
+    },
+    {
+      "myth": "Krishna attains liberation according to Jain tradition.",
+      "reality": "Jain sources consistently state that Krishna does not attain moksha in his final life; he continues in samsara due to karmic entanglements."
+    },
+    {
+      "myth": "Jain narratives about Krishna are identical to Hindu Purāṇic accounts.",
+      "reality": "While sharing some cultural motifs, Jain texts reinterpret Krishna’s life within Jain ethical and cosmological frameworks, often differing significantly in details and theological meaning."
+    }
+  ]
+}

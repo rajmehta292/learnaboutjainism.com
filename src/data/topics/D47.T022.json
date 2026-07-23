@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, “art” (often discussed through terms such as *śilpa*, *citra*, *pratimā*, and *kala*) refers not only to aesthetic creation but also to disciplined craftsmanship shaped by non‑violence, restraint, and spiritual intentionality. Jain art historically developed in dialogue with broader Indian artistic cultures while maintaining distinct ethical and cosmological commitments. Across Digambara and Śvetāmbara communities, artistic expression appears in temple architecture, manuscript illumination, sculpture, iconography, cosmological diagrams, ritual objects, and narrative painting.\n\nJain art is deeply connected to religious practice. Temple architecture—from early rock‑cut caves at Udayagiri–Khandagiri to later marble complexes at Mount Abu and Śravaṇabeḷagoḷa—embodies ideals of purity, symmetry, and contemplative space. Sculptural traditions emphasize the *śilpaśāstra*-guided proportions of Jina images, typically marked by stillness, frontal posture, and minimal ornamentation. These features reflect the Jina’s perfected equanimity and the Jain emphasis on non‑attachment. Cosmological art, including *saṃgrahaṇī-sūtra* diagrams, *Jambūdvīpa* maps, and *cakra* representations, visually expresses the layered Jain universe and serves as pedagogical tools for monastic and lay study.\n\nManuscript art flourished especially in Śvetāmbara communities, where palm‑leaf and later paper manuscripts were adorned with miniature paintings illustrating episodes from the lives of the Tīrthaṅkaras, moral exempla, and cosmological structures. These images were not merely decorative; they supported memorization, ethical reflection, and ritual reading practices. Digambara traditions, while historically more conservative regarding figural representation in manuscripts, developed rich sculptural and architectural programs, including monumental icons such as the 57‑foot Bāhubali at Śravaṇabeḷagoḷa.\n\nIn modern contexts, Jain art continues to evolve. Artists reinterpret classical motifs through contemporary media, while communities commission new temples, murals, and digital cosmological diagrams. Ethical considerations—such as non‑harm in materials, environmental impact, and respectful representation—remain central. Thus, Jain art is best understood as a living, ethically grounded aesthetic tradition shaped by devotion, pedagogy, and philosophical depth.",
+  "primary_sources": [
+    {
+      "title": "Saṃgrahaṇī-sūtra (Śvetāmbara)",
+      "author": "Traditionally attributed to Śīlāṅka and later redactors",
+      "original_text": "जम्बूद्वीपस्य मध्ये मेरुः पर्वतः।",
+      "transliteration": "jambūdvīpasya madhye meruḥ parvataḥ.",
+      "translation": "In the center of Jambūdvīpa stands Mount Meru.",
+      "notes": "This cosmological text includes diagrams and descriptions that directly informed Jain cosmological art, especially maps and mandalas used for teaching."
+    },
+    {
+      "title": "Tiloyapaṇṇatti (Digambara)",
+      "author": "Yativṛṣabha",
+      "original_text": "तिलोयपण्णत्ति णमो अरिहंताणं।",
+      "transliteration": "tiloyapaṇṇatti ṇamo arihaṃtāṇaṃ.",
+      "translation": "In the Tiloyapaṇṇatti, homage is paid to the Arhats.",
+      "notes": "A foundational cosmological text describing the three worlds (*triloka*). Its detailed measurements and structures guide many Digambara cosmological diagrams."
+    },
+    {
+      "title": "Śilpa Guidelines in Iconographic Manuals (various)",
+      "author": "Anonymous traditional compilers",
+      "original_text": "समवसरणे जिनप्रतिमालक्षणं सम्यक्।",
+      "transliteration": "samavasaraṇe jinapratimālakṣaṇaṃ samyak.",
+      "translation": "In the Samavasaraṇa, the characteristics of the Jina image are properly established.",
+      "notes": "Iconographic rules appear across multiple Jain *śilpa* traditions. They prescribe proportions, postures, and attributes of Jina images, emphasizing serenity and non‑attachment."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain art is purely aniconic and avoids all imagery.",
+      "reality": "While some communities historically emphasized non‑figural worship, Jain traditions overall produced extensive figural sculpture, narrative painting, and cosmological diagrams. The key distinction lies in the ethical and symbolic restraint applied to representation."
+    },
+    {
+      "myth": "All Jina images are identical and lack artistic variation.",
+      "reality": "Although Jina icons follow strict *śilpa* rules, regional styles, materials, and sectarian conventions create meaningful variation. Differences appear in posture, attendant figures, pedestal motifs, and artistic schools."
+    },
+    {
+      "myth": "Jain art is only decorative and not connected to religious practice.",
+      "reality": "Jain art functions pedagogically, ritually, and philosophically. Manuscript paintings aid scriptural study, cosmological diagrams teach doctrine, and temple art supports meditative and devotional practices."
+    }
+  ]
+}

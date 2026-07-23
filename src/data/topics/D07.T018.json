@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical literature, sorrow (duḥkha/dukha) is treated as a fundamental affective experience arising from bondage to karma, attachment, and misapprehension of the nature of reality. Jain thinkers across traditions—Digambara and Śvetāmbara—describe sorrow not merely as an emotional state but as a structural feature of saṃsāra, the cycle of rebirth governed by karmic influx (āsrava) and bondage (bandha). Sorrow is thus both experiential and metaphysical.\n\nWithin the broader Jain ontology, sorrow is classified among the *vedanīya* karmas, which determine pleasurable or painful feeling-tones. Painful feeling (aśāta-vedanīya) manifests as physical suffering, emotional distress, grief, and existential dissatisfaction. These experiences are not random; they are the fruition (*udaya*) of specific karmic categories accumulated through past actions, passions (kaṣāyas), and deluded states (mithyātva).\n\nJain texts emphasize that sorrow is not an inherent property of the soul (jīva). The soul, in its pure state, possesses infinite bliss (ananta-sukha). Sorrow arises only due to karmic obscurations. Liberation (mokṣa) is therefore described as the complete cessation of sorrow through the destruction of karmic matter. Ethical conduct—nonviolence (ahiṃsā), restraint (saṃyama), equanimity (samatā), and meditation (dhyāna)—reduces the passions that generate sorrow and gradually reveals the soul’s innate bliss.\n\nCommentarial traditions further distinguish between ordinary sorrow, which arises from worldly attachments, and the contemplative recognition of sorrow, which motivates spiritual progress. The former binds; the latter liberates. Thus, sorrow is both a symptom of bondage and a catalyst for renunciation, reflection, and ethical transformation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अशातवेदनियं दुःखम्",
+      "transliteration": "aśātavedanīyaṃ duḥkham",
+      "translation": "“Painful feeling is sorrow.”",
+      "notes": "Tattvārtha Sūtra 8.4 identifies sorrow as the fruition of the painful-feeling karma. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārthavṛtti* (Śvetāmbara) explain that sorrow arises from karmic bondage and is not intrinsic to the soul."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text (author unknown)",
+      "original_text": "दुःखं संसारस्सभावो",
+      "transliteration": "duḥkhaṃ saṃsārassabhāvo",
+      "translation": "“Sorrow is the nature of saṃsāra.”",
+      "notes": "This passage (Uttarādhyayana Sūtra 2.14, edition-dependent) frames sorrow as a defining characteristic of worldly existence. Commentators emphasize that recognition of sorrow motivates detachment and ethical discipline."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "वेदनियकर्मणो दुःखसुखयोः उदयः",
+      "transliteration": "vedanīyakarmaṇo duḥkhasukhayoḥ udayaḥ",
+      "translation": "“The rise of the feeling-producing karma results in sorrow and pleasure.”",
+      "notes": "This foundational Digambara text explains sorrow as a karmic process. Later commentaries by Vīrasena and Jinasena elaborate the mechanisms of karmic fruition."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that sorrow is unavoidable and permanent.",
+      "reality": "Jain texts state that sorrow is temporary and arises only from karmic bondage. The soul’s true nature is bliss, and liberation eliminates sorrow entirely."
+    },
+    {
+      "myth": "Sorrow is considered spiritually beneficial in itself.",
+      "reality": "Jainism distinguishes between worldly sorrow, which binds through attachment, and contemplative recognition of sorrow, which encourages ethical discipline. Only the latter has constructive value."
+    },
+    {
+      "myth": "Sorrow is caused by external events or divine punishment.",
+      "reality": "Jain doctrine attributes sorrow to the fruition of one’s own karmas, not to external agents or divine will."
+    }
+  ]
+}

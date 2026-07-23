@@ -1,0 +1,35 @@
+{
+  "overview": "Oral history refers to the systematic collection, preservation, and interpretation of spoken memories and personal commentaries. It is a multidisciplinary field used in history, anthropology, sociology, folklore studies, and religious studies. Oral history emphasizes lived experience—what individuals remember, how they narrate events, and how communities transmit knowledge across generations.\n\nIn many cultures, including Jain communities, oral transmission has historically played a crucial role in preserving teachings, genealogies, ritual practices, and community memory. Before the stabilization of written canons, teachings attributed to the Jinas and early mendicant lineages circulated orally. Even after the development of written scriptures, oral recitation, memorization, and storytelling remained central to pedagogy and communal identity.\n\nModern oral history involves structured interviews, ethical protocols, and archival preservation. Scholars analyze not only the content of oral narratives but also performance, context, memory reliability, and intergenerational transmission. Oral histories can illuminate marginalized voices, local practices, and variations not captured in formal texts. They also help trace how communities adapt traditions over time.\n\nWithin Jain studies, oral history projects document migration stories, temple-building efforts, monastic encounters, lay practice evolution, and regional ritual variations. These accounts complement textual sources and help scholars understand how doctrine interacts with lived experience. Oral history is therefore both a method and a body of evidence, bridging personal memory with collective heritage.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to early Jain mendicant communities",
+      "original_text": "णं चिरं चिरं परिज्ञाय ववहारं कुर्वन्ति",
+      "transliteration": "ṇaṃ ciraṃ ciraṃ parijñāya vavahāraṃ kurvanti",
+      "translation": "“Having long understood, they conduct themselves accordingly.”",
+      "notes": "While the Ācārāṅga Sūtra is a written canonical text, its early transmission was oral. This line is often cited in discussions of how mendicants internalize teachings through repeated hearing and recitation."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Traditionally attributed to early Jain monastic compilers",
+      "original_text": "सुणह सुयस्स धम्मस्स",
+      "transliteration": "suṇaha suyassa dhammasa",
+      "translation": "“Listen to the good teaching of the Dharma.”",
+      "notes": "This exhortation to listen reflects the oral pedagogical environment in which teachings were conveyed through sermons, dialogues, and recitations."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Oral history is unreliable because it depends on human memory.",
+      "reality": "While memory can be selective, oral history is a rigorous method that contextualizes recollection, cross-checks narratives, and preserves perspectives not found in written records."
+    },
+    {
+      "myth": "Oral traditions disappear once written texts exist.",
+      "reality": "Many communities maintain strong oral traditions even after adopting writing. Oral performance, recitation, and storytelling continue to shape interpretation and communal identity."
+    },
+    {
+      "myth": "Oral history is only about ancient or traditional societies.",
+      "reality": "Modern oral history documents contemporary experiences—migration, social movements, technological change—and is widely used in academic and community-based research."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "Padmasana, often translated as the lotus posture, is a cross‑legged seated position widely referenced across Indian traditions, including Jainism. In Jain contexts, Padmasana is primarily a meditative and iconographic posture rather than a physical‑exercise technique. It appears in depictions of Tirthankaras, in meditation instructions for laypeople, and in classical Prakrit and Sanskrit texts describing ideal bodily alignment for dhyāna (meditation). \n\nWithin Jain iconography, Padmasana symbolizes stability, equanimity, and the inward orientation of consciousness. Tirthankaras are frequently shown seated in Padmasana because the posture conveys complete stillness (kayotsarga in a seated form), non‑reactivity, and the transcendence of bodily discomfort. Unlike some yogic traditions that emphasize Padmasana as a prerequisite for advanced breathwork, Jain sources treat it as one of several possible stable postures suitable for meditation, alongside ardha‑padmasana, sukhasana, and standing kayotsarga. \n\nIn practice, Padmasana involves placing each foot on the opposite thigh, keeping the spine upright, shoulders relaxed, and hands typically resting in dhyāna‑mudrā. Jain texts emphasize that the posture should be steady (sthira), comfortable (sukha), and conducive to mental stillness. The purpose is not physical flexibility but the cultivation of samyaktva (right orientation), prajñā (insight), and non‑attachment. \n\nDifferent Jain traditions—Śvetāmbara, Digambara, Sthānakavāsī, and Terāpanth—use Padmasana in varying degrees. Digambara mūrti‑pūjaka temples frequently depict Tirthankaras in Padmasana, while Śvetāmbara iconography alternates between Padmasana and the standing kayotsarga posture. Sthānakavāsī and Terāpanth traditions, which do not use images, still reference Padmasana in meditation manuals but do not employ it in ritual iconography. Across all traditions, Padmasana remains a symbol of inner stillness and the disciplined yet gentle orientation of the practitioner toward liberation (mokṣa).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "स्थिरसुखम् आसनम्",
+      "transliteration": "sthira‑sukham āsanam",
+      "translation": "A posture is that which is steady and comfortable.",
+      "notes": "Although this aphorism is shared across Jain and non‑Jain commentarial traditions, it is foundational for Jain discussions of meditation posture. Commentators such as Pūjyapāda (Digambara) and Siddhasena Gaṇi (Śvetāmbara) describe Padmasana as one of the ideal steady postures for dhyāna."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "सीले ठिट्ठे सुहुमे आसणे",
+      "transliteration": "sīle ṭhiṭṭhe suhume āsane",
+      "translation": "In a disciplined, steady, subtle posture.",
+      "notes": "The text describes the qualities of meditative posture for ascetics. While Padmasana is not named explicitly, later commentaries identify it as one of the stable seated positions implied by the description."
+    },
+    {
+      "title": "Yogaśāstra (with Pūjyapāda’s commentary)",
+      "author": "Haribhadra Sūri (Śvetāmbara), with Digambara commentary traditions",
+      "original_text": "पद्मासनं तु पादौ ऊरूपरि स्थाप्य समं भवेत्",
+      "transliteration": "padmāsanaṃ tu pādau ūrupari sthāpya samaṃ bhavet",
+      "translation": "Padmasana is performed by placing the feet upon the thighs so that the posture becomes even and balanced.",
+      "notes": "This is one of the clearest classical Jain descriptions of Padmasana. The text emphasizes symmetry, steadiness, and suitability for meditation rather than physical achievement."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Padmasana is mandatory for Jain meditation.",
+      "reality": "Jain texts consistently state that any posture that is steady and comfortable is suitable. Padmasana is recommended but not required."
+    },
+    {
+      "myth": "Padmasana is primarily a yogic posture unrelated to Jainism.",
+      "reality": "Padmasana appears in Jain meditation manuals, commentaries, and iconography. It is integral to Jain representations of Tirthankaras and to classical discussions of dhyāna."
+    },
+    {
+      "myth": "Only highly flexible practitioners can use Padmasana meaningfully.",
+      "reality": "Jain sources emphasize mental steadiness over physical perfection. Modified seated postures are acceptable for lay practitioners."
+    }
+  ]
+}

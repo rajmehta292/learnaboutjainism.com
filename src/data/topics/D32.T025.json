@@ -1,0 +1,59 @@
+{
+  "overview": "Prakrit grammar refers to the systematic description of the Middle Indo‑Aryan vernaculars that flourished in the Indian subcontinent between roughly the 5th century BCE and the 12th century CE. In Jain contexts, Prakrit—especially Ardhamāgadhī and Jain Māhārāṣṭrī—served as the principal medium for canonical scriptures, narrative literature, and scholastic works. Grammarians from both Jain and non‑Jain traditions developed elaborate systems to explain how Prakrit relates to Sanskrit, how its sounds and forms behave, and how it should be used in literary composition.\n\nThe term \"Prakrit\" itself is understood in traditional grammars as a derivative of Sanskrit. Works such as the \"Prākr̥ta‑Prakāśa\" and Hemacandra’s \"Siddha‑Hema‑Śabdanuśāsana\" define Sanskrit (saṃskṛta) as the prakṛti, the \"source\" or \"base,\" and Prakrit (prākṛta) as the language that \"originates from\" or \"comes from\" that source. This does not mean that historical Prakrits were mechanically produced from Classical Sanskrit; rather, the grammarians use Sanskrit as a normative reference system. They describe Prakrit forms by specifying how they differ from, or correspond to, Sanskrit roots, suffixes, and inflectional patterns.\n\nPrakrit grammar is primarily concerned with literary language. Traditional grammarians and lexicographers illustrate their rules with verses from established poetic and narrative works, rarely from everyday speech. As a result, Prakrit grammar is deeply intertwined with metrics, poetics, and lexicography. Hemacandra, for example, organizes knowledge of Prakrit into interlocking domains: grammar (vyākaraṇa), lexicography (kośa), metrics (chandas), and poetics (alaṅkāra). This philological orientation means that Prakrit grammar functions as a \"model for\" composing and interpreting texts, rather than a purely descriptive model of spoken language.\n\nPhonetically, Prakrit grammars pay close attention to systematic sound changes from Sanskrit. Common rules include the weakening or loss of final consonants, the simplification of consonant clusters, and characteristic changes of intervocalic consonants—such as the change of \"t\" to \"d\" and \"p\" to \"v\" in many environments. Vowel lengthening and shortening, especially in compounds, are treated in detail, as are sandhi rules that differ from Sanskrit. Grammarians also note dialect‑specific tendencies: for instance, the behavior of dental \"n\" versus retroflex \"ṇ,\" the use of anusvāra in place of conjunct nasals, and special orthographic conventions in Jain Prakrit manuscripts.\n\nMorphologically, Prakrit grammar retains much of the Sanskrit system of nominal and verbal inflection but with significant simplifications and innovations. Nouns and pronouns are declined in cases and numbers that broadly correspond to Sanskrit, yet endings are often reduced or altered. Verbs show distinct conjugational patterns in present, past, and future tenses, as well as in imperative and optative moods. Derivational morphology—especially the use of suffixes to form abstract nouns, agent nouns, and participles—is an important topic, since many Prakrit literary genres rely on rich nominal derivation.\n\nDialectal diversity is a central feature of Prakrit grammar. Hemacandra and other grammarians distinguish Maharashtri, Shauraseni, Magadhi, Paishachi, Chulika‑Paishachi, and Apabhramsha, each with its own phonological and morphological profile. Jain canonical Ardhamāgadhī, while sometimes treated separately, is closely related to Magadhi and exhibits its own conservative and innovative traits. Grammars often take Maharashtri as a base dialect and describe other Prakrits in relation to it, while also acknowledging regional and textual variation.\n\nIn Jain scholastic tradition, Prakrit grammar serves both doctrinal and literary purposes. On the one hand, it enables precise reading of canonical texts, commentaries, and narrative literature composed in Ardhamāgadhī and Jain Māhārāṣṭrī. On the other hand, it provides a framework for composing new works that remain intelligible within established linguistic norms. Modern scholarship has highlighted how these grammatical traditions contributed to the broader process of vernacularization in South Asia, offering conceptual tools that were later extended to other regional languages.\n\nContemporary studies of Prakrit grammar draw on a layered corpus: primary grammatical treatises, Jain and non‑Jain literary texts, inscriptions, and comparative Indo‑Aryan linguistics. They also reassess traditional rules in light of epigraphic evidence, noting where older grammars accurately capture usage and where they idealize or systematize it. For students of Jainism, Prakrit grammar is thus both a technical discipline and a gateway into the linguistic world of the early and medieval Jain communities.",
+  "primary_sources": [
+    {
+      "title": "Prākr̥ta‑Prakāśa",
+      "author": "Vararuci (traditionally attributed)",
+      "original_text": "प्रकृतिः संस्कृतम् । तत्र भवं तत आगतं वा प्राकृतम् ।",
+      "transliteration": "prakṛtiḥ saṃskṛtam | tatra bhavaṃ tata āgataṃ vā prākṛtam |",
+      "translation": "“Sanskrit is the prakṛti (source); that which originates in it or comes from it is called Prakrit.”",
+      "notes": "The \"Prākr̥ta‑Prakāśa\" is one of the earliest systematic grammars of Prakrit. It presents rules for deriving Prakrit forms from Sanskrit, focusing on sound changes and morphological correspondences. Although its exact date and authorship are debated, it became foundational for later grammarians and is frequently cited in discussions of the relationship between Sanskrit and Prakrit."
+    },
+    {
+      "title": "Siddha‑Hema‑Śabdanuśāsana (Prakrit Vyākaraṇa section)",
+      "author": "Hemacandra",
+      "original_text": "प्रकृतिः संस्कृतम्, तत्र भवं तत आगतं वा प्राकृतम् ।",
+      "transliteration": "prakṛtiḥ saṃskṛtam, tatra bhavaṃ tata āgataṃ vā prākṛtam |",
+      "translation": "“Sanskrit is the prakṛti (source), and Prakrit is so called because it either originates in or comes from that Sanskrit.”",
+      "notes": "Hemacandra, a 12th‑century Jain monk and polymath, composed a comprehensive grammar that treats both Sanskrit and multiple Prakrit dialects. The Prakrit section (often referred to as \"Prakrit Vyākaraṇa\") systematically covers Maharashtri, Shauraseni, Magadhi, Paishachi, Chulika‑Paishachi, and Apabhramsha. Hemacandra’s work is central to the Western school of Prakrit grammar and deeply influenced later Jain and non‑Jain scholarship."
+    },
+    {
+      "title": "Prākṛtasarvasva",
+      "author": "Mārkaṇḍeya",
+      "original_text": "प्रकृतिः संस्कृतं, तत्र भवं प्राकृतम् उच्यते ।",
+      "transliteration": "prakṛtiḥ saṃskṛtaṃ, tatra bhavaṃ prākṛtam ucyate |",
+      "translation": "“Sanskrit is called the prakṛti (origin), and that which arises from it is called Prakrit.”",
+      "notes": "Mārkaṇḍeya’s \"Prākṛtasarvasva\" is a later Prakrit grammar that builds on earlier traditions. It reiterates the derivational relationship between Sanskrit and Prakrit and refines rules for phonetic and morphological change. The text is important for understanding how medieval scholars conceptualized Prakrit as a system and how they integrated grammatical theory with literary practice."
+    },
+    {
+      "title": "Daśarūpaka with Daśarūpakāvaloka commentary",
+      "author": "Dhanika (commentator)",
+      "original_text": "प्रकृतेरागतं प्राकृतम्, प्रकृतिः संस्कृतम् ।",
+      "transliteration": "prakṛter āgataṃ prākṛtam, prakṛtiḥ saṃskṛtam |",
+      "translation": "“Prakrit comes from the prakṛti (source), and that prakṛti is Sanskrit.”",
+      "notes": "In his commentary \"Daśarūpakāvaloka\" on the dramaturgical treatise \"Daśarūpaka,\" Dhanika discusses the use of Prakrit in drama and reiterates the Sanskrit‑based definition of Prakrit. This passage shows how grammatical ideas about Prakrit were embedded in broader aesthetic and theatrical theory, especially in the context of assigning different languages to different characters and social roles on stage."
+    },
+    {
+      "title": "Ācārāṅga‑sūtra (Ardhamāgadhī canonical text)",
+      "author": "Traditionally attributed to early Jain teachers; compiled by the Jain community",
+      "original_text": "एवं मे सुतेणं अहं णं अणुगइक्खं णं अणुगइक्खं ।",
+      "transliteration": "evaṃ me sutenaṃ ahaṃ ṇaṃ aṇugaikkhaṃ ṇaṃ aṇugaikkhaṃ |",
+      "translation": "“Thus, by what I have heard, I (should) not harm, not cause harm.” (Approximate rendering)",
+      "notes": "The Ācārāṅga‑sūtra is one of the earliest Jain canonical texts, composed in Ardhamāgadhī Prakrit. While not a grammar itself, it provides primary linguistic material that grammarians and modern scholars analyze to understand Ardhamāgadhī phonology, morphology, and syntax. Examples from such texts reveal how grammatical rules operate in doctrinal discourse and how canonical language differs from later literary Prakrits."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Prakrit is simply a corrupted or careless form of Sanskrit with no systematic grammar.",
+      "reality": "Traditional grammars and modern scholarship show that Prakrit is governed by detailed and consistent rules. Works like \"Prākr̥ta‑Prakāśa\" and Hemacandra’s \"Siddha‑Hema‑Śabdanuśāsana\" present structured systems of phonetic, morphological, and syntactic change. Prakrit is not random or \"incorrect\" Sanskrit; it is a distinct set of Middle Indo‑Aryan languages with their own norms and literary standards."
+    },
+    {
+      "myth": "There is only one Prakrit language, and all Jain texts use the same uniform Prakrit.",
+      "reality": "Grammarians and texts distinguish multiple Prakrit dialects, such as Maharashtri, Shauraseni, Magadhi, Paishachi, and Apabhramsha, as well as Ardhamāgadhī and Jain Māhārāṣṭrī. Jain scriptures, narrative works, and commentaries employ different Prakrits depending on period, region, and genre. Prakrit grammar therefore includes dialect‑specific rules and cannot be reduced to a single homogeneous language."
+    },
+    {
+      "myth": "Prakrit grammar is only of historical interest and has no relevance for understanding Jain doctrine.",
+      "reality": "Because many foundational Jain scriptures and early commentaries are composed in Prakrit, especially Ardhamāgadhī and Jain Māhārāṣṭrī, grammatical knowledge is crucial for accurate interpretation. Nuances of case endings, verb forms, and sandhi can affect how ethical rules, metaphysical claims, and narrative details are understood. Prakrit grammar thus remains directly relevant for serious study of Jain doctrine and practice."
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "requested": "The Jain Path: Ancient Wisdom for the Modern World — Dr. R. K. Jain",
+    "status": "UNVERIFIED_AS_WRITTEN",
+    "kind": "Modern secondary citation",
+    "access": "No file included",
+    "rights": "Unknown",
+    "source": "",
+    "notes": "No authoritative publisher, WorldCat, Open Library, or major catalog record was located for this exact title-author pairing. Obtain an ISBN, publisher, cover, or library record before treating it as real."
+  },
+  {
+    "requested": "Jainism: An Introduction — Jeffery D. Long",
+    "status": "VERIFIED",
+    "kind": "Modern scholarly introduction",
+    "access": "Official commercial print/ebook and library access",
+    "rights": "Copyrighted; metadata and official link only",
+    "source": "https://www.bloomsbury.com/us/jainism-9781845116262/",
+    "notes": "Official Bloomsbury record: I.B. Tauris, 2009, 264 pages, ISBN 9781845116262. The copyrighted book is not redistributed."
+  },
+  {
+    "requested": "The Book of Compassion: Jainism and the Environment — Dr. R. S. Sharma",
+    "status": "UNVERIFIED_AS_WRITTEN",
+    "kind": "Modern secondary citation",
+    "access": "No file included",
+    "rights": "Unknown",
+    "source": "",
+    "notes": "No authoritative bibliographic record was located for this exact title-author pairing. The environmental topic is valid, but must be covered through verified sources."
+  },
+  {
+    "requested": "Jainism: A Religion of Non-Violence — N. M. Soni",
+    "status": "UNVERIFIED_AS_WRITTEN",
+    "kind": "Modern secondary citation",
+    "access": "No file included",
+    "rights": "Unknown",
+    "source": "",
+    "notes": "No authoritative record was located for this exact title-author pairing. A similarly named verified book is Jainism: A Pictorial Guide to the Religion of Non-Violence by Kurt Titze, with contributions by Klaus Bruhn and others (1998); do not silently substitute it."
+  },
+  {
+    "requested": "The Jains — Paul Dundas",
+    "status": "VERIFIED",
+    "kind": "Modern scholarly introduction/history",
+    "access": "Official commercial print/ebook and library access",
+    "rights": "Copyrighted; metadata and official link only",
+    "source": "https://www.routledge.com/The-Jains/Dundas/p/book/9780415266062",
+    "notes": "Official Routledge record: second edition, copyright 2002, 372 pages."
+  },
+  {
+    "requested": "The Agamas",
+    "status": "VERIFIED_CORPUS_LABEL",
+    "kind": "Primary-source corpus, not one book",
+    "access": "Many works, recensions, editions, scans, translations, and commentaries",
+    "rights": "Assess per edition, translation, scan, and repository",
+    "source": "https://jainpedia.org/themes/principles/sacred-writings/",
+    "notes": "Agama is not a single downloadable book. Canonical boundaries and counts differ among Jain traditions. The public-domain Jacobi volumes cover four Svetambara texts, not the complete Agama corpus."
+  },
+  {
+    "requested": "Gommatasara — Nemichandra",
+    "status": "VERIFIED",
+    "kind": "Digambara doctrinal primary work",
+    "access": "Public-domain 1927 English editions online",
+    "rights": "Historical editions are public domain in the United States; verify local jurisdiction",
+    "source": "https://commons.wikimedia.org/wiki/File:Gommatsara_Jiva-Kand.pdf",
+    "notes": "Gommatasara is commonly divided into Jiva-kanda and Karma-kanda."
+  },
+  {
+    "requested": "Jaina Sutras, Part I — Hermann Jacobi",
+    "status": "VERIFIED",
+    "kind": "Historical English translation of selected primary texts",
+    "access": "Public-domain full scan",
+    "rights": "Public domain in the United States",
+    "source": "https://commons.wikimedia.org/wiki/File:The_sacred_books_of_the_East_(IA_1922707.0022.001.umich.edu).pdf",
+    "notes": "Sacred Books of the East vol. 22 (1884), containing Acaranga Sutra and Kalpa Sutra."
+  },
+  {
+    "requested": "Jaina Sutras, Part II — Hermann Jacobi",
+    "status": "VERIFIED",
+    "kind": "Historical English translation of selected primary texts",
+    "access": "Public-domain full scan",
+    "rights": "Public domain in the United States",
+    "source": "https://commons.wikimedia.org/wiki/File:The_sacred_books_of_the_East_(IA_1922707.0045.002.umich.edu).pdf",
+    "notes": "Sacred Books of the East vol. 45 (1895), containing Uttaradhyayana Sutra and Sutrakritanga Sutra."
+  }
+]

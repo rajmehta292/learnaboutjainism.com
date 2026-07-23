@@ -1,0 +1,63 @@
+{
+  "overview": "Mandapa (Sanskrit: मण्डप, maṇḍapa; also mantapa, maṇṭapa) is a technical term in Indian sacred architecture for a pillared hall or pavilion used for ritual, congregational, and processional purposes. In both Hindu and Jain temple traditions, the mandapa forms the architectural and experiential bridge between the outer world of the devotee and the inner sanctum (garbhagṛha) where the principal image is enshrined. It may be open or closed, attached to the main temple on its axial line, or freestanding within the temple compound.\n\nFrom the standpoint of vāstu-śāstra and śilpa-śāstra (architectural treatises), the mandapa is a carefully proportioned structural unit laid out on the vāstu-puruṣa-maṇḍala grid. Rows of stone or wooden pillars support a flat slab roof or a corbelled dome, and the number, spacing, and ornamentation of these pillars are codified in texts such as the Mānasāra, Samarāṅgaṇa-sūtradhāra, Kāśyapa Śilpaśāstra, and various Āgamas. Plans range from simple four-pillared (catuḥ-stambha) halls to elaborate sixty-four-pillared pavilions, with typological names indicating their proportions and functions.\n\nIn the typical North Indian (Nāgara) and South Indian (Drāviḍa) temple, the devotee passes through a sequence of spaces: an entrance porch or half-hall (ardha-maṇḍapa), the main congregational hall (maṇḍapa or mahā-maṇḍapa), a narrow vestibule (antarāla), and finally the garbhagṛha beneath the śikhara or vimāna. Jain temples adopt the same vocabulary and spatial logic: the sabhā-maṇḍapa (assembly hall) in front of the shrine accommodates lay worshippers for collective recitation of sūtras, pravacana (discourses), and ritual circumambulation (pradakṣiṇā). In many medieval Jain complexes of western India and Rajasthan, richly carved open mandapas with kakṣāsana (stone bench seating along the perimeter) create a semi-public threshold between the temple interior and the wider community space.\n\nFunctional subtypes of mandapa are distinguished by name. The nṛtya- or raṅga-maṇḍapa is reserved for dance and dramatic performance; the kalyāṇa-maṇḍapa hosts the symbolic marriage of the deity in Hindu temples and, in modern practice, serves as the architectural prototype for wedding pavilions. The āsthāna-maṇḍapa functions as an audience or assembly hall, while in Śaiva temples the nāndī-maṇḍapa shelters the image of Nandī facing the liṅga. Jain temples similarly differentiate between the main sabhā-maṇḍapa, smaller side mandapas for subsidiary Jinas or yakṣas, and detached pavilions used for specific festivals (utsava) and processions of images (ratha-yātrā).\n\nHistorically, fully developed mandapas appear as temple ritual becomes more elaborate. Early rock-cut chaitya halls and simple Gupta-period shrines show only rudimentary porches; by the early medieval period, independent mandapa architecture flourishes, with some complexes—especially in Vijayanagara and Nāyaka South India—featuring hundred-pillared (śata-stambha) and thousand-pillared (sahasra-stambha) halls as statements of royal patronage. In Jain contexts, the great mandapas of Śravaṇabeḷgoḷa, Mount Abu (Dilwara temples), and Ranakpur exemplify the integration of intricate stone carving, complex ceiling compositions, and carefully choreographed ritual movement.\n\nEtymologically, traditional lexicography connects maṇḍapa with the idea of a shelter or resting place where people gather. The Amarakośa glosses it as a place of congregation and refuge, and later commentators emphasize that it is a space where both deities and humans can dwell or assemble. This dual orientation—toward divine presence and human community—explains why mandapas are central to Jain lay practice: they are the architectural locus for listening to sermons, performing pūjā, observing vows (vrata), and participating in communal rituals, while the inner sanctum remains relatively small and focused on the image of the Jina.\n\nIn contemporary usage, the term \"mandap\" or \"mandapam\" has extended beyond temple architecture to denote temporary pavilions erected for weddings, religious gatherings, and public ceremonies. These modern structures consciously echo the traditional mandapa’s role as a framed, ritually charged space that marks a transition—from single to married life, from ordinary time to festival time, or from secular gathering to religious observance—while drawing on the visual language of pillars, canopies, and decorated ceilings established in classical temple architecture.",
+  "primary_sources": [
+    {
+      "title": "Amarakośa (II.2.9)",
+      "author": "Amarasiṃha",
+      "original_text": "मण्डपोऽस्त्री जनाश्रयः । हर्म्यादि धनिनां वासः प्रासादो देवभूभुजाम् ॥",
+      "transliteration": "maṇḍapo'strī janāśrayaḥ | harmyādi dhanināṃ vāsaḥ prāsādo devabhūbhujām ||",
+      "translation": "Maṇḍapa (feminine) is a shelter for people; a mansion and the like is the dwelling of the wealthy, while a temple (prāsāda) is the abode of gods and kings.",
+      "notes": "This lexicographical verse defines maṇḍapa as a place of refuge and congregation for people, distinguishing it from the prāsāda (temple) proper. Medieval commentators such as Mallinātha explain that it is called maṇḍapa because people gather (maṇḍyate) there, emphasizing its social and communal function. Later architectural treatises build on this semantic foundation to describe mandapas as halls for assembly, ritual, and rest within temple complexes, including Jain temples."
+    },
+    {
+      "title": "Mānasāra (Chapter on Maṇḍapa-lakṣaṇa)",
+      "author": "Anonymous, traditional vāstu-śāstra author",
+      "original_text": "सर्वेषां मण्डपानां तु लक्षणं वक्ष्यतेऽधुना । तैत्तलानां द्विजातीनां वर्णानां वासयोग्यकम् ॥",
+      "transliteration": "sarveṣāṃ maṇḍapānāṃ tu lakṣaṇaṃ vakṣyate'dhunā | taittalānāṃ dvijātīnāṃ varṇānāṃ vāsayogyakam ||",
+      "translation": "Now the characteristics of all mandapas will be described—dwelling places suitable for the gods, the twice-born, and people of the various social orders.",
+      "notes": "The Mānasāra is a major vāstu-śāstra text that systematizes temple architecture. In its chapter on mandapas, it treats them as dwellings fit for deities and humans, and then proceeds to classify types of mandapas, their measurements, and proportions. Although composed in a broadly Hindu context, its prescriptions for axial placement, pillar counts, and hall dimensions are applied in Jain temple building as well, especially in medieval North and South Indian Jain complexes."
+    },
+    {
+      "title": "Kāśyapa Śilpaśāstra (Chapter 44: Maṇḍapa-lakṣaṇa)",
+      "author": "Attributed to Kāśyapa",
+      "original_text": "अथ वक्ष्ये विशेषेण मण्डपानां तु लक्षणम् ।",
+      "transliteration": "atha vakṣye viśeṣeṇa maṇḍapānāṃ tu lakṣaṇam |",
+      "translation": "Now I shall describe in detail the characteristics of mandapas.",
+      "notes": "In this chapter, the Kāśyapa Śilpaśāstra discusses various types of mandapas, their utilitarian roles, and their architectural features. It notes that mandapas in temples are built for festivals (utsava), for storing the vehicles (vāhana) of deities, and for accommodating congregations. These functions correspond closely to the use of sabhā-maṇḍapas in Jain temples, where images are brought out for processions and lay devotees assemble for ritual and instruction."
+    },
+    {
+      "title": "Samarāṅgaṇa-sūtradhāra (Chapters 67–68 on Maṇḍapa)",
+      "author": "Traditionally attributed to King Bhoja of the Paramāra dynasty",
+      "original_text": "मण्डपानां तु लक्षणं भद्रादीनां प्रकीर्तितम् ।\nभद्रो मण्डन महेन्द्रो वर्धमानः स्वस्तिकः ।\nसर्वतोभद्रकः प्रोक्तो महापद्मो गृहाधिपः ॥",
+      "transliteration": "maṇḍapānāṃ tu lakṣaṇaṃ bhadrādīnāṃ prakīrtitam |\nbhadro maṇḍana mahendro vardhamānaḥ svastikaḥ |\nsarvatobhadrakaḥ prokto mahāpadmo gṛhādhipaḥ ||",
+      "translation": "The characteristics of mandapas, beginning with the Bhadra type, are proclaimed: Bhadra, Maṇḍana, Mahendra, Vardhamāna, Svastika, Sarvatobhadraka, Mahāpadma, and Gṛharāja.",
+      "notes": "These verses introduce eight principal varieties of mandapa distinguished by proportion and plan. Later in the text, twenty-seven further types are classified by pillar number. The Samarāṅgaṇa-sūtradhāra is a key medieval treatise on architecture, and its typology influenced temple building across central and western India. Jain temple architects adopted similar hall types, adapting them to the needs of Jina worship and lay congregational practice."
+    },
+    {
+      "title": "Pāñcarātra Āgamas (e.g., Puruṣottama-saṃhitā and Śrīpraśna-saṃhitā on Ardha-maṇḍapa)",
+      "author": "Anonymous Pāñcarātra authors",
+      "original_text": "अर्धमण्डपं ततः कुर्यात् नृत्तमण्डपमास्थानमण्डपं च ।",
+      "transliteration": "ardhamaṇḍapaṃ tataḥ kuryāt nṛttamaṇḍapam āsthānamaṇḍapaṃ ca |",
+      "translation": "Then one should construct the half-hall (ardha-maṇḍapa), the dance hall (nṛtta-maṇḍapa), and the audience hall (āsthāna-maṇḍapa).",
+      "notes": "Pāñcarātra texts such as the Puruṣottama-saṃhitā and Śrīpraśna-saṃhitā give detailed instructions for the sequence of spaces in a temple: ardha-maṇḍapa, nṛtta-maṇḍapa, āsthāna-maṇḍapa, prākāras, and so on. While composed for Vaiṣṇava temples, the spatial logic—entrance porch, main hall, performance hall, assembly hall—parallels the organization of Jain temple mandapas. Jain architects often follow similar sequences, substituting Jain ritual functions (e.g., pravacana, sūtra-recitation) for the specific Pāñcarātra rites."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Mandapa is only a Hindu temple feature and has no relevance to Jain architecture.",
+      "reality": "Mandapa is a pan-Indic architectural concept used in both Hindu and Jain temple traditions. Jain temples regularly incorporate sabhā-maṇḍapas, nṛtya- or raṅga-maṇḍapas, and subsidiary mandapas along the axial approach to the Jina’s shrine. These halls are central to Jain lay practice, providing space for sermons, collective worship, and ritual movement, even though the iconography and liturgy differ from Hindu usage."
+    },
+    {
+      "myth": "Mandapa simply means any decorative porch and has no precise technical definition.",
+      "reality": "Classical vāstu-śāstra and śilpa-śāstra texts treat mandapa as a rigorously defined architectural unit with specified proportions, pillar counts, roof forms, and functional classifications. Terms such as ardha-maṇḍapa, mahā-maṇḍapa, nṛtya-maṇḍapa, and āsthāna-maṇḍapa denote distinct hall types, not generic porches. In both Hindu and Jain temples, these distinctions affect ritual choreography, circulation, and the hierarchy of sacred space."
+    },
+    {
+      "myth": "The sanctum (garbhagṛha) is the main space for congregational worship, and mandapas are secondary or optional.",
+      "reality": "In most Indian temples, including Jain temples, the garbhagṛha is small and reserved for the principal image and priestly service. Congregational worship, listening to discourses, and participating in festivals occur primarily in the mandapas. Architecturally and ritually, mandapas are indispensable: they mediate access to the sanctum, accommodate the community, and frame key ritual actions such as darśana, circumambulation, and processions."
+    },
+    {
+      "myth": "Modern wedding mandaps are purely contemporary inventions unrelated to traditional temple architecture.",
+      "reality": "Contemporary wedding mandaps consciously draw on the traditional temple mandapa’s form and symbolism: a pillared, canopied space marking a liminal, sacred transition. While materials and settings have changed—using temporary structures in halls or open grounds—the idea of a framed pavilion for solemn rites derives directly from the classical mandapa used for kalyāṇa (divine marriage) and other temple ceremonies."
+    }
+  ]
+}

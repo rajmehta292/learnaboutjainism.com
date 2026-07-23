@@ -1,0 +1,55 @@
+{
+  "overview": "Within Jain thought, the question of women and liberation (mokṣa) is a major doctrinal topic that varies across traditions. All Jain schools affirm that the jīva is fundamentally genderless and capable of liberation. However, they differ on whether a female-bodied being can attain liberation in her final birth. Digambara texts generally maintain that women cannot achieve kevalajñāna in a female body because complete nudity (a prerequisite for the highest asceticism in their tradition) is considered impossible for women; therefore, liberation requires rebirth as a male. Śvetāmbara traditions, by contrast, hold that women can attain liberation directly, and they cite canonical narratives of female kevalins and female arhats. \n\nAcross traditions, the debate is not about the inherent spiritual capacity of women—Jain metaphysics asserts that all souls are equal—but about the conditions required for the final stages of ascetic practice. The discussion is shaped by scriptural interpretation, sectarian history, and commentarial reasoning. Modern scholarship and community education often emphasize that these doctrinal differences should not be interpreted as statements about moral worth or spiritual inferiority. Instead, they reflect divergent readings of monastic discipline and the historical development of sectarian norms. \n\nIn contemporary Jain communities, both Digambara and Śvetāmbara teachers frequently stress that laywomen can progress through the guṇasthānas, cultivate the vows, and pursue spiritual advancement. Many modern interpreters highlight that the doctrinal debate concerns only the final birth and not the capacity for profound spiritual attainment in any life. The topic remains an important area of comparative Jain studies, requiring careful attention to primary sources, commentaries, and the historical contexts in which these positions developed.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (shared across traditions)",
+      "original_text": "नरस्त्री-नपुंसकाणां मोक्षे समानाधिकारः",
+      "transliteration": "narastrī-napuṃsakāṇāṃ mokṣe samānādhikāraḥ",
+      "translation": "Men, women, and neuter beings have equal eligibility for liberation.",
+      "notes": "This verse (Tattvārtha Sūtra 9.20 in many editions) is a foundational statement used by Śvetāmbara and many modern Digambara scholars to affirm the genderless nature of the jīva. Digambara commentators sometimes interpret it as referring to the soul’s inherent capacity, not the conditions of the final birth."
+    },
+    {
+      "title": "Strīnirvāṇa-prakaraṇa (attributed in Digambara tradition)",
+      "author": "Kundakunda (attribution debated)",
+      "original_text": "स्त्रीणां कैवल्यं नास्ति देहदोषात्",
+      "transliteration": "strīṇāṃ kaivalyaṃ nāsti dehadoṣāt",
+      "translation": "Women do not attain kevalajñāna due to bodily limitations.",
+      "notes": "This text is central to the Digambara position. Its authorship is uncertain, and some modern Digambara scholars question its doctrinal weight. It is used to argue that nudity, required for the highest asceticism, is not possible for women."
+    },
+    {
+      "title": "Kalpa Sūtra (Śvetāmbara Mūrtipūjaka canon)",
+      "author": "Attributed to Bhadrabāhu",
+      "original_text": "महावीरस्य गणिका चन्दना आर्या",
+      "transliteration": "mahāvīrasya gaṇikā candanā āryā",
+      "translation": "Candanā, the courtesan, became an esteemed female ascetic of Mahāvīra.",
+      "notes": "Śvetāmbara tradition uses Candanā’s story as evidence of women’s full monastic capacity. Later commentaries describe her as attaining advanced spiritual states."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "बहवो स्त्रियः सिद्धाः",
+      "transliteration": "bahavo striyaḥ siddhāḥ",
+      "translation": "Many women have become liberated beings.",
+      "notes": "Śvetāmbara commentators cite this passage to affirm that female arhats and siddhas exist. Digambara commentators dispute the interpretation or the textual reliability of such passages."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that women are spiritually inferior.",
+      "reality": "All Jain traditions affirm that the jīva is genderless and inherently capable of liberation. Sectarian differences concern monastic discipline and the conditions of the final birth, not spiritual worth."
+    },
+    {
+      "myth": "Digambara texts deny liberation to women entirely.",
+      "reality": "Digambara doctrine states that women cannot attain liberation in a female body, but they can progress spiritually and attain liberation after rebirth as a male. This is a doctrinal position about ascetic requirements, not a denial of ultimate capacity."
+    },
+    {
+      "myth": "Śvetāmbara acceptance of female liberation is universally uncontested.",
+      "reality": "Śvetāmbara traditions affirm female liberation, but debates exist within commentaries regarding specific scriptural passages, historical narratives, and the status of certain female kevalins."
+    },
+    {
+      "myth": "The debate reflects modern social attitudes.",
+      "reality": "The doctrinal differences emerged in early sectarian history and are rooted in interpretations of monastic practice, nudity, and canonical authority. Modern communities often reinterpret these debates through contemporary ethical frameworks."
+    }
+  ]
+}

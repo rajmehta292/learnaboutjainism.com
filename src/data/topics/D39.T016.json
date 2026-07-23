@@ -1,0 +1,55 @@
+{
+  "overview": "Monastic food rules in Jainism form a highly structured discipline rooted in ahiṃsā (non‑violence), aparigraha (non‑possessiveness), and saṃyama (restraint). Although details vary across Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth traditions, the underlying principles remain consistent: monks and nuns do not cook, store food, or request specific items; they rely on alms received without attachment or preference. Food discipline is not merely dietary regulation but a central component of monastic identity, shaping daily routines, ethical vigilance, and karmic purification.\n\nAcross traditions, monastics avoid harm to living beings in the process of obtaining food. This includes restrictions on nighttime eating (to avoid accidental harm to insects), avoidance of raw or unfiltered water in many traditions, and careful inspection of food to ensure it does not contain living organisms. The act of receiving alms (piṇḍapāta or gochari) is ritualized: monastics walk to households without expectation, accept only what is spontaneously offered, and consume food mindfully, often in silence.\n\nDigambara monks traditionally practice stricter forms of alms-taking, often eating only once a day, from a single household, and directly from cupped hands. Śvetāmbara monastics may accept food from multiple households but still follow strict rules regarding purity, timing, and non‑selectivity. Sthānakavāsī and Terāpanth monastics, who do not worship images, emphasize additional layers of simplicity, including avoidance of certain food types considered to involve higher harm.\n\nThese rules are grounded in canonical texts such as the Ācārāṅga Sūtra, Vyavahāra Bhāṣya, and Digambara Ācāra literature (e.g., Kundakunda’s *Samāyāsāra* commentarial traditions). Commentaries highlight that food discipline is not ascetic hardship for its own sake but a method for reducing passions, cultivating equanimity, and minimizing karmic influx. Modern scholarship notes that food rules also serve social functions: they reinforce monastic dependence on lay communities, maintain ethical boundaries, and preserve continuity with ancient mendicant practices.\n\nDespite variations, all Jain traditions agree that monastic food rules are a core expression of renunciation, requiring lifelong vigilance, humility, and compassion toward all forms of life.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Āyāraṃga)",
+      "author": "Traditionally attributed to early Jain canonical redactors",
+      "original_text": "“पाणगहणं न कुर्वे, न खादे रातिं।”",
+      "transliteration": "pāṇagahaṇaṃ na kurve, na khāde rātiṃ",
+      "translation": "“One should not take food with violence, nor eat at night.”",
+      "notes": "Śvetāmbara canonical text (Tier A). This passage reflects the prohibition on nighttime eating and the emphasis on non‑violent acquisition of food."
+    },
+    {
+      "title": "Vyavahāra Bhāṣya (part of the Śvetāmbara Mūla‑sūtras)",
+      "author": "Attributed to Bhadrabāhu (traditional), with later commentarial layers",
+      "original_text": "“अण्णं अण्णदायए भिक्खु भुञ्जिज्जा।”",
+      "transliteration": "aṇṇaṃ aṇṇadāyae bhikkhu bhuñjijjā",
+      "translation": "“A monk should eat only the food that is given without request.”",
+      "notes": "Emphasizes non‑selectivity and the prohibition on asking for specific foods. Often cited in Śvetāmbara monastic training."
+    },
+    {
+      "title": "Mūlācāra (Digambara monastic code)",
+      "author": "Vattakera",
+      "original_text": "“एकभक्तं भक्षयेद्, हस्तेनैव ग्रहणम्।”",
+      "transliteration": "ekabhaktaṃ bhakṣayed, hastenaiva grahaṇam",
+      "translation": "“One should eat only once, taking food solely with the hands.”",
+      "notes": "A foundational Digambara text (Tier A/B). Highlights the practice of single‑meal discipline and hand‑taking of alms."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "“अहिंसा परमो धर्मः।”",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "“Non‑violence is the supreme dharma.”",
+      "notes": "While not a food‑specific rule, this aphorism (Tier A) underpins all monastic dietary restrictions. Commentaries explicitly apply it to food acquisition and consumption."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain monks and nuns follow identical food rules across all sects.",
+      "reality": "Core principles are shared, but Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth traditions differ in details such as number of households visited, use of bowls, and types of permissible food."
+    },
+    {
+      "myth": "Monastic food rules are primarily about extreme austerity.",
+      "reality": "The rules aim at minimizing harm, reducing attachment, and cultivating equanimity. Austerity is secondary to ethical and karmic considerations."
+    },
+    {
+      "myth": "Monastics may request specific foods if they are hungry or weak.",
+      "reality": "Canonical texts consistently prohibit asking for particular items. Food must be accepted only when spontaneously offered, regardless of preference."
+    },
+    {
+      "myth": "Jain monastics avoid certain foods because they are considered ritually impure.",
+      "reality": "Restrictions are based on the degree of harm involved in production (e.g., root vegetables, unfiltered water), not ritual impurity."
+    }
+  ]
+}

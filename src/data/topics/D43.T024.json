@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, forgiveness (*kṣamā*) is both an ethical virtue and a transformative spiritual discipline. It is not merely an interpersonal gesture but a foundational practice that shapes the aspirant’s relationship with all living beings. Jain traditions treat forgiveness as a direct antidote to anger (*krodha*), pride (*māna*), deceit (*māyā*), and greed (*lobha*), the four passions that bind the soul to karma. Because these passions obscure right perception and right knowledge, forgiveness becomes essential for progressing toward liberation.\n\nAcross Jain communities—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—*kṣamā* is taught as a daily discipline. It appears in ritual liturgy, ethical vows, and meditative practices. The annual festival of *Paryuṣaṇa* (Śvetāmbara) or *Daśalakṣaṇa* (Digambara) culminates in *kṣamāpanā*, the formal act of seeking and granting forgiveness. The phrase “*Micchāmi Dukkaḍaṃ*” (Prakrit: “May my faults be forgiven”) expresses the aspirant’s intention to release resentment and cultivate equanimity.\n\nForgiveness in Jainism is not conditional on the other person’s behavior. It is an internal purification practice aimed at reducing karmic inflow (*āsrava*) and promoting nonviolence (*ahiṃsā*). By forgiving, one relinquishes harmful mental states and reorients the mind toward compassion, restraint, and clarity. Traditional commentaries emphasize that forgiveness does not erase accountability or ethical responsibility; rather, it prevents anger and retaliation from generating new karmic bondage.\n\nModern Jain teachers often frame forgiveness as a universal human value that supports conflict resolution, emotional well-being, and social harmony. Yet they maintain continuity with classical sources by grounding these interpretations in the core Jain principles of nonviolence, self-restraint, and liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "क्षमा मार्दवं आर्जवं प्रगल्भता शौचं सत्यं — एते व्रतस्य गुणाः",
+      "transliteration": "kṣamā mārdavaṃ ārjavaṃ pragalbhatā śaucaṃ satyaṃ — ete vratasya guṇāḥ",
+      "translation": "Forgiveness, humility, straightforwardness, gentleness, purity, and truthfulness are qualities that support the vows.",
+      "notes": "Tattvārtha Sūtra 7.11 lists forgiveness as the first of the six essential qualities that strengthen ethical vows. Commentaries (tier B) explain that forgiveness reduces anger, thereby preventing karmic bondage."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Attributed to Śvetāmbara canonical compilers",
+      "original_text": "खमाणं जो खमति सो भणइ भणइ महणो",
+      "transliteration": "khamāṇaṃ jo khamati so bhaṇai bhaṇai mahaṇo",
+      "translation": "One who practices forgiveness is repeatedly called a great person.",
+      "notes": "This passage highlights forgiveness as a defining trait of moral greatness. The text is part of the Śvetāmbara canon and is used in monastic instruction."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical compilers",
+      "original_text": "खमा सव्वजीवाणं, जम्हा नत्थि असो अहिंसा",
+      "transliteration": "khamā savvajīvāṇaṃ, jamhā natthi aso ahiṃsā",
+      "translation": "Forgiveness toward all living beings—without it, there is no nonviolence.",
+      "notes": "This verse links forgiveness directly to nonviolence, emphasizing its centrality in Jain ethics."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Kundakunda lineage; compiled by Puṣpadanta and Bhūtabali",
+      "original_text": "मोहक्षयाद् क्षमा",
+      "transliteration": "mohakṣayād kṣamā",
+      "translation": "Forgiveness arises from the reduction of delusion.",
+      "notes": "Although terse, this doctrinal statement (tier A) is elaborated in Digambara commentaries: forgiveness is a sign of decreasing passions and increasing right vision."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Forgiveness in Jainism means excusing harmful actions or avoiding accountability.",
+      "reality": "Classical texts distinguish internal forgiveness from external responsibility. One may forgive internally to prevent anger and karmic bondage while still addressing harm through ethical and social processes."
+    },
+    {
+      "myth": "Forgiveness requires the other person to apologize first.",
+      "reality": "Jain practice emphasizes unilateral forgiveness. The aspirant forgives to purify their own mental states, independent of the other person’s behavior."
+    },
+    {
+      "myth": "Forgiveness is only a ritual phrase said during Paryuṣaṇa.",
+      "reality": "While *Micchāmi Dukkaḍaṃ* is central to annual observances, Jain texts present forgiveness as a daily discipline integrated into meditation, vows, and interpersonal conduct."
+    }
+  ]
+}

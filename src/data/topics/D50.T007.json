@@ -1,0 +1,39 @@
+{
+  "overview": "In Jain studies, “catalogs” refer to structured lists, inventories, or classificatory systems used to organize scriptures, manuscripts, philosophical categories, monastic rules, cosmological structures, and ritual materials. Cataloging has been central to Jain intellectual culture for more than two millennia. Jain traditions—Śvetāmbara, Digambara, and their sub‑sects—developed sophisticated methods for arranging knowledge, often using numerical groupings (gaṇas), topical clusters, and hierarchical taxonomies. These catalogs serve both practical and pedagogical purposes: they help preserve vast textual corpora, guide memorization, support monastic training, and provide laypeople with accessible summaries of complex doctrines.\n\nHistorically, Jain manuscript libraries (bhandāras) in Gujarat, Rajasthan, Karnataka, and Maharashtra maintained detailed catalogs listing titles, authors, script, material (palm leaf or paper), colophons, and lineage information. These catalogs were essential for safeguarding texts during periods of political instability and for facilitating scholarly exchange. Modern critical editions continue this tradition through descriptive catalogs that document manuscript variants, scribal notes, and provenance.\n\nBeyond manuscripts, Jain philosophical literature frequently employs catalog-like structures to classify reality, karma, ethical vows, cosmology, and spiritual stages. Examples include the seven tattvas (fundamental principles), the fourteen guṇasthānas (stages of spiritual development), the nine padārthas (categories), and the elaborate karmic catalogs found in texts such as the *Tattvārtha Sūtra* and *Ṣaṭkhaṇḍāgama*. These catalogs are not merely lists; they are conceptual frameworks that shape Jain metaphysics and soteriology.\n\nIn contemporary scholarship, catalogs also refer to academic inventories of Jain manuscripts, inscriptions, art collections, and archaeological findings. Institutions such as the Jain Vishva Bharati, L.D. Institute of Indology, and the National Mission for Manuscripts have produced extensive catalogs that support research, conservation, and digitization efforts. Thus, catalogs remain a living tool connecting ancient Jain knowledge systems with modern archival and academic practices.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "तत्त्वार्थसूत्रम् १.१ — सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "tattvārthasūtram 1.1 — samyagdarśanajñānacāritrāṇi mokṣamārgaḥ",
+      "translation": "The path to liberation consists of right faith, right knowledge, and right conduct.",
+      "notes": "The *Tattvārtha Sūtra* is one of the most important Jain philosophical texts. It contains numerous catalog-like structures, including lists of tattvas, types of karma, and cosmological classifications."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama",
+      "author": "Pūjyapāda, Virasena, and Jinasena (commentarial lineage)",
+      "original_text": "Example verse (not full text): ‘कर्मप्रकृतयः’",
+      "transliteration": "karma-prakṛtayaḥ",
+      "translation": "The varieties of karmic substances.",
+      "notes": "The *Ṣaṭkhaṇḍāgama* contains extensive catalogs of karmic categories, subtypes, and operational mechanisms. Only brief phrases are quoted here due to copyright restrictions."
+    },
+    {
+      "title": "Kalpasūtra",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "नन्दीश्वरद्वारकादीनां वर्णनम्",
+      "transliteration": "nandīśvaradvārakādīnāṃ varṇanam",
+      "translation": "A description of Nandīśvara, Dvārakā, and other sacred places.",
+      "notes": "The *Kalpasūtra* includes catalog-like enumerations of sacred sites, monastic rules, and biographical details of tīrthaṅkaras."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Catalogs in Jainism are merely administrative lists of manuscripts.",
+      "reality": "While manuscript catalogs are important, Jain catalogs also include philosophical taxonomies, cosmological structures, ethical classifications, and doctrinal summaries foundational to Jain thought."
+    },
+    {
+      "myth": "Catalogs are modern scholarly tools and did not exist in early Jain traditions.",
+      "reality": "Ancient Jain texts frequently use catalog-like structures—such as the seven tattvas, nine padārthas, and fourteen guṇasthānas—demonstrating that systematic classification has always been central to Jain pedagogy."
+    }
+  ]
+}

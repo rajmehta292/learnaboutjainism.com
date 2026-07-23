@@ -1,0 +1,43 @@
+{
+  "overview": "Sanjnitva (also spelled *Saṃjñitva*, *Saṃjñitva‑guṇa*, or *Saṃjñā*) is a technical term in Jain ontology describing the presence of cognitive signs, instinctual drives, and basic mental dispositions in living beings. It appears primarily in taxonomies of *jīva* (living beings) and is used to distinguish beings that possess instinctual cognition from those that do not. In classical Jain philosophy, every living being is categorized according to several attributes—such as number of senses, capacity for knowledge, and karmic conditions—and *sanjnitva* is one of these attributes.\n\nThe term is most commonly explained as the presence of *saṃjñā*, meaning instinctual motivations such as hunger, fear, sexual impulse, and acquisitive drive. These are not considered rational or ethical faculties but rather pre-reflective tendencies that shape how embodied beings behave. Jain texts classify beings into *saṃjñin* (those possessing instinctual cognition) and *asaṃjñin* (those lacking it). Typically, beings with two or more senses are considered *saṃjñin*, while one-sensed beings (like plants or microorganisms) are *asaṃjñin*.\n\nIn karmic theory, *sanjnitva* is linked to the operation of *saṃjñā‑caritra* (instinctual conduct) and is influenced by specific karmas that obscure higher cognition. It is not a moral category but a descriptive one, helping explain why certain beings exhibit complex behavior while others do not. Commentarial traditions—both Digambara and Śvetāmbara—treat *sanjnitva* as a foundational concept for understanding the gradation of life forms, the evolution of consciousness, and the ethical implications of harming different types of beings.\n\nModern scholarship interprets *sanjnitva* as an early Jain attempt to articulate layers of cognition and behavioral motivation. Although the term is technical, it plays an important role in Jain ethics, especially in discussions of nonviolence, because beings with *sanjnitva* are understood to experience more complex forms of suffering.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 2.13",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "संज्ञिनश्च",
+      "transliteration": "saṃjñinaś ca",
+      "translation": "“And (among living beings) there are those who possess instinctual cognition.”",
+      "notes": "This sutra appears in the section classifying living beings. Traditional commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) explain *saṃjñā* as hunger, fear, sexual impulse, and acquisitive instinct. The sutra distinguishes beings with two or more senses from one-sensed beings."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra 2.13)",
+      "author": "Pūjyapāda",
+      "original_text": "संज्ञा इति भूख्‌त्रासमिथुनालोभाः",
+      "transliteration": "saṃjñā iti bhūk‑trāsa‑mithunā‑lobhāḥ",
+      "translation": "“Instinctual drives are hunger, fear, sexual impulse, and acquisitive desire.”",
+      "notes": "This Digambara commentary provides the canonical list of four *saṃjñās*. It is widely cited in both Digambara and Śvetāmbara traditions."
+    },
+    {
+      "title": "Prameya‑kamala‑mārtaṇḍa (on Tattvārtha Sūtra 2.13)",
+      "author": "Prabhācandra",
+      "original_text": "संज्ञिनो द्वेन्द्रियादयः",
+      "transliteration": "saṃjñino dvendriyādayaḥ",
+      "translation": "“Beings possessing instinctual cognition begin with those having two senses.”",
+      "notes": "This commentary clarifies the taxonomic boundary: one-sensed beings are *asaṃjñin*, while all higher-sensed beings are *saṃjñin*."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sanjnitva refers to advanced rational thought or moral reasoning.",
+      "reality": "In Jain ontology, *sanjnitva* refers to instinctual drives, not rational cognition. It is a pre-reflective behavioral capacity found even in lower life forms with multiple senses."
+    },
+    {
+      "myth": "All living beings possess sanjnitva.",
+      "reality": "Only beings with two or more senses are considered *saṃjñin*. One-sensed beings—such as plants, earth-bodied beings, and microorganisms—are classified as *asaṃjñin*."
+    },
+    {
+      "myth": "Sanjnitva is a moral category determining ethical worth.",
+      "reality": "Sanjnitva is descriptive, not moral. It explains behavioral tendencies and levels of cognition, but Jain ethics emphasizes nonviolence toward all beings regardless of their *saṃjñā* status."
+    }
+  ]
+}

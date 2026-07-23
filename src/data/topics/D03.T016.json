@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, **substance (dravya)** and **mode (paryāya)** form one of the most fundamental ontological frameworks. They explain how reality is both permanent and ever‑changing. A substance is the underlying, enduring entity that possesses inherent qualities (guṇa). A mode is the momentary, changing state or modification of that substance. This dual perspective allows Jain thinkers to reconcile continuity with change without collapsing into either strict eternalism or momentary flux.\n\nJain ontology identifies six fundamental substances: **jīva** (sentient beings), **pudgala** (matter), **dharma** (principle of motion), **adharma** (principle of rest), **ākāśa** (space), and **kāla** (time). Each substance persists through infinite modes. For example, a soul (jīva) is eternal as a substance, yet its knowledge, passions, and karmic conditions shift constantly as modes. Similarly, matter (pudgala) endures as atomic substance but undergoes continuous transformations in color, taste, and form.\n\nModes are not accidental or external; they are intrinsic expressions of the substance’s nature. Every moment, a substance manifests a new mode, making reality dynamic. Yet the substance itself remains unchanged in its essential identity. This relationship is often described through the Jain doctrine of **anekāntavāda**, which emphasizes that reality has multiple aspects: permanence (substance) and change (mode) coexist.\n\nThe distinction also plays a crucial role in karma theory and the progression through **guṇasthānas** (spiritual stages). The soul’s essential nature—pure consciousness—remains constant, but its modes reflect varying degrees of obscuration by karmic matter. Liberation (mokṣa) is achieved when the soul’s modes align fully with its pure substance, free from karmic modifications.\n\nThus, substance and mode form the backbone of Jain metaphysics, shaping its views on cosmology, ethics, liberation, and epistemology. They provide a nuanced model of reality that is both stable and fluid, allowing Jain thinkers to articulate a sophisticated theory of existence and change.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "द्रव्यगुणपर्यायाः सत्",
+      "transliteration": "dravya-guṇa-paryāyāḥ sat",
+      "translation": "“Substance, qualities, and modes constitute reality.”",
+      "notes": "Tattvārtha Sūtra 5.37 is one of the most cited aphorisms for defining the triad of substance, qualities, and modes. Commentaries from both Digambara and Śvetāmbara traditions elaborate that substance is the enduring entity, qualities are its inherent attributes, and modes are its momentary modifications."
+    },
+    {
+      "title": "Pañcāstikāya",
+      "author": "Kundakunda",
+      "original_text": "दव्वं णियं, पयायो पवत्ति",
+      "transliteration": "davvaṃ niyaṃ, payāyo pavatti",
+      "translation": "“Substance is permanent; mode is transitory.”",
+      "notes": "Kundakunda’s Pañcāstikāya emphasizes the dual nature of reality: permanence at the level of substance and change at the level of modes. This text is foundational in Digambara metaphysics."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Nemichandra Siddhānta Chakravartin",
+      "original_text": "दव्वं गुणपरियायसहो",
+      "transliteration": "davvaṃ guṇa-pariyāya-saho",
+      "translation": "“A substance is that which possesses qualities and modes.”",
+      "notes": "Dravyasaṃgraha provides concise definitions of the six substances and explains how their modes manifest. It is widely used in both monastic and lay study contexts."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Substance and mode are completely separate entities.",
+      "reality": "In Jain ontology, substance and mode are inseparable aspects of the same reality. A substance cannot exist without modes, and modes cannot exist without a substance."
+    },
+    {
+      "myth": "Modes are merely illusions or subjective perceptions.",
+      "reality": "Modes are real, objective modifications of substances. They represent genuine change, not illusion, even though the underlying substance remains constant."
+    },
+    {
+      "myth": "Only living beings (jīvas) have modes.",
+      "reality": "All six substances—living and non-living—possess modes. Matter, space, motion, rest, and time all undergo continuous modifications."
+    }
+  ]
+}

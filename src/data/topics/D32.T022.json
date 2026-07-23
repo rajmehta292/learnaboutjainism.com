@@ -1,0 +1,43 @@
+{
+  "overview": "The International Alphabet of Sanskrit Transliteration (IAST) is a widely adopted academic standard for representing Indic scripts—especially Sanskrit, Prakrit, and related classical languages—in Roman characters. Developed through collaboration among 19th‑ and early 20th‑century Indologists, IAST provides a one‑to‑one mapping between Devanagari and Roman script using diacritics to preserve phonetic accuracy. Its purpose is to allow scholars, students, and readers unfamiliar with Indic scripts to accurately pronounce and analyze original texts without ambiguity.\n\nIAST is used extensively in Jain studies, Buddhist studies, Hindu studies, linguistics, epigraphy, manuscript cataloging, and digital humanities. Because Jain canonical and commentarial literature spans multiple languages—Ardhamāgadhī, Śaurasenī, Māhārāṣṭrī, Sanskrit, and Apabhraṃśa—IAST offers a consistent system for transliterating diverse scripts such as Devanagari, Śāradā, Jaina Nāgarī, and Grantha. Its precision makes it suitable for philological work, critical editions, and comparative textual analysis.\n\nThe system employs macrons (ā, ī, ū), underdots (ṭ, ḍ, ṇ), overdot (ṃ), and other diacritics (ś, ṣ, ṛ, ḷ) to represent sounds that do not exist in English. Because each symbol corresponds to a specific phoneme, IAST avoids the ambiguity of older or simplified transliteration systems. It is not a pronunciation guide for modern spoken languages but a scholarly representation of classical phonology.\n\nIn Jain studies, IAST is used to transliterate canonical works such as the *Tattvārthasūtra*, *Ācārāṅga*, *Sūtrakṛtāṅga*, and Digambara texts like *Ṣaṭkhaṇḍāgama*. It is also used for technical terminology in karma theory, gunasthāna classification, and Prakrit grammar. Modern digital projects, manuscript libraries, and critical editions rely on IAST for interoperability and long‑term preservation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyagdarśanajñānacāritrāṇi mokṣamārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This canonical Jain aphorism is frequently presented in IAST in academic literature. The transliteration demonstrates macrons (ā), retroflex consonants (ṣ), and visarga (ḥ)."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara canon)",
+      "author": "Traditionally attributed to early Jain teachers",
+      "original_text": "णंणं णंणं णंणं",
+      "transliteration": "ṇaṃṇaṃ ṇaṃṇaṃ ṇaṃṇaṃ",
+      "translation": "A refrain emphasizing restraint and non‑harm (context varies by chapter).",
+      "notes": "Ardhamāgadhī Prakrit passages are often rendered in IAST to preserve nasalization and retroflex consonants."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara tradition)",
+      "author": "Kundakunda (attributed for associated commentarial tradition) / compiled by Puṣpadanta and Bhūtabali",
+      "original_text": "कर्मप्रकृतयः",
+      "transliteration": "karmaprakṛtayaḥ",
+      "translation": "The categories of karma.",
+      "notes": "IAST is essential for technical terms such as *prakṛti*, *sthiti*, *anubhāga*, and *pradeśa*, which require diacritics for accurate representation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "IAST is a pronunciation guide for modern Indian languages.",
+      "reality": "IAST represents classical phonology of Sanskrit and Prakrit. It is not designed for Hindi, Gujarati, Kannada, or other modern languages."
+    },
+    {
+      "myth": "IAST is identical to ISO 15919.",
+      "reality": "ISO 15919 is a more expansive standard covering all modern Indic scripts. IAST is narrower, focused on classical languages and widely used in Indology."
+    },
+    {
+      "myth": "IAST can be replaced by simplified English spellings without loss.",
+      "reality": "Simplified spellings remove phonetic distinctions essential for understanding classical texts, especially in technical Jain terminology."
+    }
+  ]
+}

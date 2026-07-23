@@ -1,0 +1,27 @@
+{
+  "overview": "In academic and technical contexts, “coverage metrics” refer to quantitative measures used to determine how thoroughly a system, text, dataset, or process has been examined, tested, or represented. Although the term is widely used in fields such as software engineering, data science, linguistics, and manuscript studies, its core purpose remains consistent: to assess the completeness of observation or evaluation.\n\nIn software testing, coverage metrics measure how much of the program’s structure or behavior has been exercised by test cases. Common forms include statement coverage, branch coverage, path coverage, and condition coverage. These metrics help identify untested logic, reduce the likelihood of hidden defects, and guide the creation of more robust test suites.\n\nIn corpus linguistics and manuscript studies—including Jain manuscript cataloging—coverage metrics may refer to the proportion of a text tradition that has been digitized, catalogued, or critically edited. For example, when assessing Jain canonical or commentarial literature, scholars may track how many manuscripts of a given text have been collated, how many folios are preserved, or how much of a linguistic feature has been documented across dialects.\n\nIn data science and machine learning, coverage metrics evaluate how well a dataset represents the full range of conditions or categories relevant to a model. This includes demographic coverage, feature coverage, and scenario coverage. High coverage reduces bias and improves model generalization.\n\nAcross all domains, coverage metrics serve as diagnostic tools. They do not guarantee quality by themselves, but they reveal gaps, guide prioritization, and support transparent reporting. Their interpretation requires domain expertise, especially in fields involving historical texts or ethical considerations.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "ज्ञानावरणीय कर्म क्षयोपशमात् ज्ञानम्",
+      "transliteration": "jñānāvaraṇīya karma kṣayopaśamāt jñānam",
+      "translation": "Knowledge arises through the destruction or subsidence of knowledge-obscuring karma.",
+      "notes": "While the Tattvārtha Sūtra does not discuss modern coverage metrics, this passage is relevant when coverage metrics are applied in Jain studies to evaluate the completeness of knowledge sources—such as manuscript collections or textual variants. The verse highlights the Jain philosophical emphasis on degrees of knowledge, which can inform modern scholarly approaches to assessing completeness or partiality in textual evidence."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Coverage metrics guarantee the quality of a test suite or dataset.",
+      "reality": "Coverage metrics only measure completeness of examination, not correctness or adequacy. High coverage can coexist with poor-quality tests or biased datasets."
+    },
+    {
+      "myth": "Coverage metrics are purely technical and have no relevance to humanities or religious studies.",
+      "reality": "Coverage metrics are widely used in manuscript cataloging, philology, and digital humanities to assess how much of a textual tradition has been preserved, digitized, or critically edited."
+    },
+    {
+      "myth": "Achieving 100% coverage eliminates all errors.",
+      "reality": "Even full structural coverage cannot guarantee the absence of defects or interpretive gaps; it only indicates that all measurable units have been examined."
+    }
+  ]
+}

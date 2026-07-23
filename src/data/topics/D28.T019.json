@@ -1,0 +1,35 @@
+{
+  "overview": "“Bhagavati” is a term with several distinct but related meanings within Jainism, depending on context, sectarian tradition, and textual usage. Most prominently, it refers to the *Bhagavati-sūtra* (also called *Vyākhyāprajñapti*), one of the largest and most detailed canonical texts of the Śvetāmbara tradition. The word itself derives from the Prakrit/Sanskrit root *bhagavat*, meaning “revered,” “holy,” or “possessing auspicious qualities.” In Jain usage, it does not imply a creator deity but instead denotes profound spiritual authority or venerability.\n\nIn the Śvetāmbara Mūrtipūjaka and Sthānakavāsī canons, the *Bhagavati-sūtra* is part of the *Śvetāmbara Āgama* corpus and is classified among the *Upāṅga* texts. It is a dialogical scripture, structured as extensive conversations between Mahāvīra and his chief disciple Gautama. These dialogues explore metaphysics, cosmology, karma theory, epistemology, and the conduct of ascetics and laypeople. The text is notable for its question–answer format, its detailed case analyses, and its systematic treatment of doctrinal categories.\n\nIn Digambara traditions, the term “Bhagavati” is not used to denote a canonical scripture, since the Digambara canon differs significantly. However, Digambara scholastic literature occasionally references the *Vyākhyāprajñapti* as a Śvetāmbara source when engaging in comparative doctrinal discussions. Thus, “Bhagavati” remains relevant in cross-sectarian scholarship even though it is not part of the Digambara canon.\n\nOutside the textual context, “Bhagavati” may also appear as an honorific applied to revered female figures in Jain narratives, such as the mothers of Tīrthaṅkaras or spiritually advanced women. In these cases, the term conveys respect and spiritual dignity rather than divine status.\n\nOverall, “Bhagavati” is most accurately understood as a key Śvetāmbara canonical text and a term of reverence within Jain tradition, with its meaning shaped by context, sect, and genre.",
+  "primary_sources": [
+    {
+      "title": "Vyākhyāprajñapti / Bhagavati-sūtra",
+      "author": "Attributed to the Śvetāmbara canonical redactors; teachings of Mahāvīra as transmitted by Gautama",
+      "original_text": "Example (Jain Śaurasenī Prakrit): “Bhagavā Mahāvīro evam āha.”",
+      "transliteration": "Bhagavā Mahāvīro evam āha.",
+      "translation": "“The Revered Mahāvīra spoke thus.”",
+      "notes": "This formulaic line appears throughout the *Bhagavati-sūtra* to introduce Mahāvīra’s discourse. The text is part of the Śvetāmbara *Upāṅga* canon and contains extensive dialogues on karma, cosmology, and ethical conduct. Editions vary, and modern critical scholarship notes differences between manuscript lineages."
+    },
+    {
+      "title": "Niryukti and Cūrṇi traditions (commentarial references)",
+      "author": "Traditional Śvetāmbara commentators such as Bhadrabāhu (attributed), later anonymous cūrṇi authors",
+      "original_text": "Example (Prakrit): “Bhagavadiṁ āhaṇeṇa viyākhiyaṁti.”",
+      "transliteration": "Bhagavadiṁ āhaṇeṇa viyākhiyaṁti.",
+      "translation": "“They explain it through the utterances of the Bhagavati.”",
+      "notes": "Commentarial literature frequently cites the *Bhagavati-sūtra* as an authoritative source for doctrinal clarification. Attribution of early niryuktis is historically complex and debated in scholarship."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Bhagavati-sūtra is a devotional text praising Mahāvīra as a god.",
+      "reality": "The text is a doctrinal and analytical scripture. Although Mahāvīra is addressed as “Bhagavā,” the term denotes spiritual authority, not divine creation or worship."
+    },
+    {
+      "myth": "All Jain sects accept the Bhagavati-sūtra as canonical.",
+      "reality": "Only Śvetāmbara traditions include it in their canon. Digambara traditions do not recognize it as scripture, though they may reference it in comparative studies."
+    },
+    {
+      "myth": "The term “Bhagavati” always refers to the scripture.",
+      "reality": "In narrative contexts, “Bhagavati” can be an honorific for revered women, such as Tīrthaṅkara mothers, without implying textual reference."
+    }
+  ]
+}

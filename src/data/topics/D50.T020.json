@@ -1,0 +1,39 @@
+{
+  "overview": "OCLC, Inc. (originally the Ohio College Library Center and later the Online Computer Library Center) is a nonprofit, membership-based library cooperative headquartered in Dublin, Ohio, United States. Founded in 1967 by librarian Fred Kilgour, its initial mission was to create a shared cataloging system for academic libraries in Ohio, enabling them to reduce duplication of effort and improve access to bibliographic records. Over time, OCLC expanded beyond Ohio and beyond higher education, becoming a global cooperative that now includes tens of thousands of libraries of many types—academic, public, national, corporate, museum, and special libraries—in more than one hundred countries.\n\nAt the heart of OCLC’s work is WorldCat, the world’s largest bibliographic database of library holdings. WorldCat aggregates catalog records contributed and maintained cooperatively by member institutions, describing books, journals, audiovisual materials, digital resources, archival collections, and many other formats. This shared metadata allows libraries to identify, catalog, and provide access to materials more efficiently, and it underpins services such as interlibrary loan, discovery tools, and collection management. WorldCat began in the early 1970s as the OCLC Online Union Catalog and has grown into a massive, continually updated resource that reflects the collections and contributions of libraries worldwide.\n\nBeyond WorldCat, OCLC offers a wide range of technology services and products that support library operations and user services. These include cataloging and metadata management tools, integrated library systems and library services platforms, resource sharing and interlibrary loan systems, authentication and access management tools, and digital collection management platforms. OCLC also manages and licenses the Dewey Decimal Classification system, one of the most widely used library classification schemes. Many of these services are delivered through cloud-based platforms that enable libraries to collaborate, share data, and streamline workflows.\n\nOCLC is structured as a nonprofit cooperative, meaning that its member libraries both use its services and help shape its direction. Membership provides access to shared technology, participation in governance, and the ability to contribute to and benefit from the collective data resources. The cooperative model emphasizes collaboration, standardization, and shared stewardship of bibliographic and institutional data. OCLC also engages in original research on topics such as library usage, information behavior, metadata standards, and the evolving role of libraries in the digital age, publishing reports and studies that inform both practice and policy.\n\nHistorically, OCLC has played a central role in the transition of libraries from card catalogs to online catalogs, from local systems to networked and cloud-based infrastructures, and from print-dominated collections to hybrid and digital environments. Its services have helped libraries coordinate cataloging practices, adopt international standards, and participate in global resource sharing networks. At the same time, OCLC has had to navigate complex issues around data ownership, licensing, interoperability, and openness, as libraries and other stakeholders debate how best to manage and share bibliographic data.\n\nToday, OCLC continues to evolve in response to changes in technology, publishing, and user expectations. It works with libraries, archives, museums, publishers, and vendors to improve discovery and access to information resources, support collaborative collection development, and enhance the visibility of library holdings on the open web. Through WorldCat and its suite of services, OCLC remains a key infrastructure provider for the global library community, facilitating cooperation, standardization, and innovation in how knowledge is described, organized, and made available.",
+  "primary_sources": [
+    {
+      "title": "OCLC founding documents and early reports",
+      "author": "Fred Kilgour and Ohio College Library Center staff",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "These internal reports and planning documents from the late 1960s and early 1970s outline the original vision for a shared cataloging system among Ohio college libraries, describing the goals of reducing cataloging costs, improving access to bibliographic records, and building an online union catalog.",
+      "notes": "Primary historical information about OCLC’s origins comes from organizational records, early technical documentation, and reports authored by Fred Kilgour and colleagues. These are typically preserved in OCLC’s archives and in partner institutions such as Ohio University, rather than in Prakrit or Sanskrit textual traditions."
+    },
+    {
+      "title": "WorldCat system documentation",
+      "author": "OCLC technical and metadata teams",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Technical manuals and standards documents describe the structure of WorldCat, cataloging rules, metadata formats, and cooperative data management practices. They explain how bibliographic records are created, maintained, and shared among member libraries.",
+      "notes": "These documents function as primary sources for understanding how WorldCat operates and how OCLC implements cataloging standards such as MARC formats and various cataloging codes. They are regularly updated to reflect changes in standards and technology."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "OCLC is a government agency that directly controls all libraries.",
+      "reality": "OCLC is a nonprofit, membership-based cooperative, not a government body. Libraries choose to join and use its services; they retain their own governance, policies, and autonomy. OCLC provides shared infrastructure and data services, but it does not own or control individual libraries."
+    },
+    {
+      "myth": "WorldCat is just a single library catalog for one institution.",
+      "reality": "WorldCat is a global union catalog that aggregates bibliographic records and holdings from tens of thousands of libraries around the world. It is not limited to one institution; instead, it reflects the combined collections and contributions of many different libraries, archives, and related organizations."
+    },
+    {
+      "myth": "OCLC only serves large academic libraries and has no role for small or public libraries.",
+      "reality": "OCLC’s membership includes a wide variety of institutions, from small rural public libraries and specialized collections to major research universities and national libraries. Its cooperative model is designed so that libraries of all sizes and types can contribute data, share resources, and benefit from shared technology services."
+    },
+    {
+      "myth": "Using OCLC services means libraries lose ownership of their bibliographic data.",
+      "reality": "Libraries that participate in OCLC contribute metadata to shared systems like WorldCat under specific agreements, but they do not lose ownership of their local records or collections. OCLC’s role is to manage and provide infrastructure for shared data, while libraries maintain control over their own catalogs, policies, and local implementations."
+    }
+  ]
+}

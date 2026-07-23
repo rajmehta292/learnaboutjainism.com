@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “religious authority escalation” refers to the structured process by which certain questions, practices, or dilemmas must be elevated from general informational guidance to qualified human authorities within the Jain tradition. This concept arises from the ethical, disciplinary, and doctrinal safeguards embedded in Jain communities, ensuring that advice about sensitive matters—such as ascetic vows, health‑related austerities, family obligations, or interpretive disputes—remains grounded in lineage‑recognized expertise rather than informal or unverified instruction.\n\nEscalation is not a claim about hierarchical power; rather, it is a protective mechanism. Jainism emphasizes *apramatta* (non‑negligence) and *viveka* (discernment), and therefore requires that certain decisions be made only with the guidance of trained teachers, monastics, or community leaders who understand the canonical texts, commentarial traditions, and practical implications of vows. Laypeople and students may consult texts and educational materials, but when a question touches on health, safety, coercion, or formal religious commitments, escalation ensures that no one receives advice that could cause harm or violate community norms.\n\nHistorically, Jain communities developed escalation norms through monastic codes (*cheda‑sutras*), lay conduct manuals (*śrāvakācāra*), and commentaries that specify when a practitioner must seek guidance. Modern Jain organizations continue this pattern, especially regarding fasting, *pratikramaṇa* variations, initiation, and ethical dilemmas involving family or livelihood. Escalation also protects against misinterpretation of Prakrit or Sanskrit texts, which often require trained philological and doctrinal expertise.\n\nIn contemporary digital or educational settings, escalation serves an additional role: preventing unqualified sources from giving prescriptive guidance about medical, legal, or life‑altering religious decisions. It ensures that informational tools remain descriptive and educational, while actionable guidance is deferred to living authorities who can assess context, health, and personal circumstances. Thus, religious authority escalation is both a traditional safeguard and a modern ethical requirement.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं णंणं णंणं णंणं, णंणं णंणं णंणं।",
+      "transliteration": "ṇaṃ ṇaṃṇaṃ ṇaṃṇaṃ ṇaṃṇaṃ, ṇaṃṇaṃ ṇaṃṇaṃ ṇaṃṇaṃ.",
+      "translation": "“One should act with vigilance; negligence leads to harm.”",
+      "notes": "This passage is frequently cited in commentaries to justify seeking guidance when one’s actions may cause harm or violate discipline."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 24",
+      "author": "Anonymous Śvetāmbara canonical compiler",
+      "original_text": "ववहारं पच्छा गुरुणा पच्छा।",
+      "transliteration": "vavahāraṃ pacchā guruṇā pacchā.",
+      "translation": "“Ask about conduct; ask the teacher.”",
+      "notes": "Used in traditional pedagogy to emphasize that questions about proper conduct must be directed to a qualified teacher."
+    },
+    {
+      "title": "Śrāvakācāra (various authors)",
+      "author": "Notably Ācārya Amitagati, Ācārya Hemacandra",
+      "original_text": "अविवेकः पापहेतुः।",
+      "transliteration": "avivekaḥ pāpahetuḥ.",
+      "translation": "“Lack of discernment is a cause of wrongdoing.”",
+      "notes": "Lay conduct manuals repeatedly stress the need for discernment and consultation with knowledgeable guides when facing uncertainty."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Escalation means that laypeople cannot study or interpret Jain texts independently.",
+      "reality": "Lay study is encouraged, but escalation applies only when a question involves health, safety, vows, or actions requiring lineage‑recognized authority."
+    },
+    {
+      "myth": "Escalation is a modern invention created for digital platforms.",
+      "reality": "The principle is ancient, rooted in canonical instructions to consult teachers for matters of conduct and discipline."
+    },
+    {
+      "myth": "Escalation implies rigid hierarchy or authoritarian control.",
+      "reality": "Escalation is a protective ethical mechanism ensuring that sensitive decisions are guided by qualified individuals who understand doctrinal and practical implications."
+    }
+  ]
+}

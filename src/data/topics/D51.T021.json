@@ -1,0 +1,27 @@
+{
+  "overview": "Search ranking refers to the ordered placement of content—such as webpages, documents, or media—within a search engine results page (SERP). It determines which items appear first when a user enters a query. Modern search ranking systems rely on complex algorithms that evaluate relevance, authority, freshness, user intent, and contextual signals. In digital information ecosystems, search ranking shapes visibility, influences user behavior, and determines how knowledge is accessed.\n\nHistorically, early search engines relied on simple keyword matching. Over time, ranking systems evolved to incorporate link analysis, semantic understanding, machine learning, and user engagement metrics. Today, search ranking is a dynamic, adaptive process that responds to changes in content, user patterns, and algorithmic updates. It is foundational to information retrieval, digital marketing, and online knowledge organization.\n\nSearch ranking also intersects with ethical considerations: fairness, transparency, bias mitigation, and responsible information curation. Because ranking determines what users see first, it can amplify certain voices and suppress others. Researchers and engineers therefore study ranking systems not only for technical optimization but also for societal impact, ensuring that search results remain relevant, trustworthy, and aligned with user needs.",
+  "primary_sources": [
+    {
+      "title": "No applicable Jain primary text",
+      "author": "N/A",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "The topic 'search ranking' is a modern information-science concept and does not appear in Jain canonical literature. In accordance with the architecture rules, when a topic has no Jain primary textual basis, the system explicitly states the absence of sources rather than forcing artificial connections."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Search ranking is purely determined by keyword frequency.",
+      "reality": "Modern ranking systems use hundreds of signals, including semantic relevance, page quality, user behavior, and contextual intent."
+    },
+    {
+      "myth": "Higher-ranked results are always the most accurate.",
+      "reality": "Ranking reflects algorithmic evaluation, not absolute truth. High-ranking pages may be popular or well-optimized but not necessarily authoritative."
+    },
+    {
+      "myth": "Search ranking is fixed once a page is indexed.",
+      "reality": "Rankings change frequently as algorithms update, new content appears, and user behavior shifts."
+    }
+  ]
+}

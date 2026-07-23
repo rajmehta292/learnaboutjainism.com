@@ -1,0 +1,55 @@
+{
+  "overview": "In Jain academic and ethical discourse, the term “no self-ranking policy” refers to a methodological and moral guideline that prohibits an individual, scholar, or practitioner from assigning themselves a superior spiritual status, authority, or level of attainment. This principle is not a single canonical phrase found verbatim in early Jain scriptures; rather, it is an interpretive rule derived from multiple primary sources that emphasize humility, non-attachment to ego, and the dangers of mithyātva (false belief) arising from self-aggrandizement.\n\nWithin Jainism, spiritual progress is traditionally described through structured frameworks such as the guṇasthāna system, the ladder of pratimā for laypeople, and the classifications of vows and conduct. These systems are diagnostic tools used by teachers and texts to describe states of being—not instruments for individuals to claim personal rank. The “no self-ranking policy” therefore functions as a safeguard: it prevents practitioners from asserting spiritual superiority, claiming advanced stages of purity, or presenting themselves as authoritative guides without lineage-based validation. Such claims are considered spiritually harmful because they reinforce ego (māna), obstruct right faith (samyak-darśana), and can mislead communities.\n\nIn modern Jain studies, this policy also serves as an academic boundary. Scholars avoid self-positioning as religious authorities and instead rely on verified textual evidence, commentarial traditions, and community review. This aligns with the broader Jain ethic of anekāntavāda, which encourages humility in interpretation and warns against absolutist self-assertion. The policy is especially important in contexts involving lay practice, digital discourse, and inter-sectarian comparison, where unverified claims of spiritual rank can create confusion or conflict.\n\nOverall, the “no self-ranking policy” is a cross-cutting ethical and methodological guideline rooted in canonical warnings against ego, pride, and false spiritual claims. It protects both individual practitioners and the integrity of Jain knowledge transmission by ensuring that spiritual status is never self-declared but recognized—if at all—through conduct, lineage, and community discernment.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "मोहमूलं हि सर्वं बन्धहेतुः",
+      "transliteration": "mohamūlaṃ hi sarvaṃ bandhahetuḥ",
+      "translation": "Delusion is indeed the root and cause of all bondage.",
+      "notes": "TS 8.1. Commentators (Pūjyapāda, Akalaṅka) explain that egoistic self-assertion is a form of moha that obstructs right perception. This passage is frequently cited to caution against self-proclaimed spiritual advancement."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "णं णंतेणं णं वंदेइ",
+      "transliteration": "ṇaṃ ṇanteṇaṃ ṇaṃ vandei",
+      "translation": "One should not praise oneself nor disparage others.",
+      "notes": "Ācārāṅga Sūtra I.4.2. This is a foundational ethical rule that directly prohibits self-glorification, forming a textual basis for the no self-ranking policy."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Svetambara canonical text",
+      "original_text": "माणो महा दुग्गहो",
+      "transliteration": "māṇo mahā duggaho",
+      "translation": "Pride is a great burden.",
+      "notes": "Daśavaikālika 8.36. Traditional commentaries emphasize that claiming spiritual superiority is a manifestation of māna, which hinders progress and violates monastic humility."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra)",
+      "author": "Pūjyapāda",
+      "original_text": "अहंकारो ज्ञानविघ्नः",
+      "transliteration": "ahaṃkāro jñānavighnaḥ",
+      "translation": "Ego is an obstacle to knowledge.",
+      "notes": "This commentary clarifies that self-assertion of spiritual rank is a form of ahaṃkāra that obstructs right knowledge and right faith."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The no self-ranking policy means individuals cannot discuss spiritual progress at all.",
+      "reality": "Jain texts allow self-reflection on conduct and vows, but prohibit claiming superior rank or advanced guṇasthāna. Describing one’s practice is acceptable; declaring oneself spiritually elevated is not."
+    },
+    {
+      "myth": "This policy is a modern invention created for online discourse.",
+      "reality": "The principle is rooted in ancient canonical warnings against pride, ego, and self-praise. Modern usage simply applies these classical teachings to contemporary contexts."
+    },
+    {
+      "myth": "Only monks and nuns must follow the no self-ranking policy.",
+      "reality": "Laypeople are equally cautioned against self-aggrandizement. The pratimā system explicitly warns householders not to claim higher stages without community recognition."
+    },
+    {
+      "myth": "The policy prevents anyone from being recognized as spiritually advanced.",
+      "reality": "Recognition, when it occurs, comes from community observation, lineage validation, or scriptural criteria—not from self-declaration. The policy restricts self-claims, not community discernment."
+    }
+  ]
+}

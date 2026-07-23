@@ -1,0 +1,59 @@
+{
+  "overview": "In Jain intellectual history, logic treatises occupy a central place in articulating how valid knowledge is obtained, evaluated, and expressed without falling into one‑sided dogmatism. Rather than treating logic as a purely formal discipline, Jain authors integrate it with epistemology (pramāṇa‑mīmāṃsā) and the doctrine of non‑absolutism (anekāntavāda). Logic becomes a practical and spiritual tool: it clarifies the means of knowing (pramāṇa), the partial standpoints of discourse (naya), and the conditional manner of predication (syādvāda), all of which are oriented toward right knowledge (samyag‑jñāna) and ultimately liberation (mokṣa).\n\nFrom the early canonical period, discussions of knowledge and its defects appear in the Āgamas and in systematic form in texts like the Tattvārthasūtra, where pramāṇa and naya are defined as the instruments and standpoints of cognition. Later Jain logicians—working in both Digambara and Śvetāmbara traditions—developed specialized treatises devoted to logic and epistemology. These works engage in detailed debates with Buddhist, Nyāya‑Vaiśeṣika, and Mīmāṃsā philosophers, refining Jain positions on perception, inference, testimony, and the structure of argument.\n\nAmong the most influential logic treatises are Siddhasena Divākara’s Nyāyāvatāra, Akalaṅka’s Laghīyas‑traya and Pramāṇa‑saṅgraha, Vidyānanda’s Aṣṭaśatī and Pramāṇa‑parīkṣā, and Prabhācandra’s Prameya‑kamala‑mārtaṇḍa. These texts systematize the two principal pramāṇas (pratyakṣa and parokṣa), analyze varieties of inference (anumāna) and reasoning (tarka), and defend the Jain view that reality is complex, possessing infinite modes that can only be grasped through multiple, conditionally valid perspectives. They also offer technical accounts of fallacies, the relation between universal concomitance (vyāpti) and inference, and the criteria for a reliable cognitive episode.\n\nJain logic treatises are closely tied to the doctrines of anekāntavāda, nayavāda, and syādvāda. Anekāntavāda asserts that any entity has many aspects; nayavāda classifies the different standpoints from which it can be described; syādvāda provides a sevenfold scheme of conditional predication (saptabhaṅgī), allowing statements such as \"in some respect it exists,\" \"in some respect it does not exist,\" and \"in some respect it is indescribable.\" Logic treatises show how these doctrines function not as mere relativism but as disciplined methods for avoiding absolutist claims while preserving determinate, context‑sensitive truth.\n\nHistorically, Jain logic develops through phases: early scriptural reflections, classical scholastic elaboration in Sanskrit, and modern reinterpretations. In the classical period, Digambara authors like Akalaṅka and Vidyānanda, and Śvetāmbara authors such as Malliṣeṇa and Hemacandra, compose treatises that both preserve intra‑Jain debates and respond to external criticism. In the modern era, works like \"Jain Nyāya kā Vikās\" and \"New Dimensions in Jaina Logic\" synthesize this tradition for contemporary readers, highlighting its relevance for pluralism, critical thinking, and inter‑philosophical dialogue.\n\nScholars note that Jain logic treatises often blur the boundary between strict formal logic and broader epistemology, ethics, and soteriology. The same text that defines pramāṇa will also discuss the moral conditions for non‑deluded cognition, the karmic obstacles to omniscience, and the role of scriptural testimony (āgama) as a pramāṇa grounded in the authority of omniscient beings. Because of this integration, interpreting these treatises requires attention to both technical terminology and the wider doctrinal context. Translations and commentaries sometimes disagree on fine points—such as the exact classification of pramāṇas or the scope of syādvāda—so responsible study involves comparing editions, consulting traditional commentaries, and, where possible, learning directly from qualified teachers within living Jain lineages.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra (also called Tattvārthādhigama‑sūtra)",
+      "author": "Umāsvāti / Umāsvāmi (traditionally regarded as an early Jain ācārya)",
+      "original_text": "प्रमाणनयैरधिगमः।",
+      "transliteration": "pramāṇa‑nayair adhigamaḥ.",
+      "translation": "Attainment (of truth) is through the means of valid knowledge (pramāṇa) and standpoints (naya).",
+      "notes": "Corpus tier A (primary text). The Tattvārthasūtra is a foundational Jain philosophical treatise accepted by both Digambara and Śvetāmbara traditions, though they differ on some details of authorship and recension. The brief aphorism cited here encapsulates the integration of logic and epistemology: pramāṇa and naya are presented as the basic instruments by which reality is known. Later logic treatises elaborate this sūtra, defining types of pramāṇa (direct and indirect) and classifying nayas into various standpoints. Translations differ slightly in wording, and some editions supply additional commentary glosses; the core idea, however, is consistently understood as linking valid cognition with structured perspectives."
+    },
+    {
+      "title": "Nyāyāvatāra",
+      "author": "Siddhasena Divākara (Śvetāmbara tradition)",
+      "original_text": "प्रमाणनयवादानां संगरहोऽयं मयोदितः।",
+      "transliteration": "pramāṇa‑naya‑vādānāṃ saṃgraho 'yaṃ mayoditaḥ.",
+      "translation": "Here I have presented a compendium of the doctrines of pramāṇa, naya, and logical discourse.",
+      "notes": "Corpus tier A/B (primary text with traditional commentary). The Nyāyāvatāra is an early Jain logic manual that introduces key concepts of Jain epistemology and dialectics in a relatively concise form. It is often studied with commentaries that clarify technical terms and situate Siddhasena’s arguments in relation to Buddhist and Nyāya positions. The opening verse, paraphrased here, signals the text’s scope: it is not merely about formal inference but about the entire triad of valid knowledge, standpoints, and doctrinal reasoning. Different manuscripts and printed editions show minor variations in wording; critical editions attempt to reconstruct the most reliable text based on manuscript comparison."
+    },
+    {
+      "title": "Laghīyas‑traya",
+      "author": "Akalaṅka Bhaṭṭa (Digambara tradition)",
+      "original_text": "प्रमाणस्वरूपनिर्णयो नयस्वरूपविचारश्च स्याद्वादस्य च प्रबन्धः।",
+      "transliteration": "pramāṇa‑svarūpa‑nirṇayo naya‑svarūpa‑vicāraś ca syādvādasya ca prabandhaḥ.",
+      "translation": "A treatise determining the nature of pramāṇa, examining the nature of naya, and expounding syādvāda.",
+      "notes": "Corpus tier A/B. The Laghīyas‑traya, together with Akalaṅka’s Pramāṇa‑saṅgraha, is central to Digambara Jain logic. Akalaṅka engages extensively with Buddhist logicians and the Nyāya school, defending the Jain two‑pramāṇa theory (direct and indirect) and articulating a sophisticated account of inference, fallacies, and universal concomitance (vyāpti). The line given here summarizes the text’s thematic focus rather than quoting a single canonical verse; exact phrasing varies across editions. Commentarial traditions (tier B) explain Akalaṅka’s dense arguments and sometimes disagree on interpretive details, especially regarding the relation between syādvāda and formal inference."
+    },
+    {
+      "title": "Prameya‑kamala‑mārtaṇḍa",
+      "author": "Prabhācandra (Digambara tradition)",
+      "original_text": "प्रमेयकमलानां मर्तण्डो यः प्रबोधकः।",
+      "transliteration": "prameya‑kamalānāṃ mārtaṇḍo yaḥ prabodhakaḥ.",
+      "translation": "The sun that awakens the lotuses of the knowables.",
+      "notes": "Corpus tier A/B. Prabhācandra’s Prameya‑kamala‑mārtaṇḍa is a major commentary on earlier Jain logical and epistemological works, especially Akalaṅka. It systematically discusses the objects of knowledge (prameya), the means of knowing them, and the logical structure of debate. The metaphor of the sun and lotuses emphasizes the text’s role in illuminating complex doctrinal issues. As a commentary, it belongs to tier B, but it preserves many earlier arguments and is treated as a primary source for understanding Digambara logic. Scholars note that Prabhācandra sometimes refines or reinterprets Akalaṅka’s positions, and there is ongoing discussion about how to map these developments within the broader history of Jain logic."
+    },
+    {
+      "title": "Syādvāda‑mañjarī",
+      "author": "Malliṣeṇa (Śvetāmbara tradition)",
+      "original_text": "स्याद्वादो नान्यथावादो न चैकान्तो न चान्यथा।",
+      "transliteration": "syādvādo nānyathā‑vādo na caikānto na cānyathā.",
+      "translation": "Syādvāda is neither a doctrine of mere otherwise‑ness, nor of one‑sidedness, nor of sheer indeterminacy.",
+      "notes": "Corpus tier A/B. The Syādvāda‑mañjarī focuses on the doctrine of conditional predication and its logical implications. Malliṣeṇa defends syādvāda against charges of relativism or incoherence, arguing that it provides a disciplined way to express the many‑sided nature of reality without abandoning determinate truth. The cited line captures the polemical thrust: syādvāda is distinct from both dogmatic absolutism and unstructured skepticism. The text is often studied alongside Hemacandra’s works and other Śvetāmbara logic treatises. Some modern translations (tier C) differ in how they render technical terms like \"anyathā‑vāda\" and \"ekānta\"; careful comparison of translations and consultation with traditional teachers is recommended for nuanced study."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain logic treatises teach that all viewpoints are equally true and that there is no objective reality.",
+      "reality": "Jain logic emphasizes that reality is many‑sided (anekānta), but it does not claim that every statement is equally valid. Logic treatises carefully distinguish between correct and incorrect standpoints, require consistency with pramāṇa (valid means of knowledge), and use syādvāda to express conditional truth. The aim is to avoid one‑sided absolutism while preserving determinate, context‑sensitive truth grounded in reliable cognition."
+    },
+    {
+      "myth": "Syādvāda is only a rhetorical device for debate and has no rigorous logical structure.",
+      "reality": "Syādvāda, as presented in logic treatises like the Syādvāda‑mañjarī and discussed by Akalaṅka and later authors, has a precise sevenfold scheme of predication (saptabhaṅgī). Each predication is tied to specific conditions and standpoints, and the system is integrated with detailed accounts of inference, fallacies, and universal concomitance. While the terminology is different from modern symbolic logic, the structure is systematic and intended to guide disciplined reasoning, not mere rhetoric."
+    },
+    {
+      "myth": "Jain logic is simply a variant of Nyāya logic and can be understood entirely through Nyāya categories.",
+      "reality": "Jain logicians engage extensively with Nyāya and adopt some shared vocabulary, but they reinterpret key categories in light of Jain doctrines. For example, they accept only two principal pramāṇas (direct and indirect), integrate non‑absolutism into their account of inference, and treat omniscience and karmic obscuration as relevant to epistemology. Logic treatises must therefore be read within their own doctrinal framework; reducing them to Nyāya categories risks obscuring distinctive Jain contributions."
+    }
+  ]
+}

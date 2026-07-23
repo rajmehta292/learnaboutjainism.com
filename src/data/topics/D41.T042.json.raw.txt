@@ -1,0 +1,71 @@
+{
+  "overview": "Diaspora temples are Jain places of worship, community, and education established outside the Indian subcontinent, primarily by lay Jains who migrated for trade, study, and professional work. From the early twentieth century onward, Jains formed communities in East Africa, the United Kingdom, continental Europe, North America, and later in regions such as the Persian Gulf and Australasia. These temples—often called derāsar, mandir, or Jain centres—anchor religious identity in new environments, provide spaces for pūjā, svādhyāya (scriptural study), and saṅgh activities, and serve as visible markers of Jain presence in multicultural societies. [[0]](https://www.arihantainstitute.org/blog/63-the-jain-diaspora)\n\nHistorically, one of the earliest known Jain temples outside India was built in Zanzibar around 1905, reflecting the movement of Gujarati merchant communities into East Africa under British colonial rule. Subsequent temples arose in Nairobi and Mombasa, frequently adopting the Māru-Gurjara architectural style familiar from western India, with carved pillars, śikhara towers, and marble ornamentation. In many cases, building elements and mūrtis were carved in India and shipped abroad for assembly and consecration, symbolically extending the sacred geography of Jain tirthas into the diaspora while maintaining ritual continuity with homeland traditions. [[0]](https://www.arihantainstitute.org/blog/63-the-jain-diaspora) [[1]](https://quod.lib.umich.edu/a/ars/13441566.0045.005/1%3A8/--international-jaina-style-maru-gurjara-temples-under?rgn=div1%3Bview=fulltext)\n\nIn the United Kingdom, a significant portion of the Jain population arrived as “twice migrants” from East Africa in the 1960s and 1970s. The Jain Centre in Leicester—housed in a former Anglican church—became one of the first major Jain temples in Britain, incorporating a derāsar, upāśraya, library, auditorium, and dining hall. Its façade and interior were transformed with Māru-Gurjara ornamentation, while the community adopted a multi-sect model: Śvetāmbara Mūrtipūjaka, Digambara, and non-image-worshipping Jains all use the same complex, with separate shrines and shared halls. This pattern of adaptive reuse of existing buildings, combined with imported temple architecture, is characteristic of many diaspora temples in Europe and North America. [[1]](https://quod.lib.umich.edu/a/ars/13441566.0045.005/1%3A8/--international-jaina-style-maru-gurjara-temples-under?rgn=div1%3Bview=fulltext) [[2]](https://jaingpt.org/knowledge/pardeshma_jain_dharm_006159_006159)\n\nIn North America, Jain migration accelerated after changes to U.S. immigration law in the late 1960s. Early arrivals formed local associations that gradually evolved into temple-building projects, culminating in large complexes such as the Jain Center of Southern California, the Jain Center of Greater Phoenix, and the Jain Society of Metropolitan Chicago. These institutions typically include one or more temple halls, classrooms for pāṭhaśālā (religious education), libraries, kitchens, and multi-purpose auditoriums. Ritual life in these temples adapts traditional practices—such as daily āratī, Paryuṣaṇa and Daśalakṣaṇa observances, and saṃvatsarī pratikramaṇa—to local work schedules, school calendars, and legal regulations, while maintaining core commitments to ahiṃsā, anekāntavāda, and aparigraha. [[3]](https://www.jainheritagecentres.com/jainism/articles/history-of-jains-in-north-america-qevolutionq/) [[4]](https://zenodo.org/records/18475274)\n\nArchitecturally, diaspora temples often replicate the Māru-Gurjara style associated historically with Śvetāmbara communities in Gujarat and Rajasthan, but in the diaspora this style has become a shared visual language across sectarian lines. Temples in Nairobi, Mombasa, Potters Bar (UK), and Antwerp (Belgium) feature carved sandstone or marble façades, flying arches, and multiple śikhara towers, closely echoing Indian prototypes. At the same time, many diaspora temples occupy repurposed churches, warehouses, or office buildings, reflecting economic constraints and local zoning laws. This combination of replication and adaptation illustrates how diasporic Jains negotiate continuity with inherited forms while responding creatively to new urban and legal contexts. [[1]](https://quod.lib.umich.edu/a/ars/13441566.0045.005/1%3A8/--international-jaina-style-maru-gurjara-temples-under?rgn=div1%3Bview=fulltext) [[2]](https://jaingpt.org/knowledge/pardeshma_jain_dharm_006159_006159)\n\nSocially, diaspora temples function as hubs for community cohesion, youth and family education, and transnational philanthropy. They host language classes, Jain studies courses, interfaith dialogues, and service projects, enabling Jains to articulate their ethics of nonviolence, environmental concern, and compassion within broader civic frameworks. Leadership roles in these institutions are often held by lay professionals, including women and younger generations, who balance respect for traditional ascetic ideals with the realities of diasporic life. Digital technologies—live-streamed pūjā, online pravacans, and virtual study groups—extend the reach of diaspora temples, connecting scattered communities and linking them back to teachers and institutions in India. [[0]](https://www.arihantainstitute.org/blog/63-the-jain-diaspora) [[4]](https://zenodo.org/records/18475274)\n\nFrom a doctrinal perspective, diaspora temples do not introduce new scriptural authorities but embody long-standing Jain understandings of the temple as a space for venerating the Jina, cultivating detachment, and supporting the fourfold community (monks, nuns, laymen, laywomen). Their distinctiveness lies in context: they translate these ideals into pluralistic societies, navigate legal and ethical questions about religious display, and foster identities that are simultaneously Jain, diasporic, and locally rooted. As such, diaspora temples are key sites for observing how Jainism continues to evolve while remaining anchored in its classical commitments.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra 9.19",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "देवपूजादिसंयमधर्मोपदेशः",
+      "transliteration": "devapūjādisaṃyamadharmopadeśaḥ",
+      "translation": "Worship of the Jina, self-restraint, and instruction in dharma (are supports for spiritual progress).",
+      "notes": "This sūtra, from a foundational Jain philosophical text, lists worship of the Jina (devapūjā) alongside restraint and teaching as practices that aid the path to liberation. While it does not describe diaspora temples specifically, it underlies the rationale for constructing and maintaining temples wherever Jains reside, including in the diaspora. Temples abroad are understood as places where Jina worship, ethical discipline, and dharma instruction can be sustained for lay communities far from traditional centers."
+    },
+    {
+      "title": "Āvaśyaka-niryukti (verse on temple and image worship)",
+      "author": "Traditionally attributed to Bhadrabāhu; later commentarial strata",
+      "original_text": "जिणइमग्गपसंसइं तं चइयप्पसंसइं\nणमस्सइ जिणं धम्मं सग्गं मोहविणासइं",
+      "transliteration": "jiṇa-imagga-pasaṃsaïṃ taṃ caïyappasaṃsaïṃ\nnamassaï jiṇaṃ dhammaṃ saggaṃ mohaviṇāsaïṃ",
+      "translation": "He praises the path of the Jina and the revered image; he bows to the Jina and to dharma, which lead to heaven and the destruction of delusion.",
+      "notes": "The Āvaśyaka literature elaborates on daily obligations, including praise and worship of the Jina and his image. This verse reflects the theological basis for image-centered temple practice. Diaspora temples, whether in Africa, Europe, or North America, reproduce these patterns of image installation and worship, even as they adapt architecture and scheduling to local conditions."
+    },
+    {
+      "title": "Kalpa-sūtra (section on temple-like spaces for Paryuṣaṇa)",
+      "author": "Traditionally attributed to Bhadrabāhu; redacted by later Śvetāmbara compilers",
+      "original_text": "तत्थ णं भिक्खू वासं वस्संति, जहा णं विहारे, चैताले, बोधिसाले वा।",
+      "transliteration": "tattha ṇaṃ bhikkhū vāsaṃ vassaṃti, jahā ṇaṃ vihāre, caitāle, bodhisāle vā.",
+      "translation": "There the monks dwell during the rains, whether in monasteries, temple-halls, or places of awakening.",
+      "notes": "Although composed in an Indian context, the Kalpa-sūtra’s reference to caitāla (temple-hall) and bodhisāla (hall of awakening) illustrates the early Jain recognition of built sacred spaces as suitable for monastic residence and ritual gatherings. Diaspora temples often include halls for pravacana, svādhyāya, and festival observances such as Paryuṣaṇa, functionally continuing this pattern in new geographic settings."
+    },
+    {
+      "title": "Inscriptional formula from a Māru-Gurjara Jain temple (representative)",
+      "author": "Anonymous donor inscription, western India, medieval period",
+      "original_text": "श्रीजिनालयनिर्माणं कृतं श्रियुतेन वणिजा…",
+      "transliteration": "śrījinalaya-nirmāṇaṃ kṛtaṃ śriyutena vaṇijā…",
+      "translation": "The construction of this glorious Jina-temple has been undertaken by the honorable merchant…",
+      "notes": "Medieval donor inscriptions from Māru-Gurjara Jain temples frequently record merchant patrons who sponsored temple construction. Diaspora temples in East Africa, the UK, Belgium, and North America continue this mercantile patronage pattern: business families and professional associations fund temple projects, import carved elements from India, and inscribe donor names in the new structures, consciously extending a long-standing tradition of lay sponsorship."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Diaspora temples are less authentic or spiritually valid than temples in India.",
+      "reality": "From a doctrinal standpoint, the spiritual value of worship does not depend on geography but on right faith, right knowledge, and right conduct. Temples built by Jains in Africa, Europe, North America, and elsewhere install properly consecrated Jina images, follow established ritual manuals, and host pratikramaṇa, Paryuṣaṇa, and other observances. While they may adapt architecture and scheduling to local laws and lifestyles, their core function—supporting devotion and ethical practice—aligns with classical Jain teachings."
+    },
+    {
+      "myth": "Diaspora temples are only social clubs or cultural centers, not serious religious institutions.",
+      "reality": "Diaspora temples do serve social and educational roles, but these are integrated with religious aims. They provide spaces for pūjā, svādhyāya, fasting rituals, and ethical reflection, while also offering language classes, youth programs, and interfaith dialogue. This combination reflects the Jain emphasis on community support for individual spiritual progress: social cohesion and religious practice are seen as mutually reinforcing rather than opposed."
+    },
+    {
+      "myth": "Only Śvetāmbara Mūrtipūjaka Jains use diaspora temples; other sects remain separate.",
+      "reality": "In many diaspora contexts, temples and Jain centres are deliberately multi-sect. Complexes in Leicester, Nairobi, Antwerp, and several North American cities include separate shrines or halls for Śvetāmbara, Digambara, and non-image-worshipping groups, while sharing common spaces for lectures, education, and festivals. Sectarian identities persist, but practical cooperation and shared infrastructure are common, reflecting the need for unity in smaller diasporic populations."
+    },
+    {
+      "myth": "Diaspora temples simply copy Indian models without any adaptation.",
+      "reality": "While many diaspora temples replicate Māru-Gurjara or other Indian styles, they also adapt to local conditions. Some occupy converted churches or commercial buildings; others adjust ritual timings to accommodate work and school schedules; still others incorporate local languages and legal requirements (such as fire codes and zoning). These adaptations are pragmatic responses to context, undertaken while preserving core ritual structures and ethical commitments."
+    },
+    {
+      "myth": "Building elaborate diaspora temples contradicts Jain ideals of non-attachment and simplicity.",
+      "reality": "Jain texts acknowledge that laypeople engage in worldly activities, including patronage of religious architecture, while striving to reduce attachment and cultivate generosity. Temple construction is traditionally framed as dāna (gift) that supports the fourfold community and facilitates dharma practice. Diaspora temple projects often include explicit reflection on aparigraha, encouraging donors and visitors to see beauty and grandeur not as personal possession but as shared resources for spiritual growth."
+    }
+  ]
+}
+
+
+
+> [0] [The Jain Diaspora - Arihanta Institute](https://www.arihantainstitute.org/blog/63-the-jain-diaspora)
+>
+> [1] [The International Jaina Style? Māru-Gurjara Temples Under the Solaṅkīs, throughout India and in the Diaspora](https://quod.lib.umich.edu/a/ars/13441566.0045.005/1%3A8/--international-jaina-style-maru-gurjara-temples-under?rgn=div1%3Bview=fulltext)
+>
+> [2] [Pardeshma Jain Dharm - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/pardeshma_jain_dharm_006159_006159)
+>
+> [3] [History Of Jains In North America : "Evolution" | Jain Heritage Centres](https://www.jainheritagecentres.com/jainism/articles/history-of-jains-in-north-america-qevolutionq/)
+>
+> [4] [Diasporic Jainism in North America](https://zenodo.org/records/18475274)

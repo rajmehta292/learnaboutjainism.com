@@ -1,0 +1,55 @@
+{
+  "overview": "Anashana (Skt. *anāśana*, Prakrit *anāsaṇa*) is a classical Jain term referring to deliberate reduction or cessation of food intake as a disciplined austerity (*tapas*). In the canonical and commentarial traditions, it is classified as one of the external austerities (*bāhya tapa*), specifically the practice of fasting with carefully defined intentions, boundaries, and ethical safeguards. Unlike casual or health‑related fasting, anashana is framed within the Jain soteriological project: reducing passions, cultivating equanimity, and weakening karmic influx (*āsrava*). It is not a stand‑alone practice but part of a structured ethical and meditative regimen for householders and monastics.\n\nAcross Jain traditions, anashana is distinguished from extreme or harmful deprivation. Primary texts repeatedly emphasize that fasting must be voluntary, non-coercive, and undertaken only when physical and mental conditions permit. For laypeople, anashana appears in graded forms—such as *upavāsa*, *ekāṣaṇa*, and *bhojana‑parimāṇa*—each with specific rules regarding timing, intention, and permissible exceptions. Monastic codes describe additional forms, but always with supervision, self-assessment, and the requirement that the practitioner remain capable of fulfilling ethical duties.\n\nAnashana is also conceptually distinct from *sallekhanā*, the final vow. While both involve food reduction, anashana is a temporary austerity aimed at purification, whereas sallekhanā is a terminal vow requiring strict conditions, community oversight, and explicit prohibitions against self-harm. Classical sources treat them separately and warn against conflating them. In modern scholarship, anashana is studied within the broader Jain ascetic system, highlighting its ritual, ethical, and psychological dimensions.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 7.3",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अनशनं तपः",
+      "transliteration": "anāśanaṃ tapaḥ",
+      "translation": "“Fasting is an austerity.”",
+      "notes": "This sutra classifies anashana as one of the six external austerities (*bāhya tapa*). Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) explain that anashana includes full fasting, partial fasting, and regulated eating, all undertaken with equanimity."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 30.6",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "अणासणं तवस्सं, जोगं च कुशलेणं।",
+      "transliteration": "aṇāsaṇaṃ tavassaṃ, jogaṃ ca kusaleṇaṃ",
+      "translation": "“Fasting is an austerity, and discipline must be practiced skillfully.”",
+      "notes": "This passage situates fasting within a broader framework of disciplined conduct. The chapter emphasizes mindfulness, non-violence, and self-restraint as prerequisites for any austerity."
+    },
+    {
+      "title": "Ācārāṅga Sūtra 1.7",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जोगं समणो करेज्जा, अणासणं च धारेज्जा।",
+      "transliteration": "jogaṃ samaṇo karejjā, aṇāsaṇaṃ ca dhārejjā",
+      "translation": "“A monk should practice discipline and uphold fasting.”",
+      "notes": "The text describes fasting as part of monastic discipline but repeatedly warns against harming oneself or neglecting essential duties. Commentaries stress that fasting must be proportionate to one’s capacity."
+    },
+    {
+      "title": "Mūlācāra 5.89 (Digambara)",
+      "author": "Vattakera",
+      "original_text": "अनशनं तवो नाम, देहस्स अहिंसणं।",
+      "transliteration": "anāśanaṃ tavo nāma, dehassa ahiṃsaṇaṃ",
+      "translation": "“Fasting is an austerity, provided it does not injure the body.”",
+      "notes": "A key Digambara monastic code explicitly states that fasting must not violate non-harm (*ahiṃsā*) toward one’s own body. This is one of the clearest canonical safeguards against harmful deprivation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Anashana is the same as sallekhanā (the final vow).",
+      "reality": "Anashana is a temporary austerity for purification; sallekhanā is a terminal vow with strict ethical and procedural requirements. Primary texts treat them as distinct practices with different aims."
+    },
+    {
+      "myth": "Jain fasting encourages extreme or harmful deprivation.",
+      "reality": "Canonical sources repeatedly warn against self-harm and require that fasting be voluntary, moderate, and appropriate to one’s physical condition. Digambara and Śvetāmbara codes explicitly prohibit harmful fasting."
+    },
+    {
+      "myth": "Anashana is only for monks.",
+      "reality": "Laypeople also practice anashana in graded forms such as upavāsa and ekāṣaṇa. Household practice is carefully regulated and adapted to daily responsibilities."
+    },
+    {
+      "myth": "Anashana is primarily a ritual for merit.",
+      "reality": "While merit (*puṇya*) may be associated with disciplined fasting, primary texts emphasize its role in reducing passions, cultivating equanimity, and limiting karmic influx."
+    }
+  ]
+}

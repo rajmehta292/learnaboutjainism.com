@@ -1,0 +1,67 @@
+{
+  "overview": "Raspberry Pi performance refers to how efficiently and quickly different Raspberry Pi single-board computers execute tasks such as running operating systems, applications, media playback, networking, and I/O operations. Performance is shaped by several key hardware components: the system-on-chip (SoC) CPU and GPU, the amount and type of RAM, storage interface (microSD vs PCIe/NVMe), networking capabilities, and power delivery and cooling.\n\nAcross generations, Raspberry Pi boards have seen dramatic performance improvements. The original Raspberry Pi 1 (2012) used a single-core ARM1176 CPU at 700 MHz with 512 MB RAM and basic 100 Mb Ethernet, suitable mainly for simple educational and hobby projects. Later models—Pi 2 and Pi 3—introduced quad‑core CPUs (Cortex‑A7 and Cortex‑A53) and modest clock speed increases, making them capable of light desktop use, basic servers, and more responsive general computing.\n\nThe Raspberry Pi 4 (2019) marked a major leap with a quad‑core Cortex‑A72 CPU at 1.5 GHz, up to 8 GB LPDDR4 RAM, Gigabit Ethernet, USB 3.0, and dual micro‑HDMI outputs supporting up to 4K video. This allowed the Pi 4 to serve as a low‑cost desktop, home server, and media center. Benchmarks show multi‑core performance several times higher than Pi 3, and improved GPU capabilities for video decoding and 3D graphics.\n\nThe Raspberry Pi 5 (2023) further transformed performance with a Broadcom BCM2712 SoC featuring a quad‑core Cortex‑A76 CPU at 2.4 GHz, VideoCore VII GPU, faster LPDDR4X RAM (up to 16 GB), and a PCIe 2.0 x1 connector for high‑speed NVMe SSDs. In synthetic CPU benchmarks such as Sysbench, the Pi 5 can deliver over 600× the single‑core performance of the original Pi 1, making it suitable for AI inference, heavier desktop workloads, and more demanding server tasks. GPU benchmarks (e.g., GLMark2) show more than double the Pi 4’s graphics performance, improving 3D rendering and high‑resolution video playback.\n\nStorage performance has also evolved. Early Raspberry Pi boards relied solely on microSD cards, which limited sequential read/write speeds to roughly 15–40 MB/s depending on card quality. The Pi 4 improved I/O with USB 3.0, enabling external SSDs to reach several hundred MB/s. The Pi 5’s PCIe interface allows NVMe SSDs to achieve hundreds to over a thousand MB/s, dramatically reducing boot times, application load times, and database or container workloads.\n\nNetworking performance has progressed from 100 Mb Ethernet and no Wi‑Fi on Pi 1 to Gigabit Ethernet, dual‑band 802.11ac Wi‑Fi, and Bluetooth 5.0 on Pi 4 and Pi 5. This makes modern Raspberry Pi boards viable for home servers, edge devices, and network‑intensive applications such as media streaming and remote development.\n\nThermal design and power delivery are crucial to sustaining performance. The Pi 4 and especially the Pi 5 can throttle (reduce clock speed) if they overheat or lack sufficient power. Active cooling (fans) or robust passive heatsinks are recommended for continuous high‑load tasks, and the Pi 5 typically requires a 5 V, 5 A USB‑C power supply to maintain stability under heavy workloads. When properly cooled and powered, Raspberry Pi 4 and 5 can maintain near‑peak performance for extended periods.\n\nIn practical terms, choosing a Raspberry Pi model depends on the performance needs of the project. The Pi Zero 2 W offers modest quad‑core performance with very low power consumption, ideal for IoT and embedded applications. The Pi 4 (especially 4 GB or 8 GB variants) provides excellent value for general desktop use, home servers, and media centers. The Pi 5, with its faster CPU, improved GPU, and PCIe storage, is best suited for performance‑critical workloads such as AI inference, containerized services, and 4K media playback, provided adequate cooling and power are supplied.",
+  "primary_sources": [
+    {
+      "title": "Raspberry Pi 5 Product Brief",
+      "author": "Raspberry Pi Ltd.",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The Raspberry Pi 5 is built around a Broadcom BCM2712 SoC, featuring a quad-core 64-bit ARM Cortex-A76 CPU running at 2.4 GHz, a VideoCore VII GPU, and LPDDR4X SDRAM in 2 GB, 4 GB, 8 GB, and 16 GB configurations. It introduces a PCIe 2.0 x1 interface for high-speed peripherals such as NVMe SSDs, and offers dual micro-HDMI ports supporting up to 4Kp60, Gigabit Ethernet, dual-band 802.11ac Wi-Fi, Bluetooth 5.0, and improved I/O via the RP1 southbridge.",
+      "notes": "This official product brief provides baseline specifications for Raspberry Pi 5, which underpin its performance characteristics in CPU, GPU, memory, storage, and connectivity."
+    },
+    {
+      "title": "Raspberry Pi 4 Model B Product Brief",
+      "author": "Raspberry Pi Ltd.",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Raspberry Pi 4 Model B is powered by a Broadcom BCM2711 quad-core Cortex-A72 (ARM v8) 64-bit SoC at 1.5 GHz, with LPDDR4 SDRAM options of 2 GB, 4 GB, and 8 GB. It includes Gigabit Ethernet, dual-band 802.11ac Wi-Fi, Bluetooth 5.0, two USB 3.0 ports, two USB 2.0 ports, and dual micro-HDMI ports supporting up to 4Kp60 video output.",
+      "notes": "The Pi 4 brief establishes the performance baseline for mid-range Raspberry Pi boards, especially in desktop and server use cases."
+    },
+    {
+      "title": "Raspberry Pi Drag Race Benchmark: Pi 1–5 Performance Comparison",
+      "author": "Carlos (UBOS platform article)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Sysbench single-core scores show a progression from 68 points on Raspberry Pi 1 to 41,000 points on Raspberry Pi 5, with multi-core scores rising from 68 to 164,000. GLMark2 GPU benchmarks indicate the VideoCore VII GPU on Pi 5 scoring 2,560 points, more than double the Pi 4’s 1,200 and vastly higher than the Pi 1’s sub-100 score. Storage benchmarks demonstrate sequential read/write speeds improving from around 15 MB/s on Pi 1’s microSD to significantly higher speeds when using USB 3.0 or PCIe-connected NVMe drives on Pi 4 and Pi 5.",
+      "notes": "This community benchmark article aggregates synthetic performance data across Raspberry Pi generations, illustrating the magnitude of CPU, GPU, and storage improvements from Pi 1 to Pi 5."
+    },
+    {
+      "title": "Raspberry Pi Models Comparison 2026: Pi 5, Pi 4 & Zero",
+      "author": "Philipp Schweizer",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The Raspberry Pi 5 is described as offering a two to three times performance increase over the Raspberry Pi 4 in real-world use, thanks to its Cortex-A76 CPU, faster LPDDR4X RAM, and PCIe connector for NVMe SSDs. The article recommends Pi 5 for maximum performance and desktop replacement scenarios, Pi 4 for versatile and cost-effective projects, and Pi Zero 2 W for compact, battery-powered IoT applications.",
+      "notes": "This comparison guide synthesizes specifications and practical experience to map Raspberry Pi performance to typical use cases, helping users choose the right board for their needs."
+    },
+    {
+      "title": "Raspberry Pi Models: Complete Spec and Use Case Guide",
+      "author": "Chuck Wilson",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The guide divides Raspberry Pi models into tiers: Pi Zero 2 W for micro/IoT builds, Pi 4 for mid-range projects, and Pi 5 for flagship performance. It notes that Pi 4 (4 GB) is the best all-around value, while Pi 5 (8 GB) is recommended for NVMe storage builds, AI inference, and workloads that benefit from extra CPU headroom. Earlier models (Pi 1–3) remain usable but are not recommended for new performance-sensitive projects.",
+      "notes": "This source contextualizes performance differences among models and emphasizes how CPU, RAM, and storage options affect real-world workloads."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Raspberry Pi models perform roughly the same, so it doesn’t matter which one you choose.",
+      "reality": "Performance varies dramatically between generations. The Raspberry Pi 5 can be hundreds of times faster than the original Pi 1 in CPU benchmarks and offers far superior GPU, memory bandwidth, storage, and networking capabilities. Choosing the right model is crucial for tasks like desktop computing, AI inference, or high-resolution media playback."
+    },
+    {
+      "myth": "MicroSD card speed is the main performance bottleneck on modern Raspberry Pi boards.",
+      "reality": "While microSD performance affects boot and load times, modern boards like the Pi 4 and Pi 5 offer USB 3.0 and PCIe for SSDs, which greatly reduce storage bottlenecks. For many workloads, CPU, RAM, and thermal throttling are more significant performance constraints than microSD speed when faster storage options are used."
+    },
+    {
+      "myth": "Raspberry Pi boards don’t need cooling and will always run at full speed.",
+      "reality": "Pi 4 and Pi 5 can throttle their CPU and GPU frequencies when they overheat or lack sufficient power. Active cooling or robust passive heatsinks, along with an adequate power supply, are often necessary to sustain maximum performance under continuous high load."
+    },
+    {
+      "myth": "A Raspberry Pi can easily replace any desktop PC for all workloads.",
+      "reality": "Modern Raspberry Pi boards can handle web browsing, coding, office tasks, and light media editing, but they are still limited compared to high-end desktop PCs, especially for heavy 3D gaming, large-scale data processing, or professional video editing. They excel as low-cost, low-power desktops and servers within their performance envelope."
+    },
+    {
+      "myth": "Older Raspberry Pi models like Pi 1 or Pi 2 are still ideal for new performance-intensive projects.",
+      "reality": "Although older models can run current Raspberry Pi OS and handle simple tasks, their single-core or low-clocked CPUs, limited RAM, and slower I/O make them unsuitable for modern performance-intensive workloads. For new projects requiring responsiveness or heavy multitasking, Pi 4 or Pi 5 are far better choices."
+    }
+  ]
+}

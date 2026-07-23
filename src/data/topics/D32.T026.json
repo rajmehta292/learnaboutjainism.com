@@ -1,0 +1,43 @@
+{
+  "overview": "Sanskrit grammar (saṃskṛta-vyākaraṇa) is one of the most sophisticated and influential grammatical traditions in world intellectual history. It developed over many centuries in South Asia and reached its classical form with the work of Pāṇini, whose *Aṣṭādhyāyī* (4th century BCE, approximate traditional dating) systematized the language with extraordinary precision. Sanskrit grammar is not merely a descriptive account of linguistic usage; it is a generative system that defines how valid expressions of Sanskrit can be produced. The tradition combines linguistic analysis, philosophical reflection, and meticulous attention to phonetics.\n\nThe core of Sanskrit grammar rests on several pillars: phonetics (*śikṣā*), morphology (*vyākaraṇa*), semantics (*nirvacana*), and the theory of correct usage (*śabda-śāstra*). Pāṇini’s system uses concise rules (*sūtras*) that rely on meta-rules, technical markers (*anubandhas*), and a highly structured order of operations. Later grammarians such as Kātyāyana and Patañjali expanded and clarified Pāṇini’s work through *vārttikas* (critical notes) and the *Mahābhāṣya* (Great Commentary), forming the authoritative triad of classical Sanskrit grammar.\n\nSanskrit grammar is central to Jain, Buddhist, and Hindu scholastic traditions. Jain scholars, particularly in the Śvetāmbara and Digambara traditions, studied Sanskrit grammar both for scriptural interpretation and for philosophical debate. While Jain canonical texts are primarily in Prakrits such as Ardhamāgadhī, Sanskrit grammar remained essential for commentarial literature, cosmological treatises, and later narrative works. The precision of Sanskrit grammar also influenced Jain Prakrit grammars, which often adopt Pāṇinian concepts.\n\nModern scholarship continues to study Sanskrit grammar for its contributions to linguistics, logic, and computational theory. Pāṇini’s rule-based system has been compared to modern formal grammars and programming languages, demonstrating its enduring relevance.",
+  "primary_sources": [
+    {
+      "title": "Aṣṭādhyāyī",
+      "author": "Pāṇini",
+      "original_text": "वृद्धिरादैच्",
+      "transliteration": "vṛddhir ādaic",
+      "translation": "“The vṛddhi substitution consists of ā, ai, and au.”",
+      "notes": "This is one of the well-known sūtras (Aṣṭādhyāyī 1.1.1). It defines the vṛddhi-grade vowels used in morphological derivation. The Aṣṭādhyāyī is the foundational text of Sanskrit grammar and is considered Tier A in the corpus hierarchy."
+    },
+    {
+      "title": "Mahābhāṣya",
+      "author": "Patañjali",
+      "original_text": "शब्दो हि ब्रह्म",
+      "transliteration": "śabdo hi brahma",
+      "translation": "“Speech (language) is indeed sacred or ultimate.”",
+      "notes": "A famous line from the Mahābhāṣya, emphasizing the philosophical significance of linguistic analysis. The Mahābhāṣya provides extensive commentary on Pāṇini’s sūtras and Kātyāyana’s vārttikas."
+    },
+    {
+      "title": "Vārttikas",
+      "author": "Kātyāyana",
+      "original_text": "लक्षणप्रमाणे सति प्रयोगः",
+      "transliteration": "lakṣaṇa-pramāṇe sati prayogaḥ",
+      "translation": "“Usage is valid when supported by rule.”",
+      "notes": "Kātyāyana’s vārttikas refine and critique Pāṇini’s rules. They form an essential part of the classical grammatical triad."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sanskrit grammar is entirely prescriptive and rigid.",
+      "reality": "While highly systematic, Sanskrit grammar incorporates observed usage (*prayoga*) and allows for variation. Pāṇini’s system is generative, not merely prescriptive."
+    },
+    {
+      "myth": "Sanskrit grammar was created solely for religious texts.",
+      "reality": "Although used extensively in religious literature, Sanskrit grammar developed as a scientific linguistic discipline. It covers poetry, drama, philosophy, and technical sciences."
+    },
+    {
+      "myth": "Pāṇini’s grammar is similar to modern school grammar.",
+      "reality": "Pāṇini’s system is closer to a formal generative grammar, using meta-rules and technical markers. It is far more compact and algorithmic than typical pedagogical grammars."
+    }
+  ]
+}

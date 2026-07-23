@@ -1,0 +1,35 @@
+{
+  "overview": "The term \"Sena-gana\" (Sanskrit/Prakrit: sena-gaṇa) appears in Jain historical and epigraphical contexts as a designation for a specific division or lineage within the broader Jain community. In contrast to major sectarian labels such as Digambara and Śvetāmbara, \"gana\" and \"anvaya\" terms typically mark sub-lineages, monastic groups, or community clusters that are recognized in inscriptions and internal records. \"Sena-gana\" is therefore best understood as a historically attested group identity inside the Jain saṅgha rather than a separate doctrinal sect.\n\nIn epigraphical glossaries, \"Sena-gana\" is explicitly defined as a division of the Jain community, also known by the closely related term \"Sena-anvaya\". The word \"gana\" in Jain usage often refers to a monastic group or a collective of disciples linked to a particular teacher or tradition, while \"anvaya\" emphasizes genealogical or lineage continuity. When combined with \"Sena\", the expression points to a community or lineage associated with the name \"Sena\"—either a founding teacher, a prominent family, or a historically important patron dynasty.\n\nThe appearance of \"Sena-gana\" and \"Sena-anvaya\" in inscriptions is tied to the broader political and social landscape of medieval India. Jain sources and epigraphical records from eastern India, especially Bengal, mention the Sena dynasty, a royal line that followed the Pālas and is described in Jain historical studies as connected with the Karṇāṭa Kṣatriyas. In this context, \"Sena-anvaya\" can denote the family or lineage of the Sena rulers, while epigraphical glossaries note that \"Sena-gana\" functions as a division of the Jain community. This suggests a close interaction between Jain groups and the Sena dynasty, where royal patronage, regional identity, and religious affiliation intersect.\n\nBecause the surviving references are brief and primarily epigraphical, detailed doctrinal or ritual characteristics of the \"Sena-gana\" are not clearly preserved in standard Jain canonical or philosophical texts. The term operates more as a historical and social marker than as a label for a distinct philosophical school. Modern scholarship and glossaries therefore treat \"Sena-gana\" as part of the complex network of Jain lineages and community divisions that can be traced through inscriptions, rather than as a major sect comparable to Digambara or Śvetāmbara. Any attempt to reconstruct its internal practices or teachings must remain cautious and grounded in specific inscriptions and regional histories, ideally under the guidance of specialists in Jain epigraphy and medieval Indian history.",
+  "primary_sources": [
+    {
+      "title": "Indian Epigraphical Glossary (entry: sena-gaṇa)",
+      "author": "D. C. Sircar (editor, commonly associated with the glossary)",
+      "original_text": "sena-gaṇa.— a division of the Jain community; also known as sena-anvaya.",
+      "transliteration": "sena-gaṇa — ekaṃ jaina-samudāyasya vibhāgaḥ; sena-anvaya iti api.",
+      "translation": "“Sena-gana — a division of the Jain community; also known as Sena-anvaya.”",
+      "notes": "This entry, preserved in the Indian Epigraphical Glossary, identifies \"Sena-gana\" explicitly as a division of the Jain community and equates it with \"Sena-anvaya\". The glossary compiles terms found in inscriptions written in Sanskrit, Prakrit, and Dravidian languages, so the definition reflects how the term is used in actual epigraphical records rather than in doctrinal treatises. The brief nature of the entry underscores that the term functions primarily as a historical and social designation, not as a detailed theological category."
+    },
+    {
+      "title": "Deopara Stone Inscription of Vijayasena (Sena dynasty)",
+      "author": "Anonymous royal inscription (attributed to the reign of King Vijayasena)",
+      "original_text": "… sena-anvaye samantasenaḥ …",
+      "transliteration": "… sena-anvaye samantasenaḥ …",
+      "translation": "“… in the Sena lineage (sena-anvaya) was born Samantasena …”",
+      "notes": "The Deopara Stone inscription of King Vijayasena, a ruler of the Sena dynasty in Bengal, refers to the \"Sena-anvaya\" as the lineage in which Samantasena was born. Jain historical studies use this and related inscriptions to illuminate the political history of northern and eastern India and to show how Jain communities interacted with ruling houses. While the inscription itself is primarily royal and genealogical, epigraphical glossaries connect \"Sena-anvaya\" with \"Sena-gana\" as a division of the Jain community, indicating that the same lineage terminology appears both in royal and religious contexts."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sena-gana is a major Jain sect comparable to Digambara or Śvetāmbara, with its own separate canon and doctrines.",
+      "reality": "Available epigraphical evidence defines \"Sena-gana\" as a division or lineage within the Jain community, also known as \"Sena-anvaya\", rather than as a large, doctrinally distinct sect. It functions as a historical and social marker tied to specific lineages and regions, not as a separate canonical tradition."
+    },
+    {
+      "myth": "The word \"Sena\" in Sena-gana indicates a military order of Jains or a warrior monastic group.",
+      "reality": "In the context of Jain epigraphy, \"Sena\" is associated with personal and dynastic names (such as the Sena rulers of Bengal) and with lineage terminology like \"Sena-anvaya\". \"Gana\" and \"anvaya\" refer to community divisions and lineages, not to military organizations. There is no reliable primary evidence that \"Sena-gana\" denotes a martial or warrior monastic order."
+    },
+    {
+      "myth": "All historical references to the Sena dynasty automatically describe a Jain sect called Sena-gana.",
+      "reality": "Royal inscriptions about the Sena dynasty primarily record political and genealogical information. Only when such records are interpreted through epigraphical glossaries and Jain historical studies do we see connections to Jain community divisions like \"Sena-gana\" or \"Sena-anvaya\". Not every mention of the Sena dynasty is a direct reference to a Jain religious group, and the relationship between royal lineages and Jain community divisions must be established case by case from specific sources."
+    }
+  ]
+}

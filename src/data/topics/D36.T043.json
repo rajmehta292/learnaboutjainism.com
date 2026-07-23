@@ -1,0 +1,55 @@
+{
+  "overview": "In Jain literary history, “attributed works” are texts whose authorship is assigned—sometimes confidently, sometimes only conventionally—to particular figures such as Tirthankaras, gaṇadharas, ācāryas, or anonymous “ancient teachers.” Attribution functions both as a marker of authority and as a way of situating a text within a lineage, but it does not always correspond to modern notions of individual authorship. Many Jain works emerge from long processes of oral transmission, redaction, and commentary, so that the name attached to a text may indicate the primary transmitter, the redactor, or simply the tradition in which the work is preserved.\n\nWithin the Śvetāmbara and Digambara canons, the foundational scriptures themselves are often described as originating from the omniscient discourse (divyadhvani) of a Tirthankara, systematized by gaṇadharas into the dvādaśāṅgī. Later councils at places such as Mathurā and Valabhī are remembered as moments when these teachings were written down and organized, yet the individual scribes and redactors are rarely foregrounded. Instead, attribution tends to emphasize the sacred source—Mahāvīra, his gaṇadharas, or the collective saṅgha—rather than a single author. This creates a distinctive Jain pattern: texts are “of” Mahāvīra or “of” the gaṇadharas, even when their present form is the result of centuries of scholastic labor.\n\nOutside the core canon, Jain literature includes philosophical treatises, narrative works, cosmological compendia, and devotional manuals. Here, explicit author names such as Haribhadrasūri, Umāsvāti/Umāsvāmi, Hemacandra, or Śubhacandra are more common, yet even these attributions can be complex. Some texts circulate under multiple names, some are reworked by later authors, and some are transmitted anonymously but later linked to a famous ācārya to signal doctrinal reliability. Debates over the authorship of particular works—such as the Panchasūtra—show how traditional scholars, modern editors, and academic researchers weigh linguistic evidence, stylistic features, colophons, and sectarian histories when deciding whether an attribution is plausible.\n\nIn Digambara traditions, questions of attribution intersect with the idea of a “secondary canon,” comprising works that systematize doctrine, cosmography, and ethics after the loss of the original scriptures. Texts like the Ṣaṭkhaṇḍāgama and Kaṣāyaprābhṛta are attributed to early teachers such as Puṣpadanta and Bhūtabali, yet their preservation depended on later bhaṭṭārakas and monastic lineages. Modern scholarship has also highlighted cases where one author appears to copy or closely adapt another’s work, raising issues of “plagiarism” by contemporary standards but fitting premodern Jain norms of textual reuse and sectarian contestation. In such contexts, attribution can be polemical: attaching a revered name to a text may bolster its authority in debates over doctrine or practice.\n\nFrom a Jain perspective, the ultimate authority of a text does not rest solely on its named author but on its consonance with right doctrine (samyagdarśana, samyagjñāna, samyakcāritra) and its alignment with the teachings of the Jinas. Attributed works are therefore evaluated through multiple lenses: their claimed lineage, their internal content, their language and style, and their reception in monastic and lay communities. Modern editors and historians add further criteria, such as manuscript evidence and comparative philology, which sometimes confirm traditional attributions and sometimes call them into question. The result is a layered understanding of authorship in Jainism, where attribution is both a devotional gesture and a scholarly problem, and where the boundaries between revelation, collective composition, and individual creativity remain fluid.\n\nIn contemporary Jain study, recognizing the complexity of attributed works helps readers avoid simplistic assumptions about textual authority. It invites careful attention to how a text presents itself, how commentaries describe its origin, and how different sects remember its transmission. It also encourages consultation with qualified teachers and scholars when attribution affects practice—for example, when deciding whether a text can be used for ritual recitation, doctrinal instruction, or ethical guidance. Rather than treating attribution as a mere label, Jain traditions and modern researchers alike approach it as a window into the living history of scripture, commentary, and community memory.",
+  "primary_sources": [
+    {
+      "title": "Pañcasūtra (Panchasutra)",
+      "author": "Traditionally: \"Ciraṃtanācārya\"; debated attribution to Haribhadrasūri",
+      "original_text": "समाप्तं पञ्चसूत्रकं व्याख्यानतोऽपि",
+      "transliteration": "samāptaṃ pañcasūtrakaṃ vyākhyānato 'pi",
+      "translation": "The Pañcasūtra is completed, even in its commentary.",
+      "notes": "The Pañcasūtra is a brief but influential Jain text on inner purification and mental discipline, highly valued among ascetics. Traditional colophons and later teachers refer to its author as a \"Ciraṃtanācārya\" (an ancient or timeless teacher), leaving the precise identity unclear. Modern Jain scholars and Indologists have debated whether Haribhadrasūri himself composed the root text or only its commentary, using linguistic analysis (Ardhamāgadhī prose versus Haribhadra’s usual Jaina Māhārāṣṭrī), stylistic features, and manuscript traditions. This makes the Pañcasūtra a paradigmatic example of an attributed work whose authorship remains contested while its spiritual authority is widely acknowledged."
+    },
+    {
+      "title": "Dvādaśāṅgī Āgama (Twelvefold Canon)",
+      "author": "Attributed to Mahāvīra’s gaṇadharas as transmitters of the Jina’s discourse",
+      "original_text": "एवं मे सुतं भगवतो महावीरस्स",
+      "transliteration": "evaṃ me sutaṃ bhagavato mahāvīrassa",
+      "translation": "Thus have I heard from the Blessed Mahāvīra.",
+      "notes": "Śvetāmbara tradition describes the core canon—the twelve Aṅgas—as originating from Mahāvīra’s omniscient teaching (divyadhvani), systematized by his eleven gaṇadharas. Formulae such as \"evaṃ me sutaṃ\" (“thus have I heard”) emphasize transmission rather than individual authorship, presenting the gaṇadharas as faithful conveyors of the Jina’s words. Later councils at Mathurā and Valabhī are remembered as moments when these teachings were written down and organized, but the texts continue to be attributed primarily to the Jina and his immediate disciples, not to the scribes or redactors. This illustrates a form of attribution that privileges sacred origin and lineage over personal authorship."
+    },
+    {
+      "title": "Pāṇḍavapurāṇa (Digambara narrative text)",
+      "author": "Śubhacandra; later closely adapted by Śrībhūṣaṇa",
+      "original_text": "कुन्तुनाथस्य जिनस्य पञ्चकल्याṇकवर्णनम्",
+      "transliteration": "kuntunāthasya jinasya pañca-kalyāṇaka-varṇanam",
+      "translation": "Description of the five auspicious events in the life of the Jina Kunthunātha.",
+      "notes": "The Pāṇḍavapurāṇa is a Sanskrit narrative work recounting the deeds of the Pāṇḍava brothers within a Jain framework, including episodes such as the five kalyāṇakas of the seventeenth Jina, Kunthunātha. Modern research has shown that a seventeenth-century Digambara bhaṭṭāraka, Śrībhūṣaṇa, produced a version of the Pāṇḍavapurāṇa that closely follows an earlier text by Śubhacandra, with near-identical chapter divisions and vocabulary but additional verses and sectarian modifications. This case has been discussed as \"skilful plagiarism\" by some scholars, highlighting how attribution, adaptation, and sectarian rivalry interact in Digambara textual production. The work is thus an important example of how Jain authors reuse and reframe earlier compositions while maintaining or reshaping attributions."
+    },
+    {
+      "title": "Tattvārthasūtra (also Tattvārthādhigamasūtra)",
+      "author": "Umāsvāti or Umāsvāmi (attribution varies by sect)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyagdarśana-jñāna-cāritrāṇi mokṣamārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct are the path to liberation.",
+      "notes": "The Tattvārthasūtra is a concise Sanskrit treatise that systematically presents Jain doctrine and is accepted, with minor differences, by both Śvetāmbara and Digambara traditions. Its author is commonly named as Umāsvāti (Śvetāmbara) or Umāsvāmi (Digambara), and the text’s authority is reinforced by extensive commentarial traditions. While the attribution is widely accepted, the dual naming and sectarian nuances show how a single work can be embedded differently in distinct lineages. The text exemplifies an attributed work whose author is foregrounded, yet whose authority ultimately rests on its doctrinal clarity and cross-sectarian reception."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Every Jain scripture has a clearly known, single human author whose name is historically certain.",
+      "reality": "Many Jain texts emerge from collective oral transmission, redaction, and commentary. Attributions often emphasize lineage (Tirthankara, gaṇadhara, saṅgha) rather than a single individual, and in numerous cases the precise historical author is unknown or debated. Authority is grounded in doctrinal reliability and tradition, not only in modern-style authorship."
+    },
+    {
+      "myth": "If a text is attributed to a famous ācārya, that attribution must be accepted without question.",
+      "reality": "Traditional attributions carry weight, but Jain scholars and modern researchers examine language, style, manuscript evidence, and internal references to assess whether an attribution is plausible. Works like the Pañcasūtra show that respected teachers themselves may preserve older anonymous material or be credited later for texts they only edited or commented upon."
+    },
+    {
+      "myth": "Reuse or close adaptation of earlier Jain texts is always a sign of dishonesty or plagiarism in the modern sense.",
+      "reality": "Pre-modern Jain literary culture often treated earlier compositions as shared doctrinal resources. Authors could closely follow or expand prior works, especially within sectarian debates, while still presenting their versions as legitimate contributions. Modern discussions of \"plagiarism\" in cases like Śrībhūṣaṇa’s Pāṇḍavapurāṇa must be understood within this historical context of textual reuse and lineage-based authority."
+    },
+    {
+      "myth": "Attribution alone determines whether a text is suitable for practice, recitation, or ethical guidance.",
+      "reality": "Jain communities consider both attribution and content. A text’s alignment with right view, knowledge, and conduct, its acceptance in a living lineage, and guidance from qualified teachers are crucial in deciding its practical use. Attribution is one factor among many, not an automatic guarantee of suitability for all forms of practice."
+    }
+  ]
+}

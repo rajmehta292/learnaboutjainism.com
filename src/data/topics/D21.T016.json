@@ -1,0 +1,47 @@
+{
+  "overview": "A home shrine (ghar derasar / griha‑devakul) in Jainism is a dedicated domestic space for daily worship, contemplation, and remembrance of the Tirthankaras. While practices vary across Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth traditions, the underlying purpose remains consistent: creating a clean, intentional environment that supports nonviolence, self‑discipline, and inner purification. A home shrine is not a substitute for a temple, nor does it replicate the consecrated status of a mūrti installed by qualified ritual specialists. Instead, it serves as a lay devotional space for samayika, pratikramana, sūtra recitation, and quiet reflection.\n\nHistorically, domestic shrines appear in medieval Jain household manuals and commentarial literature describing lay duties (śrāvaka‑ācāra). These sources emphasize cleanliness, simplicity, and ethical alignment rather than elaborate ritualism. In Mūrti‑pūjaka homes, the shrine may include images of Tirthankaras, yantras, lamps, and sūtra books. Digambara households typically avoid metal or stone mūrtis unless properly consecrated, preferring painted images, printed icons, or symbolic representations. Sthānakavāsī and Terāpanth homes generally maintain non‑iconic shrines focused on scriptures, meditation, and moral reflection.\n\nAcross traditions, the home shrine is placed in a quiet, clean area of the house, often facing east or north, though this orientation is a cultural preference rather than a scriptural mandate. The shrine becomes a focal point for cultivating equanimity, reinforcing vows, and integrating Jain ethical principles into daily life. It is also a site for family practice, where children learn foundational prayers, stories of the Tirthankaras, and the meaning of ahiṃsā and satya.\n\nModern Jain communities continue to adapt home shrines to contemporary living spaces. Some families maintain minimalistic setups with a single image or text, while others create elaborate cabinets or dedicated rooms. Regardless of form, the home shrine remains a symbol of intentional living, reminding practitioners that spiritual progress begins with daily discipline and mindful presence.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं चित्तं समायरे",
+      "transliteration": "ṇaṃ cittaṃ samāyare",
+      "translation": "One should collect and compose the mind.",
+      "notes": "Tier A. While the text does not mention home shrines directly, it establishes the foundational principle of mental discipline that later household manuals apply to domestic worship spaces."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "सज्जा धम्मे णिव्वाणे",
+      "transliteration": "sajjā dhamme ṇivvāṇe",
+      "translation": "Be steadfast in the path that leads to liberation.",
+      "notes": "Tier A. Used in household contexts to emphasize that domestic worship should support ethical steadfastness rather than ritual excess."
+    },
+    {
+      "title": "Śrāvakācāra (various medieval manuals)",
+      "author": "Different authors, including Amitagati and Somadeva",
+      "original_text": "गृहस्थस्य नित्यं शौचं, देवपूजा च शीलवताम्",
+      "transliteration": "gṛhasthasya nityaṃ śaucaṃ, devapūjā ca śīlavatām",
+      "translation": "For the householder, daily purity and reverent worship are marks of the virtuous.",
+      "notes": "Tier B. These texts describe domestic worship practices, including maintaining a clean space for devotional activities. They do not prescribe architectural details but emphasize ethical preparation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "A home shrine must follow strict architectural rules such as mandatory orientation or specific materials.",
+      "reality": "Primary texts do not prescribe architectural requirements. Orientation, materials, and layout are cultural preferences, not scriptural mandates."
+    },
+    {
+      "myth": "A home shrine with a mūrti becomes equivalent to a consecrated temple idol.",
+      "reality": "Consecration (pratiṣṭhā) requires qualified ritual specialists. A home mūrti is a devotional aid, not a temple‑level consecrated image."
+    },
+    {
+      "myth": "All Jain traditions require images in home shrines.",
+      "reality": "Sthānakavāsī and Terāpanth traditions maintain non‑iconic shrines focused on meditation and scripture rather than images."
+    },
+    {
+      "myth": "Elaborate decoration increases spiritual merit.",
+      "reality": "Primary sources emphasize mental purity, ethical conduct, and equanimity. Decoration is optional and does not determine spiritual progress."
+    }
+  ]
+}

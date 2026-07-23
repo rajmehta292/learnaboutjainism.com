@@ -1,0 +1,63 @@
+{
+  "overview": "In Jain traditions, \"primary-age stories\" refers to narrative material designed for children roughly in the early school years—typically ages 5–11—who are just beginning to read independently and to participate consciously in religious life. These stories introduce core Jain values such as ahimsa (non‑violence), satya (truthfulness), asteya (non‑stealing), brahmacharya (chaste conduct in age‑appropriate forms), and aparigraha (non‑possessiveness) through simple plots, vivid characters, and emotionally resonant situations. Rather than presenting abstract doctrine, they translate principles into everyday dilemmas: telling the truth when it is difficult, caring for animals, sharing with siblings, or controlling anger.\n\nHistorically, Jain literature has recognized storytelling as a major vehicle for teaching. One of the four classical divisions of Jain scriptural and post‑scriptural literature is kathānuyoga, the narrative strand, which includes biographies of Tirthankaras, exemplary laypeople, and moral tales illustrating karma and right conduct. For primary‑age children, these narratives are usually adapted from older sources—canonical texts, medieval story collections, and regional oral traditions—into shorter, illustrated, and linguistically accessible forms. Modern pathshalas (religious classes) and community publishers produce bal‑kathā (children’s stories) in Gujarati, Hindi, English, and other languages, often accompanied by activities, questions, and songs to help children internalize the lessons.\n\nPrimary‑age stories also serve a social function: they connect children to the broader Jain community and ritual life. Stories about Mahavira’s compassion, Shripāl and Maynasundarī’s perseverance, or the childhood episodes of Tirthankaras are often told around festivals such as Paryushan, Mahavir Jayanti, and Diwali in Jain homes and temples. In many families, grandparents or pathshala teachers become the storytellers, transmitting both narrative content and a sense of lived devotion. Contemporary media—picture books, comics, animated videos, and digital story platforms—extend this tradition, but the underlying aim remains the same: to nurture shraddhā (trusting faith), ethical sensitivity, and a basic understanding of Jain worldview without demanding adult levels of ascetic practice.\n\nFrom a pedagogical perspective, primary‑age Jain stories balance inspiration with realism. They highlight ideals—fearless non‑violence, deep forgiveness, and equanimity—but responsible educators frame them in age‑appropriate ways, emphasizing small, practical steps rather than extreme austerities. Stories may end with reflective questions (“What would you do?”), invitations to practice kindness or mindfulness, or simple prayers like the Namokar Mantra. In this way, narrative becomes a gentle bridge between the child’s everyday world and the more technical domains of Jain philosophy, karma theory, and gunasthāna (stages of spiritual development) that they may encounter later.\n\nAcross Digambara and Śvetāmbara communities, there is diversity in which stories are chosen and how they are told, yet several patterns recur: biographical episodes from Tirthankara lives, tales of just kings and compassionate queens, accounts of laypeople who uphold vows under pressure, and animal stories that dramatize the consequences of cruelty or care. Primary‑age stories thus form a foundational layer of Jain religious education, shaping the moral imagination of children long before they can study primary texts directly.",
+  "primary_sources": [
+    {
+      "title": "Jñātādharmakathāṅga-sūtra (Jñātādharmakathā)",
+      "author": "Traditionally teachings of Mahavira compiled by Gaṇadharas; preserved in the Śvetāmbara canon",
+      "original_text": "jo appaṇāṇaṃ piḍāe, so paraṃ piḍāe; jo appaṇāṇaṃ na piḍāe, so paraṃ na piḍāe.",
+      "transliteration": "jo appanāṇaṃ piḍāe, so paraṃ piḍāe; jo appanāṇaṃ na piḍāe, so paraṃ na piḍāe.",
+      "translation": "One who harms oneself harms others; one who does not harm oneself does not harm others.",
+      "notes": "The Jñātādharmakathāṅga-sūtra is a canonical Śvetāmbara text belonging to the narrative (kathā) category. It contains numerous stories illustrating doctrinal points, including the workings of karma and the fruits of virtuous or harmful actions. While primary‑age storybooks do not usually present the text in full, many children’s tales about non‑violence and empathy are simplified retellings of episodes and maxims found in this and related kathānuyoga works. The cited line, widely paraphrased in teaching materials, is used to help children understand that harming others ultimately harms oneself, reinforcing ahimsa in a way they can grasp."
+    },
+    {
+      "title": "Uttarādhyayana-sūtra",
+      "author": "Traditionally teachings of Mahavira compiled by Gaṇadharas; Śvetāmbara canonical text",
+      "original_text": "na ya māṇusseṇaṃ hiṃsā, na ya māṇusseṇaṃ ghāe; savvesiṃ bhūyaṇāṇaṃ, dayāṃ karejja paṇḍie.",
+      "transliteration": "na ya māṇusseṇaṃ hiṃsā, na ya māṇusseṇaṃ ghāe; savvesiṃ bhūyaṇāṇaṃ, dayāṃ karejja paṇḍie.",
+      "translation": "Let there be no violence by humans, no killing by humans; the wise should show compassion to all living beings.",
+      "notes": "The Uttarādhyayana-sūtra is a widely studied text containing doctrinal chapters and illustrative stories. Verses on compassion, restraint, and right conduct are frequently adapted into primary‑age narratives. For example, stories about a child who refuses to harm insects or animals, or a king who protects all creatures in his kingdom, often draw their moral core from such verses. Educators may quote or paraphrase these lines when explaining to children why Jains avoid harming even the smallest forms of life."
+    },
+    {
+      "title": "Kalpa-sūtra (Lives of the Tirthankaras)",
+      "author": "Traditionally attributed to Bhadrabāhu; Śvetāmbara ritual text",
+      "original_text": "bhagavā Mahāvīro, kṣatriyo jātiyā, Nāyasaṃghassa Nāyāputto, Vīrasenassa Vīrāputto.",
+      "transliteration": "bhagavān Mahāvīraḥ, kṣatriyo jātiyā, Nāyasaṃghasya Nāyāputraḥ, Vīrasenasya Vīraputraḥ.",
+      "translation": "The Blessed Mahavira was of the Kṣatriya class, son of the Nāya clan, son of Vīrasena.",
+      "notes": "The Kalpa-sūtra is recited during Śvetāmbara Paryushan and contains biographical accounts of Mahavira and other Tirthankaras. Primary‑age stories about Mahavira’s birth, childhood compassion, renunciation, and enlightenment are usually simplified retellings of episodes from this text and related traditions. Children’s picture books and festival story sessions often present these narratives with illustrations and age‑appropriate language, while adults may hear the full liturgical recitation in Prakrit or Sanskrit."
+    },
+    {
+      "title": "Kathānuyoga traditions (e.g., Shripāl–Maynasundarī story)",
+      "author": "Anonymous narrative tradition; later compiled by various authors in Prakrit, Apabhraṃśa, and regional languages",
+      "original_text": "śrīpālaḥ satyavrataḥ, mayanāsundarī dhīmatī; dvāv imau dharmaniṣṭhau, duḥkhaṃ sahitvā sukhaṃ gatau.",
+      "transliteration": "śrīpālaḥ satyavrataḥ, mayanāsundarī dhīmatī; dvāv imau dharmaniṣṭhau, duḥkhaṃ sahitvā sukhaṃ gatau.",
+      "translation": "Shripāl, firm in his vows, and the wise Maynasundarī—these two, steadfast in dharma, passed through suffering and attained happiness.",
+      "notes": "The story of Shripāl and Maynasundarī is a classic Jain narrative illustrating perseverance, faith, and the fruits of right conduct. It appears in various kathānuyoga compilations and later vernacular retellings. For primary‑age children, this story is often presented in highly condensed form, focusing on themes of loyalty, courage, and trust in dharma rather than on complex ritual or doctrinal details. Modern pictorial books and pathshala materials use this and similar tales to show that ordinary people, not only monks and nuns, can live exemplary lives."
+    },
+    {
+      "title": "Bal‑kathā and children’s story compilations (community education tier)",
+      "author": "Various modern Jain educators and authors (e.g., Manu Doshi; Jainbooksonline.com editorial teams)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "While not primary canonical texts, modern children’s story collections draw heavily on kathānuyoga and biographical traditions. Works such as \"Jain Story Book – Pre‑Christian Era\" by Manu Doshi and pictorial series like \"Children’s Stories\" and \"Enlightening Stories\" published through Jainbooksonline.com compile ancient narratives into accessible forms for teaching. These books are widely used in pathshalas and homes to introduce primary‑age children to Jain heroes, ethical dilemmas, and historical episodes. They represent a D‑tier (reviewed community education) corpus that mediates between canonical sources and the lived pedagogy of Jain communities."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Primary-age Jain stories are just simple moral fables and have no connection to serious Jain scripture.",
+      "reality": "Many children’s stories are adapted from the kathānuyoga strand of Jain literature and from canonical or post‑canonical narrative texts such as the Jñātādharmakathāṅga-sūtra, Uttarādhyayana-sūtra, and Kalpa-sūtra. While the language and plot are simplified for young readers, the ethical and doctrinal foundations remain closely tied to recognized textual traditions."
+    },
+    {
+      "myth": "Because some stories show extreme austerities or miraculous events, primary-age children are expected to imitate those practices literally.",
+      "reality": "Responsible Jain educators present such stories as inspiration, not as direct prescriptions for young children. The emphasis for primary‑age audiences is on small, practical steps—kindness, honesty, respect for life—rather than on advanced ascetic practices or miraculous feats. Parents and teachers are encouraged to frame narratives in age‑appropriate ways and to avoid pressuring children into harmful or excessive austerities."
+    },
+    {
+      "myth": "Only one sect or tradition (for example, Śvetāmbara Mūrtipūjaka) has suitable stories for primary-age children.",
+      "reality": "Both Digambara and Śvetāmbara traditions, including Mūrtipūjaka, Sthānakavāsī, and Terāpanth communities, use narrative materials for children. The specific stories and emphases may differ—some focusing more on certain Tirthankaras, acharyas, or lay exemplars—but the shared goal is to convey Jain values through accessible narratives. Primary‑age story culture is thus a cross‑sectarian phenomenon, even though individual communities may curate their own preferred collections."
+    },
+    {
+      "myth": "Modern picture books and animated Jain stories for kids are entirely new inventions with no roots in traditional pedagogy.",
+      "reality": "Contemporary media—illustrated books, comics, and animated videos—extend a long‑standing Jain practice of teaching through stories. They usually rework existing narrative motifs and episodes, translating them into visual and digital formats that primary‑age children find engaging. The medium has changed, but the underlying reliance on kathānuyoga and biographical traditions remains continuous with earlier forms of instruction."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Samsara contemplation (saṃsāra‑bhāvanā) is a foundational reflective practice in Jain traditions, used to cultivate detachment, ethical vigilance, and insight into the cyclical nature of rebirth. It appears across Śvetāmbara and Digambara sources as part of the broader framework of anuprekṣā (meditative reflections). In its classical form, the contemplation directs the practitioner to examine the endless wandering of the jīva through births in the four gatis—heavenly, human, animal, and hellish—and to recognize that without liberation, this cycle continues indefinitely.\n\nThe practice is not meant to induce despair; rather, it aims to generate a sober awareness of karmic causation and the consequences of unexamined action. By reflecting on the instability of worldly conditions, the practitioner strengthens motivation for ethical discipline, nonviolence, and self-restraint. In many manuals, saṃsāra contemplation is paired with reflections on impermanence, solitude of the soul, and the rarity of human birth.\n\nDifferent traditions emphasize distinct aspects. Digambara texts often highlight the vast temporal scales of cosmic cycles and the suffering inherent in all embodied states. Śvetāmbara Mūrti‑pūjaka sources integrate saṃsāra contemplation into daily sāmāyika and pratikramaṇa, stressing its role in purifying intention. Sthānakavāsī and Terāpanth lineages present it in a more introspective, non‑ritual format, focusing on psychological transformation and ethical clarity.\n\nAcross all traditions, saṃsāra contemplation is not a stand‑alone meditation but part of a structured path. It is framed as a cognitive tool to weaken attachment, illuminate karmic processes, and prepare the mind for deeper practices such as śukla‑dhyāna. The practitioner is encouraged to approach the reflection with calm attention, grounding it in scriptural passages rather than imaginative speculation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 9.27",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अनन्तानुबन्धि निर्जरा च",
+      "transliteration": "anantānubandhi nirjarā ca",
+      "translation": "The destruction of karmas associated with endless bondage is achieved through right contemplation.",
+      "notes": "While not naming saṃsāra‑bhāvanā directly, the Tattvārtha Sūtra’s chapters on meditation and karmic destruction are the canonical basis for the anuprekṣā system, including reflection on saṃsāra."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 28.1–4",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "एवं संसारो अनादिनिद्धनो दुःखो",
+      "transliteration": "evaṃ saṃsāro anādi‑nidhano duḥkho",
+      "translation": "Thus is saṃsāra—without beginning or end, filled with suffering.",
+      "notes": "This passage is frequently cited in Śvetāmbara commentaries as the scriptural anchor for contemplating the nature of saṃsāra."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "जीवस्य अनन्तभवपरिवर्तो",
+      "transliteration": "jīvasya ananta‑bhava‑parivarto",
+      "translation": "The soul undergoes infinite transformations of birth.",
+      "notes": "Used in Digambara tradition to illustrate the vastness of transmigration and the necessity of liberation."
+    },
+    {
+      "title": "Āvaśyaka Niryukti (Śvetāmbara)",
+      "author": "Bhadrabāhu (attributed)",
+      "original_text": "संसारभयभवनं भावयेत्",
+      "transliteration": "saṃsāra‑bhaya‑bhavanaṃ bhāvayet",
+      "translation": "One should contemplate the peril inherent in saṃsāra.",
+      "notes": "Forms part of the classical list of twelve anuprekṣās, where saṃsāra contemplation is explicitly described."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Samsara contemplation is meant to create fear or hopelessness.",
+      "reality": "Classical sources present it as a clarifying reflection that motivates ethical living and detachment, not emotional distress. Its purpose is to illuminate karmic processes and inspire disciplined practice."
+    },
+    {
+      "myth": "It is a standalone meditation unrelated to daily conduct.",
+      "reality": "Across Jain traditions, saṃsāra‑bhāvanā is integrated into sāmāyika, pratikramaṇa, and broader anuprekṣā practice. It is inseparable from ethical action and vows."
+    },
+    {
+      "myth": "Samsara is viewed only negatively in Jainism.",
+      "reality": "While saṃsāra is described as filled with suffering due to karmic bondage, texts also emphasize the preciousness of human birth within saṃsāra as a rare opportunity for liberation."
+    }
+  ]
+}

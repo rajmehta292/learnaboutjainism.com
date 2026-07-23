@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, the term “public-discourse application” refers to the ways Jain philosophical, ethical, and linguistic principles are used to guide communication in civic, interreligious, academic, and community-facing contexts. This topic sits at the intersection of Jain epistemology (anekāntavāda, syādvāda), ethics (ahiṃsā, satya), and social engagement. Public-discourse application examines how these doctrines shape responsible speech, pluralistic dialogue, and non-harmful debate.\n\nHistorically, Jain teachers and scholars have emphasized that communication is an ethical act. Speech (vāc) is treated as a karmically consequential behavior, governed by ahiṃsā (non-harm), satya (truthfulness), and careful attention to the multiplicity of viewpoints. In public settings—such as assemblies, royal courts, philosophical disputations, and modern civic forums—Jain thinkers have applied these principles to reduce conflict, promote mutual understanding, and maintain intellectual humility.\n\nIn contemporary scholarship, public-discourse application is studied as a model for conflict-sensitive communication. Anekāntavāda encourages recognition of partial truths in opposing views, while syādvāda provides a structured method for expressing conditional statements that avoid absolutism. These tools have been used in interfaith dialogue, ethical policy discussions, and community mediation. Modern Jain communities also apply these principles in environmental advocacy, animal welfare campaigns, and educational outreach, emphasizing non-harm and respectful persuasion.\n\nWithin Jain traditions, public-discourse application is not a call for passivity but for disciplined, ethically grounded communication. It encourages clarity without aggression, critique without hostility, and advocacy without coercion. The approach remains influential in academic discussions of nonviolent communication, comparative philosophy, and religious pluralism.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अहिंसा सत्यम् अस्तेयम् ब्रह्मचर्यम् अपरिग्रहः",
+      "transliteration": "ahiṃsā satyam asteyam brahmacaryam aparigrahaḥ",
+      "translation": "Non-harm, truthfulness, non-stealing, celibacy, and non-possession.",
+      "notes": "TS 7.1 lists the five vows, with satya (truthful speech) interpreted in commentaries as requiring non-harmful communication. In public discourse, satya is paired with ahiṃsā to avoid speech that injures others emotionally or socially."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Attributed to early Śvetāmbara redactors",
+      "original_text": "सव्वे पाणाओ अणुगहिया वयणं भासे",
+      "transliteration": "savve pāṇāo aṇugahiyā vayaṇaṃ bhāse",
+      "translation": "One should speak words that support and protect all living beings.",
+      "notes": "This passage (SK 1.11, edition-dependent) links speech with universal care. Commentaries emphasize that public communication must avoid stirring violence, hostility, or falsehood."
+    },
+    {
+      "title": "Aptamīmāṃsā",
+      "author": "Ācārya Samantabhadra",
+      "original_text": "अनेकान्तात् स्याद्वादः",
+      "transliteration": "anekāntāt syādvādaḥ",
+      "translation": "From non-one-sidedness arises conditional discourse.",
+      "notes": "A foundational statement for Jain logic. Public-discourse application draws heavily on syādvāda as a method for expressing nuanced, non-absolutist claims in debate and civic dialogue."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain public-discourse principles require avoiding disagreement entirely.",
+      "reality": "Jain texts permit debate and critique but require that they be conducted without hostility, absolutism, or harm. Anekāntavāda encourages structured disagreement that recognizes partial truths in opposing views."
+    },
+    {
+      "myth": "Syādvāda makes communication vague or indecisive.",
+      "reality": "Syādvāda is a precise logical tool. It does not weaken claims but contextualizes them, reducing dogmatism and improving clarity in complex discussions."
+    },
+    {
+      "myth": "Ahiṃsā in speech only refers to avoiding harsh words.",
+      "reality": "Ahiṃsā in communication includes avoiding misinformation, coercion, humiliation, and speech that causes social or psychological harm. It is a comprehensive ethical framework."
+    }
+  ]
+}

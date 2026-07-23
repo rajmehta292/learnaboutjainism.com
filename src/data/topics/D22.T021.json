@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “authorship” refers to the identification, attribution, and transmission of sacred, philosophical, narrative, and commentarial texts across more than two millennia of Jain literary history. Because Jainism’s earliest scriptures emerged within oral traditions, authorship is often collective, layered, or anonymous. Many canonical works—especially in the Śvetāmbara and Digambara traditions—are attributed not to individual human composers but to omniscient beings (kevalins) or to the early gaṇadharas who first systematized the teachings of the Jinas. Over time, as scriptural redaction, commentary, and scholastic elaboration developed, identifiable authorship became more common, particularly in Sanskrit and Prakrit treatises from the first millennium onward.\n\nAuthorship in Jainism therefore spans several modes: (1) **Revelatory attribution**, where teachings are said to originate from the Jina and are preserved by disciples; (2) **Collective or anonymous compilation**, especially in canonical collections such as the Śvetāmbara Āgamas; (3) **Named scholastic authorship**, visible in works by figures such as Kundakunda, Umāsvāti/Umāsvāmi, Siddhasena Divākara, Haribhadra Sūri, and Hemacandra; and (4) **Community redaction**, where councils (e.g., Valabhī) standardize or preserve textual corpora.\n\nBecause Jain traditions diverged in their preservation of scriptures, authorship is also a site of sectarian difference. Śvetāmbara communities maintain a canon attributed to gaṇadharas and early teachers, while Digambara traditions hold that the original canon was lost and rely instead on later Prakrit and Sanskrit works. Modern scholarship adds further layers by analyzing manuscript evidence, linguistic strata, and historical context. As a result, authorship in Jainism is best understood as a dynamic interplay between revelation, transmission, commentary, and community memory rather than a simple question of individual literary creation.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara Canon)",
+      "author": "Traditionally attributed to gaṇadharas; redacted by early councils",
+      "original_text": "ṇaṁ se bhikkhū ṇaṁ se bhikkhū aṇuveyāṇaṁ care",
+      "transliteration": "ṇaṃ se bhikkhū ṇaṃ se bhikkhū aṇuveyāṇaṃ care",
+      "translation": "“Thus should the mendicant, thus should the mendicant conduct himself with carefulness.”",
+      "notes": "The text is considered one of the earliest Śvetāmbara canonical works. Authorship is collective and rooted in oral transmission rather than individual composition."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (authorship accepted across traditions, though sectarian debates exist)",
+      "original_text": "saṁyagdarśanajñānacāritrāṇi mokṣamārgaḥ",
+      "transliteration": "saṃyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "A foundational philosophical text. Its clear individual authorship contrasts with the anonymous or collective nature of early canonical works."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Kundakunda (Digambara tradition)",
+      "original_text": "jo so jīvo so so paramāṇu",
+      "transliteration": "yo so jīvo so so paramāṇu",
+      "translation": "“The soul is itself the supreme essence.”",
+      "notes": "Kundakunda’s works exemplify named authorship in Digambara scholastic literature, reflecting a shift from collective scripture to individual philosophical treatises."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain scriptures were written directly by the Jinas themselves.",
+      "reality": "Jinas are understood to teach through omniscient discourse, but the textual forms were preserved and compiled by gaṇadharas, councils, and later scholars. Most canonical texts have collective or anonymous authorship."
+    },
+    {
+      "myth": "Śvetāmbara and Digambara traditions agree on the authorship and preservation of the original canon.",
+      "reality": "Śvetāmbaras maintain a surviving canon attributed to early disciples, while Digambaras hold that the original canon was lost and rely on later works. Authorship debates reflect broader historical divergences."
+    },
+    {
+      "myth": "Named authorship in Jainism begins only in the medieval period.",
+      "reality": "While early canonical works are anonymous, identifiable authors such as Umāsvāti and Kundakunda appear by the early centuries CE, marking a long tradition of individual scholastic contribution."
+    }
+  ]
+}

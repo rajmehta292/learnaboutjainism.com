@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, **recitation** (often expressed through terms such as *paṭhana*, *svādhyāya*, *japa*, and *stavan*) refers to the disciplined vocal or mental repetition of sacred texts, names, mantras, and doctrinal formulas. It is a foundational practice across Digambara and Śvetāmbara lineages, serving as a bridge between scriptural learning, ethical cultivation, and meditative focus. Recitation is not merely a ritual act; it is considered a form of internal purification, reinforcing right faith (*samyak-darśana*), right knowledge (*samyak-jñāna*), and right conduct (*samyak-cāritra*).\n\nHistorically, Jain communities preserved their scriptures through oral transmission. Early canonical texts describe monks and nuns memorizing vast bodies of literature, reciting them daily, and teaching them through structured oral pedagogy. Laypeople also adopted recitation practices, especially devotional hymns (*stavan*, *chaityavandana*), protective mantras, and short scriptural passages. In both monastic and lay contexts, recitation is tied to attentiveness, clarity of pronunciation, and ethical intention.\n\nDifferent Jain traditions emphasize distinct corpora for recitation. Śvetāmbara Mūrtipūjaka communities frequently recite canonical āgamas, *sūtras*, and devotional hymns such as the *Namaskāra Vṛtti* or *Bhaktāmara Stotra*. Sthānakavāsī and Terāpanth traditions, which do not use images, emphasize *sāmāyika sūtras*, *pratikramaṇa* texts, and meditative mantras. Digambara communities often recite Sanskrit stotras such as the *Bhaktāmara*, *Kalyāṇamandira Stotra*, and *Śāntistava*, along with Prakrit verses from the *Ṣaṭkhaṇḍāgama* tradition.\n\nAcross traditions, recitation is understood to shape the practitioner’s inner world: it stabilizes attention, cultivates reverence for the *tīrthaṅkaras*, and reinforces ethical commitments. While devotional recitation may evoke emotion, doctrinal recitation aims at clarity, memory, and insight. Modern Jain teachers emphasize that recitation should be grounded in understanding rather than mechanical repetition, and that its purpose is to support nonviolence, self-restraint, and spiritual progress.",
+  "primary_sources": [
+    {
+      "title": "Ṇamokāra (Navakāra) Mantra",
+      "author": "Attributed to early Jain canonical tradition; exact authorship unknown",
+      "original_text": "णमो अरिहंताणं, णमो सिद्धाणं, णमो आयरियाणं, णमो उवज्झायाणं, णमो लोए सव्वसाहूणं",
+      "transliteration": "ṇamo arihaṃtāṇaṃ, ṇamo siddhāṇaṃ, ṇamo āyariyāṇaṃ, ṇamo uvajjhāyāṇaṃ, ṇamo loe savvasāhūṇaṃ",
+      "translation": "Homage to the Arihants; homage to the Siddhas; homage to the Ācāryas; homage to the Upādhyāyas; homage to all Sādhus in the world.",
+      "notes": "Tier A source. Found across Jain traditions. Recited daily in monastic and lay practice. Considered the most fundamental Jain mantra, emphasizing reverence rather than petition."
+    },
+    {
+      "title": "Āvaśyaka Sūtra (Śvetāmbara)",
+      "author": "Canonical text attributed to early Jain councils",
+      "original_text": "सुत्तं णं पठनं, सुत्तं णं वाचनं…",
+      "transliteration": "suttaṃ ṇaṃ paṭhaṇaṃ, suttaṃ ṇaṃ vācanaṃ…",
+      "translation": "Recitation of scripture, articulation of scripture…",
+      "notes": "Tier A source. The text outlines duties of monks and nuns, including daily recitation and study. The passage emphasizes disciplined oral transmission."
+    },
+    {
+      "title": "Bhaktāmara Stotra",
+      "author": "Ācārya Māṇatunga (Digambara tradition)",
+      "original_text": "जिनेन्द्रचक्रं नमतां जनानां…",
+      "transliteration": "jinendra-cakraṃ namatāṃ janānāṃ…",
+      "translation": "The wheel of the Jina’s glory protects those who bow before it…",
+      "notes": "Tier B source. A widely recited Sanskrit stotra. Digambara tradition attributes miraculous qualities to its disciplined recitation, though interpretations vary."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Recitation is purely devotional and unrelated to Jain philosophy.",
+      "reality": "Many recited texts—such as the *Āvaśyaka*, *Sāmāyika*, and canonical sūtras—are doctrinal and ethical. Recitation historically served as the primary method of preserving and transmitting Jain philosophy."
+    },
+    {
+      "myth": "All Jain traditions recite the same set of texts.",
+      "reality": "While some texts (e.g., the Navakāra Mantra) are universal, Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth traditions maintain distinct recitation corpora shaped by their scriptural histories and ritual frameworks."
+    },
+    {
+      "myth": "Recitation guarantees spiritual merit regardless of intention.",
+      "reality": "Primary texts emphasize that merit arises from correct intention, understanding, and ethical alignment. Mechanical repetition without mindfulness is considered spiritually limited."
+    }
+  ]
+}

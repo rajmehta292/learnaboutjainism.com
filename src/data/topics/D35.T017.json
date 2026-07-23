@@ -1,0 +1,43 @@
+{
+  "overview": "The term **Mūla Saṅgha** refers to one of the most historically influential monastic lineages within the Digambara Jain tradition. It is widely attested in inscriptions, monastic genealogies, and medieval narrative sources as a foundational Digambara monastic community from which several later sub‑lineages emerged. The Mūla Saṅgha is not a sect in the modern sense but a **root monastic order** (mūla = root, foundational; saṅgha = community) whose identity was preserved through teacher–disciple succession lists.\n\nEpigraphic evidence from Karnataka, Maharashtra, and Tamil Nadu between the 8th and 12th centuries CE frequently associates prominent Digambara ācāryas with the Mūla Saṅgha. These inscriptions often describe the Mūla Saṅgha as maintaining strict ascetic discipline, scriptural learning, and monastic hierarchy. Medieval Digambara texts such as the *Prabhāvakacarita*, *Darśanasāra*, and *Śrutāvatāra* mention the Mūla Saṅgha in connection with major teachers including **Ācārya Kundakunda** (traditionally, though historically debated), **Ācārya Samantabhadra**, **Ācārya Jinadatta**, and **Ācārya Nemicandra Siddhānta‑cakravartin**.\n\nOver time, the Mūla Saṅgha developed several sub‑branches, most notably the **Nandi Saṅgha**, **Balātkāra Gaṇa**, **Sen Gaṇa**, and **Deva Gaṇa**. These sub‑lineages played major roles in the transmission of Digambara canonical and commentarial literature, temple-building patronage, and the spread of Jainism in the Deccan. The Balātkāra Gaṇa, for example, became particularly prominent in North India from the 14th century onward.\n\nModern Digambara communities often trace their monastic heritage to the Mūla Saṅgha, though contemporary monastic orders may differ in practice and organization. Scholars emphasize that the term “Mūla Saṅgha” is primarily a **historical monastic genealogy**, not a doctrinally distinct sect. Its significance lies in its role as a stabilizing institutional structure for Digambara monasticism across centuries.",
+  "primary_sources": [
+    {
+      "title": "Darśanasāra",
+      "author": "Devasena (10th century CE)",
+      "original_text": "मूलसंघस्य प्रवरो गुरुवर्गः",
+      "transliteration": "mūlasaṅghasya pravaro guruvargaḥ",
+      "translation": "“The eminent lineage of teachers belongs to the Mūla Saṅgha.”",
+      "notes": "This brief line appears in Devasena’s discussion of monastic genealogies. It is one of the clearest textual attestations of the Mūla Saṅgha as a recognized Digambara monastic order."
+    },
+    {
+      "title": "Śrutāvatāra",
+      "author": "Indranandi (c. 9th–10th century CE)",
+      "original_text": "कुण्डकुण्डाचार्याणां मूलसंघसमुद्भवम्",
+      "transliteration": "kuṇḍakuṇḍācāryāṇāṃ mūlasaṅghasamudbhavam",
+      "translation": "“The teachers beginning with Kundakunda arose from the Mūla Saṅgha.”",
+      "notes": "This passage is part of a traditional monastic genealogy. Modern scholarship debates the historicity of Kundakunda’s association with the Mūla Saṅgha, but the text reflects medieval tradition."
+    },
+    {
+      "title": "Inscriptions of the Western Cālukya Period",
+      "author": "Anonymous scribes (11th–12th century CE)",
+      "original_text": "मूलसंघस्य आचार्य श्रीजिनदत्तदेवः",
+      "transliteration": "mūlasaṅghasya ācārya śrījindattadevaḥ",
+      "translation": "“Ācārya Jinadatta Deva of the Mūla Saṅgha.”",
+      "notes": "Numerous stone inscriptions from Karnataka identify monastic leaders as belonging to the Mūla Saṅgha. These epigraphs are crucial historical evidence for the order’s institutional presence."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Mūla Saṅgha is a modern Digambara sect with its own doctrines.",
+      "reality": "Historical evidence shows that the Mūla Saṅgha is a monastic lineage, not a doctrinally distinct sect. Its members followed mainstream Digambara teachings."
+    },
+    {
+      "myth": "All major Digambara ācāryas were unquestionably part of the Mūla Saṅgha.",
+      "reality": "Medieval texts often associate figures like Kundakunda or Samantabhadra with the Mūla Saṅgha, but modern historians note that these claims reflect tradition rather than verifiable biography."
+    },
+    {
+      "myth": "The Mūla Saṅgha disappeared after the medieval period.",
+      "reality": "Several contemporary Digambara monastic orders trace their lineage to the Mūla Saṅgha, though organizational structures have evolved over time."
+    }
+  ]
+}

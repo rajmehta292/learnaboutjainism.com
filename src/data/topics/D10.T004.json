@@ -1,0 +1,51 @@
+{
+  "overview": "Vyapti (व्याप्ति) is a central technical concept in Indian logic and epistemology, and in Jain philosophical traditions it plays a crucial role in the theory of inference (anumāna). In its broadest sense, vyapti denotes an invariable, law‑like relation of concomitance or pervasion between two items—typically between a reason (hetu) and what is to be proved (sādhya). Without some grasp of such an invariable relation, no inferential knowledge can be considered valid, because the transition from observed data to an unobserved conclusion would lack a reliable bridge.\n\nIn Jain logic, vyapti is treated not merely as a background assumption but as a distinct subject of inquiry and, in some texts, as closely tied to a specific means of knowledge (pramāṇa) called tarka (reasoned reflection). Some modern Jain scholars, following classical authors, describe vyapti as a tri‑kālika sambandha—a relation that holds across past, present, and future instances—between a pervader (vyāpaka) and a pervaded (vyāpya). This relation is characterized as avinābhāva or avināśibhāva, an inseparable concomitance such that one term cannot be thought without the other in the relevant domain. For example, wherever there is smoke (hetu), there is fire (sādhya), under the appropriate conditions; the smoke is said to be pervaded by fire.\n\nJain logicians engage deeply with debates about whether such relations are real (vastu‑sat) or merely conceptual constructions. Against Buddhist critics who treat relations as purely conceptual, some Jain authors argue that relations like vyapti have practical efficacy (arthakriyā‑kāritva): the very knowledge of the relation guides successful action and therefore indicates a kind of reality. The relation’s “utility” lies in its capacity to ground correct inference and practical decision‑making. In this way, vyapti is not only a logical notion but also tied to Jain concerns about valid knowledge (pramāṇa), right view (samyag‑darśana), and the avoidance of error.\n\nWithin Jain discussions, vyapti is analyzed in multiple forms. One influential distinction speaks of vyāpya‑dharma‑rūpa vyapti (where the nature of the pervaded term grounds the inferential force) and vyāpaka‑dharma‑rūpa vyapti (where the nature of the pervader grounds what is inferred). This helps explain why the hetu and sādhya are not interchangeable: the inferential direction depends on which term is taken as pervader and which as pervaded. Jain authors also compare their accounts with Nyāya and Buddhist logic, sometimes adopting and sometimes modifying definitions such as avyabhicāritva (non‑deviation) and anyathānupapatti (impossibility of being otherwise) to capture the strictness of the relation.\n\nLater technical traditions, including Navya‑Nyāya, develop highly precise formulations of vyapti, and Jain scholars study and respond to these. They examine whether a given definition is too narrow (avyāpti), too broad (ativyāpti), or impossible (asambhava), and refine the logical language used to describe the relation between hetu, sādhya, and their loci (pakṣa). In Jain contexts, this detailed work on vyapti supports a broader intellectual project: ensuring that inferential reasoning about karmic processes, ethical consequences, and metaphysical categories is as rigorous and reliable as possible, while still acknowledging the Jain doctrine of non‑one‑sidedness (anekāntavāda). Thus, vyapti becomes a carefully scrutinized tool within a tradition that values both logical precision and perspectival humility.\n\nModern Jain scholarship continues to revisit vyapti, drawing on classical Prakrit and Sanskrit texts, medieval commentaries, and comparative studies with other Indian schools. Contemporary authors analyze how Jain thinkers integrated insights from Buddhist logicians like Dharmakīrti and from Nyāya, while maintaining distinct positions on the reality of relations and the structure of inference. For students of Jainism today, understanding vyapti offers a window into how Jain philosophers balanced logical rigor, doctrinal commitments, and practical concerns about how right knowledge supports right conduct.",
+  "primary_sources": [
+    {
+      "title": "Pramāṇa‑mīmāṃsā (sections on anumāna and vyapti)",
+      "author": "Ācārya Hemacandra",
+      "original_text": "अविनाभावो व्याप्तिः इति केचित् । तत्र हेतुसाध्ययोः व्यापकव्याप्यभावो विवेचनीयः ।",
+      "transliteration": "avinābhāvo vyāptiḥ iti kecit. tatra hetu‑sādhyayoḥ vyāpaka‑vyāpyabhāvo vivecanīyaḥ.",
+      "translation": "“Some define vyapti as inseparable concomitance. In that context, the relation of pervader and pervaded between the reason and the probandum must be carefully analyzed.”",
+      "notes": "This line represents the kind of definition and discussion attributed to Hemacandra in his treatment of inference and vyapti. Exact wording and manuscript variants differ across editions; the quotation here is a representative formulation rather than a critical edition. Hemacandra, a Śvetāmbara polymath, systematizes Jain epistemology and engages with Nyāya and Buddhist logic, making his work a key source for understanding Jain views on vyapti."
+    },
+    {
+      "title": "Jain Samt Vyapti (study of vyapti in Jain logic)",
+      "author": "Dalsukh Malvania",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "This is a modern scholarly work in Gujarati/Hindi that synthesizes classical Jain discussions of vyapti, especially the idea of tri‑kālika sambandha (a relation holding across past, present, and future) and the characterization of vyapti as avināśibhāva (inseparable coexistence) and anyathānupapatti (impossibility of being otherwise). Malvania analyzes how Jain thinkers defend the reality (vastu‑sat) of relations against Buddhist critiques and explains why tarka (reasoned reflection on vyapti) is treated as an important means of knowledge. As a modern secondary source, it belongs to a scholarly tier rather than the primary canonical corpus, but it is widely used to understand the classical material."
+    },
+    {
+      "title": "Vyapti Vichar (logical analysis of vyapti)",
+      "author": "Sukhlal Sanghavi",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "This modern text examines vyapti in detail, focusing on Jain treatments of inference and comparing them with Nyāya and Navya‑Nyāya. Sanghavi discusses how Hemacandra’s definition of vyapti as avinābhāva is refined under the influence of earlier logicians such as Archata, who distinguishes vyāpya‑dharma‑rūpa vyapti and vyāpaka‑dharma‑rūpa vyapti. The work also explores how concepts like avyabhicāritva (non‑deviation) and samānādhikaraṇya (co‑location) are used to articulate the relation between hetu and sādhya. As with Malvania’s book, this is a secondary, analytical source that helps students navigate the more technical primary materials."
+    },
+    {
+      "title": "Gudhārtha Tattvaloka Vyapti Pañchak Vṛtti",
+      "author": "Dharmadattasūri",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "This commentary text focuses on five aspects or definitions of vyapti, engaging with Navya‑Nyāya formulations while maintaining a Jain perspective. It discusses conditions for valid inference, the meaning of avyabhicāritva (non‑violation) in vyapti, and logical debates about the scope and limits of different definitions. The work is highly technical, using Sanskrit and Prakrit logical terminology, and serves as an advanced resource for understanding how Jain scholars interacted with broader Indian logical traditions. The available editions are based on manuscript preservation projects and may contain editorial notes and corrections."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Vyapti is just a vague intuition that smoke usually goes with fire, without strict logical conditions.",
+      "reality": "In Jain logic, vyapti is treated as a rigorously analyzed relation of invariable concomitance. Authors examine whether a proposed vyapti is too broad, too narrow, or impossible, and they specify conditions—such as the absence of counter‑instances and the proper identification of pervader and pervaded—so that the relation can reliably ground valid inference."
+    },
+    {
+      "myth": "Vyapti is identical in all Indian philosophical schools, so the Jain view can be understood simply by reading Nyāya accounts.",
+      "reality": "While Jain thinkers engage closely with Nyāya and Buddhist logic, they develop distinct positions. For example, some Jain authors emphasize the practical efficacy and reality (vastu‑sat) of relations like vyapti, and they integrate the concept into a broader framework that includes anekāntavāda (non‑one‑sidedness) and specific views on tarka as a pramāṇa. Nyāya and Buddhist accounts are important for comparison but do not fully capture the Jain perspective."
+    },
+    {
+      "myth": "Vyapti is purely theoretical and has no relevance for everyday Jain practice or ethical decision‑making.",
+      "reality": "Although vyapti is a technical logical notion, it underpins how Jain philosophers think about valid knowledge and reliable reasoning. Sound inference is crucial for understanding karmic processes, evaluating ethical consequences, and forming right views about reality. In this way, careful reflection on vyapti indirectly supports practical Jain concerns about right knowledge (samyag‑jñāna) and right conduct (samyak‑cāritra), even if lay practitioners do not study the technical details."
+    }
+  ]
+}

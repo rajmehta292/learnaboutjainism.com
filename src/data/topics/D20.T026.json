@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, the phrase “no procedural guidance” refers to a deliberate methodological boundary: certain topics, especially those involving ritual execution, ascetic discipline, medical‑risk practices, or lineage‑specific authorization, must not be explained through step‑by‑step instructions. Instead, scholarship focuses on conceptual, historical, and doctrinal analysis. This principle protects the integrity of Jain traditions by ensuring that academic or general educational materials do not replace qualified human instruction, particularly in areas where living lineages maintain strict rules of transmission.\n\nWithin Jainism, procedural guidance is traditionally conveyed through direct mentorship—such as by an ācārya, upādhyāya, or senior monk/nun—rather than through impersonal texts. Even canonical works that describe practices (e.g., pratimā sequences, vrata descriptions, or ascetic conduct) do so in normative or descriptive terms, not as operational manuals. Modern academic frameworks therefore emphasize interpretation, context, and comparative analysis while avoiding prescriptive instructions that could be misapplied by lay readers.\n\nThe concept also serves as a safeguard in contemporary digital environments. When discussing fasting, meditation, pratikramaṇa, or advanced ethical vows, scholars and responsible guides clarify doctrinal foundations, cite primary sources, and outline historical variations, but refrain from providing actionable steps. This protects readers from inadvertently engaging in practices that require supervision, health assessment, or formal initiation. Thus, “no procedural guidance” is not a limitation of knowledge but a commitment to accuracy, safety, and respect for Jain tradition’s living pedagogical structures.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "व्रतानि च",
+      "transliteration": "vratāni ca",
+      "translation": "“And the vows.”",
+      "notes": "Tattvārtha Sūtra 7.1 introduces vows without providing procedural steps. Commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi) elaborate doctrinal meaning, prerequisites, and classifications, but do not function as manuals. This illustrates the Jain norm of describing ethical structures conceptually rather than operationally."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं चउव्विहं णं तव्विहं णं सव्वं जोगं",
+      "transliteration": "ṇaṃ cauvvihaṃ ṇaṃ tavvihaṃ ṇaṃ savvaṃ jogaṃ",
+      "translation": "“There is fourfold restraint, there is such restraint, there is all conduct.”",
+      "notes": "The Ācārāṅga describes ascetic conduct in broad categories—restraint, vigilance, and ethical orientation—without providing stepwise instructions. The text emphasizes principles of non‑violence and awareness, leaving procedural transmission to living monastic teachers."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Traditionally attributed to early Śvetāmbara redactors",
+      "original_text": "एवं खु महावीरं अणुगइया णं चउव्विहं धम्मं",
+      "transliteration": "evaṃ khu mahāvīraṃ aṇugaïyā ṇaṃ cauvvihaṃ dhammaṃ",
+      "translation": "“Thus the disciples of Mahāvīra followed the fourfold dharma.”",
+      "notes": "The text presents moral and spiritual ideals through narratives and aphorisms. It does not instruct readers on how to perform specific rituals or austerities, reflecting the tradition’s preference for conceptual guidance."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "‘No procedural guidance’ means Jain texts avoid practical topics entirely.",
+      "reality": "Jain texts discuss vows, ethics, meditation, and ascetic conduct extensively, but they present principles and classifications rather than step‑by‑step instructions. Procedural transmission occurs through qualified teachers."
+    },
+    {
+      "myth": "Academic or digital guides can safely replace monastic instruction for advanced practices.",
+      "reality": "Advanced practices—especially fasting, pratimā progression, or ascetic conduct—require lineage‑specific authorization and supervision. Responsible scholarship avoids procedural detail to prevent misuse."
+    },
+    {
+      "myth": "The absence of procedural guidance implies disagreement or missing knowledge.",
+      "reality": "It reflects a deliberate pedagogical structure within Jainism: conceptual clarity in texts, practical training through living tradition. This separation preserves both doctrinal precision and practitioner safety."
+    }
+  ]
+}

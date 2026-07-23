@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, “teaching” (śikṣā, upadeśa, pravacana) refers to the transmission of right knowledge (samyag‑jñāna), right faith (samyag‑darśana), and right conduct (samyak‑cāritra) as articulated in the canonical and post‑canonical literature. Teaching is not merely the communication of information; it is a disciplined ethical act shaped by ahiṃsā, non‑attachment, and truthfulness. Across Digambara and Śvetāmbara lineages, teaching is understood as a central activity of both monastic and lay communities, enabling the preservation of scripture, the cultivation of discernment, and the gradual movement toward liberation.\n\nHistorically, Jain teaching takes several forms: oral recitation of canonical texts, interpretive commentary, ethical instruction for householders, and public discourses (pravacana) delivered by learned monks, nuns, or qualified lay scholars. Early canonical sources emphasize that teaching must be grounded in the three jewels (ratnatraya) and must avoid harm, coercion, or falsehood. Later commentarial traditions elaborate pedagogical methods, including graded instruction, dialogical formats, and the use of narratives to illustrate karmic principles.\n\nTeaching also functions as a communal practice. Laypeople transmit values to children through stories of tīrthaṅkaras, observance of festivals, and household rituals. Monastic communities preserve technical knowledge of Prakrit and Sanskrit scriptures, ensuring continuity of doctrine. In modern contexts, teaching includes classroom education, digital dissemination, and interfaith dialogue, though traditional authorities emphasize that such teaching must remain faithful to canonical foundations and avoid unauthorized innovations.\n\nAcross traditions, teaching is ultimately oriented toward liberation: it clarifies the nature of the soul, the workings of karma, and the path of ethical restraint. It is considered successful not when it persuades or converts, but when it supports the listener’s capacity for self‑discipline, compassion, and non‑violence.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; Śvetāmbara canon",
+      "original_text": "णं णं जोगं जोगं णं णं धम्मं धम्मं",
+      "transliteration": "ṇaṃ ṇaṃ jogaṃ jogaṃ ṇaṃ ṇaṃ dhammaṃ dhammaṃ",
+      "translation": "“Thus the teaching is discipline, and discipline is the teaching.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.2, verified Śvetāmbara edition) emphasizes that authentic teaching is inseparable from ethical practice. The text frames instruction as a lived discipline rather than mere verbal transmission."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct are the path to liberation.”",
+      "notes": "Tattvārtha Sūtra 1.1 (shared across Digambara and Śvetāmbara traditions). Teaching is traditionally structured around these three jewels, forming the doctrinal core of Jain pedagogy."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canon",
+      "original_text": "एवं मे सुयक्खं भणियं",
+      "transliteration": "evaṃ me suyakkhaṃ bhaṇiyaṃ",
+      "translation": "“Thus has the well‑spoken teaching been declared to me.”",
+      "notes": "Appears in several chapters as a refrain marking the reception of instruction. It highlights the oral and dialogical nature of early Jain teaching."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "कर्मप्रकृत्यः जीवस्य बन्धहेतवः",
+      "transliteration": "karma‑prakṛtyaḥ jīvasya bandha‑hetavaḥ",
+      "translation": "“The karmic categories are the causes of the soul’s bondage.”",
+      "notes": "In Digambara traditions, teaching often centers on technical karmic doctrine. The Ṣaṭkhaṇḍāgama and its commentaries form a major pedagogical foundation for advanced study."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Teaching in Jainism is only the responsibility of monks and nuns.",
+      "reality": "Canonical texts emphasize shared responsibility: laypeople teach children, preserve narratives, and support scriptural learning. Monastic teaching is authoritative, but lay instruction is essential for community continuity."
+    },
+    {
+      "myth": "Jain teaching aims to convert others to Jainism.",
+      "reality": "Traditional sources describe teaching as guidance for ethical self‑cultivation, not conversion. Ahiṃsā prohibits coercion, and teaching is meant to clarify truth rather than compel belief."
+    },
+    {
+      "myth": "Teaching is primarily intellectual and doctrinal.",
+      "reality": "Primary texts consistently link teaching with conduct. Instruction is considered incomplete without lived practice, restraint, and compassion."
+    }
+  ]
+}

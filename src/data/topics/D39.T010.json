@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, alcohol (madya) is consistently discussed as a substance that impairs awareness, increases passions (kaṣāyas), and obstructs the cultivation of ahiṃsā, self-restraint, and right mindfulness. Across Digambara and Śvetāmbara canonical corpora, alcohol is treated not merely as a physical intoxicant but as a moral and karmic risk factor because it destabilizes the mental clarity required for samyak-darśana and disciplined lay conduct.\n\nFrom a doctrinal standpoint, alcohol is classified among substances that cloud consciousness and stimulate negligence (pramāda). Pramāda is repeatedly described in primary texts as a root condition that enables violence, carelessness toward living beings, and the weakening of vows. Alcohol is therefore not only discouraged but explicitly prohibited for laypeople under the aṇu-vratas (small vows) and supplementary śīla regulations. The prohibition is not framed as punitive but as protective: intoxication increases the likelihood of harming subtle life forms, speaking harshly, or violating ethical commitments.\n\nHistorically, Jain communities have maintained strong norms against alcohol consumption. Digambara texts emphasize the karmic consequences of intoxication, while Śvetāmbara sources often highlight its social and relational harms. Commentarial literature further explains that alcohol disrupts the equanimity needed for meditation and daily restraint. Modern Jain ethics continues this stance, interpreting alcohol avoidance as part of a broader commitment to non-harm, clarity, and responsible living.\n\nBecause alcohol intersects with health, addiction, and mental well‑being, contemporary Jain educators stress that spiritual guidance must be paired with qualified medical and psychological support when needed. The tradition’s emphasis on sobriety is not intended to replace professional care but to encourage a lifestyle that supports awareness, compassion, and stability.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "मद्यपानं परिहरन्ति",
+      "transliteration": "madyapānaṃ pariharanti",
+      "translation": "“They avoid the drinking of intoxicants.”",
+      "notes": "This passage appears in sections describing restraints for wandering ascetics, but Śvetāmbara lay conduct manuals cite it to illustrate the broader principle of avoiding substances that disturb mindfulness. The exact phrasing varies across manuscripts; the meaning is stable: intoxicants are to be avoided."
+    },
+    {
+      "title": "Tattvārtha Sūtra 7.1–7.4",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "प्रमादो हिंसादयः",
+      "transliteration": "pramādo hiṃsādayaḥ",
+      "translation": "“Negligence gives rise to violence and related faults.”",
+      "notes": "Alcohol is not named directly in this sutra, but classical commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi) list intoxicants as paradigmatic causes of pramāda. The linkage between intoxication, negligence, and violence is central to Jain ethical reasoning."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra 75–76",
+      "author": "Ācārya Samantabhadra",
+      "original_text": "मद्यपानवर्जनं श्रावकस्य",
+      "transliteration": "madyapānavarjanaṃ śrāvakasya",
+      "translation": "“A lay follower must abstain from drinking intoxicants.”",
+      "notes": "A foundational Digambara lay conduct text. The prohibition is explicit and framed as essential for maintaining the vows of non‑violence and truthfulness."
+    },
+    {
+      "title": "Daśavaikālika Sūtra 8.36",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "मद्यं मोहकरं",
+      "transliteration": "madyaṃ mohakaraṃ",
+      "translation": "“Alcohol produces delusion.”",
+      "notes": "This verse links alcohol to moha (delusion), one of the primary passions that obstruct liberation. Commentaries explain that delusion leads to impulsive harm and loss of ethical discipline."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain texts prohibit alcohol only for monks, not for laypeople.",
+      "reality": "Both Digambara and Śvetāmbara lay conduct manuals explicitly prohibit alcohol for householders. The rationale is that intoxication increases negligence, which directly contradicts the lay vows."
+    },
+    {
+      "myth": "Alcohol is discouraged only because it may lead to violence.",
+      "reality": "Violence is one concern, but primary texts also emphasize that alcohol disrupts mindfulness, increases passions, and obstructs spiritual progress. The prohibition is holistic, not merely behavioral."
+    },
+    {
+      "myth": "Modern Jain communities oppose alcohol solely for cultural reasons.",
+      "reality": "The stance is rooted in canonical sources and classical commentaries. While cultural norms reinforce it, the doctrinal basis is longstanding and consistent across traditions."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “edition records” refer to the documented history, lineage, and metadata of how a Jain text has been transmitted, copied, edited, printed, or digitized across time. Because Jain canonical and post‑canonical literature spans more than two millennia and exists in multiple Prakrits, Sanskrit, regional languages, and scripts, edition records serve as the backbone of reliable scholarship. They allow researchers to trace how a text moved from palm‑leaf manuscripts to paper codices, lithographs, critical editions, and modern digital repositories.\n\nEdition records typically include information about the manuscript witnesses used, the editor’s methodology, variant readings, colophons, scribal notes, and the provenance of each textual source. In Jainism—where doctrinal precision is essential for understanding vows, karma theory, cosmology, and monastic regulations—these records help scholars distinguish between primary canonical material (Tier A), authoritative commentaries (Tier B), and later scholastic or didactic expansions (Tier C–D).\n\nFor Digambara and Śvetāmbara traditions, edition records also clarify sectarian divergences. For example, Digambara editions of the *Ṣaṭkhaṇḍāgama* rely on medieval commentaries such as the *Dhavalā* and *Mahādhavalā*, while Śvetāmbara canonical editions of the *Āgamas* often rely on manuscript clusters from Patan, Jaisalmer, and Jaipur. Edition records document these differences, enabling transparent comparison and preventing the conflation of sect-specific textual histories.\n\nModern critical editions follow philological standards: listing manuscript sigla, describing orthographic normalization, identifying lacunae, and providing apparatus entries for variant readings. These records are indispensable for historians, linguists, and practitioners seeking to understand how a text evolved and how its meaning may shift depending on the manuscript tradition consulted.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara Canon)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "सीलवग्गो णाम णं अाचारंगं",
+      "transliteration": "sīlavajjo ṇāma ṇaṃ ācāraṃgaṃ",
+      "translation": "“The section on conduct is called the Ācārāṅga.”",
+      "notes": "Edition records for this text often reference manuscript families from Patan and Jaisalmer, with critical editions noting divergences in chapters describing monastic conduct."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara Canon)",
+      "author": "Kundakunda tradition; compiled by Puṣpadanta and Bhūtabali",
+      "original_text": "पुव्वणयणं णमो अरिहंताणं",
+      "transliteration": "puvvaṇayaṇaṃ ṇamo arihaṃtāṇaṃ",
+      "translation": "“Homage to the earlier teachers, the Arihants.”",
+      "notes": "Edition records rely heavily on medieval commentaries such as the Dhavalā. Manuscript witnesses are scarce, making the apparatus crucial for reconstructing early Digambara doctrine."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyagdarśanajñānacāritrāṇi mokṣamārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "Edition records compare Śvetāmbara and Digambara recensions, noting differences in chapter order and terminology. Critical editions often include variant readings from Kashmir and Gujarat manuscripts."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Edition records are merely bibliographic details and do not affect doctrinal interpretation.",
+      "reality": "Edition records directly influence doctrinal understanding because variant readings can change the meaning of technical terms related to vows, karma categories, or cosmology."
+    },
+    {
+      "myth": "All Jain texts have a single authoritative edition accepted across traditions.",
+      "reality": "Digambara and Śvetāmbara traditions preserve distinct manuscript lineages. Edition records document these divergences, preventing the mistaken assumption of a unified textual history."
+    },
+    {
+      "myth": "Modern printed editions eliminate the need for manuscript comparison.",
+      "reality": "Printed editions often rely on selective manuscripts. Without consulting edition records and apparatus entries, scholars may overlook significant variants or scribal interpolations."
+    }
+  ]
+}

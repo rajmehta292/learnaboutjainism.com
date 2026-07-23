@@ -1,0 +1,59 @@
+{
+  "overview": "The expression \"Jain–Nyāya debate\" refers to a long, technically sophisticated conversation between Jain philosophers and the Nyāya school of Indian logic and epistemology. From roughly the first millennium CE onward, Jaina ācāryas such as Samantabhadra, Siddhasena Divākara, Akalaṅka, Vidyānanda, Prabhācandra, and later Yaśovijaya systematically engaged Nyāya arguments on perception, inference, testimony, universals, error, and the structure of proof. Naiyāyikas, in turn, criticized Jaina doctrines of anekāntavāda (many‑sidedness), nayavāda (standpoints), and syādvāda (conditional predication), often accusing them of leading to contradiction or skepticism.\n\nHistorically, the debate unfolds in three overlapping strands. First, there is a shared realist commitment: both Jainism and Nyāya affirm that external objects exist independently of the mind and can be known. This common ground makes their disagreements especially sharp. Naiyāyikas defend a four‑fold list of pramāṇas—perception (pratyakṣa), inference (anumāna), comparison (upamāna), and testimony (śabda)—and elaborate detailed accounts of error, negation, and universals. Jaina authors accept realism but re‑organize pramāṇa theory around direct and indirect knowledge, integrating scriptural and omniscient cognition into a broader hierarchy of jñāna. They argue that Nyāya’s account of validity (prāmāṇya) and error is too narrow because it does not adequately accommodate the complexity of perspectives and conditions in which knowledge arises.\n\nSecond, the Jain–Nyāya debate centers on anekāntavāda and syādvāda. Naiyāyikas typically seek single, determinate judgments about substances, qualities, and relations. Jaina thinkers respond that reality is complex, possessing infinitely many aspects, and that any single, absolute statement about it is necessarily partial. Syādvāda introduces conditional predication—\"syāt\" (\"in a certain respect\")—to mark the standpoint from which a statement is made. In polemical works such as Akalaṅka’s commentaries and Yaśovijaya’s Jain Nyāya Khanda Khādya, Jaina authors argue that Nyāya’s insistence on unqualified assertions fails to respect the layered nature of reality and leads to dogmatism. Naiyāyikas counter that syādvāda collapses into self‑contradiction if one simultaneously affirms and denies the same predicate of the same subject. Jaina logicians reply by carefully distinguishing standpoints (naya) and insisting that apparent contradictions dissolve once the relevant conditions are specified.\n\nThird, the debate extends into technical issues of negation, universals, and the problem of error. Nyāya defends a robust realism about universals (sāmānya) as distinct, eternal entities inhering in particulars, and it treats negation (abhāva) as a separate category of reality. Jaina philosophers criticize this as \"extreme realism\" and instead describe universals and particulars as aspects of the same real, accessible through different standpoints. Negation, for them, expresses difference or otherness rather than a separate ontological category. On error, Nyāya’s anyathākhyātivāda explains illusion as misapprehension—taking one thing as another—while Jaina authors develop closely related accounts but embed them within anekāntavāda, arguing that even erroneous cognitions reveal something about the structure of experience when properly analyzed.\n\nAcross these debates, both traditions refine their methods of argument. Nyāya’s five‑membered inference, its theory of fallacies, and its emphasis on debate rules influence Jaina dialectics. Jain logicians adopt and adapt these tools while insisting that logical rigor must be combined with non‑absolutism. The result is a rich comparative epistemology: Nyāya presses Jainism to clarify how many‑sidedness avoids skepticism, and Jainism presses Nyāya to acknowledge the limits of single‑perspective claims. Modern scholarship and traditional commentaries read this debate not as a simple clash but as a mutually illuminating conversation in which realist epistemology, many‑sidedness, and logical discipline are continuously re‑negotiated.\n\nFrom a contemporary Jain standpoint, the Jain–Nyāya debate is valuable for at least three reasons. It shows that Jainism is not anti‑logical but deeply engaged with the most rigorous Indian school of logic; it clarifies how anekāntavāda and syādvāda function as disciplined methods rather than vague tolerance; and it offers a framework for inter‑philosophical dialogue in which one can affirm truth while recognizing the partiality of any single formulation. Because these debates are technical and historically layered, serious study benefits from consulting primary Sanskrit and Prakrit texts, traditional commentaries, and qualified teachers who can situate the arguments within living Jain practice and ethics.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra (also called Tattvārthādhigamasūtra)",
+      "author": "Umāsvāti / Umāsvāmi (traditionally accepted Jaina ācārya)",
+      "original_text": "प्रत्यक्षाnumानागमाः प्रमाणानि ।",
+      "transliteration": "pratyakṣānumānāgamāḥ pramāṇāni.",
+      "translation": "Perception, inference, and scripture are the means of valid knowledge.",
+      "notes": "Tattvārthasūtra is a foundational Jain philosophical text accepted across major traditions. The sūtra on pramāṇa presents a threefold list—perception, inference, and scripture—that is often compared with Nyāya’s fourfold list (perception, inference, comparison, testimony). In Jain–Nyāya debate, this passage anchors discussions on how many and which means of knowledge should be recognized, and how scriptural and omniscient cognition fit into a realist epistemology."
+    },
+    {
+      "title": "Nyāyasūtra",
+      "author": "Gautama (also called Akṣapāda Gautama, traditional founder of Nyāya)",
+      "original_text": "प्रत्यक्षाnumानोपमानागमाः प्रमाणानि ॥",
+      "transliteration": "pratyakṣānumānopamānāgamāḥ pramāṇāni.",
+      "translation": "Perception, inference, comparison, and testimony are the means of valid knowledge.",
+      "notes": "Nyāyasūtra 1.1.3 gives the canonical Nyāya list of four pramāṇas. Jain logicians frequently cite and critique this verse, arguing that while they share Nyāya’s realist orientation, their own classification of pramāṇa better accommodates the hierarchy of ordinary, scriptural, and omniscient knowledge. Comparative study of this sūtra alongside Tattvārthasūtra’s pramāṇa verse is central to understanding the Jain–Nyāya epistemological debate."
+    },
+    {
+      "title": "Akalanka’s commentaries (e.g., Tattvārtharājavārtika)",
+      "author": "Akalanka (Digambara Jaina logician, c. 8th century CE)",
+      "original_text": "अनेकान्तो हि वस्तुनः स्वभावः, तस्मात् नैकान्तेनावस्थाप्यते ।",
+      "transliteration": "anekānto hi vastunaḥ svabhāvaḥ, tasmāt naikāntenāvasthāpyate.",
+      "translation": "Many‑sidedness is indeed the nature of a real thing; therefore it cannot be established by a one‑sided view.",
+      "notes": "In his commentaries, Akalanka defends anekāntavāda against Nyāya and Buddhist criticisms. The cited style of statement (wording varies across manuscripts) captures his core claim: real entities have multiple aspects, so any single, absolute assertion is incomplete. Akalanka uses Nyāya’s own logical tools—analysis of inference, fallacies, and debate—to argue that only a many‑sided approach can do justice to reality. These works are primary sources for the technical Jain–Nyāya debate on anekāntavāda, syādvāda, and pramāṇa."
+    },
+    {
+      "title": "Jain Nyāya Khanda Khādya (Jainanyāyakhanda‑khādya)",
+      "author": "Yaśovijaya Sūri",
+      "original_text": "स्यादस्ति, स्यादनास्ति, स्यादस्ति च नास्ति च, स्यादवक्तव्यः इति बहुधा नयः ।",
+      "transliteration": "syād asti, syād nāsti, syād asti ca nāsti ca, syād avaktavyaḥ iti bahudhā nayaḥ.",
+      "translation": "In some respect, it is; in some respect, it is not; in some respect, it both is and is not; in some respect, it is inexpressible—thus, in many ways, the standpoint is articulated.",
+      "notes": "Yaśovijaya’s Jain Nyāya Khanda Khādya is a major Svetāmbara work of Jain logic and polemics. It engages Buddhist and Nyāya positions in detail, defending anekāntavāda and syādvāda while using highly technical argumentation. The verse here summarizes the multi‑valued, conditional structure of syādvāda that Yaśovijaya elaborates against Nyāya criticisms of contradiction. The text is an important primary source for understanding how later Jain logicians systematized debate with Nyāya."
+    },
+    {
+      "title": "Jain Nyāya kā Vikas (Development of Jain Logic)",
+      "author": "Muni Nathmal (later Acharya Mahaprajna)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "Although a modern scholarly and traditional work rather than an ancient primary scripture, \"Jain Nyāya kā Vikas\" surveys the historical evolution of Jain logic from the Āgama era through philosophical and epistemological periods. It situates figures like Samantabhadra, Siddhasena, Akalanka, Vidyānanda, Prabhācandra, and Yaśovijaya within their debates with Buddhist and Nyāya logicians. For students of the Jain–Nyāya debate, this text offers a structured overview of how Jain pramāṇa theory, anekāntavāda, and syādvāda developed in response to Nyāya challenges."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism rejects logic and rational debate, relying only on faith and non‑violence.",
+      "reality": "Jain philosophers developed highly technical systems of logic and epistemology and engaged Nyāya—the premier Indian school of logic—in sustained debate. Works by Akalanka, Vidyānanda, Prabhācandra, and Yaśovijaya show that Jainism values rigorous reasoning, structured inference, and careful analysis of error, all integrated with ethical commitments like non‑violence and many‑sidedness."
+    },
+    {
+      "myth": "Anekāntavāda and syādvāda mean that all views are equally true and that Jainism has no firm commitments.",
+      "reality": "Anekāntavāda and syādvāda are disciplined methods for expressing how one and the same reality can be described from different, partial standpoints. Jain logicians argue against Nyāya that absolute, one‑sided claims are incomplete, but they do not say that any statement is acceptable. Instead, they insist on specifying conditions and perspectives, using logical tools to distinguish valid from invalid standpoints while maintaining a realist view of truth."
+    },
+    {
+      "myth": "The Jain–Nyāya debate is a simple opposition in which Jainism and Nyāya share nothing in common.",
+      "reality": "Both Jainism and Nyāya are realist traditions that affirm the existence of external objects and the possibility of knowledge. Their debate arises precisely because they share concerns about pramāṇa, error, and universals but develop different solutions. Jain thinkers adopt many Nyāya techniques of argument while re‑interpreting them through anekāntavāda and nayavāda, and Naiyāyikas take Jain positions seriously enough to offer detailed critiques. The relationship is best understood as a complex, mutually shaping dialogue rather than a stark opposition."
+    }
+  ]
+}

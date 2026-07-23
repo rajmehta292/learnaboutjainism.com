@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, *yoga* (Sanskrit/Prakrit: योग / जोइ) refers not primarily to physical postures but to the activities of body, speech, and mind that bind karmic matter to the soul. Across Digambara and Śvetāmbara lineages, yoga is treated as a technical term within karma theory, ethical discipline, and meditative practice. Early canonical sources describe yoga as the vibrational activity (*yoga-pravṛtti*) that attracts and binds karma, while later commentaries expand the term to include structured contemplative practices, restraint, and the cultivation of equanimity.\n\nJain yoga is therefore both descriptive and prescriptive. Descriptively, it explains how mental, verbal, and bodily actions create karmic influx (*āsrava*). Prescriptively, it outlines how disciplined conduct, right knowledge, and right faith reduce these activities and ultimately lead toward liberation (*mokṣa*). The tradition integrates ethical vows, meditative absorption, breath awareness, scriptural reflection, and practices of nonviolence and restraint. Unlike some other Indian systems, Jain yoga does not aim at union with a deity or cosmic principle; instead, it seeks the purification of the soul through cessation of karmic activity.\n\nOver time, Jain thinkers such as Kundakunda, Umāsvāti/Umāsvāmi, Haribhadra Sūri, and Hemacandra elaborated yoga as a structured path. Haribhadra’s *Yogadṛṣṭisamuccaya* and Hemacandra’s *Yogaśāstra* integrate Jain doctrine with broader Indian yogic discourse, while maintaining the primacy of nonviolence, restraint, and liberation through the cessation of karmic influx. Modern Jain communities continue to teach yoga as a combination of ethical living, meditation, and disciplined awareness, emphasizing that physical postures are secondary to moral and spiritual transformation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "योगः शरीरवाक्चित्तानाम्",
+      "transliteration": "yogaḥ śarīra-vāk-cittānām",
+      "translation": "Yoga is the activity of body, speech, and mind.",
+      "notes": "Tattvārtha Sūtra 6.1 defines yoga as the threefold activity that causes karmic influx (*āsrava*). This is a foundational definition accepted across Digambara and Śvetāmbara traditions."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Kundakunda",
+      "original_text": "जोइणं कम्मसंसग्गं",
+      "transliteration": "joiṇaṃ kamma-saṃsaggaṃ",
+      "translation": "Yoga is the association with karma.",
+      "notes": "Kundakunda emphasizes that any vibrational activity of the soul leads to karmic bondage. His works are central to Digambara understandings of yoga as cessation of activity."
+    },
+    {
+      "title": "Yogadṛṣṭisamuccaya",
+      "author": "Haribhadra Sūri",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि योगः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi yogaḥ",
+      "translation": "Right faith, right knowledge, and right conduct are yoga.",
+      "notes": "Haribhadra integrates Jain doctrine with broader yogic frameworks, identifying the Three Jewels as the essence of yoga. His work is influential in Śvetāmbara Mūrti-pūjaka and comparative Jain yoga studies."
+    },
+    {
+      "title": "Yogaśāstra",
+      "author": "Hemacandra",
+      "original_text": "व्रतध्यानसंयमानां योगः",
+      "transliteration": "vrata-dhyāna-saṃyamānāṃ yogaḥ",
+      "translation": "Vows, meditation, and restraint constitute yoga.",
+      "notes": "Hemacandra’s text systematizes Jain yoga practices, including ethical vows, meditative techniques, and stages of spiritual progress. It is a major Śvetāmbara contribution to yoga literature."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain yoga is primarily about physical postures similar to modern exercise routines.",
+      "reality": "Jain texts treat yoga as mental, verbal, and bodily activity that binds karma. Ethical discipline, meditation, and restraint are central; physical postures are secondary and historically minimal."
+    },
+    {
+      "myth": "Yoga in Jainism aims at union with a divine being.",
+      "reality": "Jain philosophy does not posit union with a deity. Yoga aims at stopping karmic influx and achieving the soul’s inherent purity and liberation."
+    },
+    {
+      "myth": "All Indian traditions define yoga in the same way.",
+      "reality": "Jain definitions differ significantly from Pātañjala and Vedantic frameworks. Jain yoga focuses on karmic theory, ethical vows, and cessation of activity rather than metaphysical union or concentration alone."
+    }
+  ]
+}

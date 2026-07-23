@@ -1,0 +1,39 @@
+{
+  "overview": "Lazy loading is a performance optimization and design technique in computer programming—especially in web development and large-scale applications—where resources are deferred until the moment they are actually needed. Instead of initializing all objects, downloading all assets, or rendering all components during the initial load, the system marks some resources as non-critical and loads them only when the user’s interaction or program flow requires them. This reduces initial load time, memory usage, and bandwidth consumption, leading to faster perceived performance and smoother user experience.\n\nIn web development, lazy loading is commonly applied to images, videos, iframes, and even entire application modules. For example, a long article page might contain dozens of images below the fold; with lazy loading, only the images in or near the viewport are fetched initially, while the rest are loaded as the user scrolls. Modern browsers support native lazy loading via attributes such as \"loading=lazy\" on <img> and <iframe> elements, and developers can also implement custom strategies using the Intersection Observer API or JavaScript-based libraries. These approaches monitor when an element approaches or enters the viewport and trigger the resource download just in time, often with a small prefetch margin to avoid visible delays.\n\nBeyond assets, lazy loading is also a recognized design pattern for object initialization in software engineering. In this context, an expensive or rarely used object is not created at application startup; instead, a placeholder or proxy is used, and the real object is instantiated only when first accessed. This pattern can be implemented through lazy initialization (checking for null and creating on demand), virtual proxies that stand in for heavy objects, ghosts that represent partially loaded entities, or value holders that encapsulate deferred computation. The opposite approach, eager loading, initializes or fetches everything upfront, which can simplify logic but often harms performance when many resources are unnecessary for the typical execution path.\n\nWhen applied thoughtfully, lazy loading improves metrics such as initial page load time, Largest Contentful Paint (LCP), memory footprint, and bandwidth usage. It can also enhance scalability by reducing server load and network traffic. However, it must be used carefully: overusing lazy loading on critical resources can cause content to appear late, harm accessibility, or interfere with search engine optimization if important content is delayed or hidden from crawlers. Good implementations balance which resources are loaded eagerly (such as key layout and hero images) and which are deferred, while ensuring graceful fallbacks, accessibility compliance, and predictable behavior across devices and network conditions.",
+  "primary_sources": [
+    {
+      "title": "HTML Standard (Lazy Loading Attributes)",
+      "author": "WHATWG",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The HTML standard defines the \"loading\" attribute for certain elements, such as images and iframes, with values like \"lazy\" and \"eager\". When set to \"lazy\", the user agent may defer loading the resource until it is needed—for example, when it is about to be scrolled into view—thereby improving performance by avoiding unnecessary initial network requests.",
+      "notes": "This specification provides the normative definition of native lazy loading behavior in modern browsers. It formalizes how attributes like \"loading=lazy\" can be used to defer resource fetching and is the primary reference for standards-compliant implementations."
+    },
+    {
+      "title": "Lazy Loading Design Pattern (Object Initialization)",
+      "author": "Common Object-Oriented Design Literature",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Lazy loading is described as a creational design pattern in which the initialization of an object is deferred until it is first needed. Rather than constructing all objects at startup, the system uses placeholders, proxies, or conditional initialization logic so that expensive resources are created only on demand.",
+      "notes": "While not tied to a single canonical text, this description reflects the pattern as presented in widely used software engineering references and tutorials. It underpins lazy initialization, virtual proxy, ghost objects, and value holder techniques in object-oriented design."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Lazy loading always makes a website or application faster, no matter how it is used.",
+      "reality": "Lazy loading improves performance only when applied thoughtfully to non-critical resources. If essential content—such as hero images, key scripts, or primary text—is loaded lazily, users may experience delayed rendering, layout shifts, or broken functionality. Poorly configured lazy loading can actually worsen perceived performance and harm accessibility and SEO."
+    },
+    {
+      "myth": "Lazy loading is only relevant for images on web pages.",
+      "reality": "Although image optimization is a common use case, lazy loading is a broader technique that applies to many resource types: videos, iframes, fonts, background assets, and entire code modules or routes in single-page applications. In software design, it also refers to deferring object creation and data fetching, not just media loading."
+    },
+    {
+      "myth": "Using lazy loading means you no longer need to worry about bandwidth or server load.",
+      "reality": "Lazy loading reduces initial bandwidth usage and can lower peak server load, but it does not eliminate the need for careful capacity planning and optimization. Resources are still downloaded when users access them, and heavy usage patterns can generate significant traffic. Caching, compression, efficient data structures, and scalable infrastructure remain important alongside lazy loading."
+    },
+    {
+      "myth": "Lazy loading is incompatible with search engine optimization because content is always hidden from crawlers.",
+      "reality": "Modern search engines can process many forms of lazy loading, especially when native attributes like \"loading=lazy\" are used and core content is available in the initial HTML. Problems arise mainly when critical content is injected only via complex client-side scripts without proper fallbacks. With standards-based implementations and attention to crawlability, lazy loading can coexist with good SEO practices."
+    }
+  ]
+}

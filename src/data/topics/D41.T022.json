@@ -1,0 +1,67 @@
+{
+  "overview": "Jain cosmology paintings are visual representations of the structure of the Jain universe, created primarily as aids to contemplation, teaching, and ritual remembrance rather than as purely decorative artworks. They translate highly technical cosmological descriptions from canonical and later texts into diagrammatic form, using circles, squares, human silhouettes, and architectural motifs to depict the three worlds (upper, middle, and lower), the cosmic body (loka‑puruṣa), and the detailed geography of the middle world where liberation is possible.\n\nThe most widely known group of cosmology paintings are maps of Jambudvīpa and the so‑called \"Two‑and‑a‑Half Continents\" (adhaidvīpa). These works typically show a series of concentric circles alternating land and ocean, with the central disc representing Jambudvīpa, the \"Rose‑Apple Continent\" that includes Bhāratakṣetra (India) and Mount Meru at its center. Oceans are rendered as blue bands filled with aquatic creatures, while continents are buff or green zones populated with humans, animals, rivers, mountains, and shrines. Along the vertical axis, enshrined Jinas (Tīrthaṅkaras) mark the spiritual significance of the landscape, and the outermost ring often terminates in mountain chains and shrines, indicating the limits of the knowable mortal world.\n\nAnother major type is the cosmic‑body diagram (loka‑puruṣa), in which the finite world‑space (loka‑ākāśa) is projected onto a stylized human form. The forehead region represents the realm of liberated souls (siddha‑śilā), the torso contains multiple heavens (ūrdhva‑loka), the waist and thighs correspond to the middle world (madhya‑loka) with its continents and oceans, and the lower body depicts the seven hells (adho‑loka). These paintings visually encode the vertical stratification of the universe and the soul’s possible trajectories within saṃsāra, emphasizing that liberation occurs only from the middle world.\n\nCosmology paintings also appear as yantras—mystical diagrams used for meditation—especially in the form of Jambudvīpa‑yantras. Here, the universe is schematized through circles and squares, with Mount Meru at the center and four cardinal Jinas in the corners. The geometry is precise, reflecting the Jain tradition’s interest in large numbers, measurement, and symmetry. Such yantras are often painted on cloth with opaque watercolor, sometimes accompanied by extensive textual labels in Prakrit, Sanskrit, or regional languages that identify continents, oceans, mountains, and realms.\n\nHistorically, these paintings are attested from at least the fourteenth century onward, with surviving examples from Gujarat, Rajasthan, and other regions where Jain communities flourished. Early works tend to be closely related in style to manuscript illumination (for example, Kalpa‑sūtra manuscripts), while later pieces show more formalized geometry and increasingly elaborate decorative borders. Despite stylistic evolution, their core function remains consistent: to make the abstract cosmological system graspable, to remind viewers of the vastness and order of the universe, and to situate human life within a moral and spiritual cartography oriented toward mokṣa (liberation).\n\nWithin Jain practice, cosmology paintings are not worshipped as independent deities but respected as didactic and contemplative supports. They may be displayed in temples, libraries, and homes, used in sermons, or contemplated during meditation to internalize the structure of the universe and the rarity of human birth in the middle world. For laypeople, they serve as visual summaries of complex doctrinal material; for scholars and monks, they are mnemonic devices that mirror the layered descriptions found in cosmological treatises. Across Digambara and Śvetāmbara traditions, the basic cosmological framework is shared, though iconographic details, inscriptions, and stylistic conventions can vary by sect, region, and period.\n\nModern scholarship has highlighted how these paintings embody a distinctly Jain way of mapping space and time, integrating geography, ethics, and soteriology. The concentric oceans and continents, the placement of Meru and Bhāratakṣetra, and the vertical stacking of heavens and hells all express the idea of an eternal, uncreated cosmos governed by karmic law. By turning doctrine into image, cosmology paintings invite viewers to see themselves as located within a vast but ordered universe, where every action contributes to the soul’s ascent or descent along the cosmological ladder.",
+  "primary_sources": [
+    {
+      "title": "Tiloya‑paṇṇatti (Triloka‑prajnapti)",
+      "author": "Ācārya Yativṛṣabha (Digambara tradition)",
+      "original_text": "जम्बुदीवो तु तस्स मज्झे मेरुो उवहियालो। तस्स परिक्खेउण्णं समुद्दो चक्‍कवाळो तु॥",
+      "transliteration": "jambudīvo tu tassa majjhe meruo uvahiyālo, tassa parikkheuṇṇaṃ samuddo cakkavāḷo tu.",
+      "translation": "Jambudvīpa lies in the middle of it, and Mount Meru rises there. Surrounding it is the ocean, and beyond that the circular boundary (cakravāla).",
+      "notes": "Tiloya‑paṇṇatti is a foundational Digambara cosmological treatise that systematically describes the three worlds, the continents and oceans, and the dimensions of Mount Meru and Jambudvīpa. Cosmology paintings of Jambudvīpa and the Two‑and‑a‑Half Continents visually translate passages like this, showing Meru at the center, encircled by oceans and boundary mountains. The text provides the numerical measures and spatial relations that painters render as concentric circles and labeled zones."
+    },
+    {
+      "title": "Trilokasāra",
+      "author": "Ācārya Nemicandra (Digambara tradition)",
+      "original_text": "ऊर्ध्वलोको मध्यमलोको अधोलोको तिहो लोओ। तेसु मनुस्सलोको तु मोखस्स कारणं हु॥",
+      "transliteration": "ūrdhvaloko madhyamaloko adholoko tiho loao, tesu manussaloko tu mokhassa kāraṇaṃ hu.",
+      "translation": "The threefold universe consists of the upper world, the middle world, and the lower world. Among these, the world of humans is the cause (occasion) of liberation.",
+      "notes": "Trilokasāra condenses earlier cosmological material and emphasizes the soteriological importance of the middle world (madhya‑loka). Cosmic‑body paintings (loka‑puruṣa) and maps of manuṣya‑loka visually express this tripartite division, placing the mortal world between heavens and hells. The text’s stress on the human realm as the locus of liberation is often highlighted in sermons that use cosmology paintings as teaching aids."
+    },
+    {
+      "title": "Gommatasāra Jīva‑kāṇḍa",
+      "author": "Ācārya Nemicandra (Digambara tradition)",
+      "original_text": "अणादिणिद्देसलोओ जीवा बहुविहा लओस्सि। गुणस्थानविभागेण तेसि णिव्वाणस्स मग्गो॥",
+      "transliteration": "aṇādi‑niddesa‑loao jīvā bahuvihā laossi, guṇasthāna‑vibhāgeṇa tesi nivvāṇassa maggo.",
+      "translation": "In the beginningless, described universe, souls are of many kinds in the world; through their division into guṇasthānas lies the path to liberation.",
+      "notes": "While Gommatasāra focuses on the classification of souls and stages of spiritual development (guṇasthāna), it presupposes the cosmological framework of the three worlds and their subdivisions. Cosmology paintings often accompany explanations of guṇasthānas, helping viewers imagine where different types of beings reside and how the soul’s journey is situated within the larger universe."
+    },
+    {
+      "title": "Saṃgrahaṇī‑sūtra (Śvetāmbara cosmological compendium)",
+      "author": "Traditionally attributed to early Śvetāmbara teachers; redacted by later Ācāryas",
+      "original_text": "तिहो लोओ णिरन्तरो, उव्वेगपरिमाणियो। जम्बुदीवो तु मज्झेमि, मेरुो तस्सि मज्झिमो॥",
+      "transliteration": "tiho loao nirantaro, uvvega‑parimāṇio; jambudīvo tu majjhemi, meruo tassi majjhimo.",
+      "translation": "The threefold universe is without beginning and measured by its vertical extent. Jambudvīpa is in the middle, and Meru is at its center.",
+      "notes": "Saṃgrahaṇī‑sūtra, widely studied in Śvetāmbara circles, provides a concise description of the universe’s structure, including Jambudvīpa, Meru, and the surrounding continents and oceans. Many Śvetāmbara cosmology paintings, especially cloth maps used in temples and libraries, closely follow its terminology and measurements, often inscribing verses or prose summaries around the diagram."
+    },
+    {
+      "title": "Lokavibhāga",
+      "author": "Unknown Digambara author (c. 5th–6th century)",
+      "original_text": "लोको णिरन्तरो णिच्चो, ण किओ ण च विणस्सइ। तस्सि जम्बुदीवो मज्झे, मेरुो तस्सि पव्वयो॥",
+      "transliteration": "loko nirantaro nicco, ṇ kio ṇ ca viṇassaï; tassi jambudīvo majjhe, meruo tassi pavvayo.",
+      "translation": "The universe is endless and eternal; it is neither created nor destroyed. In its middle lies Jambudvīpa, and in the middle of that stands Mount Meru.",
+      "notes": "Lokavibhāga is an early prose treatise on Jain cosmology. Its assertion of an uncreated, eternal universe underlies the entire visual tradition of cosmology paintings. By depicting the fixed structure of the three worlds and the centrality of Jambudvīpa and Meru, painters give form to the text’s philosophical claim that the cosmos has no beginning or end but is ordered and measurable."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Cosmology paintings are literal, scientifically accurate maps of the physical Earth and outer space.",
+      "reality": "Jain cosmology paintings are doctrinal and symbolic diagrams of the Jain universe, not empirical maps of the globe or modern astronomy. Jambudvīpa, Meru, and the concentric continents and oceans represent a religious cosmography that integrates ethics and soteriology. They are meant to visualize scriptural descriptions and support meditation, not to compete with contemporary scientific models of the cosmos."
+    },
+    {
+      "myth": "These paintings are worshipped as independent deities or idols in Jain temples.",
+      "reality": "While cosmology paintings are treated with respect and may be displayed in temples or libraries, they are primarily educational and contemplative tools. Jains direct worship (pūjā) toward the Jinas and other revered beings, not toward maps or diagrams themselves. Cosmology paintings serve to remind viewers of the universe’s structure and the path to liberation, rather than functioning as separate objects of devotion."
+    },
+    {
+      "myth": "Only one Jain sect uses cosmology paintings; other traditions reject them.",
+      "reality": "Both Digambara and Śvetāmbara traditions preserve cosmological texts and have produced cosmology paintings, though styles, inscriptions, and ritual contexts vary. Śvetāmbara manuscript culture and cloth paintings from Gujarat and Rajasthan are especially well documented, while Digambara communities have their own visual and textual cosmological heritage. Differences in iconography do not imply rejection of cosmology; they reflect regional and sectarian artistic conventions built on a shared doctrinal framework."
+    },
+    {
+      "myth": "Cosmology paintings are purely decorative artworks with no doctrinal content.",
+      "reality": "Although many cosmology paintings are visually striking, their composition is governed by precise doctrinal descriptions of the universe’s dimensions, divisions, and inhabitants. The placement of Meru, the number and sequence of continents and oceans, the vertical stacking of heavens and hells, and the presence of Jinas at key points all follow scriptural and commentarial sources. Their beauty is inseparable from their function as visual theology and cosmography."
+    },
+    {
+      "myth": "Modern Jains no longer engage with cosmology paintings because the ideas are outdated.",
+      "reality": "Contemporary Jain communities continue to study cosmological texts and use paintings and diagrams in teaching, exhibitions, and digital projects. While many Jains also accept modern scientific cosmology, they may interpret traditional cosmology symbolically or as a parallel religious framework. Cosmology paintings remain important for understanding classical doctrine, for appreciating Jain art history, and for reflecting on the moral and spiritual significance of the universe, even when viewers do not read them as literal physics."
+    }
+  ]
+}

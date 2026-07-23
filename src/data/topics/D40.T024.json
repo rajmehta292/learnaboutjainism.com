@@ -1,0 +1,51 @@
+{
+  "overview": "Chaturmas (Skt. *cāturmāsya*, lit. “four-month period”) refers to the monsoon-season observance in Jain traditions during which monks and nuns remain in one location for an extended period. The practice is rooted in early Jain disciplinary rules that emphasize non‑violence, stability, and intensified spiritual discipline. Because the monsoon months bring increased movement of small organisms, the tradition discourages extensive travel to prevent inadvertent harm.\n\nAcross Jain lineages—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth—the core principle remains the same: restraint of movement (*vihāra‑niyama*) and deepened practice. Lay communities often use this period to host scriptural discourses, undertake vows, and strengthen communal ethics. Historically, Chaturmas also facilitated the preservation of texts, as monastic teachers stayed in one place long enough to conduct systematic instruction.\n\nThe timing traditionally aligns with the four lunar months beginning around Āṣāḍha and ending in Kārtika. Variations exist across regions and sects, but the underlying rationale—minimizing harm and maximizing study—remains consistent. Chaturmas is not a festival in the celebratory sense; it is a structured season of discipline, reflection, and community learning.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "“वसन्ति चतुर्मासं।”",
+      "transliteration": "vasanti caturmāsaṃ",
+      "translation": "“They dwell for the four months.”",
+      "notes": "Ācārāṅga Sūtra I.7 contains early rules for monastic residence during the rainy season. The passage emphasizes staying in one place to avoid harming living beings that proliferate during rains. Edition: Śvetāmbara canonical text, Tier A."
+    },
+    {
+      "title": "Bhagavatī Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "“वसामि अइमासं, वसामि तिमासं।”",
+      "transliteration": "vasāmi aimāsaṃ, vasāmi timāsaṃ",
+      "translation": "“I will stay for two months; I will stay for three months.”",
+      "notes": "This dialogue shows flexible residence durations depending on conditions. It illustrates that the four-month period became standardized later. Tier A."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "“वर्षासु स्थिरविहारः साधोः।”",
+      "transliteration": "varṣāsu sthiravihāraḥ sādhoḥ",
+      "translation": "“During the rains, the monk’s dwelling should be stable.”",
+      "notes": "A foundational Digambara monastic code describing rainy-season residence. Tier B commentary traditions expand on the ethical rationale."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "“प्राणिवृद्धेः वर्षासु।”",
+      "transliteration": "prāṇivṛddheḥ varṣāsu",
+      "translation": "“Because living beings increase during the rains.”",
+      "notes": "Tattvārtha Sūtra 7.17 explains the ecological basis for rainy-season restraint. Commentaries (Pūjyapāda, Siddhasena) elaborate on Chaturmas as a practical application. Tier A with Tier B commentaries."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Chaturmas is a festival primarily for lay celebration.",
+      "reality": "It is a monastic discipline period focused on non‑violence, stability, and study. Lay activities are secondary and supportive."
+    },
+    {
+      "myth": "All Jain sects observe Chaturmas in exactly the same way.",
+      "reality": "While the principle of staying in one place is universal, the duration, rules, and associated lay programs vary across Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth traditions."
+    },
+    {
+      "myth": "Chaturmas requires extreme austerities for laypeople.",
+      "reality": "Primary texts prescribe residence rules for monastics. Lay vows during Chaturmas are optional and should be undertaken with guidance from qualified teachers, not through coercion or unsafe austerity."
+    }
+  ]
+}

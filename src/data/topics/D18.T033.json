@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “qualified guidance” refers to instruction that is grounded in verified primary texts, supported by recognized commentarial traditions, and offered by individuals or institutions with demonstrable training in Jain philosophy, ethics, history, languages, and practice. Because Jainism maintains a long scholastic lineage across Śvetāmbara, Digambara, and other sub‑traditions, qualified guidance ensures that learners receive information that is textually accurate, contextually appropriate, and free from coercion or misinterpretation.\n\nWithin classical Jain literature, guidance is repeatedly linked to the presence of a *jina‑śāsana* (the teaching of the Jinas), the reliability of *ācāryas* and *upādhyāyas*, and the disciplined transmission of doctrine. Modern academic and community-based Jain education continues this emphasis by requiring that teachers be transparent about sources, distinguish between scripture and interpretation, and avoid presenting personal views as binding religious authority.\n\nQualified guidance also includes ethical safeguards. Jain texts warn against misleading instruction, unverified claims about karma or austerities, and practices that endanger health or violate non‑violence. Contemporary Jain communities and scholars therefore emphasize responsible pedagogy, especially for topics involving fasting, vows, karma theory, or advanced spiritual stages. In all cases, qualified guidance is characterized by clarity about sources, acknowledgment of interpretive diversity, and encouragement to consult trained human experts when decisions carry spiritual, medical, or social consequences.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "श्रुतज्ञानान् ज्ञानोपदेशः",
+      "transliteration": "śrutajñānān jñānopadeśaḥ",
+      "translation": "Scriptural knowledge is the basis for the instruction of knowledge.",
+      "notes": "Tattvārtha Sūtra 1.19 highlights that proper instruction (*upadeśa*) must arise from scriptural knowledge (*śruta‑jñāna*). Commentaries across traditions use this verse to emphasize that guidance must be grounded in authoritative texts rather than personal speculation."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "एवं खु महावीरं भिक्खू उपसग्गे उपसग्गे पच्छा वयन्ति।",
+      "transliteration": "evaṃ khu mahāvīraṃ bhikkhū upasagge upasagge pacchā vayanti",
+      "translation": "Thus the monks approach Mahāvīra in each difficulty and receive instruction thereafter.",
+      "notes": "This passage (Ācārāṅga Sūtra I.2) illustrates the classical model of seeking guidance from a qualified teacher when facing uncertainty or hardship. The text underscores the importance of disciplined transmission and proper context."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Kundakunda",
+      "original_text": "णाणं तव्वं च ववहारो, गुरुणा देसिअं सुदं।",
+      "transliteration": "ñāṇaṃ tavvaṃ ca vavahāro, guruṇā desiaṃ sudaṃ",
+      "translation": "Knowledge, its object, and conduct are to be taught clearly by the teacher.",
+      "notes": "Pravacanasāra 1.3 stresses that proper teaching requires clarity and alignment with the threefold Jain path. Digambara commentaries use this verse to highlight the need for qualified teachers who can accurately convey doctrine."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Any enthusiastic speaker or online source can provide reliable Jain guidance.",
+      "reality": "Jain traditions emphasize that guidance must be grounded in verified scripture, recognized commentaries, and trained expertise. Unverified sources may unintentionally distort doctrine or encourage unsafe practices."
+    },
+    {
+      "myth": "Qualified guidance means giving strict personal instructions or binding religious rulings.",
+      "reality": "Qualified guidance in Jainism involves explaining texts, contexts, and options—not issuing authoritative commands. Binding religious rulings require recognized lineage authority, which general educators or AI systems cannot provide."
+    },
+    {
+      "myth": "Scriptural quotations alone guarantee qualified guidance.",
+      "reality": "Jain hermeneutics require not only quoting texts but also understanding genre, historical context, commentarial interpretations, and differences between Digambara and Śvetāmbara traditions."
+    }
+  ]
+}

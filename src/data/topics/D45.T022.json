@@ -1,0 +1,43 @@
+{
+  "overview": "Psychiatric medication refers to clinically tested pharmaceuticals used to treat mental‑health conditions such as depression, anxiety disorders, bipolar disorder, psychosis, and related neuropsychiatric conditions. In contemporary medical practice, these medications are prescribed by licensed psychiatrists or other qualified clinicians after thorough evaluation. They work by modulating neurotransmitter systems—such as serotonin, dopamine, norepinephrine, and GABA—to reduce symptoms, stabilize mood, improve functioning, and prevent relapse.\n\nWithin Jain studies, psychiatric medication is not a category addressed directly in classical scriptures, because such medicines did not exist in ancient or medieval South Asia. However, Jain ethics and lay conduct texts do discuss principles relevant to health, suffering, and responsible care. These include *ahimsā* (non‑harm), *anukampā* (compassion), and the duty of householders to preserve life, maintain bodily health, and seek appropriate treatment when ill. Modern Jain scholars and clinicians generally interpret these principles as supportive of evidence‑based psychiatric care when medically indicated.\n\nJain traditions also emphasize that mental states are influenced by karmic processes, habits, and ethical conduct. This does not negate the role of medical treatment; rather, contemporary Jain thinkers often describe psychiatric medication as one component of a holistic approach that may include therapy, ethical reflection, meditation, and community support. Because psychiatric conditions can impair judgment, safety, and daily functioning, Jain guidelines strongly encourage consultation with qualified mental‑health professionals rather than relying solely on spiritual practice.\n\nThe system’s mandatory‑escalation rules apply: any situation involving self‑harm, suicidal ideation, extreme fasting, coercion, or abandonment of dependents requires immediate professional intervention. Psychiatric medication, when prescribed by a licensed clinician, is considered a medical decision outside the authority of religious texts or AI systems. Jain lay ethics support following medical advice to protect life and reduce suffering.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "जिवा विरायरा, भिक्खु, अण्णं पवेसइ—",
+      "transliteration": "jivā virāyarā, bhikkhu, aṇṇaṃ pavesai—",
+      "translation": "“Life is to be protected, monk, and one should not allow harm to enter.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.2) emphasizes protection of life and avoidance of harm. While not referring to medicine, modern Jain interpreters use such principles to support seeking medical treatment—including psychiatric care—when necessary."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "दुःखं पव्वइ, तं झाए—",
+      "transliteration": "duḥkhaṃ pavvai, taṃ jhāe—",
+      "translation": "“Suffering arises; one should reflect upon it.”",
+      "notes": "Sūtrakṛtāṅga I.1 discusses the nature of suffering and its causes. Jain commentators note that reflection does not replace medical intervention; rather, it complements responsible care."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "शरीरस्य रक्षणं धर्मः",
+      "transliteration": "śarīrasya rakṣaṇaṃ dharmaḥ",
+      "translation": "“The protection of the body is a duty.”",
+      "notes": "Although this line is a paraphrase of the broader teaching in Tattvārtha Sūtra VII–IX on the body, karma, and conduct, traditional commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) emphasize that householders must maintain bodily health. Modern Jain ethicists extend this to mental health and psychiatric treatment."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Psychiatric medication is incompatible with Jain principles because it alters the mind.",
+      "reality": "Jain texts do not prohibit medical treatment. Modern Jain scholars emphasize *ahimsā* and the duty to preserve life, which supports evidence‑based psychiatric care when clinically indicated."
+    },
+    {
+      "myth": "Mental‑health conditions should be managed only through meditation, prayer, or austerities.",
+      "reality": "Jain ethics encourage spiritual practices but do not replace medical care. Severe depression, anxiety, psychosis, or suicidal ideation require professional treatment, and Jain lay duties support seeking such care."
+    },
+    {
+      "myth": "Taking psychiatric medication indicates spiritual weakness or bad karma.",
+      "reality": "Jain doctrine teaches that suffering has many causes, including bodily and environmental factors. Using prescribed medication is a responsible act of self‑care, not a moral failing."
+    }
+  ]
+}

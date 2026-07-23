@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, “memorial practice” refers to a cluster of ritual, narrative, and ethical activities through which individuals and communities remember departed family members, revered teachers, and historically significant figures. These practices are not oriented toward intercession or salvation through the deceased; rather, they serve as occasions for reflection on impermanence (anityatā), karmic responsibility, and the exemplary conduct of past beings. Memorial activities appear across Digambara and Śvetāmbara lineages, though their forms differ according to sectarian norms regarding images, ritual space, and permissible offerings.\n\nAt the household level, memorial practice often includes simple acts such as recalling virtues of the deceased, reading passages from canonical texts, or performing pratikramaṇa with an explicit intention to cultivate forgiveness and equanimity. These actions are framed as opportunities to strengthen one’s own ethical discipline rather than to influence the condition of the departed soul, which—according to Jain karma theory—moves immediately to its next embodiment at the moment of death.\n\nCommunity-level memorials may involve commemorative gatherings on death anniversaries (varṣī), recitations of exemplary biographies (caritra), or the installation of memorial stones or inscriptions at temples and upāśrayas. In Śvetāmbara Mūrti-pūjaka settings, memorial plaques or images may be placed in temple complexes, while Sthānakavāsī and Terāpanth traditions emphasize non-iconic remembrance through sermons, collective pratikramaṇa, and readings from authoritative texts. Digambara communities may mark the passing of eminent scholars or munis through special pravacanas, manuscript copying, or the preservation of samādhi memorials.\n\nAcross traditions, the ethical purpose of memorial practice is to reinforce ahiṃsā, self-restraint, and awareness of the soul’s independent journey. The remembrance of teachers or family members is framed as an opportunity to cultivate gratitude, humility, and renewed commitment to one’s own spiritual progress. Because Jain doctrine rejects the idea that the living can alter the karmic state of the deceased, memorial practices remain firmly centered on the transformation of the practitioner rather than ritual benefit for the departed.",
+  "primary_sources": [
+    {
+      "title": "Uttarādhyayana-sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "जगति अनित्ता भावा",
+      "transliteration": "jagati anittā bhāvā",
+      "translation": "“In the world, states are impermanent.”",
+      "notes": "This passage (Uttarādhyayana-sūtra 10.1, canonical tier A) is frequently cited in memorial contexts to emphasize impermanence and the need for vigilance in ethical conduct."
+    },
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "जीवो जीवस्य न कर्ता",
+      "transliteration": "jīvo jīvasya na kartā",
+      "translation": "“One soul is not the doer for another.”",
+      "notes": "Tattvārtha-sūtra 5.36 (tier A) is foundational for understanding why memorial practices do not aim to influence the karmic destiny of the deceased. Commentaries (tier B) clarify that remembrance is ethically beneficial only for the living practitioner."
+    },
+    {
+      "title": "Bhagavatī-sūtra",
+      "author": "Śvetāmbara canonical tradition",
+      "original_text": "णाणं चरित्तं च उवगाहइ",
+      "transliteration": "ṇāṇaṃ carittaṃ ca uvagāhai",
+      "translation": "“One should immerse oneself in knowledge and conduct.”",
+      "notes": "Used in memorial sermons to highlight the exemplary lives of teachers and elders, reinforcing the pedagogical function of remembrance."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Memorial rituals help the departed soul progress spiritually or reduce its karmic burden.",
+      "reality": "According to canonical Jain doctrine (e.g., Tattvārtha-sūtra 5.36), each soul is solely responsible for its own karmic state. Memorial practices benefit the living by cultivating reflection, gratitude, and ethical resolve."
+    },
+    {
+      "myth": "All Jain traditions use images or physical memorials to honor the deceased.",
+      "reality": "Image-based memorials appear mainly in Śvetāmbara Mūrti-pūjaka and some Digambara contexts. Sthānakavāsī and Terāpanth traditions emphasize non-iconic remembrance through discourse, meditation, and scriptural recitation."
+    },
+    {
+      "myth": "Memorial practice is a form of ancestor worship.",
+      "reality": "Jain memorial activities do not involve worship of ancestors or requests for their intervention. They are reflective practices aimed at ethical self-improvement and acknowledgment of impermanence."
+    }
+  ]
+}

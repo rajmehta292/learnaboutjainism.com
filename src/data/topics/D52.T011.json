@@ -1,0 +1,55 @@
+{
+  "overview": "In Jain studies, “passage citation” refers to the precise, source-grounded way of identifying, quoting, and discussing specific portions of canonical texts, commentaries, and later literature. It is not merely a bibliographic habit; it is a discipline that connects interpretation to verifiable textual locations, preserves the integrity of the tradition, and allows readers to check claims against the original sources. In a multi-sectarian context—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, Terāpanth, and others—passage citation also helps clarify which recension, edition, or sectarian canon is being used, thereby preventing confusion when doctrines or narratives differ.\n\nA robust passage citation system typically includes the name of the text, the traditional section or adhyayana (lesson), chapter or uddesa, verse or gāthā number, and the edition or translator used. For Prakrit and Sanskrit works, it is ideal to cite both the original language and a reliable transliteration, followed by a clearly marked translation. This separation of layers—original text, transliteration, translation, and interpretation—helps distinguish what the text actually says from how a modern scholar or teacher understands it. In the context of the Source-Grounded Jain Study Guides and Advice System, passage citation is the backbone of the “corpus tiers” approach: Tier A (verified primary text and edition) must be clearly identified, and any movement into commentary (Tier B), scholarship (Tier C), or community education (Tier D) must be explicitly signposted.\n\nPassage citation also plays a crucial role in handling disagreements and uncertainties. Jain canonical collections, such as the Śvetāmbara Āgamas and Digambara Śāstras, exist in multiple manuscript traditions and printed editions. Variants in wording, omissions, or additions can affect doctrinal nuance—for example, in discussions of karma, guṇasthāna (spiritual stages), or vows (vrata). A careful citation will therefore note the edition used, any known variant readings, and, where relevant, alternative passages in parallel texts. When translation choices are contested or unclear, the citation should highlight that the English rendering is interpretive and invite the reader to consult the original language or other scholarly translations.\n\nIn modern digital and AI-assisted environments, passage citation guards against the risks of unverified OCR, loose paraphrase, and decontextualized quotation. By insisting that every material claim be traceable to a specific, checkable passage, the system encourages users to engage with primary sources rather than relying solely on secondary summaries. This is especially important for sensitive topics—such as sallekhana, fasting, or ethical dilemmas—where the system must escalate to qualified human guidance and avoid presenting any passage as a binding ruling. Instead, the cited text is offered as a resource for reflection, clearly distinguished from medical, legal, or pastoral advice.\n\nFinally, passage citation supports comparative and historical work. When studying differences between Digambara and Śvetāmbara views on, say, the status of women’s liberation, or the nature of omniscience (kevala-jñāna), precise references allow scholars and students to see how each tradition grounds its position in particular scriptural loci. Over time, a well-maintained citation practice builds a transparent map of the Jain textual universe, making it easier to trace doctrinal developments, commentarial debates, and the reception history of key verses. In this way, passage citation is not just a technical tool but a form of intellectual honesty and reverence toward the texts themselves.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi (sectarian attribution varies)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः ॥१.१॥",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ || 1.1 ||",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "A standard passage citation for Tattvārthasūtra includes the sūtra number (1.1), and often the chapter (adhyāya 1). In Jain studies, this verse is frequently cited as a foundational definition of the path to liberation. Good practice is to specify the edition (e.g., a critical edition or a particular sectarian recension) and, when using a commentary such as Pūjyapāda’s Sarvārthasiddhi, to clearly distinguish the sūtra text (Tier A) from the commentarial explanation (Tier B)."
+    },
+    {
+      "title": "Ācārāṅga-sūtra (Śvetāmbara canon)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; compiled within the Śvetāmbara Āgama",
+      "original_text": "जे ण हन्ति ण घातेति, ण च विग्घाएति, ण च विग्घायवाएति, ते महावीरस्य सāvayāṇaṃ।",
+      "transliteration": "je ṇ hanti ṇ ghāte ti, ṇ ca vigghāe ti, ṇ ca vigghāyavāe ti, te mahāvīrassa sāva-yāṇaṃ.",
+      "translation": "Those who do not kill, do not cause killing, do not consent to killing, and do not provoke killing—these are the true followers of Mahāvīra.",
+      "notes": "This passage (Ācārāṅga-sūtra I.1, section and gāthā numbering varies by edition) is often cited in discussions of ahiṃsā (non-violence). Proper passage citation will indicate the specific book, section, and verse numbers used in the chosen edition, as well as whether the text is taken from a critical edition or a traditional printed Āgama. Because Prakrit orthography and segmentation differ across manuscripts, scholars often note variant readings in footnotes, making clear where interpretive decisions have been made."
+    },
+    {
+      "title": "Samayasāra (Digambara tradition)",
+      "author": "Ācārya Kundakunda",
+      "original_text": "जो समएण पश्यदि, सो समयसारं पश्यदि।",
+      "transliteration": "jo samayeṇa paśyadi, so samayasāraṃ paśyadi.",
+      "translation": "One who sees with the perspective of the Self, truly sees the essence of the Self.",
+      "notes": "Samayasāra is a key Digambara text on the nature of the soul and right perception. Passage citation usually follows chapter and gāthā numbering (e.g., Samayasāra, gāthā 1 or 2 depending on edition). Because multiple recensions exist, it is important to specify which edition or commentary (such as Amṛtacandra’s) is being used. In comparative work, scholars often juxtapose this passage with parallel discussions in Śvetāmbara texts, and precise citation allows readers to verify the doctrinal context."
+    },
+    {
+      "title": "Uttarādhyayana-sūtra (Śvetāmbara canon)",
+      "author": "Traditionally attributed to early Jain teachers; preserved in the Śvetāmbara Āgama",
+      "original_text": "जं जं पवक्खइ पवयं, तं तं पवक्खइ पवयं।",
+      "transliteration": "jaṃ jaṃ pavakkhai pavayaṃ, taṃ taṃ pavakkhai pavayaṃ.",
+      "translation": "Whatever one declares as doctrine, that very thing one must declare consistently as doctrine.",
+      "notes": "This verse (Uttarādhyayana-sūtra, chapter and verse numbering varies) is often cited in discussions of doctrinal consistency and the responsibility of teachers. A careful passage citation will include the chapter (adhyāyana) and verse number, and may reference a standard edition or translation. When used in modern ethical debates, it is important to distinguish the original doctrinal context from contemporary applications, marking clearly where interpretation begins."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Any quotation from a Jain text, even without precise reference, counts as adequate passage citation.",
+      "reality": "Accurate passage citation requires more than a loose quotation. It must identify the specific text, section, chapter, verse or gāthā number, and, ideally, the edition or translation used. Without these details, readers cannot reliably verify the claim, check the broader context, or compare variant readings. In a source-grounded system, vague references are treated as incomplete and are not sufficient for doctrinal or historical arguments."
+    },
+    {
+      "myth": "Translations and paraphrases can be cited as if they were the original words of Mahāvīra or the canonical authors.",
+      "reality": "Translations and paraphrases are interpretive layers, not the original text. Proper passage citation distinguishes clearly between the original Prakrit or Sanskrit (Tier A), the transliteration, the translation (Tier C or D depending on its scholarly status), and any modern commentary or application. Presenting a translation as if it were the exact original wording obscures the role of the translator’s choices and can mislead readers about doctrinal nuance."
+    },
+    {
+      "myth": "Once a passage is cited from one sectarian canon, it can be generalized as representing all Jain traditions equally.",
+      "reality": "Jain traditions have distinct canonical collections and interpretive lineages. A passage from a Śvetāmbara Āgama or a Digambara Śāstra may not be accepted, interpreted, or prioritized in the same way across sects. Responsible passage citation therefore specifies the tradition and canon from which the text is drawn and avoids implying universal acceptance without evidence. Comparative work must cite parallel or contrasting passages from each relevant tradition rather than assuming uniformity."
+    },
+    {
+      "myth": "Digital or AI-generated text snippets can be treated as fully verified passages without further checking.",
+      "reality": "Digital and AI-generated snippets may derive from unverified OCR, incomplete editions, or secondary summaries. In a source-grounded Jain study framework, such material is treated as discovery-only (Tier E or F) until it is checked against verified primary editions (Tier A) or reviewed scholarship (Tier C). Proper passage citation always anchors claims in identifiable, verifiable sources and flags any uncertainty or provisional status, especially for sensitive ethical or ritual topics."
+    }
+  ]
+}

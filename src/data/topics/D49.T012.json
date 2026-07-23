@@ -1,0 +1,43 @@
+{
+  "overview": "The Institute of Jainology (IoJ) is a UK‑based educational and cultural organization established in 1983 to promote the study, preservation, and public understanding of Jain philosophy, history, art, and ethics. Although not a religious authority, it serves as a major academic and cultural hub for Jain heritage in the global diaspora. The Institute works closely with museums, universities, and interfaith bodies to ensure accurate representation of Jain traditions in public institutions.\n\nIts most visible contribution is the Jainpedia project, a large digital humanities initiative that digitizes, catalogs, and interprets Jain manuscripts held in major British collections such as the British Library, the Victoria and Albert Museum, the Wellcome Trust, and the Royal Asiatic Society. This project has made thousands of folios accessible to scholars and the public, accompanied by curated essays, timelines, and thematic guides. The Institute also organizes exhibitions, lectures, and conferences that highlight Jain contributions to philosophy, nonviolence, ecology, and art history.\n\nThe IoJ has played a significant role in interfaith representation, particularly in the United Kingdom. It has worked with the UK government and interfaith councils to ensure Jain inclusion in national events, census categories, and cultural programming. Its advocacy has helped raise awareness of Jain principles such as ahiṃsā (nonviolence), anekāntavāda (many‑sidedness), and aparigraha (non‑possessiveness) in contemporary ethical discussions.\n\nAlthough the Institute of Jainology does not issue doctrinal rulings or represent any specific sect, it collaborates with Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth communities to present balanced, tradition‑aware educational materials. Its work is grounded in manuscript studies, art history, and cultural preservation rather than religious authority. As a result, it is widely recognized as a scholarly resource for Jain studies and a bridge between Jain communities and academic institutions.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Nonviolence is the highest dharma.",
+      "notes": "This widely cited aphorism, though often associated with the Tattvārtha Sūtra, appears in multiple Jain and non‑Jain sources. The Institute of Jainology frequently references the principle of ahiṃsā in its interfaith and cultural work, using primary texts to contextualize Jain ethical contributions."
+    },
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Traditionally attributed to Bhadrabāhu",
+      "original_text": "जिनवराणं पव्वयणं",
+      "transliteration": "jinavarāṇaṃ pavvaayaṇaṃ",
+      "translation": "The life‑stories of the Jinas.",
+      "notes": "The Kalpa Sūtra is one of the most frequently digitized and exhibited Jain manuscripts in British collections. Through the Jainpedia project, the Institute of Jainology has made illustrated folios of this text accessible to the public, accompanied by scholarly descriptions."
+    },
+    {
+      "title": "Āvaśyaka Niryukti (excerpted verse)",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "णाणं तहा दंसणं चरित्तं तवो चहुज्जो",
+      "transliteration": "ṇāṇaṃ tahā daṃsaṇaṃ carittaṃ tavo cahujo",
+      "translation": "Knowledge, perception, conduct, and austerity are the fourfold path.",
+      "notes": "The Institute of Jainology’s educational materials often reference foundational doctrinal categories such as knowledge, perception, and conduct when explaining Jain ethics to interfaith audiences."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Institute of Jainology is a religious authority that issues doctrinal rulings for Jain communities.",
+      "reality": "The IoJ is an educational and cultural institution. It does not function as a religious authority, nor does it issue rulings or represent any specific Jain sect. Its work focuses on scholarship, heritage preservation, and public education."
+    },
+    {
+      "myth": "Jainpedia is a complete digital archive of all Jain manuscripts.",
+      "reality": "Jainpedia is a curated project focusing primarily on manuscripts held in major UK collections. It does not encompass the vast manuscript libraries in India or elsewhere, though it provides high‑quality digital access to selected materials."
+    },
+    {
+      "myth": "The Institute only represents Śvetāmbara traditions because many digitized manuscripts are Śvetāmbara.",
+      "reality": "While many UK‑held manuscripts are Śvetāmbara, the Institute collaborates with Digambara and other Jain communities to ensure balanced representation. Its educational materials cover all major Jain traditions."
+    }
+  ]
+}

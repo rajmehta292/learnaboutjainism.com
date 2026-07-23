@@ -1,0 +1,55 @@
+{
+  "overview": "In Jain traditions, monks (śramaṇa, muni, sādhu) are renunciants who undertake the most rigorous form of the Jain path, embodying ahiṃsā (non‑violence), aparigraha (non‑possessiveness), and saṃyama (discipline) to an extreme degree. They are not spiritual authorities in the sense of issuing binding rulings; rather, they serve as living practitioners of the vows described in the canonical literature. Jain monasticism is diverse, with Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth traditions maintaining distinct rules, attire, and disciplinary codes.\n\nAcross traditions, monks renounce household life, property, and social identity. They follow the mahāvratas—absolute vows of non‑violence, truth, non‑stealing, celibacy, and non‑possession—described in early canonical texts. Their daily practices include scriptural study, meditation, careful movement to avoid harming living beings, and alms‑seeking under strict ethical constraints. Monks are expected to cultivate equanimity, restraint of passions, and progressive purification of karma, ultimately aiming for liberation (mokṣa).\n\nDigambara monks practice nudity (dig‑ambara, “sky‑clad”) as a sign of total renunciation, though this is not universal across all Digambara sub‑lineages. Śvetāmbara monks wear simple white robes and follow detailed rules of conduct found in their canonical texts. Sthānakavāsī and Terāpanth monks reject image‑worship and maintain additional discipline around mobility, speech, and community organization. Despite differences, all Jain monastic traditions emphasize non‑violence, vigilance, and ethical purity.\n\nJain monasticism is historically rooted in the śramaṇa movements of ancient India. Texts such as the Ācārāṅga Sūtra and the Uttarādhyayana Sūtra describe the conduct, hardships, and ideals of monastic life. Commentarial traditions elaborate on these rules, while modern scholarship documents the evolution of monastic orders, their social roles, and their interactions with lay communities. Monks depend entirely on laypeople for food and basic needs, while laypeople rely on monks for teaching, ritual guidance, and preservation of scriptures.\n\nBecause monastic vows involve extreme austerities, Jain texts repeatedly warn that they must be undertaken only by those who are physically and mentally capable, and only under the guidance of a qualified living teacher. Laypeople are encouraged to respect monks but not imitate monastic austerities without proper authorization. The tradition maintains clear boundaries between lay and monastic practice to prevent harm and ensure ethical integrity.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to the Śvetāmbara canon; compiler unknown",
+      "original_text": "“ṇa yaṃ kiṃci jīvaṃ hiṃdejjā”",
+      "transliteration": "ṇa yaṃ kiṃci jīvaṃ hiṃdejjā",
+      "translation": "“One should not injure any living being.”",
+      "notes": "Book I of the Ācārāṅga Sūtra outlines the conduct of wandering monks, emphasizing vigilance, non‑violence, and careful movement. The text is foundational for Śvetāmbara monastic discipline."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canon; compiler unknown",
+      "original_text": "“saṃjamaṃ nāma mahesuṇaṃ”",
+      "transliteration": "saṃjamaṃ nāma mahesuṇaṃ",
+      "translation": "“Restraint is indeed the highest virtue.”",
+      "notes": "This text contains didactic chapters on monastic life, renunciation, and the gradual path of purification. It is widely used across Śvetāmbara traditions."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (accepted across Digambara and Śvetāmbara traditions)",
+      "original_text": "“vratāni mahāvratāni”",
+      "transliteration": "vratāni mahāvratāni",
+      "translation": "“The vows are the great vows.”",
+      "notes": "Chapter 7 describes the mahāvratas and the conduct of ascetics. Although not a monastic rulebook, it provides a philosophical framework for monastic discipline."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "“nirgranthaḥ sarvasaṅgaṃ tyaktvā carati”",
+      "transliteration": "nirgranthaḥ sarvasaṅgaṃ tyaktvā carati",
+      "translation": "“The bondless ascetic moves about having abandoned all attachments.”",
+      "notes": "A key Digambara text detailing monastic conduct, nudity, alms‑taking, and ethical vigilance. It is central to Digambara monastic identity."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain monks serve as authoritative religious rulers who issue binding commands to laypeople.",
+      "reality": "Jain monks are renunciants who model the path of discipline; they do not function as rulers or enforcers. Laypeople follow their own distinct set of vows and responsibilities."
+    },
+    {
+      "myth": "All Jain monks are naked.",
+      "reality": "Only Digambara monks traditionally practice nudity, and even within Digambara traditions this varies. Śvetāmbara, Sthānakavāsī, and Terāpanth monks wear simple white robes."
+    },
+    {
+      "myth": "Anyone can adopt monastic vows if they feel spiritually inclined.",
+      "reality": "Jain texts require careful evaluation, physical and mental fitness, and authorization from a qualified living teacher. Monastic vows involve extreme austerities and cannot be self‑initiated."
+    },
+    {
+      "myth": "Monks reject all forms of learning and scholarship.",
+      "reality": "Jain monastic traditions preserve vast scriptural and philosophical literature. Study, memorization, and teaching are central monastic duties."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, “traditional birth” (jāti or janma) is understood not merely as a biological event but as a karmically conditioned transition in the soul’s ongoing saṃsāric journey. Jain ontology describes birth as the moment when a jīva, bound by nāma‑karma (body‑determining karma) and gotra‑karma (status‑determining karma), assumes a new embodied form among the four gatis: heavenly beings (devas), human beings (manuṣyas), hell beings (narakas), or non‑human subhuman beings (tiryañcas). This process is governed by the fruition (udaya) of past karmas and is not considered a beginning of the soul, which is eternal.\n\nAcross Jain communities—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—the doctrinal foundations remain consistent: birth is a karmic manifestation, not a divine creation. The soul enters a new body through the subtle kārmaṇa‑śarīra and taijasa‑śarīra, which guide embodiment. Traditional narratives, such as the conception and birth of Tīrthaṅkaras, illustrate idealized forms of auspicious birth, marked by dreams, omens, and ritual purity, but these are symbolic and doctrinal rather than prescriptive for ordinary lay births.\n\nLay Jain households historically integrated birth rituals with ahiṃsā, śauca (cleanliness), and saṃyama (restraint). Practices varied by region and sect, but common elements included recitation of auspicious verses, avoidance of harm to living beings during childbirth, and post‑birth purification rites. Modern Jain communities often adapt these customs to contemporary medical settings, emphasizing ethical principles rather than rigid ritual requirements.\n\nIn philosophical terms, traditional birth is one stage in the cycle of jāti‑bandha (karmic binding of future birth) and jāti‑udaya (karmic fruition). It is closely linked to the broader karmic architecture described in canonical texts, especially the Tattvārtha Sūtra. Birth is thus both a consequence of past actions and an opportunity for future spiritual progress, with human birth considered particularly valuable for its potential to pursue right faith, knowledge, and conduct.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "जन्मनामगोत्रशरीराणि नामकर्मोदयानि",
+      "transliteration": "janma‑nāma‑gotra‑śarīrāṇi nāma‑karma‑udayāni",
+      "translation": "Birth, name, status, and body arise from the fruition of nāma‑karma.",
+      "notes": "Tattvārtha Sūtra 8.13 describes how karmic categories determine the conditions of birth. This is a foundational source across all Jain sects."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text (author unknown)",
+      "original_text": "जायन्ति मरणन्ति च, जीवाः संसारचक्रे",
+      "transliteration": "jāyanti maraṇanti ca, jīvāḥ saṃsāra‑cakre",
+      "translation": "Beings are born and die within the wheel of saṃsāra.",
+      "notes": "This passage emphasizes the cyclical nature of birth and death, framing birth as a karmically driven event."
+    },
+    {
+      "title": "Gommatsāra Jīvakāṇḍa",
+      "author": "Nemicandra Siddhānta‑cakravartin",
+      "original_text": "जन्म बन्धः कर्मणो देहप्राप्तिः",
+      "transliteration": "janma bandhaḥ karmaṇo deha‑prāptiḥ",
+      "translation": "Birth is the karmic bondage resulting in the acquisition of a body.",
+      "notes": "A Digambara text detailing how karmas determine embodiment and the mechanics of birth."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that birth is predetermined by divine will or cosmic destiny.",
+      "reality": "Jain doctrine attributes birth solely to the fruition of karmas accumulated by the soul. No deity or external force determines birth."
+    },
+    {
+      "myth": "Traditional Jain birth rituals are mandatory religious obligations for all families.",
+      "reality": "Jain texts do not prescribe universal birth rituals. Practices vary by region and sect, and modern families often adapt them to medical contexts while upholding ethical principles."
+    },
+    {
+      "myth": "Human birth is guaranteed after virtuous conduct in a previous life.",
+      "reality": "While virtuous conduct increases the likelihood of favorable rebirth, Jain karma theory states that multiple karmic factors interact, and human birth is rare and not guaranteed."
+    }
+  ]
+}

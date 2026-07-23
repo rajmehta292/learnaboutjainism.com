@@ -1,0 +1,43 @@
+{
+  "overview": "Climate change refers to long-term shifts in global temperatures, precipitation patterns, and atmospheric conditions driven primarily by human activities—especially the burning of fossil fuels, deforestation, and industrial processes that increase greenhouse gases such as carbon dioxide and methane. Scientific consensus affirms that the planet has warmed significantly since the late 19th century, with the most rapid changes occurring in recent decades. These changes manifest in rising sea levels, melting glaciers, more frequent extreme weather events, ocean acidification, and disruptions to ecosystems.\n\nFrom a Jain studies perspective, climate change is understood within the broader ethical framework of *ahimsa* (non-harm), *aparigraha* (non-possessiveness), and the karmic consequences of actions that disturb living beings and natural systems. While Jain primary texts do not discuss modern climate science, they contain extensive reflections on environmental restraint, the interdependence of life forms, and the moral implications of exploiting natural resources. These teachings provide a foundation for interpreting climate change as a form of collective harm arising from excessive consumption and violence toward the earth’s ecosystems.\n\nModern scholarship often highlights how Jain ecological ethics—especially the emphasis on minimizing harm to all forms of life—align with contemporary sustainability principles. Climate change thus becomes not only a scientific and policy issue but also a moral and spiritual concern, inviting reflection on personal conduct, societal systems, and global responsibility.",
+  "primary_sources": [
+    {
+      "title": "Ācāranga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "पाणो पाणो सीलेणं, पाणो पाणो तवस्सिणं",
+      "transliteration": "pāṇo pāṇo sīleṇaṃ, pāṇo pāṇo tavassiṇaṃ",
+      "translation": "“Living beings are fond of life; living beings are fond of pleasure.”",
+      "notes": "Tier A source. This passage emphasizes the universal desire for life and well-being among all beings. In Jain ecological interpretation, it underscores the moral weight of actions that harm ecosystems or contribute to environmental degradation."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "परस्परोपग्रहो जीवानाम्",
+      "transliteration": "parasparopagraho jīvānām",
+      "translation": "“Living beings support one another.”",
+      "notes": "Tier A source. This foundational aphorism is central to Jain environmental ethics. It affirms the interdependence of all life forms, providing a conceptual basis for understanding climate change as a disruption of mutual support systems."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Traditionally attributed to early Jain compilers",
+      "original_text": "जगति हिंसा न कर्तव्या",
+      "transliteration": "jagati hiṃsā na kartavyā",
+      "translation": "“Violence should not be committed in the world.”",
+      "notes": "Tier A source. Although not referring to environmental harm directly, Jain commentators (Tier B) often extend this principle to include harm caused by pollution, resource depletion, and ecological destruction."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Climate change is only a natural cycle and not influenced by human activity.",
+      "reality": "Scientific evidence shows that while natural cycles exist, the rapid warming observed since the industrial era is overwhelmingly driven by human-generated greenhouse gases."
+    },
+    {
+      "myth": "Climate change only affects polar regions and does not impact everyday life.",
+      "reality": "Climate change influences agriculture, water availability, public health, biodiversity, and economic stability worldwide, affecting daily life in both direct and indirect ways."
+    },
+    {
+      "myth": "Individual actions do not matter because climate change is a global issue.",
+      "reality": "While systemic change is essential, individual choices—especially regarding consumption, energy use, and dietary habits—collectively contribute significantly to emissions and can drive cultural and policy shifts."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain cosmology, heavenly beings (devas) constitute one of the four gatis (destinies) in which a soul may be reborn. Their existence is described in detail across early canonical texts such as the *Sūtrakṛtāṅga*, *Bhagavatī-sūtra*, and the cosmological treatises of both Śvetāmbara and Digambara traditions. Devas are not considered eternally divine; they are embodied, karmically conditioned beings who experience pleasure, longevity, and subtle forms of attachment. Their lives, though vastly longer and more refined than human lives, remain within saṃsāra and are subject to karmic influx and eventual decline.\n\nJain cosmology organizes heavenly beings into four major classes: (1) *Bhavanavāsī* (residential or mansion-dwelling gods), (2) *Vyantaras* (intermediary or peripatetic gods), (3) *Jyotiṣkas* (luminary gods associated with celestial bodies), and (4) *Vaimānikas* (gods dwelling in the highest heavens). Each class is further subdivided into distinct orders, each with its own hierarchy, lifespan, and karmic conditions. The fourfold classification appears consistently across canonical and post-canonical cosmological charts, though the number of suborders and specific names may vary slightly between Śvetāmbara and Digambara enumerations.\n\nBhavanavāsī devas inhabit the lower heavenly realms, often associated with palace-like structures within the first tier of the upper world. Vyantara devas occupy liminal spaces and are frequently mentioned in narrative literature as interacting with humans. Jyotiṣka devas correspond to astral bodies such as the sun, moon, and stars, and their movements are described in Jain astronomical texts. Vaimānika devas reside in the highest heavens, including the sixteen *kalpas* and the non-kalpic realms, where the most refined celestial beings dwell. Despite their exalted status, even Vaimānika devas remain bound by subtle passions and must eventually descend from their heavenly state when their merit is exhausted.\n\nAcross traditions, the four classes serve as a cosmological framework for understanding karmic fruition, ethical causality, and the vast diversity of embodied existence. They also illustrate the Jain principle that no realm within saṃsāra, however blissful, constitutes liberation; only the destruction of all karmas leads to mokṣa.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "देवास्तु भवनवासी व्यन्तरा ज्योतिष्काः वैमानिकाश्च",
+      "transliteration": "devāstu bhavanavāsī vyantarā jyotiṣkāḥ vaimānikāś ca",
+      "translation": "The gods are of four kinds: mansion-dwelling, intermediary, luminary, and celestial.",
+      "notes": "This concise sūtra (Tattvārtha-sūtra 4.10) is the most widely cited canonical definition of the four classes of heavenly beings. Both Digambara and Śvetāmbara traditions accept the classification, though their commentaries elaborate differently on suborders, lifespans, and karmic prerequisites."
+    },
+    {
+      "title": "Sūtrakṛtāṅga (Śvetāmbara Canon)",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "Devas are described as embodied beings subject to pleasure, attachment, and karmic limitation.",
+      "transliteration": "N/A (summary of multiple passages)",
+      "translation": "The text describes heavenly beings as experiencing subtle passions and warns ascetics not to be deceived by their appearance or powers.",
+      "notes": "The Sūtrakṛtāṅga provides narrative and doctrinal warnings against mistaking devas for liberated beings. It emphasizes their impermanence and karmic conditioning."
+    },
+    {
+      "title": "Tiloyapaṇṇatti (Digambara Cosmology)",
+      "author": "Yativṛṣabha",
+      "original_text": "Extensive Prakrit descriptions of the spatial arrangement and subdivisions of heavenly realms.",
+      "transliteration": "N/A (large cosmological text)",
+      "translation": "The text enumerates the heavens, their dimensions, the classes of devas, and their lifespans in great mathematical detail.",
+      "notes": "A foundational Digambara cosmological treatise, often used to map the four classes of devas within the three worlds."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Heavenly beings in Jainism are omniscient or liberated.",
+      "reality": "Devas, regardless of class, remain bound by karma and subtle passions. Only kevalins (omniscient beings) and siddhas (liberated souls) are free from saṃsāra."
+    },
+    {
+      "myth": "All heavenly beings possess supernatural powers that influence human destiny.",
+      "reality": "While some devas interact with humans in narratives, canonical texts emphasize that karmic law—not divine intervention—governs human experience."
+    },
+    {
+      "myth": "Rebirth as a deva is the highest spiritual achievement.",
+      "reality": "Heavenly rebirth is considered pleasurable but spiritually risky due to complacency. Liberation requires human birth and disciplined practice, not celestial enjoyment."
+    }
+  ]
+}

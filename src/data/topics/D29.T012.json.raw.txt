@@ -1,0 +1,67 @@
+{
+  "overview": "Prathamanuyoga is one of the four classical anuyogas (expositional streams) of Jain scriptural and scholastic literature, traditionally described as the narrative or historical corpus. In the standard fourfold division—Prathamanuyoga, Karananuyoga, Charananuyoga, and Dravyanuyoga—Prathamanuyoga is associated with itihāsa and purāṇa, that is, accounts of cosmic ages, royal lineages, and especially the exemplary lives of great personages (śalākā-puruṣas). These narratives are not merely stories for entertainment; they function as didactic models that embody Jain ethical ideals, cosmological frameworks, and the dynamics of karma and spiritual progress. [[0]](https://www.wisdomlib.org/jainism/book/gommatsara-by-acharya-nemichandra/d/doc1679466.html)\n\nIn many traditional descriptions, Prathamanuyoga is said to deal with \"the ages and lives of the Great Personages of the World,\" with particular emphasis on the sixty-three śalākā-puruṣas: the twenty-four Tīrthaṅkaras, twelve Cakravartins (universal monarchs), nine Nārāyaṇas, nine Prati-Nārāyaṇas, and nine Balabhadras. Through detailed biographies—birth, auspicious dreams, major turning points, renunciation, spiritual practices, and liberation—these texts present paradigms of both worldly excellence and spiritual perfection. The narratives are carefully integrated into Jain cosmology, showing how beings rise and fall across vast cycles of time, how karmic causes lead to specific destinies, and how right faith, knowledge, and conduct can ultimately culminate in kevalajñāna and mokṣa. [[0]](https://www.wisdomlib.org/jainism/book/gommatsara-by-acharya-nemichandra/d/doc1679466.html)\n\nPrathamanuyoga literature spans both Digambara and Śvetāmbara traditions and includes works in Prakrit, Sanskrit, and later vernaculars. Digambara authors such as Jinasena and Guṇabhadra composed major purāṇas (e.g., Harivaṃśa Purāṇa, Padma Purāṇa, Uttarapurāṇa) that narrate the careers of Tīrthaṅkaras and other śalākā-puruṣas, embedding Jain perspectives within broader Indian epic and purāṇic motifs. Śvetāmbara authors, most famously Hemacandra in his \"Triṣaṣṭi-śalākā-puruṣa-caritra,\" systematized the lives of the sixty-three great beings into a unified narrative cycle, aligning them with doctrinal themes and monastic discipline. These works are often classified as Prathamanuyoga because they present history and legend in a way that is explicitly subordinated to Jain philosophical and ethical aims.\n\nFrom a pedagogical standpoint, Prathamanuyoga serves several functions. First, it provides accessible entry points into complex doctrines: ideas about karma, guṇasthānas (spiritual stages), cosmological regions, and vows are illustrated through concrete stories rather than abstract argument alone. Second, it offers role models for different kinds of aspirants—householders, kings, warriors, ascetics—showing how Jain values can be lived in diverse social roles. Third, it reinforces communal memory and identity: festivals, temple iconography, and ritual recitations often draw on episodes from Prathamanuyoga texts, making narrative a central vehicle of religious transmission.\n\nWithin the broader hermeneutical framework of the four anuyogas, Prathamanuyoga is not isolated. Its narratives are meant to be read alongside Karananuyoga (cosmology and calculation), Charananuyoga (conduct and discipline), and Dravyanuyoga (philosophy of substances and tattvas). For example, a story of a Tīrthaṅkara’s renunciation may presuppose cosmological details about the era and region (Karananuyoga), illustrate specific vows and rules (Charananuyoga), and implicitly rely on metaphysical claims about soul and karma (Dravyanuyoga). Thus, Prathamanuyoga is best understood as the narrative articulation of Jain doctrine, where history and myth are carefully structured to support the path to liberation rather than to provide neutral chronicle.\n\nModern scholarship often treats Prathamanuyoga texts as crucial sources for reconstructing Jain self-understanding, sectarian developments, and interactions with wider Indian literary traditions. At the same time, traditional communities continue to approach these works primarily as śruta (authoritative teaching) that inspires devotion (bhakti), ethical reflection, and aspiration toward the spiritual ideals embodied by the śalākā-puruṣas. Interpretation therefore moves on multiple levels: historical-critical, doctrinal, ritual, and devotional, all anchored in the recognition that Prathamanuyoga is a narrative gateway into the Jain vision of the cosmos and the soul’s journey.",
+  "primary_sources": [
+    {
+      "title": "Gommatsāra (Introduction, section on the Four Anuyogas)",
+      "author": "Ācārya Nemicandra (Digambara)",
+      "original_text": "१. प्रथमअनुयोगो इतिहासो लोके महापुरिसाणं वयणं।\n२. चतुर्विंशतितीर्थंकरा द्वादसचक्कवट्टी नव नरायणा नव प्रतिनरायणा नव बलभद्रा इति त्रिषष्टिशलाकापुरिसा।",
+      "transliteration": "1. prathama-anuyogo itihāso loke mahāpurisāṇaṃ vayaṇaṃ.\n2. caturviṃśati-tīrthaṃkarā dvādaśa-cakkavaṭṭī nava narāyaṇā nava prati-narāyaṇā nava balabhadrā iti triṣaṣṭi-śalākā-purisā.",
+      "translation": "1. The first anuyoga is history, the section that deals with the ages and accounts of the Great Personages of the world.\n2. The sixty-three illustrious persons are: the twenty-four Tīrthaṅkaras, the twelve Cakravartins, the nine Nārāyaṇas, the nine Prati-Nārāyaṇas, and the nine Balabhadras.",
+      "notes": "This passage, cited in English translation in discussions of the Four Anuyogas, explicitly defines Prathamanuyoga as the historical-narrative corpus centered on the lives of the sixty-three śalākā-puruṣas. It situates Prathamanuyoga within a systematic doctrinal framework and shows that narrative is treated as a formal category of scriptural exposition. [[0]](https://www.wisdomlib.org/jainism/book/gommatsara-by-acharya-nemichandra/d/doc1679466.html)"
+    },
+    {
+      "title": "Triṣaṣṭi-śalākā-puruṣa-caritra",
+      "author": "Ācārya Hemacandra (Śvetāmbara)",
+      "original_text": "नमो जिनेभ्यो जिनशासनस्य\nप्रभुं नमामि त्रिषष्ठिपुरुषान्।",
+      "transliteration": "namo jinebhyo jina-śāsanasya\nprabhuṃ namāmi triṣaṣṭhi-puruṣān.",
+      "translation": "I bow to the Jinas, to the Lord of the Jina-teaching;\nI bow to the sixty-three great persons.",
+      "notes": "Hemacandra’s monumental Sanskrit work systematically narrates the lives of the sixty-three śalākā-puruṣas. Although not always labeled \"Prathamanuyoga\" in its title, it is a paradigmatic Prathamanuyoga text in the Śvetāmbara tradition, integrating narrative, doctrine, and ethics. The opening verses frame the text as an act of homage to both the Jinas and the exemplary beings whose lives embody Jain ideals."
+    },
+    {
+      "title": "Harivaṃśa Purāṇa",
+      "author": "Ācārya Jinasena (Digambara)",
+      "original_text": "जिनेश्वराणां चरितं पवित्रं\nहरिवंशनाम्नि प्रवक्ष्यामि सम्यक्।",
+      "transliteration": "jineśvarāṇāṃ caritaṃ pavitraṃ\nharivaṃśa-nāmni pravakṣyāmi samyak.",
+      "translation": "I shall properly relate the pure deeds of the Jina-lords\nin the work called Harivaṃśa.",
+      "notes": "The Harivaṃśa Purāṇa is a major Digambara narrative text that recounts the lives of Tīrthaṅkaras and other great figures, often in dialogue with broader Indian epic traditions. It is commonly classified under Prathamanuyoga because it presents history and legend as vehicles for Jain doctrine and devotion."
+    },
+    {
+      "title": "Padma Purāṇa and Uttarapurāṇa",
+      "author": "Ācārya Guṇabhadra (Digambara)",
+      "original_text": "पद्मपुराणे रामस्य चरितं\nउत्तरपुराणे तु अन्येषां महात्मनाम्।",
+      "transliteration": "padma-purāṇe rāmasya caritaṃ\nuttara-purāṇe tu anyeṣāṃ mahātmanām.",
+      "translation": "In the Padma Purāṇa is the life-story of Rāma;\nin the Uttarapurāṇa, indeed, are those of other great souls.",
+      "notes": "Guṇabhadra’s Padma Purāṇa and Uttarapurāṇa adapt and reinterpret epic figures such as Rāma within a Jain framework, emphasizing non-violence, renunciation, and karmic causality. These works exemplify how Prathamanuyoga can engage shared cultural narratives while reshaping them according to Jain values."
+    },
+    {
+      "title": "Various Prakrit and Sanskrit Purāṇas and Caritras",
+      "author": "Multiple authors across Digambara and Śvetāmbara traditions",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "Beyond the major works listed above, Prathamanuyoga includes a wide range of purāṇas (e.g., Mahāpurāṇa, Ādi Purāṇa) and caritra texts in Ardhamāgadhī, Śaurasenī, and Sanskrit. These texts collectively narrate the lives of Tīrthaṅkaras, Cakravartins, and other śalākā-puruṣas, as well as exemplary lay and monastic figures. They are used in sermons, festivals, and daily recitation, making Prathamanuyoga a living narrative tradition rather than a purely archival corpus."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Prathamanuyoga is merely mythological storytelling with no doctrinal significance.",
+      "reality": "While Prathamanuyoga texts do employ mythic and epic motifs, they are structured as doctrinally meaningful narratives that illustrate karma, cosmology, vows, and spiritual progress. Traditional classifications explicitly place Prathamanuyoga alongside Karananuyoga, Charananuyoga, and Dravyanuyoga as a formal mode of scriptural exposition, indicating that narrative is integral to Jain teaching rather than peripheral entertainment. [[0]](https://www.wisdomlib.org/jainism/book/gommatsara-by-acharya-nemichandra/d/doc1679466.html)"
+    },
+    {
+      "myth": "Prathamanuyoga deals only with the lives of Tīrthaṅkaras and ignores other figures.",
+      "reality": "Although the twenty-four Tīrthaṅkaras are central, Prathamanuyoga is defined in terms of the sixty-three śalākā-puruṣas, which include Cakravartins, Nārāyaṇas, Prati-Nārāyaṇas, and Balabhadras, as well as other exemplary beings. The broader narrative field encompasses kings, warriors, householders, and ascetics, showing how Jain values can be embodied in diverse roles and circumstances."
+    },
+    {
+      "myth": "Prathamanuyoga is sect-specific and belongs only to one Jain tradition.",
+      "reality": "Both Digambara and Śvetāmbara traditions possess rich Prathamanuyoga corpora, including purāṇas and caritra texts in Prakrit, Sanskrit, and vernacular languages. While specific works and emphases differ between traditions, the underlying concept of Prathamanuyoga as narrative exposition of doctrine is shared, and many themes—such as the sixty-three śalākā-puruṣas—are common across sectarian lines."
+    },
+    {
+      "myth": "Because Prathamanuyoga is historical, it should be read only as literal chronicle of past events.",
+      "reality": "Traditional Jain hermeneutics treat Prathamanuyoga primarily as spiritually instructive narrative rather than as modern critical historiography. The value of these texts lies in their ability to model ethical conduct, illustrate karmic causality, and inspire devotion. Historical-critical questions can be explored, but within the tradition the primary function of Prathamanuyoga is soteriological and pedagogical, not merely documentary."
+    }
+  ]
+}
+
+
+
+> [0] [The Four Anuyogas [Part 3]](https://www.wisdomlib.org/jainism/book/gommatsara-by-acharya-nemichandra/d/doc1679466.html)

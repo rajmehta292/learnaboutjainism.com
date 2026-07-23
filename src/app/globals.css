@@ -1,31 +1,143 @@
 @import "tailwindcss";
 
 @theme {
-  --color-marble-canvas: #F6F3EC;
-  --color-paper-surface: #FCFAF5;
-  --color-soft-stone: #E9E3D8;
-  --color-carved-line: #D5CCBD;
-  --color-temple-ink: #2E2C28;
-  --color-quiet-ink: #625D55;
-  --color-aged-brass: #9B7447;
-  --color-compassion-leaf: #66705F;
-  --color-manuscript-earth: #806A55;
-  --color-quiet-slate: #626A70;
+  /* ── Canvas & Surface ── */
+  --color-canvas: #F8F5EE;          /* warm parchment — main background */
+  --color-surface: #FDFCF8;         /* near-white for elevated cards */
+  --color-surface-alt: #F2EDE3;     /* slightly deeper inset surfaces */
+  --color-border: #DDD5C4;          /* subtle divider lines */
+  --color-border-strong: #BFB5A4;   /* emphasized dividers */
 
-  --font-sans: var(--font-noto-sans);
-  --font-serif: var(--font-noto-serif);
+  /* ── Ink / Text ── */
+  --color-ink: #1E1B17;             /* near-black for primary text */
+  --color-ink-muted: #6B6257;       /* secondary / captions */
+  --color-ink-faint: #9E9488;       /* placeholders, disabled */
+
+  /* ── Accent ── */
+  --color-saffron: #B8762A;         /* primary accent — saffron / ochre */
+  --color-saffron-light: #D4993E;   /* hover state */
+  --color-saffron-pale: #F5EAD4;    /* soft highlight backgrounds */
+  --color-leaf: #556B54;            /* secondary accent — compassion green */
+
+  /* ── Night / Deep ── */
+  --color-night: #14110D;           /* nav background, immersive dark */
+  --color-night-surface: #1E1B16;   /* slightly lighter dark surface */
+  --color-night-border: #312D26;    /* dark-mode dividers */
+  --color-night-ink: #E8E0D2;       /* text on dark backgrounds */
+  --color-night-muted: #9E9488;     /* muted text on dark */
+
+  /* ── Fonts ── */
+  --font-display: var(--font-cormorant);    /* Cormorant Garamond — headlines */
+  --font-reading: var(--font-source-serif); /* Source Serif 4 — body reading */
+  --font-sans: var(--font-inter);           /* Inter — UI / captions */
+  --font-mono: ui-monospace, 'Cascadia Code', monospace;
+}
+
+/* ── Base Reset ─────────────────────────────────── */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 18px;
+  scroll-behavior: smooth;
 }
 
 body {
-  background-color: var(--color-marble-canvas);
-  color: var(--color-temple-ink);
-  font-family: var(--font-sans);
+  background-color: var(--color-canvas);
+  color: var(--color-ink);
+  font-family: var(--font-reading), Georgia, 'Times New Roman', serif;
+  line-height: 1.85;
   -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
-/* Base resets for typography scale */
+/* ── Typography Scale ───────────────────────────── */
 h1, h2, h3, h4, h5, h6 {
-  font-family: var(--font-serif);
-  font-weight: 500;
-  color: var(--color-temple-ink);
+  font-family: var(--font-display), 'Palatino Linotype', Georgia, serif;
+  font-weight: 400;
+  color: var(--color-ink);
+  line-height: 1.2;
+  letter-spacing: -0.01em;
 }
+
+h1 { font-size: clamp(2.4rem, 5vw, 4.2rem); }
+h2 { font-size: clamp(1.6rem, 3vw, 2.4rem); }
+h3 { font-size: clamp(1.2rem, 2vw, 1.6rem); }
+
+p {
+  margin-bottom: 1.4em;
+}
+
+/* ── Prose reading width ────────────────────────── */
+.prose-reading {
+  max-width: 68ch;
+  font-size: 1.05rem;
+  line-height: 1.9;
+  color: var(--color-ink);
+}
+
+.prose-reading p { margin-bottom: 1.5em; }
+
+/* ── Drop cap for featured text ─────────────────── */
+.drop-cap::first-letter {
+  font-family: var(--font-display), Georgia, serif;
+  font-size: 4.2em;
+  line-height: 0.82;
+  float: left;
+  margin-right: 0.1em;
+  margin-top: 0.06em;
+  color: var(--color-saffron);
+}
+
+/* ── Hairline rule ──────────────────────────────── */
+.hr-hairline {
+  border: none;
+  border-top: 1px solid var(--color-border);
+  margin: 3rem 0;
+}
+
+/* ── Smart link styling (cross-linked terms) ────── */
+.smart-link {
+  color: inherit;
+  border-bottom: 1px solid var(--color-saffron);
+  text-decoration: none;
+  transition: border-color 0.15s, color 0.15s;
+  cursor: pointer;
+}
+
+.smart-link:hover {
+  color: var(--color-saffron);
+  border-bottom-color: var(--color-saffron-light);
+}
+
+/* ── Smooth page transitions ────────────────────── */
+@keyframes fadeIn {
+  from { opacity: 0; transform: translateY(6px); }
+  to   { opacity: 1; transform: translateY(0);   }
+}
+
+main {
+  animation: fadeIn 0.35s ease-out both;
+}
+
+/* ── Nav link hover ─────────────────────────────── */
+.nav-link:hover {
+  color: var(--color-night-ink) !important;
+}
+
+/* ── SmartLinker tooltip on hover ───────────────── */
+.group:hover > span.pointer-events-none {
+  opacity: 1 !important;
+}
+
+/* ── Library domain link hover ──────────────────── */
+details a:hover {
+  color: var(--color-saffron) !important;
+}
+
+/* ── Homepage featured topic card hover ─────────── */
+a:has(> p):hover {
+  background: var(--color-surface-alt) !important;
+}
+

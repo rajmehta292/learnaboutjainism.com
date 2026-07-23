@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain thought, the goals of a householder (*śrāvaka* or *gṛhastha*) are framed within a disciplined path that balances spiritual aspiration with worldly responsibilities. Unlike monastics, householders remain embedded in family, work, and social life, yet they are expected to cultivate ethical conduct, reduce karmic accumulation, and progressively orient themselves toward liberation. The classical texts describe a graded path in which householders adopt partial vows, practice restraint appropriate to their station, and contribute to the stability of the Jain community.\n\nAcross traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—the core goals remain consistent: commitment to nonviolence, truthfulness, non-stealing, sexual restraint, and non-possession; regular engagement with scriptural study; participation in community rituals; and cultivation of compassion and equanimity. These goals are not merely moral guidelines but structured practices intended to weaken passions (*kaṣāyas*) and prepare the practitioner for higher stages of spiritual development.\n\nThe householder path is often described through the *aṇu-vratas* (small vows), *guṇa-vratas* (quality vows), and *śikṣā-vratas* (disciplinary vows). Together, these eleven vows form the backbone of lay practice. They provide a framework for ethical living, gradual renunciation, and mindful participation in society. The ultimate aim is not monastic perfection but steady progress toward inner purification while fulfilling familial and social duties responsibly.\n\nJain texts also emphasize the social dimension of householder goals: supporting monastics, maintaining temples or study halls (depending on tradition), practicing charity (*dāna*), and fostering harmony. The householder is seen as a vital link in sustaining the Jain community and preserving the transmission of teachings. While liberation may require monastic life, householders are encouraged to cultivate the dispositions that make such a transition meaningful, without neglecting their worldly obligations.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अणुव्रतानि नाम हिंसाविरतिः सत्यविरतिरस्तेयविरतिः ब्रह्मविरतिरपरिग्रहविरतिः",
+      "transliteration": "aṇu-vratāni nāma hiṁsā-viratiḥ satya-viratir asteya-viratiḥ brahma-viratir aparigraha-viratiḥ",
+      "translation": "The small vows are abstinence from violence, falsehood, stealing, sexual misconduct, and possessiveness.",
+      "notes": "Tattvārtha Sūtra 7.1–7.2 outlines the foundational vows for householders. Commentaries across traditions agree that these vows are partial versions of the monastic *mahāvratas* and form the ethical core of lay practice."
+    },
+    {
+      "title": "Śrāvakācāra (Digambara tradition)",
+      "author": "Ācārya Samantabhadra (attributed)",
+      "original_text": "श्रावकस्य धर्मो हि अणुव्रतगुणव्रतशिक्षाव्रतसमन्वितः",
+      "transliteration": "śrāvakasyā dharmo hi aṇu-vrata-guṇa-vrata-śikṣā-vrata-samanvitaḥ",
+      "translation": "The dharma of a householder consists of the small vows, the quality vows, and the disciplinary vows.",
+      "notes": "This text provides one of the earliest systematic accounts of lay conduct in the Digambara tradition, emphasizing graded restraint and karmic reduction."
+    },
+    {
+      "title": "Upāsakadaśāḥ (Śvetāmbara canon)",
+      "author": "Attributed to Mahāvīra through canonical redaction",
+      "original_text": "एवं उपासकाणं दस विहा धम्मा भणिया",
+      "transliteration": "evaṁ upāsakāṇaṁ dasa vihā dhammā bhaṇiyā",
+      "translation": "Thus are taught the ten duties of the lay follower.",
+      "notes": "The Upāsakadaśāḥ narrates exemplary lay devotees and outlines duties such as charity, protection of life, and devotion. It is central to Śvetāmbara lay ethics."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Householders are expected to live almost like monks.",
+      "reality": "Primary texts clearly distinguish between monastic and lay obligations. Householders take partial vows and are encouraged to balance spiritual progress with family and social responsibilities."
+    },
+    {
+      "myth": "Lay practice is only about ritual and temple attendance.",
+      "reality": "While rituals are important in many traditions, the core of householder goals is ethical transformation through vows, restraint, charity, and reduction of passions."
+    },
+    {
+      "myth": "Liberation is impossible for householders, so their goals are merely symbolic.",
+      "reality": "Texts emphasize that lay practice meaningfully reduces karmic bondage and prepares individuals for higher stages. Although final liberation requires monastic life, householder goals are essential steps on the path."
+    }
+  ]
+}

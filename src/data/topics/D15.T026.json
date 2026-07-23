@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, **confession** (ālocanā / pratikramaṇa‑ālocanā) is a disciplined ethical practice in which an individual openly acknowledges faults, transgressions, or lapses against the vows (vrata), restraints (saṃyama), and daily conduct expected of laypeople and mendicants. It is not a sacramental absolution but a structured moral inventory aimed at restoring awareness, reducing karmic accumulation, and recommitting to right conduct.\n\nAcross Śvetāmbara and Digambara lineages, confession appears within the broader cycle of **pratikramaṇa**, the ritual of reviewing and retracting faults. The act of ālocanā specifically involves articulating one’s misdeeds before a qualified listener—traditionally a senior mendicant or, for laypeople, a respected practitioner—while recognizing the karmic consequences described in canonical texts. The purpose is not forgiveness granted by another person but the internal purification that arises from truthful self‑assessment.\n\nClassical sources describe confession as a key component of **saṃvara**, the stoppage of new karmic influx. By naming a fault, one weakens the passions (kaṣāya) that bind karma to the soul. Commentarial traditions emphasize that confession must be sincere, specific, and accompanied by resolve not to repeat the fault. Modern Jain communities continue the practice in daily, fortnightly, and annual pratikramaṇa, adapting the ritual language while preserving the core ethical intention.\n\nBecause Jainism rejects the idea of external absolution, confession is framed as a personal responsibility: the practitioner acknowledges the reality of harm, cultivates remorse (pratyākhyāna), and renews commitment to ahiṃsā, satya, and other vows. The act is both introspective and relational, reinforcing accountability within the community while grounding ethical life in self‑directed transformation.",
+  "primary_sources": [
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "अालोचना पव्वयणं, तहा तवो चियं सियं।",
+      "transliteration": "ālocanā pavvaṇaṃ, tahā tavo ciyaṃ siyaṃ.",
+      "translation": "Confession is a turning back (from faults), and so too is austerity rightly performed.",
+      "notes": "A foundational Śvetāmbara canonical commentary describing ālocanā as part of the six obligatory duties (āvaśyaka). The line emphasizes confession as a reversal of wrongdoing."
+    },
+    {
+      "title": "Tattvārtha Sūtra 7.11",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "प्रतिक्रमणालोचना प्रायश्चित्तानि।",
+      "transliteration": "pratikramaṇālocanā prāyaścittāni.",
+      "translation": "Retracing faults and confession are forms of expiation.",
+      "notes": "A pan‑Jain authoritative text accepted by both Digambara and Śvetāmbara traditions. The sutra situates confession within karmic purification practices."
+    },
+    {
+      "title": "Mūlācāra 5.108",
+      "author": "Vattakera (Digambara)",
+      "original_text": "आलोचना दव्वसुद्धि, तहा भावसुद्धि होइ।",
+      "transliteration": "ālocanā davvasuddhi, tahā bhāvasuddhi hoi.",
+      "translation": "Confession brings purity of conduct and purity of intention.",
+      "notes": "A Digambara monastic code highlighting the dual purification—external conduct and internal disposition—achieved through confession."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Confession in Jainism is a plea for forgiveness granted by a monk or nun.",
+      "reality": "Jain texts consistently state that no external authority grants absolution. Confession is a self‑directed ethical practice aimed at reducing karmic bondage through truthful acknowledgment and resolve."
+    },
+    {
+      "myth": "Confession is only for monastics and not relevant to laypeople.",
+      "reality": "Lay pratikramaṇa includes explicit confession of daily faults. Canonical sources describe ālocanā as essential for all practitioners seeking to limit karmic influx."
+    },
+    {
+      "myth": "Confession removes karma automatically once spoken.",
+      "reality": "Jain doctrine holds that karmic purification requires multiple factors: remorse, cessation of harmful actions, austerity, and renewed commitment. Confession alone does not erase karma but contributes to saṃvara and partial nirjarā."
+    }
+  ]
+}

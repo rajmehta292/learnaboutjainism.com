@@ -1,0 +1,55 @@
+{
+  "overview": "In Jain philosophy, **moksha** (liberation) is the complete and permanent freedom of the soul (*jīva*) from all karmic matter. It represents the highest and final goal of spiritual development. Jainism teaches that every soul is inherently pure, possessing infinite knowledge (*ananta‑jñāna*), perception (*ananta‑darśana*), bliss (*ananta‑sukha*), and energy (*ananta‑vīrya*). These qualities are obscured by the accumulation of karmic particles, which bind to the soul due to passions, actions, and deluded states.\n\nMoksha is achieved when all karmas are destroyed and no new karmas are bound. This occurs at the apex of the universe (*loka*), known as *Siddha-śilā*, where liberated souls reside eternally. A liberated soul is called a **Siddha**. Unlike many Indic traditions, Jainism emphasizes that liberation is attained through the soul’s own effort—right faith (*samyak‑darśana*), right knowledge (*samyak‑jñāna*), and right conduct (*samyak‑cāritra*)—collectively known as the **Three Jewels** (*ratnatraya*).\n\nThe path to moksha is described through the **fourteen stages of spiritual development** (*guṇasthāna*), which chart the progressive elimination of delusion, passions, and karmic bondage. The final destruction of the four *ghāti* (destructive) karmas—knowledge‑obscuring, perception‑obscuring, deluding, and energy‑obstructing—occurs at the thirteenth stage. The remaining *aghāti* (non-destructive) karmas are shed at the moment of death, leading to liberation.\n\nBoth Digambara and Śvetāmbara traditions agree on the fundamental nature of moksha, though they differ in certain doctrinal details, such as the role of clothing for ascetics, the nature of kevalajñāna (omniscience), and the final moments before liberation. Across all Jain traditions, moksha is understood as the soul’s natural state, realized through ethical discipline, meditation, nonviolence, and the cessation of karmic influx.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "मोक्षो निर्जरः",
+      "transliteration": "mokṣo nirjaraḥ",
+      "translation": "Moksha is the eradication of karmic matter.",
+      "notes": "Tattvārtha Sūtra 10.1 defines moksha succinctly as the complete removal of karma. This text is accepted across Digambara and Śvetāmbara traditions as an authoritative philosophical compendium."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "सुद्धो सुद्धं पवेसदि",
+      "transliteration": "suddho suddhaṃ pavesadi",
+      "translation": "The pure soul enters the pure state.",
+      "notes": "Samayasāra emphasizes the intrinsic purity of the soul and its potential for liberation when freed from karmic bondage. Digambara tradition especially relies on Kundakunda’s works for metaphysical clarity."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "णिव्वाणं पवेसदि",
+      "transliteration": "nibbāṇaṃ pavesadi",
+      "translation": "One enters nirvāṇa (moksha).",
+      "notes": "This text describes the conduct and final liberation of enlightened beings, including the last teachings of Mahāvīra. It provides narrative and ethical context for the attainment of moksha."
+    },
+    {
+      "title": "Gommatsāra Jīvakāṇḍa",
+      "author": "Ācārya Nemicandra",
+      "original_text": "सिद्धो लोयस्स ऊव्वे",
+      "transliteration": "siddho loyassa uvve",
+      "translation": "The Siddha resides at the summit of the universe.",
+      "notes": "This Digambara text describes the nature and location of liberated souls, reinforcing the cosmological dimension of moksha."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Moksha is a temporary heavenly reward.",
+      "reality": "In Jainism, moksha is not a heavenly realm but the permanent liberation of the soul from all karmic bondage. Heavenly realms are still within the cycle of rebirth and subject to karma."
+    },
+    {
+      "myth": "Only monks can attain moksha.",
+      "reality": "While monastic life is considered the most conducive path, Jain texts acknowledge that laypeople can progress significantly on the spiritual path. However, final liberation requires the complete abandonment of passions, which traditionally aligns with ascetic life."
+    },
+    {
+      "myth": "Moksha means merging with a universal consciousness.",
+      "reality": "Jainism teaches that each soul remains eternally individual. Liberation does not involve merging but the soul’s own realization of its innate, infinite qualities."
+    },
+    {
+      "myth": "Moksha can be granted by divine grace.",
+      "reality": "Jainism rejects the idea of liberation through divine intervention. Moksha is achieved solely through the soul’s own effort—right faith, knowledge, and conduct."
+    }
+  ]
+}

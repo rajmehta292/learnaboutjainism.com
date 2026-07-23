@@ -1,0 +1,51 @@
+{
+  "overview": "Anumāna (अनुमान) is one of the central epistemic categories in Jain philosophy, classified under *parokṣa jñāna*—indirect or mediate knowledge. It refers to inference: knowledge derived not through direct perception (*pratyakṣa*) but through reasoning based on observed signs (*liṅga* or *hetu*) and established relations (*vyāpti*). Jain epistemology treats anumāna with great precision, distinguishing it from both scriptural testimony (*āgama*) and other indirect forms of cognition.\n\nAcross Digambara and Śvetāmbara traditions, anumāna is accepted as a valid means of knowledge (*pramāṇa*), though its subdivisions and technical definitions vary. Classical Jain thinkers such as Umāsvāti/Umāsvāmi, Kundakunda, Siddhasena Divākara, Akalaṅka, Māṇikyanandi, and Hemacandra developed detailed accounts of inference, often in dialogue with Buddhist and Nyāya logicians.\n\nJainism emphasizes that inference is always conditioned by *anekāntavāda* (the doctrine of many-sidedness) and *syādvāda* (the doctrine of conditioned predication). Thus, an inference is never absolutely universal; it is valid only within the specific standpoint (*naya*) and context. This makes Jain anumāna both rigorous and philosophically cautious.\n\nIn its classical form, Jain inference involves three essential components: (1) the *pakṣa* (subject of inference), (2) the *hetu* (reason or sign), and (3) the *sādhya* (the property to be established). Some Jain texts also discuss five-membered reasoning structures similar to Nyāya, while others prefer more concise forms. Anumāna is used extensively in metaphysics (e.g., proving the existence of karma particles), ethics (e.g., demonstrating the consequences of violence), and ontology (e.g., establishing the reality of substances and modes).\n\nOverall, anumāna is a cornerstone of Jain logic, serving as a bridge between empirical observation and philosophical insight, always tempered by the Jain commitment to non-absolutism.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अनुमानं परोक्षम्",
+      "transliteration": "anumānaṃ parokṣam",
+      "translation": "Inference is indirect knowledge.",
+      "notes": "Tattvārtha Sūtra 1.6 classifies inference under indirect cognition. Commentaries by Pūjyapāda (Digambara) and Siddhasena Gaṇi (Śvetāmbara) elaborate its structure and reliability."
+    },
+    {
+      "title": "Nyāyāvatāra",
+      "author": "Siddhasena Divākara",
+      "original_text": "लिङ्गालिङ्गिनोः सम्बन्धाद् अनुमानम्",
+      "transliteration": "liṅgāliṅginoḥ sambandād anumānam",
+      "translation": "Inference arises from the relation between a sign and what possesses the sign.",
+      "notes": "A foundational Jain logic text explaining the basis of inference through sign–signified relations. Often studied with Malayagiri’s commentary."
+    },
+    {
+      "title": "Aṣṭaśatī (commentary on Nyāyāvatāra)",
+      "author": "Akalaṅka",
+      "original_text": "व्याप्तिज्ञानं हि हेतुज्ञानम्",
+      "transliteration": "vyāptijñānaṃ hi hetujñānam",
+      "translation": "Knowledge of pervasion is indeed knowledge of the reason.",
+      "notes": "Akalaṅka clarifies that valid inference requires understanding the invariable concomitance (*vyāpti*) between reason and probandum."
+    },
+    {
+      "title": "Pramāṇa-mīmāṃsā",
+      "author": "Hemacandra",
+      "original_text": "अनुमानं त्रिविधं—पूर्ववत्, शेषवत्, सामान्यतो दृष्टम्",
+      "transliteration": "anumānaṃ trividham—pūrvavat, śeṣavat, sāmānyato dṛṣṭam",
+      "translation": "Inference is threefold: from prior cause, from residual effect, and from general observation.",
+      "notes": "Hemacandra adopts and adapts classical Indian categories of inference, integrating them with Jain epistemology and non-absolutism."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Anumāna in Jainism is identical to Nyāya inference.",
+      "reality": "While Jain logicians engage deeply with Nyāya, they interpret inference through the lens of anekāntavāda and syādvāda, making Jain inference context-conditioned rather than universally absolute."
+    },
+    {
+      "myth": "Inference is considered inferior or unreliable in Jain epistemology.",
+      "reality": "Inference is a fully valid pramāṇa, though indirect. Jain texts emphasize its rigor and necessity, especially for metaphysical topics not directly accessible through perception."
+    },
+    {
+      "myth": "Jainism only accepts scriptural testimony for philosophical claims.",
+      "reality": "Jain epistemology integrates perception, inference, and scripture. Many core doctrines—such as the existence of karma particles—are supported through carefully structured inference."
+    }
+  ]
+}

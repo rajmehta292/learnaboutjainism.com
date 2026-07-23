@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “normalization” refers to the scholarly and hermeneutical process of clarifying, standardizing, or regularizing concepts, terminology, and interpretive frameworks across diverse textual traditions, sectarian lineages, and manuscript variants. Because Jainism spans more than two millennia of Prakrit and Sanskrit literature, multiple recensions, and distinct sectarian commentarial systems, the same term or doctrinal category may appear with variant meanings, spellings, or technical nuances. Normalization therefore becomes an essential academic tool for ensuring that discussions of doctrine—such as karma theory, gunasthāna progression, vows, cosmology, or ethics—are grounded in verifiable sources and consistent terminology.\n\nWithin philology, normalization often involves establishing a critical reading of a term or passage by comparing manuscripts, identifying scribal variations, and selecting the most defensible form based on linguistic, metrical, and doctrinal criteria. In doctrinal analysis, normalization helps align concepts across Digambara and Śvetāmbara traditions without erasing legitimate differences. For example, terms like *leśyā*, *saṃvara*, or *nirjarā* may appear with subtle shifts in meaning depending on the text and tradition; normalization allows scholars to map these variations while preserving the integrity of each lineage.\n\nNormalization also plays a role in modern Jain education, where teachers attempt to present foundational concepts in accessible language while remaining faithful to primary sources. This includes clarifying technical vocabulary, distinguishing between canonical and commentarial usage, and avoiding conflation of later interpretations with early scripture. Importantly, normalization is not an act of imposing uniformity; rather, it is a method for responsibly navigating diversity within Jain textual and philosophical history.\n\nIn contemporary digital humanities, normalization includes the standardization of transliteration systems (such as IAST for Sanskrit or ISO for Prakrit), metadata tagging of manuscripts, and the alignment of variant readings across digital editions. These practices support accurate retrieval, comparative study, and preservation of Jain intellectual heritage. Ultimately, normalization is a scholarly discipline that enhances clarity, reduces ambiguity, and strengthens the reliability of Jain studies while respecting the plurality of Jain traditions.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This foundational aphorism is frequently normalized across sectarian traditions because the text exists in both Digambara and Śvetāmbara recensions. Normalization helps clarify differences in wording, numbering, and commentarial interpretation while preserving the shared doctrinal core."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Attributed to Śvetāmbara canonical compilers",
+      "original_text": "धम्मो मोक्खस्स कारणं",
+      "transliteration": "dhammo mokkhasa kāraṇaṃ",
+      "translation": "Dharma is the cause of liberation.",
+      "notes": "Normalization is required when comparing Prakrit canonical forms with later Sanskrit commentaries. Variants in manuscripts often involve orthographic differences that must be reconciled for accurate doctrinal study."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara)",
+      "author": "Pūjyapāda, Virasena, and Jinasena (commentarial tradition)",
+      "original_text": "कर्मप्रकृतयः जीवस्य भावानुसारं प्रवर्तन्ते",
+      "transliteration": "karma-prakṛtayaḥ jīvasya bhāvānusāraṃ pravartante",
+      "translation": "The categories of karma operate according to the dispositions of the soul.",
+      "notes": "Normalization is essential when aligning technical karma terminology across Digambara and Śvetāmbara systems. Differences in classification, enumeration, and terminology require careful cross-referencing."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Normalization means forcing all Jain traditions to agree on every doctrinal point.",
+      "reality": "Normalization does not erase legitimate sectarian differences. It clarifies terminology and aligns comparable concepts while preserving distinct interpretations."
+    },
+    {
+      "myth": "Normalization is a modern invention unrelated to traditional Jain scholarship.",
+      "reality": "Classical Jain ācāryas frequently engaged in normalization by comparing earlier scriptures, resolving variant readings, and systematizing terminology in commentaries."
+    },
+    {
+      "myth": "Normalization produces a single authoritative version of every text.",
+      "reality": "Normalization identifies defensible readings and clarifies variants, but it does not claim absolute authority. Multiple recensions may remain valid within their traditions."
+    }
+  ]
+}

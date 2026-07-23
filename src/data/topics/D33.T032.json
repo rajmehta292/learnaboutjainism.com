@@ -1,0 +1,55 @@
+{
+  "overview": "Optical Character Recognition (OCR) is a class of technologies and algorithms that convert images containing text—such as scanned documents, photographs of pages, screenshots, or scene images with signs and labels—into machine-readable, editable text. At its core, OCR detects patterns of light and dark in an image, segments those patterns into characters or text lines, and then maps them to a symbolic representation, typically encoded as Unicode. This process enables searching, editing, indexing, translation, text-to-speech, and a wide range of downstream computational uses for material that originally existed only in printed or handwritten form.\n\nHistorically, OCR emerged in the early twentieth century from experiments in telegraphy and accessibility devices. Emanuel Goldberg’s 1914 character-reading machine converted printed symbols into telegraph code using photoelectric cells, while Edmund Fournier d’Albe’s Optophone translated printed letters into audio tones for blind readers. These early devices were limited to small character sets and highly standardized print, but they established the basic principle of optical pattern recognition. Commercial OCR systems appeared in the 1950s, often relying on template matching: each character image was compared against stored prototypes, allowing recognition only within tightly controlled fonts and layouts. Banking and postal services adopted specialized machine-readable fonts such as OCR-A, OCR-B, and MICR to ensure reliable automated processing of checks and mail.\n\nFrom the 1980s through the early 2000s, OCR evolved with advances in computer vision and statistical pattern recognition. Instead of simple pixel-level template matching, systems began extracting structural features of characters—strokes, contours, and topological relationships—and applying methods such as Hidden Markov Models and Support Vector Machines. These approaches improved robustness to font variation, noise, and moderate distortions, and enabled recognition of more complex scripts and some forms of handwriting. The adoption of the Unicode Standard provided a unified target encoding for most of the world’s writing systems, allowing OCR engines to support many languages within a single framework and to integrate more easily into global information systems.\n\nIn the 2010s and beyond, deep learning transformed OCR. Convolutional Neural Networks (CNNs), often combined with recurrent architectures (CRNNs) or attention-based sequence models, can automatically learn discriminative features directly from large datasets of labeled text images. Modern OCR pipelines typically include models for text detection (locating lines or regions of text in an image), script or language classification, and sequence recognition that outputs character strings as Unicode. These systems achieve high accuracy on clean printed documents and increasingly strong performance on degraded scans, historical newspapers, scene text, and even complex layouts with columns, tables, and embedded images. Contemporary OCR is also integrated with broader document understanding and AI workflows, enabling not just transcription but semantic extraction of entities, fields, and relationships.\n\nApplications of OCR span government, finance, healthcare, education, and everyday consumer tools. Banks use OCR and related technologies like MICR to process checks; postal services sort mail by reading addresses and codes; enterprises digitize archives, invoices, and contracts; and individuals rely on OCR in mobile apps for translating menus, searching photo libraries, or converting printed notes into digital text. At the same time, OCR faces persistent challenges: low-quality scans, complex scripts, cursive handwriting, decorative fonts, and multilingual documents can reduce accuracy. Biases in training data may affect performance across languages and scripts, and automated transcription of historical or sacred texts requires careful human review to avoid propagating errors. As OCR continues to merge with large language models and multimodal AI, the focus is shifting from mere character recognition to full document intelligence—understanding structure, meaning, and context while still depending on accurate, source-grounded text extraction as the foundation.",
+  "primary_sources": [
+    {
+      "title": "US Patent 1,838,389 (Statistical Machine)",
+      "author": "Emanuel Goldberg",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Description of a machine for searching microfilm archives using optical code recognition, often cited as an early prototype of OCR technology.",
+      "notes": "Granted in 1931, this patent describes a device that reads coded information from microfilm using photoelectric cells and statistical methods. It is a key historical source for the origins of automated optical reading and was later acquired by IBM, influencing subsequent commercial development of OCR systems."
+    },
+    {
+      "title": "Optophone description and early publications",
+      "author": "Edmund Fournier d'Albe",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Technical and popular descriptions of the Optophone, a device that converted printed text into audible tones for blind readers.",
+      "notes": "The Optophone, developed in the 1910s–1920s, is an important early accessibility-focused reading machine. Although not an OCR system in the modern digital sense, it demonstrates the principle of mapping optical patterns of letters to another coded output, forming part of the historical lineage of OCR."
+    },
+    {
+      "title": "Development of OCR-A and OCR-B typefaces",
+      "author": "Various designers under standards bodies",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Specifications for OCR-A and OCR-B fonts designed to be easily machine-readable by early OCR systems.",
+      "notes": "These standardized fonts were created in the 1960s to facilitate reliable character recognition in banking and administrative contexts. Their design criteria—high distinguishability of characters and consistent stroke patterns—illustrate how early OCR technology shaped typographic standards."
+    },
+    {
+      "title": "The Unicode Standard",
+      "author": "Unicode Consortium",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "A comprehensive encoding system for characters from most of the world’s writing systems, providing a unified representation for text.",
+      "notes": "Unicode is not an OCR algorithm, but it is a foundational technical standard for modern OCR. By defining code points for scripts and languages globally, it allows OCR engines to output consistent, interoperable text and to support multilingual recognition within a single framework."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "OCR always produces perfectly accurate text, so human review is unnecessary.",
+      "reality": "Even advanced OCR systems can misread characters, especially in low-quality scans, complex scripts, or handwritten documents. Human review and correction remain important for legal, historical, or sensitive materials where small errors can have significant consequences."
+    },
+    {
+      "myth": "OCR can easily handle any handwriting in any language.",
+      "reality": "Handwriting recognition is substantially harder than printed text recognition. Accuracy depends on the consistency of the writer, the quality of the image, the script, and the availability of training data. Many OCR engines perform well on neat, standardized handwriting but struggle with highly cursive, idiosyncratic, or degraded samples."
+    },
+    {
+      "myth": "Once a document is scanned, OCR is a one-click process that works equally well for all layouts.",
+      "reality": "Complex layouts with columns, tables, footnotes, and embedded images require careful segmentation and sometimes manual guidance. OCR engines may misinterpret reading order or merge separate elements, so preprocessing, layout analysis, and post-processing are often needed for high-quality results."
+    },
+    {
+      "myth": "OCR is only useful for converting books and printed pages into text files.",
+      "reality": "OCR underpins many modern applications, including automated check processing, mail sorting, ID verification, mobile translation apps, searchable image archives, and AI-driven document understanding systems. Its role extends far beyond simple text conversion and is central to many digital workflows."
+    }
+  ]
+}

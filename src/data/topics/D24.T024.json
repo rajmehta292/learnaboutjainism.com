@@ -1,0 +1,35 @@
+{
+  "overview": "The term **Bhagavati dialogues** refers to the extensive question‑and‑answer format that structures much of the *Bhagavati Sūtra* (also called *Vyākhyāprajñapti*), one of the largest canonical texts of the Śvetāmbara Jain tradition. Composed in Ardhamāgadhī Prakrit, the text belongs to the *Cheda-sūtra* class of the Śvetāmbara canon and is traditionally regarded as a detailed exposition of the teachings of Mahāvīra. The dialogues typically feature Mahāvīra responding to inquiries posed by his chief disciple Gautama, though other interlocutors—monks, laypeople, and even non-human beings—appear throughout the narrative. \n\nThese dialogues are notable for their breadth: they address metaphysics, cosmology, karma theory, ethics, monastic regulations, epistemology, and case-based moral reasoning. The dialogic format allows the text to present layered explanations, beginning with concise answers and expanding into elaborate classifications. This structure is characteristic of early Jain scholasticism, where systematic categorization (*prajñapti*) is central. \n\nThe *Bhagavati Sūtra* is also historically significant. It preserves early debates between Jain teachers and representatives of other śramaṇa traditions, including Ājīvikas and Buddhists. These exchanges illuminate the intellectual environment of the fifth–fourth centuries BCE and provide rare comparative material for historians of Indian philosophy. Because the text evolved over time and contains interpolations, modern scholarship emphasizes careful philological study and comparison with parallel passages in other canonical works. \n\nWithin Jain studies, the Bhagavati dialogues are valued for their technical precision and for preserving narrative episodes that contextualize doctrinal points. They remain a foundational resource for understanding classical Jain thought, especially in relation to karma theory, cosmology, and the conduct of ascetics.",
+  "primary_sources": [
+    {
+      "title": "Bhagavati Sūtra (Vyākhyāprajñapti)",
+      "author": "Traditionally attributed to the Śvetāmbara canonical redactors; teachings attributed to Mahāvīra",
+      "original_text": "“Bhagavā āha: jīvāṇugāmeṇa jīvāṇugāmo pariṇāmo.”",
+      "transliteration": "Bhagavā āha: jīvāṇugāmeṇa jīvāṇugāmo pariṇāmo.",
+      "translation": "“The Blessed One said: The transformation of living beings occurs according to the subtle constituents of life.”",
+      "notes": "This line illustrates the typical dialogic structure: Gautama asks about the nature of living beings, and Mahāvīra responds with a concise doctrinal statement. The *Bhagavati Sūtra* survives in several Śvetāmbara editions, including the traditional *Vallabha Smāraka* and *Āgama* series. The text is part of corpus tier A when citing verified editions; translations vary due to the technical nature of Ardhamāgadhī terminology."
+    },
+    {
+      "title": "Bhagavati Sūtra, Section on Karma Categories",
+      "author": "Śvetāmbara canonical tradition",
+      "original_text": "“Goyama, kammaṃ nāma savvaṃ duvihaṃ—sāsavaṃ āṇāsavaṃ.”",
+      "transliteration": "Gautama, karmaṃ nāma sarvaṃ dvi-vidhaṃ—sāsavaṃ anāsavaṃ.",
+      "translation": "“Gautama, all karma is of two kinds—associated with passions and free from passions.”",
+      "notes": "This passage is frequently cited in traditional commentaries (tier B) to explain the moral psychology of karmic influx. The dialogic format allows Mahāvīra to classify karma systematically while addressing practical implications for monastic discipline."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Bhagavati dialogues are a single continuous narrative delivered in one historical moment.",
+      "reality": "The text is a composite work compiled over time. While framed as conversations with Mahāvīra, its layers reflect evolving scholastic traditions and redactional activity."
+    },
+    {
+      "myth": "The dialogues are purely mythological and lack philosophical rigor.",
+      "reality": "The *Bhagavati Sūtra* contains some of the most technical discussions in the Jain canon, including detailed classifications of karma, cosmology, and epistemology. Narrative elements serve to contextualize doctrinal exposition."
+    },
+    {
+      "myth": "All Jain traditions accept the Bhagavati dialogues as canonical.",
+      "reality": "The *Bhagavati Sūtra* is canonical only in the Śvetāmbara tradition. Digambara lineages preserve parallel material in texts such as the *Ṣaṭkhaṇḍāgama* and *Kaṣāyapāhuda*, but the Śvetāmbara canonical form is not shared across traditions."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain ontology, “mobile beings” (trasa-jīva) constitute one of the two fundamental categories of embodied life, the other being “immobile beings” (sthāvara-jīva). Mobile beings possess at least two senses and therefore have the capacity for locomotion, intentional movement, and more complex forms of perception. This classification appears across early canonical literature and remains central to Jain cosmology, ethics, and karmic theory.\n\nMobile beings range from minute two-sensed organisms to fully developed five-sensed beings with mind. The tradition organizes them into five classes based on the number of senses: two-sensed (dvi-indriya), three-sensed (tri-indriya), four-sensed (catur-indriya), five-sensed without mind (pañcendriya amānasa), and five-sensed with mind (pañcendriya mānasa). Each class is associated with distinct karmic capacities, vulnerabilities, and ethical implications for lay and monastic conduct.\n\nThe canonical texts emphasize that mobile beings experience pain, fear, and attachment more intensely than immobile beings due to their sensory complexity. As a result, harming mobile beings generates heavier karmic bondage. This principle underlies Jain dietary rules, professions considered acceptable for laypeople, and the detailed prescriptions for non-violence found in monastic codes.\n\nMobile beings inhabit all three realms of the Jain universe—heavens, hells, and the middle world—but the classification primarily concerns earthly embodied organisms. The category includes animals, insects, and humans, but also subtle beings such as certain classes of celestial and infernal beings. The taxonomy is not merely biological; it is metaphysical, describing the soul’s embodied condition and its sensory apparatus rather than species membership.\n\nAcross Digambara and Śvetāmbara traditions, the core definition of mobile beings remains consistent, though examples and commentarial elaborations may differ. Modern scholarship highlights the sophistication of Jain biological classification and its ethical consequences, noting that the system integrates metaphysics, ecology, and moral psychology into a unified framework.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "त्रसस्थावराः जीवाः",
+      "transliteration": "trasa-sthāvarāḥ jīvāḥ",
+      "translation": "Living beings are of two kinds: mobile and immobile.",
+      "notes": "Tattvārtha Sūtra 2.12 establishes the foundational division of beings. Subsequent sūtras (2.13–2.20) detail the sensory-based classification of mobile beings."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Śvetāmbara canon, traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "जे णाणिं पव्वन्ति ते त्रसा",
+      "transliteration": "je ṇāṇiṃ pavvanti te trasā",
+      "translation": "Those who move about with knowledge (through senses) are mobile beings.",
+      "notes": "This passage (Sūtrakṛtāṅga I.1) links mobility with sensory cognition, emphasizing ethical responsibility toward such beings."
+    },
+    {
+      "title": "Gommaṭasāra Jīvakāṇḍa",
+      "author": "Nemicandra Siddhānta Cakravartin (Digambara)",
+      "original_text": "द्विन्द्रियादयः त्रसाः",
+      "transliteration": "dvindriyādayaḥ trasāḥ",
+      "translation": "Two-sensed and the rest are mobile beings.",
+      "notes": "The text provides detailed enumeration of mobile beings and their karmic capacities, forming a major Digambara reference for jīva classification."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Mobile beings refer only to animals and humans.",
+      "reality": "Jain texts classify any organism with two or more senses as mobile, including insects, worms, and certain subtle beings not visible to ordinary perception."
+    },
+    {
+      "myth": "Mobility is defined by physical movement alone.",
+      "reality": "The category is based on sensory capacity, not locomotion. Some beings may move minimally yet are considered mobile because they possess multiple senses."
+    },
+    {
+      "myth": "All five-sensed beings have mind and complex cognition.",
+      "reality": "Jain ontology distinguishes five-sensed beings with mind from those without mind, assigning different karmic implications to each."
+    }
+  ]
+}

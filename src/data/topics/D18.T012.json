@@ -1,0 +1,43 @@
+{
+  "overview": "Anyatva (Sanskrit; Prakrit: *aṇṇatva*) is a foundational Jain philosophical concept meaning “otherness” or “the recognition of distinctness.” It appears in multiple doctrinal contexts, most prominently within the contemplative practices (*bhāvanās*) recommended for laypeople and ascetics, and within metaphysical discussions of the nature of substances (*dravya*). In the ethical and meditative framework, Anyatva Bhāvanā is the reflection that the body, possessions, relationships, and external conditions are fundamentally different from the true Self (*jīva*). This contemplative stance is intended to reduce attachment (*rāga*) and aversion (*dveṣa*) by repeatedly acknowledging that worldly objects are impermanent, composite, and not identical with the soul.\n\nIn Jain ontology, Anyatva is also one of the seven *tattvas* or analytical categories used to describe the relationship between substances and their modes. A substance is said to possess *anyatva* because it remains numerically distinct from all other substances, even while undergoing continuous change. This metaphysical distinctness is essential to Jain pluralism: each soul is eternal, individual, and non-fusible with any other entity. Thus, Anyatva supports both ethical detachment and the philosophical assertion of multiplicity.\n\nAcross traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—Anyatva Bhāvanā is taught as part of the standard set of twelve reflections (*dvādaśa-bhāvanā*). While the wording and pedagogical emphasis may vary, the core meaning remains stable: the practitioner is encouraged to internalize that the Self is distinct from the body and external possessions, and that liberation requires disentangling the soul from mistaken identification with non-self entities. Commentarial literature often pairs Anyatva with *aśaraṇa* (lack of ultimate refuge) and *anitya* (impermanence), forming a triad of reflections that cultivate dispassion and clarity.\n\nModern scholarship highlights Anyatva as a key example of Jainism’s rigorous analytic approach to identity and difference. It is not merely a psychological exercise but a metaphysical claim grounded in canonical texts. However, interpretations differ regarding how strongly the contemplative practice should be emphasized for laypeople, and how it relates to broader discussions of non-attachment in contemporary life. These differences are noted in tradition-specific commentaries but do not alter the core doctrinal meaning.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "अन्यत्वं च",
+      "transliteration": "anyatvaṃ ca",
+      "translation": "“And there is otherness.”",
+      "notes": "This brief sūtra appears in discussions of the characteristics of substances (*dravya*). Commentators explain that each substance is distinct from all others, establishing metaphysical plurality. The sūtra is extremely concise, typical of the text’s aphoristic style."
+    },
+    {
+      "title": "Dvādaśa-bhāvanā passages (Śvetāmbara canonical context)",
+      "author": "Attributed to early canonical redactors; exact authorship varies by recension",
+      "original_text": "जिवो देहादण्णो।",
+      "transliteration": "jivo dehā-daṇṇo",
+      "translation": "“The soul is other than the body.”",
+      "notes": "This line appears in educational and commentarial traditions explaining Anyatva Bhāvanā. The exact phrasing varies across manuscripts and sectarian recensions. It is used to teach the contemplative recognition that the Self is distinct from bodily form."
+    },
+    {
+      "title": "Āvaśyaka Niryukti (Digambara and Śvetāmbara commentarial traditions)",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "अण्णत्तं भणइ जिवस्स देहस्स।",
+      "transliteration": "aṇṇattaṃ bhaṇaï jivassa dehassa",
+      "translation": "“It declares the otherness of the soul from the body.”",
+      "notes": "The *niryukti* tradition provides metrical expansions of canonical themes. This verse is cited in later commentaries to support the doctrinal basis of Anyatva Bhāvanā. Exact wording may differ across editions; transmission history is complex."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Anyatva means rejecting or despising the body and worldly life.",
+      "reality": "Jain texts do not teach hatred of the body. Anyatva is a contemplative recognition of distinctness, intended to reduce attachment, not to promote aversion. The body is a necessary vehicle for practice, but it is not identical with the soul."
+    },
+    {
+      "myth": "Anyatva implies that relationships and responsibilities have no value.",
+      "reality": "Jain lay ethics emphasize responsibility, compassion, and non-harm. Anyatva helps practitioners avoid possessiveness and egoistic identification, but it does not negate ethical duties or social bonds."
+    },
+    {
+      "myth": "Anyatva is only a metaphysical doctrine and has no practical application.",
+      "reality": "In Jain practice, Anyatva Bhāvanā is a daily or periodic reflection used to cultivate non-attachment and clarity. It has both philosophical and practical significance."
+    }
+  ]
+}

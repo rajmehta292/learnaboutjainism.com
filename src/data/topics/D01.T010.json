@@ -1,0 +1,51 @@
+{
+  "overview": "In this Jain study framework, “uncertainty labels” are a way of making the limits of our knowledge visible rather than hidden. They do not mean that the tradition itself is vague or unreliable; instead, they show where our current evidence, translations, or interpretations are strong, where they are partial, and where they are speculative. Reading these labels carefully helps a student distinguish between what is firmly grounded in verified primary texts and what belongs to later commentary, modern scholarship, or provisional reconstruction.\n\nUncertainty labels usually arise from several factors: the quality of the textual witness (for example, whether we have a critical edition or only a damaged manuscript), the reliability of the translation (including whether key technical terms have multiple possible meanings), the presence of doctrinal disagreement between traditions (such as Digambara and Śvetāmbara readings of a passage), and the scope of modern application (for instance, how an ancient vow is interpreted in contemporary ethical debates). When you see an uncertainty label, you are being invited to notice which of these factors is in play and how it affects the confidence level of the statement you are reading.\n\nWithin the corpus tiers, uncertainty labels are closely tied to the source category. Tier A (verified primary text and edition) generally carries the highest textual certainty, but even here there can be uncertainty about interpretation or doctrinal emphasis. Tier B (reviewed traditional commentary) may be very authoritative within a lineage, yet it can differ from other lineages, so labels mark those divergences. Tier C (peer‑reviewed scholarship) often introduces historical or philological hypotheses, which are clearly marked as scholarly interpretation rather than binding doctrine. Tiers D, E, and F increasingly require caution: community education may simplify or harmonize complex issues; unverified OCR or AI translations may contain errors; and unknown‑provenance material is quarantined precisely because its reliability cannot be established.\n\nPractically, reading uncertainty labels means paying attention to how each claim is classified: whether it is a direct quotation, a paraphrase of a primary text, an interpretive move by a commentator, or a modern application to ethical or practical questions. A careful reader will ask: Is this statement explicitly supported by a named passage? Is there a note about alternative readings or disputed meanings? Is the translator signaling that a term could be rendered in more than one way? When labels mention “disagreement,” “missing evidence,” or “translation uncertainty,” they are guiding you to treat the claim as provisional and to consult qualified human teachers or additional sources before treating it as settled.\n\nFrom a Jain philosophical perspective, uncertainty labels resonate with the doctrines of anekāntavāda (many‑sidedness of reality) and syādvāda (conditional predication). These doctrines do not celebrate confusion; they insist that any single statement is partial and conditioned by standpoint. Uncertainty labels operationalize this insight in study practice: they remind you that a given formulation may be true from one naya (standpoint) or within one textual tradition, while another standpoint or tradition emphasizes a different aspect. Reading these labels with care cultivates intellectual humility, encourages cross‑checking between sources, and supports a more faithful engagement with the depth and diversity of Jain teachings.\n\nFinally, uncertainty labels also serve as ethical safeguards. When questions touch on self‑harm, severe fasting, medical conditions, legal obligations, or decisions that require authorization from a living lineage, the system escalates and explicitly signals that no automated answer should be treated as directive. In such cases, the uncertainty label is not merely academic; it is a reminder to seek guidance from qualified human authorities and appropriate professionals. Learning to read these labels is therefore part of responsible Jain study: it helps you honor the tradition, respect your own limits, and avoid turning provisional information into unexamined practice.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "anekāntavādaḥ syādvādaś ca",
+      "transliteration": "anekāntavādaḥ syādvādaś ca",
+      "translation": "There is the doctrine of non‑one‑sidedness and the doctrine of conditional predication.",
+      "notes": "While the exact phrasing of anekāntavāda and syādvāda varies across manuscripts and commentarial traditions, Tattvārthasūtra and its classical commentaries are central to articulating the Jain view that reality cannot be captured exhaustively by a single, absolute statement. In the context of uncertainty labels, this passage and its interpretive tradition support the idea that any claim about doctrine or practice should be understood as conditioned by standpoint, context, and the limits of language. The labels make this conditioning explicit for modern readers."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "nānābhāvo hi bhāvānāṃ, ekasminn api dṛśyate",
+      "transliteration": "nānābhāvo hi bhāvānāṃ, ekasminn api dṛśyate",
+      "translation": "Indeed, many modes of entities are seen even in a single (substance).",
+      "notes": "Samayasāra emphasizes the distinction between substance (dravya) and modes (paryāya), highlighting that a single reality can present multiple aspects. This metaphysical insight underlies the need to mark interpretive and evidential limits in study. Uncertainty labels echo Kundakunda’s insistence that what is seen or stated at one level may not exhaust the deeper nature of the soul or reality, and that careful discrimination is required when moving from text to understanding."
+    },
+    {
+      "title": "Nayādhammakahāo (Nayadhammakahāṇaya)",
+      "author": "Anonymous (Śvetāmbara canonical text)",
+      "original_text": "se ceva nayāo bahuvidhā, bhāvāṇaṃ avahiyāṇaṃ",
+      "transliteration": "se ceva nayāo bahuvidhā, bhāvāṇaṃ avahiyāṇaṃ",
+      "translation": "Indeed, the standpoints are of many kinds, concerning the various conditioned entities.",
+      "notes": "This canonical text discusses the doctrine of standpoints (naya), which explains how different descriptions can be valid from different perspectives. In relation to uncertainty labels, the notion of multiple nayas supports the practice of indicating when a statement reflects a particular doctrinal, sectarian, or methodological standpoint. Labels that mention disagreement or alternative readings are, in effect, signaling the presence of multiple nayas in the interpretive field."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Uncertainty labels mean the Jain tradition itself is confused or unreliable.",
+      "reality": "Uncertainty labels highlight the limits of our current evidence, translations, and interpretations, not the weakness of the tradition. They are tools for intellectual honesty, showing where we must distinguish between firmly grounded teachings and provisional scholarly or interpretive claims."
+    },
+    {
+      "myth": "If a statement has an uncertainty label, it can be ignored as irrelevant.",
+      "reality": "Labeled statements often contain valuable insights, but they require careful, contextual reading. The label invites you to treat the claim as conditional, to consult primary texts and qualified teachers, and to avoid turning it into unquestioned practice without further examination."
+    },
+    {
+      "myth": "Primary texts (Tier A) never involve any uncertainty.",
+      "reality": "Even verified primary texts can carry uncertainty about translation, doctrinal emphasis, or manuscript variants. Tier A reduces textual uncertainty but does not eliminate interpretive complexity. Labels help distinguish between what is securely attested in the text and what is a particular way of understanding it."
+    },
+    {
+      "myth": "Modern scholarship (Tier C) is always less reliable than traditional commentary (Tier B).",
+      "reality": "Traditional commentary and modern scholarship serve different roles. Commentary may be highly authoritative within a lineage, while scholarship can clarify historical context or textual history. Uncertainty labels do not rank devotion or insight; they mark the type and degree of evidence and the standpoint from which a claim is made."
+    },
+    {
+      "myth": "Escalation labels for medical, legal, or self‑harm topics are just formalities and can be ignored.",
+      "reality": "Escalation labels are ethical safeguards. They indicate that no automated or purely textual answer should be treated as directive in sensitive areas. In such cases, the label is a clear signal to seek guidance from qualified human authorities and appropriate professionals before acting."
+    }
+  ]
+}

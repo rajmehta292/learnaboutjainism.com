@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, animal welfare is rooted in the foundational principle of **ahiṃsā** (non‑violence), which extends to all living beings, including animals, insects, and micro‑organisms. Jainism’s cosmology classifies life forms by the number of senses they possess—from one‑sensed beings (earth‑bodied, water‑bodied, fire‑bodied, air‑bodied, and plant life) to five‑sensed beings (including mammals, birds, and other complex animals). Because animals possess multiple senses and experience pain, their protection is considered a central ethical duty for laypeople and monastics alike.\n\nHistorically, Jain communities have advocated vegetarianism, compassion toward animals, and the establishment of animal shelters (panjrapoles). These practices are not merely cultural but arise from scriptural injunctions emphasizing restraint, care, and the minimization of harm. Animal welfare in Jainism is therefore not limited to avoiding violence; it includes proactive care, such as feeding injured animals, supporting sanctuaries, and promoting ethical livelihoods that do not exploit animals.\n\nModern Jain discourse expands these principles to contemporary issues such as industrial farming, animal testing, wildlife conservation, and environmental degradation. Scholars and community leaders often interpret ancient teachings to address new ethical challenges, while maintaining fidelity to scriptural sources. Across traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—the commitment to non‑violence toward animals remains a shared foundation, though practices and emphases may vary.\n\nAnimal welfare in Jainism thus represents a synthesis of metaphysics, ethics, and lived practice. It is grounded in canonical texts, elaborated through commentaries, and continually re‑interpreted in modern contexts. The tradition encourages laypeople to adopt realistic, compassionate practices while acknowledging the complexities of daily life and the need for qualified human guidance in cases involving health, livelihood, or legal constraints.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Āyāraṅga)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "सव्वे पाणाः सुखा इच्छन्ति, दुःखं न इच्छन्ति",
+      "transliteration": "savve pāṇāḥ sukhā icchanti, duḥkhaṃ na icchanti",
+      "translation": "All living beings desire happiness; none desire suffering.",
+      "notes": "Tier A source. This passage is frequently cited in discussions of animal welfare. It establishes the universal desire for well‑being among all beings, forming the ethical basis for non‑violence."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non‑violence is the supreme duty.",
+      "notes": "Tier A source. Although widely quoted, the exact phrasing appears in later commentarial traditions. The sūtra emphasizes restraint in harming all life forms, including animals."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Śvetāmbara canon",
+      "original_text": "जेण हन्ति स वद्धइ",
+      "transliteration": "jeṇa hanti sa vaddhai",
+      "translation": "Whoever harms living beings increases his own suffering.",
+      "notes": "Tier A source. This text links harm to animals with karmic consequences, reinforcing ethical restraint."
+    },
+    {
+      "title": "Śrāvakācāra (Lay Conduct Manuals)",
+      "author": "Various Digambara and Śvetāmbara authors",
+      "original_text": "पशुहिंसा‑विरतिरेव श्रावकधर्मः",
+      "transliteration": "paśu‑hiṃsā‑viratir eva śrāvaka‑dharmaḥ",
+      "translation": "Refraining from harm to animals is indeed the duty of a lay follower.",
+      "notes": "Tier B source. Lay conduct texts consistently emphasize vegetarianism, compassion, and support for animal shelters."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism requires all laypeople to avoid every form of harm to animals, including accidental harm.",
+      "reality": "Primary texts distinguish between intentional and unintentional harm. Lay ethics focus on minimizing avoidable harm while acknowledging practical constraints of daily life."
+    },
+    {
+      "myth": "Jains are obligated to run or financially support animal shelters.",
+      "reality": "While supporting panjrapoles is encouraged and historically common, it is not mandated for every individual. The duty is contextual and depends on capacity, resources, and guidance from qualified teachers."
+    },
+    {
+      "myth": "Jainism prohibits all use of animals under any circumstances.",
+      "reality": "Scriptures emphasize non‑violence and non‑exploitation, but interpretations vary across traditions. Some uses may be permitted if they do not involve harm, though modern ethical debates continue."
+    }
+  ]
+}

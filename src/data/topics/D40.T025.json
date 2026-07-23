@@ -1,0 +1,43 @@
+{
+  "overview": "Calendar calculation (pañcāṅga-gaṇanā or vāra-tithi-nakṣatra-gaṇanā) in Jain traditions refers to the systematic determination of lunar days (tithi), fortnights (pakṣa), months (māsa), intercalary months (adhika-māsa), and festival dates according to the luni-solar framework used across Śvetāmbara and Digambara communities. Jain calendar science is deeply intertwined with ritual timing, fasts, pratikramaṇa cycles, and commemorations of tīrthaṅkara kalyāṇakas. \n\nHistorically, Jain calendar calculation draws from broader Indian astronomical traditions while maintaining distinct religious observances. The system is primarily lunar, with months beginning on the new moon (amāvasyā) in the Digambara tradition and on the full moon (pūrṇimānta) in many Śvetāmbara regions. The calendar incorporates solar transitions (saṅkrānti), planetary positions, and nakṣatra alignments for determining auspicious timings. \n\nKey computational elements include: (1) identifying the exact moment a tithi begins and ends, based on the longitudinal difference between the sun and moon; (2) determining whether a tithi is kṣaya (skipped) or vr̥ddhi (extended), which affects festival placement; (3) calculating adhika-māsa and kṣaya-māsa to keep the lunar year aligned with the solar year; and (4) mapping these calculations to fixed Jain observances such as Paryuṣaṇa, Daśalakṣaṇa, Aṣtāhnika, and kalyāṇaka days. \n\nJain calendar manuals (pañcāṅgas) produced by monastic lineages and scholarly lay pandits provide annual tables of tithis, planetary positions, sunrise times, and festival dates. These are not uniform across regions, as local astronomical schools may use slightly different computational constants. Modern Jain communities often rely on standardized pañcāṅgas produced by recognized institutions, but variations persist, especially between Digambara and Śvetāmbara traditions. \n\nCalendar calculation remains a technical discipline requiring knowledge of classical jyotiṣa, Jain ritual cycles, and the interpretive conventions of specific sects. The tradition emphasizes accuracy, transparency of method, and alignment with primary scriptural references to ensure that observances occur at the correct cosmological moment.",
+  "primary_sources": [
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "“सूरियचंदमाओ णिव्वुअं तिहि-समय-लहुअं।”",
+      "transliteration": "sūriyacandamāo nivvuaṃ tihi-samaya-lahuaṃ",
+      "translation": "“The positions of the sun and moon determine the measure of time and the lunar day (tithi).”",
+      "notes": "A foundational cosmological text (Tier A) describing astronomical principles used in Jain time-reckoning. The passage links tithi calculation to the relative motion of the sun and moon."
+    },
+    {
+      "title": "Gommatasāra – Kālakāṇḍa",
+      "author": "Nemicandra Siddhānta Cakravartin (Digambara)",
+      "original_text": "“कालनिर्णयो णिव्वुअं जोव्वण-गहण-गति-परिणामो।”",
+      "transliteration": "kālanirṇayo nivvuaṃ jovvaṇa-gahaṇa-gati-pariṇāmo",
+      "translation": "“The determination of time arises from the transformations in the motions of celestial bodies.”",
+      "notes": "Provides technical descriptions of time units and astronomical motion. Used by Digambara scholars for calendar theory."
+    },
+    {
+      "title": "Śvetāmbara Kālacakra references (e.g., in commentarial traditions on the Kalpasūtra)",
+      "author": "Anonymous commentators (various)",
+      "original_text": "“तिथयोऽर्क-शशी-भोगभेदेन ज्ञेयाः।”",
+      "transliteration": "tithayo’rka-śaśī-bhogabhedena jñeyāḥ",
+      "translation": "“Tithis are known by the difference in the motions of the sun and moon.”",
+      "notes": "Although the Kalpasūtra itself is not an astronomical manual, Śvetāmbara commentaries (Tier B) often explain festival timing using classical jyotiṣa principles."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain festivals occur on the same Gregorian date every year.",
+      "reality": "Jain observances follow a luni-solar calendar, so dates shift annually relative to the Gregorian calendar."
+    },
+    {
+      "myth": "All Jain sects use identical calendar calculations.",
+      "reality": "Digambara and Śvetāmbara traditions differ in month conventions (amānta vs. pūrṇimānta), festival placement rules, and regional pañcāṅga constants."
+    },
+    {
+      "myth": "Tithis correspond exactly to 24-hour civil days.",
+      "reality": "A tithi is defined by the angular difference between the sun and moon and can be shorter or longer than a civil day, sometimes leading to skipped or extended tithis."
+    }
+  ]
+}

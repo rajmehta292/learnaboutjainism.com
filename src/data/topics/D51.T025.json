@@ -1,0 +1,47 @@
+{
+  "overview": "CSL-JSON (Citation Style Language JSON) is a standardized JSON data model used to represent bibliographic metadata and citation information for processing by CSL-compatible citation engines. It emerged from the citeproc-js project, which introduced a structured JSON format to feed citation processors with the data needed to render references and bibliographies according to CSL styles. Over time, this format—often called \"citeproc-JSON\"—was formalized as CSL-JSON and adopted by a wide range of tools, including reference managers, publishing platforms, and document automation systems.\n\nAt its core, CSL-JSON defines how individual bibliographic items (such as books, journal articles, reports, and web pages) are encoded as JSON objects. Each item includes required fields like \"id\" and \"type\", along with a rich set of optional fields such as \"title\", \"author\", \"issued\" (for publication dates), \"container-title\" (for journals or books), and identifiers like DOI or ISBN. Name fields (e.g., \"author\", \"editor\") are represented as arrays of person objects with properties like \"family\", \"given\", and optional particles or literal names for institutions. Date fields use a structured format based on \"date-parts\" arrays, allowing precise representation of years, months, and days while also supporting approximate or literal dates.\n\nBeyond individual items, CSL-JSON also specifies how citations themselves are modeled. The csl-citation.json schema describes citation objects that reference one or more items, along with contextual information such as prefixes, suffixes, locators (page numbers, chapters, etc.), and labels indicating the type of locator (e.g., \"page\", \"chapter\", \"section\"). These citation objects enable processors to manage citation clusters, track ordering, and generate correctly formatted in-text citations and bibliographies according to a chosen CSL style. The schemas csl-data.json and csl-citation.json together provide a comprehensive, machine-readable specification that can be validated using JSON Schema, ensuring interoperability and consistency across tools.\n\nCSL-JSON plays a crucial role in modern scholarly workflows by decoupling bibliographic data from presentation. Tools can store and exchange citation data in CSL-JSON, then rely on CSL styles to render that data in thousands of different citation formats (APA, MLA, Chicago, Vancouver, and many more) without altering the underlying metadata. This separation supports reproducible research, automated document generation, and flexible publishing pipelines. Because the schema is open, documented, and maintained by the Citation Style Language community, CSL-JSON has become a de facto standard for JSON-based citation metadata in many open-source and commercial ecosystems.",
+  "primary_sources": [
+    {
+      "title": "CSL-JSON Schema (csl-data.json)",
+      "author": "Citation Style Language project",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "JSON Schema describing the CSL-JSON data model for bibliographic items, including item types, variables, name fields, and date formats.",
+      "notes": "This schema, published in the official Citation Style Language schema repository, defines the structure of CSL-JSON item data and is the primary technical reference for how bibliographic metadata should be encoded for CSL processors."
+    },
+    {
+      "title": "CSL-JSON Schema (csl-citation.json)",
+      "author": "Citation Style Language project",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "JSON Schema describing CSL-JSON citation objects, including citation IDs, citation items, locators, labels, and contextual properties for in-text citations.",
+      "notes": "This schema extends the item data model by specifying how citations reference items and include additional information needed for rendering citation clusters and bibliographies."
+    },
+    {
+      "title": "CSL-JSON — citeproc-js documentation",
+      "author": "Frank Bennett",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Documentation explaining the CSL-JSON format as used by the citeproc-js processor, including the concepts of items, citations, and cite-items, and how they are submitted to the processor.",
+      "notes": "The citeproc-js documentation is historically important for understanding the origins and practical use of CSL-JSON. It provides examples and guidance on encoding citation data correctly to obtain accurate output from CSL processors."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "CSL-JSON is a proprietary format tied to a single reference manager.",
+      "reality": "CSL-JSON is an open, community-maintained standard defined by the Citation Style Language project. It is used by multiple tools and ecosystems, both open-source and commercial, and is not owned by any single vendor."
+    },
+    {
+      "myth": "CSL-JSON only supports basic citation types like books and journal articles.",
+      "reality": "The CSL-JSON schema supports a wide range of item types, including books, journal articles, chapters, reports, legal documents, web pages, and many other resource types. It also provides rich fields for names, dates, identifiers, and container information, enabling detailed and nuanced bibliographic descriptions."
+    },
+    {
+      "myth": "Any JSON with bibliographic data can be treated as valid CSL-JSON.",
+      "reality": "To be valid CSL-JSON, data must conform to the official schemas (csl-data.json and csl-citation.json). Arbitrary JSON structures may not be compatible with CSL processors and can lead to incorrect or incomplete citations if they do not follow the required field names, types, and formats."
+    },
+    {
+      "myth": "CSL-JSON dictates how citations must look in the final document.",
+      "reality": "CSL-JSON only defines how citation data is structured; it does not control the visual formatting of citations or bibliographies. Formatting is determined by CSL styles, which interpret CSL-JSON data and render it according to specific citation rules (such as APA, MLA, or Chicago)."
+    }
+  ]
+}

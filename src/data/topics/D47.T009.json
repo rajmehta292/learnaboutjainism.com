@@ -1,0 +1,39 @@
+{
+  "overview": "In Jain studies, “drama” can refer to two distinct but historically connected domains: (1) the broader Indian aesthetic and literary category of theatrical performance (nāṭya), and (2) the specific ways Jain communities have used dramatic forms—such as religious plays, narrative enactments, and didactic performances—to teach ethics, cosmology, and the lives of tīrthaṅkaras. Although Jainism does not treat drama as a central doctrinal category, dramatic representation has long served as a pedagogical and cultural medium.\n\nIn classical Indian literature, drama is defined within the Sanskrit aesthetic tradition, especially in texts like the *Nāṭyaśāstra*. Jain authors, while not producing a separate dramaturgical canon, participated in this literary world by composing narrative works, adapting stories for performance, and using theatrical modes to convey moral lessons. Jain narrative literature—such as *prabandhas*, *caritras*, and *kathās*—often provided the source material for community dramas performed during festivals, educational gatherings, and youth instruction.\n\nWithin Jain communities, drama has historically functioned as a tool for illustrating the consequences of karma, the importance of ahiṃsā, and the exemplary conduct of tīrthaṅkaras and śrāvakas. Performances may depict episodes from texts like the *Kalpasūtra*, *Ādipurāṇa*, or *Jinasena’s Mahāpurāṇa*, emphasizing renunciation, compassion, and restraint. Modern Jain organizations continue this tradition through staged plays, temple-based enactments, and youth-group productions that blend classical narrative with contemporary ethical concerns.\n\nDrama in Jain contexts is therefore best understood as a cultural and educational practice rather than a doctrinal category. It reflects the broader Indian theatrical heritage while serving Jain aims of moral instruction, community identity, and narrative preservation.",
+  "primary_sources": [
+    {
+      "title": "Nāṭyaśāstra",
+      "author": "Traditionally attributed to Bharata",
+      "original_text": "नाट्यं भिन्नश्रुतिर्यत्र वर्णाश्रमविभागजम्",
+      "transliteration": "nāṭyaṃ bhinnaśrutiryatra varṇāśramavibhāgajam",
+      "translation": "Drama is that which encompasses diverse teachings and the divisions of social life.",
+      "notes": "Although not a Jain text, the *Nāṭyaśāstra* is the foundational source for classical Indian drama. Jain authors and communities historically operated within this aesthetic framework when producing or adapting dramatic works."
+    },
+    {
+      "title": "Ādipurāṇa",
+      "author": "Jinasena (Digambara)",
+      "original_text": "महापुराणं प्रवक्ष्यामि जिनेन्द्रचरितं शुभम्",
+      "transliteration": "mahāpurāṇaṃ pravakṣyāmi jinendra-caritaṃ śubham",
+      "translation": "I shall narrate the great Purāṇa, the auspicious deeds of the Jinas.",
+      "notes": "Narratives from the *Ādipurāṇa*—especially the life of Ṛṣabhanātha—are frequently adapted into dramatic performances during festivals and educational programs."
+    },
+    {
+      "title": "Kalpasūtra",
+      "author": "Traditionally attributed to Bhadrabāhu (Śvetāmbara)",
+      "original_text": "विरमन्ति महावीराः सर्वकर्मसु",
+      "transliteration": "viramanti mahāvīrāḥ sarva-karmasu",
+      "translation": "The great hero (Mahāvīra) ceased from all activity.",
+      "notes": "Episodes from the *Kalpasūtra*, especially Mahāvīra’s birth, renunciation, and liberation, are commonly dramatized during Paryuṣaṇa in Śvetāmbara communities."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism discourages or forbids drama because it is worldly entertainment.",
+      "reality": "While Jain ethics emphasize restraint and awareness, drama has historically been used as a legitimate educational tool. Jain communities have long employed theatrical performances to teach moral lessons, celebrate tīrthaṅkaras, and transmit narrative traditions."
+    },
+    {
+      "myth": "Jain drama is identical across all sects and historical periods.",
+      "reality": "Dramatic practices vary significantly between Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth traditions. Some emphasize narrative recitation over theatrical staging, while others incorporate elaborate costumes and temple-based performances."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "overview": "The terms *Jain*, *Jina*, *Arihant*, *Siddha*, and *Tirthankara* form the core vocabulary of Jain philosophical identity and cosmology. Each term has a precise meaning in the canonical Prakrit and Sanskrit sources and reflects a distinct stage or role in the Jain path of liberation.\n\nA *Jain* (from Sanskrit *Jaina*, Prakrit *Jaina*) literally means “one who follows the Jina.” It is not an ethnic or birth-based identity but a soteriological one: a Jain is a layperson or renunciant who accepts the teachings of the Jinas, especially the vows, ethical disciplines, and metaphysical doctrines preserved in the āgamas and śāstras.\n\nA *Jina* (Prakrit *Jina*, Sanskrit *Jina*) means “Conqueror”—one who has conquered inner enemies such as anger, pride, deceit, and greed. The term is used for liberated beings who have attained omniscience (*kevala‑jñāna*) and complete victory over karmic bondage. All Arihants and Siddhas are Jinas, but the term emphasizes the conquest rather than the state.\n\nAn *Arihant* (Prakrit *Arihanta*, Sanskrit *Arihant*) is a living omniscient being who has destroyed the ghātiyā karmas (knowledge‑obscuring, perception‑obscuring, deluding, and obstructive karmas) but still possesses the aghātiyā karmas (body‑producing, lifespan, status, and feeling karmas). Arihants teach the path of liberation and are the source of the Jain community’s scriptures.\n\nA *Siddha* (Prakrit *Siddha*, Sanskrit *Siddha*) is a liberated soul who has completely destroyed all karmas and resides eternally at the apex of the universe (*siddha‑śilā*). Siddhas are pure, bodiless, and free from all forms of suffering, pleasure, individuality markers, and activity. They no longer teach; they exist in perfect liberation.\n\nA *Tirthankara* (Prakrit *Titthaṅkara*, Sanskrit *Tīrthaṅkara*) is a special type of Arihant who establishes a *tīrtha*—a fourfold community of monks, nuns, laymen, and laywomen—and rearticulates the dharma for an entire cosmic era. Jain cosmology recognizes twenty‑four Tirthankaras in each half‑cycle of time. They are Jinas and Arihants, but their defining feature is founding and organizing the Jain community.\n\nTogether, these terms describe the path (Jain), the conqueror (Jina), the living omniscient teacher (Arihant), the liberated soul (Siddha), and the world‑renewing ford‑maker (Tirthankara).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अरिहन्ताः सिद्धाः साधवो जिनाः ।",
+      "transliteration": "arihantāḥ siddhāḥ sādhavo jināḥ",
+      "translation": "Arihants, Siddhas, Sādhus, and Jinas (are the revered beings).",
+      "notes": "TS 1.4 lists the fourfold objects of reverence. Commentaries clarify that Jina is a generic term for conquerors, Arihant refers to living omniscients, and Siddha refers to liberated souls."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जिणो जिणस्स धम्मं देसइ।",
+      "transliteration": "jiṇo jiṇassa dhammaṃ desai",
+      "translation": "The Jina teaches the doctrine of the Jina.",
+      "notes": "This early Śvetāmbara canonical text emphasizes the Jina as the teacher who has conquered passions and reveals the path."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "सिद्धो होइ कम्मणो णिव्वाणो।",
+      "transliteration": "siddho hoi kammaṇo ṇivvāṇo",
+      "translation": "A Siddha is one who is free from karma and established in liberation.",
+      "notes": "A Digambara foundational text describing the nature of the liberated soul."
+    },
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "तित्थंकरा महावीरं…",
+      "transliteration": "tithankarā Mahāvīraṃ…",
+      "translation": "Mahāvīra, the Tirthankara…",
+      "notes": "The Kalpa Sūtra provides biographical accounts of Tirthankaras and clarifies their role as ford‑makers who establish the Jain community."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Arihant and Siddha are interchangeable terms.",
+      "reality": "Arihants are living omniscients who still possess non-destructive karmas, while Siddhas are completely liberated, bodiless souls residing at the universe’s apex."
+    },
+    {
+      "myth": "A Tirthankara is simply any enlightened being.",
+      "reality": "Only those Arihants who establish a fourfold community and rearticulate dharma for an entire cosmic era are Tirthankaras."
+    },
+    {
+      "myth": "Jain means someone born into a Jain family.",
+      "reality": "The term Jain means a follower of the Jina’s path; it is a spiritual identity based on practice and conviction, not birth."
+    },
+    {
+      "myth": "All Jinas are Tirthankaras.",
+      "reality": "All Tirthankaras are Jinas, but many Jinas do not take on the special role of founding a tīrtha."
+    }
+  ]
+}

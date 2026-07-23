@@ -1,0 +1,55 @@
+{
+  "overview": "Pramāṇa (प्रमाण) in Jain philosophy refers to a valid means of knowledge. It is a foundational epistemological category used to determine how true cognition arises and how one can reliably know reality. Jain thinkers—across Digambara and Śvetāmbara traditions—developed a nuanced, multi‑layered theory of pramāṇa that integrates logic, ontology, and the doctrine of anekāntavāda (the many-sidedness of reality).\n\nJain epistemology distinguishes between two broad classes of knowledge: **pramāṇa** (valid, comprehensive cognition) and **naya** (partial, perspectival cognition). Pramāṇa provides complete and accurate knowledge of its object, while naya offers a contextual or conditional viewpoint. This distinction is central to understanding how Jainism reconciles the complexity of reality with human cognitive limitations.\n\nClassically, Jain texts identify **three primary pramāṇas**: (1) **Pratyakṣa** (direct knowledge), (2) **Parokṣa** (indirect or mediated knowledge), and (3) **Śruta** (scriptural knowledge). Over time, commentators refine these into more detailed taxonomies. For example, pratyakṣa is divided into empirical sensory perception and extraordinary cognition (such as clairvoyance or omniscience), while parokṣa includes inference, comparison, and testimony.\n\nA distinctive Jain contribution is the insistence that pramāṇa must be evaluated alongside the metaphysical structure of reality. Knowledge is not merely a mental event; it is conditioned by the soul’s inherent capacity for cognition, obscured by karmic veils. Thus, epistemology and karma theory are deeply intertwined. As karmic obstructions diminish, the soul’s pramāṇa becomes increasingly clear, culminating in kevala‑jñāna (omniscience), the highest pramāṇa.\n\nJain philosophers such as Umāsvāti/Umāsvāmi, Kundakunda, Siddhasena Divākara, Akalaṅka, Haribhadra Sūri, and Hemacandra elaborated pramāṇa theory in ways that shaped broader Indian philosophical discourse. Their analyses engage with Buddhist pramāṇa theorists (like Dignāga and Dharmakīrti) and Nyāya logicians, while maintaining distinct Jain commitments to non-absolutism and the multiplicity of viewpoints.\n\nIn contemporary Jain studies, pramāṇa remains a central topic for understanding how Jainism approaches truth, rationality, and spiritual liberation. Modern scholarship highlights the tradition’s sophisticated integration of epistemology with ethics, metaphysics, and soteriology.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "प्रमाणनयचेष्टास्वभावपरिणामाः।",
+      "transliteration": "pramāṇa‑naya‑ceṣṭā‑svabhāva‑pariṇāmāḥ",
+      "translation": "Valid knowledge, viewpoints, activity, inherent nature, and modifications (are categories of reality).",
+      "notes": "This passage (TS 1.6) situates pramāṇa within the broader ontology of Jainism. The text does not provide an exhaustive list of pramāṇas but establishes their foundational role. Commentaries by Pūjyapāda (Digambara) and Siddhasena Gaṇi (Śvetāmbara) expand the classification."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Kundakunda",
+      "original_text": "णाणं तु दुविहं—पमाणं णयं च।",
+      "transliteration": "ñāṇaṃ tu duvihaṃ—pamāṇaṃ ṇayaṃ ca",
+      "translation": "Knowledge is of two kinds: pramāṇa and naya.",
+      "notes": "Kundakunda’s Prakrit works emphasize the distinction between complete and partial knowledge. His treatment is influential in Digambara epistemology."
+    },
+    {
+      "title": "Aṣṭaśatī (commentary on Tattvārtha Sūtra)",
+      "author": "Akalaṅka",
+      "original_text": "प्रमाणं तु यथार्थज्ञानम्।",
+      "transliteration": "pramāṇaṃ tu yathārtha‑jñānam",
+      "translation": "Pramāṇa is knowledge of reality as it truly is.",
+      "notes": "Akalaṅka’s works are central to Jain logic. He refines pramāṇa categories and engages critically with Buddhist and Nyāya epistemology."
+    },
+    {
+      "title": "Anekāntavāda and Naya Doctrine (from *Sanmati Tarka*)",
+      "author": "Siddhasena Divākara",
+      "original_text": "एकं च वस्तु बहुधा प्रतिपत्तव्यम्।",
+      "transliteration": "ekaṃ ca vastu bahudhā pratipattavyam",
+      "translation": "A single entity must be understood in many ways.",
+      "notes": "Although not a direct definition of pramāṇa, this passage frames the epistemological context in which pramāṇa operates."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Pramāṇa in Jainism is identical to pramāṇa theory in Nyāya or Buddhist logic.",
+      "reality": "While Jain thinkers engage deeply with Nyāya and Buddhist epistemology, Jain pramāṇa theory is distinct. It integrates anekāntavāda, karma theory, and the soul’s inherent cognition, producing a unique framework."
+    },
+    {
+      "myth": "Pratyakṣa (direct knowledge) only refers to sensory perception.",
+      "reality": "Jain texts classify pratyakṣa into ordinary sensory perception and extraordinary cognition (clairvoyance, telepathy, omniscience). This broader definition is not shared by all Indian philosophical schools."
+    },
+    {
+      "myth": "Scriptural knowledge (śruta‑jñāna) is considered inferior and not a pramāṇa.",
+      "reality": "Śruta is explicitly recognized as a pramāṇa in Jainism. It is essential for lay practice and for understanding the teachings of the Jinas."
+    },
+    {
+      "myth": "Pramāṇa guarantees liberation.",
+      "reality": "Pramāṇa provides valid knowledge, but liberation requires ethical conduct, meditation, and the removal of karmic obstructions. Epistemology and soteriology are linked but not identical."
+    }
+  ]
+}

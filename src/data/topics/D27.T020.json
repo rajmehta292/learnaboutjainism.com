@@ -1,0 +1,51 @@
+{
+  "overview": "The term “Jain tantra” refers to a diverse body of ritual, meditative, and cosmological literature within Jain traditions that uses the word *tantra* in its older, technical sense: a manual, method, or system. In Jain contexts, *tantra* does not denote the esoteric or transgressive practices associated with some Hindu or Buddhist tantric lineages. Instead, Jain tantras are procedural texts that outline ritual sequences, protective practices, mantra usage, iconographic rules, and meditative frameworks aligned with Jain ethical and metaphysical principles.\n\nHistorically, Jain tantras emerged between roughly the 6th and 12th centuries CE, though some elements—such as mantra recitation and protective rites—have antecedents in earlier Prakrit canonical literature. These texts are found in both Digambara and Śvetāmbara traditions, though their content, ritual emphases, and commentarial histories differ. Many Jain tantras were composed in Sanskrit, often by learned ācāryas who integrated Jain cosmology, karma theory, and vows with broader medieval Indian ritual idioms.\n\nJain tantras typically include: (1) *mantra-vidhi*—procedures for reciting mantras associated with tīrthaṅkaras, yakṣas, and protective deities; (2) *yantra-vidhi*—geometric diagrams used for meditation or ritual focus; (3) *pūjā-vidhi*—instructions for temple worship, consecration, and festival rites; (4) *śānti-vidhi*—rituals for averting obstacles or purifying karmic conditions; and (5) *adhyātma-tantra*—texts emphasizing internal meditation, visualization of the soul, and the progressive purification of consciousness.\n\nAcross traditions, Jain tantric literature is always constrained by core Jain ethics: nonviolence, non-possession, truthfulness, and the primacy of self-effort in liberation. No Jain tantra author claims that liberation can be achieved through external ritual power alone. Instead, tantric procedures are framed as supportive practices for laypeople, temple communities, or meditators, while liberation remains grounded in right faith, right knowledge, and right conduct (*samyak-darśana*, *samyak-jñāna*, *samyak-cāritra*).",
+  "primary_sources": [
+    {
+      "title": "Bhaktamara Stotra (with tantric commentarial traditions)",
+      "author": "Ācārya Māntunga (traditionally attributed)",
+      "original_text": "ज्वालामालाकुलितकण्ठश्शक्रवक्त्रविकर्षिणी ।\nभक्तामरप्रणतिभक्तिं भजते यः स तस्य ते ॥",
+      "transliteration": "jvālā-mālā-kulita-kaṇṭhaḥ śśakra-vaktra-vikarṣiṇī |\nbhaktāmara-praṇati-bhaktiṁ bhajate yaḥ sa tasya te ||",
+      "translation": "“Your praise, O Lord, is a garland of flames that draws even Indra’s radiant face; whoever devotes himself to the Bhaktamara’s homage is protected by you.”",
+      "notes": "The Bhaktamara Stotra itself is a devotional hymn (Tier A/B), but medieval Digambara and Śvetāmbara commentaries developed tantric-style usages—mantra extractions, yantras, and ritual sequences—while insisting that such practices remain subordinate to Jain ethical discipline."
+    },
+    {
+      "title": "Jvālāmālinī Kalpa",
+      "author": "Attributed to medieval Digambara ritual specialists",
+      "original_text": "ज्वालामालिनीदेव्याः कल्पोऽयं सर्वकर्मघ्नः ।",
+      "transliteration": "jvālā-mālinī-devyāḥ kalpo ’yaṁ sarva-karma-ghnaḥ |",
+      "translation": "“This is the ritual manual of the goddess Jvālāmālinī, destroyer of all obstacles.”",
+      "notes": "A Digambara tantric ritual text (Tier B/C) used historically for protective rites. Modern scholars emphasize that its procedures must be interpreted within Jain nonviolent ethics and symbolic ritual frameworks."
+    },
+    {
+      "title": "Padmāvatī Kalpa",
+      "author": "Medieval Śvetāmbara ritual compilers",
+      "original_text": "पद्मावत्याः कल्पो हि सर्वार्थसाधकः स्मृतः ।",
+      "transliteration": "padmāvatyāḥ kalpo hi sarvārtha-sādhakaḥ smṛtaḥ |",
+      "translation": "“The Padmāvatī ritual manual is remembered as accomplishing all auspicious aims.”",
+      "notes": "Padmāvatī is a prominent yakṣiṇī in Śvetāmbara Mūrti-pūjaka traditions. The kalpa literature (Tier B/C) outlines pūjā sequences, mantra procedures, and iconographic rules, always framed within Jain vows and temple norms."
+    },
+    {
+      "title": "Śāntikarana Kalpas (various recensions)",
+      "author": "Multiple Jain ritual specialists",
+      "original_text": "शान्तिकरणं नाम कल्पं सर्वदुःखनाशनम् ।",
+      "transliteration": "śāntikaraṇaṁ nāma kalpaṁ sarva-duḥkha-nāśanam |",
+      "translation": "“The Śāntikarana ritual manual is known to remove all suffering.”",
+      "notes": "These texts (Tier B/C) provide procedures for peace rites, karmic purification, and communal well-being. They do not promise liberation through ritual power but situate rites within ethical living and devotional focus."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain tantra is identical to Hindu or Buddhist esoteric tantra involving transgressive rites.",
+      "reality": "Jain tantras are procedural ritual and meditative manuals grounded in Jain ethics. They do not include transgressive practices and consistently subordinate ritual to nonviolence, vows, and self-effort."
+    },
+    {
+      "myth": "Jain tantric texts claim that liberation can be achieved through mantras or ritual power alone.",
+      "reality": "All Jain traditions affirm that liberation arises only from right faith, right knowledge, and right conduct. Tantric procedures are auxiliary practices for lay or ritual contexts, not substitutes for ethical discipline."
+    },
+    {
+      "myth": "Jain tantra is universally accepted and practiced across all Jain sects.",
+      "reality": "Sthānakavāsī and Terāpanth traditions reject image-based and tantric ritual literature. Digambara and Śvetāmbara Mūrti-pūjaka communities preserve tantric manuals, but their usage varies widely."
+    }
+  ]
+}

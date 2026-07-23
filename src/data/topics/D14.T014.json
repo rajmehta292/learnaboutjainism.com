@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain thought, charity—most often discussed under the categories of *dāna* (giving) and *dayā* (compassion)—is a foundational expression of non‑violence (*ahiṃsā*) and interdependence. Unlike many traditions where charity is primarily an economic or social virtue, Jainism frames giving as a disciplined ethical practice that directly influences karmic influx (*āsrava*) and karmic shedding (*nirjarā*). The act of giving is not merely transactional; it is a conscious reduction of possessiveness (*parigraha*) and ego (*māna*), both of which bind the soul to saṃsāra.\n\nClassical Jain texts describe four principal forms of *dāna*: **āhāra‑dāna** (giving food), **pāna‑dāna** (giving drink), **auṣadha‑dāna** (giving medicine), and **śāstra‑dāna** (giving knowledge or scriptures). These categories appear across Śvetāmbara and Digambara sources, though with slight terminological variations. The emphasis is always on intentionality: charity must be performed with purity of mind, without expectation of reward, and with awareness of the recipient’s needs and capacities.\n\nJain communities historically developed extensive charitable institutions—animal hospitals (*paśuśālā*), bird feeding houses (*cābūtarā*), water houses (*pāniyāśālā*), and free food halls (*anna‑kṣetra*). These institutions reflect the tradition’s commitment to protecting life in all forms. Modern Jain philanthropy often extends to education, healthcare, disaster relief, and environmental protection, continuing the ancient ethic of compassion while adapting to contemporary needs.\n\nAcross sects, charity is considered a layperson’s essential duty (*śrāvaka‑dharma*). While monks and nuns renounce possessions, householders cultivate generosity as part of their path toward reducing attachment. The act of giving is not viewed as a substitute for spiritual discipline but as one of its necessary supports. Charity, when grounded in right faith (*samyak‑darśana*), right knowledge (*samyak‑jñāna*), and right conduct (*samyak‑cāritra*), becomes a means of aligning one’s daily life with the broader Jain pursuit of liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (accepted across Jain traditions)",
+      "original_text": "आहारदानपानदानौषधदानशास्त्रदानानि",
+      "transliteration": "āhāra‑dāna pāna‑dāna auṣadha‑dāna śāstra‑dānāni",
+      "translation": "The gifts of food, drink, medicine, and scriptures.",
+      "notes": "Tattvārtha Sūtra 7.11 lists the four principal forms of giving. Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) emphasize that these acts reduce attachment and support the welfare of living beings."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical tradition",
+      "original_text": "दया जीवाणं धम्मो",
+      "transliteration": "dayā jīvāṇaṃ dhammo",
+      "translation": "Compassion for living beings is religion.",
+      "notes": "This passage (Uttarādhyayana Sūtra 25.31) frames charity within the broader ethic of compassion. The text stresses that giving must arise from empathy and non‑violence."
+    },
+    {
+      "title": "Śrāvakācāra (various authors; Digambara tradition)",
+      "author": "Notably by Ācārya Samantabhadra and later commentators",
+      "original_text": "दानं हि श्रावकस्य मुख्यं धर्मलक्षणम्",
+      "transliteration": "dānaṃ hi śrāvakasyā mukhyaṃ dharma‑lakṣaṇam",
+      "translation": "Giving is indeed a principal mark of the layperson’s dharma.",
+      "notes": "Digambara lay conduct texts consistently highlight charity as a core household duty, linking it to restraint and karmic purification."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Charity in Jainism is primarily about donating money.",
+      "reality": "While financial giving is valued, classical Jain texts emphasize four specific forms of *dāna*—food, drink, medicine, and knowledge—rooted in compassion and non‑violence. The ethical intention behind giving is more important than the monetary amount."
+    },
+    {
+      "myth": "Charity automatically removes bad karma.",
+      "reality": "Jain doctrine states that charity can reduce karmic influx only when performed with purity of intention, absence of pride, and alignment with right faith. Charity done for prestige or reward may generate new karmic bondage."
+    },
+    {
+      "myth": "Monastics engage in charity by distributing goods.",
+      "reality": "Jain monks and nuns renounce possessions and do not distribute material goods. Charity is primarily a layperson’s duty, while monastics contribute through teaching, guidance, and exemplifying non‑attachment."
+    }
+  ]
+}

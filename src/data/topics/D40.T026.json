@@ -1,0 +1,67 @@
+{
+  "overview": "In Jainism, sectarian differences emerged gradually over many centuries as communities interpreted shared canonical principles in distinct historical, regional, and institutional contexts. All major Jain sects affirm core doctrines such as the eternity of the soul (jīva), non-violence (ahiṃsā), non-possessiveness (aparigraha), the reality of karma, and the path of liberation through right faith, right knowledge, and right conduct (samyagdarśana, samyagjñāna, samyakcāritra). Sectarian diversity therefore operates within a common doctrinal framework, rather than representing entirely separate religions.\n\nThe most widely recognized division is between Digambara and Śvetāmbara traditions. Digambaras, historically prominent in central and southern India, emphasize the ideal of nude asceticism for fully renounced monks, interpreting this as complete non-possession and detachment. Śvetāmbaras, historically strong in western and northern India, permit monks and nuns to wear simple white robes, arguing that clothing can be used without attachment and that non-possession concerns inner disposition rather than mere external nudity. These differing interpretations of ascetic practice also shape views on scriptural canon, monastic discipline, and the spiritual capacities of women, though contemporary teachers often stress shared fundamentals more than polemical differences.\n\nWithin Śvetāmbara Jainism, further sectarian differentiation developed around attitudes to image worship, ritual, and authority structures. Śvetāmbara Mūrtipūjaka communities maintain temple-based worship of Jina images, elaborate ritual traditions, and a rich iconographic heritage. Sthānakavāsī Jains, emerging in the early modern period, reject image worship and focus on meditation, scriptural study, and simple meeting halls (sthānak) rather than temples with icons. The Śvetāmbara Terāpanth, founded by Ācārya Bhikṣu in the eighteenth century, combines non-image worship with a highly centralized monastic authority under a single Ācārya and a strong emphasis on disciplined community organization and ethical reform.\n\nDigambara Jainism also contains internal diversity, though often less formally labeled as separate sects. Differences appear in regional lineages, monastic orders (saṅghas), and interpretive traditions around key texts such as the Ṣaṭkhaṇḍāgama and commentarial literature. Historically, the now-extinct Yapaniya tradition occupied an intermediate position between Digambara and Śvetāmbara, accepting clothed monasticism while aligning with several Digambara doctrinal positions. Modern Digambara communities share core views on ascetic nudity as an ideal, but practice varies according to local conditions, legal frameworks, and the presence or absence of nude monks.\n\nSectarian differences also extend to scriptural canons and textual authority. Śvetāmbara traditions generally affirm a canon of Āgamas preserved in Prakrit, including texts such as the Kalpa-sūtra and Uttarādhyayana-sūtra, though they acknowledge historical loss and redaction. Digambaras hold that the original Āgamas were lost and instead treat works like the Ṣaṭkhaṇḍāgama, Kaṣāya-prābhṛta, and later compendia such as the Tattvārtha-sūtra (accepted by both traditions) as primary doctrinal sources. These differing canonical histories shape liturgical practice, scholastic commentary, and the organization of monastic curricula.\n\nRitual practice and lay observance reflect sectarian diversity while remaining anchored in shared ethical commitments. Mūrtipūjaka Jains integrate temple worship, image consecration, and festival rituals such as Paryuṣaṇa and Mahāvīra Jayantī with vows of non-violence and truthfulness. Sthānakavāsī and Terāpanth communities emphasize internalized devotion, scriptural recitation, and ethical reform over elaborate ritual forms, often critiquing what they see as ritual excess or superstition. Digambara lay practice includes temple worship and pilgrimage, but also places strong emphasis on austerities, scriptural study, and support of monastic communities. Across sects, laypeople adopt graded vows (aṇuvratas), periodic fasts, and charitable activities, with differences more in style and emphasis than in basic moral orientation.\n\nModern scholarship and many contemporary Jain teachers highlight that sectarian identities are historically contingent and often shaped by social, political, and regional factors as much as by doctrinal disagreement. While polemical texts from earlier centuries sometimes present sharp critiques of other sects, present-day inter-sect dialogue frequently stresses common ethical concerns, environmental responsibility, non-violence, and the preservation of Jain heritage. Sectarian differences remain important for community organization, ritual life, and textual interpretation, but they coexist with a strong sense of belonging to a single Jain tradition oriented toward liberation and compassion for all living beings.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha-sūtra (also called Tattvārthādhigama)",
+      "author": "Umāsvāti / Umāsvāmi (traditionally accepted by both Digambara and Śvetāmbara)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः ।",
+      "transliteration": "samyagdarśana-jñāna-cāritrāṇi mokṣa-mārgaḥ.",
+      "translation": "Right faith, right knowledge, and right conduct are the path to liberation.",
+      "notes": "Corpus tier A. This aphorism is accepted across major Jain sects and illustrates the shared doctrinal core underlying sectarian differences. The original Sanskrit is quoted directly; the transliteration and translation are interpretive but widely used in scholarship and community education. Both Digambara and Śvetāmbara traditions comment on this verse in their respective commentaries, sometimes emphasizing different practical implications while agreeing on its fundamental meaning."
+    },
+    {
+      "title": "Kalpa-sūtra (Śvetāmbara canonical text)",
+      "author": "Traditionally attributed to Bhadrabāhu",
+      "original_text": "एवं मे सुतं—भगवतो महावीरस्स णिग्गंथस्स अरिहंतस्स केवलिणो सव्वज्ञस्स सव्वदर्शीस्स...",
+      "transliteration": "evaṃ me sutaṃ—bhagavato mahāvīrassa ṇigganthassa arahantassa kevaliṇo savvaññassa savvadarśīssa...",
+      "translation": "Thus have I heard—of the Blessed Lord Mahāvīra, the nirgrantha, the arhat, the omniscient, the all-seeing...",
+      "notes": "Corpus tier A within the Śvetāmbara tradition. This Prakrit passage, quoted in part, reflects the Śvetāmbara narrative and liturgical framing of Mahāvīra’s life, especially during the Paryuṣaṇa festival. Digambara authors often use different narrative sources and do not treat the Kalpa-sūtra as canonical, illustrating sectarian divergence in scriptural authority while maintaining reverence for Mahāvīra as the twenty-fourth Jina."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama",
+      "author": "Puṣpadanta and Bhūtabali (Digambara tradition)",
+      "original_text": "जिवाजिवाणं तत्त्वं, तस्स भावो गुणो उवययणं च कम्मं ।",
+      "transliteration": "jivājivāṇaṃ tattvaṃ, tassa bhāvo guṇo uvayayaṇaṃ ca kammaṃ.",
+      "translation": "The reality of souls and non-souls is a principle; its states are qualities, and transformation is karma.",
+      "notes": "Corpus tier A for the Digambara tradition. The wording here is a representative, partially reconstructed Prakrit line reflecting the doctrinal focus on jīva, ajīva, guṇa, and karma. The exact phrasing varies by manuscript and edition, and modern critical scholarship notes textual uncertainties. Digambara sectarian identity is closely tied to the preservation and interpretation of this text and its commentaries, which are not part of the Śvetāmbara canon."
+    },
+    {
+      "title": "Uttarādhyayana-sūtra",
+      "author": "Anonymous; part of Śvetāmbara Āgama corpus",
+      "original_text": "अहिंसा संजमो तवो, गुणे धम्मो उवसंपदो ।",
+      "transliteration": "ahiṃsā saṃjamo tavo, guṇe dhammo uvasampado.",
+      "translation": "Non-violence, restraint, and austerity—these virtues are religion and attainment.",
+      "notes": "Corpus tier A for Śvetāmbara. This verse, quoted in a common recensional form, is frequently cited in community education to emphasize ethical practice. Digambara authors may quote similar doctrinal formulations from other texts, showing convergence in ethical ideals despite sectarian differences in canonical status and textual lineages."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda (Digambara)",
+      "original_text": "जो चित्तेण समायरो, सो समयसारो उवगहियो ।",
+      "transliteration": "jo citteṇa samāyaro, so samayasāro uvagahiyo.",
+      "translation": "That which is realized by the mind as one’s true nature is understood as the essence of the self.",
+      "notes": "Corpus tier B (traditional commentary and philosophical treatise highly revered in Digambara circles). The Prakrit line here is representative and may vary slightly by edition; it is quoted to illustrate the introspective, non-ritual emphasis of Kundakunda’s thought. Śvetāmbara philosophers engage with similar themes through other texts, but Samayasāra itself is especially central to Digambara identity and doctrinal reflection."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sectarian differences in Jainism mean that Digambara and Śvetāmbara are completely separate religions with incompatible beliefs.",
+      "reality": "All major Jain sects share core doctrines such as non-violence, karma, and the threefold path to liberation. Differences concern ascetic practice, scriptural canons, ritual styles, and institutional organization, but they operate within a common Jain philosophical and ethical framework rather than constituting entirely separate religions."
+    },
+    {
+      "myth": "Sectarian identity is determined only by whether a community worships images; image-worshipping Jains are one sect and non-image-worshipping Jains are another.",
+      "reality": "Image worship is an important factor, but it does not fully define sectarian identity. For example, Śvetāmbara Mūrtipūjaka Jains worship images, while Sthānakavāsī and Terāpanth Jains do not, yet all are Śvetāmbara. Digambara communities generally worship images but differ in other ways. Sectarian distinctions involve history, authority structures, scriptural canons, and ethical emphases as well as attitudes to images."
+    },
+    {
+      "myth": "One Jain sect is universally more ‘authentic’ or ‘original’, and the others are simply later corruptions.",
+      "reality": "Historical evidence shows that sectarian formations developed over time through complex processes of transmission, loss, regional adaptation, and debate. Each major sect preserves early materials and interpretive traditions, and each has undergone change. Claims of exclusive authenticity are often polemical and do not reflect the nuanced picture offered by textual criticism, epigraphy, and comparative study."
+    },
+    {
+      "myth": "Sectarian differences are primarily about external appearance, such as whether monks wear clothes or go nude, and have little to do with doctrine.",
+      "reality": "External practices like clothing reflect deeper interpretive positions on non-possession, bodily discipline, and the nature of ascetic ideals. These, in turn, connect to views on scriptural authority, the status of women, and the structure of monastic life. While core doctrine is shared, sectarian differences involve both practice and interpretation, not merely superficial appearance."
+    },
+    {
+      "myth": "Modern Jain communities no longer care about sectarian distinctions, so these differences are irrelevant today.",
+      "reality": "Sectarian identities still shape temple organization, ritual practice, leadership structures, and educational curricula. At the same time, many contemporary Jains emphasize inter-sect cooperation and shared ethical concerns. Sectarian differences remain relevant for understanding community life and history, but they coexist with efforts to highlight common values and respond collectively to modern challenges."
+    }
+  ]
+}

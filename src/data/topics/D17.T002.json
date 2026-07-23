@@ -1,0 +1,55 @@
+{
+  "overview": "Samayika (Skt. *samayika*, Prakrit *samāiya*) is one of the central lay practices in Jainism, defined as a disciplined period of equanimity, non‑violence, and inward reflection. The term derives from *samaya*, meaning a moment, state, or point of spiritual equality. In both Digambara and Śvetāmbara traditions, Samayika is considered a foundational vrata (vow) for householders, intended to temporarily approximate the mental state of a monk by suspending worldly activities and cultivating steadiness of mind.\n\nIn classical sources, Samayika is described as a practice of withdrawing from harmful intentions, stabilizing attention, and engaging in scripturally guided contemplation. It is not merely meditation but a composite discipline involving posture, recitation, reflection on the nature of the soul, and cultivation of *kṣamā* (forbearance), *mārdava* (humility), *ārjava* (straightforwardness), *śauca* (purity), *satya* (truthfulness), and *saṃyama* (restraint). The duration traditionally recommended for laypeople is one *muhūrta* (approximately 48 minutes), though texts acknowledge flexibility for householders.\n\nAcross traditions, Samayika is framed as a means to reduce passions (*kaṣāyas*), interrupt karmic influx (*āsrava*), and strengthen the soul’s capacity for right conduct (*samyak‑cāritra*). It is also a prerequisite for other lay vows, including *pratikramaṇa* and *posadha*. While the external form varies—Śvetāmbara Mūrti‑pūjaka communities often include specific liturgical recitations, whereas Sthānakavāsī and Terāpanth traditions emphasize non‑iconic meditation—the underlying purpose remains the cultivation of equanimity and ethical clarity.\n\nModern Jain teachers describe Samayika as a daily ethical reset: a structured pause that allows practitioners to examine their conduct, reduce agitation, and re‑align with non‑violence. Academic scholarship notes that Samayika functions as a bridge between monastic ideals and lay life, offering a practical method for integrating Jain ethics into contemporary routines. All traditions emphasize that Samayika should be practiced without coercion, with attention to health, and with guidance from qualified human teachers when deeper commitments are considered.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "समायिकं च",
+      "transliteration": "samāyikaṃ ca",
+      "translation": "“And [the vow of] equanimity.”",
+      "notes": "Tattvārtha Sūtra 7.15 lists Samayika as one of the essential components of right conduct. Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) explain it as the temporary assumption of monastic discipline by laypeople."
+    },
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Attributed to Bhadrabāhu (traditional attribution; historical dating debated)",
+      "original_text": "समाइयं समइकं णाम, जोगं समइकं णाम",
+      "transliteration": "samāiyaṃ samaikaṃ nāma, jogaṃ samaikaṃ nāma",
+      "translation": "“Samayika is called equanimity; Samayika is called yogic discipline.”",
+      "notes": "The Niryukti provides early Śvetāmbara interpretive material linking Samayika with regulated conduct and meditative steadiness. Exact wording varies by manuscript tradition."
+    },
+    {
+      "title": "Mūlācāra",
+      "author": "Vattakera (Digambara)",
+      "original_text": "समाइयं तु समभावेण भावनं",
+      "transliteration": "samāiyaṃ tu samabhāveṇa bhāvanaṃ",
+      "translation": "“Samayika is contemplation grounded in equanimity.”",
+      "notes": "Mūlācāra 5.1 describes Samayika as a disciplined mental state characterized by equality of mind. Digambara commentaries elaborate its role in lay and monastic practice."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text (author uncertain)",
+      "original_text": "समाइए समणो होइ",
+      "transliteration": "samāie samaṇo hoi",
+      "translation": "“In Samayika, one becomes like a monk.”",
+      "notes": "This passage emphasizes the temporary adoption of monastic qualities. Interpretations differ on the extent to which laypeople emulate monastic conduct during Samayika."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Samayika is only a meditation technique similar to modern mindfulness.",
+      "reality": "Classical sources define Samayika as a comprehensive ethical and contemplative discipline involving vows, restraint, scriptural reflection, and equanimity—not merely attention training."
+    },
+    {
+      "myth": "Samayika must always be performed for exactly 48 minutes without exception.",
+      "reality": "While one *muhūrta* is the traditional ideal, texts acknowledge practical flexibility for laypeople. Health, age, and circumstances are recognized considerations."
+    },
+    {
+      "myth": "Samayika requires idol worship and cannot be practiced in non‑iconic traditions.",
+      "reality": "Sthānakavāsī and Terāpanth traditions practice Samayika without images, focusing on internal meditation and ethical reflection. The core principle of equanimity is shared across traditions."
+    },
+    {
+      "myth": "Samayika is a monastic vow that laypeople should avoid unless highly advanced.",
+      "reality": "Samayika is explicitly prescribed for lay practitioners in both Digambara and Śvetāmbara texts as a foundational practice supporting everyday ethical life."
+    }
+  ]
+}

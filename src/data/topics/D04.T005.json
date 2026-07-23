@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain thought, liberated souls—called *siddhas*—are beings who have completely transcended the cycle of birth, death, and rebirth (*saṃsāra*). Liberation (*mokṣa* or *nirvāṇa*) is achieved when all karmic matter has been shed, allowing the soul (*jīva*) to exist in its pure, unobstructed state. Jainism describes the liberated condition with technical precision: a siddha possesses infinite knowledge (*ananta‑jñāna*), infinite perception (*ananta‑darśana*), infinite bliss (*ananta‑sukha*), and infinite energy (*ananta‑vīrya*). These qualities are not granted by a deity but are inherent to every soul once karmic bondage is removed.\n\nLiberated souls reside at the apex of the universe, a region known as *siddha-śilā* or *mokṣa-śilā*. This location is described in both Digambara and Śvetāmbara cosmological texts as the highest point of the *lokākāśa* (the inhabited universe). Siddhas are completely non-material, without body, gender, or activity. They do not intervene in worldly affairs, do not create or destroy, and do not respond to prayers. Their significance lies in being perfected exemplars of the soul’s potential and in inspiring aspirants to pursue ethical discipline, meditation, and right knowledge.\n\nThe path to liberation is outlined through the *guṇasthāna* system, which maps the progressive purification of the soul. The final stages—13th (*sayoga-kevalī*) and 14th (*ayoga-kevalī*)—describe the soul’s last moments before shedding the remaining karmas and ascending to the siddha realm. Both Digambara and Śvetāmbara traditions agree on the nature of liberation, though they differ in certain doctrinal details regarding the final embodied state of the kevalin.\n\nIn Jain devotional practice, liberated souls are honored through *siddha-vandanā* and through the recitation of the *Namaskāra Mantra*, where siddhas are praised as perfected beings worthy of veneration. This veneration is not worship in the sense of seeking favors but an expression of reverence for the ideal of complete spiritual freedom.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "सिद्धाः सुखसमुद्राः",
+      "transliteration": "siddhāḥ sukha‑samudrāḥ",
+      "translation": "“Liberated beings are oceans of bliss.”",
+      "notes": "Tattvārtha Sūtra 10.1 describes the qualities of siddhas. This text is accepted across Digambara and Śvetāmbara traditions as a foundational philosophical treatise."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Nemicandra Siddhānta Cakravartin",
+      "original_text": "सिद्धो निःशेषकर्मनिर्मुक्तोऽनन्तचतुष्टययुक्तः",
+      "transliteration": "siddho niḥśeṣa‑karma‑nirmukto ’nanta‑catuṣṭaya‑yuktaḥ",
+      "translation": "“A siddha is one who is free from all karmas and endowed with the four infinitudes.”",
+      "notes": "Dravyasaṃgraha verse 52 provides a concise Digambara definition of the liberated soul."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जहा सुद्धा सिद्धा",
+      "transliteration": "jahā suddhā siddhā",
+      "translation": "“Where the pure ones dwell, the siddhas reside.”",
+      "notes": "This passage appears in descriptions of the siddha realm and emphasizes the purity and immaterial nature of liberated beings."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Liberated souls intervene in worldly affairs or grant boons.",
+      "reality": "Jain doctrine states that siddhas are completely non-active and do not influence events. They are revered as perfected beings, not as deities who respond to prayers."
+    },
+    {
+      "myth": "Liberated souls retain subtle bodies or travel through space.",
+      "reality": "Primary texts affirm that siddhas are entirely bodiless and remain eternally at the top of the universe, without movement or activity."
+    },
+    {
+      "myth": "Only monks can attain liberation.",
+      "reality": "While monastic life is considered the most conducive path, Jain texts acknowledge that laypeople can progress significantly on the spiritual path. Liberation, however, requires complete renunciation at the final stages."
+    }
+  ]
+}

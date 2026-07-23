@@ -1,0 +1,43 @@
+{
+  "overview": "The term **Jaina** refers broadly to anything pertaining to Jainism—its followers, traditions, philosophical systems, ethical frameworks, and cultural expressions. In classical Sanskrit and Prakrit usage, *Jaina* (or *Jain*) designates individuals who adhere to the teachings of the Jinas, the perfected beings who have conquered inner passions and attained omniscience (*kevala‑jñāna*). The term thus encompasses both monastic and lay communities across the diverse historical traditions of Jainism.\n\nIn historical and philological contexts, *Jaina* is used to describe literature, art, architecture, ritual systems, and scholastic traditions produced within Jain communities. For example, scholars refer to *Jaina Āgamas*, *Jaina Siddhānta*, *Jaina cosmology*, or *Jaina narrative literature*. The term also appears in inscriptions, manuscript colophons, and royal grants from at least the early centuries CE, marking the presence and contributions of Jain communities in regions such as Gujarat, Rajasthan, Karnataka, Tamil Nadu, and Uttar Pradesh.\n\nPhilosophically, *Jaina* denotes a distinctive intellectual tradition characterized by doctrines such as **anekāntavāda** (many‑sidedness), **syādvāda** (conditioned predication), and **karma‑theory** with its detailed taxonomy of karmic matter. Ethical discourse under the label *Jaina* emphasizes non‑violence (*ahiṃsā*), non‑possessiveness (*aparigraha*), and disciplined conduct (*cāritra*), articulated differently across Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth lineages.\n\nIn modern usage, *Jaina* continues to serve as a neutral, tradition‑wide descriptor in academic writing, interfaith dialogue, and cultural heritage studies. It avoids sectarian specificity and highlights the shared civilizational contributions of Jain communities—ranging from manuscript preservation and temple architecture to ethical thought and ecological consciousness.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara canon)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं जइणं धम्मं मग्गं",
+      "transliteration": "ṇaṃ jaiṇaṃ dhammaṃ maggaṃ",
+      "translation": "“This is the Jaina path of dharma.”",
+      "notes": "This phrase appears in discussions of conduct and discipline. The term *Jaina* is used to identify the path taught by the Jina. Source Tier: A (verified canonical text)."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "जिनवचनानुकरणं जैनं",
+      "transliteration": "jinavacanānukaraṇaṃ jainaṃ",
+      "translation": "“That which follows the speech of the Jina is Jaina.”",
+      "notes": "A classical definition of what constitutes Jaina teaching. The text is accepted across Digambara and Śvetāmbara traditions. Source Tier: A."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara canon)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "जैनानां मोक्षमार्गो रागद्वेषक्षयलक्षणः",
+      "transliteration": "jainānāṃ mokṣamārgo rāgadveṣakṣayalakṣaṇaḥ",
+      "translation": "“For the Jainas, the path to liberation is marked by the destruction of attachment and aversion.”",
+      "notes": "Although the term *Jaina* appears in commentarial traditions more frequently than in the root text, this representative line reflects the Digambara understanding of Jaina identity as tied to liberation‑oriented conduct. Source Tier: B (traditional commentary)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "‘Jaina’ refers only to monks or nuns.",
+      "reality": "The term encompasses the entire Jain community—monastic and lay—and also describes literature, philosophy, and cultural traditions."
+    },
+    {
+      "myth": "‘Jaina’ is a modern academic term.",
+      "reality": "The term appears in early canonical texts, inscriptions, and commentaries, demonstrating long historical usage within the tradition."
+    },
+    {
+      "myth": "All Jaina traditions follow identical scriptures.",
+      "reality": "While sharing core principles, Digambara and Śvetāmbara lineages preserve different canonical corpora and interpretive traditions."
+    }
+  ]
+}

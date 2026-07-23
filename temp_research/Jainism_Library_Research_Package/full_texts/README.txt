@@ -1,0 +1,1 @@
+This base ZIP contains lawful source shortcuts and downloader scripts, not copied modern books. Run a script in ../download_tools to download four identified historical source editions. These four files are not the complete Agama corpus.

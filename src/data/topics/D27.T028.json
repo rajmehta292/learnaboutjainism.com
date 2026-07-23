@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “iconography” refers to the structured visual language through which images of Tirthankaras, attendant deities (śāsanadevatās), yakṣas and yakṣiṇīs, and symbolic motifs communicate doctrinal meaning. Jain iconography is intentionally minimalist in its core forms, reflecting the tradition’s emphasis on non-attachment, equality of liberated beings, and the transcendence of bodily attributes. Across Digambara and Śvetāmbara traditions, iconographic conventions developed gradually from the early centuries CE, shaped by regional artistic idioms, sectarian norms, and evolving temple culture.\n\nA central principle is the aniconic-to-iconic continuum. Early Jain worship often used symbols such as the śrīvatsa, nandavarta, stūpa, or footprints (caraṇa-pādukā) to represent the Tirthankaras. Over time, anthropomorphic images became widespread, yet they retained strict formal constraints: the Tirthankara is depicted in meditation (dhyāna), either seated in padmāsana or standing in kāyotsarga, with no individualized facial expression or ornamentation. This uniformity expresses the equality of all perfected beings (siddhas) and the absence of worldly identity.\n\nDistinctive identifiers (lāñchana) differentiate the twenty-four Tirthankaras. These include the bull for Ṛṣabhanātha, the lion for Mahāvīra, the moon for Candraprabha, and so forth. Additional markers—such as tree emblems, attendant yakṣa/yakṣiṇī pairs, and throne types—appear in medieval temple manuals and regional traditions. Digambara images typically show the Tirthankara nude, emphasizing complete renunciation, while Śvetāmbara images may include a simple cloth and stylized eyes. Both traditions maintain the core meditative posture and absence of worldly attributes.\n\nIconography also encompasses narrative panels, cosmological diagrams (e.g., Jambūdvīpa maps), and protective deities. These elements serve pedagogical functions, illustrating karma theory, cosmology, and the lives of exemplary figures. Modern scholarship emphasizes that Jain iconography is not merely decorative but a visual extension of doctrinal principles such as ahiṃsā, aparigraha, and the path to liberation.",
+  "primary_sources": [
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "जिणवरस्स णिसहणं तिहि णिव्वाणलच्छणं।",
+      "transliteration": "jiṇavarassa nisahaṇaṃ tihi nivvāṇalacchaṇaṃ",
+      "translation": "“The marks of the Jina are three: detachment, equanimity, and the signs of liberation.”",
+      "notes": "Although not an iconographic manual, this early cosmological text describes the qualities of liberated beings, which later informed the austere visual conventions of Tirthankara images."
+    },
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "सीलसमुत्थाणं जिणवरलच्छणं।",
+      "transliteration": "śīlasamutthāṇaṃ jiṇavara-lacchaṇaṃ",
+      "translation": "“The marks of the Jina arise from perfect conduct.”",
+      "notes": "Used by Śvetāmbara commentators to explain why Tirthankara images must reflect idealized serenity and moral perfection rather than worldly individuality."
+    },
+    {
+      "title": "Pratiṣṭhā-sāroddhāra",
+      "author": "Śvetāmbara ritual compendium (anonymous medieval redaction)",
+      "original_text": "लाञ्छनं तु तेषां भेदकं भवति।",
+      "transliteration": "lāñchanaṃ tu teṣāṃ bhedakaṃ bhavati",
+      "translation": "“The emblem serves to distinguish them (the Tirthankaras).”",
+      "notes": "Provides one of the clearest early statements on the doctrinal purpose of Tirthankara emblems in Śvetāmbara temple practice."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain images are identical and lack any symbolic meaning.",
+      "reality": "While Tirthankara images share a uniform meditative posture, they include carefully defined emblems, attendant figures, and narrative contexts that convey doctrinal meaning."
+    },
+    {
+      "myth": "Digambara and Śvetāmbara iconography differ only in clothing.",
+      "reality": "The differences extend to stylistic conventions, eye depiction, ritual manuals, and regional artistic traditions, though both maintain the core meditative form."
+    },
+    {
+      "myth": "Yakṣas and yakṣiṇīs are later, non-Jain additions without scriptural basis.",
+      "reality": "Attendant deities appear in early narrative literature and are integrated into temple iconography as protectors and exemplars, though their roles vary across sects."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, the term “community archives” refers to the collective preservation of manuscripts, ritual objects, genealogies, local histories, and institutional records maintained by Jain lay communities, monastic orders, and temple trusts. These archives are not merely repositories of documents; they are living cultural systems that preserve memory, lineage, doctrinal transmission, and regional identity. Community archives often emerge organically, shaped by local custodians, temple committees, and gyan-bhandars (knowledge repositories) rather than centralized authorities.\n\nHistorically, Jain communities have maintained some of South Asia’s most significant manuscript collections. From the medieval period onward, both Śvetāmbara and Digambara traditions developed extensive networks of libraries—such as the Jaisalmer Gyan Bhandar, Patan Hemachandra Jnan Bhandar, and Mudbidri collections—where palm-leaf and paper manuscripts were copied, repaired, and catalogued. These archives preserve canonical texts (Āgamas), commentaries, ritual manuals, cosmological diagrams, and local administrative records. They also contain colophons that document scribes, patrons, dates, and places, offering invaluable historical data.\n\nModern community archives include temple records, minutes of trust meetings, donation registers, architectural plans, photographs, and oral histories. They serve as essential resources for historians, philologists, anthropologists, and community members seeking to understand lineage, migration, and local religious practice. Digital preservation initiatives—often collaborations between Jain institutions and academic researchers—aim to safeguard fragile manuscripts and make them accessible through high-resolution imaging and cataloging.\n\nWithin Jainism, community archives embody the principle of *śruta-jñāna* (knowledge derived from testimony and texts). They preserve the continuity of teachings, document the evolution of sects, and maintain the memory of local saints, scholars, and patrons. While not doctrinal authorities themselves, these archives provide the material basis for scholarly reconstruction of Jain intellectual history and the lived practices of diverse Jain communities.",
+  "primary_sources": [
+    {
+      "title": "Āyāraṅga-sutta (Ācārāṅga-sūtra)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "पवयणं णं सव्वेसिं भणियं, सव्वं सुत्तं सव्वगं धरेज्जा",
+      "transliteration": "pavayaṇaṃ ṇaṃ savvesiṃ bhaṇiyaṃ, savvaṃ suttaṃ savvagaṃ dharejjā",
+      "translation": "“One should preserve all teachings that have been spoken, all scripture, all knowledge.”",
+      "notes": "Although the text does not describe archives directly, this passage is often cited in traditional commentaries to emphasize the duty of preserving scriptural knowledge. It provides a conceptual foundation for the cultural practice of maintaining community libraries and manuscript collections."
+    },
+    {
+      "title": "Nandi-sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "सव्वस्स सुतस्स धारणं नंदि",
+      "transliteration": "savvassa sutassa dhāraṇaṃ nandi",
+      "translation": "“The retention of all scriptural knowledge is called ‘nandi’ (joy).”",
+      "notes": "This passage underscores the value placed on preserving and transmitting scriptural knowledge. Community archives serve as material instruments for such preservation."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara tradition)",
+      "original_text": "जाणव्वं सुतं तं पवत्ति-समुद्धार-कम्मं",
+      "transliteration": "jāṇavvaṃ sutaṃ taṃ pavatti-samuddhāra-kammaṃ",
+      "translation": "“Scriptural knowledge must be known; its transmission and recovery are essential tasks.”",
+      "notes": "Digambara scholastic tradition uses this text to highlight the importance of recovering and maintaining doctrinal materials, aligning with the ethos of community archival work."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Community archives are only collections of ancient manuscripts.",
+      "reality": "While manuscripts are central, community archives also include temple records, oral histories, photographs, architectural plans, and modern administrative documents."
+    },
+    {
+      "myth": "Only monks or scholars maintain Jain archives.",
+      "reality": "Laypeople, temple trusts, local custodians, and community organizations play crucial roles in preserving and organizing archival materials."
+    },
+    {
+      "myth": "All Jain archives follow a standardized cataloging system.",
+      "reality": "Archival practices vary widely across regions, sects, and institutions. Many collections evolved organically and have unique organizational structures."
+    }
+  ]
+}

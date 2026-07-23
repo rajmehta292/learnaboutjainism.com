@@ -1,0 +1,43 @@
+{
+  "overview": "Transliteration refers to the systematic representation of words from one script into another while preserving the original spelling as closely as possible. In Jain studies, transliteration is essential because primary texts are preserved in multiple scripts—such as Brāhmī-derived Devanagari, Śāradā, Jaina Nāgarī, and various regional scripts—while modern scholarship often uses Roman transliteration for accessibility. Unlike translation, which conveys meaning, transliteration conveys form. It allows readers who do not know the original script to pronounce terms, identify morphological patterns, and compare textual variants across manuscripts.\n\nIn Jain Prakrit and Sanskrit studies, transliteration systems must handle phonetic distinctions that are not always present in English. For example, aspirated consonants (kh, gh, ch, jh, ṭh, ḍh, th, dh, ph, bh), retroflex consonants (ṭ, ṭh, ḍ, ḍh, ṇ), and the contrast between long and short vowels (a vs. ā, i vs. ī, u vs. ū) are crucial for accurate representation. Diacritics—such as macrons (ā), underdots (ṭ, ḍ, ṇ), and tildes (ñ)—are used to preserve these distinctions.\n\nSeveral standardized systems exist. The most widely used in Jain academic work are the International Alphabet of Sanskrit Transliteration (IAST) and adaptations of it for Prakrit languages. IAST is favored because it is reversible: one can reconstruct the original Devanagari spelling from the Roman transliteration. For Ardhamāgadhī and Śaurasenī Prakrit, scholars often extend IAST with conventions for elided vowels, assimilation, and special phonemes such as the Prakrit intervocalic ḍh/ḍḍh.\n\nTransliteration also plays a role in manuscript studies. Jain manuscripts often show orthographic variation due to regional scribal practices. A consistent transliteration system allows scholars to compare variant readings without being misled by script differences. In digital humanities, transliteration enables searchable text corpora, alignment of parallel passages, and computational linguistic analysis.\n\nOverall, transliteration is a foundational skill for anyone studying Jain primary texts. It bridges traditional scripts and modern scholarship, enabling precise citation, comparative philology, and accurate pronunciation without claiming interpretive authority.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This line is frequently used in transliteration exercises because it contains long vowels (ā), retroflex consonants (ṭ), and conjunct consonants (jñ). The text is Tier A in the Jain corpus hierarchy."
+    },
+    {
+      "title": "Āyāraṅga (Ācārāṅga) Sutta",
+      "author": "Attributed to early Jain community; canonical Śvetāmbara text",
+      "original_text": "णं चेज्जा णं चेज्जा, णं चेज्जा णं चेज्जा",
+      "transliteration": "ṇaṃ cejjā ṇaṃ cejjā, ṇaṃ cejjā ṇaṃ cejjā",
+      "translation": "He should not injure, he should not injure; he should not injure, he should not injure.",
+      "notes": "Ardhamāgadhī Prakrit uses characters and phonemes not identical to Sanskrit. Transliteration highlights the retroflex nasal ṇ and the nasalized vowel ṃ. The passage illustrates non-harm and is often used to teach Prakrit phonology."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Attributed to early Jain community; canonical Śvetāmbara text",
+      "original_text": "एवं खु महावीरं वंदामि",
+      "transliteration": "evaṃ khu Mahāvīraṃ vandāmi",
+      "translation": "Thus indeed I pay homage to Mahāvīra.",
+      "notes": "Shows nasalization (ṃ), aspirated consonants (kh), and long vowels (ā). Useful for demonstrating how diacritics preserve phonetic detail."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Transliteration and translation are the same thing.",
+      "reality": "Transliteration preserves the original spelling and phonetics in a new script, while translation conveys meaning. They serve different scholarly purposes."
+    },
+    {
+      "myth": "Diacritics are optional and only for specialists.",
+      "reality": "Diacritics are essential for accurately representing Jain Prakrit and Sanskrit phonemes. Without them, key distinctions—such as retroflex vs. dental consonants—are lost."
+    },
+    {
+      "myth": "All Jain Prakrits follow the same transliteration rules.",
+      "reality": "Different Prakrits (Ardhamāgadhī, Śaurasenī, Māhārāṣṭrī) have distinct phonological systems. Transliteration conventions must be adapted accordingly."
+    }
+  ]
+}

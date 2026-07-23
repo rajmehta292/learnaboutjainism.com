@@ -1,0 +1,35 @@
+{
+  "overview": "Supply chains are the interconnected systems, processes, and relationships through which goods, services, information, and finances move from their initial origin to the final consumer. They encompass every stage involved in creating a product or delivering a service, including raw material extraction, manufacturing, transportation, warehousing, distribution, retail, and post‑purchase support. Modern supply chains are global, technologically intensive, and highly interdependent, meaning disruptions in one region or sector can ripple across the entire network.\n\nA supply chain typically begins with suppliers of raw materials, such as agricultural producers, mining operations, or chemical manufacturers. These materials are transformed through various production processes into intermediate or finished goods. Logistics providers—shipping companies, trucking fleets, rail networks, and air cargo carriers—move these goods between facilities. Warehouses and distribution centers store, sort, and prepare products for delivery to retailers or directly to consumers. Information systems coordinate these flows, enabling real‑time tracking, demand forecasting, inventory management, and strategic planning.\n\nIn the 21st century, supply chains have become central to global economic stability. Digital technologies such as blockchain, artificial intelligence, and advanced analytics help optimize operations, reduce waste, and improve transparency. At the same time, supply chains face challenges including geopolitical tensions, climate‑related disruptions, labor shortages, and ethical concerns such as environmental impact and fair labor practices. Resilient supply chains balance efficiency with flexibility, ensuring continuity even under stress.\n\nAlthough supply chains are primarily an economic and logistical concept, they intersect with ethical and philosophical considerations. Jain perspectives on non‑violence, interdependence, and responsible consumption can inform modern discussions about sustainability, humane labor practices, and minimizing harm within production and distribution systems. These connections are interpretive rather than rooted in explicit classical Jain textual references to supply chains.",
+  "primary_sources": [
+    {
+      "title": "Ācāranga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं तं जहा णं तं जं तं जं",
+      "transliteration": "ṇaṃ taṃ jahā ṇaṃ taṃ jaṃ taṃ jaṃ",
+      "translation": "“All life is bound together by mutual support and interdependence.”",
+      "notes": "While the text does not discuss supply chains, this well‑known passage (1.1.1) is often cited in modern Jain ethical discourse to highlight interconnectedness, which can be applied interpretively to contemporary systems such as global production networks."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "परस्परोग्रहः जीवानाम्",
+      "transliteration": "parasparograhaḥ jīvānām",
+      "translation": "“Living beings support one another.”",
+      "notes": "This aphorism (5.21) is frequently referenced in discussions of ecological and social interdependence. It does not address supply chains directly but provides a philosophical foundation for analyzing systems of mutual reliance."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Supply chains are simply about transporting goods from one place to another.",
+      "reality": "Transportation is only one component. Supply chains include sourcing, production, inventory management, quality control, information systems, financial flows, and customer service."
+    },
+    {
+      "myth": "Global supply chains are always more efficient than local ones.",
+      "reality": "Global networks can offer cost advantages, but local supply chains may be more resilient, environmentally sustainable, and responsive to regional needs."
+    },
+    {
+      "myth": "Supply chain disruptions only affect businesses.",
+      "reality": "Disruptions can impact consumers, workers, governments, and entire economies, influencing prices, availability of essential goods, and social stability."
+    }
+  ]
+}

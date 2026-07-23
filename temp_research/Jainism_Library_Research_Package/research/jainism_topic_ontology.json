@@ -1,0 +1,7077 @@
+{
+  "version": "1.0",
+  "generated": "2026-07-22",
+  "domain_count": 52,
+  "topic_count": 1676,
+  "scope_note": "A versioned core, not a claim to exhaust every future question.",
+  "domains": [
+    {
+      "domain_id": "D01",
+      "domain": "Orientation and ways of learning",
+      "purpose": "Welcome learners and explain how faith, tradition, history, and scholarship are separated.",
+      "topics": [
+        {
+          "topic_id": "D01.T001",
+          "title": "What Jainism is"
+        },
+        {
+          "topic_id": "D01.T002",
+          "title": "Meaning of Jain, Jina, Arihant, Siddha, Tirthankara"
+        },
+        {
+          "topic_id": "D01.T003",
+          "title": "Shramana context"
+        },
+        {
+          "topic_id": "D01.T004",
+          "title": "Shared Jain foundations"
+        },
+        {
+          "topic_id": "D01.T005",
+          "title": "Diversity within Jainism"
+        },
+        {
+          "topic_id": "D01.T006",
+          "title": "Sacred tradition and academic history"
+        },
+        {
+          "topic_id": "D01.T007",
+          "title": "Learning versus belief and observance"
+        },
+        {
+          "topic_id": "D01.T008",
+          "title": "How to read primary texts"
+        },
+        {
+          "topic_id": "D01.T009",
+          "title": "How to read tradition notes"
+        },
+        {
+          "topic_id": "D01.T010",
+          "title": "How to read uncertainty labels"
+        },
+        {
+          "topic_id": "D01.T011",
+          "title": "Pronunciation basics"
+        },
+        {
+          "topic_id": "D01.T012",
+          "title": "Transliteration basics"
+        },
+        {
+          "topic_id": "D01.T013",
+          "title": "Beginner learning paths"
+        },
+        {
+          "topic_id": "D01.T014",
+          "title": "Advanced learning paths"
+        },
+        {
+          "topic_id": "D01.T015",
+          "title": "Common misconceptions"
+        },
+        {
+          "topic_id": "D01.T016",
+          "title": "Respectful visitor questions"
+        },
+        {
+          "topic_id": "D01.T017",
+          "title": "How to consult a human teacher"
+        },
+        {
+          "topic_id": "D01.T018",
+          "title": "Limits of AI religious assistance"
+        }
+      ]
+    },
+    {
+      "domain_id": "D02",
+      "domain": "Ultimate aims and liberation",
+      "purpose": "Provide a complete, source-aware learning domain for ultimate aims and liberation, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D02.T001",
+          "title": "Moksha"
+        },
+        {
+          "topic_id": "D02.T002",
+          "title": "Samsara"
+        },
+        {
+          "topic_id": "D02.T003",
+          "title": "Rebirth"
+        },
+        {
+          "topic_id": "D02.T004",
+          "title": "Why liberation is possible"
+        },
+        {
+          "topic_id": "D02.T005",
+          "title": "Liberated soul"
+        },
+        {
+          "topic_id": "D02.T006",
+          "title": "Siddhahood"
+        },
+        {
+          "topic_id": "D02.T007",
+          "title": "Siddhashila"
+        },
+        {
+          "topic_id": "D02.T008",
+          "title": "Arihant and Siddha distinction"
+        },
+        {
+          "topic_id": "D02.T009",
+          "title": "Kevala jnana"
+        },
+        {
+          "topic_id": "D02.T010",
+          "title": "Infinite knowledge"
+        },
+        {
+          "topic_id": "D02.T011",
+          "title": "Infinite perception"
+        },
+        {
+          "topic_id": "D02.T012",
+          "title": "Infinite bliss"
+        },
+        {
+          "topic_id": "D02.T013",
+          "title": "Infinite energy"
+        },
+        {
+          "topic_id": "D02.T014",
+          "title": "Self-effort"
+        },
+        {
+          "topic_id": "D02.T015",
+          "title": "Devotion and self-effort"
+        },
+        {
+          "topic_id": "D02.T016",
+          "title": "Ratnatraya"
+        },
+        {
+          "topic_id": "D02.T017",
+          "title": "Right faith"
+        },
+        {
+          "topic_id": "D02.T018",
+          "title": "Right knowledge"
+        },
+        {
+          "topic_id": "D02.T019",
+          "title": "Right conduct"
+        },
+        {
+          "topic_id": "D02.T020",
+          "title": "Vyavahara and nishchaya"
+        },
+        {
+          "topic_id": "D02.T021",
+          "title": "Obstacles to liberation"
+        },
+        {
+          "topic_id": "D02.T022",
+          "title": "Liberation across Jain traditions"
+        }
+      ]
+    },
+    {
+      "domain_id": "D03",
+      "domain": "Ontology and the six substances",
+      "purpose": "Provide a complete, source-aware learning domain for ontology and the six substances, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D03.T001",
+          "title": "Dravya"
+        },
+        {
+          "topic_id": "D03.T002",
+          "title": "Guna"
+        },
+        {
+          "topic_id": "D03.T003",
+          "title": "Paryaya"
+        },
+        {
+          "topic_id": "D03.T004",
+          "title": "Origination cessation and permanence"
+        },
+        {
+          "topic_id": "D03.T005",
+          "title": "Jiva"
+        },
+        {
+          "topic_id": "D03.T006",
+          "title": "Ajiva"
+        },
+        {
+          "topic_id": "D03.T007",
+          "title": "Six dravyas"
+        },
+        {
+          "topic_id": "D03.T008",
+          "title": "Pudgala"
+        },
+        {
+          "topic_id": "D03.T009",
+          "title": "Dharma-dravya"
+        },
+        {
+          "topic_id": "D03.T010",
+          "title": "Adharma-dravya"
+        },
+        {
+          "topic_id": "D03.T011",
+          "title": "Akasha"
+        },
+        {
+          "topic_id": "D03.T012",
+          "title": "Kala"
+        },
+        {
+          "topic_id": "D03.T013",
+          "title": "Astikaya"
+        },
+        {
+          "topic_id": "D03.T014",
+          "title": "Lokakasha"
+        },
+        {
+          "topic_id": "D03.T015",
+          "title": "Alokakasha"
+        },
+        {
+          "topic_id": "D03.T016",
+          "title": "Substance and mode"
+        },
+        {
+          "topic_id": "D03.T017",
+          "title": "Identity through change"
+        },
+        {
+          "topic_id": "D03.T018",
+          "title": "Atoms and aggregates"
+        },
+        {
+          "topic_id": "D03.T019",
+          "title": "Touch taste smell and color"
+        },
+        {
+          "topic_id": "D03.T020",
+          "title": "Karmic matter"
+        },
+        {
+          "topic_id": "D03.T021",
+          "title": "Body-making matter"
+        },
+        {
+          "topic_id": "D03.T022",
+          "title": "Jain realism"
+        },
+        {
+          "topic_id": "D03.T023",
+          "title": "Comparison with other Indian ontologies"
+        }
+      ]
+    },
+    {
+      "domain_id": "D04",
+      "domain": "Soul and consciousness",
+      "purpose": "Provide a complete, source-aware learning domain for soul and consciousness, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D04.T001",
+          "title": "Characteristics of jiva"
+        },
+        {
+          "topic_id": "D04.T002",
+          "title": "Consciousness and upayoga"
+        },
+        {
+          "topic_id": "D04.T003",
+          "title": "Knowledge and perception"
+        },
+        {
+          "topic_id": "D04.T004",
+          "title": "Embodied souls"
+        },
+        {
+          "topic_id": "D04.T005",
+          "title": "Liberated souls"
+        },
+        {
+          "topic_id": "D04.T006",
+          "title": "Infinite plurality of souls"
+        },
+        {
+          "topic_id": "D04.T007",
+          "title": "Individuality of souls"
+        },
+        {
+          "topic_id": "D04.T008",
+          "title": "Soul-body distinction"
+        },
+        {
+          "topic_id": "D04.T009",
+          "title": "Soul size and bodily accommodation"
+        },
+        {
+          "topic_id": "D04.T010",
+          "title": "Bhavya and abhavya"
+        },
+        {
+          "topic_id": "D04.T011",
+          "title": "Samsarin jivas"
+        },
+        {
+          "topic_id": "D04.T012",
+          "title": "Mobile and immobile beings"
+        },
+        {
+          "topic_id": "D04.T013",
+          "title": "Sanjni and asanjni beings"
+        },
+        {
+          "topic_id": "D04.T014",
+          "title": "Nigoda"
+        },
+        {
+          "topic_id": "D04.T015",
+          "title": "Vitalities or pranas"
+        },
+        {
+          "topic_id": "D04.T016",
+          "title": "Types of birth"
+        },
+        {
+          "topic_id": "D04.T017",
+          "title": "Types of bodies"
+        },
+        {
+          "topic_id": "D04.T018",
+          "title": "Leshya"
+        },
+        {
+          "topic_id": "D04.T019",
+          "title": "Jiva-kanda classifications"
+        },
+        {
+          "topic_id": "D04.T020",
+          "title": "Consciousness and personhood debates"
+        }
+      ]
+    },
+    {
+      "domain_id": "D05",
+      "domain": "Seven and nine tattvas",
+      "purpose": "Provide a complete, source-aware learning domain for seven and nine tattvas, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D05.T001",
+          "title": "Jiva tattva"
+        },
+        {
+          "topic_id": "D05.T002",
+          "title": "Ajiva tattva"
+        },
+        {
+          "topic_id": "D05.T003",
+          "title": "Asrava"
+        },
+        {
+          "topic_id": "D05.T004",
+          "title": "Bandha"
+        },
+        {
+          "topic_id": "D05.T005",
+          "title": "Samvara"
+        },
+        {
+          "topic_id": "D05.T006",
+          "title": "Nirjara"
+        },
+        {
+          "topic_id": "D05.T007",
+          "title": "Moksha tattva"
+        },
+        {
+          "topic_id": "D05.T008",
+          "title": "Punya"
+        },
+        {
+          "topic_id": "D05.T009",
+          "title": "Papa"
+        },
+        {
+          "topic_id": "D05.T010",
+          "title": "Seven-tattva system"
+        },
+        {
+          "topic_id": "D05.T011",
+          "title": "Nine-tattva system"
+        },
+        {
+          "topic_id": "D05.T012",
+          "title": "Causal relationships"
+        },
+        {
+          "topic_id": "D05.T013",
+          "title": "Tattvarthasutra presentation"
+        },
+        {
+          "topic_id": "D05.T014",
+          "title": "Digambara presentations"
+        },
+        {
+          "topic_id": "D05.T015",
+          "title": "Svetambara presentations"
+        },
+        {
+          "topic_id": "D05.T016",
+          "title": "Pedagogical metaphors"
+        },
+        {
+          "topic_id": "D05.T017",
+          "title": "Tattvas in daily conduct"
+        },
+        {
+          "topic_id": "D05.T018",
+          "title": "Tattvas in meditation"
+        },
+        {
+          "topic_id": "D05.T019",
+          "title": "Tattvas and gunasthanas"
+        }
+      ]
+    },
+    {
+      "domain_id": "D06",
+      "domain": "Karma doctrine",
+      "purpose": "Provide a source-linked technical account of karmic matter, bondage, fruition, transformation, and removal.",
+      "topics": [
+        {
+          "topic_id": "D06.T001",
+          "title": "Karma as subtle matter"
+        },
+        {
+          "topic_id": "D06.T002",
+          "title": "Karma and moral causation"
+        },
+        {
+          "topic_id": "D06.T003",
+          "title": "Yoga and influx"
+        },
+        {
+          "topic_id": "D06.T004",
+          "title": "Kashaya and bondage"
+        },
+        {
+          "topic_id": "D06.T005",
+          "title": "Prakriti-bandha"
+        },
+        {
+          "topic_id": "D06.T006",
+          "title": "Sthiti-bandha"
+        },
+        {
+          "topic_id": "D06.T007",
+          "title": "Anubhaga-bandha"
+        },
+        {
+          "topic_id": "D06.T008",
+          "title": "Pradesha-bandha"
+        },
+        {
+          "topic_id": "D06.T009",
+          "title": "Eight main karmas"
+        },
+        {
+          "topic_id": "D06.T010",
+          "title": "Ghatiya karmas"
+        },
+        {
+          "topic_id": "D06.T011",
+          "title": "Aghatiya karmas"
+        },
+        {
+          "topic_id": "D06.T012",
+          "title": "Jnanavaraniya"
+        },
+        {
+          "topic_id": "D06.T013",
+          "title": "Darshanavaraniya"
+        },
+        {
+          "topic_id": "D06.T014",
+          "title": "Mohaniya"
+        },
+        {
+          "topic_id": "D06.T015",
+          "title": "Antaraya"
+        },
+        {
+          "topic_id": "D06.T016",
+          "title": "Vedaniya"
+        },
+        {
+          "topic_id": "D06.T017",
+          "title": "Nama"
+        },
+        {
+          "topic_id": "D06.T018",
+          "title": "Gotra"
+        },
+        {
+          "topic_id": "D06.T019",
+          "title": "Ayu"
+        },
+        {
+          "topic_id": "D06.T020",
+          "title": "Karma subtypes"
+        },
+        {
+          "topic_id": "D06.T021",
+          "title": "Udaya"
+        },
+        {
+          "topic_id": "D06.T022",
+          "title": "Udirana"
+        },
+        {
+          "topic_id": "D06.T023",
+          "title": "Satta"
+        },
+        {
+          "topic_id": "D06.T024",
+          "title": "Sankramana"
+        },
+        {
+          "topic_id": "D06.T025",
+          "title": "Upashama"
+        },
+        {
+          "topic_id": "D06.T026",
+          "title": "Kshaya"
+        },
+        {
+          "topic_id": "D06.T027",
+          "title": "Kshayopashama"
+        },
+        {
+          "topic_id": "D06.T028",
+          "title": "Nidhatti"
+        },
+        {
+          "topic_id": "D06.T029",
+          "title": "Nikachita"
+        },
+        {
+          "topic_id": "D06.T030",
+          "title": "Punya and papa"
+        },
+        {
+          "topic_id": "D06.T031",
+          "title": "Intent and consequence"
+        },
+        {
+          "topic_id": "D06.T032",
+          "title": "Karma in Gommatasara"
+        },
+        {
+          "topic_id": "D06.T033",
+          "title": "Karmagrantha traditions"
+        },
+        {
+          "topic_id": "D06.T034",
+          "title": "Karma and free agency"
+        },
+        {
+          "topic_id": "D06.T035",
+          "title": "Misconceptions about fate"
+        }
+      ]
+    },
+    {
+      "domain_id": "D07",
+      "domain": "Passions emotions and inner obstacles",
+      "purpose": "Provide a complete, source-aware learning domain for passions emotions and inner obstacles, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D07.T001",
+          "title": "Kashaya"
+        },
+        {
+          "topic_id": "D07.T002",
+          "title": "Anger"
+        },
+        {
+          "topic_id": "D07.T003",
+          "title": "Pride"
+        },
+        {
+          "topic_id": "D07.T004",
+          "title": "Deceit"
+        },
+        {
+          "topic_id": "D07.T005",
+          "title": "Greed"
+        },
+        {
+          "topic_id": "D07.T006",
+          "title": "Attachment"
+        },
+        {
+          "topic_id": "D07.T007",
+          "title": "Aversion"
+        },
+        {
+          "topic_id": "D07.T008",
+          "title": "Four degrees of passion"
+        },
+        {
+          "topic_id": "D07.T009",
+          "title": "Anantanubandhi"
+        },
+        {
+          "topic_id": "D07.T010",
+          "title": "Apratyakhyana"
+        },
+        {
+          "topic_id": "D07.T011",
+          "title": "Pratyakhyana"
+        },
+        {
+          "topic_id": "D07.T012",
+          "title": "Sanjvalana"
+        },
+        {
+          "topic_id": "D07.T013",
+          "title": "Quasi-passions"
+        },
+        {
+          "topic_id": "D07.T014",
+          "title": "Laughter"
+        },
+        {
+          "topic_id": "D07.T015",
+          "title": "Liking"
+        },
+        {
+          "topic_id": "D07.T016",
+          "title": "Disliking"
+        },
+        {
+          "topic_id": "D07.T017",
+          "title": "Fear"
+        },
+        {
+          "topic_id": "D07.T018",
+          "title": "Sorrow"
+        },
+        {
+          "topic_id": "D07.T019",
+          "title": "Disgust"
+        },
+        {
+          "topic_id": "D07.T020",
+          "title": "Sexual dispositions in karma texts"
+        },
+        {
+          "topic_id": "D07.T021",
+          "title": "Faith-deluding karma"
+        },
+        {
+          "topic_id": "D07.T022",
+          "title": "Conduct-deluding karma"
+        },
+        {
+          "topic_id": "D07.T023",
+          "title": "Forgiveness"
+        },
+        {
+          "topic_id": "D07.T024",
+          "title": "Humility"
+        },
+        {
+          "topic_id": "D07.T025",
+          "title": "Straightforwardness"
+        },
+        {
+          "topic_id": "D07.T026",
+          "title": "Contentment"
+        },
+        {
+          "topic_id": "D07.T027",
+          "title": "Equanimity"
+        },
+        {
+          "topic_id": "D07.T028",
+          "title": "Modern psychological comparison"
+        }
+      ]
+    },
+    {
+      "domain_id": "D08",
+      "domain": "Knowledge perception and epistemology",
+      "purpose": "Provide a complete, source-aware learning domain for knowledge perception and epistemology, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D08.T001",
+          "title": "Jnana"
+        },
+        {
+          "topic_id": "D08.T002",
+          "title": "Darshana"
+        },
+        {
+          "topic_id": "D08.T003",
+          "title": "Mati-jnana"
+        },
+        {
+          "topic_id": "D08.T004",
+          "title": "Shruta-jnana"
+        },
+        {
+          "topic_id": "D08.T005",
+          "title": "Avadhi-jnana"
+        },
+        {
+          "topic_id": "D08.T006",
+          "title": "Manahparyaya-jnana"
+        },
+        {
+          "topic_id": "D08.T007",
+          "title": "Kevala-jnana"
+        },
+        {
+          "topic_id": "D08.T008",
+          "title": "Direct knowledge"
+        },
+        {
+          "topic_id": "D08.T009",
+          "title": "Indirect knowledge"
+        },
+        {
+          "topic_id": "D08.T010",
+          "title": "Pramana"
+        },
+        {
+          "topic_id": "D08.T011",
+          "title": "Naya"
+        },
+        {
+          "topic_id": "D08.T012",
+          "title": "Valid cognition"
+        },
+        {
+          "topic_id": "D08.T013",
+          "title": "Error"
+        },
+        {
+          "topic_id": "D08.T014",
+          "title": "Doubt"
+        },
+        {
+          "topic_id": "D08.T015",
+          "title": "Memory"
+        },
+        {
+          "topic_id": "D08.T016",
+          "title": "Recognition"
+        },
+        {
+          "topic_id": "D08.T017",
+          "title": "Inference"
+        },
+        {
+          "topic_id": "D08.T018",
+          "title": "Testimony"
+        },
+        {
+          "topic_id": "D08.T019",
+          "title": "Scriptural authority"
+        },
+        {
+          "topic_id": "D08.T020",
+          "title": "Apta"
+        },
+        {
+          "topic_id": "D08.T021",
+          "title": "Omniscience"
+        },
+        {
+          "topic_id": "D08.T022",
+          "title": "Sensory knowledge"
+        },
+        {
+          "topic_id": "D08.T023",
+          "title": "Mind and cognition"
+        },
+        {
+          "topic_id": "D08.T024",
+          "title": "Knowledge-obscuring karma"
+        },
+        {
+          "topic_id": "D08.T025",
+          "title": "Perception-obscuring karma"
+        },
+        {
+          "topic_id": "D08.T026",
+          "title": "Tattvartha epistemology"
+        },
+        {
+          "topic_id": "D08.T027",
+          "title": "Siddhasena"
+        },
+        {
+          "topic_id": "D08.T028",
+          "title": "Akalanka"
+        },
+        {
+          "topic_id": "D08.T029",
+          "title": "Vidyananda"
+        },
+        {
+          "topic_id": "D08.T030",
+          "title": "Buddhist debates"
+        },
+        {
+          "topic_id": "D08.T031",
+          "title": "Nyaya debates"
+        },
+        {
+          "topic_id": "D08.T032",
+          "title": "Limits of human knowledge"
+        }
+      ]
+    },
+    {
+      "domain_id": "D09",
+      "domain": "Anekantavada nayavada and syadvada",
+      "purpose": "Provide a complete, source-aware learning domain for anekantavada nayavada and syadvada, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D09.T001",
+          "title": "Anekantavada"
+        },
+        {
+          "topic_id": "D09.T002",
+          "title": "Many-sided reality"
+        },
+        {
+          "topic_id": "D09.T003",
+          "title": "Nayavada"
+        },
+        {
+          "topic_id": "D09.T004",
+          "title": "Standpoints"
+        },
+        {
+          "topic_id": "D09.T005",
+          "title": "Substantial standpoint"
+        },
+        {
+          "topic_id": "D09.T006",
+          "title": "Modal standpoint"
+        },
+        {
+          "topic_id": "D09.T007",
+          "title": "Common naya classifications"
+        },
+        {
+          "topic_id": "D09.T008",
+          "title": "Syadvada"
+        },
+        {
+          "topic_id": "D09.T009",
+          "title": "Saptabhangi"
+        },
+        {
+          "topic_id": "D09.T010",
+          "title": "Conditional predication"
+        },
+        {
+          "topic_id": "D09.T011",
+          "title": "Syad-asti"
+        },
+        {
+          "topic_id": "D09.T012",
+          "title": "Syad-nasti"
+        },
+        {
+          "topic_id": "D09.T013",
+          "title": "Syad-asti-nasti"
+        },
+        {
+          "topic_id": "D09.T014",
+          "title": "Syad-avaktavya"
+        },
+        {
+          "topic_id": "D09.T015",
+          "title": "Sevenfold combinations"
+        },
+        {
+          "topic_id": "D09.T016",
+          "title": "Context and qualification"
+        },
+        {
+          "topic_id": "D09.T017",
+          "title": "Intellectual humility"
+        },
+        {
+          "topic_id": "D09.T018",
+          "title": "Ethics of disagreement"
+        },
+        {
+          "topic_id": "D09.T019",
+          "title": "Anekanta and speech"
+        },
+        {
+          "topic_id": "D09.T020",
+          "title": "Samantabhadra"
+        },
+        {
+          "topic_id": "D09.T021",
+          "title": "Siddhasena"
+        },
+        {
+          "topic_id": "D09.T022",
+          "title": "Akalanka"
+        },
+        {
+          "topic_id": "D09.T023",
+          "title": "Vidyananda"
+        },
+        {
+          "topic_id": "D09.T024",
+          "title": "Misuse as relativism"
+        },
+        {
+          "topic_id": "D09.T025",
+          "title": "Interfaith application"
+        },
+        {
+          "topic_id": "D09.T026",
+          "title": "Public-discourse application"
+        }
+      ]
+    },
+    {
+      "domain_id": "D10",
+      "domain": "Logic debate and philosophy of language",
+      "purpose": "Provide a complete, source-aware learning domain for logic debate and philosophy of language, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D10.T001",
+          "title": "Jain logic"
+        },
+        {
+          "topic_id": "D10.T002",
+          "title": "Anumana"
+        },
+        {
+          "topic_id": "D10.T003",
+          "title": "Hetu"
+        },
+        {
+          "topic_id": "D10.T004",
+          "title": "Vyapti"
+        },
+        {
+          "topic_id": "D10.T005",
+          "title": "Inference for oneself"
+        },
+        {
+          "topic_id": "D10.T006",
+          "title": "Inference for others"
+        },
+        {
+          "topic_id": "D10.T007",
+          "title": "Debate theory"
+        },
+        {
+          "topic_id": "D10.T008",
+          "title": "Fallacies"
+        },
+        {
+          "topic_id": "D10.T009",
+          "title": "Pramana-naya integration"
+        },
+        {
+          "topic_id": "D10.T010",
+          "title": "Predication"
+        },
+        {
+          "topic_id": "D10.T011",
+          "title": "Word and meaning"
+        },
+        {
+          "topic_id": "D10.T012",
+          "title": "Convention"
+        },
+        {
+          "topic_id": "D10.T013",
+          "title": "Scriptural interpretation"
+        },
+        {
+          "topic_id": "D10.T014",
+          "title": "Niksepa"
+        },
+        {
+          "topic_id": "D10.T015",
+          "title": "Anuyogadvara methods"
+        },
+        {
+          "topic_id": "D10.T016",
+          "title": "Names and referents"
+        },
+        {
+          "topic_id": "D10.T017",
+          "title": "Universals"
+        },
+        {
+          "topic_id": "D10.T018",
+          "title": "Identity and difference"
+        },
+        {
+          "topic_id": "D10.T019",
+          "title": "Negation"
+        },
+        {
+          "topic_id": "D10.T020",
+          "title": "Indescribability"
+        },
+        {
+          "topic_id": "D10.T021",
+          "title": "Aptamimamsa"
+        },
+        {
+          "topic_id": "D10.T022",
+          "title": "Sanmati-tarka"
+        },
+        {
+          "topic_id": "D10.T023",
+          "title": "Akalanka logic"
+        },
+        {
+          "topic_id": "D10.T024",
+          "title": "Vidyananda commentaries"
+        },
+        {
+          "topic_id": "D10.T025",
+          "title": "Prabhacandra"
+        },
+        {
+          "topic_id": "D10.T026",
+          "title": "Jain-Buddhist debate"
+        },
+        {
+          "topic_id": "D10.T027",
+          "title": "Jain-Nyaya debate"
+        },
+        {
+          "topic_id": "D10.T028",
+          "title": "Jain-Mimamsa debate"
+        },
+        {
+          "topic_id": "D10.T029",
+          "title": "Jain-Vedanta debate"
+        }
+      ]
+    },
+    {
+      "domain_id": "D11",
+      "domain": "Gunasthanas and spiritual development",
+      "purpose": "Provide a complete, source-aware learning domain for gunasthanas and spiritual development, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D11.T001",
+          "title": "Purpose of gunasthana model"
+        },
+        {
+          "topic_id": "D11.T002",
+          "title": "Mithyatva"
+        },
+        {
+          "topic_id": "D11.T003",
+          "title": "Sasadana"
+        },
+        {
+          "topic_id": "D11.T004",
+          "title": "Mishra"
+        },
+        {
+          "topic_id": "D11.T005",
+          "title": "Avirata-samyagdrishti"
+        },
+        {
+          "topic_id": "D11.T006",
+          "title": "Desavirata"
+        },
+        {
+          "topic_id": "D11.T007",
+          "title": "Pramatta-samyata"
+        },
+        {
+          "topic_id": "D11.T008",
+          "title": "Apramatta-samyata"
+        },
+        {
+          "topic_id": "D11.T009",
+          "title": "Apurva-karana"
+        },
+        {
+          "topic_id": "D11.T010",
+          "title": "Anivritti-karana"
+        },
+        {
+          "topic_id": "D11.T011",
+          "title": "Sukshma-samparaya"
+        },
+        {
+          "topic_id": "D11.T012",
+          "title": "Upashanta-kashaya"
+        },
+        {
+          "topic_id": "D11.T013",
+          "title": "Kshina-kashaya"
+        },
+        {
+          "topic_id": "D11.T014",
+          "title": "Sayogi-kevali"
+        },
+        {
+          "topic_id": "D11.T015",
+          "title": "Ayogi-kevali"
+        },
+        {
+          "topic_id": "D11.T016",
+          "title": "Transitions"
+        },
+        {
+          "topic_id": "D11.T017",
+          "title": "Falls"
+        },
+        {
+          "topic_id": "D11.T018",
+          "title": "Right faith and restraint"
+        },
+        {
+          "topic_id": "D11.T019",
+          "title": "Suppression ladder"
+        },
+        {
+          "topic_id": "D11.T020",
+          "title": "Destruction ladder"
+        },
+        {
+          "topic_id": "D11.T021",
+          "title": "Karmic conditions"
+        },
+        {
+          "topic_id": "D11.T022",
+          "title": "Gunasthanas and marganasthanas"
+        },
+        {
+          "topic_id": "D11.T023",
+          "title": "Gommatasara presentation"
+        },
+        {
+          "topic_id": "D11.T024",
+          "title": "Terminology differences"
+        },
+        {
+          "topic_id": "D11.T025",
+          "title": "No self-ranking policy"
+        }
+      ]
+    },
+    {
+      "domain_id": "D12",
+      "domain": "Marganasthanas and soul classifications",
+      "purpose": "Provide a complete, source-aware learning domain for marganasthanas and soul classifications, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D12.T001",
+          "title": "Meaning of margana"
+        },
+        {
+          "topic_id": "D12.T002",
+          "title": "Gati"
+        },
+        {
+          "topic_id": "D12.T003",
+          "title": "Indriya"
+        },
+        {
+          "topic_id": "D12.T004",
+          "title": "Kaya"
+        },
+        {
+          "topic_id": "D12.T005",
+          "title": "Yoga"
+        },
+        {
+          "topic_id": "D12.T006",
+          "title": "Veda"
+        },
+        {
+          "topic_id": "D12.T007",
+          "title": "Kashaya margana"
+        },
+        {
+          "topic_id": "D12.T008",
+          "title": "Jnana margana"
+        },
+        {
+          "topic_id": "D12.T009",
+          "title": "Samyama"
+        },
+        {
+          "topic_id": "D12.T010",
+          "title": "Darshana margana"
+        },
+        {
+          "topic_id": "D12.T011",
+          "title": "Leshya margana"
+        },
+        {
+          "topic_id": "D12.T012",
+          "title": "Bhavyatva"
+        },
+        {
+          "topic_id": "D12.T013",
+          "title": "Samyaktva"
+        },
+        {
+          "topic_id": "D12.T014",
+          "title": "Sanjnitva"
+        },
+        {
+          "topic_id": "D12.T015",
+          "title": "Ahara"
+        },
+        {
+          "topic_id": "D12.T016",
+          "title": "Fourteen-margana schemes"
+        },
+        {
+          "topic_id": "D12.T017",
+          "title": "Alternative enumerations"
+        },
+        {
+          "topic_id": "D12.T018",
+          "title": "Relation to gunasthanas"
+        },
+        {
+          "topic_id": "D12.T019",
+          "title": "Use in Jiva-kanda"
+        },
+        {
+          "topic_id": "D12.T020",
+          "title": "Cosmological classification"
+        },
+        {
+          "topic_id": "D12.T021",
+          "title": "Karmic classification"
+        },
+        {
+          "topic_id": "D12.T022",
+          "title": "Computational tables"
+        },
+        {
+          "topic_id": "D12.T023",
+          "title": "Translation cautions"
+        }
+      ]
+    },
+    {
+      "domain_id": "D13",
+      "domain": "Ethics and five vows",
+      "purpose": "Provide a complete, source-aware learning domain for ethics and five vows, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D13.T001",
+          "title": "Ethics and liberation"
+        },
+        {
+          "topic_id": "D13.T002",
+          "title": "Ahimsa"
+        },
+        {
+          "topic_id": "D13.T003",
+          "title": "Satya"
+        },
+        {
+          "topic_id": "D13.T004",
+          "title": "Achaurya"
+        },
+        {
+          "topic_id": "D13.T005",
+          "title": "Asteya"
+        },
+        {
+          "topic_id": "D13.T006",
+          "title": "Brahmacharya"
+        },
+        {
+          "topic_id": "D13.T007",
+          "title": "Aparigraha"
+        },
+        {
+          "topic_id": "D13.T008",
+          "title": "Mahavratas"
+        },
+        {
+          "topic_id": "D13.T009",
+          "title": "Anuvratas"
+        },
+        {
+          "topic_id": "D13.T010",
+          "title": "Intentional harm"
+        },
+        {
+          "topic_id": "D13.T011",
+          "title": "Unintentional harm"
+        },
+        {
+          "topic_id": "D13.T012",
+          "title": "Carelessness"
+        },
+        {
+          "topic_id": "D13.T013",
+          "title": "Vigilance"
+        },
+        {
+          "topic_id": "D13.T014",
+          "title": "Beneficial speech"
+        },
+        {
+          "topic_id": "D13.T015",
+          "title": "Consent and non-taking"
+        },
+        {
+          "topic_id": "D13.T016",
+          "title": "Sexual responsibility"
+        },
+        {
+          "topic_id": "D13.T017",
+          "title": "Possession and attachment"
+        },
+        {
+          "topic_id": "D13.T018",
+          "title": "Mental action"
+        },
+        {
+          "topic_id": "D13.T019",
+          "title": "Verbal action"
+        },
+        {
+          "topic_id": "D13.T020",
+          "title": "Bodily action"
+        },
+        {
+          "topic_id": "D13.T021",
+          "title": "Complex cases"
+        },
+        {
+          "topic_id": "D13.T022",
+          "title": "Means and ends"
+        },
+        {
+          "topic_id": "D13.T023",
+          "title": "Compassion"
+        },
+        {
+          "topic_id": "D13.T024",
+          "title": "Maitri"
+        },
+        {
+          "topic_id": "D13.T025",
+          "title": "Pramoda"
+        },
+        {
+          "topic_id": "D13.T026",
+          "title": "Karuna"
+        },
+        {
+          "topic_id": "D13.T027",
+          "title": "Madhyastha"
+        },
+        {
+          "topic_id": "D13.T028",
+          "title": "Contemporary applications"
+        }
+      ]
+    },
+    {
+      "domain_id": "D14",
+      "domain": "Lay conduct and household life",
+      "purpose": "Provide a complete, source-aware learning domain for lay conduct and household life, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D14.T001",
+          "title": "Shravaka"
+        },
+        {
+          "topic_id": "D14.T002",
+          "title": "Shravika"
+        },
+        {
+          "topic_id": "D14.T003",
+          "title": "Householder goals"
+        },
+        {
+          "topic_id": "D14.T004",
+          "title": "Five anuvratas"
+        },
+        {
+          "topic_id": "D14.T005",
+          "title": "Three gunavratas"
+        },
+        {
+          "topic_id": "D14.T006",
+          "title": "Four shikshavratas"
+        },
+        {
+          "topic_id": "D14.T007",
+          "title": "Twelve-vow systems"
+        },
+        {
+          "topic_id": "D14.T008",
+          "title": "Aticara"
+        },
+        {
+          "topic_id": "D14.T009",
+          "title": "Eleven pratimas"
+        },
+        {
+          "topic_id": "D14.T010",
+          "title": "Daily duties"
+        },
+        {
+          "topic_id": "D14.T011",
+          "title": "Lay avashyakas"
+        },
+        {
+          "topic_id": "D14.T012",
+          "title": "Temple participation"
+        },
+        {
+          "topic_id": "D14.T013",
+          "title": "Study and discourse"
+        },
+        {
+          "topic_id": "D14.T014",
+          "title": "Charity"
+        },
+        {
+          "topic_id": "D14.T015",
+          "title": "Food ethics"
+        },
+        {
+          "topic_id": "D14.T016",
+          "title": "Livelihood"
+        },
+        {
+          "topic_id": "D14.T017",
+          "title": "Marriage"
+        },
+        {
+          "topic_id": "D14.T018",
+          "title": "Family"
+        },
+        {
+          "topic_id": "D14.T019",
+          "title": "Parenting"
+        },
+        {
+          "topic_id": "D14.T020",
+          "title": "Sexual fidelity"
+        },
+        {
+          "topic_id": "D14.T021",
+          "title": "Possession limits"
+        },
+        {
+          "topic_id": "D14.T022",
+          "title": "Time-limited vows"
+        },
+        {
+          "topic_id": "D14.T023",
+          "title": "Festival observance"
+        },
+        {
+          "topic_id": "D14.T024",
+          "title": "Care for mendicants"
+        },
+        {
+          "topic_id": "D14.T025",
+          "title": "Laywomen roles"
+        },
+        {
+          "topic_id": "D14.T026",
+          "title": "Merchant communities"
+        },
+        {
+          "topic_id": "D14.T027",
+          "title": "Diaspora household practice"
+        },
+        {
+          "topic_id": "D14.T028",
+          "title": "Gradual non-coercive practice"
+        }
+      ]
+    },
+    {
+      "domain_id": "D15",
+      "domain": "Monastic life and discipline",
+      "purpose": "Provide a complete, source-aware learning domain for monastic life and discipline, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D15.T001",
+          "title": "Purpose of renunciation"
+        },
+        {
+          "topic_id": "D15.T002",
+          "title": "Diksha"
+        },
+        {
+          "topic_id": "D15.T003",
+          "title": "Monks"
+        },
+        {
+          "topic_id": "D15.T004",
+          "title": "Nuns"
+        },
+        {
+          "topic_id": "D15.T005",
+          "title": "Acharya"
+        },
+        {
+          "topic_id": "D15.T006",
+          "title": "Upadhyaya"
+        },
+        {
+          "topic_id": "D15.T007",
+          "title": "Gani and monastic offices"
+        },
+        {
+          "topic_id": "D15.T008",
+          "title": "Five mahavratas"
+        },
+        {
+          "topic_id": "D15.T009",
+          "title": "Five samitis"
+        },
+        {
+          "topic_id": "D15.T010",
+          "title": "Three guptis"
+        },
+        {
+          "topic_id": "D15.T011",
+          "title": "Ten monastic virtues"
+        },
+        {
+          "topic_id": "D15.T012",
+          "title": "Twenty-eight mulagunas"
+        },
+        {
+          "topic_id": "D15.T013",
+          "title": "Monastic clothing"
+        },
+        {
+          "topic_id": "D15.T014",
+          "title": "Digambara nudity"
+        },
+        {
+          "topic_id": "D15.T015",
+          "title": "Muhapatti"
+        },
+        {
+          "topic_id": "D15.T016",
+          "title": "Rajoharana"
+        },
+        {
+          "topic_id": "D15.T017",
+          "title": "Picchi"
+        },
+        {
+          "topic_id": "D15.T018",
+          "title": "Kamandalu"
+        },
+        {
+          "topic_id": "D15.T019",
+          "title": "Alms"
+        },
+        {
+          "topic_id": "D15.T020",
+          "title": "Gochari"
+        },
+        {
+          "topic_id": "D15.T021",
+          "title": "Food rules"
+        },
+        {
+          "topic_id": "D15.T022",
+          "title": "Travel on foot"
+        },
+        {
+          "topic_id": "D15.T023",
+          "title": "Chaturmas"
+        },
+        {
+          "topic_id": "D15.T024",
+          "title": "Study"
+        },
+        {
+          "topic_id": "D15.T025",
+          "title": "Teaching"
+        },
+        {
+          "topic_id": "D15.T026",
+          "title": "Confession"
+        },
+        {
+          "topic_id": "D15.T027",
+          "title": "Hierarchy"
+        },
+        {
+          "topic_id": "D15.T028",
+          "title": "Cheda and expiation"
+        },
+        {
+          "topic_id": "D15.T029",
+          "title": "Lay-monastic relations"
+        },
+        {
+          "topic_id": "D15.T030",
+          "title": "Female renunciation"
+        },
+        {
+          "topic_id": "D15.T031",
+          "title": "Illness and care"
+        },
+        {
+          "topic_id": "D15.T032",
+          "title": "Modern orders"
+        },
+        {
+          "topic_id": "D15.T033",
+          "title": "Gacchas and sanghas"
+        },
+        {
+          "topic_id": "D15.T034",
+          "title": "Living mendicant privacy"
+        }
+      ]
+    },
+    {
+      "domain_id": "D16",
+      "domain": "Carefulness restraint and conduct systems",
+      "purpose": "Provide a complete, source-aware learning domain for carefulness restraint and conduct systems, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D16.T001",
+          "title": "Irya-samiti"
+        },
+        {
+          "topic_id": "D16.T002",
+          "title": "Bhasha-samiti"
+        },
+        {
+          "topic_id": "D16.T003",
+          "title": "Eshana-samiti"
+        },
+        {
+          "topic_id": "D16.T004",
+          "title": "Adana-nikshepana-samiti"
+        },
+        {
+          "topic_id": "D16.T005",
+          "title": "Utsarga-samiti"
+        },
+        {
+          "topic_id": "D16.T006",
+          "title": "Mano-gupti"
+        },
+        {
+          "topic_id": "D16.T007",
+          "title": "Vacana-gupti"
+        },
+        {
+          "topic_id": "D16.T008",
+          "title": "Kaya-gupti"
+        },
+        {
+          "topic_id": "D16.T009",
+          "title": "Care in walking"
+        },
+        {
+          "topic_id": "D16.T010",
+          "title": "Care in speech"
+        },
+        {
+          "topic_id": "D16.T011",
+          "title": "Care in food"
+        },
+        {
+          "topic_id": "D16.T012",
+          "title": "Care in handling objects"
+        },
+        {
+          "topic_id": "D16.T013",
+          "title": "Care in sanitation"
+        },
+        {
+          "topic_id": "D16.T014",
+          "title": "Water use"
+        },
+        {
+          "topic_id": "D16.T015",
+          "title": "Night eating"
+        },
+        {
+          "topic_id": "D16.T016",
+          "title": "Boiled water traditions"
+        },
+        {
+          "topic_id": "D16.T017",
+          "title": "Occupational harm"
+        },
+        {
+          "topic_id": "D16.T018",
+          "title": "Householder adaptations"
+        },
+        {
+          "topic_id": "D16.T019",
+          "title": "Digital-age carefulness"
+        },
+        {
+          "topic_id": "D16.T020",
+          "title": "Samvara through conduct"
+        },
+        {
+          "topic_id": "D16.T021",
+          "title": "Transgressions"
+        },
+        {
+          "topic_id": "D16.T022",
+          "title": "Conduct manuals"
+        }
+      ]
+    },
+    {
+      "domain_id": "D17",
+      "domain": "Daily practices and avashyakas",
+      "purpose": "Provide a complete, source-aware learning domain for daily practices and avashyakas, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D17.T001",
+          "title": "Meaning of avashyaka"
+        },
+        {
+          "topic_id": "D17.T002",
+          "title": "Samayika"
+        },
+        {
+          "topic_id": "D17.T003",
+          "title": "Caturvimshatistava"
+        },
+        {
+          "topic_id": "D17.T004",
+          "title": "Logassa"
+        },
+        {
+          "topic_id": "D17.T005",
+          "title": "Vandana"
+        },
+        {
+          "topic_id": "D17.T006",
+          "title": "Pratikramana"
+        },
+        {
+          "topic_id": "D17.T007",
+          "title": "Kayotsarga"
+        },
+        {
+          "topic_id": "D17.T008",
+          "title": "Pratyakhyana"
+        },
+        {
+          "topic_id": "D17.T009",
+          "title": "Chaityavandana"
+        },
+        {
+          "topic_id": "D17.T010",
+          "title": "Devavandana"
+        },
+        {
+          "topic_id": "D17.T011",
+          "title": "Guru-vandana"
+        },
+        {
+          "topic_id": "D17.T012",
+          "title": "Alocana"
+        },
+        {
+          "topic_id": "D17.T013",
+          "title": "Confession"
+        },
+        {
+          "topic_id": "D17.T014",
+          "title": "Repentance"
+        },
+        {
+          "topic_id": "D17.T015",
+          "title": "Khamemi savva jive"
+        },
+        {
+          "topic_id": "D17.T016",
+          "title": "Micchami dukkadam"
+        },
+        {
+          "topic_id": "D17.T017",
+          "title": "Morning practice"
+        },
+        {
+          "topic_id": "D17.T018",
+          "title": "Evening practice"
+        },
+        {
+          "topic_id": "D17.T019",
+          "title": "Fortnightly practice"
+        },
+        {
+          "topic_id": "D17.T020",
+          "title": "Annual practice"
+        },
+        {
+          "topic_id": "D17.T021",
+          "title": "Svetambara liturgy"
+        },
+        {
+          "topic_id": "D17.T022",
+          "title": "Digambara daily worship"
+        },
+        {
+          "topic_id": "D17.T023",
+          "title": "Sthanakavasi practice"
+        },
+        {
+          "topic_id": "D17.T024",
+          "title": "Terapanth practice"
+        },
+        {
+          "topic_id": "D17.T025",
+          "title": "Home settings"
+        },
+        {
+          "topic_id": "D17.T026",
+          "title": "Temple settings"
+        },
+        {
+          "topic_id": "D17.T027",
+          "title": "Meaning versus repetition"
+        },
+        {
+          "topic_id": "D17.T028",
+          "title": "Pronunciation"
+        },
+        {
+          "topic_id": "D17.T029",
+          "title": "Translations"
+        },
+        {
+          "topic_id": "D17.T030",
+          "title": "Beginner accessibility"
+        }
+      ]
+    },
+    {
+      "domain_id": "D18",
+      "domain": "Meditation contemplation and Jain yoga",
+      "purpose": "Provide a complete, source-aware learning domain for meditation contemplation and jain yoga, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D18.T001",
+          "title": "Dhyana"
+        },
+        {
+          "topic_id": "D18.T002",
+          "title": "Arta-dhyana"
+        },
+        {
+          "topic_id": "D18.T003",
+          "title": "Raudra-dhyana"
+        },
+        {
+          "topic_id": "D18.T004",
+          "title": "Dharma-dhyana"
+        },
+        {
+          "topic_id": "D18.T005",
+          "title": "Shukla-dhyana"
+        },
+        {
+          "topic_id": "D18.T006",
+          "title": "Kayotsarga"
+        },
+        {
+          "topic_id": "D18.T007",
+          "title": "Twelve anuprekshas"
+        },
+        {
+          "topic_id": "D18.T008",
+          "title": "Anitya"
+        },
+        {
+          "topic_id": "D18.T009",
+          "title": "Asharana"
+        },
+        {
+          "topic_id": "D18.T010",
+          "title": "Samsara contemplation"
+        },
+        {
+          "topic_id": "D18.T011",
+          "title": "Ekatva"
+        },
+        {
+          "topic_id": "D18.T012",
+          "title": "Anyatva"
+        },
+        {
+          "topic_id": "D18.T013",
+          "title": "Ashuchi"
+        },
+        {
+          "topic_id": "D18.T014",
+          "title": "Asrava contemplation"
+        },
+        {
+          "topic_id": "D18.T015",
+          "title": "Samvara contemplation"
+        },
+        {
+          "topic_id": "D18.T016",
+          "title": "Nirjara contemplation"
+        },
+        {
+          "topic_id": "D18.T017",
+          "title": "Loka-svarupa"
+        },
+        {
+          "topic_id": "D18.T018",
+          "title": "Bodhi-durlabha"
+        },
+        {
+          "topic_id": "D18.T019",
+          "title": "Dharma contemplation"
+        },
+        {
+          "topic_id": "D18.T020",
+          "title": "Maitri bhavana"
+        },
+        {
+          "topic_id": "D18.T021",
+          "title": "Pramoda bhavana"
+        },
+        {
+          "topic_id": "D18.T022",
+          "title": "Karuna bhavana"
+        },
+        {
+          "topic_id": "D18.T023",
+          "title": "Madhyastha bhavana"
+        },
+        {
+          "topic_id": "D18.T024",
+          "title": "Mantra contemplation"
+        },
+        {
+          "topic_id": "D18.T025",
+          "title": "Image meditation"
+        },
+        {
+          "topic_id": "D18.T026",
+          "title": "Self-contemplation"
+        },
+        {
+          "topic_id": "D18.T027",
+          "title": "Haribhadra yoga"
+        },
+        {
+          "topic_id": "D18.T028",
+          "title": "Hemacandra Yogashastra"
+        },
+        {
+          "topic_id": "D18.T029",
+          "title": "Dhyanashataka"
+        },
+        {
+          "topic_id": "D18.T030",
+          "title": "Preksha meditation"
+        },
+        {
+          "topic_id": "D18.T031",
+          "title": "Therapeutic claim cautions"
+        },
+        {
+          "topic_id": "D18.T032",
+          "title": "Accessible posture"
+        },
+        {
+          "topic_id": "D18.T033",
+          "title": "Qualified guidance"
+        }
+      ]
+    },
+    {
+      "domain_id": "D19",
+      "domain": "Tapa fasting and austerity",
+      "purpose": "Provide a complete, source-aware learning domain for tapa fasting and austerity, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D19.T001",
+          "title": "Meaning of tapa"
+        },
+        {
+          "topic_id": "D19.T002",
+          "title": "Six external austerities"
+        },
+        {
+          "topic_id": "D19.T003",
+          "title": "Anashana"
+        },
+        {
+          "topic_id": "D19.T004",
+          "title": "Unodari"
+        },
+        {
+          "topic_id": "D19.T005",
+          "title": "Vritti-sankshepa"
+        },
+        {
+          "topic_id": "D19.T006",
+          "title": "Rasa-parityaga"
+        },
+        {
+          "topic_id": "D19.T007",
+          "title": "Kaya-klesha"
+        },
+        {
+          "topic_id": "D19.T008",
+          "title": "Sanlinata"
+        },
+        {
+          "topic_id": "D19.T009",
+          "title": "Six internal austerities"
+        },
+        {
+          "topic_id": "D19.T010",
+          "title": "Prayashchitta"
+        },
+        {
+          "topic_id": "D19.T011",
+          "title": "Vinaya"
+        },
+        {
+          "topic_id": "D19.T012",
+          "title": "Vaiyavritya"
+        },
+        {
+          "topic_id": "D19.T013",
+          "title": "Svadhyaya"
+        },
+        {
+          "topic_id": "D19.T014",
+          "title": "Dhyana as austerity"
+        },
+        {
+          "topic_id": "D19.T015",
+          "title": "Vyutsarga"
+        },
+        {
+          "topic_id": "D19.T016",
+          "title": "Upavasa"
+        },
+        {
+          "topic_id": "D19.T017",
+          "title": "Ekasana"
+        },
+        {
+          "topic_id": "D19.T018",
+          "title": "Biyasana"
+        },
+        {
+          "topic_id": "D19.T019",
+          "title": "Ayambil"
+        },
+        {
+          "topic_id": "D19.T020",
+          "title": "Chauvihar"
+        },
+        {
+          "topic_id": "D19.T021",
+          "title": "Tivihar"
+        },
+        {
+          "topic_id": "D19.T022",
+          "title": "Proshadha"
+        },
+        {
+          "topic_id": "D19.T023",
+          "title": "Attham"
+        },
+        {
+          "topic_id": "D19.T024",
+          "title": "Tela"
+        },
+        {
+          "topic_id": "D19.T025",
+          "title": "Masakshamana"
+        },
+        {
+          "topic_id": "D19.T026",
+          "title": "Varshitap"
+        },
+        {
+          "topic_id": "D19.T027",
+          "title": "Navpad Oli"
+        },
+        {
+          "topic_id": "D19.T028",
+          "title": "Pachchakhan"
+        },
+        {
+          "topic_id": "D19.T029",
+          "title": "Breaking a fast"
+        },
+        {
+          "topic_id": "D19.T030",
+          "title": "Intention"
+        },
+        {
+          "topic_id": "D19.T031",
+          "title": "Public recognition"
+        },
+        {
+          "topic_id": "D19.T032",
+          "title": "Lay fasting"
+        },
+        {
+          "topic_id": "D19.T033",
+          "title": "Monastic austerity"
+        },
+        {
+          "topic_id": "D19.T034",
+          "title": "Health screening"
+        },
+        {
+          "topic_id": "D19.T035",
+          "title": "Eating-disorder safeguards"
+        },
+        {
+          "topic_id": "D19.T036",
+          "title": "Children and fasting"
+        },
+        {
+          "topic_id": "D19.T037",
+          "title": "No competition"
+        },
+        {
+          "topic_id": "D19.T038",
+          "title": "Scriptural sources"
+        }
+      ]
+    },
+    {
+      "domain_id": "D20",
+      "domain": "Death dying grief and sallekhana",
+      "purpose": "Provide a complete, source-aware learning domain for death dying grief and sallekhana, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D20.T001",
+          "title": "Jain understandings of death"
+        },
+        {
+          "topic_id": "D20.T002",
+          "title": "Awareness at death"
+        },
+        {
+          "topic_id": "D20.T003",
+          "title": "Pandita-marana"
+        },
+        {
+          "topic_id": "D20.T004",
+          "title": "Bala-marana"
+        },
+        {
+          "topic_id": "D20.T005",
+          "title": "Samadhi-marana"
+        },
+        {
+          "topic_id": "D20.T006",
+          "title": "Sallekhana"
+        },
+        {
+          "topic_id": "D20.T007",
+          "title": "Santhara terminology"
+        },
+        {
+          "topic_id": "D20.T008",
+          "title": "Traditional conditions"
+        },
+        {
+          "topic_id": "D20.T009",
+          "title": "Gradual detachment"
+        },
+        {
+          "topic_id": "D20.T010",
+          "title": "Difference from self-harm"
+        },
+        {
+          "topic_id": "D20.T011",
+          "title": "Community oversight"
+        },
+        {
+          "topic_id": "D20.T012",
+          "title": "Teacher oversight"
+        },
+        {
+          "topic_id": "D20.T013",
+          "title": "Bhaktaparijna"
+        },
+        {
+          "topic_id": "D20.T014",
+          "title": "Aturapratyakhyana"
+        },
+        {
+          "topic_id": "D20.T015",
+          "title": "Sanstaraka"
+        },
+        {
+          "topic_id": "D20.T016",
+          "title": "Shravakachara discussions"
+        },
+        {
+          "topic_id": "D20.T017",
+          "title": "Modern legal controversies"
+        },
+        {
+          "topic_id": "D20.T018",
+          "title": "Medical ethics"
+        },
+        {
+          "topic_id": "D20.T019",
+          "title": "Palliative care"
+        },
+        {
+          "topic_id": "D20.T020",
+          "title": "Grief"
+        },
+        {
+          "topic_id": "D20.T021",
+          "title": "Memorial practice"
+        },
+        {
+          "topic_id": "D20.T022",
+          "title": "Death rituals"
+        },
+        {
+          "topic_id": "D20.T023",
+          "title": "Organ donation"
+        },
+        {
+          "topic_id": "D20.T024",
+          "title": "Suicide-prevention safeguards"
+        },
+        {
+          "topic_id": "D20.T025",
+          "title": "AI refusal policy"
+        },
+        {
+          "topic_id": "D20.T026",
+          "title": "No procedural guidance"
+        }
+      ]
+    },
+    {
+      "domain_id": "D21",
+      "domain": "Devotion worship and ritual",
+      "purpose": "Provide a complete, source-aware learning domain for devotion worship and ritual, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D21.T001",
+          "title": "Bhakti"
+        },
+        {
+          "topic_id": "D21.T002",
+          "title": "Veneration and creator-god distinction"
+        },
+        {
+          "topic_id": "D21.T003",
+          "title": "Jina-puja"
+        },
+        {
+          "topic_id": "D21.T004",
+          "title": "Dravya-puja"
+        },
+        {
+          "topic_id": "D21.T005",
+          "title": "Bhava-puja"
+        },
+        {
+          "topic_id": "D21.T006",
+          "title": "Ashta-prakari puja"
+        },
+        {
+          "topic_id": "D21.T007",
+          "title": "Abhisheka"
+        },
+        {
+          "topic_id": "D21.T008",
+          "title": "Snatra-puja"
+        },
+        {
+          "topic_id": "D21.T009",
+          "title": "Chaityavandana"
+        },
+        {
+          "topic_id": "D21.T010",
+          "title": "Aarti"
+        },
+        {
+          "topic_id": "D21.T011",
+          "title": "Mangal-divo"
+        },
+        {
+          "topic_id": "D21.T012",
+          "title": "Digambara puja"
+        },
+        {
+          "topic_id": "D21.T013",
+          "title": "Svetambara Murtipujaka worship"
+        },
+        {
+          "topic_id": "D21.T014",
+          "title": "Non-image worship"
+        },
+        {
+          "topic_id": "D21.T015",
+          "title": "Temple etiquette"
+        },
+        {
+          "topic_id": "D21.T016",
+          "title": "Home shrine"
+        },
+        {
+          "topic_id": "D21.T017",
+          "title": "Offerings"
+        },
+        {
+          "topic_id": "D21.T018",
+          "title": "Mantras"
+        },
+        {
+          "topic_id": "D21.T019",
+          "title": "Stotras"
+        },
+        {
+          "topic_id": "D21.T020",
+          "title": "Yantras"
+        },
+        {
+          "topic_id": "D21.T021",
+          "title": "Mandalas"
+        },
+        {
+          "topic_id": "D21.T022",
+          "title": "Pratishtha"
+        },
+        {
+          "topic_id": "D21.T023",
+          "title": "Festival worship"
+        },
+        {
+          "topic_id": "D21.T024",
+          "title": "Pilgrimage ritual"
+        },
+        {
+          "topic_id": "D21.T025",
+          "title": "Merit and aspiration"
+        },
+        {
+          "topic_id": "D21.T026",
+          "title": "Gender participation"
+        },
+        {
+          "topic_id": "D21.T027",
+          "title": "Regional variation"
+        },
+        {
+          "topic_id": "D21.T028",
+          "title": "Audio rights"
+        }
+      ]
+    },
+    {
+      "domain_id": "D22",
+      "domain": "Mantras stotras and sacred sound",
+      "purpose": "Provide a complete, source-aware learning domain for mantras stotras and sacred sound, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D22.T001",
+          "title": "Namokara Mantra"
+        },
+        {
+          "topic_id": "D22.T002",
+          "title": "Five supreme beings"
+        },
+        {
+          "topic_id": "D22.T003",
+          "title": "Nine-line forms"
+        },
+        {
+          "topic_id": "D22.T004",
+          "title": "Logassa"
+        },
+        {
+          "topic_id": "D22.T005",
+          "title": "Bhaktamara Stotra"
+        },
+        {
+          "topic_id": "D22.T006",
+          "title": "Uvasaggaharam Stotra"
+        },
+        {
+          "topic_id": "D22.T007",
+          "title": "Kalyanamandira Stotra"
+        },
+        {
+          "topic_id": "D22.T008",
+          "title": "Sakal-arhat praise"
+        },
+        {
+          "topic_id": "D22.T009",
+          "title": "Confession formulas"
+        },
+        {
+          "topic_id": "D22.T010",
+          "title": "Khamemi savva jive"
+        },
+        {
+          "topic_id": "D22.T011",
+          "title": "Micchami dukkadam"
+        },
+        {
+          "topic_id": "D22.T012",
+          "title": "Mangala recitations"
+        },
+        {
+          "topic_id": "D22.T013",
+          "title": "Digambara stotras"
+        },
+        {
+          "topic_id": "D22.T014",
+          "title": "Svetambara stotras"
+        },
+        {
+          "topic_id": "D22.T015",
+          "title": "Prakrit pronunciation"
+        },
+        {
+          "topic_id": "D22.T016",
+          "title": "Sanskrit pronunciation"
+        },
+        {
+          "topic_id": "D22.T017",
+          "title": "Gujarati recitation"
+        },
+        {
+          "topic_id": "D22.T018",
+          "title": "Hindi recitation"
+        },
+        {
+          "topic_id": "D22.T019",
+          "title": "Meter"
+        },
+        {
+          "topic_id": "D22.T020",
+          "title": "Poetics"
+        },
+        {
+          "topic_id": "D22.T021",
+          "title": "Authorship"
+        },
+        {
+          "topic_id": "D22.T022",
+          "title": "Dating"
+        },
+        {
+          "topic_id": "D22.T023",
+          "title": "Verse variants"
+        },
+        {
+          "topic_id": "D22.T024",
+          "title": "Literal translation"
+        },
+        {
+          "topic_id": "D22.T025",
+          "title": "Devotional translation"
+        },
+        {
+          "topic_id": "D22.T026",
+          "title": "Recitation context"
+        },
+        {
+          "topic_id": "D22.T027",
+          "title": "Music"
+        },
+        {
+          "topic_id": "D22.T028",
+          "title": "Audio licensing"
+        },
+        {
+          "topic_id": "D22.T029",
+          "title": "Transcripts"
+        },
+        {
+          "topic_id": "D22.T030",
+          "title": "Avoiding invented verses"
+        }
+      ]
+    },
+    {
+      "domain_id": "D23",
+      "domain": "Twenty-four Tirthankaras",
+      "purpose": "Provide a complete, source-aware learning domain for twenty-four tirthankaras, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D23.T001",
+          "title": "Tirthankara concept"
+        },
+        {
+          "topic_id": "D23.T002",
+          "title": "Fourfold sangha"
+        },
+        {
+          "topic_id": "D23.T003",
+          "title": "Five kalyanakas"
+        },
+        {
+          "topic_id": "D23.T004",
+          "title": "Samavasarana"
+        },
+        {
+          "topic_id": "D23.T005",
+          "title": "Ganadharas"
+        },
+        {
+          "topic_id": "D23.T006",
+          "title": "Yaksha-yakshini associations"
+        },
+        {
+          "topic_id": "D23.T007",
+          "title": "Rishabhanatha"
+        },
+        {
+          "topic_id": "D23.T008",
+          "title": "Ajitanatha"
+        },
+        {
+          "topic_id": "D23.T009",
+          "title": "Sambhavanatha"
+        },
+        {
+          "topic_id": "D23.T010",
+          "title": "Abhinandananatha"
+        },
+        {
+          "topic_id": "D23.T011",
+          "title": "Sumatinatha"
+        },
+        {
+          "topic_id": "D23.T012",
+          "title": "Padmaprabha"
+        },
+        {
+          "topic_id": "D23.T013",
+          "title": "Suparshvanatha"
+        },
+        {
+          "topic_id": "D23.T014",
+          "title": "Chandraprabha"
+        },
+        {
+          "topic_id": "D23.T015",
+          "title": "Pushpadanta"
+        },
+        {
+          "topic_id": "D23.T016",
+          "title": "Shitalanatha"
+        },
+        {
+          "topic_id": "D23.T017",
+          "title": "Shreyansanatha"
+        },
+        {
+          "topic_id": "D23.T018",
+          "title": "Vasupujya"
+        },
+        {
+          "topic_id": "D23.T019",
+          "title": "Vimalanatha"
+        },
+        {
+          "topic_id": "D23.T020",
+          "title": "Anantanatha"
+        },
+        {
+          "topic_id": "D23.T021",
+          "title": "Dharmanatha"
+        },
+        {
+          "topic_id": "D23.T022",
+          "title": "Shantinatha"
+        },
+        {
+          "topic_id": "D23.T023",
+          "title": "Kunthunatha"
+        },
+        {
+          "topic_id": "D23.T024",
+          "title": "Aranatha"
+        },
+        {
+          "topic_id": "D23.T025",
+          "title": "Mallinatha"
+        },
+        {
+          "topic_id": "D23.T026",
+          "title": "Munisuvratanatha"
+        },
+        {
+          "topic_id": "D23.T027",
+          "title": "Naminatha"
+        },
+        {
+          "topic_id": "D23.T028",
+          "title": "Neminatha"
+        },
+        {
+          "topic_id": "D23.T029",
+          "title": "Parshvanatha"
+        },
+        {
+          "topic_id": "D23.T030",
+          "title": "Mahavira"
+        },
+        {
+          "topic_id": "D23.T031",
+          "title": "Name variants"
+        },
+        {
+          "topic_id": "D23.T032",
+          "title": "Lanchhanas"
+        },
+        {
+          "topic_id": "D23.T033",
+          "title": "Complexion traditions"
+        },
+        {
+          "topic_id": "D23.T034",
+          "title": "Birthplaces"
+        },
+        {
+          "topic_id": "D23.T035",
+          "title": "Nirvana places"
+        },
+        {
+          "topic_id": "D23.T036",
+          "title": "Parents and dynasties"
+        },
+        {
+          "topic_id": "D23.T037",
+          "title": "Sacred chronology"
+        },
+        {
+          "topic_id": "D23.T038",
+          "title": "Sectarian differences"
+        },
+        {
+          "topic_id": "D23.T039",
+          "title": "Historicity"
+        },
+        {
+          "topic_id": "D23.T040",
+          "title": "Biography sources"
+        },
+        {
+          "topic_id": "D23.T041",
+          "title": "Pilgrimage associations"
+        }
+      ]
+    },
+    {
+      "domain_id": "D24",
+      "domain": "Mahavira and early Jain community",
+      "purpose": "Provide a complete, source-aware learning domain for mahavira and early jain community, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D24.T001",
+          "title": "Vardhamana and Mahavira names"
+        },
+        {
+          "topic_id": "D24.T002",
+          "title": "Traditional birth"
+        },
+        {
+          "topic_id": "D24.T003",
+          "title": "Family and clan"
+        },
+        {
+          "topic_id": "D24.T004",
+          "title": "Renunciation"
+        },
+        {
+          "topic_id": "D24.T005",
+          "title": "Ascetic years"
+        },
+        {
+          "topic_id": "D24.T006",
+          "title": "Kevala-jnana"
+        },
+        {
+          "topic_id": "D24.T007",
+          "title": "Teaching career"
+        },
+        {
+          "topic_id": "D24.T008",
+          "title": "Nirvana at Pava"
+        },
+        {
+          "topic_id": "D24.T009",
+          "title": "Traditional dates"
+        },
+        {
+          "topic_id": "D24.T010",
+          "title": "Academic dating"
+        },
+        {
+          "topic_id": "D24.T011",
+          "title": "Eleven ganadharas"
+        },
+        {
+          "topic_id": "D24.T012",
+          "title": "Gautama"
+        },
+        {
+          "topic_id": "D24.T013",
+          "title": "Fourfold sangha"
+        },
+        {
+          "topic_id": "D24.T014",
+          "title": "Royal followers"
+        },
+        {
+          "topic_id": "D24.T015",
+          "title": "Lay followers"
+        },
+        {
+          "topic_id": "D24.T016",
+          "title": "Chandana and nuns"
+        },
+        {
+          "topic_id": "D24.T017",
+          "title": "Gosala traditions"
+        },
+        {
+          "topic_id": "D24.T018",
+          "title": "Shramana context"
+        },
+        {
+          "topic_id": "D24.T019",
+          "title": "Attributed teachings"
+        },
+        {
+          "topic_id": "D24.T020",
+          "title": "Oral transmission"
+        },
+        {
+          "topic_id": "D24.T021",
+          "title": "Early councils"
+        },
+        {
+          "topic_id": "D24.T022",
+          "title": "Acharanga accounts"
+        },
+        {
+          "topic_id": "D24.T023",
+          "title": "Kalpa Sutra accounts"
+        },
+        {
+          "topic_id": "D24.T024",
+          "title": "Bhagavati dialogues"
+        },
+        {
+          "topic_id": "D24.T025",
+          "title": "Digambara narratives"
+        },
+        {
+          "topic_id": "D24.T026",
+          "title": "Archaeology"
+        },
+        {
+          "topic_id": "D24.T027",
+          "title": "Inscriptions"
+        },
+        {
+          "topic_id": "D24.T028",
+          "title": "Modern memory"
+        },
+        {
+          "topic_id": "D24.T029",
+          "title": "No invented quotations"
+        }
+      ]
+    },
+    {
+      "domain_id": "D25",
+      "domain": "Earlier Tirthankaras and major figures",
+      "purpose": "Provide a complete, source-aware learning domain for earlier tirthankaras and major figures, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D25.T001",
+          "title": "Parshvanatha biography"
+        },
+        {
+          "topic_id": "D25.T002",
+          "title": "Fourfold restraint"
+        },
+        {
+          "topic_id": "D25.T003",
+          "title": "Kesi-Gautama dialogue"
+        },
+        {
+          "topic_id": "D25.T004",
+          "title": "Historicity of Parshva"
+        },
+        {
+          "topic_id": "D25.T005",
+          "title": "Parshva devotion"
+        },
+        {
+          "topic_id": "D25.T006",
+          "title": "Neminatha and Krishna narratives"
+        },
+        {
+          "topic_id": "D25.T007",
+          "title": "Neminatha renunciation"
+        },
+        {
+          "topic_id": "D25.T008",
+          "title": "Girnar"
+        },
+        {
+          "topic_id": "D25.T009",
+          "title": "Rishabha as first Tirthankara"
+        },
+        {
+          "topic_id": "D25.T010",
+          "title": "Origins of civilization"
+        },
+        {
+          "topic_id": "D25.T011",
+          "title": "Bharata"
+        },
+        {
+          "topic_id": "D25.T012",
+          "title": "Bahubali"
+        },
+        {
+          "topic_id": "D25.T013",
+          "title": "Adipurana"
+        },
+        {
+          "topic_id": "D25.T014",
+          "title": "Rishabha in non-Jain texts"
+        },
+        {
+          "topic_id": "D25.T015",
+          "title": "Malli and gender"
+        },
+        {
+          "topic_id": "D25.T016",
+          "title": "Shantinatha as Chakravartin"
+        },
+        {
+          "topic_id": "D25.T017",
+          "title": "Vasupujya"
+        },
+        {
+          "topic_id": "D25.T018",
+          "title": "Regional cults"
+        },
+        {
+          "topic_id": "D25.T019",
+          "title": "Iconographic differentiation"
+        },
+        {
+          "topic_id": "D25.T020",
+          "title": "Comparing universal histories"
+        }
+      ]
+    },
+    {
+      "domain_id": "D26",
+      "domain": "Universal history and illustrious persons",
+      "purpose": "Provide a complete, source-aware learning domain for universal history and illustrious persons, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D26.T001",
+          "title": "Shalakapurusas"
+        },
+        {
+          "topic_id": "D26.T002",
+          "title": "Twenty-four Tirthankaras"
+        },
+        {
+          "topic_id": "D26.T003",
+          "title": "Twelve Chakravartins"
+        },
+        {
+          "topic_id": "D26.T004",
+          "title": "Nine Baladevas"
+        },
+        {
+          "topic_id": "D26.T005",
+          "title": "Nine Vasudevas"
+        },
+        {
+          "topic_id": "D26.T006",
+          "title": "Nine Prativasudevas"
+        },
+        {
+          "topic_id": "D26.T007",
+          "title": "Kulakaras"
+        },
+        {
+          "topic_id": "D26.T008",
+          "title": "Bharata Chakravartin"
+        },
+        {
+          "topic_id": "D26.T009",
+          "title": "Bahubali"
+        },
+        {
+          "topic_id": "D26.T010",
+          "title": "Sagara"
+        },
+        {
+          "topic_id": "D26.T011",
+          "title": "Rama as Padma"
+        },
+        {
+          "topic_id": "D26.T012",
+          "title": "Lakshmana"
+        },
+        {
+          "topic_id": "D26.T013",
+          "title": "Ravana"
+        },
+        {
+          "topic_id": "D26.T014",
+          "title": "Krishna"
+        },
+        {
+          "topic_id": "D26.T015",
+          "title": "Balarama"
+        },
+        {
+          "topic_id": "D26.T016",
+          "title": "Jarasandha"
+        },
+        {
+          "topic_id": "D26.T017",
+          "title": "Jain Ramayanas"
+        },
+        {
+          "topic_id": "D26.T018",
+          "title": "Jain Mahabharatas"
+        },
+        {
+          "topic_id": "D26.T019",
+          "title": "Trishashtishalakapurushacharitra"
+        },
+        {
+          "topic_id": "D26.T020",
+          "title": "Adipurana"
+        },
+        {
+          "topic_id": "D26.T021",
+          "title": "Uttarapurana"
+        },
+        {
+          "topic_id": "D26.T022",
+          "title": "Mahapurana"
+        },
+        {
+          "topic_id": "D26.T023",
+          "title": "Padmapurana"
+        },
+        {
+          "topic_id": "D26.T024",
+          "title": "Paumacariya"
+        },
+        {
+          "topic_id": "D26.T025",
+          "title": "Harivamshapurana"
+        },
+        {
+          "topic_id": "D26.T026",
+          "title": "Sacred time"
+        },
+        {
+          "topic_id": "D26.T027",
+          "title": "Narrative variation"
+        },
+        {
+          "topic_id": "D26.T028",
+          "title": "Illustrated manuscripts"
+        },
+        {
+          "topic_id": "D26.T029",
+          "title": "Retelling provenance"
+        }
+      ]
+    },
+    {
+      "domain_id": "D27",
+      "domain": "Deities and protective figures",
+      "purpose": "Provide a complete, source-aware learning domain for deities and protective figures, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D27.T001",
+          "title": "Devas"
+        },
+        {
+          "topic_id": "D27.T002",
+          "title": "Four classes of heavenly beings"
+        },
+        {
+          "topic_id": "D27.T003",
+          "title": "Indras"
+        },
+        {
+          "topic_id": "D27.T004",
+          "title": "Yakshas"
+        },
+        {
+          "topic_id": "D27.T005",
+          "title": "Yakshinis"
+        },
+        {
+          "topic_id": "D27.T006",
+          "title": "Shasanadevatas"
+        },
+        {
+          "topic_id": "D27.T007",
+          "title": "Chakreshvari"
+        },
+        {
+          "topic_id": "D27.T008",
+          "title": "Ambika"
+        },
+        {
+          "topic_id": "D27.T009",
+          "title": "Padmavati"
+        },
+        {
+          "topic_id": "D27.T010",
+          "title": "Jvalamalini"
+        },
+        {
+          "topic_id": "D27.T011",
+          "title": "Sarasvati"
+        },
+        {
+          "topic_id": "D27.T012",
+          "title": "Lakshmi"
+        },
+        {
+          "topic_id": "D27.T013",
+          "title": "Gomukha"
+        },
+        {
+          "topic_id": "D27.T014",
+          "title": "Dharanendra"
+        },
+        {
+          "topic_id": "D27.T015",
+          "title": "Manibhadra"
+        },
+        {
+          "topic_id": "D27.T016",
+          "title": "Ghantakarna Mahavira"
+        },
+        {
+          "topic_id": "D27.T017",
+          "title": "Nakoda Bhairava"
+        },
+        {
+          "topic_id": "D27.T018",
+          "title": "Kshetrapala"
+        },
+        {
+          "topic_id": "D27.T019",
+          "title": "Regional protective cults"
+        },
+        {
+          "topic_id": "D27.T020",
+          "title": "Jain tantra"
+        },
+        {
+          "topic_id": "D27.T021",
+          "title": "Mantra texts"
+        },
+        {
+          "topic_id": "D27.T022",
+          "title": "Yantra texts"
+        },
+        {
+          "topic_id": "D27.T023",
+          "title": "Temple placement"
+        },
+        {
+          "topic_id": "D27.T024",
+          "title": "Sectarian acceptance"
+        },
+        {
+          "topic_id": "D27.T025",
+          "title": "Non-liberated status"
+        },
+        {
+          "topic_id": "D27.T026",
+          "title": "Petitionary devotion"
+        },
+        {
+          "topic_id": "D27.T027",
+          "title": "Historical development"
+        },
+        {
+          "topic_id": "D27.T028",
+          "title": "Iconography"
+        },
+        {
+          "topic_id": "D27.T029",
+          "title": "Comparative cautions"
+        }
+      ]
+    },
+    {
+      "domain_id": "D28",
+      "domain": "Svetambara canonical traditions",
+      "purpose": "Provide a complete, source-aware learning domain for svetambara canonical traditions, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D28.T001",
+          "title": "Agama and Siddhanta"
+        },
+        {
+          "topic_id": "D28.T002",
+          "title": "Angas"
+        },
+        {
+          "topic_id": "D28.T003",
+          "title": "Lost Drishtivada"
+        },
+        {
+          "topic_id": "D28.T004",
+          "title": "Purvas"
+        },
+        {
+          "topic_id": "D28.T005",
+          "title": "Upangas"
+        },
+        {
+          "topic_id": "D28.T006",
+          "title": "Cheda-sutras"
+        },
+        {
+          "topic_id": "D28.T007",
+          "title": "Mula-sutras"
+        },
+        {
+          "topic_id": "D28.T008",
+          "title": "Culika-sutras"
+        },
+        {
+          "topic_id": "D28.T009",
+          "title": "Prakirnakas"
+        },
+        {
+          "topic_id": "D28.T010",
+          "title": "Forty-five-text lists"
+        },
+        {
+          "topic_id": "D28.T011",
+          "title": "Thirty-two-text lists"
+        },
+        {
+          "topic_id": "D28.T012",
+          "title": "Murtipujaka lists"
+        },
+        {
+          "topic_id": "D28.T013",
+          "title": "Sthanakavasi lists"
+        },
+        {
+          "topic_id": "D28.T014",
+          "title": "Terapanth lists"
+        },
+        {
+          "topic_id": "D28.T015",
+          "title": "Acharanga"
+        },
+        {
+          "topic_id": "D28.T016",
+          "title": "Sutrakritanga"
+        },
+        {
+          "topic_id": "D28.T017",
+          "title": "Sthananga"
+        },
+        {
+          "topic_id": "D28.T018",
+          "title": "Samavayanga"
+        },
+        {
+          "topic_id": "D28.T019",
+          "title": "Bhagavati"
+        },
+        {
+          "topic_id": "D28.T020",
+          "title": "Jnatadharmakatha"
+        },
+        {
+          "topic_id": "D28.T021",
+          "title": "Upasakadasa"
+        },
+        {
+          "topic_id": "D28.T022",
+          "title": "Antakrddasa"
+        },
+        {
+          "topic_id": "D28.T023",
+          "title": "Anuttaraupapatikadasa"
+        },
+        {
+          "topic_id": "D28.T024",
+          "title": "Prashnavyakarana"
+        },
+        {
+          "topic_id": "D28.T025",
+          "title": "Vipakashruta"
+        },
+        {
+          "topic_id": "D28.T026",
+          "title": "Aupapatika"
+        },
+        {
+          "topic_id": "D28.T027",
+          "title": "Rajaprashniya"
+        },
+        {
+          "topic_id": "D28.T028",
+          "title": "Jivajivabhigama"
+        },
+        {
+          "topic_id": "D28.T029",
+          "title": "Prajnapana"
+        },
+        {
+          "topic_id": "D28.T030",
+          "title": "Suryaprajnapti"
+        },
+        {
+          "topic_id": "D28.T031",
+          "title": "Jambudvipaprajnapti"
+        },
+        {
+          "topic_id": "D28.T032",
+          "title": "Chandraprajnapti"
+        },
+        {
+          "topic_id": "D28.T033",
+          "title": "Nirayavalika group"
+        },
+        {
+          "topic_id": "D28.T034",
+          "title": "Nandi"
+        },
+        {
+          "topic_id": "D28.T035",
+          "title": "Anuyogadvara"
+        },
+        {
+          "topic_id": "D28.T036",
+          "title": "Uttaradhyayana"
+        },
+        {
+          "topic_id": "D28.T037",
+          "title": "Dashavaikalika"
+        },
+        {
+          "topic_id": "D28.T038",
+          "title": "Avashyaka"
+        },
+        {
+          "topic_id": "D28.T039",
+          "title": "Pindaniryukti"
+        },
+        {
+          "topic_id": "D28.T040",
+          "title": "Oghaniryukti"
+        },
+        {
+          "topic_id": "D28.T041",
+          "title": "Dashashrutaskandha"
+        },
+        {
+          "topic_id": "D28.T042",
+          "title": "Brihatkalpa"
+        },
+        {
+          "topic_id": "D28.T043",
+          "title": "Vyavahara"
+        },
+        {
+          "topic_id": "D28.T044",
+          "title": "Nishitha"
+        },
+        {
+          "topic_id": "D28.T045",
+          "title": "Mahanishitha"
+        },
+        {
+          "topic_id": "D28.T046",
+          "title": "Jitakalpa"
+        },
+        {
+          "topic_id": "D28.T047",
+          "title": "Prakirnaka titles"
+        },
+        {
+          "topic_id": "D28.T048",
+          "title": "Valabhi"
+        },
+        {
+          "topic_id": "D28.T049",
+          "title": "Councils"
+        },
+        {
+          "topic_id": "D28.T050",
+          "title": "Recensions"
+        },
+        {
+          "topic_id": "D28.T051",
+          "title": "Manuscript variation"
+        },
+        {
+          "topic_id": "D28.T052",
+          "title": "Community access norms"
+        }
+      ]
+    },
+    {
+      "domain_id": "D29",
+      "domain": "Digambara siddhanta and four anuyogas",
+      "purpose": "Provide a complete, source-aware learning domain for digambara siddhanta and four anuyogas, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D29.T001",
+          "title": "Lost-canon account"
+        },
+        {
+          "topic_id": "D29.T002",
+          "title": "Shatkhandagama"
+        },
+        {
+          "topic_id": "D29.T003",
+          "title": "Kashayapahuda"
+        },
+        {
+          "topic_id": "D29.T004",
+          "title": "Dhavala"
+        },
+        {
+          "topic_id": "D29.T005",
+          "title": "Jayadhavala"
+        },
+        {
+          "topic_id": "D29.T006",
+          "title": "Mahadhavala"
+        },
+        {
+          "topic_id": "D29.T007",
+          "title": "Dharasena"
+        },
+        {
+          "topic_id": "D29.T008",
+          "title": "Pushpadanta"
+        },
+        {
+          "topic_id": "D29.T009",
+          "title": "Bhutabali"
+        },
+        {
+          "topic_id": "D29.T010",
+          "title": "Gunadhara"
+        },
+        {
+          "topic_id": "D29.T011",
+          "title": "Four anuyogas"
+        },
+        {
+          "topic_id": "D29.T012",
+          "title": "Prathamanuyoga"
+        },
+        {
+          "topic_id": "D29.T013",
+          "title": "Karananuyoga"
+        },
+        {
+          "topic_id": "D29.T014",
+          "title": "Charananuyoga"
+        },
+        {
+          "topic_id": "D29.T015",
+          "title": "Dravyanuyoga"
+        },
+        {
+          "topic_id": "D29.T016",
+          "title": "Tiloyapannatti"
+        },
+        {
+          "topic_id": "D29.T017",
+          "title": "Trilokasara"
+        },
+        {
+          "topic_id": "D29.T018",
+          "title": "Gommatasara Jiva-kanda"
+        },
+        {
+          "topic_id": "D29.T019",
+          "title": "Gommatasara Karma-kanda"
+        },
+        {
+          "topic_id": "D29.T020",
+          "title": "Labdhisara"
+        },
+        {
+          "topic_id": "D29.T021",
+          "title": "Kshapanasara"
+        },
+        {
+          "topic_id": "D29.T022",
+          "title": "Mulachara"
+        },
+        {
+          "topic_id": "D29.T023",
+          "title": "Bhagavati Aradhana"
+        },
+        {
+          "topic_id": "D29.T024",
+          "title": "Ratnakarandaka Shravakachara"
+        },
+        {
+          "topic_id": "D29.T025",
+          "title": "Vasunandi Shravakachara"
+        },
+        {
+          "topic_id": "D29.T026",
+          "title": "Samayasara"
+        },
+        {
+          "topic_id": "D29.T027",
+          "title": "Pravachanasara"
+        },
+        {
+          "topic_id": "D29.T028",
+          "title": "Niyamasara"
+        },
+        {
+          "topic_id": "D29.T029",
+          "title": "Panchastikaya"
+        },
+        {
+          "topic_id": "D29.T030",
+          "title": "Ashtapahuda"
+        },
+        {
+          "topic_id": "D29.T031",
+          "title": "Tattvarthasutra"
+        },
+        {
+          "topic_id": "D29.T032",
+          "title": "Sarvarthasiddhi"
+        },
+        {
+          "topic_id": "D29.T033",
+          "title": "Tattvartharajavarttika"
+        },
+        {
+          "topic_id": "D29.T034",
+          "title": "Tattvarthashlokavarttika"
+        },
+        {
+          "topic_id": "D29.T035",
+          "title": "Aptamimamsa"
+        },
+        {
+          "topic_id": "D29.T036",
+          "title": "Purana corpus"
+        },
+        {
+          "topic_id": "D29.T037",
+          "title": "Kundakunda"
+        },
+        {
+          "topic_id": "D29.T038",
+          "title": "Bhattaarakas"
+        },
+        {
+          "topic_id": "D29.T039",
+          "title": "Publication series"
+        }
+      ]
+    },
+    {
+      "domain_id": "D30",
+      "domain": "Commentaries scholastic layers and interpretation",
+      "purpose": "Provide a complete, source-aware learning domain for commentaries scholastic layers and interpretation, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D30.T001",
+          "title": "Niryukti"
+        },
+        {
+          "topic_id": "D30.T002",
+          "title": "Bhashya"
+        },
+        {
+          "topic_id": "D30.T003",
+          "title": "Churni"
+        },
+        {
+          "topic_id": "D30.T004",
+          "title": "Tika"
+        },
+        {
+          "topic_id": "D30.T005",
+          "title": "Vritti"
+        },
+        {
+          "topic_id": "D30.T006",
+          "title": "Avachuri"
+        },
+        {
+          "topic_id": "D30.T007",
+          "title": "Root-commentary alignment"
+        },
+        {
+          "topic_id": "D30.T008",
+          "title": "Bhadrabahu traditions"
+        },
+        {
+          "topic_id": "D30.T009",
+          "title": "Jinabhadra"
+        },
+        {
+          "topic_id": "D30.T010",
+          "title": "Jinadasa"
+        },
+        {
+          "topic_id": "D30.T011",
+          "title": "Shilanka"
+        },
+        {
+          "topic_id": "D30.T012",
+          "title": "Abhayadevasuri"
+        },
+        {
+          "topic_id": "D30.T013",
+          "title": "Malayagiri"
+        },
+        {
+          "topic_id": "D30.T014",
+          "title": "Haribhadra"
+        },
+        {
+          "topic_id": "D30.T015",
+          "title": "Hemacandra"
+        },
+        {
+          "topic_id": "D30.T016",
+          "title": "Yashovijaya"
+        },
+        {
+          "topic_id": "D30.T017",
+          "title": "Pujyapada"
+        },
+        {
+          "topic_id": "D30.T018",
+          "title": "Akalanka"
+        },
+        {
+          "topic_id": "D30.T019",
+          "title": "Vidyananda"
+        },
+        {
+          "topic_id": "D30.T020",
+          "title": "Prabhacandra"
+        },
+        {
+          "topic_id": "D30.T021",
+          "title": "Amritacandra"
+        },
+        {
+          "topic_id": "D30.T022",
+          "title": "Jayasena"
+        },
+        {
+          "topic_id": "D30.T023",
+          "title": "Exegesis"
+        },
+        {
+          "topic_id": "D30.T024",
+          "title": "Hermeneutic disagreement"
+        },
+        {
+          "topic_id": "D30.T025",
+          "title": "Sectarian commentary"
+        },
+        {
+          "topic_id": "D30.T026",
+          "title": "Commentary as historical evidence"
+        },
+        {
+          "topic_id": "D30.T027",
+          "title": "Translation of commentary"
+        },
+        {
+          "topic_id": "D30.T028",
+          "title": "Digital alignment"
+        },
+        {
+          "topic_id": "D30.T029",
+          "title": "Variants"
+        },
+        {
+          "topic_id": "D30.T030",
+          "title": "Editorial note distinction"
+        },
+        {
+          "topic_id": "D30.T031",
+          "title": "AI explanation distinction"
+        }
+      ]
+    },
+    {
+      "domain_id": "D31",
+      "domain": "Post-canonical literature",
+      "purpose": "Provide a complete, source-aware learning domain for post-canonical literature, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D31.T001",
+          "title": "Tattvarthasutra"
+        },
+        {
+          "topic_id": "D31.T002",
+          "title": "Samayasara"
+        },
+        {
+          "topic_id": "D31.T003",
+          "title": "Pravachanasara"
+        },
+        {
+          "topic_id": "D31.T004",
+          "title": "Niyamasara"
+        },
+        {
+          "topic_id": "D31.T005",
+          "title": "Panchastikaya"
+        },
+        {
+          "topic_id": "D31.T006",
+          "title": "Aptamimamsa"
+        },
+        {
+          "topic_id": "D31.T007",
+          "title": "Sanmati-tarka"
+        },
+        {
+          "topic_id": "D31.T008",
+          "title": "Ishtopadesha"
+        },
+        {
+          "topic_id": "D31.T009",
+          "title": "Samadhitantra"
+        },
+        {
+          "topic_id": "D31.T010",
+          "title": "Paramatmaprakasha"
+        },
+        {
+          "topic_id": "D31.T011",
+          "title": "Prashamarati"
+        },
+        {
+          "topic_id": "D31.T012",
+          "title": "Yogadrishtisamuccaya"
+        },
+        {
+          "topic_id": "D31.T013",
+          "title": "Yogabindu"
+        },
+        {
+          "topic_id": "D31.T014",
+          "title": "Yogashataka"
+        },
+        {
+          "topic_id": "D31.T015",
+          "title": "Yogashastra"
+        },
+        {
+          "topic_id": "D31.T016",
+          "title": "Adhyatmasara"
+        },
+        {
+          "topic_id": "D31.T017",
+          "title": "Jnanarnava"
+        },
+        {
+          "topic_id": "D31.T018",
+          "title": "Karmagranthas"
+        },
+        {
+          "topic_id": "D31.T019",
+          "title": "Navatattva literature"
+        },
+        {
+          "topic_id": "D31.T020",
+          "title": "Shravakachara corpus"
+        },
+        {
+          "topic_id": "D31.T021",
+          "title": "Monastic manuals"
+        },
+        {
+          "topic_id": "D31.T022",
+          "title": "Logic treatises"
+        },
+        {
+          "topic_id": "D31.T023",
+          "title": "Grammar"
+        },
+        {
+          "topic_id": "D31.T024",
+          "title": "Lexicography"
+        },
+        {
+          "topic_id": "D31.T025",
+          "title": "Cosmological compendia"
+        },
+        {
+          "topic_id": "D31.T026",
+          "title": "Narrative compendia"
+        },
+        {
+          "topic_id": "D31.T027",
+          "title": "Devotional poetry"
+        },
+        {
+          "topic_id": "D31.T028",
+          "title": "Vernacular teaching texts"
+        },
+        {
+          "topic_id": "D31.T029",
+          "title": "Modern reform literature"
+        },
+        {
+          "topic_id": "D31.T030",
+          "title": "Critical editions"
+        },
+        {
+          "topic_id": "D31.T031",
+          "title": "Translations"
+        },
+        {
+          "topic_id": "D31.T032",
+          "title": "Reception history"
+        }
+      ]
+    },
+    {
+      "domain_id": "D32",
+      "domain": "Languages scripts grammar and philology",
+      "purpose": "Provide a complete, source-aware learning domain for languages scripts grammar and philology, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D32.T001",
+          "title": "Ardhamagadhi"
+        },
+        {
+          "topic_id": "D32.T002",
+          "title": "Jaina Shauraseni"
+        },
+        {
+          "topic_id": "D32.T003",
+          "title": "Jaina Maharashtri"
+        },
+        {
+          "topic_id": "D32.T004",
+          "title": "Sanskrit"
+        },
+        {
+          "topic_id": "D32.T005",
+          "title": "Apabhramsha"
+        },
+        {
+          "topic_id": "D32.T006",
+          "title": "Old Gujarati"
+        },
+        {
+          "topic_id": "D32.T007",
+          "title": "Gujarati"
+        },
+        {
+          "topic_id": "D32.T008",
+          "title": "Rajasthani"
+        },
+        {
+          "topic_id": "D32.T009",
+          "title": "Hindi"
+        },
+        {
+          "topic_id": "D32.T010",
+          "title": "Kannada"
+        },
+        {
+          "topic_id": "D32.T011",
+          "title": "Tamil"
+        },
+        {
+          "topic_id": "D32.T012",
+          "title": "Marathi"
+        },
+        {
+          "topic_id": "D32.T013",
+          "title": "Braj"
+        },
+        {
+          "topic_id": "D32.T014",
+          "title": "Other regional languages"
+        },
+        {
+          "topic_id": "D32.T015",
+          "title": "Jain Nagari"
+        },
+        {
+          "topic_id": "D32.T016",
+          "title": "Devanagari"
+        },
+        {
+          "topic_id": "D32.T017",
+          "title": "Gujarati script"
+        },
+        {
+          "topic_id": "D32.T018",
+          "title": "Kannada script"
+        },
+        {
+          "topic_id": "D32.T019",
+          "title": "Tamil script"
+        },
+        {
+          "topic_id": "D32.T020",
+          "title": "Historical hands"
+        },
+        {
+          "topic_id": "D32.T021",
+          "title": "Roman transliteration"
+        },
+        {
+          "topic_id": "D32.T022",
+          "title": "IAST"
+        },
+        {
+          "topic_id": "D32.T023",
+          "title": "ISO considerations"
+        },
+        {
+          "topic_id": "D32.T024",
+          "title": "Non-diacritic aliases"
+        },
+        {
+          "topic_id": "D32.T025",
+          "title": "Prakrit grammar"
+        },
+        {
+          "topic_id": "D32.T026",
+          "title": "Sanskrit grammar"
+        },
+        {
+          "topic_id": "D32.T027",
+          "title": "Apabhramsha grammar"
+        },
+        {
+          "topic_id": "D32.T028",
+          "title": "Hemacandra grammar"
+        },
+        {
+          "topic_id": "D32.T029",
+          "title": "Lexicography"
+        },
+        {
+          "topic_id": "D32.T030",
+          "title": "Prosody"
+        },
+        {
+          "topic_id": "D32.T031",
+          "title": "Sandhi"
+        },
+        {
+          "topic_id": "D32.T032",
+          "title": "Compounds"
+        },
+        {
+          "topic_id": "D32.T033",
+          "title": "Text normalization"
+        },
+        {
+          "topic_id": "D32.T034",
+          "title": "Search aliases"
+        },
+        {
+          "topic_id": "D32.T035",
+          "title": "Indic OCR"
+        },
+        {
+          "topic_id": "D32.T036",
+          "title": "Translation method"
+        },
+        {
+          "topic_id": "D32.T037",
+          "title": "Doctrinal terms"
+        },
+        {
+          "topic_id": "D32.T038",
+          "title": "Pronunciation audio"
+        }
+      ]
+    },
+    {
+      "domain_id": "D33",
+      "domain": "Manuscripts editions and textual criticism",
+      "purpose": "Provide a complete, source-aware learning domain for manuscripts editions and textual criticism, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D33.T001",
+          "title": "Jain manuscript definition"
+        },
+        {
+          "topic_id": "D33.T002",
+          "title": "Palm leaf"
+        },
+        {
+          "topic_id": "D33.T003",
+          "title": "Paper"
+        },
+        {
+          "topic_id": "D33.T004",
+          "title": "Folio format"
+        },
+        {
+          "topic_id": "D33.T005",
+          "title": "Colophons"
+        },
+        {
+          "topic_id": "D33.T006",
+          "title": "Shelfmarks"
+        },
+        {
+          "topic_id": "D33.T007",
+          "title": "Bhandaras"
+        },
+        {
+          "topic_id": "D33.T008",
+          "title": "Scribes"
+        },
+        {
+          "topic_id": "D33.T009",
+          "title": "Patrons"
+        },
+        {
+          "topic_id": "D33.T010",
+          "title": "Dates and calendars"
+        },
+        {
+          "topic_id": "D33.T011",
+          "title": "Scripts and hands"
+        },
+        {
+          "topic_id": "D33.T012",
+          "title": "Illustration"
+        },
+        {
+          "topic_id": "D33.T013",
+          "title": "Covers"
+        },
+        {
+          "topic_id": "D33.T014",
+          "title": "Damage"
+        },
+        {
+          "topic_id": "D33.T015",
+          "title": "Missing folios"
+        },
+        {
+          "topic_id": "D33.T016",
+          "title": "Multiple-text codices"
+        },
+        {
+          "topic_id": "D33.T017",
+          "title": "Marginal commentary"
+        },
+        {
+          "topic_id": "D33.T018",
+          "title": "Interlinear commentary"
+        },
+        {
+          "topic_id": "D33.T019",
+          "title": "Catalogs"
+        },
+        {
+          "topic_id": "D33.T020",
+          "title": "Work versus manuscript"
+        },
+        {
+          "topic_id": "D33.T021",
+          "title": "Recension"
+        },
+        {
+          "topic_id": "D33.T022",
+          "title": "Edition"
+        },
+        {
+          "topic_id": "D33.T023",
+          "title": "Critical edition"
+        },
+        {
+          "topic_id": "D33.T024",
+          "title": "Diplomatic transcription"
+        },
+        {
+          "topic_id": "D33.T025",
+          "title": "Critical apparatus"
+        },
+        {
+          "topic_id": "D33.T026",
+          "title": "Stemma"
+        },
+        {
+          "topic_id": "D33.T027",
+          "title": "Variants"
+        },
+        {
+          "topic_id": "D33.T028",
+          "title": "Pagination"
+        },
+        {
+          "topic_id": "D33.T029",
+          "title": "Foliation"
+        },
+        {
+          "topic_id": "D33.T030",
+          "title": "Image manifests"
+        },
+        {
+          "topic_id": "D33.T031",
+          "title": "IIIF"
+        },
+        {
+          "topic_id": "D33.T032",
+          "title": "OCR"
+        },
+        {
+          "topic_id": "D33.T033",
+          "title": "HTR"
+        },
+        {
+          "topic_id": "D33.T034",
+          "title": "Provenance"
+        },
+        {
+          "topic_id": "D33.T035",
+          "title": "Digitization ethics"
+        },
+        {
+          "topic_id": "D33.T036",
+          "title": "Repository rights"
+        },
+        {
+          "topic_id": "D33.T037",
+          "title": "Conservation"
+        },
+        {
+          "topic_id": "D33.T038",
+          "title": "Manuscript citation"
+        },
+        {
+          "topic_id": "D33.T039",
+          "title": "Access restrictions"
+        },
+        {
+          "topic_id": "D33.T040",
+          "title": "Crowdsourced correction"
+        }
+      ]
+    },
+    {
+      "domain_id": "D34",
+      "domain": "History and chronology",
+      "purpose": "Provide a complete, source-aware learning domain for history and chronology, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D34.T001",
+          "title": "Pre-Mahavira context"
+        },
+        {
+          "topic_id": "D34.T002",
+          "title": "Mahavira period"
+        },
+        {
+          "topic_id": "D34.T003",
+          "title": "Early sangha"
+        },
+        {
+          "topic_id": "D34.T004",
+          "title": "Mauryan era"
+        },
+        {
+          "topic_id": "D34.T005",
+          "title": "Post-Mauryan Jainism"
+        },
+        {
+          "topic_id": "D34.T006",
+          "title": "Bhadrabahu migration traditions"
+        },
+        {
+          "topic_id": "D34.T007",
+          "title": "Councils"
+        },
+        {
+          "topic_id": "D34.T008",
+          "title": "Mathura"
+        },
+        {
+          "topic_id": "D34.T009",
+          "title": "Kankali Tila"
+        },
+        {
+          "topic_id": "D34.T010",
+          "title": "Early inscriptions"
+        },
+        {
+          "topic_id": "D34.T011",
+          "title": "Western India"
+        },
+        {
+          "topic_id": "D34.T012",
+          "title": "South India"
+        },
+        {
+          "topic_id": "D34.T013",
+          "title": "Karnataka"
+        },
+        {
+          "topic_id": "D34.T014",
+          "title": "Tamil Jain history"
+        },
+        {
+          "topic_id": "D34.T015",
+          "title": "Rajasthan"
+        },
+        {
+          "topic_id": "D34.T016",
+          "title": "Gujarat"
+        },
+        {
+          "topic_id": "D34.T017",
+          "title": "Central India"
+        },
+        {
+          "topic_id": "D34.T018",
+          "title": "Eastern India"
+        },
+        {
+          "topic_id": "D34.T019",
+          "title": "Valabhi"
+        },
+        {
+          "topic_id": "D34.T020",
+          "title": "Medieval orders"
+        },
+        {
+          "topic_id": "D34.T021",
+          "title": "Temple patronage"
+        },
+        {
+          "topic_id": "D34.T022",
+          "title": "Merchant networks"
+        },
+        {
+          "topic_id": "D34.T023",
+          "title": "Bhattaarakas"
+        },
+        {
+          "topic_id": "D34.T024",
+          "title": "Jain courts"
+        },
+        {
+          "topic_id": "D34.T025",
+          "title": "Mughal-Jain relations"
+        },
+        {
+          "topic_id": "D34.T026",
+          "title": "Colonial encounters"
+        },
+        {
+          "topic_id": "D34.T027",
+          "title": "European Indology"
+        },
+        {
+          "topic_id": "D34.T028",
+          "title": "Print culture"
+        },
+        {
+          "topic_id": "D34.T029",
+          "title": "Reform movements"
+        },
+        {
+          "topic_id": "D34.T030",
+          "title": "Nationalist period"
+        },
+        {
+          "topic_id": "D34.T031",
+          "title": "Post-independence India"
+        },
+        {
+          "topic_id": "D34.T032",
+          "title": "Diaspora"
+        },
+        {
+          "topic_id": "D34.T033",
+          "title": "Modern legal issues"
+        },
+        {
+          "topic_id": "D34.T034",
+          "title": "Demography"
+        },
+        {
+          "topic_id": "D34.T035",
+          "title": "Date confidence"
+        },
+        {
+          "topic_id": "D34.T036",
+          "title": "Oral history"
+        },
+        {
+          "topic_id": "D34.T037",
+          "title": "Community archives"
+        }
+      ]
+    },
+    {
+      "domain_id": "D35",
+      "domain": "Sects subsects orders and lineages",
+      "purpose": "Provide a complete, source-aware learning domain for sects subsects orders and lineages, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D35.T001",
+          "title": "Digambara"
+        },
+        {
+          "topic_id": "D35.T002",
+          "title": "Svetambara"
+        },
+        {
+          "topic_id": "D35.T003",
+          "title": "Murtipujaka"
+        },
+        {
+          "topic_id": "D35.T004",
+          "title": "Sthanakavasi"
+        },
+        {
+          "topic_id": "D35.T005",
+          "title": "Svetambara Terapanth"
+        },
+        {
+          "topic_id": "D35.T006",
+          "title": "Digambara Terapanth"
+        },
+        {
+          "topic_id": "D35.T007",
+          "title": "Bisapanth"
+        },
+        {
+          "topic_id": "D35.T008",
+          "title": "Taran Panth"
+        },
+        {
+          "topic_id": "D35.T009",
+          "title": "Kanjipanth"
+        },
+        {
+          "topic_id": "D35.T010",
+          "title": "Yapaniya"
+        },
+        {
+          "topic_id": "D35.T011",
+          "title": "Gacchas"
+        },
+        {
+          "topic_id": "D35.T012",
+          "title": "Tapa Gaccha"
+        },
+        {
+          "topic_id": "D35.T013",
+          "title": "Kharatara Gaccha"
+        },
+        {
+          "topic_id": "D35.T014",
+          "title": "Ancala Gaccha"
+        },
+        {
+          "topic_id": "D35.T015",
+          "title": "Sanghas"
+        },
+        {
+          "topic_id": "D35.T016",
+          "title": "Ganas"
+        },
+        {
+          "topic_id": "D35.T017",
+          "title": "Mula Sangha"
+        },
+        {
+          "topic_id": "D35.T018",
+          "title": "Kashtha Sangha"
+        },
+        {
+          "topic_id": "D35.T019",
+          "title": "Sena gana"
+        },
+        {
+          "topic_id": "D35.T020",
+          "title": "Bhattaaraka lineages"
+        },
+        {
+          "topic_id": "D35.T021",
+          "title": "Modern Digambara lineages"
+        },
+        {
+          "topic_id": "D35.T022",
+          "title": "Terapanth succession"
+        },
+        {
+          "topic_id": "D35.T023",
+          "title": "Sthanakavasi orders"
+        },
+        {
+          "topic_id": "D35.T024",
+          "title": "Non-sectarian movements"
+        },
+        {
+          "topic_id": "D35.T025",
+          "title": "Shrimad Rajchandra traditions"
+        },
+        {
+          "topic_id": "D35.T026",
+          "title": "Canon differences"
+        },
+        {
+          "topic_id": "D35.T027",
+          "title": "Image worship"
+        },
+        {
+          "topic_id": "D35.T028",
+          "title": "Non-image worship"
+        },
+        {
+          "topic_id": "D35.T029",
+          "title": "Monastic clothing"
+        },
+        {
+          "topic_id": "D35.T030",
+          "title": "Women and liberation"
+        },
+        {
+          "topic_id": "D35.T031",
+          "title": "Malli gender"
+        },
+        {
+          "topic_id": "D35.T032",
+          "title": "Ritual variation"
+        },
+        {
+          "topic_id": "D35.T033",
+          "title": "Internal diversity"
+        },
+        {
+          "topic_id": "D35.T034",
+          "title": "Identical-name disambiguation"
+        },
+        {
+          "topic_id": "D35.T035",
+          "title": "Contemporary institutions"
+        }
+      ]
+    },
+    {
+      "domain_id": "D36",
+      "domain": "Acharyas teachers and scholars",
+      "purpose": "Provide a complete, source-aware learning domain for acharyas teachers and scholars, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D36.T001",
+          "title": "Ganadharas"
+        },
+        {
+          "topic_id": "D36.T002",
+          "title": "Gautama"
+        },
+        {
+          "topic_id": "D36.T003",
+          "title": "Sudharman"
+        },
+        {
+          "topic_id": "D36.T004",
+          "title": "Jambu"
+        },
+        {
+          "topic_id": "D36.T005",
+          "title": "Bhadrabahu"
+        },
+        {
+          "topic_id": "D36.T006",
+          "title": "Sthulabhadra"
+        },
+        {
+          "topic_id": "D36.T007",
+          "title": "Kundakunda"
+        },
+        {
+          "topic_id": "D36.T008",
+          "title": "Umasvati"
+        },
+        {
+          "topic_id": "D36.T009",
+          "title": "Samantabhadra"
+        },
+        {
+          "topic_id": "D36.T010",
+          "title": "Pujyapada"
+        },
+        {
+          "topic_id": "D36.T011",
+          "title": "Siddhasena"
+        },
+        {
+          "topic_id": "D36.T012",
+          "title": "Haribhadra"
+        },
+        {
+          "topic_id": "D36.T013",
+          "title": "Jinabhadra"
+        },
+        {
+          "topic_id": "D36.T014",
+          "title": "Akalanka"
+        },
+        {
+          "topic_id": "D36.T015",
+          "title": "Jinasena"
+        },
+        {
+          "topic_id": "D36.T016",
+          "title": "Gunabhadra"
+        },
+        {
+          "topic_id": "D36.T017",
+          "title": "Nemicandra"
+        },
+        {
+          "topic_id": "D36.T018",
+          "title": "Abhayadeva"
+        },
+        {
+          "topic_id": "D36.T019",
+          "title": "Malayagiri"
+        },
+        {
+          "topic_id": "D36.T020",
+          "title": "Hemacandra"
+        },
+        {
+          "topic_id": "D36.T021",
+          "title": "Devendrasuri"
+        },
+        {
+          "topic_id": "D36.T022",
+          "title": "Yashovijaya"
+        },
+        {
+          "topic_id": "D36.T023",
+          "title": "Banarasidas"
+        },
+        {
+          "topic_id": "D36.T024",
+          "title": "Todarmal"
+        },
+        {
+          "topic_id": "D36.T025",
+          "title": "Shrimad Rajchandra"
+        },
+        {
+          "topic_id": "D36.T026",
+          "title": "Vijayanandasuri"
+        },
+        {
+          "topic_id": "D36.T027",
+          "title": "Shantisagar"
+        },
+        {
+          "topic_id": "D36.T028",
+          "title": "Tulsi"
+        },
+        {
+          "topic_id": "D36.T029",
+          "title": "Mahapragya"
+        },
+        {
+          "topic_id": "D36.T030",
+          "title": "Vidyasagar"
+        },
+        {
+          "topic_id": "D36.T031",
+          "title": "Kanji Swami"
+        },
+        {
+          "topic_id": "D36.T032",
+          "title": "Modern sadhvis"
+        },
+        {
+          "topic_id": "D36.T033",
+          "title": "Pandits"
+        },
+        {
+          "topic_id": "D36.T034",
+          "title": "Women scholars"
+        },
+        {
+          "topic_id": "D36.T035",
+          "title": "Prakrit scholars"
+        },
+        {
+          "topic_id": "D36.T036",
+          "title": "Hermann Jacobi"
+        },
+        {
+          "topic_id": "D36.T037",
+          "title": "Walther Schubring"
+        },
+        {
+          "topic_id": "D36.T038",
+          "title": "A N Upadhye"
+        },
+        {
+          "topic_id": "D36.T039",
+          "title": "Padmanabh Jaini"
+        },
+        {
+          "topic_id": "D36.T040",
+          "title": "Paul Dundas"
+        },
+        {
+          "topic_id": "D36.T041",
+          "title": "Nalini Balbir"
+        },
+        {
+          "topic_id": "D36.T042",
+          "title": "Living-person consent"
+        },
+        {
+          "topic_id": "D36.T043",
+          "title": "Attributed works"
+        },
+        {
+          "topic_id": "D36.T044",
+          "title": "Lineage uncertainty"
+        },
+        {
+          "topic_id": "D36.T045",
+          "title": "Timelines"
+        }
+      ]
+    },
+    {
+      "domain_id": "D37",
+      "domain": "Cosmology and sacred geography",
+      "purpose": "Provide a complete, source-aware learning domain for cosmology and sacred geography, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D37.T001",
+          "title": "Loka"
+        },
+        {
+          "topic_id": "D37.T002",
+          "title": "Aloka"
+        },
+        {
+          "topic_id": "D37.T003",
+          "title": "Universe shape"
+        },
+        {
+          "topic_id": "D37.T004",
+          "title": "Adholoka"
+        },
+        {
+          "topic_id": "D37.T005",
+          "title": "Madhyaloka"
+        },
+        {
+          "topic_id": "D37.T006",
+          "title": "Urdhvaloka"
+        },
+        {
+          "topic_id": "D37.T007",
+          "title": "Siddhashila"
+        },
+        {
+          "topic_id": "D37.T008",
+          "title": "Seven hells"
+        },
+        {
+          "topic_id": "D37.T009",
+          "title": "Bhavanavasi"
+        },
+        {
+          "topic_id": "D37.T010",
+          "title": "Vyantara"
+        },
+        {
+          "topic_id": "D37.T011",
+          "title": "Jyotishka"
+        },
+        {
+          "topic_id": "D37.T012",
+          "title": "Vaimanika"
+        },
+        {
+          "topic_id": "D37.T013",
+          "title": "Kalpa heavens"
+        },
+        {
+          "topic_id": "D37.T014",
+          "title": "Kalpatita heavens"
+        },
+        {
+          "topic_id": "D37.T015",
+          "title": "Jambudvipa"
+        },
+        {
+          "topic_id": "D37.T016",
+          "title": "Mount Meru"
+        },
+        {
+          "topic_id": "D37.T017",
+          "title": "Bharata Kshetra"
+        },
+        {
+          "topic_id": "D37.T018",
+          "title": "Airavata Kshetra"
+        },
+        {
+          "topic_id": "D37.T019",
+          "title": "Mahavideha"
+        },
+        {
+          "topic_id": "D37.T020",
+          "title": "Continents"
+        },
+        {
+          "topic_id": "D37.T021",
+          "title": "Oceans"
+        },
+        {
+          "topic_id": "D37.T022",
+          "title": "Nandishvara"
+        },
+        {
+          "topic_id": "D37.T023",
+          "title": "Human regions"
+        },
+        {
+          "topic_id": "D37.T024",
+          "title": "Two-and-a-half continents"
+        },
+        {
+          "topic_id": "D37.T025",
+          "title": "Cosmological maps"
+        },
+        {
+          "topic_id": "D37.T026",
+          "title": "Rajju"
+        },
+        {
+          "topic_id": "D37.T027",
+          "title": "Palya"
+        },
+        {
+          "topic_id": "D37.T028",
+          "title": "Sagara"
+        },
+        {
+          "topic_id": "D37.T029",
+          "title": "Utsarpini"
+        },
+        {
+          "topic_id": "D37.T030",
+          "title": "Avasarpini"
+        },
+        {
+          "topic_id": "D37.T031",
+          "title": "Six aras"
+        },
+        {
+          "topic_id": "D37.T032",
+          "title": "Jain astronomy"
+        },
+        {
+          "topic_id": "D37.T033",
+          "title": "Sun movement"
+        },
+        {
+          "topic_id": "D37.T034",
+          "title": "Moon movement"
+        },
+        {
+          "topic_id": "D37.T035",
+          "title": "Tiloyapannatti"
+        },
+        {
+          "topic_id": "D37.T036",
+          "title": "Trilokasara"
+        },
+        {
+          "topic_id": "D37.T037",
+          "title": "Sangrahani texts"
+        },
+        {
+          "topic_id": "D37.T038",
+          "title": "Cosmology manuscripts"
+        },
+        {
+          "topic_id": "D37.T039",
+          "title": "Interpretive approaches"
+        },
+        {
+          "topic_id": "D37.T040",
+          "title": "Modern science comparison"
+        }
+      ]
+    },
+    {
+      "domain_id": "D38",
+      "domain": "Living beings bodies and traditional life sciences",
+      "purpose": "Provide a complete, source-aware learning domain for living beings bodies and traditional life sciences, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D38.T001",
+          "title": "One-sensed beings"
+        },
+        {
+          "topic_id": "D38.T002",
+          "title": "Two-sensed beings"
+        },
+        {
+          "topic_id": "D38.T003",
+          "title": "Three-sensed beings"
+        },
+        {
+          "topic_id": "D38.T004",
+          "title": "Four-sensed beings"
+        },
+        {
+          "topic_id": "D38.T005",
+          "title": "Five-sensed beings"
+        },
+        {
+          "topic_id": "D38.T006",
+          "title": "Earth-bodied"
+        },
+        {
+          "topic_id": "D38.T007",
+          "title": "Water-bodied"
+        },
+        {
+          "topic_id": "D38.T008",
+          "title": "Fire-bodied"
+        },
+        {
+          "topic_id": "D38.T009",
+          "title": "Air-bodied"
+        },
+        {
+          "topic_id": "D38.T010",
+          "title": "Plant-bodied"
+        },
+        {
+          "topic_id": "D38.T011",
+          "title": "Common plant bodies"
+        },
+        {
+          "topic_id": "D38.T012",
+          "title": "Individual plant bodies"
+        },
+        {
+          "topic_id": "D38.T013",
+          "title": "Mobile beings"
+        },
+        {
+          "topic_id": "D38.T014",
+          "title": "Mind-bearing beings"
+        },
+        {
+          "topic_id": "D38.T015",
+          "title": "Non-mind-bearing beings"
+        },
+        {
+          "topic_id": "D38.T016",
+          "title": "Types of birth"
+        },
+        {
+          "topic_id": "D38.T017",
+          "title": "Womb birth"
+        },
+        {
+          "topic_id": "D38.T018",
+          "title": "Spontaneous birth"
+        },
+        {
+          "topic_id": "D38.T019",
+          "title": "Agglutination birth"
+        },
+        {
+          "topic_id": "D38.T020",
+          "title": "Audarika body"
+        },
+        {
+          "topic_id": "D38.T021",
+          "title": "Vaikriya body"
+        },
+        {
+          "topic_id": "D38.T022",
+          "title": "Aharaka body"
+        },
+        {
+          "topic_id": "D38.T023",
+          "title": "Taijasa body"
+        },
+        {
+          "topic_id": "D38.T024",
+          "title": "Karmana body"
+        },
+        {
+          "topic_id": "D38.T025",
+          "title": "Vitalities"
+        },
+        {
+          "topic_id": "D38.T026",
+          "title": "Respiration"
+        },
+        {
+          "topic_id": "D38.T027",
+          "title": "Food intake"
+        },
+        {
+          "topic_id": "D38.T028",
+          "title": "Microorganism terminology"
+        },
+        {
+          "topic_id": "D38.T029",
+          "title": "Nigoda"
+        },
+        {
+          "topic_id": "D38.T030",
+          "title": "Embryology"
+        },
+        {
+          "topic_id": "D38.T031",
+          "title": "Tandulavaicharika"
+        },
+        {
+          "topic_id": "D38.T032",
+          "title": "Jivabhigama"
+        },
+        {
+          "topic_id": "D38.T033",
+          "title": "Prajnapana"
+        },
+        {
+          "topic_id": "D38.T034",
+          "title": "Ahimsa implications"
+        },
+        {
+          "topic_id": "D38.T035",
+          "title": "Traditional taxonomy versus biology"
+        },
+        {
+          "topic_id": "D38.T036",
+          "title": "Bioethics"
+        }
+      ]
+    },
+    {
+      "domain_id": "D39",
+      "domain": "Food animals and environment",
+      "purpose": "Provide a complete, source-aware learning domain for food animals and environment, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D39.T001",
+          "title": "Vegetarianism"
+        },
+        {
+          "topic_id": "D39.T002",
+          "title": "Veganism debates"
+        },
+        {
+          "topic_id": "D39.T003",
+          "title": "Dairy supply chains"
+        },
+        {
+          "topic_id": "D39.T004",
+          "title": "Root vegetables"
+        },
+        {
+          "topic_id": "D39.T005",
+          "title": "Night eating"
+        },
+        {
+          "topic_id": "D39.T006",
+          "title": "Filtered water"
+        },
+        {
+          "topic_id": "D39.T007",
+          "title": "Fermentation"
+        },
+        {
+          "topic_id": "D39.T008",
+          "title": "Honey"
+        },
+        {
+          "topic_id": "D39.T009",
+          "title": "Eggs"
+        },
+        {
+          "topic_id": "D39.T010",
+          "title": "Alcohol"
+        },
+        {
+          "topic_id": "D39.T011",
+          "title": "Intoxicants"
+        },
+        {
+          "topic_id": "D39.T012",
+          "title": "Processed food"
+        },
+        {
+          "topic_id": "D39.T013",
+          "title": "Food preparation"
+        },
+        {
+          "topic_id": "D39.T014",
+          "title": "Temple food"
+        },
+        {
+          "topic_id": "D39.T015",
+          "title": "Festival food"
+        },
+        {
+          "topic_id": "D39.T016",
+          "title": "Monastic food rules"
+        },
+        {
+          "topic_id": "D39.T017",
+          "title": "Householder adaptations"
+        },
+        {
+          "topic_id": "D39.T018",
+          "title": "Food waste"
+        },
+        {
+          "topic_id": "D39.T019",
+          "title": "Animal agriculture"
+        },
+        {
+          "topic_id": "D39.T020",
+          "title": "Jivdaya"
+        },
+        {
+          "topic_id": "D39.T021",
+          "title": "Panjarapoles"
+        },
+        {
+          "topic_id": "D39.T022",
+          "title": "Animal rescue"
+        },
+        {
+          "topic_id": "D39.T023",
+          "title": "Wildlife"
+        },
+        {
+          "topic_id": "D39.T024",
+          "title": "Habitat"
+        },
+        {
+          "topic_id": "D39.T025",
+          "title": "Jain Declaration on Nature"
+        },
+        {
+          "topic_id": "D39.T026",
+          "title": "Ecological interdependence"
+        },
+        {
+          "topic_id": "D39.T027",
+          "title": "Aparigraha and consumption"
+        },
+        {
+          "topic_id": "D39.T028",
+          "title": "Climate change"
+        },
+        {
+          "topic_id": "D39.T029",
+          "title": "Water"
+        },
+        {
+          "topic_id": "D39.T030",
+          "title": "Energy"
+        },
+        {
+          "topic_id": "D39.T031",
+          "title": "Plastic"
+        },
+        {
+          "topic_id": "D39.T032",
+          "title": "Pollution"
+        },
+        {
+          "topic_id": "D39.T033",
+          "title": "Biodiversity"
+        },
+        {
+          "topic_id": "D39.T034",
+          "title": "Agriculture"
+        },
+        {
+          "topic_id": "D39.T035",
+          "title": "Ethical consumerism"
+        },
+        {
+          "topic_id": "D39.T036",
+          "title": "Evidence-based claims"
+        },
+        {
+          "topic_id": "D39.T037",
+          "title": "No purity competition"
+        },
+        {
+          "topic_id": "D39.T038",
+          "title": "Health and access"
+        }
+      ]
+    },
+    {
+      "domain_id": "D40",
+      "domain": "Festivals calendar and communal observance",
+      "purpose": "Provide a complete, source-aware learning domain for festivals calendar and communal observance, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D40.T001",
+          "title": "Jain lunar calendars"
+        },
+        {
+          "topic_id": "D40.T002",
+          "title": "Paryushana"
+        },
+        {
+          "topic_id": "D40.T003",
+          "title": "Samvatsari"
+        },
+        {
+          "topic_id": "D40.T004",
+          "title": "Das Lakshana"
+        },
+        {
+          "topic_id": "D40.T005",
+          "title": "Kshamavani"
+        },
+        {
+          "topic_id": "D40.T006",
+          "title": "Mahavira Janma Kalyanak"
+        },
+        {
+          "topic_id": "D40.T007",
+          "title": "Diwali and Nirvana"
+        },
+        {
+          "topic_id": "D40.T008",
+          "title": "Jain new year"
+        },
+        {
+          "topic_id": "D40.T009",
+          "title": "Gautama kevala-jnana"
+        },
+        {
+          "topic_id": "D40.T010",
+          "title": "Akshaya Tritiya"
+        },
+        {
+          "topic_id": "D40.T011",
+          "title": "Shruta Panchami"
+        },
+        {
+          "topic_id": "D40.T012",
+          "title": "Jnana Panchami"
+        },
+        {
+          "topic_id": "D40.T013",
+          "title": "Navpad Oli"
+        },
+        {
+          "topic_id": "D40.T014",
+          "title": "Ayambil Oli"
+        },
+        {
+          "topic_id": "D40.T015",
+          "title": "Maha Mastakabhisheka"
+        },
+        {
+          "topic_id": "D40.T016",
+          "title": "Panch Kalyanak Pratishtha"
+        },
+        {
+          "topic_id": "D40.T017",
+          "title": "Kartika Purnima"
+        },
+        {
+          "topic_id": "D40.T018",
+          "title": "Mauna Ekadashi"
+        },
+        {
+          "topic_id": "D40.T019",
+          "title": "Posha Dashami"
+        },
+        {
+          "topic_id": "D40.T020",
+          "title": "Rohini vrata"
+        },
+        {
+          "topic_id": "D40.T021",
+          "title": "Kalyanaka days"
+        },
+        {
+          "topic_id": "D40.T022",
+          "title": "Temple anniversaries"
+        },
+        {
+          "topic_id": "D40.T023",
+          "title": "Pilgrimage fairs"
+        },
+        {
+          "topic_id": "D40.T024",
+          "title": "Chaturmas"
+        },
+        {
+          "topic_id": "D40.T025",
+          "title": "Calendar calculation"
+        },
+        {
+          "topic_id": "D40.T026",
+          "title": "Sectarian differences"
+        },
+        {
+          "topic_id": "D40.T027",
+          "title": "Regional variation"
+        },
+        {
+          "topic_id": "D40.T028",
+          "title": "Fasting"
+        },
+        {
+          "topic_id": "D40.T029",
+          "title": "Recitation"
+        },
+        {
+          "topic_id": "D40.T030",
+          "title": "Community service"
+        },
+        {
+          "topic_id": "D40.T031",
+          "title": "Children education"
+        },
+        {
+          "topic_id": "D40.T032",
+          "title": "Date-update workflow"
+        }
+      ]
+    },
+    {
+      "domain_id": "D41",
+      "domain": "Temples pilgrimage architecture and art",
+      "purpose": "Provide a complete, source-aware learning domain for temples pilgrimage architecture and art, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D41.T001",
+          "title": "Tirtha"
+        },
+        {
+          "topic_id": "D41.T002",
+          "title": "Siddha-kshetra"
+        },
+        {
+          "topic_id": "D41.T003",
+          "title": "Atishaya-kshetra"
+        },
+        {
+          "topic_id": "D41.T004",
+          "title": "Temple-cities"
+        },
+        {
+          "topic_id": "D41.T005",
+          "title": "Derasar"
+        },
+        {
+          "topic_id": "D41.T006",
+          "title": "Basadi"
+        },
+        {
+          "topic_id": "D41.T007",
+          "title": "Chaumukha"
+        },
+        {
+          "topic_id": "D41.T008",
+          "title": "Manastambha"
+        },
+        {
+          "topic_id": "D41.T009",
+          "title": "Garbhagriha"
+        },
+        {
+          "topic_id": "D41.T010",
+          "title": "Mandapa"
+        },
+        {
+          "topic_id": "D41.T011",
+          "title": "Shikhara"
+        },
+        {
+          "topic_id": "D41.T012",
+          "title": "Vimana"
+        },
+        {
+          "topic_id": "D41.T013",
+          "title": "Jina images"
+        },
+        {
+          "topic_id": "D41.T014",
+          "title": "Kayotsarga"
+        },
+        {
+          "topic_id": "D41.T015",
+          "title": "Padmasana"
+        },
+        {
+          "topic_id": "D41.T016",
+          "title": "Image conventions"
+        },
+        {
+          "topic_id": "D41.T017",
+          "title": "Lanchhanas"
+        },
+        {
+          "topic_id": "D41.T018",
+          "title": "Shrivatsa"
+        },
+        {
+          "topic_id": "D41.T019",
+          "title": "Ashtamangala"
+        },
+        {
+          "topic_id": "D41.T020",
+          "title": "Ayagapata"
+        },
+        {
+          "topic_id": "D41.T021",
+          "title": "Samavasarana art"
+        },
+        {
+          "topic_id": "D41.T022",
+          "title": "Cosmology paintings"
+        },
+        {
+          "topic_id": "D41.T023",
+          "title": "Manuscript painting"
+        },
+        {
+          "topic_id": "D41.T024",
+          "title": "Bronzes"
+        },
+        {
+          "topic_id": "D41.T025",
+          "title": "Stone sculpture"
+        },
+        {
+          "topic_id": "D41.T026",
+          "title": "Pratishtha"
+        },
+        {
+          "topic_id": "D41.T027",
+          "title": "Patronage"
+        },
+        {
+          "topic_id": "D41.T028",
+          "title": "Shatrunjaya"
+        },
+        {
+          "topic_id": "D41.T029",
+          "title": "Sammed Shikharji"
+        },
+        {
+          "topic_id": "D41.T030",
+          "title": "Girnar"
+        },
+        {
+          "topic_id": "D41.T031",
+          "title": "Pavapuri"
+        },
+        {
+          "topic_id": "D41.T032",
+          "title": "Shravanabelagola"
+        },
+        {
+          "topic_id": "D41.T033",
+          "title": "Dilwara"
+        },
+        {
+          "topic_id": "D41.T034",
+          "title": "Ranakpur"
+        },
+        {
+          "topic_id": "D41.T035",
+          "title": "Sonagiri"
+        },
+        {
+          "topic_id": "D41.T036",
+          "title": "Muktagiri"
+        },
+        {
+          "topic_id": "D41.T037",
+          "title": "Kundalpur"
+        },
+        {
+          "topic_id": "D41.T038",
+          "title": "Champapuri"
+        },
+        {
+          "topic_id": "D41.T039",
+          "title": "Ayodhya"
+        },
+        {
+          "topic_id": "D41.T040",
+          "title": "Varanasi"
+        },
+        {
+          "topic_id": "D41.T041",
+          "title": "Rajgir"
+        },
+        {
+          "topic_id": "D41.T042",
+          "title": "Diaspora temples"
+        },
+        {
+          "topic_id": "D41.T043",
+          "title": "Visitor etiquette"
+        },
+        {
+          "topic_id": "D41.T044",
+          "title": "Accessibility"
+        },
+        {
+          "topic_id": "D41.T045",
+          "title": "Travel updates"
+        },
+        {
+          "topic_id": "D41.T046",
+          "title": "Photography"
+        },
+        {
+          "topic_id": "D41.T047",
+          "title": "Art provenance"
+        }
+      ]
+    },
+    {
+      "domain_id": "D42",
+      "domain": "Symbols and visual literacy",
+      "purpose": "Provide a complete, source-aware learning domain for symbols and visual literacy, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D42.T001",
+          "title": "Jain emblem"
+        },
+        {
+          "topic_id": "D42.T002",
+          "title": "Ahimsa hand"
+        },
+        {
+          "topic_id": "D42.T003",
+          "title": "Dharmachakra"
+        },
+        {
+          "topic_id": "D42.T004",
+          "title": "Swastika"
+        },
+        {
+          "topic_id": "D42.T005",
+          "title": "Three dots"
+        },
+        {
+          "topic_id": "D42.T006",
+          "title": "Crescent and dot"
+        },
+        {
+          "topic_id": "D42.T007",
+          "title": "Siddhashila representation"
+        },
+        {
+          "topic_id": "D42.T008",
+          "title": "Jain Om"
+        },
+        {
+          "topic_id": "D42.T009",
+          "title": "Ashtamangala"
+        },
+        {
+          "topic_id": "D42.T010",
+          "title": "Nandyavarta"
+        },
+        {
+          "topic_id": "D42.T011",
+          "title": "Shrivatsa"
+        },
+        {
+          "topic_id": "D42.T012",
+          "title": "Kalasha"
+        },
+        {
+          "topic_id": "D42.T013",
+          "title": "Mirror"
+        },
+        {
+          "topic_id": "D42.T014",
+          "title": "Pair of fish"
+        },
+        {
+          "topic_id": "D42.T015",
+          "title": "Throne"
+        },
+        {
+          "topic_id": "D42.T016",
+          "title": "Vardhamanaka"
+        },
+        {
+          "topic_id": "D42.T017",
+          "title": "Tirthankara emblems"
+        },
+        {
+          "topic_id": "D42.T018",
+          "title": "Yaksha iconography"
+        },
+        {
+          "topic_id": "D42.T019",
+          "title": "Temple diagrams"
+        },
+        {
+          "topic_id": "D42.T020",
+          "title": "Cosmological maps"
+        },
+        {
+          "topic_id": "D42.T021",
+          "title": "Auspicious dreams"
+        },
+        {
+          "topic_id": "D42.T022",
+          "title": "Fourfold sangha symbolism"
+        },
+        {
+          "topic_id": "D42.T023",
+          "title": "Historical variation"
+        },
+        {
+          "topic_id": "D42.T024",
+          "title": "Regional style"
+        },
+        {
+          "topic_id": "D42.T025",
+          "title": "Sectarian variation"
+        },
+        {
+          "topic_id": "D42.T026",
+          "title": "Misidentification"
+        },
+        {
+          "topic_id": "D42.T027",
+          "title": "Accessibility descriptions"
+        },
+        {
+          "topic_id": "D42.T028",
+          "title": "Sacred-symbol design policy"
+        },
+        {
+          "topic_id": "D42.T029",
+          "title": "No casual animation"
+        }
+      ]
+    },
+    {
+      "domain_id": "D43",
+      "domain": "Society gender family and community",
+      "purpose": "Provide a complete, source-aware learning domain for society gender family and community, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D43.T001",
+          "title": "Fourfold sangha"
+        },
+        {
+          "topic_id": "D43.T002",
+          "title": "Laymen"
+        },
+        {
+          "topic_id": "D43.T003",
+          "title": "Laywomen"
+        },
+        {
+          "topic_id": "D43.T004",
+          "title": "Monks"
+        },
+        {
+          "topic_id": "D43.T005",
+          "title": "Nuns"
+        },
+        {
+          "topic_id": "D43.T006",
+          "title": "Gender and liberation"
+        },
+        {
+          "topic_id": "D43.T007",
+          "title": "Malli traditions"
+        },
+        {
+          "topic_id": "D43.T008",
+          "title": "Women renouncers"
+        },
+        {
+          "topic_id": "D43.T009",
+          "title": "Women patrons"
+        },
+        {
+          "topic_id": "D43.T010",
+          "title": "Women scholars"
+        },
+        {
+          "topic_id": "D43.T011",
+          "title": "Marriage"
+        },
+        {
+          "topic_id": "D43.T012",
+          "title": "Interfaith marriage"
+        },
+        {
+          "topic_id": "D43.T013",
+          "title": "Parenting"
+        },
+        {
+          "topic_id": "D43.T014",
+          "title": "Youth identity"
+        },
+        {
+          "topic_id": "D43.T015",
+          "title": "Caste and community"
+        },
+        {
+          "topic_id": "D43.T016",
+          "title": "Merchant groups"
+        },
+        {
+          "topic_id": "D43.T017",
+          "title": "Occupations"
+        },
+        {
+          "topic_id": "D43.T018",
+          "title": "Education"
+        },
+        {
+          "topic_id": "D43.T019",
+          "title": "Literacy"
+        },
+        {
+          "topic_id": "D43.T020",
+          "title": "Charities"
+        },
+        {
+          "topic_id": "D43.T021",
+          "title": "Temple trusts"
+        },
+        {
+          "topic_id": "D43.T022",
+          "title": "Community governance"
+        },
+        {
+          "topic_id": "D43.T023",
+          "title": "Conflict resolution"
+        },
+        {
+          "topic_id": "D43.T024",
+          "title": "Forgiveness"
+        },
+        {
+          "topic_id": "D43.T025",
+          "title": "Disability inclusion"
+        },
+        {
+          "topic_id": "D43.T026",
+          "title": "LGBTQ questions and source limits"
+        },
+        {
+          "topic_id": "D43.T027",
+          "title": "Sexual ethics"
+        },
+        {
+          "topic_id": "D43.T028",
+          "title": "Aging"
+        },
+        {
+          "topic_id": "D43.T029",
+          "title": "Elder care"
+        },
+        {
+          "topic_id": "D43.T030",
+          "title": "Diaspora identity"
+        },
+        {
+          "topic_id": "D43.T031",
+          "title": "Language loss"
+        },
+        {
+          "topic_id": "D43.T032",
+          "title": "Community authority"
+        },
+        {
+          "topic_id": "D43.T033",
+          "title": "Lay-monastic relations"
+        },
+        {
+          "topic_id": "D43.T034",
+          "title": "Reform"
+        },
+        {
+          "topic_id": "D43.T035",
+          "title": "Social inequality"
+        }
+      ]
+    },
+    {
+      "domain_id": "D44",
+      "domain": "Economics business charity and public ethics",
+      "purpose": "Provide a complete, source-aware learning domain for economics business charity and public ethics, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D44.T001",
+          "title": "Right livelihood"
+        },
+        {
+          "topic_id": "D44.T002",
+          "title": "Occupational harm"
+        },
+        {
+          "topic_id": "D44.T003",
+          "title": "Merchant history"
+        },
+        {
+          "topic_id": "D44.T004",
+          "title": "Aparigraha and wealth"
+        },
+        {
+          "topic_id": "D44.T005",
+          "title": "Possession limits"
+        },
+        {
+          "topic_id": "D44.T006",
+          "title": "Profit"
+        },
+        {
+          "topic_id": "D44.T007",
+          "title": "Fairness"
+        },
+        {
+          "topic_id": "D44.T008",
+          "title": "Truth in commerce"
+        },
+        {
+          "topic_id": "D44.T009",
+          "title": "Contracts"
+        },
+        {
+          "topic_id": "D44.T010",
+          "title": "Employee treatment"
+        },
+        {
+          "topic_id": "D44.T011",
+          "title": "Supply chains"
+        },
+        {
+          "topic_id": "D44.T012",
+          "title": "Investment ethics"
+        },
+        {
+          "topic_id": "D44.T013",
+          "title": "Debt"
+        },
+        {
+          "topic_id": "D44.T014",
+          "title": "Interest"
+        },
+        {
+          "topic_id": "D44.T015",
+          "title": "Insurance"
+        },
+        {
+          "topic_id": "D44.T016",
+          "title": "Taxation"
+        },
+        {
+          "topic_id": "D44.T017",
+          "title": "Civic duty"
+        },
+        {
+          "topic_id": "D44.T018",
+          "title": "Corruption"
+        },
+        {
+          "topic_id": "D44.T019",
+          "title": "Whistleblowing"
+        },
+        {
+          "topic_id": "D44.T020",
+          "title": "Competition"
+        },
+        {
+          "topic_id": "D44.T021",
+          "title": "Advertising"
+        },
+        {
+          "topic_id": "D44.T022",
+          "title": "Consumer manipulation"
+        },
+        {
+          "topic_id": "D44.T023",
+          "title": "Dana"
+        },
+        {
+          "topic_id": "D44.T024",
+          "title": "Ahara-dana"
+        },
+        {
+          "topic_id": "D44.T025",
+          "title": "Aushadha-dana"
+        },
+        {
+          "topic_id": "D44.T026",
+          "title": "Jnana-dana"
+        },
+        {
+          "topic_id": "D44.T027",
+          "title": "Abhaya-dana"
+        },
+        {
+          "topic_id": "D44.T028",
+          "title": "Mendicant support"
+        },
+        {
+          "topic_id": "D44.T029",
+          "title": "Temple giving"
+        },
+        {
+          "topic_id": "D44.T030",
+          "title": "Education charity"
+        },
+        {
+          "topic_id": "D44.T031",
+          "title": "Animal welfare"
+        },
+        {
+          "topic_id": "D44.T032",
+          "title": "Disaster relief"
+        },
+        {
+          "topic_id": "D44.T033",
+          "title": "Anonymous giving"
+        },
+        {
+          "topic_id": "D44.T034",
+          "title": "Merit"
+        },
+        {
+          "topic_id": "D44.T035",
+          "title": "Charity governance"
+        },
+        {
+          "topic_id": "D44.T036",
+          "title": "Financial transparency"
+        },
+        {
+          "topic_id": "D44.T037",
+          "title": "Social enterprise"
+        },
+        {
+          "topic_id": "D44.T038",
+          "title": "Automation impacts"
+        }
+      ]
+    },
+    {
+      "domain_id": "D45",
+      "domain": "Modern life technology and applied ethics",
+      "purpose": "Provide a complete, source-aware learning domain for modern life technology and applied ethics, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D45.T001",
+          "title": "Principle-based reasoning"
+        },
+        {
+          "topic_id": "D45.T002",
+          "title": "Phones and attention"
+        },
+        {
+          "topic_id": "D45.T003",
+          "title": "Social media"
+        },
+        {
+          "topic_id": "D45.T004",
+          "title": "Online speech"
+        },
+        {
+          "topic_id": "D45.T005",
+          "title": "Misinformation"
+        },
+        {
+          "topic_id": "D45.T006",
+          "title": "Privacy"
+        },
+        {
+          "topic_id": "D45.T007",
+          "title": "Surveillance"
+        },
+        {
+          "topic_id": "D45.T008",
+          "title": "Artificial intelligence"
+        },
+        {
+          "topic_id": "D45.T009",
+          "title": "Automation"
+        },
+        {
+          "topic_id": "D45.T010",
+          "title": "Algorithmic harm"
+        },
+        {
+          "topic_id": "D45.T011",
+          "title": "Digital aparigraha"
+        },
+        {
+          "topic_id": "D45.T012",
+          "title": "Gaming and compulsion"
+        },
+        {
+          "topic_id": "D45.T013",
+          "title": "Cybersecurity"
+        },
+        {
+          "topic_id": "D45.T014",
+          "title": "Biotechnology"
+        },
+        {
+          "topic_id": "D45.T015",
+          "title": "Genetic engineering"
+        },
+        {
+          "topic_id": "D45.T016",
+          "title": "Reproductive ethics"
+        },
+        {
+          "topic_id": "D45.T017",
+          "title": "End-of-life medicine"
+        },
+        {
+          "topic_id": "D45.T018",
+          "title": "Organ donation"
+        },
+        {
+          "topic_id": "D45.T019",
+          "title": "Vaccination"
+        },
+        {
+          "topic_id": "D45.T020",
+          "title": "Antibiotics"
+        },
+        {
+          "topic_id": "D45.T021",
+          "title": "Mental health"
+        },
+        {
+          "topic_id": "D45.T022",
+          "title": "Psychiatric medication"
+        },
+        {
+          "topic_id": "D45.T023",
+          "title": "Animal experimentation"
+        },
+        {
+          "topic_id": "D45.T024",
+          "title": "Climate technology"
+        },
+        {
+          "topic_id": "D45.T025",
+          "title": "Transportation"
+        },
+        {
+          "topic_id": "D45.T026",
+          "title": "Space exploration"
+        },
+        {
+          "topic_id": "D45.T027",
+          "title": "Weapons"
+        },
+        {
+          "topic_id": "D45.T028",
+          "title": "Defense"
+        },
+        {
+          "topic_id": "D45.T029",
+          "title": "Political participation"
+        },
+        {
+          "topic_id": "D45.T030",
+          "title": "Civil disobedience"
+        },
+        {
+          "topic_id": "D45.T031",
+          "title": "War"
+        },
+        {
+          "topic_id": "D45.T032",
+          "title": "Peace"
+        },
+        {
+          "topic_id": "D45.T033",
+          "title": "Prison"
+        },
+        {
+          "topic_id": "D45.T034",
+          "title": "Restorative justice"
+        },
+        {
+          "topic_id": "D45.T035",
+          "title": "Education"
+        },
+        {
+          "topic_id": "D45.T036",
+          "title": "Career"
+        },
+        {
+          "topic_id": "D45.T037",
+          "title": "Evidence versus interpretation"
+        },
+        {
+          "topic_id": "D45.T038",
+          "title": "When AI must defer"
+        }
+      ]
+    },
+    {
+      "domain_id": "D46",
+      "domain": "Interfaith and comparative study",
+      "purpose": "Provide a complete, source-aware learning domain for interfaith and comparative study, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D46.T001",
+          "title": "Jainism and Buddhism"
+        },
+        {
+          "topic_id": "D46.T002",
+          "title": "Jainism and Hindu traditions"
+        },
+        {
+          "topic_id": "D46.T003",
+          "title": "Jainism and Ajivikas"
+        },
+        {
+          "topic_id": "D46.T004",
+          "title": "Jainism and materialists"
+        },
+        {
+          "topic_id": "D46.T005",
+          "title": "Jainism and Sikhism"
+        },
+        {
+          "topic_id": "D46.T006",
+          "title": "Jainism and Islam"
+        },
+        {
+          "topic_id": "D46.T007",
+          "title": "Jainism and Christianity"
+        },
+        {
+          "topic_id": "D46.T008",
+          "title": "Jainism and Judaism"
+        },
+        {
+          "topic_id": "D46.T009",
+          "title": "Jainism and Zoroastrianism"
+        },
+        {
+          "topic_id": "D46.T010",
+          "title": "Secular ethics"
+        },
+        {
+          "topic_id": "D46.T011",
+          "title": "Soul comparisons"
+        },
+        {
+          "topic_id": "D46.T012",
+          "title": "Karma comparisons"
+        },
+        {
+          "topic_id": "D46.T013",
+          "title": "Nonviolence comparisons"
+        },
+        {
+          "topic_id": "D46.T014",
+          "title": "Asceticism comparisons"
+        },
+        {
+          "topic_id": "D46.T015",
+          "title": "Monastic institutions"
+        },
+        {
+          "topic_id": "D46.T016",
+          "title": "Creator-god questions"
+        },
+        {
+          "topic_id": "D46.T017",
+          "title": "Image worship"
+        },
+        {
+          "topic_id": "D46.T018",
+          "title": "Relativism"
+        },
+        {
+          "topic_id": "D46.T019",
+          "title": "Pluralism"
+        },
+        {
+          "topic_id": "D46.T020",
+          "title": "Interfaith families"
+        },
+        {
+          "topic_id": "D46.T021",
+          "title": "Public events"
+        },
+        {
+          "topic_id": "D46.T022",
+          "title": "Historical debates"
+        },
+        {
+          "topic_id": "D46.T023",
+          "title": "Royal patronage"
+        },
+        {
+          "topic_id": "D46.T024",
+          "title": "Coexistence"
+        },
+        {
+          "topic_id": "D46.T025",
+          "title": "Conversion"
+        },
+        {
+          "topic_id": "D46.T026",
+          "title": "Identity"
+        },
+        {
+          "topic_id": "D46.T027",
+          "title": "Concept appropriation"
+        },
+        {
+          "topic_id": "D46.T028",
+          "title": "Environmental comparison"
+        },
+        {
+          "topic_id": "D46.T029",
+          "title": "Animal ethics comparison"
+        },
+        {
+          "topic_id": "D46.T030",
+          "title": "Method cautions"
+        }
+      ]
+    },
+    {
+      "domain_id": "D47",
+      "domain": "Contributions to knowledge and culture",
+      "purpose": "Provide a complete, source-aware learning domain for contributions to knowledge and culture, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D47.T001",
+          "title": "Prakrit literature"
+        },
+        {
+          "topic_id": "D47.T002",
+          "title": "Sanskrit literature"
+        },
+        {
+          "topic_id": "D47.T003",
+          "title": "Apabhramsha literature"
+        },
+        {
+          "topic_id": "D47.T004",
+          "title": "Kannada literature"
+        },
+        {
+          "topic_id": "D47.T005",
+          "title": "Tamil literature"
+        },
+        {
+          "topic_id": "D47.T006",
+          "title": "Gujarati literature"
+        },
+        {
+          "topic_id": "D47.T007",
+          "title": "Poetry"
+        },
+        {
+          "topic_id": "D47.T008",
+          "title": "Narrative"
+        },
+        {
+          "topic_id": "D47.T009",
+          "title": "Drama"
+        },
+        {
+          "topic_id": "D47.T010",
+          "title": "Grammar"
+        },
+        {
+          "topic_id": "D47.T011",
+          "title": "Lexicography"
+        },
+        {
+          "topic_id": "D47.T012",
+          "title": "Prosody"
+        },
+        {
+          "topic_id": "D47.T013",
+          "title": "Logic"
+        },
+        {
+          "topic_id": "D47.T014",
+          "title": "Epistemology"
+        },
+        {
+          "topic_id": "D47.T015",
+          "title": "Mathematics"
+        },
+        {
+          "topic_id": "D47.T016",
+          "title": "Combinatorics"
+        },
+        {
+          "topic_id": "D47.T017",
+          "title": "Infinity"
+        },
+        {
+          "topic_id": "D47.T018",
+          "title": "Astronomy"
+        },
+        {
+          "topic_id": "D47.T019",
+          "title": "Cosmography"
+        },
+        {
+          "topic_id": "D47.T020",
+          "title": "Medicine"
+        },
+        {
+          "topic_id": "D47.T021",
+          "title": "Life sciences"
+        },
+        {
+          "topic_id": "D47.T022",
+          "title": "Art"
+        },
+        {
+          "topic_id": "D47.T023",
+          "title": "Architecture"
+        },
+        {
+          "topic_id": "D47.T024",
+          "title": "Manuscript painting"
+        },
+        {
+          "topic_id": "D47.T025",
+          "title": "Sculpture"
+        },
+        {
+          "topic_id": "D47.T026",
+          "title": "Libraries"
+        },
+        {
+          "topic_id": "D47.T027",
+          "title": "Bhandaras"
+        },
+        {
+          "topic_id": "D47.T028",
+          "title": "Education"
+        },
+        {
+          "topic_id": "D47.T029",
+          "title": "Commerce"
+        },
+        {
+          "topic_id": "D47.T030",
+          "title": "Philanthropy"
+        },
+        {
+          "topic_id": "D47.T031",
+          "title": "Animal welfare"
+        },
+        {
+          "topic_id": "D47.T032",
+          "title": "Peace movements"
+        },
+        {
+          "topic_id": "D47.T033",
+          "title": "Environmental thought"
+        },
+        {
+          "topic_id": "D47.T034",
+          "title": "Print"
+        },
+        {
+          "topic_id": "D47.T035",
+          "title": "Digital preservation"
+        },
+        {
+          "topic_id": "D47.T036",
+          "title": "Evidence standards"
+        }
+      ]
+    },
+    {
+      "domain_id": "D48",
+      "domain": "Children youth families and teachers",
+      "purpose": "Provide a complete, source-aware learning domain for children youth families and teachers, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D48.T001",
+          "title": "Early-childhood values"
+        },
+        {
+          "topic_id": "D48.T002",
+          "title": "Primary-age stories"
+        },
+        {
+          "topic_id": "D48.T003",
+          "title": "Teen philosophy"
+        },
+        {
+          "topic_id": "D48.T004",
+          "title": "Young-adult identity"
+        },
+        {
+          "topic_id": "D48.T005",
+          "title": "Pathshala curriculum"
+        },
+        {
+          "topic_id": "D48.T006",
+          "title": "Parent guides"
+        },
+        {
+          "topic_id": "D48.T007",
+          "title": "Teacher lesson plans"
+        },
+        {
+          "topic_id": "D48.T008",
+          "title": "Learning objectives"
+        },
+        {
+          "topic_id": "D48.T009",
+          "title": "Vocabulary progression"
+        },
+        {
+          "topic_id": "D48.T010",
+          "title": "Story provenance labels"
+        },
+        {
+          "topic_id": "D48.T011",
+          "title": "Scriptural story"
+        },
+        {
+          "topic_id": "D48.T012",
+          "title": "Traditional story"
+        },
+        {
+          "topic_id": "D48.T013",
+          "title": "Modern retelling"
+        },
+        {
+          "topic_id": "D48.T014",
+          "title": "Original educational fiction"
+        },
+        {
+          "topic_id": "D48.T015",
+          "title": "Activities"
+        },
+        {
+          "topic_id": "D48.T016",
+          "title": "Quizzes"
+        },
+        {
+          "topic_id": "D48.T017",
+          "title": "Flashcards"
+        },
+        {
+          "topic_id": "D48.T018",
+          "title": "Pronunciation"
+        },
+        {
+          "topic_id": "D48.T019",
+          "title": "Primary-source excerpts"
+        },
+        {
+          "topic_id": "D48.T020",
+          "title": "Family discussion"
+        },
+        {
+          "topic_id": "D48.T021",
+          "title": "Festival learning"
+        },
+        {
+          "topic_id": "D48.T022",
+          "title": "Temple visits"
+        },
+        {
+          "topic_id": "D48.T023",
+          "title": "Diaspora schools"
+        },
+        {
+          "topic_id": "D48.T024",
+          "title": "Bullying"
+        },
+        {
+          "topic_id": "D48.T025",
+          "title": "Vegetarian choices"
+        },
+        {
+          "topic_id": "D48.T026",
+          "title": "Interfaith classroom"
+        },
+        {
+          "topic_id": "D48.T027",
+          "title": "Disability inclusion"
+        },
+        {
+          "topic_id": "D48.T028",
+          "title": "No fear-based karma teaching"
+        },
+        {
+          "topic_id": "D48.T029",
+          "title": "No fasting competition"
+        },
+        {
+          "topic_id": "D48.T030",
+          "title": "Safeguarding minors"
+        },
+        {
+          "topic_id": "D48.T031",
+          "title": "Teacher review"
+        }
+      ]
+    },
+    {
+      "domain_id": "D49",
+      "domain": "Diaspora and global Jainism",
+      "purpose": "Provide a complete, source-aware learning domain for diaspora and global jainism, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D49.T001",
+          "title": "Migration history"
+        },
+        {
+          "topic_id": "D49.T002",
+          "title": "East Africa"
+        },
+        {
+          "topic_id": "D49.T003",
+          "title": "United Kingdom"
+        },
+        {
+          "topic_id": "D49.T004",
+          "title": "North America"
+        },
+        {
+          "topic_id": "D49.T005",
+          "title": "Europe"
+        },
+        {
+          "topic_id": "D49.T006",
+          "title": "Southeast Asia"
+        },
+        {
+          "topic_id": "D49.T007",
+          "title": "Australia"
+        },
+        {
+          "topic_id": "D49.T008",
+          "title": "New Zealand"
+        },
+        {
+          "topic_id": "D49.T009",
+          "title": "Diaspora temples"
+        },
+        {
+          "topic_id": "D49.T010",
+          "title": "Combined-tradition centers"
+        },
+        {
+          "topic_id": "D49.T011",
+          "title": "JAINA"
+        },
+        {
+          "topic_id": "D49.T012",
+          "title": "Institute of Jainology"
+        },
+        {
+          "topic_id": "D49.T013",
+          "title": "Jain Vishva Bharati"
+        },
+        {
+          "topic_id": "D49.T014",
+          "title": "University programs"
+        },
+        {
+          "topic_id": "D49.T015",
+          "title": "Student associations"
+        },
+        {
+          "topic_id": "D49.T016",
+          "title": "Youth organizations"
+        },
+        {
+          "topic_id": "D49.T017",
+          "title": "Online sanghas"
+        },
+        {
+          "topic_id": "D49.T018",
+          "title": "Traveling teachers"
+        },
+        {
+          "topic_id": "D49.T019",
+          "title": "Authority without resident mendicants"
+        },
+        {
+          "topic_id": "D49.T020",
+          "title": "Pathshala adaptation"
+        },
+        {
+          "topic_id": "D49.T021",
+          "title": "Language maintenance"
+        },
+        {
+          "topic_id": "D49.T022",
+          "title": "Interfaith participation"
+        },
+        {
+          "topic_id": "D49.T023",
+          "title": "Civic engagement"
+        },
+        {
+          "topic_id": "D49.T024",
+          "title": "Dietary access"
+        },
+        {
+          "topic_id": "D49.T025",
+          "title": "Funerals abroad"
+        },
+        {
+          "topic_id": "D49.T026",
+          "title": "Marriage change"
+        },
+        {
+          "topic_id": "D49.T027",
+          "title": "Community archives"
+        },
+        {
+          "topic_id": "D49.T028",
+          "title": "Oral history"
+        },
+        {
+          "topic_id": "D49.T029",
+          "title": "Global philanthropy"
+        },
+        {
+          "topic_id": "D49.T030",
+          "title": "Digital practice"
+        },
+        {
+          "topic_id": "D49.T031",
+          "title": "Institution verification"
+        }
+      ]
+    },
+    {
+      "domain_id": "D50",
+      "domain": "Research methods and source criticism",
+      "purpose": "Provide a complete, source-aware learning domain for research methods and source criticism, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D50.T001",
+          "title": "Primary sources"
+        },
+        {
+          "topic_id": "D50.T002",
+          "title": "Traditional sources"
+        },
+        {
+          "topic_id": "D50.T003",
+          "title": "Secondary sources"
+        },
+        {
+          "topic_id": "D50.T004",
+          "title": "Critical editions"
+        },
+        {
+          "topic_id": "D50.T005",
+          "title": "Translations"
+        },
+        {
+          "topic_id": "D50.T006",
+          "title": "Commentaries"
+        },
+        {
+          "topic_id": "D50.T007",
+          "title": "Catalogs"
+        },
+        {
+          "topic_id": "D50.T008",
+          "title": "Inscriptions"
+        },
+        {
+          "topic_id": "D50.T009",
+          "title": "Archaeology"
+        },
+        {
+          "topic_id": "D50.T010",
+          "title": "Art history"
+        },
+        {
+          "topic_id": "D50.T011",
+          "title": "Ethnography"
+        },
+        {
+          "topic_id": "D50.T012",
+          "title": "Oral history"
+        },
+        {
+          "topic_id": "D50.T013",
+          "title": "Community publications"
+        },
+        {
+          "topic_id": "D50.T014",
+          "title": "Peer review"
+        },
+        {
+          "topic_id": "D50.T015",
+          "title": "Sectarian sources"
+        },
+        {
+          "topic_id": "D50.T016",
+          "title": "Colonial scholarship"
+        },
+        {
+          "topic_id": "D50.T017",
+          "title": "Orientalist framing"
+        },
+        {
+          "topic_id": "D50.T018",
+          "title": "Modern apologetics"
+        },
+        {
+          "topic_id": "D50.T019",
+          "title": "ISBN"
+        },
+        {
+          "topic_id": "D50.T020",
+          "title": "OCLC"
+        },
+        {
+          "topic_id": "D50.T021",
+          "title": "LCCN"
+        },
+        {
+          "topic_id": "D50.T022",
+          "title": "DOI"
+        },
+        {
+          "topic_id": "D50.T023",
+          "title": "Persistent URLs"
+        },
+        {
+          "topic_id": "D50.T024",
+          "title": "Page citations"
+        },
+        {
+          "topic_id": "D50.T025",
+          "title": "Verse citations"
+        },
+        {
+          "topic_id": "D50.T026",
+          "title": "Date confidence"
+        },
+        {
+          "topic_id": "D50.T027",
+          "title": "Authorship uncertainty"
+        },
+        {
+          "topic_id": "D50.T028",
+          "title": "Citation verification"
+        },
+        {
+          "topic_id": "D50.T029",
+          "title": "Rights verification"
+        },
+        {
+          "topic_id": "D50.T030",
+          "title": "Corrections"
+        },
+        {
+          "topic_id": "D50.T031",
+          "title": "Source diversity"
+        },
+        {
+          "topic_id": "D50.T032",
+          "title": "Expert review"
+        },
+        {
+          "topic_id": "D50.T033",
+          "title": "Conflict of interest"
+        },
+        {
+          "topic_id": "D50.T034",
+          "title": "Living-person privacy"
+        },
+        {
+          "topic_id": "D50.T035",
+          "title": "Versioned scope"
+        },
+        {
+          "topic_id": "D50.T036",
+          "title": "Coverage metrics"
+        },
+        {
+          "topic_id": "D50.T037",
+          "title": "Known unknowns"
+        },
+        {
+          "topic_id": "D50.T038",
+          "title": "No fabricated consensus"
+        }
+      ]
+    },
+    {
+      "domain_id": "D51",
+      "domain": "Digital library engineering",
+      "purpose": "Provide a complete, source-aware learning domain for digital library engineering, with tradition notes, primary sources, and review requirements.",
+      "topics": [
+        {
+          "topic_id": "D51.T001",
+          "title": "Work records"
+        },
+        {
+          "topic_id": "D51.T002",
+          "title": "Edition records"
+        },
+        {
+          "topic_id": "D51.T003",
+          "title": "Manuscript records"
+        },
+        {
+          "topic_id": "D51.T004",
+          "title": "Translation records"
+        },
+        {
+          "topic_id": "D51.T005",
+          "title": "File records"
+        },
+        {
+          "topic_id": "D51.T006",
+          "title": "Stable IDs"
+        },
+        {
+          "topic_id": "D51.T007",
+          "title": "Slugs"
+        },
+        {
+          "topic_id": "D51.T008",
+          "title": "Aliases"
+        },
+        {
+          "topic_id": "D51.T009",
+          "title": "TEI XML"
+        },
+        {
+          "topic_id": "D51.T010",
+          "title": "IIIF"
+        },
+        {
+          "topic_id": "D51.T011",
+          "title": "OCR"
+        },
+        {
+          "topic_id": "D51.T012",
+          "title": "HTR"
+        },
+        {
+          "topic_id": "D51.T013",
+          "title": "Normalization"
+        },
+        {
+          "topic_id": "D51.T014",
+          "title": "Passage identifiers"
+        },
+        {
+          "topic_id": "D51.T015",
+          "title": "Parallel alignment"
+        },
+        {
+          "topic_id": "D51.T016",
+          "title": "Variant apparatus"
+        },
+        {
+          "topic_id": "D51.T017",
+          "title": "Full-text search"
+        },
+        {
+          "topic_id": "D51.T018",
+          "title": "Facets"
+        },
+        {
+          "topic_id": "D51.T019",
+          "title": "Indic tokenization"
+        },
+        {
+          "topic_id": "D51.T020",
+          "title": "Diacritic-insensitive search"
+        },
+        {
+          "topic_id": "D51.T021",
+          "title": "Search ranking"
+        },
+        {
+          "topic_id": "D51.T022",
+          "title": "Knowledge graph"
+        },
+        {
+          "topic_id": "D51.T023",
+          "title": "Citation export"
+        },
+        {
+          "topic_id": "D51.T024",
+          "title": "BibTeX"
+        },
+        {
+          "topic_id": "D51.T025",
+          "title": "CSL-JSON"
+        },
+        {
+          "topic_id": "D51.T026",
+          "title": "Rights metadata"
+        },
+        {
+          "topic_id": "D51.T027",
+          "title": "Checksums"
+        },
+        {
+          "topic_id": "D51.T028",
+          "title": "Fixity"
+        },
+        {
+          "topic_id": "D51.T029",
+          "title": "Backups"
+        },
+        {
+          "topic_id": "D51.T030",
+          "title": "Version control"
+        },
+        {
+          "topic_id": "D51.T031",
+          "title": "Offline first"
+        },
+        {
+          "topic_id": "D51.T032",
+          "title": "Raspberry Pi performance"
+        },
+        {
+          "topic_id": "D51.T033",
+          "title": "Lazy loading"
+        },
+        {
+          "topic_id": "D51.T034",
+          "title": "Static generation"
+        },
+        {
+          "topic_id": "D51.T035",
+          "title": "Accessibility"
+        },
+        {
+          "topic_id": "D51.T036",
+          "title": "Multilingual interface"
+        },
+        {
+          "topic_id": "D51.T037",
+          "title": "Review dashboard"
+        },
+        {
+          "topic_id": "D51.T038",
+          "title": "Correction history"
+        },
+        {
+          "topic_id": "D51.T039",
+          "title": "Validation"
+        },
+        {
+          "topic_id": "D51.T040",
+          "title": "Broken-link checking"
+        },
+        {
+          "topic_id": "D51.T041",
+          "title": "Interoperability"
+        },
+        {
+          "topic_id": "D51.T042",
+          "title": "Long-term migration"
+        }
+      ]
+    },
+    {
+      "domain_id": "D52",
+      "domain": "Source-grounded AI teachers and advice safeguards",
+      "purpose": "Design expert-depth study assistants without impersonation, coercion, or false religious authority.",
+      "topics": [
+        {
+          "topic_id": "D52.T001",
+          "title": "Retrieval-augmented generation"
+        },
+        {
+          "topic_id": "D52.T002",
+          "title": "Verified-corpus-only mode"
+        },
+        {
+          "topic_id": "D52.T003",
+          "title": "Primary-source-only mode"
+        },
+        {
+          "topic_id": "D52.T004",
+          "title": "Commentary mode"
+        },
+        {
+          "topic_id": "D52.T005",
+          "title": "Modern scholarship mode"
+        },
+        {
+          "topic_id": "D52.T006",
+          "title": "Tradition selector"
+        },
+        {
+          "topic_id": "D52.T007",
+          "title": "Cross-tradition comparison"
+        },
+        {
+          "topic_id": "D52.T008",
+          "title": "Depth controls"
+        },
+        {
+          "topic_id": "D52.T009",
+          "title": "Original-text citation"
+        },
+        {
+          "topic_id": "D52.T010",
+          "title": "Edition citation"
+        },
+        {
+          "topic_id": "D52.T011",
+          "title": "Passage citation"
+        },
+        {
+          "topic_id": "D52.T012",
+          "title": "Quote versus paraphrase"
+        },
+        {
+          "topic_id": "D52.T013",
+          "title": "Translation confidence"
+        },
+        {
+          "topic_id": "D52.T014",
+          "title": "Conflicting sources"
+        },
+        {
+          "topic_id": "D52.T015",
+          "title": "Uncertainty"
+        },
+        {
+          "topic_id": "D52.T016",
+          "title": "No invented verses"
+        },
+        {
+          "topic_id": "D52.T017",
+          "title": "No invented rulings"
+        },
+        {
+          "topic_id": "D52.T018",
+          "title": "No impersonation"
+        },
+        {
+          "topic_id": "D52.T019",
+          "title": "No claim to be a Maharaj Saheb"
+        },
+        {
+          "topic_id": "D52.T020",
+          "title": "Teacher-profile transparency"
+        },
+        {
+          "topic_id": "D52.T021",
+          "title": "Human review"
+        },
+        {
+          "topic_id": "D52.T022",
+          "title": "Religious authority escalation"
+        },
+        {
+          "topic_id": "D52.T023",
+          "title": "Medical escalation"
+        },
+        {
+          "topic_id": "D52.T024",
+          "title": "Mental-health escalation"
+        },
+        {
+          "topic_id": "D52.T025",
+          "title": "Legal escalation"
+        },
+        {
+          "topic_id": "D52.T026",
+          "title": "Financial escalation"
+        },
+        {
+          "topic_id": "D52.T027",
+          "title": "Fasting safety"
+        },
+        {
+          "topic_id": "D52.T028",
+          "title": "Sallekhana refusal"
+        },
+        {
+          "topic_id": "D52.T029",
+          "title": "Crisis response"
+        },
+        {
+          "topic_id": "D52.T030",
+          "title": "Advice versus information"
+        },
+        {
+          "topic_id": "D52.T031",
+          "title": "Context questions"
+        },
+        {
+          "topic_id": "D52.T032",
+          "title": "Nonjudgmental language"
+        },
+        {
+          "topic_id": "D52.T033",
+          "title": "No spiritual ranking"
+        },
+        {
+          "topic_id": "D52.T034",
+          "title": "No coercion"
+        },
+        {
+          "topic_id": "D52.T035",
+          "title": "Privacy minimization"
+        },
+        {
+          "topic_id": "D52.T036",
+          "title": "Audit logs"
+        },
+        {
+          "topic_id": "D52.T037",
+          "title": "Answer evaluation"
+        },
+        {
+          "topic_id": "D52.T038",
+          "title": "Scholar review"
+        },
+        {
+          "topic_id": "D52.T039",
+          "title": "Monastic review"
+        },
+        {
+          "topic_id": "D52.T040",
+          "title": "Community feedback"
+        },
+        {
+          "topic_id": "D52.T041",
+          "title": "Model governance"
+        }
+      ]
+    }
+  ]
+}

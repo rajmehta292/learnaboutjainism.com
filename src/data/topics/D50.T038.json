@@ -1,0 +1,43 @@
+{
+  "overview": "“No fabricated consensus” is a methodological principle within academic Jain studies and responsible religious interpretation that emphasizes the need to avoid presenting artificially unified views where the textual record, sectarian traditions, or commentarial lineages actually diverge. Jainism’s vast scriptural corpus—Agamas, Digambara canonical substitutes, Prakrit commentaries, Sanskrit treatises, and later scholastic works—contains many areas of agreement, but also numerous points of debate, variant readings, and doctrinal evolution. The principle of “no fabricated consensus” ensures that scholarship and guidance remain transparent about these differences.\n\nIn Jain studies, this principle is especially important because the tradition spans more than two millennia, multiple sects (Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, Terāpanth), and diverse linguistic strata (Ardhamāgadhī, Śaurasenī, Māhārāṣṭrī, Sanskrit). Texts often survive in multiple recensions, and commentaries may disagree on interpretation. For example, discussions of karma categories, gunasthāna transitions, vows for laypeople, and cosmological details frequently show variation across sources. A responsible guide must therefore present these differences rather than smoothing them into a single narrative.\n\nThe principle also protects against projecting modern assumptions onto ancient texts or merging distinct sectarian positions into a single “Jain view.” It encourages explicit citation, clear separation of quotation from interpretation, and acknowledgment of uncertainty or missing evidence. In practice, it means that when sources disagree, the disagreement is shown; when a passage is absent in one tradition, that absence is noted; and when a claim cannot be traced to a verified primary text, it is not presented as authoritative.\n\nUltimately, “no fabricated consensus” supports intellectual honesty, preserves the integrity of Jain traditions, and helps readers understand the richness and complexity of Jain thought without oversimplification.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (sectarian attribution varies)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct are the path to liberation.",
+      "notes": "This foundational aphorism is interpreted differently across Digambara and Śvetāmbara commentaries, illustrating the need to avoid fabricated consensus. Digambara commentators such as Pūjyapāda and Akalaṅka emphasize subtle distinctions in right conduct, while Śvetāmbara commentators like Siddhasena Gaṇin provide alternative nuances. Presenting these differences is essential for accurate scholarship."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "णं च देसं विणा णं च देसं विणा अणुव्वयन्ति",
+      "transliteration": "ṇaṃ ca desaṃ viṇā ṇaṃ ca desaṃ viṇā aṇuvvayanti",
+      "translation": "They interpret (teach) according to place and according to circumstance.",
+      "notes": "This passage highlights contextual interpretation within early Jain monastic discipline. Different recensions and commentaries show variation in phrasing and meaning, reinforcing the need to avoid presenting a single, uniform interpretation when the textual record is diverse."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Kundakunda tradition; compiled by Puṣpadanta and Bhūtabali",
+      "original_text": "कर्मप्रकृतयः जीवस्य स्वभावानुगता भवन्ति",
+      "transliteration": "karma-prakṛtayaḥ jīvasya svabhāvānugatā bhavanti",
+      "translation": "The karma categories follow the inherent dispositions of the soul.",
+      "notes": "Digambara karma theory is highly technical and differs in structure from Śvetāmbara karma taxonomies. Presenting one system as universally ‘Jain’ would violate the principle of no fabricated consensus."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain sects agree on every doctrinal point, so a single unified explanation is always possible.",
+      "reality": "Sectarian traditions preserve distinct textual canons, commentaries, and interpretations. Many topics—such as monastic nudity, scriptural preservation, karma categories, and cosmology—contain genuine differences that must be acknowledged rather than merged."
+    },
+    {
+      "myth": "If a modern summary presents a single view, it must reflect ancient consensus.",
+      "reality": "Modern summaries often simplify for accessibility. The historical record shows variation, lost texts, and competing interpretations. Responsible scholarship must cite sources and show disagreements."
+    },
+    {
+      "myth": "Disagreement within Jain texts indicates error or corruption.",
+      "reality": "Variation is normal in ancient Indian textual traditions. Jainism’s multi-sectarian, multi-lingual history naturally produces diverse readings. Recognizing this diversity enriches understanding rather than undermining it."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, the topic of “contracts” is not treated as a standalone doctrinal category in the primary canonical literature, yet contractual relationships appear implicitly within discussions of right conduct (*ācāra*), lay ethics (*śrāvakācāra*), and permissible economic activity. Jainism’s ethical framework—rooted in *ahiṃsā* (non‑violence), *satya* (truthfulness), *asteya* (non‑stealing), *brahmacarya* (chastity), and *aparigraha* (non‑possessiveness)—shapes how agreements, promises, and obligations are understood. Contracts, in a broad sense, are treated as moral commitments whose validity depends on truthful intention, non‑harm, and freedom from coercion.\n\nAcross Digambara and Śvetāmbara traditions, laypersons (*śrāvakas*) are permitted to engage in commerce, property ownership, and professional work. These activities naturally involve agreements—sales, loans, partnerships, and service obligations. Texts such as the *Ratnakaraṇḍa Śrāvakācāra* and *Upāsakadaśāh* emphasize that any form of economic exchange must avoid deceit, exploitation, or harm to living beings. Thus, a contract is ethically valid only when it aligns with *satya* and *asteya*, and when its execution does not violate *ahiṃsā*.\n\nJain canonical narratives also reference vows, pledges, and promises, which function as moral contracts. The *aṇu‑vratas* (small vows) taken by laypersons are binding commitments that structure ethical life. While these are not “contracts” in a legal sense, they illustrate how Jain thought treats obligations: they must be entered into voluntarily, upheld with sincerity, and never used to cause harm or restrict another’s autonomy.\n\nIn modern Jain ethics, contracts are discussed in relation to business conduct, professional responsibility, and social trust. Scholars highlight that Jain principles encourage transparent negotiation, fair terms, and compassionate enforcement. When conflicts arise, Jain tradition favors mediation, reconciliation, and non‑violent resolution rather than adversarial litigation. Overall, contracts in Jainism are best understood as ethical instruments whose legitimacy depends on alignment with the core virtues of non‑violence, honesty, and restraint.",
+  "primary_sources": [
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra",
+      "author": "Ācārya Samantabhadra (Digambara)",
+      "original_text": "सत्यं चानृतवर्जितम्",
+      "transliteration": "satyaṃ cānṛtavarjitam",
+      "translation": "Truth is that which is free from falsehood.",
+      "notes": "This passage is frequently cited in discussions of ethical commerce. Although the text does not explicitly mention contracts, commentators use this verse to argue that agreements must be truthful, transparent, and free from deceit."
+    },
+    {
+      "title": "Upāsakadaśāh (Śvetāmbara Canon)",
+      "author": "Attributed to the redactors of the Śvetāmbara Āgamas",
+      "original_text": "जेण भोगा भुञ्जइ, तं समं ददइ",
+      "transliteration": "jeṇa bhogā bhuñjaï, taṃ samaṃ dadaï",
+      "translation": "One who enjoys benefits must give in equal measure.",
+      "notes": "This passage appears in a narrative context describing reciprocal obligations. It is often interpreted as supporting fairness in agreements, partnerships, and economic exchanges."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmī",
+      "original_text": "अहिंसा सत्यास्तेय ब्रह्मचर्यापरिग्रहाः",
+      "transliteration": "ahiṃsā satyāsteya brahmacaryāparigrahāḥ",
+      "translation": "Non‑violence, truth, non‑stealing, chastity, and non‑possessiveness.",
+      "notes": "The five vows form the ethical basis for evaluating any human action, including contractual obligations. Commentaries emphasize that agreements must not violate these principles."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism prohibits all forms of contracts and business agreements.",
+      "reality": "Jain laypersons are permitted to engage in commerce and contractual relationships, provided these activities uphold non‑violence, honesty, and fairness."
+    },
+    {
+      "myth": "Contracts in Jainism are purely legal and unrelated to spiritual practice.",
+      "reality": "Jain ethics treats agreements as moral commitments. Their validity depends on truthful intention, non‑harm, and freedom from coercion, making them part of ethical and spiritual life."
+    },
+    {
+      "myth": "Jain texts provide detailed legal frameworks for contracts similar to modern law codes.",
+      "reality": "Primary Jain scriptures do not outline legal contract structures. Instead, they provide ethical principles that guide how agreements should be formed and honored."
+    }
+  ]
+}

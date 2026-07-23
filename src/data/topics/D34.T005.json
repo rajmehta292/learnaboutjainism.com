@@ -1,0 +1,51 @@
+{
+  "overview": "Post‑Mauryan Jainism refers to the historical, literary, and institutional developments of the Jain tradition after the decline of the Mauryan Empire (c. 185 BCE). This period marks a transition from the pan‑Indian political unity under Emperor Aśoka and his successors to a landscape of regional kingdoms, shifting trade networks, and evolving religious communities. For Jainism, the Post‑Mauryan era is crucial because it witnessed the consolidation of sectarian identities, the expansion of monastic lineages, the formation of canonical corpora, and the spread of Jain communities across western, central, and southern India.\n\nIn western India, particularly in regions such as Gujarat, Rajasthan, and Malwa, Jain communities benefited from the rise of mercantile guilds and urban centers. Patronage from traders and local rulers supported the construction of early temples, manuscript copying, and monastic settlements. The Śvetāmbara tradition gradually systematized its canon, culminating in the council at Valabhī (traditionally dated to the 5th–6th century CE), where texts such as the Āgamas were redacted and organized. This period also saw the emergence of influential teachers and commentarial traditions that shaped Śvetāmbara doctrine and practice.\n\nIn contrast, the Digambara tradition developed along different trajectories in central and southern India. After the decline of Mauryan authority, regions such as Karnataka, Vidarbha, and Bundelkhand became strongholds of Digambara monasticism. The composition of foundational Digambara texts—including the *Ṣaṭkhaṇḍāgama* and *Kaṣāyapāhuda*—occurred in this era, reflecting a distinct doctrinal and literary lineage. Royal patronage from dynasties such as the Kadambas, Chalukyas, and later the Rashtrakutas enabled the construction of major Jain sites, including early cave temples and monumental sculptures.\n\nThe Post‑Mauryan period also marks the beginning of clearer sectarian differentiation. While the historical processes were gradual and complex, differences in monastic discipline, scriptural preservation, and ritual practice became increasingly visible. These developments were not abrupt schisms but long-term evolutions shaped by geography, lineage, and textual transmission. The era also produced significant philosophical works, including treatises on logic, epistemology, and karma theory, which contributed to Jainism’s engagement with broader Indian intellectual traditions.\n\nOverall, Post‑Mauryan Jainism represents a formative epoch in which the tradition adapted to new political realities, strengthened its institutional foundations, and produced many of the texts and practices that continue to define Jain communities today.",
+  "primary_sources": [
+    {
+      "title": "Āyāraṅga (Ācārāṅga) Sutta",
+      "author": "Traditionally attributed to early Jain monastic communities",
+      "original_text": "ṇaṁ se bhikkhūṇaṁ icchāmi savve jīvā viṇāsiya",
+      "transliteration": "ṇaṁ se bhikkhūṇaṁ icchāmi savve jīvā viṇāsiya",
+      "translation": "“Thus do I say to the monks: all living beings should not be harmed.”",
+      "notes": "A Śvetāmbara canonical text whose redaction is traditionally associated with the Post‑Mauryan period, especially through councils that preserved and organized early teachings."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama",
+      "author": "Kundakunda lineage; compiled by Puṣpadanta and Bhūtabali",
+      "original_text": "jīvā ajīvā ceva bhāvā bhāvā ya pañcavihā",
+      "transliteration": "jīvā ajīvā ceva bhāvā bhāvā ya pañcavihā",
+      "translation": "“Living beings and non‑living entities, and their states and conditions, are of five kinds.”",
+      "notes": "A foundational Digambara scripture whose compilation is dated to the early centuries CE, reflecting doctrinal developments in the Post‑Mauryan era."
+    },
+    {
+      "title": "Kaṣāyapāhuda",
+      "author": "Śivārya",
+      "original_text": "kaṣāyāṇaṁ nivvāṇaṁ mokkhamaggaṁ vadanti",
+      "transliteration": "kaṣāyāṇaṁ nivvāṇaṁ mokkhamaggaṁ vadanti",
+      "translation": "“The cessation of passions is said to be the path to liberation.”",
+      "notes": "An early Digambara text focusing on the psychology of passions and their role in bondage, composed in the centuries following the Mauryan decline."
+    },
+    {
+      "title": "Samavāyāṅga Sutta",
+      "author": "Śvetāmbara canonical tradition",
+      "original_text": "samavāyaṁ bhaṇāmi",
+      "transliteration": "samavāyaṁ bhaṇāmi",
+      "translation": "“I speak of the enumerations.”",
+      "notes": "A text concerned with numerical and cosmological classifications, preserved in Śvetāmbara collections that were systematized in the Post‑Mauryan period."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain sects split suddenly and decisively immediately after the Mauryan Empire.",
+      "reality": "Historical evidence shows a gradual evolution of regional practices, textual transmission differences, and monastic disciplines over several centuries. Sectarian identities became clearly defined only in the early medieval period."
+    },
+    {
+      "myth": "Post‑Mauryan Jainism declined due to loss of imperial patronage.",
+      "reality": "While Mauryan support ended, Jain communities adapted successfully to regional political structures, receiving significant patronage from local rulers, merchant guilds, and urban centers."
+    },
+    {
+      "myth": "All Jain canonical texts were finalized during the Mauryan era.",
+      "reality": "Many foundational texts—especially Digambara scriptures and Śvetāmbara redactions—were compiled, organized, or systematized in the centuries after the Mauryan period."
+    }
+  ]
+}

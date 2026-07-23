@@ -1,0 +1,63 @@
+{
+  "overview": "In Jain philosophical vocabulary, the triad of **origination (utpāda)**, **cessation (vyaya)**, and **permanence (dhrauvya)** is a foundational doctrine used to explain how substances (dravya) undergo change while retaining their essential identity. This framework appears across both Digambara and Śvetāmbara traditions and is treated as a core analytical tool for understanding reality, karma, and the path to liberation.\n\nJain ontology asserts that every real entity possesses **three inseparable characteristics** at every moment: it is *coming into being* in some respect, *passing away* in another respect, and *enduring* in its fundamental nature. This is not a temporal sequence but a simultaneous condition. The doctrine is used to reconcile the apparent contradiction between permanence and change: substances are permanent in their essential nature (svabhāva) but constantly changing in their modes (paryāya).\n\nIn classical Jain logic (anekāntavāda and syādvāda), this triad supports multi-perspectival reasoning. A substance can be described as permanent from the standpoint of its underlying essence, transient from the standpoint of its modes, and both permanent and transient when considering the full complexity of its existence. This avoids absolutist claims and allows for nuanced metaphysical analysis.\n\nIn karma theory, origination and cessation explain how karmic states arise and fall away moment by moment, while permanence explains the enduring capacity of the soul (jīva) to experience these changes without losing its essential qualities of consciousness and energy. In cosmology, the triad is used to describe the functioning of time, matter, and motion. In ethics, it underpins the understanding that actions generate new karmic states (origination), old karmic states dissipate (cessation), and the soul’s pure nature remains fundamentally intact (permanence).\n\nAcross traditions, the triad is treated as a universal law of reality. Digambara authors often emphasize its role in technical metaphysics and modal analysis, while Śvetāmbara commentators highlight its importance for understanding the nature of liberation and the continuity of the soul. Despite interpretive differences, the core meaning remains stable: reality is dynamic yet enduring, and understanding this triad is essential for grasping Jain ontology.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (shared across traditions)",
+      "original_text": "उत्पादव्ययध्रौव्ययुक्तं सत्",
+      "transliteration": "utpāda-vyaya-dhrauvya-yuktaṃ sat",
+      "translation": "“That which is characterized by origination, cessation, and permanence is real.”",
+      "notes": "Tattvārtha Sūtra 5.29 is the most frequently cited canonical definition of reality in Jainism. The sutra is accepted by both Digambara and Śvetāmbara traditions, though commentarial interpretations differ slightly. It establishes the triad as the defining mark of existence."
+    },
+    {
+      "title": "Pañcāstikāya",
+      "author": "Kundakunda (Digambara)",
+      "original_text": "उप्पादो विगमो धाउव्वं तहा भावो",
+      "transliteration": "uppādo vigamo dhāuvvaṃ tahā bhāvo",
+      "translation": "“Origination, dissolution, and permanence—thus is the nature (bhāva) of substances.”",
+      "notes": "Kundakunda’s Prakrit exposition elaborates the modal structure of substances. His works emphasize that permanence refers to the essential nature, while origination and cessation refer to modes."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Nemicandra Siddhānta Cakravartin (Digambara)",
+      "original_text": "उप्पादविगमधाउव्वलक्षणं दव्वं",
+      "transliteration": "uppāda-vigama-dhāuvva-lakkhaṇaṃ davvaṃ",
+      "translation": "“A substance is that which possesses the characteristics of origination, cessation, and permanence.”",
+      "notes": "A concise Digambara primer that reiterates the triad as the defining characteristic of dravya. Often used in monastic and lay education."
+    },
+    {
+      "title": "Prameya-kamala-mārtaṇḍa",
+      "author": "Prabhācandra (Digambara)",
+      "original_text": "सत् त्रिलक्षणं—उत्पादव्ययध्रौव्ययुक्तम्",
+      "transliteration": "sat trilakṣaṇaṃ—utpāda-vyaya-dhrauvya-yuktam",
+      "translation": "“The real has three characteristics—origination, cessation, and permanence.”",
+      "notes": "A detailed commentary on Tattvārtha Sūtra that provides technical explanations of modal change and substance permanence."
+    },
+    {
+      "title": "Tattvārtha Sūtra Commentaries (Śvetāmbara)",
+      "author": "Śrī Pūjyapāda, Siddhasena Gaṇi, and others",
+      "original_text": "उत्पादो नवभावोत्पत्तिः, व्ययः पुरातनभावनाशः, ध्रौव्यं स्वभावनित्यत्वम्",
+      "transliteration": "utpādo nava-bhāva-utpattiḥ, vyayaḥ purātana-bhāva-nāśaḥ, dhrauvyaṃ svabhāva-nityatvam",
+      "translation": "“Origination is the arising of a new mode; cessation is the disappearance of an old mode; permanence is the constancy of the essential nature.”",
+      "notes": "Śvetāmbara commentators emphasize the distinction between modes (bhāva/paryāya) and substance (dravya), clarifying how change and permanence coexist."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Origination, cessation, and permanence describe three separate phases in time.",
+      "reality": "Jain texts insist these three characteristics occur simultaneously in every moment. A substance is always undergoing change in its modes while remaining permanent in its essence."
+    },
+    {
+      "myth": "Permanence means that substances never change.",
+      "reality": "Permanence refers only to the essential nature (svabhāva) of a substance. Its modes (paryāya) change constantly, which is why origination and cessation are equally essential characteristics."
+    },
+    {
+      "myth": "The triad is only relevant for metaphysics and has no ethical significance.",
+      "reality": "The triad is central to karma theory and liberation. Understanding how karmic states arise and fall away helps explain spiritual progress, while permanence affirms the soul’s enduring purity."
+    },
+    {
+      "myth": "The doctrine is interpreted identically across all Jain traditions.",
+      "reality": "While the core meaning is shared, Digambara and Śvetāmbara commentaries differ in emphasis—Digambara texts often focus on modal analysis, while Śvetāmbara works highlight implications for liberation and epistemology."
+    }
+  ]
+}

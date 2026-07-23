@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, taxation is primarily a topic within historical, economic, and ethical analysis rather than a doctrinal category. Jain canonical literature does not present a systematic theory of state taxation, because the earliest strata of Jain texts (Āgamas and Śāstras) focus on spiritual discipline, karma theory, monastic conduct, and lay ethics rather than political economy. However, taxation appears indirectly in discussions of righteous kingship (rājadharma), non‑violence in governance, and the ethical obligations of householders. Later commentarial and historical sources provide additional context for how Jain communities interacted with taxation systems in ancient and medieval India.\n\nFrom an ethical standpoint, Jainism emphasizes *ahiṃsā* (non‑violence), *satya* (truthfulness), *asteya* (non‑stealing), and *aparigraha* (non‑possessiveness). These principles shape Jain reflections on taxation: taxes should not be exploitative, violent, or deceptive; they should support social welfare without encouraging attachment or harm. Laypersons are expected to engage in honest economic activity and fulfill civic duties, including lawful taxation, provided these duties do not violate core vows.\n\nHistorically, Jain communities—especially merchant groups—played significant roles in regional economies. In inscriptions from Gujarat, Rajasthan, Karnataka, and Tamil Nadu, Jains appear as donors, guild leaders, and administrators who interacted with state revenue systems. Medieval Jain texts occasionally mention taxation in the context of royal generosity, exemptions granted to temples or guilds, and the ethical responsibilities of rulers.\n\nIn modern Jain ethics, taxation is discussed in relation to corporate responsibility, wealth distribution, and non‑violent economic systems. Scholars examine how Jain values can inform contemporary debates on fair taxation, welfare policy, and sustainable economic structures. While Jainism does not prescribe a specific tax model, its moral framework provides guidance for evaluating the justice and impact of taxation practices.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं च देयं, णं चादेयं",
+      "transliteration": "ṇaṃ ca deyaṃ, ṇaṃ cādeyaṃ",
+      "translation": "“One should give what is to be given, and not take what is not to be taken.”",
+      "notes": "This passage (Ācārāṅga Sūtra 1.4) concerns ethical conduct and non‑stealing. While not about taxation directly, traditional commentators (tier B) use it to frame lay obligations, including lawful dues, as part of ethical giving and non‑appropriation."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "राजा धम्मेण रक्खति",
+      "transliteration": "rājā dhammeṇa rakkhati",
+      "translation": "“A king protects through righteousness.”",
+      "notes": "This verse (Sūtrakṛtāṅga 2.2) describes ideal kingship. Commentaries note that righteous governance includes fair collection of resources without violence or exploitation."
+    },
+    {
+      "title": "Nītiśāstra sections in Hemacandra’s *Triṣaṣṭiśalākāpuruṣacaritra*",
+      "author": "Hemacandra (12th century)",
+      "original_text": "धर्मलाभार्थं राज्ञां करग्रहणम्",
+      "transliteration": "dharmalābhārthaṃ rājñāṃ karagrahaṇam",
+      "translation": "“The taking of taxes by kings is for the attainment of righteous order.”",
+      "notes": "Hemacandra’s narrative includes reflections on just rule. Although not a canonical prescription, it is a tier B traditional commentary illustrating Jain views on ethical taxation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism prohibits taxation because it discourages possession and wealth.",
+      "reality": "Jainism discourages excessive attachment, not lawful civic duties. Laypersons are expected to participate ethically in society, including paying fair taxes that do not involve violence or exploitation."
+    },
+    {
+      "myth": "Jain texts provide a detailed economic model for how governments should tax citizens.",
+      "reality": "Primary Jain scriptures focus on spiritual discipline, not political economy. Discussions of taxation arise indirectly through teachings on righteous kingship and ethical conduct."
+    },
+    {
+      "myth": "Jain merchants historically avoided taxation due to religious principles.",
+      "reality": "Historical inscriptions show Jain communities actively participating in state revenue systems, often receiving recognition for their economic contributions and philanthropy."
+    }
+  ]
+}

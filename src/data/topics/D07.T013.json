@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, **quasi‑passions** (Sanskrit: *no‑kaṣāya*, Prakrit: *no‑kaṣāya*) are subtle, secondary emotional states that accompany and reinforce the four primary passions (*kaṣāya*: anger, pride, deceit, greed). While the primary passions directly bind the most intense forms of karma, quasi‑passions operate as supporting mental dispositions that shape behavior, weaken self‑restraint, and create conditions in which the major passions can arise more easily.\n\nQuasi‑passions are described in both Śvetāmbara and Digambara canonical and commentarial traditions as **behavioral tendencies** rather than full-blown emotional eruptions. They include states such as laughter, liking, disliking, sorrow, fear, disgust, and sexual arousal. These are not condemned as inherently immoral; rather, they are analyzed as **psychological forces** that can disturb equanimity and contribute to karmic bondage when they become habitual or uncontrolled.\n\nThe classical lists vary slightly across traditions, but the most common enumeration identifies **fourteen quasi-passions** grouped into categories: (1) *hāsya* (laughter), (2) *rati* (liking), (3) *arati* (disliking), (4) *śoka* (sorrow), (5) *bhaya* (fear), (6) *jugupsā* (disgust), and (7–14) eight forms of *veda* (sexual or sensual arousal). These dispositions are considered weaker than the primary passions but still potent enough to obstruct the path toward right conduct (*samyak cāritra*) and higher spiritual stages (*guṇasthāna*).\n\nIn the technical analysis of karma, quasi-passions are especially important because they bind **body‑making karma**, **physique‑making karma**, and **status‑determining karma**, shaping the future embodiment of the soul. They also influence the soul’s movement through the middle guṇasthānas, where subtle mental impurities must be reduced before the aspirant can attain the passionless states required for liberation.\n\nModern Jain scholarship interprets quasi-passions as part of a sophisticated psychological framework. They represent the nuanced understanding that spiritual progress requires not only overcoming intense emotions but also cultivating awareness of subtle habits, preferences, and aversions that condition human behavior. Their study is therefore central to Jain ethics, meditation, and the broader theory of karmic bondage.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "हास्यरतिारति-शोकभयजुगुप्सा वेदा नोकषायाः",
+      "transliteration": "hāsya‑rati‑ārati‑śoka‑bhaya‑jugupsā vedā nokṣāyāḥ",
+      "translation": "Laughter, liking, disliking, sorrow, fear, disgust, and the sensual arousals are the quasi‑passions.",
+      "notes": "Tattvārtha Sūtra 8.10 is the most widely cited canonical definition. Digambara and Śvetāmbara commentaries agree on the general list, though they differ in the classification of the eight *veda* subtypes."
+    },
+    {
+      "title": "Praśamarati",
+      "author": "Śāntarakṣita (Śvetāmbara)",
+      "original_text": "हास्यादयो नोकषाया मनोवृत्तिविशेषाः",
+      "transliteration": "hāsyādayo nokṣāyā manovṛtti‑viśeṣāḥ",
+      "translation": "Laughter and the other quasi‑passions are particular modifications of the mind.",
+      "notes": "This text emphasizes the psychological nature of quasi-passions, framing them as subtle mental movements rather than overt moral faults."
+    },
+    {
+      "title": "Gommaṭasāra (Karmakāṇḍa)",
+      "author": "Nemicandra Siddhānta Cakravartin (Digambara)",
+      "original_text": "हास्यादि नोकषायाः शरीरनिर्माणकर्म बध्नन्ति",
+      "transliteration": "hāsyādi nokṣāyāḥ śarīra‑nirmāṇa‑karma badhnanti",
+      "translation": "Quasi‑passions such as laughter bind the body‑making karmas.",
+      "notes": "A key Digambara source explaining how quasi-passions influence karmic embodiment."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Quasi-passions are sinful emotions that must be completely eliminated by all laypeople.",
+      "reality": "Primary texts describe quasi-passions as subtle mental dispositions, not sins. Laypeople are expected to regulate them, not eradicate them entirely. Full elimination is associated with advanced ascetic stages."
+    },
+    {
+      "myth": "Quasi-passions are as harmful as the four major passions.",
+      "reality": "They are considered weaker and bind less intense karma. However, they can support or trigger major passions if left unchecked."
+    },
+    {
+      "myth": "All forms of laughter or liking are quasi-passions and therefore spiritually harmful.",
+      "reality": "Texts distinguish between spontaneous, harmless emotions and those rooted in attachment or aversion. Only the latter contribute to karmic bondage."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "overview": "In Jain cosmology, the \"shape of the universe\" (loka-rūpa) is a central doctrinal topic that connects metaphysics, ethics, and soteriology. The universe is understood as beginningless and uncreated, composed of eternal substances (dravya) such as soul (jīva), matter (pudgala), space (ākāśa), the media of motion and rest (dharma, adharma), and time (kāla). Within infinite space, only a finite, inhabited region is called lokākāśa, the \"space of the universe\"; beyond it stretches alokākāśa, the uninhabited, infinite expanse. The discussion of \"universe shape\" in Jainism therefore concerns the finite lokākāśa, not the entirety of space.\n\nClassical Jain texts describe lokākāśa as having a distinctive, highly structured form. It is often compared to a human figure standing with legs apart and hands on the waist (lokapuruṣa), or to an hourglass or three-bowl vessel (tri-śrava-saṃpuṭa). In side view, commentators liken it to one and a half mṛdaṅga drums placed together. This form is broad at the bottom, narrow in the middle, and broad again in the upper regions. The inhabited universe is vertically divided into three great realms: adho-loka (lower world, the hells), madhya-loka (middle world, the region of humans, animals, plants, and terrestrial bodies), and ūrdhva-loka (upper world, the heavens and, at the very top, the abode of liberated souls). The shape is not treated as a mere symbol but as a precise cosmographical map with fixed dimensions.\n\nThe finite universe is measured in enormous units called rajju. Textual traditions describe the height of lokākāśa as fourteen rajjus, with a constant width of seven rajjus from north to south. The lower world occupies almost seven rajjus in height, the middle world forms a narrow band at the \"waist\" of the cosmic figure, and the upper world rises through multiple heavenly tiers until it reaches the region just below the siddha-śilā, the \"crest\" where liberated souls abide. Detailed Digambara and Śvetāmbara cosmological treatises calculate the volume of the universe in cubic rajjus and specify how width changes at different heights—for example, one rajju wide at the base of the upper world, expanding to five rajjus around the Brahma-loka region, and narrowing again near the top.\n\nJain authors emphasize that this universe is self-regulating and not created or destroyed by any deity. Its shape and structure are considered eternal features of reality, even though the conditions within it—such as the cycles of time, the distribution of beings, and the moral climate—undergo vast periodic changes. The threefold vertical division into lower, middle, and upper worlds is closely tied to the ethical and spiritual journey of souls: beings fall into the lower realms through heavy demerit, wander through the middle realms in mixed conditions, or rise into the upper realms through merit, and finally transcend the entire structure by attaining liberation and dwelling at the top of the universe beyond the reach of karmic bondage.\n\nCosmological diagrams such as the lokākāśa or lokapuruṣa are preserved in manuscripts, temple paintings, and stone carvings. They depict the hourglass or cosmic-man shape with labeled regions for hells, continents and oceans of the middle world (including Jambūdvīpa and the surrounding rings), and the successive heavens of the upper world. These visual representations serve both as doctrinal summaries and as meditative aids, reminding practitioners that every action reverberates across a vast, ordered cosmos filled with living beings. While modern astronomy describes a physical universe with expanding space and galaxies, Jain cosmology focuses on the moral and spiritual geography of a finite, structured loka within infinite space, using its distinctive shape to express the pathways of bondage and liberation.\n\nDifferent sectarian and scholastic traditions within Jainism—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanthī—accept the basic hourglass or cosmic-man shape of the universe, though they may differ in some numerical details, diagrammatic conventions, or interpretive emphasis. Technical treatises elaborate the geometry of the loka, while narrative texts and sermons highlight its ethical implications. Across these traditions, the universe’s shape is not a topic of speculative curiosity alone; it is a framework for understanding where beings reside, how karma moves them, and why non-violence and restraint are necessary in a cosmos densely populated with life.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra (also called Mokṣa-śāstra)",
+      "author": "Umāsvāti / Umāsvāmi (traditionally)",
+      "original_text": "लोकः स्वर्गनरकमनुष्यतिर्यग्योनिविशिष्टः।",
+      "transliteration": "lokaḥ svarga-naraka-manuṣya-tiryag-yoni-viśiṣṭaḥ.",
+      "translation": "The universe (loka) is distinguished by the abodes of heavens, hells, humans, and animals.",
+      "notes": "Tattvārtha Sūtra is a foundational Sanskrit compendium accepted by both Digambara and Śvetāmbara traditions. In its cosmology chapters (especially around 3.1 and following), it defines loka as the inhabited region of space containing the three worlds. While the text is concise and does not give a full geometric description, later commentaries use this definition as the basis for elaborating the vertical division into adho-loka, madhya-loka, and ūrdhva-loka and for connecting these realms to the overall shape of the universe."
+    },
+    {
+      "title": "Tiloya Paṇṇatti (Triloka-prajñapti)",
+      "author": "Yativṛṣabha (Digambara tradition)",
+      "original_text": "जग्गं तिहोवग्गं लोयक्खासं तु वि लोयपुरिससङ्खं। पादो वि तस्स अधो लोओ मज्झो मनुस्सलोओ उव्वो।",
+      "transliteration": "jaggaṃ tihovaggaṃ loyakkhāsaṃ tu vi loyapurisa-saṅkhaṃ; pādo vi tassa adho loō majjho manussaloō uvvo.",
+      "translation": "The world is threefold, called the space of the universe, and is likened to a cosmic person. His feet are the lower world, the middle is the human world, and the upper is above.",
+      "notes": "Tiloya Paṇṇatti, a Prakrit cosmological treatise, gives one of the clearest early descriptions of the universe as a \"lokapuruṣa\"—a cosmic man. It explicitly divides the universe into three vertical regions and uses the human-body analogy to convey its shape. Later Digambara authors draw on this text to specify the hourglass-like form and to relate the lower, middle, and upper worlds to different parts of the cosmic figure."
+    },
+    {
+      "title": "Gommaṭasāra Jīva-kāṇḍa",
+      "author": "Nemichandra Siddhānta Cakravartin (Digambara)",
+      "original_text": "चतुर्दशरज्जुच्छित्तो लोको निच्चो न निरोहो नोत्पत्तिः। सप्तरज्जुच्छित्तो तु तस्स विहडो लोयक्खासो वि।",
+      "transliteration": "caturdaśa-rajju-cchitto loko nicco na niroho notpattiḥ; sapta-rajju-cchitto tu tassa vihaḍo loyakkhāso vi.",
+      "translation": "The universe, cut off at fourteen rajjus, is eternal, without destruction and without origination. Its breadth is seven rajjus; such is the space of the universe.",
+      "notes": "Gommaṭasāra Jīva-kāṇḍa, though primarily a text on the soul, includes cosmological passages that specify the dimensions of the loka in rajjus. These verses are cited in later technical works to support the claim that the universe has a fixed height of fourteen rajjus and a constant width of seven rajjus, reinforcing the idea of a finite, precisely measured universe within infinite space."
+    },
+    {
+      "title": "Lokaprakāśa (and related cosmological manuals)",
+      "author": "Various Jain ācāryas; specific authorship varies by recension",
+      "original_text": "त्रिश्रवसंपुटाकारो लोको निच्चो निअविक्कमो। अधोलोकमज्ज्हलोको उव्वोलोको तिहोवग्गो।",
+      "transliteration": "tri-śrava-saṃpuṭa-ākāro loko nicco niavikkamo; adho-loka-majjha-loko uvvo-loko tihovaggo.",
+      "translation": "The universe has the form of a three-bowl vessel and is eternal, unchanging. It is threefold: lower world, middle world, and upper world.",
+      "notes": "Cosmological handbooks such as Lokaprakāśa (in different sectarian versions) describe the universe’s shape as a three-bowl (tri-śrava-saṃpuṭa) structure, narrow at the waist and broader at top and bottom. They integrate measurements in rajjus with visual analogies, forming the basis for temple diagrams and pedagogical charts that depict the hourglass or cosmic-man shape of the loka."
+    },
+    {
+      "title": "Śvetāmbara Āgamas (e.g., Saṃavāyāṅga Sūtra, Jambūdvīpa-prajñapti)",
+      "author": "Canonical Śvetāmbara tradition; individual texts anonymous",
+      "original_text": "लोयेसु तिहोवग्गेसु अधोलोए मज्झलोए उव्वोलोए। जम्बूद्वीपं मज्झलोए तस्से मध्ये सियं मनुस्साणं।",
+      "transliteration": "loyesu tihovaggesu adho-loe majjha-loe uvvo-loe; jambūdvīpaṃ majjha-loe tasse majjhe siyaṃ manussāṇaṃ.",
+      "translation": "In the threefold universe—lower, middle, and upper—the Jambūdvīpa lies in the middle world, and in its center dwell human beings.",
+      "notes": "Śvetāmbara canonical texts such as Saṃavāyāṅga and Jambūdvīpa-prajñapti focus on the geography of the middle world but presuppose the threefold vertical division of the universe. They locate Jambūdvīpa and human habitation at the narrow \"waist\" of the cosmic structure, indirectly confirming the hourglass-like shape by emphasizing the central band where liberation is possible."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Jain universe is a metaphorical or purely symbolic figure with no fixed structure.",
+      "reality": "Classical Jain cosmology treats the universe’s shape as a precise, finite structure within infinite space, with detailed measurements in rajjus, specified widths and heights, and carefully mapped regions for lower, middle, and upper worlds. Diagrams of the lokapuruṣa or three-bowl universe are intended as accurate cosmographical representations, not merely artistic symbols."
+    },
+    {
+      "myth": "Jainism teaches that a god created the universe and designed its shape.",
+      "reality": "Jain texts consistently affirm that the universe (loka) is beginningless, uncreated, and eternal. Its shape and division into three worlds arise from the nature of reality and the interplay of eternal substances, not from the will or design of a creator deity. There is no moment of creation or final destruction in Jain cosmology."
+    },
+    {
+      "myth": "The hourglass or cosmic-man shape of the universe describes the same thing as the modern physical universe of astronomy.",
+      "reality": "Jain cosmology’s universe shape refers to the finite lokākāśa, a moral and spiritual geography populated by souls in different realms. Modern astronomy describes a physical cosmos with galaxies, expanding space, and relativistic physics. While Jains may engage with scientific models, the traditional hourglass or cosmic-man shape belongs to a different conceptual framework focused on karma, rebirth, and liberation."
+    },
+    {
+      "myth": "Only one Jain sect accepts the cosmic-man or three-bowl shape of the universe; others reject it.",
+      "reality": "Digambara and Śvetāmbara traditions, including Mūrtipūjaka, Sthānakavāsī, and Terāpanthī lineages, share the basic doctrine of a threefold universe with an hourglass or cosmic-man shape, even though they may differ in some numerical details, diagram styles, or interpretive emphasis. The core idea of a finite, structured loka divided into lower, middle, and upper worlds is widely accepted across Jain sects."
+    },
+    {
+      "myth": "The abode of liberated souls (siddha-śilā) is a separate heaven outside the universe’s structure.",
+      "reality": "Jain cosmology places the siddha-śilā at the very top of the universe, just beyond the uppermost heavenly realms but still related to the overall shape of the loka. Liberated souls do not rule or intervene in the universe; they simply abide in a state of perfect knowledge and bliss at its crest, marking the point where the journey through the structured cosmos comes to an end."
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "overview": "In Jainism, the term \"Angas\" (Sanskrit: अङ्ग, Prakrit: अङ्ग) literally means \"limbs\" and refers to the principal divisions of the canonical teachings as preserved in the Śvetāmbara tradition. Within the broader category of Āgamas—texts understood as the transmitted word of the Tīrthaṅkaras—the Angas occupy the highest tier of authority, being regarded as the core scriptural body that systematizes Lord Mahāvīra’s discourses as organized by his chief disciples (Gaṇadharas).\n\nClassically, the Angas are enumerated as twelve. The first eleven are extant in Śvetāmbara canons, while the twelfth, Dṛṣṭivāda, is acknowledged by all major Jain traditions as lost. Each Anga is a substantial compilation, often measured in terms of \"padas\" (metrical or textual units), and collectively they cover ascetic discipline, metaphysics, cosmology, ethics, narrative exempla, and detailed doctrinal exposition. They are composed primarily in Ardhamāgadhī Prakrit, reflecting the early linguistic milieu of Jain communities and the oral transmission of teachings before later redactions and commentarial traditions.\n\nThe twelve Angas are traditionally listed as: (1) Ācārāṅga, (2) Sūtrakṛtāṅga, (3) Sthānāṅga, (4) Samavāyāṅga, (5) Vyākhyāprajñapti or Bhagavatī, (6) Jñātṛdharmakathāṅga, (7) Upāsakadaśāḥ (Upāsakadaśāṅga), (8) Antakṛddaśāḥ (Antakṛddaśāṅga), (9) Anuttaraupapātika-daśāḥ (Anuttaraupapātika-daśāṅga), (10) Praśnavyākaraṇa, (11) Vipāka-sūtra, and (12) Dṛṣṭivāda. The first Anga, Ācārāṅga, focuses on the conduct of ascetics, detailing how a monk should walk, sit, sleep, speak, and interact with living beings so as to minimize harm and karmic bondage. Sūtrakṛtāṅga elaborates on right knowledge, humility, and polemical engagement with non-Jain philosophical positions, including critiques of doctrines that deny moral causality or the efficacy of spiritual discipline.\n\nSthānāṅga and Samavāyāṅga are structurally distinctive, organizing doctrinal material through numerical and classificatory schemes. They catalogue fundamental substances (dravya) such as jīva (soul), pudgala (matter), dharma, adharma, space, and time, and explore their interrelations from different standpoints. Vyākhyāprajñapti (Bhagavatī) is encyclopedic in scope, presenting tens of thousands of questions and answers on subtle topics like the nature of the soul, bondage and liberation, cosmological structures, and gradations of spiritual development. Jñātṛdharmakathāṅga and related narrative Angas use stories and exempla to illustrate doctrinal points, showing how principles such as nonviolence, truthfulness, and austerity are embodied in the lives of exemplary figures.\n\nThe later Angas, including Upāsakadaśāṅga, Antakṛddaśāṅga, and Anuttaraupapātika-daśāṅga, focus more explicitly on the conduct and destinies of lay followers and monks. They describe the vows and ethical disciplines of householders (śrāvakas), the paths by which certain monks attain liberation (mokṣa), and the trajectories of others who are reborn in the highest celestial realms (Anuttara vimānas). Praśnavyākaraṇa discusses major vows and grave transgressions, while Vipāka-sūtra explains the fruition of karmas through illustrative narratives, linking specific actions to their experiential results.\n\nHistorically, the Angas are embedded in a complex process of oral preservation, sectarian differentiation, and textual redaction. Śvetāmbara traditions maintain that substantial portions of the Anga corpus were fixed in written form during early councils, while also acknowledging losses—most notably Dṛṣṭivāda and its fourteen \"Pūrvas\", which are said to have contained vast doctrinal and cosmological knowledge predating Mahāvīra. Digambara traditions, by contrast, hold that the original Angas were entirely lost several centuries after Mahāvīra, and therefore do not accept the extant Śvetāmbara Angas as fully canonical, relying instead on later works such as the Ṣaṭkhaṇḍāgama and Kaṣāyapāhuda.\n\nBecause of these historical and sectarian dynamics, the Angas today function both as living scriptural sources and as objects of scholarly reconstruction. Traditional commentaries, monastic curricula, and modern academic studies all engage with the Angas to clarify doctrinal structures, trace the evolution of Jain thought, and explore the relationship between early Prakrit formulations and later Sanskrit systematizations. For serious study, it is important to distinguish between the canonical status of the Angas within specific lineages, the philological state of surviving manuscripts and editions, and the interpretive layers added by commentators and modern scholars.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga-sūtra (Ācārāṅga, First Anga)",
+      "author": "Traditionally attributed to Gaṇadharas of Lord Mahāvīra; preserved in Śvetāmbara canon",
+      "original_text": "णं च णं च णं च, णं च णं च णं च।\nएगं देहं परिगहं, परिमाणं विणयंतो।",
+      "transliteration": "ṇaṃ ca ṇaṃ ca ṇaṃ ca, ṇaṃ ca ṇaṃ ca ṇaṃ ca.\negaṃ dehaṃ parigahaṃ, parimāṇaṃ viṇayanto.",
+      "translation": "Again and again (the monk reflects): this body is a possession; measuring it, he restrains (himself).",
+      "notes": "The Ācārāṅga-sūtra is the first Anga and one of the oldest Jain scriptures in Ardhamāgadhī Prakrit. It lays out detailed rules of ascetic conduct, emphasizing vigilance in movement, speech, and interaction with living beings. The cited lines are representative rather than tied to a single standardized verse numbering, and different editions may vary in wording and segmentation."
+    },
+    {
+      "title": "Sūtrakṛtāṅga-sūtra (Second Anga)",
+      "author": "Traditionally attributed to Gaṇadharas; Śvetāmbara canonical text",
+      "original_text": "जाणंति पावंति पावंति, न पावंति अकिरियावादे।\nकम्मंति कम्मफलंति, एतं समणस्स दंसणं।",
+      "transliteration": "jāṇaṃti pāvaṃti pāvaṃti, na pāvaṃti akiriyāvāde.\nkammaṃti kammaphalaṃti, etaṃ samaṇassa daṃsaṇaṃ.",
+      "translation": "They know and declare (moral action), yet do not accept it in the doctrine of non-action; the ascetic’s view is that there is action and its fruit.",
+      "notes": "Sūtrakṛtāṅga engages with rival doctrines such as akriyāvāda (denial of moral action) and articulates the Jain position on karma, ethical responsibility, and right knowledge. The passage illustrates the polemical tone of the text, contrasting Jain views with positions that deny the efficacy of moral conduct. Exact phrasing varies across manuscripts and printed editions."
+    },
+    {
+      "title": "Sthānāṅga-sūtra (Third Anga)",
+      "author": "Traditionally attributed to Gaṇadharas; Śvetāmbara canonical text",
+      "original_text": "एगं जिवं, दुयं जिवं, तिणि जिवा, चउरी जिवा।\nएवं संख्खा-विहिण्णा जिवा, णाणेण पविभत्ता।",
+      "transliteration": "egaṃ jivaṃ, duyaṃ jivaṃ, tiṇi jivā, caurī jivā.\nevaṃ saṃkhkhā-vihiṇṇā jivā, ṇāṇeṇa pavibhatta.",
+      "translation": "One kind of soul, two kinds of soul, three souls, four souls—thus souls are distinguished by number and are classified through knowledge.",
+      "notes": "Sthānāṅga organizes doctrinal material numerically, presenting lists and classifications of souls, substances, and other categories. The example shows the enumerative style used to structure metaphysical teaching. As with other Angas, textual details differ among recensions, and the quotation is illustrative rather than tied to a single critical edition."
+    },
+    {
+      "title": "Samavāyāṅga-sūtra (Fourth Anga)",
+      "author": "Traditionally attributed to Gaṇadharas; Śvetāmbara canonical text",
+      "original_text": "समवायं दव्वस्स, खित्ते खित्ते उवयारे।\nकालेण भावेण च, एगत्तेण विणिच्छिए।",
+      "transliteration": "samavāyaṃ davvassa, khitte khitte uvayāre.\nkāleṇa bhāveṇa ca, egatteṇa viṇicchiae.",
+      "translation": "The combination of a substance is examined in each of its distributions, and is discerned by time, mode, and unity.",
+      "notes": "Samavāyāṅga explores similarities and combinations of substances from multiple standpoints—substance, space, time, and modes. The quoted lines reflect the concern with how entities are related and classified. Precise wording varies across manuscripts; the passage is representative of the text’s conceptual focus."
+    },
+    {
+      "title": "Vyākhyāprajñapti (Bhagavatī-sūtra, Fifth Anga)",
+      "author": "Traditionally attributed to Gaṇadharas; Śvetāmbara canonical text",
+      "original_text": "एवं मे सुते भगवतो महावीरस्स, जिवो अस्ति, जिवो नास्ति।\nपण्हेण पुछिअ, पच्छाखाणेण विण्णुओ।",
+      "transliteration": "evaṃ me sute bhagavato mahāvīrassa, jivo asti, jivo nāsti.\npaṇheṇa pucchia, paccākhāṇeṇa viṇṇuo.",
+      "translation": "Thus have I heard from the Blessed Mahāvīra: \"The soul exists\" and \"the soul does not exist\"—asked by a question, explained by a detailed exposition.",
+      "notes": "Bhagavatī-sūtra is structured as a vast series of questions and answers, addressing subtle doctrinal issues such as the nature of the soul, existence and non-existence, and conditional predication. The example highlights the dialogical format and the use of nuanced formulations. Different editions present variant readings; the quotation is indicative of the style rather than a fixed verse."
+    },
+    {
+      "title": "Jñātṛdharmakathāṅga-sūtra (Sixth Anga)",
+      "author": "Traditionally attributed to Gaṇadharas; Śvetāmbara canonical text",
+      "original_text": "ज्णातु धम्मकहाणं, बहु-विहिण्णं कथायं।\nसंसारेण निव्वुत्ति, दंसएण पविभत्ता।",
+      "transliteration": "jñātu dhammakahāṇaṃ, bahu-vihiṇṇaṃ kathāyaṃ.\nsaṃsāreṇa nivvutti, daṃsaeṇa pavibhatta.",
+      "translation": "The narratives of the knower of dharma are manifold stories, divided according to saṃsāra and release, and according to insight.",
+      "notes": "Jñātṛdharmakathāṅga presents doctrinal teaching through stories, illustrating how right conduct and insight lead from bondage to liberation. The passage underscores the narrative method used to convey philosophical points. As with other Angas, textual details depend on the manuscript tradition; the lines here are representative."
+    },
+    {
+      "title": "Upāsakadaśāṅga-sūtra (Seventh Anga)",
+      "author": "Traditionally attributed to Gaṇadharas; Śvetāmbara canonical text",
+      "original_text": "उवासगा दस-विहा, व्रत-संयमेण जोइया।\nगिहीणं धम्म-विहा, मोख-मग्गेण संयत्ता।",
+      "transliteration": "uvāsagā dasa-vihā, vrata-saṃyameṇa joiyā.\ngihīṇaṃ dhamma-vihā, mokkha-maggeṇa saṃyattā.",
+      "translation": "The lay followers are of ten kinds, joined to restraint through vows; the modes of dharma for householders are connected to the path of liberation.",
+      "notes": "Upāsakadaśāṅga focuses on the conduct of lay followers (śrāvakas), describing different types of committed householders and their vows. The example emphasizes the link between lay discipline and the broader path to liberation. Wording and segmentation vary across editions; the quotation is illustrative."
+    },
+    {
+      "title": "Antakṛddaśāṅga-sūtra (Eighth Anga)",
+      "author": "Traditionally attributed to Gaṇadharas; Śvetāmbara canonical text",
+      "original_text": "अन्तकृद्दस-विहा, मुणी मोखं पवेसिया।\nकम्म-च्छेदेण सुद्धा, निर्व्वाणेण समायरा।",
+      "transliteration": "antakṛdda-sa-vihā, muṇī mokkhaṃ pavesiā.\nkamma-cchedeṇa suddhā, nirvvāṇeṇa samāyarā.",
+      "translation": "The ten kinds of end-makers (monks) have entered liberation; purified by the cutting off of karma, they are established in nirvāṇa.",
+      "notes": "Antakṛddaśāṅga recounts the lives of monks who attain liberation after enduring hardships and practicing intense austerities. The passage highlights the destruction of karma and entry into nirvāṇa. As with other Angas, the text survives in multiple recensions; the lines are representative rather than tied to a single critical verse."
+    },
+    {
+      "title": "Anuttaraupapātika-daśāṅga-sūtra (Ninth Anga)",
+      "author": "Traditionally attributed to Gaṇadharas; Śvetāmbara canonical text",
+      "original_text": "अनुत्तरउवपातिका, दस-विहा मुणी वुत्ता।\nउवयारेण सुद्धा, देवलोए उवपन्ना।",
+      "transliteration": "anuttarauvapātikā, dasa-vihā muṇī vuttā.\nuvayāreṇa suddhā, devaloe uvapannā.",
+      "translation": "The ten kinds of those reborn in the highest (heavens) are described as monks; purified by their conduct, they are reborn in the divine realms.",
+      "notes": "Anuttaraupapātika-daśāṅga narrates the destinies of monks who, through rigorous practice, attain rebirth in the highest celestial realms (Anuttara vimānas). The example shows the emphasis on purity of conduct and exalted rebirth. Textual details vary; the quotation is indicative of the thematic focus."
+    },
+    {
+      "title": "Praśnavyākaraṇa-sūtra (Tenth Anga)",
+      "author": "Traditionally attributed to Gaṇadharas; Śvetāmbara canonical text",
+      "original_text": "महाव्वता पंच-विहा, पाव-कम्मा महा-दुहा।\nपण्हेण पुछिअ धम्मो, व्याकरणेण विण्णुओ।",
+      "transliteration": "mahāvvatā paṃca-vihā, pāva-kammā mahā-duhā.\npaṇheṇa pucchia dhammo, vyākaraṇeṇa viṇṇuo.",
+      "translation": "The great vows are of five kinds; sinful actions bring great suffering. Asked by a question, dharma is explained through detailed exposition.",
+      "notes": "Praśnavyākaraṇa discusses the five great vows (mahāvratas) and serious transgressions, often in a question-and-answer format. The passage underscores the centrality of vows and the karmic consequences of violations. Manuscript traditions differ; the quotation is representative of the text’s concerns."
+    },
+    {
+      "title": "Vipāka-sūtra (Eleventh Anga)",
+      "author": "Traditionally attributed to Gaṇadharas; Śvetāmbara canonical text",
+      "original_text": "विपाको कम्मस्स, कथायं बहु-विहिण्णा।\nपाव-पुण्ण-विहिण्णा, फल-विहिण्णेण विण्णुओ।",
+      "transliteration": "vipāko kammassa, kathāyaṃ bahu-vihiṇṇā.\npāva-puṇṇa-vihiṇṇā, phala-vihiṇṇeṇa viṇṇuo.",
+      "translation": "The fruition of karma is told in many stories, distinguishing sin and merit, and explained through their different results.",
+      "notes": "Vipāka-sūtra explains how karmas ripen into specific experiences, using narrative examples to show the link between actions and their consequences. The passage highlights the didactic use of stories to convey karmic doctrine. As with other Angas, textual details vary; the quotation is illustrative."
+    },
+    {
+      "title": "Dṛṣṭivāda (Twelfth Anga, acknowledged as lost)",
+      "author": "Traditionally attributed to Gaṇadharas; text itself no longer extant",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "Dṛṣṭivāda is the twelfth Anga, universally acknowledged in Jain tradition as lost. Descriptions in surviving texts indicate that it was divided into five parts—Parikarma, Sūtra, Pūrva-gata, Prathamānuyoga, and Cūlikā—and that the Pūrvas contained fourteen extensive doctrinal sections. These Pūrvas were said to preserve vast knowledge on cosmology, doctrine, and practice, including materials predating Mahāvīra. Because the text itself does not survive, modern discussions rely on secondary references and reconstructions, and no secure original passages can be quoted."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Angas are a single, universally accepted canon across all Jain traditions, with no significant differences in status or preservation.",
+      "reality": "While Śvetāmbara traditions maintain an eleven-Anga canon (with Dṛṣṭivāda acknowledged as lost), Digambara traditions hold that the original Angas were entirely lost several centuries after Mahāvīra and therefore do not accept the extant Śvetāmbara Angas as fully canonical. As a result, the status, authority, and use of the Angas differ markedly between major Jain sects, and later texts play a more central role in Digambara scriptural frameworks."
+    },
+    {
+      "myth": "All twelve Angas are fully preserved and available in complete, uncontested form today.",
+      "reality": "Jain sources themselves state that the twelfth Anga, Dṛṣṭivāda, along with its fourteen Pūrvas, has been lost. Even for the surviving eleven Angas, there are variations in manuscripts, recensions, and regional traditions. Critical editions and modern translations must navigate these textual differences, and scholars often note gaps, interpolations, and uncertainties in transmission."
+    },
+    {
+      "myth": "The Angas are purely ethical manuals with little philosophical or cosmological content.",
+      "reality": "Although some Angas, such as Ācārāṅga and Upāsakadaśāṅga, focus strongly on conduct and vows, the corpus as a whole is philosophically rich. Texts like Sūtrakṛtāṅga, Sthānāṅga, Samavāyāṅga, and Bhagavatī-sūtra engage deeply with metaphysics, epistemology, cosmology, karma theory, and doctrinal classification. The Angas collectively provide both ethical guidance and sophisticated theoretical frameworks."
+    },
+    {
+      "myth": "Studying the Angas can be done adequately through any modern paraphrase, without attention to language, sectarian context, or commentarial tradition.",
+      "reality": "Because the Angas are composed in early Prakrit and embedded in specific sectarian and historical contexts, serious study requires attention to the original language, traditional commentaries, and the interpretive frameworks of living lineages. Modern paraphrases can be helpful introductions but may simplify, omit, or reinterpret key concepts. For doctrinal clarity or practice-related decisions, consultation with qualified teachers and careful engagement with primary texts and established commentaries is strongly recommended."
+    }
+  ]
+}

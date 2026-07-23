@@ -1,0 +1,35 @@
+{
+  "overview": "In the context of Jain studies, “expert review” refers to a structured, multi‑layered process in which interpretations, translations, and educational materials are examined by qualified human specialists before being used for teaching, research, or community guidance. Because Jainism relies heavily on canonical Prakrit and Sanskrit sources, as well as lineage‑specific commentarial traditions, expert review ensures that any secondary explanation remains faithful to verifiable texts and does not unintentionally introduce doctrinal errors.\n\nWithin academic and traditional Jain settings, expert review typically involves three complementary domains: (1) textual accuracy, where philologists and manuscript specialists verify readings against authoritative editions; (2) doctrinal fidelity, where scholars trained in Digambara or Śvetāmbara hermeneutics confirm that interpretations align with established commentarial frameworks; and (3) ethical and practical safeguards, where teachers ensure that guidance given to laypeople does not cross into areas requiring formal religious authority or medical, legal, or mental‑health expertise.\n\nExpert review is especially important in comparative studies, karma theory analysis, and modern ethical applications, where subtle misinterpretations can lead to significant misunderstandings. It also plays a central role in preventing the misuse of Jain concepts such as tapas, sallekhana, or ahiṃsā in ways that could cause harm. By foregrounding transparency, source citation, and acknowledgment of scholarly disagreement, expert review strengthens both academic rigor and community trust.\n\nIn contemporary digital environments, expert review additionally involves verifying provenance, distinguishing between canonical material and unverified OCR or AI‑generated text, and clearly labeling uncertainty. This process helps maintain the integrity of Jain studies while supporting responsible, tradition‑aware learning.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This foundational aphorism (TS 1.1) is frequently used in expert review to anchor doctrinal interpretation. Commentaries across Digambara and Śvetāmbara traditions emphasize that any guidance must align with these three pillars, ensuring that secondary explanations do not distort the canonical meaning."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं च देहं परिग्गहेइ",
+      "transliteration": "ṇaṃ ca dehaṃ pariggahaei",
+      "translation": "One should not cling to the body.",
+      "notes": "Used in expert review to contextualize ascetic ideals. Scholars emphasize that this passage describes monastic discipline and must not be applied to laypeople without careful qualification. Expert review highlights the distinction between descriptive monastic conduct and prescriptive lay ethics."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Expert review is only an academic process and has no relevance to traditional Jain learning.",
+      "reality": "Traditional Jain lineages have long used forms of expert review—such as guru‑śiṣya transmission, commentarial vetting, and manuscript comparison—to ensure doctrinal accuracy. Modern academic review complements, rather than replaces, these practices."
+    },
+    {
+      "myth": "Expert review produces a single, universally correct interpretation of a Jain text.",
+      "reality": "Jain traditions preserve multiple commentarial lineages. Expert review highlights these differences, documents disagreements, and clarifies which interpretations belong to Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, or Terāpanth frameworks."
+    },
+    {
+      "myth": "Expert review can substitute for guidance from qualified religious authorities.",
+      "reality": "Expert review supports accurate learning but cannot authorize vows, ascetic practices, or life‑altering decisions. Such matters require qualified human teachers within recognized Jain lineages."
+    }
+  ]
+}

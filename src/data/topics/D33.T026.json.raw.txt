@@ -1,0 +1,59 @@
+{
+  "overview": "In textual criticism, a \"stemma\" (more fully \"stemma codicum\") is a diagram that represents the hypothesized genealogical relationships among the surviving witnesses—usually manuscripts—of a given work.\n\nThe term derives from the Greek word \"στέμμα\" meaning \"wreath\" or \"garland,\" which in Latin antiquity was extended metaphorically to denote a genealogical tree. In modern scholarly usage, a stemma codicum is the visual expression of a critical editor’s reconstruction of how manuscripts are related through copying, loss, and contamination, ultimately tracing them back to a common ancestor or archetype. [[0]](https://wiki.helsinki.fi/xwiki/bin/view/stemmatology/Stemma/)\n\nFormally, a stemma is often described as an oriented, tree‑like graph, more precisely a directed acyclic graph (DAG). Each node represents either an extant manuscript or a hypothesized lost exemplar, while edges indicate lines of descent—copying events—from one witness to another. The orientation of the graph implies a root, called the archetype, from which all other witnesses descend. Intermediate nodes, sometimes called hyparchetypes, stand for lost manuscripts that must be posited to explain shared readings and errors among groups of surviving witnesses. Contamination—where a scribe uses more than one exemplar—appears in the diagram as additional, often dotted, edges that break the strict tree structure but still preserve acyclicity. [[0]](https://wiki.helsinki.fi/xwiki/bin/view/stemmatology/Stemma/) [[1]](https://shs.hal.science/halshs-03260086/document)\n\nHistorically, the idea of representing manuscript relationships as a genealogical tree emerged in the eighteenth century, when Johann Albrecht Bengel proposed a \"tabula quaedam quasi genealogica\" for New Testament witnesses. In the nineteenth century, scholars such as Carl Johan Schlyter and Carl Gottlob Zumpt began to publish explicit stemmata in their editions, and the method was systematized by Karl Lachmann, whose work on the New Testament and classical texts laid the foundations of modern stemmatics. Paul Maas’s \"Textkritik\" (1927) gave the classic concise formulation of the method, and the term \"stemma codicum\" became standard in textual criticism. [[0]](https://wiki.helsinki.fi/xwiki/bin/view/stemmatology/Stemma/) [[2]](https://universitas-scholarium.org/scholar/manuscript-tradition)\n\nMethodologically, constructing a stemma relies on the \"common errors\" principle: if two manuscripts share a distinctive, non‑trivial error, it is highly unlikely that they produced it independently; instead, they are presumed to descend from a common ancestor that already contained that error. By systematically identifying such shared errors and patterns of agreement and disagreement, the editor groups manuscripts into families and reconstructs the branching structure of the tradition. Once the stemma is established, it guides the reconstruction of the archetype: readings supported by independent branches of the tradition, especially where they avoid obvious secondary features, are preferred as closer to the original text. [[1]](https://shs.hal.science/halshs-03260086/document) [[3]](https://www.britannica.com/science/stemma-codicum)\n\nIn practice, stemmata serve several purposes. First, they provide a transparent, falsifiable model of the transmission history of a text, allowing other scholars to critique or refine the editor’s hypotheses. Second, they help identify redundant witnesses—manuscripts that merely repeat the text of others—and thus focus editorial effort on those witnesses that contribute independent information. Third, they illuminate the cultural and historical pathways through which a text traveled: clusters of manuscripts may correspond to particular regions, scriptoria, religious communities, or periods, and contamination can reveal moments of cross‑regional contact or editorial intervention. [[3]](https://www.britannica.com/science/stemma-codicum) [[2]](https://universitas-scholarium.org/scholar/manuscript-tradition)\n\nIn the digital age, stemmata have become objects of computational analysis and shared scholarly infrastructure. Projects such as \"Open Stemmata\" collect and publish stemmata for many traditions, treating them as data that can be queried, compared, and visualized across corpora. Computational phylogenetic methods, adapted from evolutionary biology, are increasingly used to infer stemmata from large sets of variant readings, especially when the number of witnesses is too great for purely manual analysis. These approaches do not replace traditional philological judgment but complement it, offering probabilistic models that can be checked against codicological, paleographical, and historical evidence. [[1]](https://shs.hal.science/halshs-03260086/document) [[2]](https://universitas-scholarium.org/scholar/manuscript-tradition)\n\nFor traditions such as Jain, Buddhist, or other pre‑modern religious literatures, stemmata are particularly important because many foundational texts survive only in manuscript form, often with complex regional and sectarian transmission histories. A carefully constructed stemma can help distinguish doctrinally motivated changes from ordinary scribal errors, trace how specific recensions became authoritative in different communities, and support critical editions that respect both the historical plurality of the tradition and the need for a usable base text. At the same time, stemmata remain hypotheses: they are revised as new manuscripts are discovered, as readings are reassessed, or as alternative models of textual transmission—such as those emphasizing fluidity and variance—are brought into dialogue with classical stemmatics. [[1]](https://shs.hal.science/halshs-03260086/document) [[4]](https://link.springer.com/article/10.1007/s00407-013-0134-0)",
+  "primary_sources": [
+    {
+      "title": "στέμμα (stemma) in Suetonius, De vita Caesarum",
+      "author": "Suetonius",
+      "original_text": "…stemmata quidam in atrio proposita…",
+      "transliteration": "…stemmata quidam in atrio proposita…",
+      "translation": "“…certain genealogical trees (stemata) displayed in the atrium…”",
+      "notes": "This Latin usage of \"stemma\" as a genealogical tree illustrates the semantic development from the Greek \"στέμμα\" (wreath, garland) to a diagram of lineage. Modern textual criticism adopts this metaphor for the genealogical tree of manuscripts, hence \"stemma codicum\"—the stemma of the codices. [[0]](https://wiki.helsinki.fi/xwiki/bin/view/stemmatology/Stemma/)"
+    },
+    {
+      "title": "Tabula quaedam quasi genealogica (New Testament stemma)",
+      "author": "Johann Albrecht Bengel",
+      "original_text": "tabula quaedam quasi genealogica",
+      "transliteration": "tabula quaedam quasi genealogica",
+      "translation": "“a certain table, as it were genealogical”",
+      "notes": "In his eighteenth‑century work on the New Testament text, Bengel proposed a genealogical table of manuscript witnesses, anticipating the later formalization of stemmata. Although not yet called \"stemma codicum,\" this conception of a genealogical diagram of textual witnesses is a direct precursor of modern stemmatics. [[0]](https://wiki.helsinki.fi/xwiki/bin/view/stemmatology/Stemma/) [[1]](https://shs.hal.science/halshs-03260086/document)"
+    },
+    {
+      "title": "Textkritik",
+      "author": "Paul Maas",
+      "original_text": "Der Begriff des Stemma codicum…",
+      "transliteration": "Der Begriff des Stemma codicum…",
+      "translation": "“The concept of the stemma codicum…”",
+      "notes": "Paul Maas’s \"Textkritik\" (1927) offers a classic, concise statement of stemmatic method, defining the stemma codicum as the genealogical tree of the manuscripts of a text and grounding its construction in the analysis of common errors and variant readings. This work helped establish \"stemma codicum\" as the standard technical term in textual criticism and clarified its role in reconstructing the archetype. [[0]](https://wiki.helsinki.fi/xwiki/bin/view/stemmatology/Stemma/) [[3]](https://www.britannica.com/science/stemma-codicum)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "A stemma is a perfectly objective, mechanically derived representation of manuscript relationships.",
+      "reality": "While stemmata are grounded in systematic analysis of variants and common errors, they remain scholarly hypotheses that depend on interpretive judgment. Different editors may propose different stemmata for the same tradition, and new evidence—such as additional manuscripts or revised readings—can require substantial revision of the diagram."
+    },
+    {
+      "myth": "A stemma always has a simple tree structure with no cross‑connections.",
+      "reality": "Classical stemmata aim at a tree‑like structure, but real manuscript traditions often exhibit contamination, where scribes use multiple exemplars. This leads to directed acyclic graphs with additional edges that complicate the tree, and editors must represent and interpret these cross‑connections rather than forcing the tradition into an artificially simple tree."
+    },
+    {
+      "myth": "Once a stemma is drawn, the archetype and original text are fully and definitively recovered.",
+      "reality": "A stemma improves the editor’s ability to argue for particular readings, but it does not guarantee certainty. Some points in the tradition may remain irrecoverable, branches may preserve equally plausible variants, and the archetype itself may be only a best‑supported reconstruction rather than a definitive recovery of the author’s original wording."
+    },
+    {
+      "myth": "Stemmata are relevant only to classical or biblical texts and have little use for other traditions.",
+      "reality": "The principles of stemmatics apply to any text transmitted through copying, including Jain, Buddhist, Islamic, medieval vernacular, and other manuscript traditions. In each case, stemmata can clarify transmission history, guide critical editions, and illuminate how communities preserved and reshaped their texts over time, while still respecting the particularities of each tradition’s manuscript culture."
+    }
+  ]
+}
+
+
+
+> [0] [Stemma - XWiki](https://wiki.helsinki.fi/xwiki/bin/view/stemmatology/Stemma/)
+>
+> [1] [Open Stemmata: A Digital Collection of Textual Genealogies](https://shs.hal.science/halshs-03260086/document)
+>
+> [2] [Manuscript Tradition Simulacrum — Reconstructing the transmission history of texts that existed before print (Constructed Tool) | Universitas Scholarium](https://universitas-scholarium.org/scholar/manuscript-tradition)
+>
+> [3] [Stemma codicum | textual criticism | Britannica](https://www.britannica.com/science/stemma-codicum)
+>
+> [4] [Building the stemma codicum from geometric diagrams | Archive for History of Exact Sciences | Springer Nature Link](https://link.springer.com/article/10.1007/s00407-013-0134-0)

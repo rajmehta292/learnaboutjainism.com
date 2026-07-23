@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “illustration” refers to the visual, diagrammatic, or symbolic representation of concepts, narratives, cosmology, ethics, and scriptural structures. Although Jainism places primary authority on textual transmission—particularly canonical Prakrit and Sanskrit works—illustration has historically served as an important pedagogical tool. Jain manuscripts from both Śvetāmbara and Digambara traditions frequently include painted folios, cosmological diagrams, and symbolic motifs that help readers visualize complex metaphysical systems.\n\nIllustration in Jainism spans several domains: narrative art (depictions of tīrthaṅkara lives), cosmological diagrams (such as representations of Jambūdvīpa, the three worlds, and the loka-puruṣa), ethical symbolism (like the pañca-parameṣṭhī icons), and manuscript ornamentation. These images do not replace textual authority; instead, they function as interpretive aids that support memory, comprehension, and devotional focus. Many illustrations follow strict iconographic conventions preserved through monastic lineages and manuscript workshops.\n\nIn modern Jain education, illustration continues to play a role in textbooks, temple murals, digital diagrams, and comparative religious studies. Scholars use illustrations to analyze historical shifts in Jain cosmology, regional artistic styles, and the transmission of doctrinal knowledge. However, all interpretive use of illustration must remain grounded in verified primary texts and commentaries, acknowledging that images can vary across sects, regions, and manuscript traditions.",
+  "primary_sources": [
+    {
+      "title": "Saṃgrahaṇī Sūtra",
+      "author": "Traditionally attributed to Śvetāmbara canonical redactors",
+      "original_text": "जम्बूद्वीपो तस्स मझ्झे भरहत्तो नामं देसओ।",
+      "transliteration": "jambūdvīpo tassa majjhe bharahatto nāmaṃ desao.",
+      "translation": "“In the Jambūdvīpa, at its center, lies the region called Bharata.”",
+      "notes": "The Saṃgrahaṇī Sūtra (Tier A) is a key cosmological text often accompanied by diagrams of Jambūdvīpa, the concentric continents, and the cosmic man (loka-puruṣa). Manuscripts from the 14th–16th centuries frequently include painted illustrations that visually map the cosmology described in the text."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "लोयग्गस्स उवग्गाहं तिहि लोएहि संठिअं।",
+      "transliteration": "loyaggassa uvaggāhaṃ tihi loehi saṃṭhiaṃ.",
+      "translation": "“The structure of the universe is established in three worlds.”",
+      "notes": "The Tiloyapaṇṇatti (Tier A) provides detailed measurements of the Jain universe. Digambara traditions often produce geometric illustrations of the three worlds based on these descriptions. These diagrams help students visualize spatial relationships that are difficult to grasp through text alone."
+    },
+    {
+      "title": "Kalpasūtra",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "विसेसविहित्तं जिनकहियं तं सव्वं सुहावहं।",
+      "transliteration": "visesavihittaṃ jinakahiyaṃ taṃ savvaṃ suhāvahaṃ.",
+      "translation": "“All the specially arranged accounts of the Jinas are auspicious.”",
+      "notes": "Illustrated Kalpasūtra manuscripts (Tier A/B) are among the most famous Jain artworks. They depict episodes from the lives of Mahāvīra and other tīrthaṅkaras. These illustrations serve devotional and mnemonic functions but do not constitute scriptural authority."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Illustrations in Jain manuscripts are themselves authoritative scripture.",
+      "reality": "Illustrations are pedagogical aids. Only the textual content—verified canonical or commentarial—is authoritative. Images may vary widely across regions and periods."
+    },
+    {
+      "myth": "All Jain cosmological diagrams represent a single, universally accepted model.",
+      "reality": "While core cosmological principles are shared, Digambara and Śvetāmbara traditions preserve different measurements, shapes, and diagrammatic conventions. Manuscript illustrations reflect these sectarian variations."
+    },
+    {
+      "myth": "Illustrations were added only in late medieval Jain manuscripts.",
+      "reality": "Although richly painted folios flourish in the medieval period, simpler diagrams and symbolic marks appear in earlier manuscript traditions as well. Illustration has long been part of Jain pedagogical practice."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical literature, **valid cognition** (pramāṇa) is the disciplined account of how a knower apprehends an object truthfully and without distortion. It is one of the most technical domains of Jain epistemology, appearing in both Digambara and Śvetāmbara traditions, and is foundational for understanding right faith (samyak-darśana), right knowledge (samyak-jñāna), and right conduct (samyak-cāritra). Jain thinkers treat cognition as a graded, analyzable process shaped by the soul’s inherent capacity for knowledge and the obstructive influence of karma. Valid cognition is therefore not merely a logical category but also a spiritual one.\n\nAcross canonical and post-canonical texts, valid cognition is typically divided into **direct cognition** (pratyakṣa) and **indirect cognition** (parokṣa). Direct cognition refers to knowledge that arises without mediation—such as sensory perception in its purified form or the extraordinary cognition of kevalins and advanced ascetics. Indirect cognition includes inference, testimony, and other mediated forms of knowing. Jain epistemology is distinctive in its insistence that cognition is always perspectival (anekāntavāda) and that valid knowledge must be contextualized through the doctrines of standpoints (naya) and conditional predication (syādvāda).\n\nThe traditions differ in technical definitions. Digambara authors such as Kundakunda and Akalaṅka emphasize the soul’s intrinsic luminosity and classify pramāṇa according to degrees of karmic obstruction. Śvetāmbara canonical texts, especially the *Nandī-sūtra* and *Anuyogadvāra-sūtra*, provide detailed taxonomies of sensory and extra-sensory cognition. Later commentators refine these systems, debating the boundaries between perception, scriptural knowledge, and inference.\n\nIn all traditions, valid cognition is not merely about accuracy but about **ethical transformation**. As karmic veils diminish, cognition becomes clearer, culminating in omniscience (kevala-jñāna). Thus, pramāṇa is simultaneously a philosophical category and a map of spiritual progress.",
+  "primary_sources": [
+    {
+      "title": "Nandī-sūtra",
+      "author": "Attributed to the Śvetāmbara canonical redactors",
+      "original_text": "पमाणं दु-विहं — पयट्ठं परोक्षं",
+      "transliteration": "pramāṇaṃ du-vihaṃ — payaṭṭhaṃ parokkhaṃ",
+      "translation": "“Valid cognition is of two kinds: direct and indirect.”",
+      "notes": "This canonical sutra provides the foundational binary classification of pramāṇa. Commentaries elaborate that direct cognition includes sensory perception in its purified form and the extraordinary cognition of advanced ascetics."
+    },
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti/Umāsvāmi (accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "प्रमाणं ज्ञानम्",
+      "transliteration": "pramāṇaṃ jñānam",
+      "translation": "“Valid cognition is knowledge.”",
+      "notes": "TS 1.6 defines pramāṇa succinctly. Later commentators such as Pūjyapāda (Digambara) and Siddhasena Gaṇin (Śvetāmbara) debate whether pramāṇa is identical with knowledge or a subset of it."
+    },
+    {
+      "title": "Pramāṇa-mīmāṃsā",
+      "author": "Akalaṅka (Digambara)",
+      "original_text": "यथार्थानुभवः प्रमाणम्",
+      "transliteration": "yathārthānubhavaḥ pramāṇam",
+      "translation": "“Valid cognition is the experience of an object as it truly is.”",
+      "notes": "Akalaṅka’s treatise is central to Digambara epistemology. He integrates Jain perspectivalism with rigorous logical analysis, arguing that cognition is valid when unobstructed by karmic impurities."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Valid cognition in Jainism is identical to perception alone.",
+      "reality": "Jain texts explicitly classify valid cognition into direct and indirect forms. Inference, scriptural knowledge, and clairvoyance are all recognized as pramāṇa when unobstructed."
+    },
+    {
+      "myth": "Jain epistemology claims that all viewpoints are equally true.",
+      "reality": "Anekāntavāda does not assert equal truth but contextual truth. Valid cognition must be situated within appropriate standpoints (naya) and conditional predication (syādvāda)."
+    },
+    {
+      "myth": "Omniscience is a metaphor for perfect reasoning.",
+      "reality": "Primary texts treat kevala-jñāna as a literal, direct, unobstructed cognition of all substances and their modes. It is a spiritual achievement, not a symbolic concept."
+    }
+  ]
+}

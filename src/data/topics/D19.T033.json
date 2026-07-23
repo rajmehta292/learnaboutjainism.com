@@ -1,0 +1,51 @@
+{
+  "overview": "Monastic austerity (tapas) in Jainism refers to the disciplined set of practices undertaken by monks and nuns to purify karma, stabilize equanimity, and progress toward liberation. Across Digambara and Śvetāmbara traditions, austerities are framed not as self‑harm but as structured, ethically governed disciplines rooted in nonviolence (ahiṃsā), non-possession (aparigraha), and careful attention to bodily and mental conduct. Primary sources consistently emphasize that austerity must be undertaken with proper intention (bhāva), correct supervision, and full physical capacity.\n\nClassical Jain texts distinguish between external austerities (bāhya tapas) and internal austerities (abhyantara tapas). External austerities include measured fasting, limiting food quantity, accepting food under strict rules, bodily endurance, and withdrawal from comforts. Internal austerities include expiation, humility, service to teachers, study, meditation, and detachment. These practices are not isolated acts but part of a comprehensive monastic discipline governed by vows, communal oversight, and lineage-specific rules.\n\nMonastic austerity is embedded within the broader Jain soteriological framework: austerity reduces the influx of new karma (saṃvara) and burns existing karma (nirjarā). The Tattvārtha Sūtra, Uttarādhyayana Sūtra, and Digambara texts such as the Mūlācāra and Śrāvakācāra describe austerity as a technical method for advancing through the guṇasthānas (stages of spiritual development). Commentarial traditions stress that austerity must be accompanied by right faith and right knowledge; otherwise, it becomes mere bodily hardship without spiritual benefit.\n\nHistorically, monastic austerity has varied across sects. Digambara monks practice nudity as a form of absolute non-possession, while Śvetāmbara monastics wear simple white robes. Sthānakavāsī and Terāpanth traditions emphasize non‑image worship and heightened internal austerities. Despite these differences, all traditions maintain that austerity is a disciplined, supervised, and ethically constrained practice aimed at liberation, not suffering.\n\nModern scholarship highlights that Jain austerity is best understood as a structured ethical technology rather than ascetic extremism. It is governed by rules, exceptions, and safeguards, and monastics are expected to avoid practices that endanger life or violate ahiṃsā. When illness or weakness arises, texts instruct monastics to adjust or suspend austerities under guidance from senior teachers. This reflects the tradition’s long-standing commitment to nonviolence toward oneself and others.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "तपसा निर्जरा च",
+      "transliteration": "tapasā nirjarā ca",
+      "translation": "“Through austerity, there is the burning away of karma.”",
+      "notes": "Tattvārtha Sūtra 9.3. A foundational aphorism linking austerity directly to nirjarā. Commentaries differ on the scope of tapas, but all agree it includes both internal and external forms."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "तवस्सि णं जोगो, जोगस्सि णं तवो",
+      "transliteration": "tavassi ṇaṃ jogo, jogassi ṇaṃ tavo",
+      "translation": "“Austerity is indeed yoga, and yoga is indeed austerity.”",
+      "notes": "Uttarādhyayana Sūtra 30.28. This passage emphasizes the unity of disciplined practice and austerity. Variants appear across manuscripts."
+    },
+    {
+      "title": "Mūlācāra",
+      "author": "Vattakera (Digambara)",
+      "original_text": "तपो हि मुनिनां मुख्यं साधनं मोक्षसाधने",
+      "transliteration": "tapo hi munināṃ mukhyaṃ sādhanaṃ mokṣasādhane",
+      "translation": "“Austerity is the foremost means for monks in the pursuit of liberation.”",
+      "notes": "A Digambara monastic code. Exact wording varies across editions; this line summarizes the theme of chapters describing external and internal austerities."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "तवो परं परं चित्तं, तवो परं परं दंसणं",
+      "transliteration": "tavo paraṃ paraṃ cittaṃ, tavo paraṃ paraṃ daṃsaṇaṃ",
+      "translation": "“Austerity is supreme concentration; austerity is supreme insight.”",
+      "notes": "Ācārāṅga Sūtra I.7. This passage links austerity with mental purification rather than physical hardship. Manuscript traditions show minor lexical variations."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain monastic austerity is primarily about extreme physical suffering.",
+      "reality": "Primary texts consistently state that austerity must be guided by nonviolence, equanimity, and supervision. Physical hardship without right intention is considered spiritually ineffective."
+    },
+    {
+      "myth": "All Jain monks practice the same austerities.",
+      "reality": "Different sects—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, Terāpanth—maintain distinct rules and emphases. Some prioritize external austerities, others internal disciplines."
+    },
+    {
+      "myth": "Austerity can be undertaken without guidance.",
+      "reality": "Classical texts require instruction from qualified teachers, proper physical capacity, and adherence to monastic codes. Unsupervised austerity is discouraged."
+    }
+  ]
+}

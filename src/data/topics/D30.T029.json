@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, the term \"variants\" refers to the many forms in which Jain doctrine, practice, language, and textual traditions have been transmitted and lived, while still remaining anchored in a shared soteriological core. Rather than indicating arbitrary difference or fragmentation, Jain variants usually arise from historical, regional, linguistic, and interpretive processes that operate within a framework of continuity with the teachings of the Tirthankaras and the early community.\n\nAt the most visible level, variants appear as sectarian and sub-sectarian formations: Digambara and Śvetāmbara, and within Śvetāmbara, Mūrti-pūjaka, Sthānakavāsī, Terāpanth, and various gacchas such as Tapā Gaccha. These groups differ on issues like the status of the canonical scriptures, the clothing of monks, the ritual use of images, and certain doctrinal emphases. Yet they share core commitments to non-violence (ahiṃsā), non-possessiveness (aparigraha), the path of right faith, right knowledge, and right conduct, and the goal of liberation (mokṣa). Sectarian variants thus represent historically situated ways of organizing and interpreting a common heritage, not separate religions.\n\nVariants also occur at the textual level. Jain canonical and post-canonical literature exists in multiple recensions, with differences in wording, ordering of chapters, and inclusion or exclusion of particular passages. Commentarial traditions—Prakrit and Sanskrit—frequently adapt, expand, or reframe earlier materials, producing variant versions of narratives and doctrinal expositions. These textual variants are not merely scribal accidents; they often reflect deliberate strategies of clarification, polemic, reconciliation, or pedagogical adaptation for new audiences. Modern critical editions attempt to map these layers while respecting the authority structures recognized in different traditions.\n\nDoctrinal and philosophical variants are closely related to the Jain commitment to non-one-sidedness (anekāntavāda) and the doctrine of viewpoints (nayavāda). Different schools and authors emphasize distinct perspectives—ethical, metaphysical, epistemological—on the same underlying reality. This has generated variant classifications of karmas, cosmological structures, and stages of spiritual development (guṇasthāna), as well as diverse systems of logic and epistemology. Yet these variants are typically understood as complementary rather than mutually exclusive, each highlighting one facet of a complex truth.\n\nRitual and practical variants include differences in temple architecture, image iconography, liturgical languages, fasting practices, and lay observances across regions and communities. For example, image-worshipping and non-image-worshipping traditions structure their devotional life differently, while still orienting practice toward purification of the soul. Local customs, legal environments, and interactions with other religious communities have all contributed to the emergence of such variants.\n\nLinguistic variants are especially important in Jain history. Early scriptures and narratives were preserved in Ardhamāgadhī and other Prakrits, later rendered into Sanskrit, Apabhraṃśa, and modern vernaculars such as Gujarati, Hindi, and Kannada. Each linguistic layer introduces variant terminology and stylistic choices, which can subtly shape doctrinal emphasis and accessibility. Medieval ācāryas consciously used Prakrit and Sanskrit in different ways to negotiate sectarian tensions and to articulate unity within diversity.\n\nFrom a Jain perspective, the existence of variants is not a defect but a manifestation of the many-sided nature of reality and the historical unfolding of the community. At the same time, Jain traditions maintain clear criteria for scriptural authority, monastic discipline, and doctrinal orthodoxy, so that not every variant is equally binding or accepted. Scholarly and internal debates continue over how to evaluate particular variants—textual, ritual, or doctrinal—while preserving continuity with the foundational teachings. Understanding \"variants\" in Jainism therefore requires attention both to the shared core and to the historically layered forms through which that core has been expressed.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣamārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This foundational aphorism is accepted across major Jain traditions and provides a shared doctrinal core against which sectarian and practical variants are measured. While different schools develop variant classifications of right faith, knowledge, and conduct, they treat this sūtra as a common point of reference for the structure of the path."
+    },
+    {
+      "title": "Reconciliation formula in medieval Jain commentaries",
+      "author": "Attributed to medieval ācāryas such as Haribhadra Sūri and later commentators",
+      "original_text": "नाणामग्गेहि णेओ मग्गो",
+      "transliteration": "nāṇāmaggehi eko maggo",
+      "translation": "Through various paths, there is one path.",
+      "notes": "This Prakrit formula, cited in medieval commentarial literature, encapsulates a Jain approach to variants: multiple doctrinal and practical paths are acknowledged, yet they converge on a single liberating trajectory. It is used to articulate unity within diversity and to defuse sectarian tensions by emphasizing shared soteriological aims."
+    },
+    {
+      "title": "Doctrine of viewpoints (nayavāda) in Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "नयाः स्याद्वादस्य आधारभूताः",
+      "transliteration": "nayāḥ syādvādasya ādhārabhūtāḥ",
+      "translation": "Viewpoints are the foundational basis of the doctrine of conditioned predication (syādvāda).",
+      "notes": "Although phrased differently in various commentarial traditions, the linkage between viewpoints (naya) and the doctrine of non-one-sidedness (anekāntavāda/syādvāda) underlies Jain philosophical acceptance of interpretive variants. Different viewpoints yield variant descriptions of the same reality, which are treated as partial yet valid when properly contextualized."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Variants in Jainism mean that all doctrines and practices are completely relative and interchangeable.",
+      "reality": "Jain variants arise within a framework of shared core commitments—such as the path of right faith, knowledge, and conduct and the centrality of non-violence. Anekāntavāda and nayavāda affirm multiple valid perspectives, but they do not erase criteria for scriptural authority, ethical discipline, or doctrinal coherence. Not every variant is accepted as equally binding, and traditions carefully distinguish between legitimate diversity and positions that fall outside recognized Jain teachings."
+    },
+    {
+      "myth": "Sectarian variants like Digambara and Śvetāmbara represent entirely separate religions with no common foundation.",
+      "reality": "Despite significant differences in scripture, monastic discipline, and ritual practice, Digambara and Śvetāmbara communities share core Jain doctrines: belief in the Tirthankaras, the structure of karma and rebirth, the goal of liberation, and the central ethical vows. Their variants reflect historical developments and interpretive choices within a single broader Jain tradition, not the creation of wholly distinct religions."
+    },
+    {
+      "myth": "Textual variants in Jain scriptures are simply corruptions or errors that should be ignored.",
+      "reality": "Many textual variants result from conscious adaptation, clarification, or reorganization by ācāryas responding to new contexts, audiences, and internal debates. Critical study of these variants helps scholars and practitioners understand how doctrine and narrative have been interpreted over time. While traditions may privilege certain recensions as authoritative, variant readings often illuminate the dynamics of Jain intellectual history rather than merely indicating scribal mistakes."
+    }
+  ]
+}

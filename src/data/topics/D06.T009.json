@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, the **eight main karmas (aṣṭa pradhāna karmas)** form the core framework for understanding bondage (bandha), transmigration (saṃsāra), and liberation (mokṣa). These karmas are classified as **destructive (ghātiyā)** and **non‑destructive (aghātiyā)**, depending on whether they obscure the soul’s essential qualities of infinite knowledge, perception, bliss, and energy.\n\nThe destructive karmas—knowledge‑obscuring, perception‑obscuring, deluding, and obstructive—directly impair the soul’s innate capacities. Jain texts describe these as the most critical to eliminate, because their destruction is necessary for attaining omniscience (kevala‑jñāna). The non‑destructive karmas—body‑determining, status‑determining, lifespan‑determining, and feeling‑producing—shape worldly embodiment and experience but do not hinder the soul’s essential attributes.\n\nAcross Digambara and Śvetāmbara traditions, the eight karmas are consistently defined, though nuances in terminology and commentary vary. Primary sources such as the *Tattvārtha Sūtra* (accepted across traditions) and canonical Āgamas (Śvetāmbara) or authoritative treatises (Digambara) outline their functions, subdivisions, and roles in the progression through the fourteen stages of spiritual development (guṇasthāna). The karmas bind to the soul through activities driven by passions (kaṣāyas)—anger, pride, deceit, and greed—and are shed through right faith, right knowledge, and right conduct.\n\nThe eight karmas are:\n1. **Jñānāvaraṇa karma** – obscures knowledge.\n2. **Darśanāvaraṇa karma** – obscures perception.\n3. **Mohaniya karma** – causes delusion and attachment.\n4. **Antarāya karma** – obstructs energy and effort.\n5. **Nāma karma** – determines bodily form and physical attributes.\n6. **Gotra karma** – determines social status or lineage conditions.\n7. **Āyu karma** – determines lifespan.\n8. **Vedanīya karma** – produces experiences of pleasure and pain.\n\nJain thinkers emphasize that liberation requires the complete eradication of all eight karmas, but the **four destructive karmas must be eliminated first**. The final shedding of karmas occurs at the highest guṇasthāna, leading to the soul’s ascent to Siddha-śilā, where it exists eternally in its pure state. This doctrinal structure is shared across sects, though interpretive details may differ in commentarial traditions.\n\nThe eight karmas form a foundational ontology in Jainism, linking metaphysics, ethics, psychology, and soteriology. Their study is essential for understanding how Jainism conceptualizes moral causation, spiritual progress, and the ultimate goal of liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "ज्ञानावरणदर्शनावरणमोहनीयान्तरायाः घातियाः । नामगोत्रायुवेदनियाः अघातियाः ॥",
+      "transliteration": "jñānāvaraṇa‑darśanāvaraṇa‑mohaniya‑antarāyāḥ ghātiyāḥ | nāma‑gotra‑āyu‑vedanīyāḥ aghātiyāḥ ||",
+      "translation": "Knowledge‑obscuring, perception‑obscuring, deluding, and obstructive karmas are destructive. Body‑determining, status‑determining, lifespan‑determining, and feeling‑producing karmas are non‑destructive.",
+      "notes": "This is the most authoritative and widely cited sutra defining the eight karmas. Commentaries differ slightly across sects, but the classification is universally accepted."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra (Śvetāmbara)",
+      "author": "Attributed to canonical tradition",
+      "original_text": "कम्मं जोगं च भावं च, तेसिं बंधो च बंधणं ।",
+      "transliteration": "karmaṃ jogaṃ ca bhāvaṃ ca, tesiṃ bandho ca bandhaṇaṃ |",
+      "translation": "Karma, activity, and mental states—these cause bondage and bind the soul.",
+      "notes": "While not listing all eight karmas explicitly, this passage contextualizes how karmic bondage arises through mental and physical activity."
+    },
+    {
+      "title": "Gommatasāra (Digambara)",
+      "author": "Nemichandra Siddhānta‑cakravartin",
+      "original_text": "अष्टकर्माणि जीवस्य बन्धहेतवः ।",
+      "transliteration": "aṣṭa‑karmāṇi jīvasya bandha‑hetavaḥ |",
+      "translation": "The eight karmas are the causes of the soul’s bondage.",
+      "notes": "Digambara treatises provide detailed subdivisions of each karma, especially Nāma and Mohaniya karmas."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The eight karmas operate like external punishments imposed by a divine being.",
+      "reality": "Jainism teaches that karmas are subtle material particles attracted by the soul’s own passions and activities. There is no divine dispenser of reward or punishment."
+    },
+    {
+      "myth": "All karmas must be destroyed simultaneously for liberation.",
+      "reality": "Jain texts specify a precise order: the four destructive karmas must be eliminated first, enabling omniscience, followed by the shedding of the remaining four."
+    },
+    {
+      "myth": "Karmas only relate to moral actions.",
+      "reality": "Karmas also determine physical form, lifespan, social conditions, and experiences of pleasure and pain. They encompass both ethical and non‑ethical determinants of embodiment."
+    }
+  ]
+}

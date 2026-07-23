@@ -1,0 +1,55 @@
+{
+  "overview": "Right conduct (samyak‑cāritra) is one of the three inseparable components of the Jain path to liberation, alongside right faith (samyak‑darśana) and right knowledge (samyak‑jñāna). In classical Jain philosophy, right conduct is not merely ethical behavior but the disciplined alignment of body, speech, and mind with the reality understood through right knowledge and stabilized through right faith. It is the practical implementation of the Jain worldview, expressed through vows, restraints, meditative vigilance, and progressive purification of karmic influx.\n\nAcross Jain traditions, right conduct is described as the cessation of harmful activities (hiṃsā, falsehood, stealing, sensual indulgence, and possessiveness), the cultivation of equanimity, and the steady reduction of passions (kaṣāyas). It is the lived expression of ahiṃsā, extending beyond physical non‑violence to mental and verbal restraint, compassion, and carefulness (samiti). The classical texts emphasize that right conduct is not limited to ascetics; laypeople practice it through graded vows (aṇu‑vratas), supplementary vows (guṇa‑vratas), and disciplinary vows (śikṣā‑vratas).\n\nIn technical Jain doctrine, right conduct is also the fourth jewel of the Ratnatraya and the essential condition for ascending the fourteen stages of spiritual development (guṇasthānas). At higher stages, conduct becomes increasingly characterized by the absence of passions, culminating in perfect conduct (yathākhyāta‑cāritra), where the aspirant’s actions are fully aligned with non‑attachment and non‑violence. Both Digambara and Śvetāmbara traditions agree on the centrality of right conduct, though they differ in monastic regulations, scriptural interpretations, and disciplinary codes.\n\nRight conduct is thus both ethical and soteriological: it guides daily behavior, shapes community norms, and serves as the primary mechanism for stopping new karmic influx (saṃvara) and shedding accumulated karma (nirjarā). It is a lifelong discipline of vigilance, compassion, and self‑restraint, grounded in canonical teachings and refined through centuries of commentary.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This foundational aphorism (TS 1.1) establishes right conduct as one of the three indispensable components of the liberation path. Both Digambara and Śvetāmbara traditions accept the text, though they differ in commentary traditions."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "णं चरेज्जो णं चरेज्जो, अहिंसा सव्वजीवाणं",
+      "transliteration": "ṇaṃ carejjo ṇaṃ carejjo, ahiṃsā savva‑jīvāṇaṃ",
+      "translation": "One should conduct oneself carefully, conduct oneself mindfully; non‑violence is for all living beings.",
+      "notes": "The Ācārāṅga Sūtra is the earliest Śvetāmbara canonical text detailing monastic conduct. It emphasizes vigilance, carefulness, and universal non‑violence as the basis of right conduct."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara canon)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "चरित्तं तु यथाख्यातं रागाद्यनुपस्थिते",
+      "transliteration": "carittaṃ tu yathākhyātaṃ rāgādya‑nupasthite",
+      "translation": "Conduct is perfect when passions such as attachment are absent.",
+      "notes": "This text is central to Digambara doctrine. The cited idea appears in later commentarial traditions explaining the nature of yathākhyāta‑cāritra, the highest form of right conduct."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "सव्वेसिं जीवाणं दया, तं चरेज्जो मुनि सदा",
+      "transliteration": "savvesiṃ jīvāṇaṃ dayā, taṃ carejjo muni sadā",
+      "translation": "Compassion toward all living beings—this a monk should always practice.",
+      "notes": "This text elaborates ethical and disciplinary norms for monastics and laypeople, highlighting compassion as a core expression of right conduct."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Right conduct is only for monks and nuns.",
+      "reality": "Classical Jain texts explicitly prescribe graded vows and ethical disciplines for laypeople. While monastic conduct is more rigorous, lay conduct is an essential part of the path and is fully integrated into the Ratnatraya."
+    },
+    {
+      "myth": "Right conduct means only avoiding physical violence.",
+      "reality": "Jain doctrine defines violence in mental, verbal, and physical forms. Right conduct requires restraint of passions, truthful speech, carefulness, and compassion—not merely avoidance of physical harm."
+    },
+    {
+      "myth": "Right conduct is purely moral and unrelated to liberation.",
+      "reality": "In Jain philosophy, right conduct is a technical requirement for stopping karmic influx and shedding accumulated karma. It is directly tied to the guṇasthānas and the attainment of mokṣa."
+    },
+    {
+      "myth": "Right conduct is identical across all Jain traditions.",
+      "reality": "While the core principles are shared, Digambara and Śvetāmbara traditions differ in monastic rules, scriptural interpretations, and disciplinary codes. These differences reflect historical developments rather than contradictions in foundational doctrine."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "Wildlife refers to all non-domesticated living beings—animals, plants, fungi, and microorganisms—that inhabit natural ecosystems such as forests, grasslands, wetlands, deserts, and oceans. In ecological science, wildlife is understood as a core component of biodiversity, contributing to the stability, resilience, and functioning of ecosystems. Species interact through food webs, nutrient cycles, and habitat formation, creating dynamic systems that sustain life on Earth.\n\nIn Jain philosophical and ethical frameworks, wildlife is viewed through the lens of *jīva* (living beings) and *ahiṃsā* (non-harm). All living beings—from one-sensed organisms like plants and water-bodied beings to five-sensed animals—are considered to possess consciousness and the capacity for suffering. Wildlife therefore occupies a morally significant place in Jain thought, where protection of animals and ecosystems is tied to spiritual discipline and karmic theory. Classical Jain texts categorize animals by sensory capacity, mobility, and karmic bondage, offering detailed taxonomies that reflect both metaphysical and biological observations.\n\nModern ecological research emphasizes the threats wildlife faces, including habitat loss, climate change, pollution, invasive species, and unsustainable exploitation. Conservation biology seeks to protect species and ecosystems through protected areas, restoration, legal frameworks, and community-based stewardship. Jain-inspired environmental ethics have increasingly contributed to contemporary conservation dialogues, highlighting nonviolence, restraint, and interdependence as guiding principles for sustainable coexistence with wildlife.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "पञ्चेन्द्रियाणि तिर्यग्जातिः",
+      "transliteration": "pañcendriyāṇi tiryagjātiḥ",
+      "translation": "Five-sensed beings belong to the animal category.",
+      "notes": "Tattvārtha Sūtra 2.13 classifies animals as five-sensed beings within the broader taxonomy of living beings. This passage is foundational for Jain discussions of wildlife, emphasizing the moral significance of animals as conscious beings."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "सव्वे पाणाओ पियाओ",
+      "transliteration": "savve pāṇāo piyāo",
+      "translation": "All living beings are dear to themselves.",
+      "notes": "This early Śvetāmbara canonical text underscores the universality of self-regard among living beings, forming a basis for non-harm toward wildlife. The passage is frequently cited in Jain ethical discussions on animal protection."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Pūjyapāda and earlier compilers",
+      "original_text": "जीवास्तु बहुविधाः शरीरभेदात्",
+      "transliteration": "jīvāstu bahuvidhāḥ śarīrabhedāt",
+      "translation": "Living beings are of many kinds, distinguished by their bodies.",
+      "notes": "This Digambara canonical text provides detailed classifications of living beings, including animals, based on bodily structure and sensory capacity. It is a key source for understanding Jain metaphysical taxonomy relevant to wildlife."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Wildlife only refers to large or charismatic animals such as tigers, elephants, or whales.",
+      "reality": "Wildlife includes all non-domesticated organisms, from insects and amphibians to plants, fungi, and microorganisms. Ecological systems depend heavily on less visible species such as pollinators, soil microbes, and small invertebrates."
+    },
+    {
+      "myth": "Wildlife thrives best when humans completely avoid natural areas.",
+      "reality": "While minimizing disturbance is important, many conservation strategies require active human involvement—such as habitat restoration, invasive species management, and regulated protection—to support wildlife populations."
+    },
+    {
+      "myth": "Predatory wildlife is inherently violent and morally inferior.",
+      "reality": "From a Jain perspective, predation is part of the natural karmic cycle and not a moral failing. In ecological science, predators play essential roles in maintaining ecosystem balance by regulating prey populations and supporting biodiversity."
+    }
+  ]
+}

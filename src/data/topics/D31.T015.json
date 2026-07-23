@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain intellectual history, the term “Yogashastra” refers most prominently to the Sanskrit treatise traditionally attributed to Acharya Hemacandra (12th century CE), a major Śvetāmbara Mūrti-pūjaka polymath. The work is often titled *Yogashāstra* or *Yogasāstra*, and in many manuscripts it appears together with Hemacandra’s *Yoga-vinoda* commentary. It is a systematic exposition of Jain yoga, ethics, and spiritual discipline, integrating earlier Śvetāmbara canonical materials, Digambara yoga traditions, and broader pan-Indic philosophical vocabulary. \n\nThe *Yogashāstra* is not a manual of physical postures; rather, it is a comprehensive ethical–spiritual text that outlines the path of liberation through right conduct, meditation, vows, and mental purification. Hemacandra organizes the material around the classical Jain triad of right faith (*samyagdarśana*), right knowledge (*samyagjñāna*), and right conduct (*samyakcaritra*), while also drawing from older Prakrit sources such as the *Uttarādhyayana-sūtra*, *Āvaśyaka* literature, and the *Tattvārtha-sūtra*. \n\nThe text is historically significant because it synthesizes multiple streams of Jain yoga: the contemplative practices of early Śvetāmbara ascetics, the more systematized Digambara yoga found in works like the *Ṣaṭkhaṇḍāgama* and *Kundakunda’s* corpus, and the broader Sanskritic discourse on yoga circulating in medieval India. Hemacandra’s approach is ethical and soteriological, emphasizing restraint, equanimity, and progressive purification of karmic matter. \n\nModern scholarship treats the *Yogashāstra* as a key witness to medieval Jain intellectual life, illustrating how Jain thinkers engaged with and responded to contemporaneous Hindu and Buddhist yoga systems while maintaining doctrinal distinctiveness. It remains an important text for understanding Jain meditation, vows, lay and monastic discipline, and the philosophical foundations of liberation.",
+  "primary_sources": [
+    {
+      "title": "Yogashāstra",
+      "author": "Acharya Hemacandra (Śvetāmbara Mūrti-pūjaka)",
+      "original_text": "योगः सर्वकर्मणां निरोधः।",
+      "transliteration": "yogaḥ sarvakarmaṇāṃ nirodhaḥ.",
+      "translation": "“Yoga is the cessation of all karmic activity.”",
+      "notes": "This line appears in several manuscript traditions and reflects Hemacandra’s definition of yoga as ethical–spiritual restraint rather than physical practice. Editions vary, and some include Hemacandra’s auto-commentary (*Yoga-vinoda*)."
+    },
+    {
+      "title": "Tattvārtha-sūtra (as a foundational source for Hemacandra)",
+      "author": "Umāsvāti/Umāsvāmi (tradition varies)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः।",
+      "transliteration": "samyagdarśanajñānacāritrāṇi mokṣamārgaḥ.",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "Hemacandra frequently draws on this sūtra’s structure when organizing the *Yogashāstra*. The text is accepted across Jain traditions, though Digambara and Śvetāmbara editions differ slightly."
+    },
+    {
+      "title": "Uttarādhyayana-sūtra (Śvetāmbara canon)",
+      "author": "Anonymous canonical redaction",
+      "original_text": "जो णिव्वाणं इच्छइ सो णियमं करेइ।",
+      "transliteration": "jo nivvāṇaṃ icchai so niyamaṃ karei.",
+      "translation": "“One who desires liberation practices discipline.”",
+      "notes": "Hemacandra cites or paraphrases several verses from this text when discussing vows, meditation, and ascetic discipline."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Yogashāstra is a Jain version of Patañjali’s Yoga Sūtra focused on physical postures.",
+      "reality": "Hemacandra’s *Yogashāstra* is an ethical–spiritual treatise centered on vows, meditation, and karmic purification. It does not teach physical postures and differs fundamentally from Patañjali’s system."
+    },
+    {
+      "myth": "The Yogashāstra represents a single unified Jain yoga tradition.",
+      "reality": "The text is a synthesis of multiple Jain streams—Śvetāmbara canonical teachings, Digambara yoga concepts, and broader Sanskritic discourse. It reflects medieval intellectual cross-pollination rather than a monolithic tradition."
+    },
+    {
+      "myth": "Hemacandra’s definitions of yoga replace earlier Jain teachings.",
+      "reality": "Hemacandra builds upon earlier Prakrit sources such as the *Uttarādhyayana-sūtra* and *Āvaśyaka* literature. His work is a systematization, not a replacement, of earlier Jain contemplative traditions."
+    }
+  ]
+}

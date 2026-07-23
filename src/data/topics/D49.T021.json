@@ -1,0 +1,43 @@
+{
+  "overview": "Language maintenance refers to the sustained use, transmission, and cultural preservation of a language across generations. In sociolinguistics, it describes the processes through which communities continue speaking their heritage language despite pressures from dominant regional or global languages. For Jain studies, language maintenance has a distinctive historical dimension: Jain communities have preserved Prakrits (Ardhamāgadhī, Śaurasenī), classical Sanskrit, and regional vernaculars through scriptural transmission, monastic instruction, commentarial traditions, and lay education. This preservation has enabled continuity of doctrinal vocabulary, ritual terminology, and philosophical discourse.\n\nIn broader linguistic scholarship, language maintenance is shaped by intergenerational transmission, institutional support, literacy practices, religious or cultural identity, and community attitudes. When these factors weaken, language shift may occur, leading to partial or complete replacement of the heritage language. Jain traditions historically countered such shifts by embedding language learning within religious practice—memorization of canonical texts, recitation, and commentary study—thus creating durable linguistic ecosystems.\n\nModern discussions of language maintenance also examine diaspora communities, digital communication, bilingual education, and revitalization programs. For Jains living outside India, maintaining liturgical Prakrits and Sanskrit often coexists with efforts to preserve Gujarati, Kannada, Marwari, or Hindi as heritage languages. Scholars emphasize that language maintenance is not merely linguistic continuity but also the preservation of conceptual worlds, ethical categories, and cultural memory embedded in language.",
+  "primary_sources": [
+    {
+      "title": "Āyāraṅga-sutta (Ācārāṅga)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "𑀅𑀬𑀸𑀭𑀁𑀕𑀺 𑀲𑀼𑀢𑁆𑀢𑀺",
+      "transliteration": "Ayāraṃga sutta",
+      "translation": "“This is the teaching of the Jinas, spoken in Ardhamāgadhī.”",
+      "notes": "The Āyāraṅga is one of the earliest Śvetāmbara canonical texts. Its self-identification as Ardhamāgadhī illustrates deliberate linguistic preservation within scripture. The canonical language itself became a vehicle of doctrinal continuity, demonstrating early Jain efforts at language maintenance."
+    },
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "प्रमाणज्ञानोपयोगलक्षणं",
+      "transliteration": "pramāṇa-jñānopayoga-lakṣaṇam",
+      "translation": "“Right knowledge is characterized by the proper use of cognition.”",
+      "notes": "Although composed in Sanskrit, the Tattvārtha-sūtra was transmitted across both Digambara and Śvetāmbara traditions. Its Sanskrit vocabulary became standardized in Jain philosophical discourse, reinforcing language maintenance through scholastic continuity."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Kundakunda",
+      "original_text": "समयसारो णियमो",
+      "transliteration": "samayasāro ṇiyamo",
+      "translation": "“The essence of the self is discipline.”",
+      "notes": "Kundakunda’s works in Jain Śaurasenī Prakrit exemplify Digambara preservation of Prakrit as a philosophical language. Manuscript copying, commentaries, and monastic curricula maintained these linguistic forms for centuries."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Language maintenance means keeping a language unchanged.",
+      "reality": "Languages preserved by communities still evolve. Jain Prakrits, Sanskrit commentaries, and regional vernaculars all show historical development even as their core functions were maintained."
+    },
+    {
+      "myth": "Language maintenance is only about religious texts in Jainism.",
+      "reality": "While scriptures are central, Jain communities also maintain languages through everyday speech, diaspora education, cultural associations, and digital media."
+    },
+    {
+      "myth": "A language can be maintained without active community involvement.",
+      "reality": "Intergenerational transmission, teaching, and community commitment are essential. Without these, language shift toward dominant languages is likely."
+    }
+  ]
+}

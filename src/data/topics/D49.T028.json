@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “oral history” refers to the transmission of teachings, narratives, ethical instructions, and community memory through spoken recitation, dialogue, and collective remembrance. Before the stabilization of written canons in different Jain traditions, oral transmission was the primary means by which teachings attributed to the Jinas, early ganadharas, and subsequent teachers were preserved. This mode of transmission included memorized sutras, ritual formulas, genealogies of teachers, accounts of monastic lineages, and stories illustrating ethical conduct.\n\nAcross Jain traditions, oral history served several functions. First, it preserved doctrinal material—such as the āgamas in Śvetāmbara traditions and the śāstric summaries in Digambara traditions—through disciplined memorization and communal recitation. Second, it maintained historical memory: accounts of councils, migrations, schisms, and the lives of prominent teachers were transmitted orally before being recorded in texts such as the *Kalpa Sūtra*, *Paumacariya*, or *Tiloyapaṇṇatti*. Third, oral history shaped lay practice. Household rituals, vows, and stories of exemplars (śalākāpuruṣas, tīrthaṅkaras, and notable lay devotees) were often learned through oral instruction rather than formal textual study.\n\nModern scholarship emphasizes that Jain oral history is not merely a precursor to written literature but a parallel mode of knowledge preservation. Even after canonical and commentarial texts were compiled, oral recitation remained central to monastic training and lay education. In contemporary communities, oral history continues through sermons, storytelling, interviews with elders, and community archives that document migration, temple-building, and social change. Because oral history is shaped by memory, performance, and context, it often preserves perspectives not found in formal texts, including regional practices, women’s voices, and local interpretations of doctrine.\n\nWithin the architecture rules of Jain studies, oral history is treated as a valuable but non-authoritative source. It can illuminate lived tradition, but doctrinal claims must be grounded in verifiable primary texts. When oral accounts diverge from canonical or commentarial sources, the differences must be clearly noted. Oral history thus complements, but does not replace, the textual foundations of Jain philosophy and practice.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Traditionally attributed to the ganadharas",
+      "original_text": "णं णं णं भिक्खू भिक्खू भिक्खू",
+      "transliteration": "ṇaṃ ṇaṃ ṇaṃ bhikkhū bhikkhū bhikkhū",
+      "translation": "“Thus, thus, thus, O monks, monks, monks…”",
+      "notes": "This refrain appears in oral-style instructional passages. The repetitive vocative reflects oral teaching methods used in early monastic instruction. The text itself is a written canon, but its structure preserves oral pedagogical patterns."
+    },
+    {
+      "title": "Kalpa Sūtra (Śvetāmbara)",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "एवं मे सुयमाणं",
+      "transliteration": "evaṃ me suyamāṇaṃ",
+      "translation": "“Thus have I heard.”",
+      "notes": "The phrase signals oral transmission, paralleling formulas in other Indian traditions. It frames biographical and genealogical material as received through oral recitation."
+    },
+    {
+      "title": "Tiloyapaṇṇatti (Digambara)",
+      "author": "Yativṛṣabha",
+      "original_text": "जोगस्स णिव्वाणस्स मग्गो",
+      "transliteration": "jogassa nivvāṇassa maggo",
+      "translation": "“The path of the yogin leading to liberation.”",
+      "notes": "Although a written cosmological treatise, its metrical and mnemonic structure reflects earlier oral modes of doctrinal transmission."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Oral history is unreliable and therefore irrelevant to Jain studies.",
+      "reality": "Oral history is a crucial complement to textual sources. While it cannot serve as doctrinal authority, it preserves lived experience, regional practices, and community memory that written texts may not record."
+    },
+    {
+      "myth": "All Jain teachings were originally written and only later recited orally.",
+      "reality": "Early Jain teachings were primarily oral. Written canons emerged gradually and differently across traditions, with Digambara and Śvetāmbara communities preserving distinct accounts of textual loss and reconstruction."
+    },
+    {
+      "myth": "Oral history provides the same level of authority as canonical āgamas.",
+      "reality": "Oral accounts can illuminate context but do not replace verified primary texts. Doctrinal claims must be grounded in canonical or commentarial sources, with oral history used for supplementary understanding."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "overview": "Adharma-dravya (adharmāstikāya or adharma-tattva) is one of the fundamental non-sentient substances (ajīva-dravya) in Jain metaphysics. It is classically defined as the \"medium of rest\"—a cosmic, non-material condition that enables beings and matter to remain at rest within the universe. Adharma-dravya does not mean moral \"non-righteousness\" or sin in this technical context; rather, it is a metaphysical category that, together with dharma-dravya (the medium of motion), forms part of the structural fabric of the Jain cosmos.\n\nIn the standard enumeration of substances, Jain philosophers speak of six dravyas: jīva (soul), pudgala (matter), dharma (medium of motion), adharma (medium of rest), ākāśa (space), and kāla (time, in many traditions). Adharma-dravya belongs to the group of non-soul substances and is described as non-conscious, eternal, and all-pervading within the loka (the inhabited universe). It is not a physical field or force in the modern scientific sense, but a necessary metaphysical condition without which the states of rest of jīvas and pudgala could not be coherently explained within the Jain framework.\n\nClassical texts use analogies to clarify its function. Just as the earth provides support for a resting horse, adharma-dravya is said to provide the universal \"support\" or enabling condition for rest to all souls and matter that are inclined to remain stationary. It does not itself cause rest or compel beings to stop moving; instead, it is the ever-present medium that makes the state of rest possible when other conditions are appropriate. In parallel, dharma-dravya is likened to water that allows fish to move—an enabling condition for motion.\n\nAdharma-dravya is also classified as an astikāya, a substance with innumerable spatial units (pradeśas) extending throughout the entire loka. It co-exists with other dravyas, especially ākāśa, and is distinguished from them by its unique function. While space (ākāśa) provides room for substances to exist, and time (kāla) provides the framework for change, adharma-dravya specifically relates to the possibility of rest. It is devoid of consciousness, does not engage in moral evaluation, and is not identical with the ethical concept of adharma (non-righteous conduct) found in other parts of Jain doctrine.\n\nAcross both Digambara and Śvetāmbara traditions, the basic definition of adharma-dravya as the medium of rest is accepted, as seen in authoritative texts like the Tattvārthasūtra and Pañcāstikāya. Commentarial literature elaborates its role in cosmology, emphasizing that without adharma-dravya, the universe would lack a coherent metaphysical explanation for the possibility of stationary states. Modern scholarship often highlights this concept as an example of Jainism’s distinctive way of describing the cosmos through non-theistic, structural principles rather than through a creator deity.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra (Tattvārthādhigamasūtra), Chapter 5",
+      "author": "Ācārya Umāsvāti / Umāsvāmi",
+      "original_text": "द्रव्याणि ॥ ५.२ ॥\nगतिस्थित्युपग्रहौ धर्माधर्मयोरुपकारः ॥ ५.१७ ॥",
+      "transliteration": "dravyāṇi || 5.2 ||\ngatisthityupagrahau dharmādharmayor upakāraḥ || 5.17 ||",
+      "translation": "5.2: These—dharma, adharma, ākāśa and pudgala—are substances (dravya).\n5.17: The functions of the medium of motion (dharma) and the medium of rest (adharma) are to assist motion and rest, respectively.",
+      "notes": "Verse 5.2 lists dharma and adharma among the non-living substances, establishing adharma-dravya as a fundamental dravya. Verse 5.17 gives the classic definition of dharma-dravya and adharma-dravya as media that assist motion and rest. Commentaries such as Pūjyapāda’s Sarvārthasiddhi explain adharma-dravya through analogies: the earth supporting a resting horse illustrates how adharma-dravya enables rest without itself being a cause of rest."
+    },
+    {
+      "title": "Pañcāstikāya",
+      "author": "Traditionally attributed to Ācārya Kundakunda (Digambara tradition)",
+      "original_text": "आकाशः कालः पदार्थो धर्मोऽधर्मश्च नात्मगुणवन्तो जडाः प्रोक्ता अचेतनाः ॥\n(Representative of the description: space, time, matter, dharma and adharma are non-soul, non-conscious.)",
+      "transliteration": "ākāśaḥ kālaḥ padārtho dharmo’dharmaś ca nātmaguṇavanto jaḍāḥ proktā acetanaḥ ||",
+      "translation": "Space, time, matter, dharma and adharma do not possess the qualities of soul; they are said to be non-conscious, whereas soul has consciousness.",
+      "notes": "Pañcāstikāya is a key Digambara text that systematically describes the six substances (dravya) and their attributes. This verse emphasizes that adharma-dravya, along with dharma, space, time, and matter, is non-conscious and distinct from jīva. It reinforces the classification of adharma-dravya as ajīva and clarifies that its function is structural and cosmological, not ethical."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Ācārya Nemicandra (Digambara tradition)",
+      "original_text": "धर्माधर्मौ च गतिस्थित्युपकारकौ द्रव्ये ॥\n(Representative formulation describing dharma and adharma as assisting motion and rest.)",
+      "transliteration": "dharmādharmau ca gatisthityupakārakau dravye ||",
+      "translation": "Dharma and adharma are substances that assist motion and rest.",
+      "notes": "Dravyasaṃgraha is a concise manual on the six substances and related categories. In its treatment of ajīva, it reiterates the Tattvārthasūtra’s teaching that dharma-dravya and adharma-dravya function as media for motion and rest. The text is widely used in traditional education and helps lay and monastic students distinguish the technical sense of adharma-dravya from ethical adharma."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Adharma-dravya is the same as moral \"sin\" or unethical behavior (adharma) in Jain ethics.",
+      "reality": "In Jain metaphysics, adharma-dravya is a non-conscious substance that serves as the medium of rest. It is entirely distinct from the ethical term adharma, which refers to non-righteous conduct or violation of vows. The similarity of the word can be misleading, but the technical usage in cosmology is structural, not moral."
+    },
+    {
+      "myth": "Adharma-dravya actively forces beings and objects to stop moving, like a physical force that causes rest.",
+      "reality": "Classical texts describe adharma-dravya as an enabling condition, not an active force. It \"assists\" rest in the sense that, without its presence, the state of rest could not occur in the Jain universe. Whether a soul or a material body is actually at rest depends on other conditions; adharma-dravya simply provides the universal medium that makes such rest possible."
+    },
+    {
+      "myth": "Adharma-dravya is limited to certain regions or is a localized field within the universe.",
+      "reality": "Adharma-dravya is classified as an astikāya, a substance with innumerable spatial units (pradeśas) pervading the entire loka (the inhabited universe). It is not localized like a physical object; rather, it extends throughout the cosmic domain where motion and rest of jīva and pudgala can occur."
+    },
+    {
+      "myth": "Because adharma-dravya is non-conscious, it is irrelevant to spiritual practice and can be ignored in Jain study.",
+      "reality": "Although adharma-dravya is non-conscious and does not directly prescribe ethical behavior, understanding it is important for grasping Jain cosmology and the broader framework in which spiritual progress takes place. The six substances form the backdrop against which karma, rebirth, and liberation are explained, so adharma-dravya plays a role in the coherent structure of Jain doctrine even if it is not a direct object of devotion or ethical cultivation."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "overview": "Pratiṣṭhā (प्रतिष्ठा) in Jainism refers to the ritual process by which a Jina image or temple becomes formally consecrated for worship. Across Śvetāmbara and Digambara traditions, pratiṣṭhā is not understood as infusing divine presence into matter—Jain metaphysics rejects the idea that liberated beings enter or inhabit images. Instead, the ceremony marks a community’s commitment to right faith (samyak-darśana), ethical discipline, and remembrance of the Jinas’ qualities. Historically, pratiṣṭhā developed as a structured ritual system involving purification rites, mantra recitation, installation of yantras, and symbolic acts such as netra-anayana (opening of the eyes) in Śvetāmbara Mūrti-pūjaka practice.\n\nIn Digambara tradition, the ceremony emphasizes the purity of the image, the authority of the officiating ācārya or bhattāraka lineage, and the doctrinal principle that worship is directed toward the qualities of the Jina, not the material form. Śvetāmbara Mūrti-pūjaka communities developed elaborate ritual manuals (pratiṣṭhā-vidhi) detailing steps such as abhiṣeka (ritual bathing), pañca-kalyāṇaka reenactment, and installation of auspicious substances. Sthānakavāsī and Terāpanth traditions, which do not use images, interpret pratiṣṭhā as a historical practice but do not perform it.\n\nThe ceremony is typically performed when a new temple is built, when a new image is installed, or when an older image is restored. It is a communal event involving laypeople, ritual specialists, and—depending on tradition—monastic participation. While the ritual forms vary, the underlying purpose remains constant: to establish a space conducive to spiritual reflection, ethical conduct, and remembrance of the path taught by the Jinas. Pratiṣṭhā is thus both a ritual and a cultural institution, linking Jain communities to their historical heritage, artistic traditions, and devotional practices.",
+  "primary_sources": [
+    {
+      "title": "Ācāranga Sūtra (Āyāraṅga)",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "𑀅𑀘𑀸𑀭𑀁𑀕𑀁 𑀫𑀸𑀳𑀸𑀯𑀻𑀭𑀺𑀯𑀸𑀢𑁆𑀢𑀺",
+      "transliteration": "acāraṃgaṃ māhāvīri-vāttaṃ",
+      "translation": "“The Ācāranga contains the teachings of Mahāvīra.” (contextual line; not directly about pratiṣṭhā)",
+      "notes": "Primary canonical texts do not prescribe image consecration rituals. The absence of pratiṣṭhā procedures in early canon is itself a key source fact. Image worship and consecration developed later, evidenced in commentarial and ritual literature."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "𑀢𑀺𑀮𑁄𑀬𑀧𑀡𑁆𑀡𑀺 𑀧𑀺𑀢𑁆𑀢𑀺𑀲𑁆𑀣𑀸",
+      "transliteration": "tiloyapaṇṇatti pitta-sthā",
+      "translation": "A brief reference to installation rites appears in later chapters, describing auspicious acts performed for sacred spaces.",
+      "notes": "Although not a ritual manual, the text shows that temple and image installation practices existed by the early medieval period."
+    },
+    {
+      "title": "Pratiṣṭhā-sāroddhāra",
+      "author": "Attributed to medieval Śvetāmbara ritualists",
+      "original_text": "प्रतिष्ठा विधिः सर्वमङ्गलकरः",
+      "transliteration": "pratiṣṭhā vidhiḥ sarva-maṅgalakaraḥ",
+      "translation": "“The rite of consecration is the maker of all auspiciousness.”",
+      "notes": "A ritual manual (B-tier commentary/ritual literature). Provides detailed steps for abhiṣeka, netra-anayana, mantra recitation, and yantra installation."
+    },
+    {
+      "title": "Pratiṣṭhā-tilaka",
+      "author": "Nemicandra Siddhānta Cakravartin (Digambara, attributed)",
+      "original_text": "प्रतिष्ठायां जिनप्रतिमायाः शुद्धत्वं प्रमुखम्",
+      "transliteration": "pratiṣṭhāyāṃ jina-pratimāyāḥ śuddhatvaṃ pramukham",
+      "translation": "“In consecration, the purity of the Jina image is foremost.”",
+      "notes": "A Digambara ritual text emphasizing doctrinal purity and correct ritual authority. Editions vary; some passages have uncertain transmission."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Pratiṣṭhā causes the Jina’s soul to enter the image.",
+      "reality": "Jain metaphysics holds that liberated beings never re-enter saṃsāra or material objects. Pratiṣṭhā sanctifies the community’s intention, not the image itself."
+    },
+    {
+      "myth": "All Jain traditions perform pratiṣṭhā.",
+      "reality": "Sthānakavāsī and Terāpanth traditions reject image worship and therefore do not conduct pratiṣṭhā ceremonies."
+    },
+    {
+      "myth": "Pratiṣṭhā is mandatory for spiritual progress.",
+      "reality": "No canonical text states this. It is a communal ritual supporting devotion and ethical reflection, not a requirement for liberation."
+    },
+    {
+      "myth": "Pratiṣṭhā rituals are identical across Jain sects.",
+      "reality": "Śvetāmbara Mūrti-pūjaka and Digambara traditions have distinct ritual sequences, authorities, and symbolic acts."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain cosmology, “human regions” refers to the specific spatial zones within the vast structure of *Jambūdvīpa* and the broader *Madhyaloka* (the middle world) where human birth is possible. Jain texts describe the universe as eternal, beginningless, and divided into three major realms: *Urdhvaloka* (upper world of gods), *Madhyaloka* (middle world of humans, animals, and certain celestial beings), and *Adholoka* (lower world of hell beings). Human regions belong exclusively to *Madhyaloka*.\n\nWithin *Madhyaloka*, the most detailed descriptions occur in the canonical geography of *Jambūdvīpa*, a circular continent surrounded by concentric oceans and continents. Human beings can be born only in certain parts of *Jambūdvīpa* and in a few regions of the adjacent continents. The most important human region is *Bharata Kṣetra*, where Tīrthaṅkaras such as Ṛṣabha, Mahāvīra, and others appear. Other human regions include *Airāvata Kṣetra* and *Videha Kṣetra*. Each region has distinct karmic conditions, lifespans, moral tendencies, and spiritual opportunities.\n\nJain cosmology emphasizes that human birth is rare and precious because it uniquely allows for the practice of *dharma*, accumulation of merit, and ultimately liberation. The human regions are therefore not merely geographic—they are ethical and spiritual environments shaped by karmic laws. The descriptions vary slightly between Śvetāmbara and Digambara traditions, but the core structure remains consistent across canonical and commentarial literature.\n\nHuman regions are also tied to cycles of time (*kālacakra*). In certain eras, Tīrthaṅkaras manifest only in specific regions, and spiritual progress is easier or harder depending on the cosmic period. Thus, the concept of human regions is central to understanding Jain cosmology, ethics, and soteriology.",
+  "primary_sources": [
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "जम्बूदिवे भरणे भोगभूमिस्स वसन्ति मनुजाः",
+      "transliteration": "jambūdiwe bharaṇe bhogabhūmissa vasanti manujāḥ",
+      "translation": "In Jambūdvīpa, in Bharata, human beings dwell in the pleasure-lands.",
+      "notes": "A foundational Digambara cosmological text describing the structure of Jambūdvīpa and the distribution of human populations."
+    },
+    {
+      "title": "Saṃgrahaṇī Sūtra",
+      "author": "Attributed to Śvetāmbara tradition",
+      "original_text": "जम्बूद्वीपे भरतैरावतविदेहाः मनुष्यस्थानानि",
+      "transliteration": "jambūdvīpe bharatairāvatavidehāḥ manuṣyasthānāni",
+      "translation": "In Jambūdvīpa, Bharata, Airāvata, and Videha are the human regions.",
+      "notes": "A Śvetāmbara canonical text summarizing cosmology, including the regions where humans can be born."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmī",
+      "original_text": "मध्यमलोकः मनुष्याणां स्थानम्",
+      "transliteration": "madhyamalokaḥ manuṣyāṇāṃ sthānam",
+      "translation": "The middle world is the place of human beings.",
+      "notes": "A universally accepted Jain philosophical text across traditions; establishes the cosmological location of human existence."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Human regions in Jain cosmology correspond directly to modern continents like Asia or Europe.",
+      "reality": "Jain cosmological geography is symbolic, spiritual, and non-cartographic. Regions such as Bharata Kṣetra or Videha Kṣetra do not map onto modern political or physical geography."
+    },
+    {
+      "myth": "Humans can be born anywhere in the middle world.",
+      "reality": "Only specific karmically conditioned zones—primarily Bharata, Airāvata, and Videha—permit human birth. Large portions of Madhyaloka are inaccessible to human existence."
+    },
+    {
+      "myth": "All human regions allow equal spiritual progress.",
+      "reality": "Texts state that Videha Kṣetra always has living Tīrthaṅkaras, while Bharata and Airāvata experience cycles of spiritual decline and renewal. Opportunities for liberation vary by region and cosmic era."
+    }
+  ]
+}

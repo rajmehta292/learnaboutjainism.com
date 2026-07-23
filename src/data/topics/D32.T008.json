@@ -1,0 +1,43 @@
+{
+  "overview": "“Rajasthani” is a broad cultural, linguistic, and historical term referring to the people, languages, and traditions associated with Rajasthan, a large region in northwestern India. The term can denote ethnicity, regional identity, or linguistic belonging depending on context. Historically, Rajasthan was home to numerous Rajput kingdoms, Jain mercantile communities, and diverse tribal groups, each contributing to a rich mosaic of social and religious life. In Jain studies, “Rajasthani” often appears in discussions of manuscript traditions, pilgrimage sites, and the development of regional vernacular literature.\n\nLinguistically, Rajasthani refers to a group of Indo-Aryan languages and dialects, including Marwari, Mewari, Dhundhari, Harauti, and Shekhawati. These languages developed from Old Western Rajasthani (sometimes linked to Dingal or Apabhraṃśa traditions) and have historically served as vehicles for Jain narrative literature, didactic poetry, and community records. Many medieval Jain texts—especially narrative works, commentaries, and ethical treatises—were composed in or translated into regional Rajasthani dialects to support lay education.\n\nCulturally, Rajasthani identity encompasses distinctive artistic traditions such as miniature painting, temple architecture, folk music, and textile arts. Jain communities in Rajasthan played a major role in sponsoring temple construction, manuscript copying, and artistic workshops, especially in centers like Jaisalmer, Bikaner, and Jaipur. The region’s desert geography, caravan routes, and mercantile networks shaped the development of Jain lay practice, monastic travel patterns, and manuscript preservation.\n\nIn modern scholarship, “Rajasthani” is used to describe both the linguistic corpus and the cultural-historical context in which Jain texts circulated. Researchers emphasize the need to distinguish between literary dialects (e.g., Dingal, Maru-Gurjar) and spoken vernaculars, as well as between regional cultural identity and caste or religious identity. The term remains important for understanding how Jainism adapted to local languages, artistic forms, and social structures across centuries.",
+  "primary_sources": [
+    {
+      "title": "Prithvīrāja Rāso (regional manuscript traditions)",
+      "author": "Traditionally attributed to Chand Bardai",
+      "original_text": "प्रिथ्वीराज रासो (various recensions contain mixed Braj, Dingal, and early Rajasthani elements)",
+      "transliteration": "Prithvīrāja Rāso",
+      "translation": "A courtly epic narrating the life of Prithviraj Chauhan; although not a Jain text, its manuscript traditions in Rajasthan illustrate the linguistic environment in which Jain vernacular literature developed.",
+      "notes": "Used here to contextualize Rajasthani literary culture. Jain manuscripts from Rajasthan often share scribal conventions, orthography, and poetic meters with secular regional literature."
+    },
+    {
+      "title": "Jaisalmer Manuscript Colophons (various Jain texts)",
+      "author": "Multiple scribes and monks",
+      "original_text": "Examples include colophons noting: ‘मेसरि नगरि लिखियं’ (written in Jaisalmer)",
+      "transliteration": "mesari nagari likhiyaṃ",
+      "translation": "“Written in the city of Jaisalmer.”",
+      "notes": "Colophons from Jaisalmer, Bikaner, and other Rajasthani centers provide primary evidence for Jain manuscript culture, scribal networks, and the use of regional vernaculars. These colophons are valuable Tier A sources for reconstructing Rajasthani Jain literary history."
+    },
+    {
+      "title": "Maru-Gurjar Apabhraṃśa Jain Texts",
+      "author": "Various Jain ācāryas",
+      "original_text": "Representative verse: ‘जइ णहुं करंति पावं, तउ णहुं होइ अणव्वा’",
+      "transliteration": "jai naḥuṃ karaṃti pāvaṃ, tau naḥuṃ hoi aṇavvā",
+      "translation": "“If one does not perform merit, one does not attain purity.”",
+      "notes": "Maru-Gurjar Apabhraṃśa is a precursor to several Rajasthani dialects. Many Jain ethical and narrative texts in this language influenced later Rajasthani literature and demonstrate the linguistic continuum between Apabhraṃśa and early Rajasthani."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Rajasthani is a single, uniform language spoken across all of Rajasthan.",
+      "reality": "Rajasthani is a group of related Indo-Aryan languages and dialects. Marwari, Mewari, Dhundhari, Harauti, and Shekhawati are distinct linguistic varieties with their own histories and literary traditions."
+    },
+    {
+      "myth": "Rajasthani culture is exclusively Rajput in origin.",
+      "reality": "Rajasthani culture is shaped by Rajput, Jain, Bhil, Meghwal, and many other communities. Jain merchants and monastic lineages played a major role in shaping regional literature, architecture, and manuscript preservation."
+    },
+    {
+      "myth": "Rajasthani literature has little connection to Jainism.",
+      "reality": "Jain communities were major patrons of literature in Rajasthan. Many narrative, ethical, and didactic works were composed in regional dialects, and Jain manuscript libraries in Jaisalmer, Bikaner, and Jaipur preserve extensive Rajasthani materials."
+    }
+  ]
+}

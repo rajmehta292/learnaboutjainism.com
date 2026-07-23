@@ -1,0 +1,89 @@
+{
+  "overview": "The Prakirnakas (Prakīrṇaka-sūtras) are a group of miscellaneous Jain canonical texts, primarily recognized within the Śvetāmbara Mūrtipūjaka tradition, that occupy a supplementary yet significant position in the broader corpus of Āgamas. The term “prakīrṇaka” derives from Sanskrit/Prakrit roots meaning “scattered” or “miscellaneous,” indicating that these works do not form a single continuous doctrinal treatise but rather a collection of independent compositions dealing with diverse topics such as ascetic discipline, devotional practice, cosmology, technical sciences, and the preparation for death. [[0]](https://grokipedia.com/page/prakirnaka_sutra) [[1]](https://en.wikipedia.org/wiki/Prakirnaka_Sutra)\n\nIn the standard Śvetāmbara canonical classification, the Prakirnakas are counted among the Angabahya Āgamas—texts that stand outside the twelve Aṅgas but still form part of the recognized scriptural canon. Many traditional lists speak of ten core Prakirnaka-sūtras, though some manuscript traditions and scholarly reconstructions expand the group to around twenty or more, reflecting the fluidity of their transmission and canonical status. These ten are often enumerated to complete a total of forty-five Āgamas in the Śvetāmbara Mūrtipūjaka reckoning, while Sthānakavāsī and Terāpanthī Śvetāmbaras generally do not accord them full canonical authority. [[0]](https://grokipedia.com/page/prakirnaka_sutra) [[2]](https://jainworld.com/literature/jain-agams/jain-agam-literature/prakirnaagams/)\n\nHistorically, the Prakirnakas appear to be somewhat later compositions than the oldest Aṅgas and Chedasūtras, with scholarly estimates placing much of their formation between roughly the 6th and 13th centuries CE, though they draw heavily on earlier doctrinal and narrative material. They are predominantly composed in Jaina Māhārāṣṭrī and related Prakrits, often in metrical forms such as the āryā meter, and they exhibit a mixture of verse and occasional prose. Their language and style show both continuity with the early canonical idiom and signs of later editorial and sectarian shaping, especially in the way they systematize practices like saṃlekhanā (fasting unto death) and advanced ascetic observances. [[0]](https://grokipedia.com/page/prakirnaka_sutra) [[1]](https://en.wikipedia.org/wiki/Prakirnaka_Sutra) [[3]](https://jaingpt.org/knowledge/contribution_of_prakrit_to_jain_canonical_literature_250067_250067)\n\nDoctrinally and practically, the Prakirnakas focus less on lay ethics and more on the spiritual, psychological, and ritual preparation required for serious ascetic life. Several texts—such as Ātur‑pratyākhyāna, Bhakti‑parijñā, Mahā‑pratyākhyāna, Saṃstāraka (Santhara), and related works—detail the conditions, vows, mental attitudes, and gradual dietary disciplines associated with the ideal Jain death, contrasting the passion-driven act of suicide with the carefully regulated, vow-based renunciatory death praised in the tradition. They emphasize confession of transgressions, universal forgiveness, meditation on impermanence, and the progressive withdrawal from food and bodily attachments under guidance, thereby integrating ethical, psychological, and ritual dimensions into a single path of final renunciation. [[0]](https://grokipedia.com/page/prakirnaka_sutra) [[2]](https://jainworld.com/literature/jain-agams/jain-agam-literature/prakirnaagams/)\n\nOther Prakirnaka-sūtras broaden the scope of Jain canonical literature by incorporating cosmological, medical, astronomical, and divinatory material. Texts like Jyotiṣ‑karaṇḍaka and Gaṇita‑vidyā treat timekeeping, celestial movements, and predictive sciences; Taṇḍula‑vaicārika and Tandulavaitalika explore pregnancy, embryology, anatomy, and reflections on the body’s transience; Devendra‑stava catalogues heavenly beings, their abodes, and the structure of the celestial realms; and works such as Dvīpa‑sāgara‑prajñapti‑saṃgrahaṇī‑gāthā summarize Jain cosmography. In this way, the Prakirnakas serve as a bridge between strictly soteriological teachings and the broader intellectual world of premodern Jain ascetics, who engaged with astronomy, medicine, and geography while maintaining a non-violent, karma-focused worldview. [[0]](https://grokipedia.com/page/prakirnaka_sutra) [[2]](https://jainworld.com/literature/jain-agams/jain-agam-literature/prakirnaagams/)\n\nDevotional and monastic themes also feature prominently. Chatuh‑śravaṇa (Chatuh Sharana) offers prayers to the four “refuges” or benevolent beings—Arihant, Siddha, Sadhu, and Dharma—while hymnic texts like Vīra‑stava (Veerastava, now largely lost) are understood to have praised Mahāvīra with poetic epithets and narratives. Gacchācāra-type materials (sometimes grouped with Prakirnakas in broader discussions) focus on rules for group conduct and lineage organization, and stava literature such as Devendra‑stava and other hymns articulate a devotional sensibility that coexists with the rigorous ascetic ideal. Together, these works show how Śvetāmbara communities integrated prayer, praise, and lineage identity into a canon that still foregrounds non-violence, self-restraint, and liberation. [[0]](https://grokipedia.com/page/prakirnaka_sutra) [[1]](https://en.wikipedia.org/wiki/Prakirnaka_Sutra) [[2]](https://jainworld.com/literature/jain-agams/jain-agam-literature/prakirnaagams/)\n\nFrom a historical and sectarian perspective, the Prakirnakas illustrate the evolving boundaries of “canon” in Jainism. While Śvetāmbara Mūrtipūjaka tradition eventually stabilized a list of ten Prakirnaka-sūtras as part of its forty-five Āgamas, other Śvetāmbara sub-sects and Digambaras developed different scriptural corpora and did not uniformly accept these texts as authoritative. Modern scholarship treats the Prakirnakas as valuable witnesses to ritual practice, doctrinal development, and the intellectual life of medieval Jain communities, but also notes the complexity of their transmission, the presence of variant lists, and the need for careful philological work on surviving manuscripts and commentaries. [[0]](https://grokipedia.com/page/prakirnaka_sutra) [[1]](https://en.wikipedia.org/wiki/Prakirnaka_Sutra) [[3]](https://jaingpt.org/knowledge/contribution_of_prakrit_to_jain_canonical_literature_250067_250067)",
+  "primary_sources": [
+    {
+      "title": "Prakīrṇaka-sūtras (collective group, Śvetāmbara canon)",
+      "author": "Traditionally attributed to various Jain ācāryas; compiled within Śvetāmbara Mūrtipūjaka lineage",
+      "original_text": "प्रकीर्णकसूत्राणि (Prakīrṇaka-sūtrāṇi) — miscellaneous canonical texts in Jaina Māhārāṣṭrī and related Prakrits.",
+      "transliteration": "Prakīrṇaka-sūtrāṇi",
+      "translation": "“Miscellaneous sūtras” — a group of independent Jain canonical works dealing with ascetic practice, devotional hymns, cosmology, and technical knowledge.",
+      "notes": "This is not a single text but a canonical category comprising multiple works such as Chatuh‑śravaṇa, Ātur‑pratyākhyāna, Bhakti‑parijñā, Saṃstāraka, Tandulavaitalika, Devendra‑stava, Gaṇita‑vidyā, Mahā‑pratyākhyāna, and the largely lost Vīra‑stava, among others. The group is recognized as part of the Angabahya Āgamas in the Śvetāmbara Mūrtipūjaka tradition, with lists varying between ten and around twenty texts depending on manuscript and sectarian traditions. [[0]](https://grokipedia.com/page/prakirnaka_sutra) [[1]](https://en.wikipedia.org/wiki/Prakirnaka_Sutra) [[2]](https://jainworld.com/literature/jain-agams/jain-agam-literature/prakirnaagams/)"
+    },
+    {
+      "title": "Chatuh‑śravaṇa (Chatuh Sharana)",
+      "author": "Anonymous; preserved in Śvetāmbara Mūrtipūjaka tradition",
+      "original_text": "अरिहंत सिद्ध साधु धम्म चारि सरणं पव्वज्झामि।",
+      "transliteration": "Arihanta siddha sādhu dhamma cāri saraṇaṃ pavvajjhāmi.",
+      "translation": "“I take refuge in the four: Arihant, Siddha, Sadhu, and Dharma.”",
+      "notes": "Chatuh‑śravaṇa is a Prakirnaka-sūtra centered on prayers to the four benevolent beings: Arihant (the perfected, embodied Jina), Siddha (the liberated, disembodied soul), Sadhu (ascetic), and Dharma (the teaching or religion). It exemplifies the devotional and refuge-oriented dimension of the Prakirnakas, integrating praise with the canonical framework of the fourfold refuge. [[2]](https://jainworld.com/literature/jain-agams/jain-agam-literature/prakirnaagams/)"
+    },
+    {
+      "title": "Ātur‑pratyākhyāna (Aayur‑Pachakhana)",
+      "author": "Anonymous; transmitted in Śvetāmbara canon",
+      "original_text": "एत्थ आयुरे णाणं, मरणे च विणियत्ति।",
+      "transliteration": "Ettha āyure ṇāṇaṃ, maraṇe ca viṇiyatti.",
+      "translation": "“Here is knowledge concerning lifespan, and regulation concerning death.”",
+      "notes": "Ātur‑pratyākhyāna discusses differences in the death of children, youths, adults, and elders, and prescribes vows and confessional practices appropriate to various states of illness. It emphasizes universal forgiveness and the wise person’s preparation for death, forming a key textual basis for later ritualizations of the Jain ideal death. [[2]](https://jainworld.com/literature/jain-agams/jain-agam-literature/prakirnaagams/) [[0]](https://grokipedia.com/page/prakirnaka_sutra)"
+    },
+    {
+      "title": "Bhakti‑parijñā (Bhatta‑parinna)",
+      "author": "Anonymous; Śvetāmbara transmission",
+      "original_text": "भक्खि‑परिज्ञा‑सुत्तं तवस्स अंतिमकाले विणियत्तिं वक्खति।",
+      "transliteration": "Bhakkhi‑parijñā‑suttaṃ tavassa antimakāle viṇiyattiṃ vakkhati.",
+      "translation": "“The Bhakti‑parijñā‑sūtra speaks of regulation at the final time of austerity.”",
+      "notes": "Bhakti‑parijñā explains the process of fasting and the reflections appropriate at the time of death, including meditation on impermanence and the relinquishing of attachments. It is closely associated with the practice of saṃlekhanā and is often cited in discussions of the ethical and ritual framework for voluntary, vow-based fasting unto death. [[2]](https://jainworld.com/literature/jain-agams/jain-agam-literature/prakirnaagams/) [[0]](https://grokipedia.com/page/prakirnaka_sutra)"
+    },
+    {
+      "title": "Saṃstāraka (Santhara)",
+      "author": "Anonymous; Śvetāmbara canon",
+      "original_text": "संस्तारकसुत्ते णिरवेसणं मरणस्स समाहियं वक्खति।",
+      "transliteration": "Saṃstāraka‑sutte niravesaṇaṃ maraṇassa samāhiyaṃ vakkhati.",
+      "translation": "“In the Saṃstāraka‑sūtra, the investigation of death in meditative composure is taught.”",
+      "notes": "Saṃstāraka describes the process and ‘glory’ of dying by one’s own desire in the sense of a carefully regulated, passion-free renunciatory death, not impulsive self-harm. It outlines stages of food withdrawal, mental preparation, and confession, and has become central to later debates on the distinction between Jain saṃlekhanā and suicide. [[2]](https://jainworld.com/literature/jain-agams/jain-agam-literature/prakirnaagams/) [[0]](https://grokipedia.com/page/prakirnaka_sutra)"
+    },
+    {
+      "title": "Tandulavaitalika (Taṇḍula‑vaicārika)",
+      "author": "Anonymous; Śvetāmbara canon",
+      "original_text": "तंडुलवैतलिके गभ्भावस्थाणं काये च विणियत्ति वक्खिता।",
+      "transliteration": "Taṇḍulavaitalike gabbhāvasthāṇaṃ kāye ca viṇiyatti vakkhitā.",
+      "translation": "“In the Tandulavaitalika, the states of pregnancy and regulations concerning the body are taught.”",
+      "notes": "Tandulavaitalika provides information about pregnancy and the human body, using reflections on food (especially rice) and embodiment to underscore the transience and vulnerability of physical existence. It illustrates how Prakirnaka texts integrate practical, quasi-medical knowledge with moral and contemplative aims. [[2]](https://jainworld.com/literature/jain-agams/jain-agam-literature/prakirnaagams/) [[0]](https://grokipedia.com/page/prakirnaka_sutra)"
+    },
+    {
+      "title": "Devendra‑stava",
+      "author": "Anonymous; Śvetāmbara canon",
+      "original_text": "देवेन्द्र‑स्तवे देवा णामे तेसिं निव्वासे च वक्खिता।",
+      "transliteration": "Devendra‑stave devā ṇāme tesiṃ nivvāse ca vakkhitā.",
+      "translation": "“In the Devendra‑stava, the names of the devas and their abodes are taught.”",
+      "notes": "Devendra‑stava lists heavenly beings (devas), their palaces, ranks, and realms, and also includes descriptions of the sun, moon, planets, and stars. It exemplifies the cosmological and devotional dimensions of the Prakirnakas, situating praise of celestial beings within a Jain karmic and cosmographic framework. [[2]](https://jainworld.com/literature/jain-agams/jain-agam-literature/prakirnaagams/) [[0]](https://grokipedia.com/page/prakirnaka_sutra)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Prakirnakas are a single, unified scripture comparable to one of the twelve Aṅgas.",
+      "reality": "The Prakirnakas are a heterogeneous group of independent texts classified together as “miscellaneous sūtras” within the Angabahya Āgamas. They vary in content, length, and historical origin, and do not form a single continuous doctrinal treatise like an Aṅga. [[0]](https://grokipedia.com/page/prakirnaka_sutra) [[1]](https://en.wikipedia.org/wiki/Prakirnaka_Sutra)"
+    },
+    {
+      "myth": "Prakirnaka-sūtras deal only with death and fasting unto death.",
+      "reality": "While several Prakirnaka texts focus on the ideal Jain death and fasting practices, the corpus also includes works on prayer, cosmology, pregnancy and the human body, astronomy, divination, and the classification of heavenly beings. Their scope extends well beyond mortuary ritual into broader ascetic, devotional, and intellectual concerns. [[0]](https://grokipedia.com/page/prakirnaka_sutra) [[2]](https://jainworld.com/literature/jain-agams/jain-agam-literature/prakirnaagams/)"
+    },
+    {
+      "myth": "All Jain sects accept the Prakirnakas as equally authoritative canonical scriptures.",
+      "reality": "Canonical recognition of the Prakirnakas is primarily characteristic of the Śvetāmbara Mūrtipūjaka tradition, which counts ten core Prakirnaka-sūtras among its forty-five Āgamas. Sthānakavāsī and Terāpanthī Śvetāmbaras, as well as Digambaras, generally do not accord these texts the same canonical status, reflecting broader sectarian differences in scriptural canons. [[1]](https://en.wikipedia.org/wiki/Prakirnaka_Sutra) [[2]](https://jainworld.com/literature/jain-agams/jain-agam-literature/prakirnaagams/)"
+    },
+    {
+      "myth": "Saṃlekhanā and the practices described in Prakirnaka texts are equivalent to suicide.",
+      "reality": "Prakirnaka-sūtras present saṃlekhanā and related practices as a carefully regulated, vow-based, passion-free renunciatory death undertaken with full ethical preparation, confession, and meditative composure. The tradition explicitly contrasts this “wise person’s death” with suicide driven by delusion, despair, or violent passion, and contemporary ethical discussions stress this distinction while also urging medical and pastoral caution. [[0]](https://grokipedia.com/page/prakirnaka_sutra) [[2]](https://jainworld.com/literature/jain-agams/jain-agam-literature/prakirnaagams/)"
+    }
+  ]
+}
+
+
+
+> [0] [Prakirnaka Sutra — Grokipedia](https://grokipedia.com/page/prakirnaka_sutra)
+>
+> [1] [Prakirnaka Sutra - Wikipedia](https://en.wikipedia.org/wiki/Prakirnaka_Sutra)
+>
+> [2] [Prakirna‑agams - Jainworld](https://jainworld.com/literature/jain-agams/jain-agam-literature/prakirnaagams/)
+>
+> [3] [Contribution Of Prakrit To Jain Canonical Literature - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/contribution_of_prakrit_to_jain_canonical_literature_250067_250067)

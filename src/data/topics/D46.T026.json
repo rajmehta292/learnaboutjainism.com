@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain thought, “identity” is not a fixed social or psychological construct but a layered concept centered on the ontological nature of the jīva (sentient being). Across Digambara and Śvetāmbara traditions, identity is ultimately defined by the soul’s intrinsic qualities—consciousness, upayoga (manifestation of awareness), bliss, energy, and eternality—rather than by external markers such as caste, gender, profession, or ritual status. Jain philosophical literature consistently distinguishes between *vyavahāra-naya* (conventional identity) and *niścaya-naya* (ultimate identity). Conventional identity includes the empirical self shaped by karma, embodiment, social roles, and psychological tendencies. Ultimate identity refers to the pure jīva, free from karmic obscurations.\n\nIdentity is therefore dynamic: karmic influx (āsrava) and bondage (bandha) shape the empirical personality, while spiritual practice—right faith, right knowledge, and right conduct—progressively reveals the soul’s true nature. The Gunasthāna system (fourteen stages of spiritual development) provides a technical map of how identity transforms as delusion decreases and the soul’s inherent qualities become more manifest. In Jain ethics, understanding identity as fundamentally spiritual encourages nonviolence, humility, and equality, since all beings share the same essential nature despite differing embodiments.\n\nModern Jain scholarship often highlights how this dual identity framework helps reconcile rigorous metaphysics with lived social identity. While Jain communities historically developed distinct sectarian, linguistic, and cultural identities, the philosophical core remains centered on the soul’s intrinsic attributes. Thus, Jainism presents identity as both a practical reality shaped by karma and a transcendental truth grounded in the eternal jīva.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "जीवो ज्ञानदर्शनसुखदुःखवीर्याणि।",
+      "transliteration": "jīvo jñāna-darśana-sukha-duḥkha-vīryāṇi",
+      "translation": "The soul possesses knowledge, perception, bliss, suffering, and energy.",
+      "notes": "Tattvārtha Sūtra 2.8 is a foundational definition of the jīva’s intrinsic qualities. It establishes identity as rooted in the soul’s attributes rather than external conditions. Commentaries differ on nuances, but all agree that these qualities are inherent and only obscured by karma."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda (Digambara)",
+      "original_text": "सोउ णिजभावो सोउ जिवो।",
+      "transliteration": "sou nijabhāvo sou jīvo",
+      "translation": "The true nature is the soul itself.",
+      "notes": "Samayasāra repeatedly emphasizes the distinction between the pure soul (niścaya) and the empirical self (vyavahāra). Identity is ultimately the pure jīva, untouched by karmic states. This text is central to Digambara metaphysics."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "अत्ताणं पइवेक्खा।",
+      "transliteration": "attāṇaṃ paivekkhā",
+      "translation": "One should contemplate the self.",
+      "notes": "This passage encourages introspection into the nature of the self. Śvetāmbara tradition uses it to highlight the ethical and meditative dimensions of understanding identity."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that identity is entirely determined by karma and leaves no room for change.",
+      "reality": "While karma shapes the empirical personality, Jain doctrine emphasizes that identity is ultimately the pure jīva, which is unchanging. Spiritual practice can transform karmic conditions, allowing the soul’s true nature to manifest."
+    },
+    {
+      "myth": "Sectarian identity (Digambara, Śvetāmbara, Sthānakavāsī, Terāpanth) defines one’s spiritual status.",
+      "reality": "Sectarian affiliation is a historical and cultural identity, not a measure of spiritual purity. All traditions affirm that the soul’s intrinsic qualities—not external labels—define ultimate identity."
+    },
+    {
+      "myth": "Identity in Jainism is individualistic and disconnected from ethical responsibility.",
+      "reality": "Understanding the shared nature of all jīvas fosters compassion, nonviolence, and responsibility toward all living beings. Identity is both metaphysical and ethical."
+    }
+  ]
+}

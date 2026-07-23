@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain ontology, “water-bodied” beings (Sanskrit: *āpo-kāyika*; Prakrit: *āo-kāya*) are one of the five classes of *ekendriya jīvas*—single-sensed living beings possessing only the sense of touch. Jainism teaches that water is not merely a substance but can serve as a body (*kāya*) for subtle life-forms. These beings are not metaphorical; they are treated as real, embodied jīvas with karmic bondage, lifespan, and moral significance. \n\nWater-bodied beings arise wherever water exists in natural or artificial forms: droplets, dew, rain, ponds, rivers, wells, and even moist soil. They are considered extremely delicate, with short lifespans and limited mobility. Their existence is used to illustrate the vastness of life in the universe and the ethical responsibility of humans to avoid unnecessary harm. \n\nIn Jain ethics, harming water-bodied beings is classified as *himsā*. Actions such as boiling water, carelessly discarding liquids, or polluting water sources are traditionally understood to destroy countless subtle organisms. Lay conduct manuals advise mindful use of water, especially during religious observances. Monastic codes include stricter rules, such as filtering water before consumption. \n\nPhilosophically, water-bodied beings demonstrate the Jain doctrine of *anantajīva*—the infinity of living beings—and the principle that life permeates all elements (*pṛthivī*, *āp*, *tejas*, *vāyu*, *vanaspati*). Their inclusion in canonical taxonomies underscores the Jain commitment to nonviolence toward even the smallest and least perceptible forms of life.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmī",
+      "original_text": "अप्-कायिकाः",
+      "transliteration": "ap-kāyikāḥ",
+      "translation": "“Water-bodied beings.”",
+      "notes": "Tattvārtha Sūtra 2.13 lists water-bodied beings as one of the five classes of single-sensed organisms. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārthavṛtti* (Śvetāmbara) explain that these beings possess only touch-sense and inhabit natural bodies formed of water."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "एगिंदियाणं जीवाणं अप्पकायो",
+      "transliteration": "egindiyāṇaṃ jīvāṇaṃ appakāyo",
+      "translation": "“Among one-sensed beings, there are those whose body is water.”",
+      "notes": "This passage appears in taxonomic discussions of living beings. The text emphasizes the ethical implications of harming subtle organisms, including those in water."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Nemichandra Siddhānta Chakravartin (Digambara)",
+      "original_text": "अप्पकायो त्ति जलदेहो",
+      "transliteration": "appakāyo tti jaladeho",
+      "translation": "“Water-bodied means having a body composed of water.”",
+      "notes": "Dravyasaṃgraha’s verses on *jīva* describe elemental-bodied beings and clarify that water can serve as a living body for subtle organisms."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Water-bodied beings refer only to symbolic or metaphorical life, not actual organisms.",
+      "reality": "Jain texts treat water-bodied beings as real, embodied jīvas with karmic bondage and lifespan. They are part of the canonical taxonomy of living beings and are ethically significant."
+    },
+    {
+      "myth": "Water-bodied beings are identical to aquatic animals like fish or insects.",
+      "reality": "Fish, insects, and other multi-sensed aquatic animals belong to higher categories of jīvas. Water-bodied beings are single-sensed organisms whose bodies consist of water itself."
+    },
+    {
+      "myth": "Filtering or careful handling of water is only symbolic ritualism.",
+      "reality": "Traditional Jain practice interprets such actions as reducing harm to subtle water-bodied beings, aligning with the broader ethic of nonviolence."
+    }
+  ]
+}

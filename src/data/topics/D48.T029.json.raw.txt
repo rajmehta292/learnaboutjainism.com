@@ -1,0 +1,55 @@
+{
+  "overview": "In Jainism, fasting (upavāsa, anasana, tapas) is a respected spiritual discipline, but it is never meant to become a competition. The core aims of Jain fasting are inner purification, reduction of passions (kaṣāya), and gentle detachment from material and bodily attachment. When fasting is turned into a contest—who can fast longer, more frequently, or more dramatically—it shifts the focus from humility and self‑discipline to pride, display, and sometimes physical harm. This directly conflicts with the central Jain values of ahiṃsā (non‑violence), aparigraha (non‑possessiveness), and saṃyama (self‑restraint).\n\nTraditional Jain texts describe many forms of austerity—complete fasts (anasana), partial fasts (unodarī), limitation of food items (vṛtti‑saṃkṣepa), and renunciation of favorite tastes (rasa‑tyāga). These are framed as personal vows undertaken with right faith (samyag‑darśana), right knowledge (samyag‑jñāna), and right conduct (samyag‑cāritra). The emphasis is always on suitability to one’s health, stage of life, and spiritual capacity, guided by teachers and scriptures, not by peer pressure or public comparison. Austerities are praised when they are quiet, inward, and free from attachment to reputation.\n\nCompetitive fasting undermines this ethos in several ways. First, it can encourage subtle or overt violence toward one’s own body, especially when people push beyond safe limits to “win” or to impress others. Jain ethics treat the body as a vehicle for spiritual progress; harming it out of ego or rivalry is considered a form of hiṃsā. Second, competition inflames pride (māna), desire for praise (lābha‑pūjā), and comparison with others—precisely the passions that austerities are meant to reduce. Third, it can create coercive social environments, where children, youth, or vulnerable adults feel pressured to undertake fasts they do not understand or cannot safely sustain.\n\nModern Jain communities and educators increasingly articulate the principle of “no fasting competition” as a practical guideline: fasts should be voluntary, informed, medically safe, and spiritually motivated, never a public contest. Parents and teachers are urged to protect minors from excessive or waterless fasting, and to prioritize health, education, and balanced practice. For adults, responsible fasting includes consulting physicians when there are medical conditions (such as diabetes, pregnancy, or chronic illness) and seeking guidance from qualified religious teachers before undertaking extended austerities.\n\nFrom the perspective of karma theory and the fourteen guṇasthānas (stages of spiritual development), the value of a fast lies in the inner state—calmness, non‑attachment, and reduction of passions—not in the number of days or the extremity of the practice. A short, well‑understood fast performed with humility and compassion can be spiritually more beneficial than a long, competitive fast driven by ego. Texts that discuss terminal fasting (sallekhanā or samādhi‑maraṇa) insist on non‑coercion, mental stability, and gradual preparation; they explicitly distinguish it from impulsive self‑harm or socially pressured deprivation. By analogy, everyday fasting must also avoid any form of compulsion or rivalry.\n\nIn practical terms, a Jain ethic of “no fasting competition” encourages:\n\n1. **Intention over duration**: asking why one is fasting, not how long.\n2. **Health over display**: respecting medical limits and avoiding harm.\n3. **Guidance over imitation**: learning from scriptures and experienced teachers rather than copying extreme examples.\n4. **Privacy over publicity**: keeping austerities modest and non‑performative.\n\nBecause fasting touches both spiritual and bodily well‑being, responsible practice requires both scriptural understanding and medical prudence. When there is any risk of harm—especially for children, pregnant persons, the elderly, or those with illness—Jain principles of ahiṃsā and anukampā (compassion) support reducing, modifying, or even refraining from fasting. In such cases, alternative practices like sāmāyika (meditative equanimity), pratikramaṇa (ethical reflection and repentance), charity, and study of scriptures can be emphasized instead. Overall, the Jain vision is clear: austerity is a tool for inner freedom, not a stage for competition.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "तपसा कर्माणि क्षय्यन्ति ।",
+      "transliteration": "tapasā karmāṇi kṣayyanti.",
+      "translation": "By austerities, karmas are destroyed.",
+      "notes": "Corpus tier A (primary text). This aphorism (commonly cited around TS 9.3) states the doctrinal role of tapas (austerity) in the destruction of karmic matter. It does not describe competitive fasting; rather, it presents austerity as a spiritual tool. The interpretation that fasting should be non‑competitive comes from later ethical reflection: if tapas is undertaken with pride or rivalry, the passions increase and karmic bondage is strengthened instead of weakened."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to disciples of Mahāvīra",
+      "original_text": "भत्तभत्ते समणे भत्तभत्ते । अल्पभत्ते अल्पभत्ते ।",
+      "transliteration": "bhattabhattē samaṇē bhattabhattē, alpabhattē alpabhattē.",
+      "translation": "The mendicant takes food with restraint, with little food, with little attachment to food.",
+      "notes": "Corpus tier A (primary text, Śvetāmbara canon). This passage (paraphrasing themes from Ācārāṅga I) emphasizes moderation and restraint in eating. The original text focuses on limiting food and attachment, not on outdoing others. Modern application extends this to say that any practice of eating less or fasting should be guided by inner restraint and suitability, not by comparison or competition."
+    },
+    {
+      "title": "Puruṣārthasiddhyupāya",
+      "author": "Amṛtacandra",
+      "original_text": "सामायिकस्य बलवृद्ध्यर्थं प्रोषधोपवासं पक्षा द्वये कर्तव्यं ।\nसर्वकर्मत्यागी देहाद्यसक्तिरहितो मध्याह्नादारभ्य प्रोषधोपवासं कुर्यात् ।",
+      "transliteration": "sāmāyikasya balavṛddhyarthaṃ proṣadhopavāsaṃ pakṣā dvaye kartavyaṃ.\nsarvakarmatyāgī dehādyasaktirahito madhyāhnād ārabhya proṣadhopavāsaṃ kuryāt.",
+      "translation": \"For the strengthening of daily meditation (sāmāyika), one should undertake fasting on the two proṣadha days in each fortnight. Free from all routine activities and attachment to body and possessions, one should commence the fast from midday on the preceding day.\"",
+      "notes": "Corpus tier B–C (traditional commentary and scholastic text). These verses describe proṣadhopavāsa as a disciplined, periodic fast supporting meditation. The text stresses inner detachment and withdrawal from routine activities, not public display. Interpreters note that the value of the fast lies in its support for sāmāyika; turning such a fast into a contest would contradict the stated aim of calm, detached meditation."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra (on sallekhanā)",
+      "author": "Samantabhadra",
+      "original_text": "क्रोधमानमायालोभान् त्यक्त्वा क्षमादयः साधयेत् ।\nकृतकृत्यकृतानुमोदनदोषान् चिन्तयित्वा क्षमापयेत् ।",
+      "transliteration": "krodha‑māna‑māyā‑lobhān tyaktvā kṣamādayaḥ sādhayet.\nkṛta‑kārita‑anumodana‑doṣān cintayitvā kṣamāpayet.",
+      "translation": \"Abandoning anger, pride, deceit, and greed, one should cultivate forgiveness and the other virtues. Reflecting on faults committed directly, caused in others, or approved of, one should seek forgiveness.\"",
+      "notes": "Corpus tier B (lay conduct text). In the context of sallekhanā (terminal fasting), Ratnakaraṇḍa Śrāvakācāra insists on the prior renunciation of pride (māna) and related passions. Although this passage does not mention everyday competitive fasting, it is often cited to show that any serious fast must be free from pride and desire for praise. By extension, a culture of fasting competitions, which encourages pride and comparison, conflicts with the preparatory virtues required even for the most revered forms of fasting."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism encourages people to compete in how long or how strictly they can fast.",
+      "reality": "Jain texts praise fasting as a personal, inward austerity aimed at reducing passions and attachment, not as a contest. Competition introduces pride, ego, and potential harm to the body, which contradicts ahiṃsā and the very purpose of tapas."
+    },
+    {
+      "myth": "Longer and harsher fasts are always spiritually superior, regardless of health or intention.",
+      "reality": "The spiritual value of a fast depends on right intention, understanding, and non‑violence. A moderate, well‑guided fast performed with humility can be more beneficial than an extreme fast driven by ego or undertaken despite serious health risks. Jain ethics support adjusting or refraining from fasting when it endangers life or health."
+    },
+    {
+      "myth": "Children and youth should be encouraged to match or surpass adult fasting practices to build discipline.",
+      "reality": "Jain principles of compassion and non‑violence require special care for minors. Extended or waterless fasting can be medically unsafe for children and adolescents. Responsible practice emphasizes age‑appropriate vows, education, and alternative disciplines (like sāmāyika and pratikramaṇa), not competitive austerities."
+    },
+    {
+      "myth": "Publicly announcing and comparing fasts on social media or in community events increases religious merit.",
+      "reality": "Public display can feed attachment to praise and status, which Jain texts classify as forms of māna (pride) and lābha‑pūjā (desire for gain and honor). Merit is linked to inner transformation and reduction of passions, not to publicity or comparison. Quiet, sincere practice aligns more closely with Jain ideals."
+    }
+  ]
+}

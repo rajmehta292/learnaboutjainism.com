@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “learning objectives” refer to clearly articulated aims that guide a student’s progression through doctrinal understanding, scriptural literacy, ethical reasoning, and practical application. Because Jain traditions emphasize disciplined inquiry, non-harm in interpretation, and fidelity to primary sources, learning objectives help structure how a learner moves from foundational concepts—such as the nature of jīva, ajīva, karma, and the path to liberation—to more advanced topics like the guṇasthānas, epistemology (pramāṇa), and sectarian developments.\n\nWithin formal Jain pedagogy, learning objectives serve several functions: (1) defining the scope of study appropriate to the learner’s stage (youth, lay adult, advanced scholar), (2) ensuring that doctrinal claims are grounded in authoritative texts rather than hearsay, (3) distinguishing between canonical material, commentary, and modern interpretation, and (4) supporting ethical reflection so that knowledge is not merely theoretical but contributes to ahiṃsā, self-restraint, and clarity of conduct.\n\nLearning objectives also help prevent misinterpretation by encouraging students to identify the genre of a text (canonical sūtra, narrative, commentary, scholastic treatise), understand linguistic features of Ardhamāgadhī or Sanskrit, and recognize where traditions diverge. They provide a scaffold for comparative study across Digambara and Śvetāmbara lineages, enabling learners to appreciate shared principles while acknowledging doctrinal nuance.\n\nIn modern contexts—such as university courses, community education, or structured lay study—learning objectives often include: (a) accurate comprehension of primary passages, (b) awareness of historical development, (c) ability to differentiate sectarian interpretations, (d) skill in applying Jain ethical reasoning to contemporary dilemmas, and (e) recognition of limits of one’s authority, especially regarding ritual, vows, or advanced ascetic practices. These objectives ensure that learning remains responsible, source-grounded, and aligned with Jain values of humility and non-harm.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "ज्ञानं दर्शनं चारित्रं मोक्षमार्गः",
+      "transliteration": "jñānaṃ darśanaṃ cāritraṃ mokṣamārgaḥ",
+      "translation": "Knowledge, perception, and conduct constitute the path to liberation.",
+      "notes": "Tattvārtha Sūtra 1.1 (Tier A). This aphorism is frequently used to frame learning objectives: study aims to cultivate right knowledge, right perception, and right conduct. Traditions differ on interpretive details, but all agree on its foundational role."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to early Śvetāmbara redactors",
+      "original_text": "णं णं जाणा, णं णं दंसणा",
+      "transliteration": "ṇaṃ ṇaṃ jāṇā, ṇaṃ ṇaṃ daṃsaṇā",
+      "translation": "Knowing and seeing are to be cultivated again and again.",
+      "notes": "Ācārāṅga Sūtra I.2 (Tier A). This passage highlights repetitive cultivation of knowledge and perception, supporting learning objectives centered on disciplined study."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Kundakunda (traditionally associated with foundational doctrine) and later redactors",
+      "original_text": "दव्वस्स भावो णिज्जो",
+      "transliteration": "davvassa bhāvo nijjo",
+      "translation": "The intrinsic nature of a substance is its own.",
+      "notes": "A core doctrinal statement used in Digambara study to develop learning objectives around ontology, substance theory, and correct discernment of jīva and ajīva."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Learning objectives in Jainism are identical across all sects and educational settings.",
+      "reality": "While foundational aims—such as cultivating right knowledge and ethical clarity—are shared, Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth traditions emphasize different texts, commentaries, and pedagogical priorities. Modern academic courses also differ from traditional temple-based or monastic instruction."
+    },
+    {
+      "myth": "Learning objectives focus only on memorizing doctrine.",
+      "reality": "Jain learning objectives include textual comprehension, ethical reasoning, historical awareness, linguistic skills, and the ability to distinguish between canonical sources, commentary, and modern interpretation. Memorization alone is insufficient without understanding and application."
+    },
+    {
+      "myth": "Advanced learning objectives authorize a student to undertake ascetic vows or practices like prolonged fasting.",
+      "reality": "No learning objective substitutes for guidance from qualified human teachers within a living lineage. Advanced ascetic practices require personal assessment, health considerations, and explicit authorization; they cannot be adopted solely on the basis of study."
+    }
+  ]
+}

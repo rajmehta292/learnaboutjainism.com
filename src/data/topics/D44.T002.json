@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, “occupational harm” refers to the ethical, karmic, and practical challenges that arise from earning a livelihood in ways that may cause injury (hiṃsā) to living beings or contribute to harmful social conditions. The topic sits at the intersection of ahiṃsā, right livelihood (ājīva), and lay conduct (śrāvakācāra). Jain traditions do not prescribe a single universal list of permitted or forbidden occupations; instead, they provide graded guidance based on the intensity of harm, the number of beings affected, the degree of intentionality, and the availability of less harmful alternatives.\n\nAcross Digambara and Śvetāmbara lineages, occupational harm is framed as part of the broader discipline of samyak-ājīva, one of the components of the Three Jewels and the lay vows. Harmful livelihoods are those that directly involve killing, trafficking in living beings, manufacturing weapons, or professions that create large-scale ecological or social injury. Texts also discuss subtler forms of harm, such as deceitful business practices, exploitation, or activities that indirectly support violence.\n\nJain ethics emphasizes that laypeople inevitably participate in limited forms of harm due to social and economic life. The goal is not absolute avoidance—possible only for ascetics—but conscientious reduction. This includes choosing occupations that minimize violence, adopting practices that reduce collateral harm, and cultivating awareness of karmic consequences. Modern Jain scholarship extends the discussion to industrial labor, environmental degradation, digital professions, and global supply chains, noting that occupational harm today often arises from complex systems rather than direct physical acts.\n\nBecause occupational decisions can involve financial, legal, and health implications, Jain texts consistently advise consultation with qualified teachers and practical experts. The tradition encourages gradual ethical improvement rather than coercive or abrupt changes, recognizing the responsibilities of householders toward dependents and society.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः ।",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "Right conduct (cāritra) includes right livelihood for laypeople. Later chapters (TS 7–8) classify forms of hiṃsā and provide the basis for evaluating occupational harm. The text does not list specific professions but establishes the principle that intentional injury binds heavier karma."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जिवा जिवा ण हन्तव्वा ।",
+      "transliteration": "jīvā jīvā ṇa hantavvā",
+      "translation": "Living beings should not be harmed.",
+      "notes": "This foundational injunction underlies later discussions of livelihoods. Commentaries use this principle to evaluate professions involving direct or indirect injury."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra (Digambara)",
+      "author": "Ācārya Samantabhadra",
+      "original_text": "अहिंसादिव्रतानां पालनं श्रावकस्य कर्तव्यं ।",
+      "transliteration": "ahiṃsādi-vratānāṃ pālanaṃ śrāvakasyā kartavyam",
+      "translation": "A layperson must uphold the vows beginning with nonviolence.",
+      "notes": "Chapters on minor vows (anuvratas) and supplementary vows (śīlavratas) discuss livelihood choices. Harmful trades such as weapon-making, animal slaughter, and trafficking are cited as incompatible with ahiṃsā."
+    },
+    {
+      "title": "Daśavaikālika Sūtra (Śvetāmbara)",
+      "author": "Attributed to Ācārya Sayyambhava",
+      "original_text": "अहिंसा परमो धर्मः ।",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Nonviolence is the supreme dharma.",
+      "notes": "Although widely quoted, the text’s chapters elaborate practical guidance for laypeople, including avoiding livelihoods that intensify violence or deceit."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism forbids all occupations that involve any form of harm.",
+      "reality": "Primary texts distinguish between intentional, direct, and large-scale harm versus unavoidable minimal harm. Laypeople are expected to reduce harm, not achieve ascetic-level nonviolence."
+    },
+    {
+      "myth": "All Jain traditions provide identical lists of prohibited professions.",
+      "reality": "Digambara and Śvetāmbara sources share core principles but differ in emphasis, examples, and commentarial detail. Guidance is contextual and often requires interpretation by qualified teachers."
+    },
+    {
+      "myth": "Modern professions such as digital work or corporate roles fall outside Jain ethical evaluation.",
+      "reality": "Contemporary Jain scholarship applies classical principles to new contexts, examining issues like data ethics, environmental impact, labor exploitation, and systemic harm."
+    }
+  ]
+}

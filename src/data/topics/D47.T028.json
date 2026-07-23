@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, “education” (śikṣā, adhyayana) encompasses far more than literacy or vocational training. It refers to the disciplined cultivation of knowledge (jñāna), conduct (cāritra), and discernment (viveka) that support liberation. Classical Jain texts describe five forms of knowledge—mati, śruta, avadhi, manaḥparyāya, and kevala—and education is primarily concerned with the first two: sensory-cognitive learning and scriptural learning. The Jain educational ideal integrates intellectual rigor, ethical formation, and nonviolent living.\n\nHistorically, Jain communities developed robust systems of learning. Monastic education focused on memorization of Prakrit and Sanskrit scriptures, mastery of logic (nyāya), grammar (vyākaraṇa), cosmology, karma theory, and conduct manuals. Lay education emphasized literacy, ethical instruction, and practical skills for community life. From the early canonical period through medieval scholastic centers in Gujarat, Karnataka, and Rajasthan, Jain scholars contributed significantly to Indian intellectual history, producing treatises on mathematics, astronomy, logic, and philosophy.\n\nEducation is also framed as a moral responsibility. The Tattvārtha Sūtra states that right knowledge (samyag-jñāna) is inseparable from right faith and right conduct. Thus, learning is not merely accumulation of information but a transformative process that reduces delusion (mithyātva) and cultivates compassion. Modern Jain institutions—schools, colleges, research centers, and paṭhaśālās—continue this legacy, teaching both secular subjects and Jain studies. Across traditions (Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, Terāpanth), education remains a central pillar of community life, adapted to contemporary needs while grounded in classical principles.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This foundational aphorism (TS 1.1) establishes knowledge as an essential component of spiritual progress. It frames education as part of ethical and spiritual cultivation rather than mere intellectual activity."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to early Śvetāmbara redactors",
+      "original_text": "णाणं तं च णाणं तं च सव्वं पव्वं पव्वं",
+      "transliteration": "ñāṇaṃ taṃ ca ñāṇaṃ taṃ ca savvaṃ pavvaṃ pavvaṃ",
+      "translation": "Knowledge, and again knowledge, is the foremost among all disciplines.",
+      "notes": "This passage emphasizes the primacy of knowledge in shaping conduct. It appears in discussions of the ascetic’s discipline and highlights learning as a foundational virtue."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Kundakunda lineage; compiled by Puṣpadanta and Bhūtabali",
+      "original_text": "ज्णाणं च अण्णं नत्थि",
+      "transliteration": "jñāṇaṃ ca aṇṇaṃ natthi",
+      "translation": "There is nothing comparable to knowledge.",
+      "notes": "A recurring theme in Digambara canonical literature is the unparalleled value of knowledge for understanding karma and the nature of reality. Education is treated as a disciplined path toward clarity and nonviolence."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain education is limited to religious instruction and scriptural memorization.",
+      "reality": "While scriptural study is central, Jain communities historically supported broad learning, including mathematics, logic, astronomy, medicine, and commerce. Jain scholars contributed significantly to Indian intellectual traditions."
+    },
+    {
+      "myth": "Education in Jainism is only for monks and nuns.",
+      "reality": "Laypeople are encouraged to pursue both secular and spiritual education. Texts emphasize that right knowledge is essential for all individuals seeking ethical and meaningful lives."
+    },
+    {
+      "myth": "Jain educational ideals discourage critical inquiry.",
+      "reality": "Jain epistemology (anekāntavāda, syādvāda) encourages multi-perspectival reasoning and rigorous analysis. Critical inquiry is considered essential for reducing delusion and cultivating right knowledge."
+    }
+  ]
+}

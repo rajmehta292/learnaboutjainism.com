@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, equanimity—often expressed through terms such as *samatā*, *madhyasthata*, *upekṣā*, and *sāmāyika*—is a foundational mental and ethical disposition. It refers to a stable, non-reactive state of mind that remains balanced amidst pleasure and pain, gain and loss, praise and blame. Equanimity is not emotional suppression; rather, it is a cultivated clarity that allows one to perceive situations without attachment (*rāga*) or aversion (*dveṣa*). Jain philosophers consistently describe equanimity as both a prerequisite for spiritual progress and a direct expression of the soul’s inherent purity.\n\nWithin the broader Jain path, equanimity functions at multiple levels. At the ethical level, it guides laypeople and monastics to respond to daily challenges without harming others or themselves. At the meditative level, equanimity is the central aim of *sāmāyika*, the practice of periodic mental stillness. At the metaphysical level, equanimity is the soul’s natural state when freed from karmic obscurations. The cultivation of equanimity is therefore intertwined with the reduction of passions (*kaṣāyas*) and the gradual ascent through the *guṇasthānas* (stages of spiritual development).\n\nJain traditions articulate equanimity with subtle differences. Digambara texts emphasize equanimity as the defining quality of advanced ascetics who have subdued all passions. Śvetāmbara Mūrtipūjaka sources highlight equanimity within ritual contexts, especially during *pratikramaṇa* and *sāmāyika*. Sthānakavāsī and Terāpanth traditions stress equanimity as a psychological discipline accessible to all practitioners, often linking it to nonviolence in thought. Across these traditions, equanimity remains a universal ideal: a disciplined, compassionate, and non-reactive stance that aligns human conduct with the soul’s true nature.\n\nModern Jain scholarship interprets equanimity as a practical tool for ethical living in complex societies. It is seen as a way to reduce impulsive harm, cultivate interpersonal harmony, and navigate moral dilemmas with clarity. While interpretations vary, the core principle remains consistent: equanimity is the steady flame of awareness that illuminates the path toward liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "Equanimity is embedded within right conduct (*cāritra*), especially in the form of passionlessness (*kaṣāya-śamana*). Commentaries (B) explain that equanimity is essential for stabilizing right faith and knowledge."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "समो अहिंसा",
+      "transliteration": "samo ahiṃsā",
+      "translation": "Equanimity is nonviolence.",
+      "notes": "A brief but influential aphorism. Commentarial traditions interpret this as indicating that true nonviolence arises only when the mind is free from attachment and aversion."
+    },
+    {
+      "title": "Sāmāyika Section, Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "समत्वं सायमे",
+      "transliteration": "samatvaṃ sāyame",
+      "translation": "Equanimity is the essence of sāmāyika.",
+      "notes": "Digambara monastic discipline texts emphasize equanimity as the defining quality of meditative practice. The term *sāyama* refers to restraint, which is inseparable from equanimity."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "उवेक्खा परमा विरागा",
+      "transliteration": "uvekkhā paramā virāgā",
+      "translation": "Equanimity is the highest dispassion.",
+      "notes": "This passage links equanimity with the gradual elimination of passions. Commentaries note that equanimity is not indifference but a refined form of non-attachment."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Equanimity means emotional numbness or indifference.",
+      "reality": "Jain texts describe equanimity as heightened awareness free from attachment and aversion. It does not suppress emotion; it transforms reactive tendencies into clarity and compassion."
+    },
+    {
+      "myth": "Equanimity is only for monks and not relevant to laypeople.",
+      "reality": "Canonical and commentarial sources emphasize equanimity as essential for all practitioners. Lay vows, *sāmāyika*, and *pratikramaṇa* explicitly cultivate equanimity in daily life."
+    },
+    {
+      "myth": "Equanimity requires withdrawing from society.",
+      "reality": "While advanced ascetics may practice equanimity in solitude, Jain ethics encourage laypeople to apply equanimity within family, work, and community settings to reduce harm and increase harmony."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "Narrative variation refers to the phenomenon in Jain literature where a single story, episode, or biographical account appears in multiple forms across different canonical collections, commentarial traditions, sectarian recensions, and regional manuscript lineages. Because Jainism preserves a vast corpus of Prakrit and Sanskrit narrative texts—ranging from the Āgamas and their niryuktis to later Digambara purāṇas, Śvetāmbara caritras, and vernacular retellings—stories often evolve in structure, emphasis, character roles, and doctrinal framing. \n\nIn Jain studies, narrative variation is not treated as an error but as evidence of living transmission. The same event in the life of a tīrthaṅkara, for example, may appear with different symbolic details in Śvetāmbara Mūrtipūjaka manuscripts, Digambara purāṇic expansions, or Sthānakavāsī didactic literature. Variations can arise from linguistic shifts (Ardhamāgadhī to Sanskrit to Gujarati), doctrinal priorities (e.g., differing views on kevalajñāna prerequisites), or pedagogical aims (moral exemplification for lay audiences versus technical karmic exposition). \n\nScholars classify narrative variation into several types: (1) structural variation, where episodes are reordered or expanded; (2) doctrinal variation, where karmic explanations or vows differ; (3) character variation, where supporting figures change names or roles; and (4) symbolic variation, where metaphors or miracles differ according to sectarian aesthetics. Jain tradition itself acknowledges such diversity, emphasizing that narrative authority ultimately rests in the doctrinal core rather than peripheral embellishment. \n\nUnderstanding narrative variation is essential for manuscript studies, sectarian comparison, and reconstructing early Jain narrative history. It also helps modern readers distinguish between primary textual claims (Tier A) and later interpretive layers (Tiers B–D), ensuring responsible engagement with the tradition’s rich storytelling heritage.",
+  "primary_sources": [
+    {
+      "title": "Ācāranga Sūtra",
+      "author": "Traditionally attributed to the Gaṇadharas; preserved in Śvetāmbara canon",
+      "original_text": "णं च णं च वंदामि महावीरं",
+      "transliteration": "ṇaṃ ca ṇaṃ ca vandāmi mahāvīraṃ",
+      "translation": "“I bow again and again to Mahāvīra.”",
+      "notes": "The Ācāranga Sūtra contains early biographical elements of Mahāvīra. Later narrative traditions expand these episodes significantly, illustrating how foundational accounts become elaborated in subsequent retellings."
+    },
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "तत्थ महावीरस्स जनणं होइ",
+      "transliteration": "tattha mahāvīrassa janaṇaṃ hoi",
+      "translation": "“There occurs the birth of Mahāvīra.”",
+      "notes": "The Kalpa Sūtra’s concise account of Mahāvīra’s birth is expanded differently in Śvetāmbara festival recitations, Digambara purāṇas, and regional narrative traditions, demonstrating structural and symbolic variation."
+    },
+    {
+      "title": "Padmapurāṇa (Digambara)",
+      "author": "Raviṣeṇa",
+      "original_text": "जिनवरचरितं पुण्यं पावनं पापनाशनम्",
+      "transliteration": "jinavara-caritaṃ puṇyaṃ pāvanaṃ pāpanāśanam",
+      "translation": "“The deeds of the supreme Jinas are meritorious, purifying, and destroy sin.”",
+      "notes": "Digambara purāṇas often present expanded tīrthaṅkara narratives with additional karmic explanations and cosmological detail, illustrating doctrinal and structural variation compared to Śvetāmbara canonical accounts."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Narrative variation means that Jain texts contradict each other or lack reliability.",
+      "reality": "Variation reflects layered transmission, differing pedagogical aims, and sectarian redaction practices. Core doctrinal elements remain stable even when narrative embellishments differ."
+    },
+    {
+      "myth": "Only later texts contain narrative variation; early canonical texts are uniform.",
+      "reality": "Even early Prakrit canonical materials show internal variation across recensions and manuscript families. Uniformity is not expected in pre-print textual cultures."
+    },
+    {
+      "myth": "Narrative variation implies sectarian conflict.",
+      "reality": "Many variations arise from regional, linguistic, or pedagogical factors rather than polemical disagreement. Jain communities often accept multiple narrative forms as complementary."
+    }
+  ]
+}

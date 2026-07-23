@@ -1,0 +1,39 @@
+{
+  "overview": "In Jain studies, “work records” refers to the broad category of textual, inscriptional, and administrative documentation that preserves information about labor, economic activity, monastic organization, temple maintenance, manuscript production, and community governance. Although Jain canonical literature does not use a single technical term equivalent to the modern English phrase, the concept aligns with several traditional genres: monastic rulebooks (ācāra), community charters (paṭṭāvalī), temple management inscriptions, donation registers (dāna‑patra), and manuscript colophons (pratīka). These records illuminate how Jain communities organized daily work, maintained ethical boundaries around livelihood, and preserved institutional memory.\n\nWithin the canonical strata, work-related documentation appears indirectly through prescriptions on permissible occupations for laypeople (śrāvakas) and duties for monastics. Later commentarial and historical sources provide more explicit examples of record‑keeping practices, including guild interactions, temple treasuries, and manuscript workshops. In medieval and early modern Jain communities, work records served as tools for accountability, ethical compliance, and continuity of lineage knowledge.\n\nIn contemporary Jain studies, historians and philologists use these records to reconstruct economic networks, migration patterns, sectarian developments, and the evolution of ritual and administrative practices. They also help clarify how Jain ethical principles—especially ahiṃsā (non‑violence), satya (truthfulness), and asteya (non‑stealing)—were applied to real-world labor and commerce. Work records thus form a bridge between doctrinal ideals and lived community practice.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "कम्मं न करइ, कम्मं न कारइ",
+      "transliteration": "kammaṃ na karaï, kammaṃ na kāraï",
+      "translation": "“One should not perform harmful work, nor cause others to perform it.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.4) does not describe record‑keeping directly but establishes the ethical framework for evaluating work. Later administrative records often cite such principles when defining acceptable occupations."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Anonymous; part of Śvetāmbara canon",
+      "original_text": "जोगं करेज्जा, कम्मं समेत्तेण",
+      "transliteration": "jogaṃ karejjā, kammaṃ sametteṇa",
+      "translation": "“One should perform one’s duties with right intention.”",
+      "notes": "Chapter 29 discusses duties and discipline. Medieval Jain guild records frequently invoke this ideal when describing ethical labor practices."
+    },
+    {
+      "title": "Temple Donation Inscriptions (various sites, 9th–15th century CE)",
+      "author": "Multiple donors and scribes",
+      "original_text": "दानेन धर्मलाभः",
+      "transliteration": "dānena dharmalābhaḥ",
+      "translation": "“Through donation, one attains merit.”",
+      "notes": "These inscriptions often include detailed work records: names of artisans, supervisors, treasurers, and donors; materials used; and dates of construction. They provide concrete evidence of Jain administrative and labor organization."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain tradition avoids all forms of record‑keeping because it emphasizes renunciation.",
+      "reality": "While monastics renounce personal property, Jain communities historically maintained extensive administrative records—temple accounts, donation registers, manuscript colophons, and lineage lists—to ensure ethical governance and continuity."
+    },
+    {
+      "myth": "Work records only concern economic transactions and have no religious significance.",
+      "reality": "Many Jain work records explicitly link labor, donation, and craftsmanship to spiritual merit, ethical conduct, and community service. They often cite canonical principles to justify or regulate occupational practices."
+    }
+  ]
+}

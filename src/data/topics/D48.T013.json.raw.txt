@@ -1,0 +1,65 @@
+{
+  "overview": "In Jain traditions, “modern retelling” is best understood within a much older and deeply rooted practice of narrative adaptation, transcreation, and vernacularization. Jain authors have long engaged with authoritative stories—about tīrthaṅkaras, exemplary kings, lay ethics, and polemical debates—and reshaped them for new audiences, languages, and social contexts. Contemporary retellings in print, digital media, theatre, film, and children’s literature continue this lineage rather than breaking from it.\n\nScholars now often use the term “literary transcreation” to describe how Jain storytellers rework inherited narratives while preserving their ethical and doctrinal core. Recent research highlights that Jain communities have produced multiple versions of the same story in Prakrit, Sanskrit, Apabhraṃśa, Old Hindi, Kannada, and modern vernaculars, each calibrated to its audience’s expectations and the religious concerns of its time. These processes include expansion or condensation of episodes, shifts in narrative voice, insertion of didactic passages, and re-framing of characters to emphasize nonviolence, restraint, and right faith. [[0]](https://www.cbs.ugent.be/publications/publication-highlights-q2-20254-literary-transcreation-as-a-jain-practice/) [[1]](https://biblio.ugent.be/publication/01JJKW7XG73BBFBMHHDTAA21GS)\n\nIn the present day, modern retellings appear in several recognizable forms. There are prose and verse adaptations of classical works for lay readers, often simplifying technical vocabulary while retaining key doctrinal motifs such as karma, saṃvara (stoppage), and nirjarā (shedding). There are children’s books and comics that recast canonical stories—like those of King Kumārapāla, the Pāṇḍavas, or Nemi—to foreground moral choices in everyday life. There are sectarian and community publications that re-present older śrāvakācāra (lay conduct) manuals in contemporary idiom, addressing issues such as migration, professional ethics, and environmental responsibility. Academic and community collaborations also produce translations with commentary, which then inspire popular retellings in blogs, podcasts, and social media posts.\n\nModern retelling is not merely aesthetic; it is a mode of resilience and ethical negotiation. By adapting narratives, Jain communities respond to changing social realities—urbanization, diaspora life, interreligious contact, and new media technologies—while reaffirming core commitments to ahiṃsā, anekāntavāda, and self-discipline. Recent studies show how narrative traditions like the Dharmaparīkṣā, or biographies of figures such as Kumārapāla, are repeatedly reconfigured to address new controversies, internal debates, and questions of identity. In this sense, modern retelling is both conservative and creative: it conserves a recognizable frame of meaning while creatively re-inscribing it in new historical moments. [[2]](https://brill.com/display/title/74066) [[3]](https://brill.com/abstract/journals/nu/72/5-6/nu.72.issue-5-6.xml)\n\nFrom a Jain perspective, the legitimacy of a modern retelling depends less on literal fidelity to a single manuscript and more on whether the retelling supports right view (samyagdarśana), encourages ethical practice, and respects the authority of the broader scriptural and commentarial tradition. Many contemporary authors explicitly situate their work as an adaptation of a known text or lineage, acknowledging both continuity and change. This self-awareness helps distinguish responsible retellings—grounded in primary sources and living traditions—from purely commercial or sensationalized uses of Jain motifs. For serious study or practice, modern retellings are best read alongside primary texts and qualified commentaries, with attention to where the narrative has been simplified, re-framed, or updated for modern concerns.\n\nBecause Jainism places great value on careful speech and truthful representation, modern retellings carry ethical responsibilities. They can open doors for youth and newcomers, making complex doctrines accessible and inspiring. Yet they can also unintentionally flatten doctrinal nuance or sectarian diversity if they present one version as universally authoritative. A reflective approach treats modern retellings as gateways: they invite interest and moral reflection, but they are complemented by deeper engagement with canonical scriptures, classical narrative literature, and guidance from knowledgeable teachers within recognized lineages.",
+  "primary_sources": [
+    {
+      "title": "Dharmaparīkṣā (\"Examination of Religion\")",
+      "author": "Amitagati",
+      "original_text": "धर्मपरिक्षां करोति बुद्धिमान् ।",
+      "transliteration": "dharmaparikṣāṃ karoti buddhimān.",
+      "translation": "The wise person examines (parikṣā) religion (dharma).",
+      "notes": "Amitagati’s Sanskrit Dharmaparīkṣā is a classical narrative that critically examines competing religious claims through stories and debates. It became an authoritative adaptation within a broader tradition of Dharmaparīkṣā narratives, later retold in vernaculars such as Old Hindi and Kannada. Modern retellings draw on its frame-story and episodes to explore interreligious dialogue, ethical discernment, and the evaluation of authority in contemporary contexts. Scholarly work has traced how successive adaptations reconfigure the narrative to address new audiences and polemical situations, illustrating a long-standing Jain practice of narrative retelling and transcreation. Source:  [[2]](https://brill.com/display/title/74066)"
+    },
+    {
+      "title": "Pāṇḍavacarita (Jain retelling of the Mahābhārata story)",
+      "author": "Devaprabhasūri",
+      "original_text": "पाण्डवाणं चरितं पुण्यं श्रुत्वा मोक्षमार्गे रतिर्भवति ।",
+      "transliteration": "pāṇḍavāṇaṃ caritaṃ puṇyaṃ śrutvā mokṣamārge ratir bhavati.",
+      "translation": "Hearing the meritorious story of the Pāṇḍavas, one’s delight arises in the path to liberation.",
+      "notes": "Devaprabhasūri’s Pāṇḍavacarita is a Śvetāmbara Jain narrative that reconfigures the well-known Pāṇḍava story to emphasize Jain values such as nonviolence, detachment, and spiritual heroism. Recent studies of specific episodes—such as the auspicious dreams of Kuntī and Mādrī—show how Jain authors transform characters into quasi-mahāpuruṣas (great beings) aligned with Jain ideals. Modern retellings in children’s literature, sermons, and digital media often draw on these Jain versions rather than the pan-Indian epic alone, presenting the Pāṇḍavas as exemplars of restraint and right faith. Source:  [[0]](https://www.cbs.ugent.be/publications/publication-highlights-q2-20254-literary-transcreation-as-a-jain-practice/)"
+    },
+    {
+      "title": "Life of Padma (Padma narratives in Prakrit, Sanskrit, and Apabhraṃśa)",
+      "author": "Multiple Jain authors (e.g., Padmacarita traditions)",
+      "original_text": "पम्मजिणिंदस्स जिणवरस्स चरिअं सुहदं णिव्वुअं ।",
+      "transliteration": "pammajiṇindassa jiṇavarassa cariaṃ suhadaṃ nivvuaṃ.",
+      "translation": "The delightful and pure life-story of Lord Padma, foremost among Jinas.",
+      "notes": "The “Life of Padma” exists in several Jain versions across Prakrit, Sanskrit, and Apabhraṃśa, each retelling the story with different stylistic and doctrinal emphases. Comparative research has shown how these versions exemplify Jain literary transcreation: authors retain a recognizable narrative core while altering language, structure, and didactic passages to suit their audiences. Modern retellings—such as simplified prose biographies, illustrated storybooks, and online articles—often synthesize elements from multiple classical versions, making the Padma narrative accessible while foregrounding key Jain teachings on karma, renunciation, and compassion. Source:  [[0]](https://www.cbs.ugent.be/publications/publication-highlights-q2-20254-literary-transcreation-as-a-jain-practice/) [[1]](https://biblio.ugent.be/publication/01JJKW7XG73BBFBMHHDTAA21GS)"
+    },
+    {
+      "title": "Śrāvaka-saṃbodha (Lay Instruction Recast for Contemporary Jains)",
+      "author": "Modern Jain author(s), based on earlier śrāvakācāra traditions",
+      "original_text": "श्रावकाणां सम्यग्बोधाय कृतोऽयं ग्रन्थः ।",
+      "transliteration": "śrāvakāṇāṃ samyagbodhāya kṛto’yaṃ granthaḥ.",
+      "translation": "This text is composed for the right understanding of lay followers.",
+      "notes": "The Śrāvaka-saṃbodha is a modern work that consciously recasts older śrāvakācāra (lay conduct) manuals for contemporary lay Jains, addressing issues such as global mobility, professional life, and new ethical dilemmas. It exemplifies how modern retellings can remain rooted in classical prescriptions while updating examples, language, and emphases. Academic discussion of this text situates it within broader patterns of adaptation and resilience in Jainism, showing how narrative and prescriptive genres are reworked to sustain lay practice in changing environments. Source:  [[3]](https://brill.com/abstract/journals/nu/72/5-6/nu.72.issue-5-6.xml)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Modern retellings of Jain stories are a recent, Western-influenced innovation that departs from authentic tradition.",
+      "reality": "Jain literature has long embraced adaptation, repetition, and transcreation. Multiple versions of the same narrative—such as the Dharmaparīkṣā, Padma stories, and Pāṇḍava narratives—have been produced over centuries in different languages and styles. Modern retellings continue this established practice of reworking authoritative stories for new audiences while preserving core ethical and doctrinal themes. [[0]](https://www.cbs.ugent.be/publications/publication-highlights-q2-20254-literary-transcreation-as-a-jain-practice/) [[2]](https://brill.com/display/title/74066)"
+    },
+    {
+      "myth": "Any simplification or re-framing of a classical Jain story necessarily distorts doctrine and should be avoided.",
+      "reality": "Responsible modern retellings can simplify language and narrative structure without abandoning doctrinal integrity. Jain authors historically adjusted detail, emphasis, and rhetorical style to suit lay audiences, regional contexts, and pedagogical aims. The key question is whether a retelling remains aligned with fundamental Jain teachings—ahiṃsā, anekāntavāda, karma theory, and the path to liberation—and acknowledges its relationship to recognized primary texts and commentaries. [[1]](https://biblio.ugent.be/publication/01JJKW7XG73BBFBMHHDTAA21GS) [[3]](https://brill.com/abstract/journals/nu/72/5-6/nu.72.issue-5-6.xml)"
+    },
+    {
+      "myth": "Modern retellings are only for children or beginners and have no value for serious study.",
+      "reality": "While many modern retellings target youth or newcomers, they can also serve as important entry points for ethical reflection and comparative study. Scholars and practitioners use them to trace how Jain communities negotiate contemporary issues, re-articulate identity, and reinterpret classical narratives. When read alongside primary sources and scholarly analysis, modern retellings offer insight into living Jain traditions and their ongoing engagement with changing social worlds. [[0]](https://www.cbs.ugent.be/publications/publication-highlights-q2-20254-literary-transcreation-as-a-jain-practice/) [[3]](https://brill.com/abstract/journals/nu/72/5-6/nu.72.issue-5-6.xml)"
+    },
+    {
+      "myth": "There is only one correct version of a Jain story, and all modern retellings that differ from it are illegitimate.",
+      "reality": "Jain narrative traditions are inherently plural, with multiple authorized versions of the same story across time, language, and sectarian lines. Texts like the Dharmaparīkṣā exist in several adaptations, each reflecting particular historical and regional contexts. Modern retellings participate in this plurality; their legitimacy depends on transparent grounding in recognized traditions and ethical intent, not on rigid uniformity to a single manuscript or edition. [[2]](https://brill.com/display/title/74066) [[3]](https://brill.com/abstract/journals/nu/72/5-6/nu.72.issue-5-6.xml)"
+    }
+  ]
+}
+
+
+
+> [0] [Publication highlights (Q2 2025): Literary transcreation as a Jain practice – Ghent Centre for Buddhist Studies](https://www.cbs.ugent.be/publications/publication-highlights-q2-20254-literary-transcreation-as-a-jain-practice/)
+>
+> [1] [Literary transcreation as a Jain practice](https://biblio.ugent.be/publication/01JJKW7XG73BBFBMHHDTAA21GS)
+>
+> [2] [The Examination of Religion (Dharmaparīkṣā): A Jain Tradition of Narrative Adaptations | Brill](https://brill.com/display/title/74066)
+>
+> [3] [Numen Volume 72 Issue 5-6: Special Issue: Jainism, Adaptation, and Resilience, edited by Tine Vekemans, Heleen De Jonckheere and Basile Leclère (2025)](https://brill.com/abstract/journals/nu/72/5-6/nu.72.issue-5-6.xml)

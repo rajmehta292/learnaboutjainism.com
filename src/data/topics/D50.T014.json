@@ -1,0 +1,35 @@
+{
+  "overview": "Peer review is a structured process used in academic, scientific, and scholarly communities to evaluate the quality, accuracy, and originality of a work before it is published or formally accepted. Although not a Jain-specific concept, peer review is deeply relevant to Jain studies because modern critical editions, philological work on Prakrit and Sanskrit manuscripts, and contemporary Jain philosophy research rely on rigorous scholarly evaluation. \n\nIn general academic practice, peer review involves sending a submitted article, book manuscript, or research proposal to independent experts who assess its methodology, argumentation, use of sources, and contribution to the field. These reviewers provide feedback, request revisions, and recommend acceptance, rejection, or further modification. The goal is to ensure reliability, reduce errors, and maintain scholarly standards. \n\nWithin Jain studies, peer review plays a crucial role in validating interpretations of canonical texts such as the *Ācāranga-sūtra*, *Tattvārtha-sūtra*, *Ṣaṭkhaṇḍāgama*, and commentarial traditions. Because Jain manuscripts often exist in multiple recensions and contain complex linguistic layers, peer-reviewed scholarship helps clarify variant readings, identify interpolations, and contextualize doctrinal developments. \n\nPeer review also supports interdisciplinary work—such as studies on Jain ethics, environmental philosophy, nonviolence, and history—by ensuring that claims are grounded in verifiable sources and that interpretations are consistent with established philological and historical methods. It is not a mechanism for issuing religious rulings; rather, it is a scholarly quality-control system that complements traditional Jain modes of transmission and commentary.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "प्रमाणनिर्णयः",
+      "transliteration": "pramāṇa-nirṇayaḥ",
+      "translation": "“The determination of valid knowledge.”",
+      "notes": "While the Tattvārtha-sūtra does not discuss peer review in the modern academic sense, its treatment of pramāṇa (valid knowledge) is foundational for understanding how Jain epistemology values verification, reliability, and critical evaluation. Modern peer review aligns with these epistemic principles by requiring independent assessment of claims."
+    },
+    {
+      "title": "Nandī-sūtra",
+      "author": "Svetambara canonical text (author not individually named)",
+      "original_text": "नाणस्स णाणं णाणस्स कारणं",
+      "transliteration": "nāṇassa ṇāṇaṃ, ṇāṇassa kāraṇaṃ",
+      "translation": "“Knowledge leads to knowledge; knowledge is the cause of knowledge.”",
+      "notes": "This passage emphasizes the layered and cumulative nature of knowledge. Peer review reflects this principle by allowing scholars to refine each other's work, ensuring that new knowledge builds reliably on prior understanding."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Peer review guarantees that a published work is perfect and free of all errors.",
+      "reality": "Peer review significantly reduces errors and improves quality, but it does not eliminate all mistakes. It is a human process involving judgment, interpretation, and sometimes disagreement."
+    },
+    {
+      "myth": "Peer review replaces traditional Jain authority or scriptural interpretation.",
+      "reality": "Peer review is an academic method, not a religious authority. It evaluates scholarly arguments, not spiritual validity or doctrinal correctness. Traditional Jain lineages and commentarial traditions remain distinct from academic peer review."
+    },
+    {
+      "myth": "Peer reviewers always agree with each other.",
+      "reality": "Reviewers often disagree, especially in fields like Jain studies where manuscripts vary, interpretations differ, and historical contexts are complex. Divergence is normal and can strengthen the final work."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, environmental ethics emerge from core doctrines such as **ahiṃsā (non‑violence)**, **anekāntavāda (many‑sidedness)**, and **aparigraha (non‑possessiveness)**. These principles, originally articulated in early canonical texts, create a worldview in which all forms of life—human, animal, plant, and even micro‑organismic—are understood as possessing **jīva (sentience)**. Because every jīva is capable of experiencing harm, Jainism frames ecological responsibility not as a modern addition but as an intrinsic part of spiritual practice.\n\nEnvironmental thought in Jainism is therefore both metaphysical and practical. Metaphysically, the universe is composed of six dravyas (substances), including jīva and the five ajīva categories such as dharma, adharma, ākāśa, pudgala, and kāla. The interdependence of these substances is emphasized in texts like the *Tattvārtha Sūtra*, which describes the vast diversity of living beings and the karmic consequences of harming them. Practically, Jain communities developed detailed rules to minimize ecological harm: restrictions on night-eating to avoid killing insects, water filtration to protect aquatic life, and careful agricultural practices in monastic settings.\n\nAcross Digambara and Śvetāmbara traditions, environmental thought is expressed through different emphases but consistent principles. Digambara texts often highlight the austerity and restraint that reduce ecological footprint, while Śvetāmbara canonical literature provides extensive taxonomies of life forms, encouraging mindfulness toward even the smallest organisms. Modern Jain thinkers and institutions have extended these teachings into contemporary environmental activism, promoting vegetarianism, veganism, biodiversity protection, and climate-conscious living.\n\nScholars note that Jain environmental ethics are not merely prescriptive rules but part of a broader philosophical system that views ecological harm as a form of spiritual harm. To damage ecosystems is to accumulate karmic bondage, while protecting life supports liberation-oriented conduct. This integration of cosmology, ethics, and practice makes Jain environmental thought one of the oldest and most comprehensive ecological philosophies in South Asia.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "जीवास्तिकायः",
+      "transliteration": "jīvāstikāyaḥ",
+      "translation": "Living beings constitute an extended category.",
+      "notes": "From TS 5.1. This sutra introduces the classification of living beings, forming the basis for Jain ecological sensitivity by emphasizing the multiplicity and vulnerability of jīvas."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Śvetāmbara canonical text; traditionally attributed to early Jain councils",
+      "original_text": "सव्वे पाणाओ पियाओ",
+      "transliteration": "savve pāṇāo piyāo",
+      "translation": "All living beings are dear to one another.",
+      "notes": "A foundational statement of ahiṃsā (AS 1.1.1). It frames compassion toward all life as a universal truth, forming the ethical basis for environmental protection."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जे ण हन्ति स ण हन्तव्वो",
+      "transliteration": "je ṇa hanti sa ṇa hantavvo",
+      "translation": "One who does not harm should not be harmed.",
+      "notes": "This passage (SK 1.11) reinforces reciprocal non‑violence, extending ethical responsibility to all beings, including plants and micro‑organisms."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama",
+      "author": "Digambara canonical text; attributed to Puṣpadanta and Bhūtabali",
+      "original_text": "जीवाणं रक्षणं धम्मो",
+      "transliteration": "jīvāṇaṃ rakṣaṇaṃ dhammo",
+      "translation": "Protecting living beings is dharma.",
+      "notes": "A Digambara articulation of ecological responsibility, emphasizing the protection of all jīvas as a core religious duty."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain environmentalism is a modern reinterpretation influenced by contemporary ecological movements.",
+      "reality": "Environmental ethics in Jainism originate in early canonical texts that classify life forms, prohibit harm to even micro‑organisms, and prescribe practices to minimize ecological impact. Modern activism is an extension, not a reinterpretation."
+    },
+    {
+      "myth": "Jainism only protects animals, not plants or microorganisms.",
+      "reality": "Jain texts explicitly describe plants, bacteria, and microscopic beings as jīvas. Ethical rules such as water filtration, avoidance of root vegetables, and careful movement are designed to protect these life forms."
+    },
+    {
+      "myth": "Ahiṃsā is purely moral and has no ecological dimension.",
+      "reality": "Ahiṃsā is both moral and ecological. Harming ecosystems is considered karmically harmful, and protecting the environment is seen as part of spiritual progress."
+    }
+  ]
+}

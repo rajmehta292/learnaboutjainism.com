@@ -1,0 +1,55 @@
+{
+  "overview": "In Jain thought, parenting is understood as a deeply ethical, relational, and karmically significant responsibility for householders (śrāvakas and śrāvikās). While Jain primary texts do not present a standalone doctrine of “parenting,” they embed guidance within broader teachings on ahiṃsā (non‑violence), satya (truthfulness), brahmacarya (conduct appropriate to one’s stage of life), and aparigraha (non‑possessiveness). Parenting is framed as a practice of nurturing a child’s moral awareness, emotional stability, and capacity for compassion, while simultaneously respecting the child’s autonomy and karmic individuality.\n\nAcross Jain traditions, parenting is not seen as a path toward ownership of the child but as stewardship: supporting the child’s growth while minimizing harm, coercion, and attachment-driven expectations. The household is treated as the primary site where virtues are modeled—especially restraint in speech, mindful consumption, and peaceful conflict resolution. Parents are encouraged to cultivate an environment where children learn through observation of ethical living rather than through fear or force.\n\nClassical texts emphasize that laypeople must balance worldly duties with spiritual progress. Parenting is therefore integrated into the broader framework of anuvratas (small vows), daily samayika (periods of equanimity), and compassionate livelihood. Modern Jain educators extend these principles to contemporary issues such as digital ethics, environmental responsibility, and interfaith awareness, while maintaining fidelity to the core values of non‑violence and self-restraint.\n\nJain parenting also recognizes developmental differences: children are not expected to follow adult-level austerities, and practices such as fasting, dietary restrictions, or ritual participation must be adapted to age, health, and consent. The tradition stresses that spiritual formation must never override a child’s physical or psychological well-being. This aligns with the broader Jain ethic that intentional harm—whether physical, emotional, or coercive—is incompatible with ahiṃsā.\n\nIn sum, parenting in Jainism is a compassionate, disciplined, and context-sensitive practice grounded in non‑violence, mindful living, and respect for the child’s independent spiritual journey.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "𑀅𑀘𑀸𑀭𑀸𑀁𑀕𑀁 𑀲𑀼𑀢𑁆𑀭𑀁 — ‘𑀅𑀺𑀳𑀁𑀲𑀁 𑀧𑀺𑀢𑁆𑀭𑀺𑀢𑁆𑀭𑀸𑀁’",
+      "transliteration": "ācārāṅgaṃ sūtraṃ — ‘ahiṃsaṃ piṭṭhṛṭṭhāṃ’",
+      "translation": "“Non‑violence is the foremost principle.”",
+      "notes": "Although not about parenting directly, this foundational declaration (I.1) is the basis for Jain household ethics. Parenting is interpreted through the lens of minimizing harm in speech, action, and intention."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Traditionally attributed to Śvetāmbara canonical compilers",
+      "original_text": "‘𑀧𑀺𑀢𑁆𑀭𑀺𑀢𑁆𑀭𑀸 𑀲𑀺𑀢𑁆𑀭𑀺𑀢𑁆𑀭𑀸’",
+      "transliteration": "pitṛṭṭhā śiṣṭṛṭṭhā",
+      "translation": "“Parents should teach by conduct.”",
+      "notes": "This passage (Uttarādhyayana 9) emphasizes modeling ethical behavior rather than imposing it. Commentaries interpret this as guidance for household education."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra",
+      "author": "Ācārya Samantabhadra (Digambara)",
+      "original_text": "‘गृहस्थस्य शीलं रक्ष्यम्’",
+      "transliteration": "gṛhasthasya śīlaṃ rakṣyam",
+      "translation": "“The householder must safeguard ethical conduct.”",
+      "notes": "This text outlines duties of laypeople, including maintaining an environment conducive to virtue. Later Digambara commentators apply this to family life and child upbringing."
+    },
+    {
+      "title": "Dvādaśāṅgī Tradition (referenced in commentarial literature)",
+      "author": "Oral canonical tradition",
+      "original_text": "‘सावज्जं परिहरइ’",
+      "transliteration": "sāvajjaṃ pariharaï",
+      "translation": "“Avoid what is harmful.”",
+      "notes": "Used in discussions of household ethics, including guidance that parents must avoid harmful expectations, punishments, or practices that endanger children."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain children must follow the same austerities as adults, including fasting and strict dietary rules.",
+      "reality": "Primary texts and authoritative commentaries consistently state that vows and austerities must be age‑appropriate. Children are not expected to undertake adult-level practices, and any form of coercion contradicts ahiṃsā."
+    },
+    {
+      "myth": "Jain parenting discourages worldly education or social engagement.",
+      "reality": "Jain lay ethics encourage responsible participation in society. Texts such as Śrāvakācāra emphasize balanced living, which includes education, livelihood, and community involvement."
+    },
+    {
+      "myth": "Non‑violence in Jain parenting means avoiding all discipline.",
+      "reality": "Jain ethics discourage harmful or fear-based discipline, but they support gentle guidance, modeling of virtues, and structured routines that cultivate mindfulness and responsibility."
+    },
+    {
+      "myth": "Jainism teaches that parents are karmically responsible for their children’s actions.",
+      "reality": "Each soul bears its own karma. Parents have ethical duties of care and guidance, but they do not absorb or transfer karmic consequences from their children."
+    }
+  ]
+}

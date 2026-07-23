@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “context and qualification” refers to the disciplined method of interpreting doctrines, practices, and scriptural statements according to their proper scope, audience, and conditions. Jain traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—share a strong emphasis on avoiding decontextualized or absolutist readings of teachings. This principle is rooted in the broader Jain epistemological framework of anekāntavāda (many-sidedness) and the interpretive tools of naya (perspectival analysis) and syādvāda (qualified predication). \n\nIn classical literature, context and qualification ensure that statements about karma, vows, austerities, cosmology, and liberation are understood relative to the spiritual stage (guṇasthāna), the practitioner’s status (monastic or lay), and the intended domain of application (ethical, metaphysical, ritual, or meditative). For example, prescriptions for total non-possession (aparigraha) apply fully to mendicants but are qualified for householders, who follow anuvratas (small vows) rather than mahāvratas (great vows). Similarly, descriptions of karmic bondage in texts like the Tattvārtha Sūtra are framed within technical categories that require careful qualification to avoid literal or simplistic interpretations. \n\nContext and qualification also guide modern ethical application. When contemporary practitioners interpret teachings on diet, environmental care, or digital conduct, they rely on the same classical principle: identify the original scope of the teaching, understand its doctrinal grounding, and apply it in a way consistent with Jain ethics without overextending its authority. Scholars and teachers emphasize that responsible interpretation requires distinguishing between direct scriptural injunctions, commentarial expansions, community norms, and modern extrapolations. \n\nAcross Jain history, this principle has protected the tradition from dogmatism and preserved its intellectual rigor. It encourages humility in interpretation, clarity in practice, and fidelity to the layered structure of Jain knowledge.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "सर्वे भवन्ति नयाः।",
+      "transliteration": "sarve bhavanti nayāḥ",
+      "translation": "All statements arise from particular viewpoints.",
+      "notes": "This aphorism (TS 1.6 in many editions) is foundational for understanding contextual interpretation. It establishes that doctrinal claims are perspectival and must be qualified according to the naya being used—substantial, modal, practical, or scriptural. Commentaries across traditions emphasize that misinterpretation arises when a statement meant for one viewpoint is taken as universally absolute."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "णियमेणं णियमो होइ।",
+      "transliteration": "ṇiyameṇaṃ ṇiyamo hoi",
+      "translation": "Discipline is discipline only when understood through its proper rule.",
+      "notes": "Kundakunda repeatedly qualifies spiritual instructions by distinguishing the ultimate (niścaya) and conventional (vyavahāra) standpoints. This dual-layered hermeneutic is central to Digambara interpretation and illustrates how context determines the meaning and applicability of teachings."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "ववहारो निस्सहाओ।",
+      "transliteration": "vavahāro nissahāo",
+      "translation": "Conduct must be free from misapplication.",
+      "notes": "This passage highlights the importance of correct application of rules. Commentators explain that improper extension of monastic rules to laypeople—or vice versa—constitutes a misunderstanding of context and qualification."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain teachings apply equally to monks and laypeople.",
+      "reality": "Primary texts clearly distinguish between mahāvratas for mendicants and anuvratas for householders. Context determines the level of obligation, and qualification prevents overextension of monastic austerities to lay life."
+    },
+    {
+      "myth": "Statements in Jain scriptures are universally absolute.",
+      "reality": "Most doctrinal statements are perspectival (naya-based) and require syādvāda-style qualification. Without context, interpretations become rigid and contradict the multi-sided nature of Jain epistemology."
+    },
+    {
+      "myth": "Modern ethical applications can be directly derived from ancient rules without adjustment.",
+      "reality": "Teachers and scholars emphasize that contemporary applications must respect the original scope of teachings and adapt them responsibly, maintaining fidelity to Jain principles while acknowledging new contexts."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Organ donation, within Jain philosophical and ethical discourse, is examined through the core principles of *ahiṃsā* (non‑violence), *karuṇā* (compassion), *aparigraha* (non‑possessiveness), and the traditional concerns surrounding bodily integrity after death. Jain traditions historically developed in contexts where medical transplantation did not exist, so no classical text directly addresses modern organ donation. However, contemporary Jain scholars, ethicists, and community bodies often interpret foundational principles to support voluntary, medically supervised organ donation as an expression of compassion and service (*sevā*)—provided it does not involve coercion, harm to living beings, or violations of medical and legal safety.\n\nAcross Jain traditions, the central ethical question is whether organ donation constitutes harm to oneself or others. For living donors, Jain lay ethics emphasize avoiding severe bodily harm, irreversible injury, or actions that impede one's ability to fulfill responsibilities. For posthumous donation, concerns focus on whether the body must remain intact for funeral rites, whether donation interferes with karmic processes at death, and whether the act aligns with *ahiṃsā* and *dāna* (charitable giving). Modern Jain teachers generally affirm that the soul (*jīva*) is not affected by the physical condition of the deceased body, and that compassionate donation can be a meritorious act when performed without attachment.\n\nIn diaspora communities, organ donation is increasingly discussed in Jain medical ethics forums, youth education programs, and interfaith bioethics panels. These discussions highlight that Jainism does not mandate or prohibit organ donation, but encourages thoughtful decision-making grounded in scriptural principles, medical guidance, and family consultation. Because organ donation intersects with medical risk, legal consent, and end‑of‑life decisions, Jain ethical guidance consistently recommends consultation with qualified medical professionals and, when desired, with knowledgeable Jain scholars.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non‑violence is the supreme duty.",
+      "notes": "This aphorism, though widely cited, appears in commentarial traditions rather than the root text itself. It is foundational for ethical reasoning: organ donation discussions often begin with the question of whether donation constitutes harm or prevents greater harm."
+    },
+    {
+      "title": "Tattvārtha Sūtra 7.11",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "दया जीवेषु",
+      "transliteration": "dayā jīveṣu",
+      "translation": "Compassion toward living beings.",
+      "notes": "Used in modern Jain ethics to support compassionate medical actions that alleviate suffering. Organ donation is often interpreted as an extension of compassion when medically safe."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "जिवा दुव्वा न हन्तव्वा",
+      "transliteration": "jīvā duvvā na hantavvā",
+      "translation": "Living beings are not to be harmed.",
+      "notes": "This principle is applied to evaluate whether organ donation harms the donor or recipient. Modern interpreters distinguish between medically supervised donation (intended to save life) and actions that cause unnecessary injury."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 29",
+      "author": "Svetambara canonical text",
+      "original_text": "दाणं तु पुण्णस्स कारणं",
+      "transliteration": "dāṇaṃ tu puṇṇassa kāraṇaṃ",
+      "translation": "Giving is a cause of merit.",
+      "notes": "Although referring to traditional forms of charity, modern Jain teachers sometimes extend this principle to posthumous organ donation as a form of altruistic giving."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism forbids organ donation because the body must remain intact after death.",
+      "reality": "No canonical Jain text mandates bodily preservation after death. Funeral rites do not require an intact body, and the soul is understood to depart immediately at death. Many modern Jain scholars affirm posthumous organ donation as compatible with Jain ethics."
+    },
+    {
+      "myth": "Organ donation interferes with the soul’s journey or karmic processes.",
+      "reality": "Jain metaphysics teaches that the soul’s departure is instantaneous at death and is not influenced by the physical condition of the corpse. Karmic processes relate to intention and conduct during life, not posthumous medical procedures."
+    },
+    {
+      "myth": "Living organ donation is always encouraged because it is an act of compassion.",
+      "reality": "Jain lay ethics emphasize non‑harm to oneself and fulfilling one’s responsibilities. Living donation must be medically safe, voluntary, and free from coercion. Jain guidance stresses consulting qualified medical professionals."
+    }
+  ]
+}

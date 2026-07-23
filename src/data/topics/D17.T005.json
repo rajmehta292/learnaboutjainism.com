@@ -1,0 +1,51 @@
+{
+  "overview": "Vandana, in Jain traditions, refers to the respectful salutation, reverence, and devotional bowing performed toward the Tirthankaras, enlightened beings, and living exemplars of the path such as sadhus and sadhvis. The term derives from Sanskrit roots meaning 'to praise' or 'to pay homage.' In practice, Vandana is both a physical gesture and a mental disposition of humility, gratitude, and recognition of spiritual attainment.\n\nAcross Jain communities—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—Vandana appears in daily rituals, temple liturgy, monastic etiquette, and lay conduct. While the outward forms differ, the underlying purpose remains constant: to cultivate reverence for the ideals embodied by the Tirthankaras and to reinforce the aspirant’s commitment to right faith (samyak-darśana).\n\nIn temple traditions, Vandana may include standing before the idol, folding hands, bowing, or performing the pañca-pranāma (fivefold obeisance). In non-idolatrous traditions, Vandana is directed toward the qualities of the Tirthankaras and toward living ascetics, expressed through respectful greetings, folded hands, and recitation of canonical verses. Vandana also appears in monastic conduct rules, where disciples greet teachers with prescribed gestures and verses.\n\nPhilosophically, Vandana is linked to the cultivation of humility (vinaya), reduction of ego (māna), and strengthening of devotion (bhakti) grounded in right understanding. It is not worship in a theistic sense but an acknowledgment of perfected beings whose example guides the aspirant toward liberation. Vandana is therefore both an ethical practice and a meditative orientation, reinforcing the aspirant’s alignment with the Jain path.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "वन्दनं विनयः",
+      "transliteration": "vandanaṃ vinayaḥ",
+      "translation": "Vandana is humility.",
+      "notes": "Tattvārtha Sūtra 7.11 defines Vandana as an aspect of vinaya (humility), placing it within the broader framework of right conduct. Commentaries explain that Vandana includes respectful salutation toward teachers and spiritually advanced beings."
+    },
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (attributed)",
+      "original_text": "णमो अरिहंताणं, वंदणं कुर्वन्ति",
+      "transliteration": "ṇamo arihaṃtāṇaṃ, vandaṇaṃ kurvanti",
+      "translation": "They perform Vandana to the Arihants.",
+      "notes": "The Āvaśyaka corpus describes Vandana as part of daily obligatory practices. The Niryukti elaborates on the ritual and mental dimensions of salutation to the Arihants and other revered beings."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "वन्दनं गुरुवन्दनं",
+      "transliteration": "vandanaṃ guruvandanaṃ",
+      "translation": "Vandana is salutation to the Guru.",
+      "notes": "Mūlācāra prescribes forms of respectful greeting for monks and laypeople. Vandana is framed as a discipline that cultivates humility and proper conduct toward teachers."
+    },
+    {
+      "title": "Kalpasūtra (Śvetāmbara)",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "वन्दनं जिनेभ्यो",
+      "transliteration": "vandanaṃ jinebhyo",
+      "translation": "Vandana to the Jinas.",
+      "notes": "In the Kalpasūtra’s ritual context, Vandana appears in recitations performed during Paryuṣaṇa, emphasizing reverence toward the Jinas and the monastic lineage."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Vandana is a form of worship implying dependence on divine intervention.",
+      "reality": "Jain Vandana is not theistic worship. It is an expression of respect for perfected beings whose example guides aspirants. It does not involve seeking favors or divine intervention."
+    },
+    {
+      "myth": "Only temple-going Jains perform Vandana.",
+      "reality": "Non-idolatrous traditions also practice Vandana, directing it toward the qualities of the Tirthankaras and toward living ascetics through respectful greetings and recitations."
+    },
+    {
+      "myth": "Vandana is merely a physical gesture.",
+      "reality": "Primary texts emphasize Vandana as a mental state of humility and reverence. Physical gestures are secondary to the cultivation of vinaya (humility) and right faith."
+    }
+  ]
+}

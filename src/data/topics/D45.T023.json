@@ -1,0 +1,43 @@
+{
+  "overview": "Animal experimentation—defined as the use of non‑human animals in scientific, medical, cosmetic, or educational research—raises significant ethical questions within Jain philosophy. Jainism’s foundational principle of **ahiṃsā** (non‑violence toward all living beings) places animal experimentation in a domain of high moral sensitivity. Classical Jain texts classify living beings (jīvas) according to the number of sense faculties they possess, from one‑sensed organisms (ekendriya) to five‑sensed beings (pañcendriya). Animals used in experimentation are typically five‑sensed beings, considered highly vulnerable and deserving of maximal protection.\n\nFrom a Jain perspective, harm inflicted on animals—whether physical pain, confinement, or death—constitutes **hiṃsā**, generating karmic consequences for the perpetrator. Traditional teachings emphasize that intentional harm (saṃkalpī hiṃsā) carries heavier karmic weight than accidental harm. Because experimentation is deliberate and goal‑directed, it is generally categorized as intentional harm. However, Jain lay ethics also recognize the complexities of living in a modern world. While monastic codes prohibit any form of violence toward animals, laypeople navigate professions and societal structures where absolute non‑violence is difficult. Modern Jain scholars and community educators therefore discuss animal experimentation through frameworks of harm minimization, alternative methods, and ethical responsibility.\n\nContemporary Jain discourse often engages with global debates on animal rights, biomedical research, and regulatory ethics. Many Jain organizations advocate for non‑animal testing methods, including in vitro systems, computer modeling, and human‑based research. The tradition’s emphasis on compassion, interdependence, and restraint encourages critical evaluation of whether experimentation is necessary, whether alternatives exist, and how suffering can be minimized. While Jainism does not provide a centralized authority issuing binding rulings, its scriptural foundations and commentarial traditions consistently elevate the moral imperative to avoid harm to sentient beings whenever possible.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "जीवाः प्राणभृतः",
+      "transliteration": "jīvāḥ prāṇabhṛtaḥ",
+      "translation": "Living beings are the bearers of life‑forces.",
+      "notes": "Tattvārtha Sūtra 2.13 describes the life‑forces (prāṇas) that constitute a living being. Later sūtras (5.21–5.28) classify beings by senses, forming the basis for Jain ethical evaluation of harm. Five‑sensed beings, including animals used in experimentation, are considered highly sentient and thus subject to strict non‑violence norms."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "सव्वे पाणाः सव्वे भूताः सव्वे जीवाः",
+      "transliteration": "savve pāṇāḥ savve bhūtāḥ savve jīvāḥ",
+      "translation": "All beings, all creatures, all lives [are to be regarded with care].",
+      "notes": "Ācārāṅga Sūtra I.1 emphasizes universal non‑violence. The text repeatedly warns against harming animals, including through binding, striking, or causing fear—actions commonly associated with experimentation."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Anonymous Śvetāmbara canonical compiler",
+      "original_text": "हिंसा परमो विगयः",
+      "transliteration": "hiṃsā paramo vigayaḥ",
+      "translation": "Violence is the greatest sin.",
+      "notes": "This passage underscores the gravity of intentional harm. Commentaries often apply this principle to modern ethical dilemmas, including scientific use of animals."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism absolutely forbids all involvement with modern science, including any profession connected to animal research.",
+      "reality": "Jain monastic codes prohibit all intentional harm, but lay ethics recognize complex modern contexts. Jain teachings encourage minimizing harm, seeking alternatives, and acting with compassion, rather than issuing blanket prohibitions for all laypeople."
+    },
+    {
+      "myth": "Jain texts do not address animals used in experimentation because such practices are modern.",
+      "reality": "While classical texts do not mention laboratories, they provide detailed frameworks on non‑violence, classification of beings, and intentional harm. These principles are directly applicable to evaluating modern practices like animal experimentation."
+    },
+    {
+      "myth": "Animal experimentation is acceptable in Jainism if it leads to medical benefits.",
+      "reality": "Jainism does not justify intentional harm based solely on outcomes. The tradition emphasizes the intrinsic value of all life and encourages exploring non‑harmful alternatives, even when potential benefits exist."
+    }
+  ]
+}

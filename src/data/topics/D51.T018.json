@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical and doctrinal literature, the term “facets” is not a single technical term but a useful English descriptor for several multi‑dimensional analytical frameworks that articulate how reality, knowledge, and ethical conduct possess multiple aspects. Jain thinkers frequently emphasize that any entity (dravya), event (paryaya), or viewpoint (naya) can be understood only through its distinct facets, each revealing a partial but valid dimension of truth. This multi‑aspect approach is foundational to Jain epistemology and ontology, especially in doctrines such as anekāntavāda (the doctrine of non‑one‑sidedness), syādvāda (the doctrine of conditioned predication), and the naya system (partial standpoints).\n\nIn metaphysics, facets appear in the classification of substances (dravya) into six broad categories—jīva, pudgala, dharma, adharma, ākāśa, and kāla—each possessing infinite modes (paryāya) and qualities (guṇa). The distinction between substance and modes itself is a facet-based analysis: substance is the enduring aspect, while modes are the changing aspect. Similarly, the guṇa system identifies facets such as consciousness (upayoga), energy (vīrya), and bliss (sukha) in the soul, while pudgala is analyzed through facets like touch, taste, smell, and color.\n\nIn epistemology, facets emerge in the sevenfold predication (saptabhaṅgī), where each statement about reality is expressed through seven conditioned facets—syād asti, syād nāsti, syād asti-nāsti, and so on. Each facet represents a legitimate but partial truth conditioned by standpoint, time, and context. The naya system further refines this by offering discrete facets of analysis such as naigama (general), saṅgraha (collective), vyavahāra (practical), ṛjusūtra (momentary), and śabda (linguistic) standpoints.\n\nIn ethics and practice, facets appear in the multi-layered structure of vows (vrata), restraints (saṃyama), and conduct (cāritra). For example, ahiṃsā is analyzed through facets such as intention, instrument, and extent of harm. Lay vows (aṇu-vrata) and monastic vows (mahā-vrata) represent facets of the same ethical principles applied at different levels of discipline.\n\nThus, “facets” serves as a helpful interpretive term for the Jain commitment to multi-perspectival analysis, where reality is understood through structured layers of qualities, modes, standpoints, and predications. This approach is not relativism but a disciplined method for capturing the complexity of existence while avoiding dogmatic one-sidedness.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "द्रव्यगुणपर्यायाः सत्त्वम्",
+      "transliteration": "dravya-guṇa-paryāyāḥ sattvam",
+      "translation": "Existence consists of substance, qualities, and modes.",
+      "notes": "This foundational aphorism (TS 5.37 in many editions) establishes the threefold facet structure of reality. It is a primary basis for later Jain discussions of multi-aspect ontology."
+    },
+    {
+      "title": "Samavāyāṅga Sūtra",
+      "author": "Canonical Śvetāmbara text",
+      "original_text": "सत्ताणं समवायो बहुविहो",
+      "transliteration": "sattāṇaṃ samavāyo bahuviho",
+      "translation": "The combinations of existents are manifold.",
+      "notes": "This passage highlights the multiplicity of facets in the arrangement of substances and their modes. It is often cited in discussions of anekāntavāda."
+    },
+    {
+      "title": "Aṣṭaśatī Commentary on the Saptabhaṅgī",
+      "author": "Ācārya Malliṣeṇa",
+      "original_text": "सप्तभङ्गी हि वस्तुनः सर्वतोमुखं प्रतिपादनम्",
+      "transliteration": "saptabhaṅgī hi vastunaḥ sarvato-mukhaṃ pratipādanam",
+      "translation": "The sevenfold predication is the presentation of an entity from all its faces.",
+      "notes": "A classical Digambara commentary explaining how each predication represents a facet of truth conditioned by standpoint."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain facet-based analysis means that all viewpoints are equally true.",
+      "reality": "Jain epistemology does not claim all viewpoints are true; it claims that each valid viewpoint expresses a partial truth conditioned by context. Incorrect or illogical viewpoints are not accepted."
+    },
+    {
+      "myth": "Facets imply that reality is fragmented or incoherent.",
+      "reality": "Facets are analytical tools for understanding a single coherent reality. They reveal different dimensions of the same entity, not separate or contradictory realities."
+    },
+    {
+      "myth": "The sevenfold predication is a form of relativism.",
+      "reality": "Syādvāda is a structured logical system. Each facet is rigorously defined and conditioned; it is not a claim that truth is subjective or arbitrary."
+    }
+  ]
+}

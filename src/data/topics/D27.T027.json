@@ -1,0 +1,75 @@
+{
+  "overview": "The historical development of Jainism is best understood as a long, layered evolution of an ancient śramaṇa tradition rather than the sudden emergence of a new religion in the 6th–5th centuries BCE. Jain narrative history speaks of an eternal succession of twenty‑four Tīrthaṅkaras (ford‑makers) in the current time‑cycle, beginning with Ṛṣabhanātha and culminating in Mahāvīra. From the standpoint of modern historiography, clearer evidence begins with Pārśvanātha (often dated around the 9th–8th century BCE) and Mahāvīra (traditionally 599–527 BCE), whose communities crystallized in the eastern Gangetic region, especially Magadha. Early Jainism shared the wider śramaṇa milieu with Buddhism and other renunciant movements, emphasizing non‑violence (ahiṃsā), ascetic discipline, and liberation from saṃsāra through right faith, right knowledge, and right conduct.\n\nAfter Mahāvīra’s nirvāṇa, the Jain community preserved his teachings through an oral tradition. His chief disciples (gaṇadharas) and later śruta‑kevalins organized sermons into structured bodies of doctrine, which eventually became the basis of the canonical literature. For several centuries, these teachings were transmitted in Ardhamāgadhī and related Prakrits without systematic writing, partly due to strong ideals of non‑possession (aparigraha) among monks. Over time, regional expansion, memory loss, and doctrinal debates led to formal councils and attempts to codify the canon. In the Śvetāmbara tradition, major councils at Pāṭaliputra and later at Vallabhī (often dated around the 5th–6th century CE) are remembered as decisive moments when surviving material was compiled into the Āgamas. Digambara tradition, however, maintains that the original canonical texts were lost much earlier and instead upholds a different set of authoritative works composed by later ācāryas.\n\nThe first centuries BCE and CE saw the consolidation of monastic lineages and the gradual differentiation of sectarian identities. A key turning point in Jain historical development is the schism between Digambara (“sky‑clad”) and Śvetāmbara (“white‑clad”) communities, usually placed around the early centuries of the Common Era. While the exact historical causes are debated, traditional accounts link the division to migrations during famines, differing attitudes toward nudity and clothing for monks, and divergent views on scriptural preservation. Digambaras insist that true renunciants must be nude and hold that women cannot attain kevala‑jñāna in a female body, whereas Śvetāmbaras permit white robes and affirm the possibility of liberation for women. These doctrinal and disciplinary differences shaped distinct textual corpora, ritual practices, and philosophical elaborations, even as both sects continued to share core Jain principles.\n\nFrom roughly the 3rd century BCE onward, Jainism benefited from varying degrees of royal and mercantile patronage. Inscriptions and literary sources attest to support from regional rulers such as King Kharavela of Kaliṅga (Hāthigumphā inscription), later Western Indian dynasties, and, in Digambara narratives, the Mauryan emperor Samprati. In the early medieval period (c. 500–1100 CE), Digambara Jainism flourished in the Deccan and Karnataka under the Gangas, Rāṣṭrakūṭas, and Hoysaḷas, leading to monumental projects like the colossal Bāhubali (Gommateśvara) statue at Śravaṇabeḷagoḷa and a rich corpus of Prakrit, Sanskrit, and Kannada literature. Śvetāmbara communities, especially in Gujarat and Rajasthan, developed strong ties with merchant guilds and urban centers, building temples, commissioning images, and cultivating scholastic traditions in Prakrit, Sanskrit, and later vernaculars.\n\nThe medieval period also saw the growth of internal diversity within Śvetāmbara Jainism. By around the 15th–17th centuries, reformist currents gave rise to sub‑sects such as the Mūrtipūjaka (image‑worshipping Śvetāmbaras), Sthānakavāsīs (emphasizing non‑image worship and meditation halls), and the Terāpanth, which stressed stricter discipline and centralized leadership. These developments reflected debates over ritual practice, image worship, and the role of monastic authority, while still remaining anchored in the broader Jain ethical and metaphysical framework. Digambara communities likewise experienced internal differentiation in monastic organization, including the bhattāraka system, which helped preserve institutional continuity during periods of political instability.\n\nUnder Islamic and later Mughal rule, Jain communities navigated changing political landscapes through negotiation, diplomacy, and economic influence. Merchant‑bankers and community leaders often acted as intermediaries, securing protections for pilgrimage sites and religious practices. The early modern period witnessed both episodes of persecution and remarkable resilience, with Jains continuing to build temples, sponsor manuscripts, and engage in philosophical dialogue with other Indian traditions. The colonial era introduced new dynamics: Western scholarship began to study Jain texts; printing presses transformed the transmission of scriptures; and Jain leaders participated in emerging nationalist and reform movements. Modern Jainism has expanded beyond the Indian subcontinent through migration and diaspora communities, establishing temples and organizations in Africa, Europe, North America, and elsewhere.\n\nIn the 19th and 20th centuries, Jain thinkers and institutions engaged with modernity by rearticulating core doctrines—ahiṃsā, anekāntavāda (many‑sidedness), and aparigraha—in dialogue with global ethics, environmental concerns, and interreligious discourse. Monastic reforms, lay organizations, and educational trusts promoted scriptural study, social service, and non‑violent activism. Contemporary Jain historical development thus includes both continuity and creative adaptation: preservation of ancient canonical and commentarial traditions; renewed interest in Prakrit and manuscript heritage; and the application of Jain principles to issues such as animal rights, ecology, and peace. Throughout these transformations, the historical trajectory of Jainism remains rooted in its foundational commitment to non‑violence, disciplined self‑restraint, and the pursuit of liberation, while acknowledging internal diversity and the need for careful, source‑grounded study of its past.",
+  "primary_sources": [
+    {
+      "title": "Ācāranga Sūtra (Āyāraṅga‑sutta)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; compiled within the Śvetāmbara canon",
+      "original_text": "ṇaṃ se bhikkhu ya savva‑bhūesu dayā‑bhāvaṃ karejja, na hiṃsejja, na ghāe, na bandhe, na ālinde, na parighāe.",
+      "transliteration": "ṇaṃ se bhikkhu ya sarva‑bhūeṣu dayā‑bhāvaṃ karejja, na hiṃsejja, na ghāe, na bandhe, na ālinde, na parighāe.",
+      "translation": "“Thus the monk should cultivate a disposition of compassion toward all living beings: he should not injure, not kill, not bind, not frighten, not drive away, and not torment.”",
+      "notes": "The Ācāranga Sūtra is among the oldest Śvetāmbara canonical texts, composed in Ardhamāgadhī Prakrit. It focuses on the conduct of monks, especially the practice of ahiṃsā and careful movement to avoid harming even the smallest forms of life. Historically, it reflects the early ascetic ethos of the Jain community and provides insight into the śramaṇa environment in which Jainism developed. Its language and themes are central for reconstructing the formative period of Jain discipline and ethics."
+    },
+    {
+      "title": "Bhagavatī Sūtra (Viyāha‑paṇṇatti)",
+      "author": "Traditionally linked to gaṇadharas; preserved in the Śvetāmbara canon",
+      "original_text": "jīvāṇaṃ bhagavā viyāha‑paṇṇatti, jīvāṇaṃ saṃkheya‑paṇṇatti, jīvāṇaṃ vibhāga‑paṇṇatti, jīvāṇaṃ gati‑paṇṇatti.",
+      "transliteration": "jīvāṇaṃ bhagavān viyāha‑praṇatti, jīvāṇaṃ saṃkṣepa‑praṇatti, jīvāṇaṃ vibhāga‑praṇatti, jīvāṇaṃ gati‑praṇatti.",
+      "translation": "“O Lord, there is the detailed exposition of living beings, the concise exposition of living beings, the division of living beings, and the exposition of their destinies.”",
+      "notes": "The Bhagavatī Sūtra is an encyclopedic text structured as dialogues between Mahāvīra and his disciples. It covers cosmology, classifications of living beings, karma, and doctrinal questions. Historically, it shows the systematization of Jain doctrine and the intellectual maturation of the tradition. Its narrative style and detailed categorizations illustrate how early Jain communities organized and transmitted complex teachings over generations."
+    },
+    {
+      "title": "Tattvārtha Sūtra (Tattvārthādhigama)",
+      "author": "Umāsvāti / Umāsvāmi (accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "samyaṅ‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ.",
+      "transliteration": "samyaṅ‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ.",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "Composed in Sanskrit, the Tattvārtha Sūtra is a foundational philosophical treatise accepted across major Jain sects. It systematizes Jain metaphysics, epistemology, ethics, and the path to liberation. Historically, it marks a stage when Jain thought was articulated in the pan‑Indian intellectual language of Sanskrit, facilitating dialogue with other traditions. Its cross‑sectarian authority is crucial for understanding how Jainism maintained doctrinal continuity despite later schisms."
+    },
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Traditionally attributed to Bhadrabāhu; Śvetāmbara ritual text",
+      "original_text": "bhagavā Mahāvīro nāma‑karaṇa‑saṃjñā‑saṃjutto, kṣatriyo jātiyā, Jñātṛ‑kula‑saṃbhavo.",
+      "transliteration": "bhagavān Mahāvīro nāma‑karaṇa‑saṃjñā‑saṃyuktaḥ, kṣatriyo jātiyā, Jñātṛ‑kula‑saṃbhavaḥ.",
+      "translation": "“The Blessed Mahāvīra, so named, was of the Kṣatriya class and born into the Jñātṛ clan.”",
+      "notes": "The Kalpa Sūtra is a Śvetāmbara text recited especially during Paryuṣaṇa. It contains biographies of Mahāvīra and earlier Tīrthaṅkaras, as well as monastic rules. Historically, it is significant for shaping narrative images of Mahāvīra’s life, including his renunciation, austerities, and enlightenment. These narratives influenced later hagiographies, art, and ritual, and they provide a window into how the community remembered and celebrated its founding figures."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Kundakunda (Digambara ācārya)",
+      "original_text": "jo ya jīvo so ya hu samaya, samaya‑nāma paramattho.",
+      "transliteration": "yo ya jīvo so ya hu samayaḥ, samaya‑nāma paramārthaḥ.",
+      "translation": "“That which is truly the soul is indeed the ‘samaya’; ‘samaya’ is the supreme reality.”",
+      "notes": "Samayasāra, composed in Prakrit by the Digambara ācārya Kundakunda, is a key text for understanding Digambara perspectives on the pure soul and its distinction from karmic bondage. Historically, it represents a mature phase of Jain philosophical reflection and the development of sect‑specific literature after the loss of the original canon claimed by Digambaras. Its influence on later Digambara thinkers and its emphasis on inner realization are central to the historical evolution of Jain spiritual discourse."
+    },
+    {
+      "title": "Hāthigumphā Inscription",
+      "author": "Attributed to King Kharavela of Kaliṅga",
+      "original_text": "… sava‑paura‑jana‑saṅgha‑saṃghāta‑saṃyukta‑kaliṅga‑rājā Kharavela …",
+      "transliteration": "… sarva‑paura‑jana‑saṅgha‑saṃghāta‑saṃyuktaḥ Kaliṅga‑rājā Kharavela …",
+      "translation": "“… King Kharavela of Kaliṅga, accompanied by assemblies of citizens and communities …”",
+      "notes": "The Hāthigumphā inscription, carved in a cave at Udayagiri near Bhubaneswar, is a crucial epigraphic source for early Jain history. It records the deeds of King Kharavela, including references interpreted by many scholars as indicating support for Jain ascetics and institutions. While the inscription is not a doctrinal text, it provides concrete historical evidence of Jain presence and royal patronage in ancient eastern India, illustrating how Jainism interacted with political power and regional cultures."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism was founded solely by Mahāvīra in the 6th century BCE as a new religion.",
+      "reality": "Jain tradition presents Mahāvīra as the 24th Tīrthaṅkara in an eternal lineage, and modern scholarship recognizes earlier figures such as Pārśvanātha. Mahāvīra is a major reformer and organizer, but Jainism’s roots extend into a broader, older śramaṇa context rather than beginning ex nihilo with him."
+    },
+    {
+      "myth": "The Digambara–Śvetāmbara division was a simple dispute about clothing with no deeper historical causes.",
+      "reality": "While attitudes toward nudity and monastic attire are central, the schism also involves differing narratives about migrations during famines, the preservation or loss of canonical texts, and doctrinal positions on issues such as women’s capacity for liberation. It reflects complex historical, regional, and institutional developments rather than a single, superficial disagreement."
+    },
+    {
+      "myth": "Jainism has always been a marginal, isolated tradition with little influence on broader Indian history.",
+      "reality": "Jain communities have played significant roles in trade, banking, art, architecture, and intellectual life. Royal patronage in regions like Karnataka, Gujarat, and Rajasthan, monumental temples and statues, and Jain contributions to ethics, logic, and mathematics show that Jainism has been deeply woven into the fabric of Indian history, even if numerically smaller than some other traditions."
+    },
+    {
+      "myth": "Modern Jainism is simply a static continuation of ancient practices without change.",
+      "reality": "While core principles such as ahiṃsā and aparigraha remain central, Jainism has continually adapted—through sect formation, monastic reforms, engagement with colonial and post‑colonial contexts, and contemporary applications of non‑violence to environmentalism, animal rights, and global ethics. Historical development includes both continuity and creative reinterpretation."
+    },
+    {
+      "myth": "All Jains share identical scriptures and rituals, so historical study of sects is unnecessary.",
+      "reality": "Digambara and Śvetāmbara traditions, along with sub‑sects like Mūrtipūjaka, Sthānakavāsī, and Terāpanth, have distinct canonical corpora, commentaries, ritual practices, and institutional histories. Understanding these differences is essential for accurate study of Jain historical development and for appreciating the diversity within the tradition."
+    }
+  ]
+}

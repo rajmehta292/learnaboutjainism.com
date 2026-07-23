@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical and ethical literature, “profit” (often expressed through terms such as *lābha*, *lābha–alābha*, or *arthik lābha*) is not treated merely as financial gain but as a multidimensional concept involving material acquisition, karmic consequence, and ethical responsibility. Jainism, across its traditions, consistently frames profit within the broader moral architecture of non‑violence (*ahiṃsā*), non‑possessiveness (*aparigraha*), and right livelihood (*samyak ājīva*). Profit is therefore not rejected outright; instead, it is evaluated according to the intentions, methods, and attachments that accompany it.\n\nIn classical Jain ontology, profit belongs to the category of *parigraha* (possessive accumulation) when pursued with attachment, greed, or harm. Such profit is considered a source of karmic bondage, particularly *pāpa* karma associated with violence, deceit, and exploitation. Conversely, profit obtained through honest, non‑violent, and restrained means can be integrated into lay life as part of *śrāvaka dharma*. The *Daśavaikālika Sūtra* and *Uttarādhyayana Sūtra* repeatedly emphasize that householders may engage in commerce, agriculture, and crafts, but must do so with vigilance toward ethical constraints.\n\nProfit is also treated as one of the dualities (*pariṇāma-dvandva*) that test equanimity. Texts often pair *lābha* (profit) with *alābha* (loss), urging practitioners to maintain composure in both circumstances. The *Tattvārtha Sūtra*’s discussions of passions (*kaṣāya*) and delusion (*moha*) highlight that attachment to profit can intensify anger, pride, deceit, and greed, thereby obstructing spiritual progress.\n\nIn modern Jain ethics, profit is examined through lenses such as sustainable business, vegetarian/vegan commerce, non‑violent supply chains, and philanthropy. Many Jain communities encourage channeling profit toward charitable works (*dāna*), temple maintenance, education, and animal welfare. The underlying principle remains constant: profit is acceptable when it does not violate *ahiṃsā*, does not deepen attachment, and is used responsibly for the welfare of all beings.\n\nThus, in Jain thought, profit is not inherently virtuous or harmful. Its moral valence depends on the means of acquisition, the mental states involved, and the uses to which it is put. Profit becomes spiritually constructive only when aligned with restraint, compassion, and equanimity.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "लाभालाभे समत्वम्",
+      "transliteration": "lābhālābhe samatvam",
+      "translation": "Equanimity in gain and loss.",
+      "notes": "This aphorism appears in discussions of conduct and equanimity. It frames profit as one of the dualities through which a practitioner must maintain mental balance. Editions vary slightly, and some commentaries expand the phrase rather than present it as a standalone sutra."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "जे लाहं इच्छंति ते अलाहं पावंति",
+      "transliteration": "je lāhaṃ icchaṃti te alāhaṃ pāvaṃti",
+      "translation": "Those who crave profit often meet with loss.",
+      "notes": "This verse appears in admonitions to monks and householders regarding desire and attachment. The text warns that craving profit leads to instability and suffering. Exact wording varies across manuscripts."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "अहिंसालाभो लाहो",
+      "transliteration": "ahiṃsālābho lāho",
+      "translation": "The gain that arises from non‑violence is true gain.",
+      "notes": "This passage is cited in traditional commentaries to emphasize that profit must be evaluated through the lens of non‑violence. The phrase is sometimes embedded within longer prescriptive sections."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism prohibits all forms of profit or business activity.",
+      "reality": "Jainism permits householders to earn profit through ethical, non‑violent, and honest means. The tradition regulates the methods and mental states involved, not the existence of profit itself."
+    },
+    {
+      "myth": "Profit is always a source of karmic bondage.",
+      "reality": "Profit becomes karmically harmful only when pursued with greed, deceit, violence, or attachment. Profit obtained with restraint and used responsibly can support lay duties and charitable works."
+    },
+    {
+      "myth": "Profit has no spiritual relevance in Jainism.",
+      "reality": "Profit is a key ethical category linked to equanimity, non‑possessiveness, and karmic theory. Texts treat profit and loss as tests of spiritual maturity."
+    }
+  ]
+}

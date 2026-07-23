@@ -1,0 +1,63 @@
+{
+  "overview": "In general ethical discourse, a \"conflict of interest\" refers to a situation in which a person’s duties or responsibilities to others are compromised, or appear to be compromised, by their own personal, financial, familial, or institutional interests. In Jain thought, this idea is not expressed with the modern legal phrase, but the underlying problem is clearly recognized: when attachment (parigraha), greed (lobha), pride (mada), and deceit (maya) influence decisions, one’s conduct ceases to be samyak charitra (right conduct) and becomes a source of himsa (violence) and karmic bondage.\n\nFrom a Jain perspective, conflict of interest is fundamentally a conflict between the demands of self-interest and the demands of dharma—understood as the path that minimizes harm, upholds truth, and reduces karmic accumulation. The core vows for ascetics (mahavrata) and the corresponding limited vows for laypeople (anuvrata) already anticipate such conflicts. Satya (truthfulness) forbids misrepresentation and concealment for gain; asteya (non-stealing) forbids taking advantage of others’ trust; aparigraha (non-possessiveness) restrains the drive to accumulate wealth or status at the expense of ethical clarity. When these vows are applied to roles such as merchant, professional, official, or community leader, they function as safeguards against conflicts of interest.\n\nJain lay conduct literature (śrāvakācāra) explicitly addresses the ethical dimensions of livelihood. It warns against trades and practices that involve deception, exploitation, or harm to living beings, even when such activities are socially accepted or highly profitable. Here, conflict of interest appears as the tension between the desire for profit, prestige, or family advantage and the obligation to avoid himsa and uphold satya. A Jain householder is encouraged to choose occupations and business practices that do not force them into situations where they must compromise their vows to protect their own material interests.\n\nIn practical terms, conflict of interest in a Jain framework can arise in many domains: business and finance (e.g., recommending products or investments that benefit oneself more than the client), professional roles (e.g., using a position of authority for personal gain), religious administration (e.g., favoring relatives or donors in temple decisions), and family life (e.g., pressuring dependents to act against their conscience for the sake of family reputation or wealth). The ethical question is not only whether harm is directly caused, but whether one’s judgment is clouded by attachment and partiality. Jainism emphasizes inner honesty: even if an action appears outwardly compliant with social norms, it can still be ethically compromised if driven by self-serving motives.\n\nKarmically, conflicts of interest are serious because they often involve subtle forms of deceit and rationalization. A person may convince themselves that they are acting for the \"greater good\" while actually protecting their own position or profit. Such self-deception strengthens the passions (kashaya) and allows more karmic matter to bind to the soul. Jain ethics therefore encourages transparency, self-scrutiny, and consultation with knowledgeable lay teachers or monks/nuns when one’s role or livelihood repeatedly forces choices that feel ethically divided. In many traditions, the ideal is to structure one’s life so that duties and interests are aligned with non-violence, truth, and restraint, rather than constantly in tension with them.\n\nModern Jain discussions of business ethics and professional life often translate these classical concerns into contemporary language: avoiding conflicts of interest is framed as ensuring that decisions are not biased by undisclosed personal stakes, that information is not manipulated for gain, and that one’s role is exercised for the genuine welfare of stakeholders rather than for private advantage. While the vocabulary is new, the underlying Jain insight remains the same: whenever attachment and self-interest distort judgment, the path of liberation is obstructed. Recognizing, disclosing, and resolving conflicts of interest is therefore not only a matter of legal or corporate compliance, but a spiritual discipline aimed at reducing himsa, kashaya, and karmic bondage.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः ।\nअहिंसा-सत्य-अस्तेय-ब्रह्मचर्य-अपरिग्रहाः व्रतानीति ।",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ.\nahimsā-satya-asteya-brahmacarya-aparigrahāḥ vratānīti.",
+      "translation": "Right faith, right knowledge, and right conduct are the path to liberation.\nNon-violence, truthfulness, non-stealing, chastity, and non-possessiveness are the vows.",
+      "notes": "While the Tattvārthasūtra does not use the modern term \"conflict of interest\", it establishes the framework in which such conflicts are judged: right conduct must be guided by the five vows. When personal, financial, or institutional interests lead one to compromise ahimsā, satya, asteya, or aparigraha, the integrity of samyak cāritra is broken. Later commentaries apply these principles to livelihood and social roles, warning against occupations and decisions that entangle one in harm or deceit for gain. Text wording and verse numbering can vary slightly by edition."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra",
+      "author": "Samantabhadra (traditionally attributed)",
+      "original_text": "अहिंसासत्यास्तेयब्रह्मचर्यापरिग्रहाण्यनुव्रतानि गृहस्थस्य ।\nनान्येषां क्लेशकारिणां वृत्तीनां सेवनं श्रावकस्य ।",
+      "transliteration": "ahimsā-satyāsteya-brahmacaryāparigrahāṇy anuvratāni gṛhasthasya.\nnānyeṣāṃ kleśa-kāriṇāṃ vṛttīnāṃ sevanaṃ śrāvakasya.",
+      "translation": "For the householder, the limited vows of non-violence, truthfulness, non-stealing, chastity, and non-possessiveness are prescribed.\nA lay follower should not engage in livelihoods that cause affliction.",
+      "notes": "Ratnakaraṇḍa Śrāvakācāra is a key Digambara text on lay conduct. It explicitly links livelihood (vṛtti) with ethical restraint, implying that trades or roles that inherently cause harm or moral affliction should be avoided. This is directly relevant to conflicts of interest: if a profession repeatedly forces one to choose between profit and non-violence or truth, the text suggests that such a livelihood is unsuitable for a śrāvaka. Exact verses and wording differ across manuscripts and printed editions; the lines here represent a commonly cited sense rather than a critical edition."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "ण हणेइ पावकम्मं, ण हणेइ जीवाणं ।\nलाभं निस्सइ दुहं, सच्चेण विणा न कुयरे ।",
+      "transliteration": "ṇa haṇei pāvakammaṃ, ṇa haṇei jīvāṇaṃ.\nlābhaṃ nissai duhaṃ, sacceṇa viṇā na kuyare.",
+      "translation": "One should not perform sinful acts, one should not harm living beings.\nOne should renounce gain that brings suffering, and never act without truth.",
+      "notes": "The Ācārāṅga Sūtra, one of the earliest Śvetāmbara canonical texts, emphasizes carefulness toward all living beings and the primacy of truth over gain. The idea that a person should renounce profit that causes suffering or requires falsehood speaks directly to conflicts of interest: when material advantage depends on harming others or concealing the truth, the gain itself is to be rejected. The Prakrit wording and line division vary by recension; the passage here reflects a thematic synthesis rather than a single critical verse."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Traditionally attributed to early Jain teachers",
+      "original_text": "लोभो दुण्णयणं मुळे, लोभो पावककम्मस्स कारणं ।\nलोभेण विणा नत्थि, पावककम्मस्स संभवो ।",
+      "transliteration": "lobho duṇṇayaṇaṃ muḷe, lobho pāvakakammassa kāraṇaṃ.\nlobheṇa viṇā natthi, pāvakakammassa saṃbhavo.",
+      "translation": "Greed is the root of bad conduct; greed is the cause of sinful karma.\nWithout greed, there is no arising of sinful karma.",
+      "notes": "The Uttarādhyayana Sūtra repeatedly warns against lobha (greed) and partiality. In the context of conflict of interest, greed is the inner force that makes a person favor their own advantage over fairness, truth, or non-violence. By identifying greed as the root of bad conduct and karmic bondage, the text provides a psychological and spiritual explanation for why conflicts of interest are so dangerous: they are often expressions of lobha in socially complex situations. As with other Prakrit texts, wording and numbering differ by edition."
+    },
+    {
+      "title": "Śrāvakācāra texts (general Digambara and Śvetāmbara traditions)",
+      "author": "Various authors (e.g., Āśādhara, Haribhadra, others)",
+      "original_text": "नानृतं न च मायां न च चौर्यं न च हिंसां च कुर्वीत ।\nन चान्येषां विश्वासभङ्गं कुर्वीत लाभार्थं कदाचन ।",
+      "transliteration": "nānṛtaṃ na ca māyāṃ na ca cauryaṃ na ca hiṃsāṃ ca kurvīta.\nna cānyeṣāṃ viśvāsa-bhaṅgaṃ kurvīta lābhārthaṃ kadācana.",
+      "translation": "One should not speak untruth, nor practice deceit, nor theft, nor violence.\nOne should never break the trust of others for the sake of gain.",
+      "notes": "Across both Digambara and Śvetāmbara śrāvakācāra (lay conduct) manuals, a recurring theme is that a layperson must avoid betraying trust, lying, or harming others for profit. This directly addresses the ethical core of conflicts of interest: using a position of trust for personal advantage. The lines given here represent a composite of widely attested teachings rather than a single canonical verse; specific wording and attribution vary among authors and traditions. They illustrate how Jain lay ethics frames the misuse of trust for gain as a serious moral fault."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism requires complete withdrawal from business, professional, or leadership roles to avoid any conflict of interest.",
+      "reality": "Classical Jain texts recognize and guide lay life, including trade, professions, and social responsibilities. They do not demand total withdrawal from worldly roles, but insist that these roles be carried out within the limits of ahimsā, satya, asteya, brahmacarya, and aparigraha. The aim is to choose livelihoods and practices that minimize harm and moral compromise, not to abandon all engagement with society."
+    },
+    {
+      "myth": "Any pursuit of profit or personal benefit is automatically a violation of Jain ethics and therefore always a conflict of interest.",
+      "reality": "Jain ethics does not forbid all profit or personal benefit; it regulates how they are pursued. Profit becomes ethically problematic when it depends on violence, deceit, exploitation, or betrayal of trust. A Jain householder may earn wealth, support dependents, and participate in commerce, provided that their methods and decisions remain aligned with non-violence, truthfulness, fairness, and restraint. Conflict of interest arises when these ethical boundaries are crossed for the sake of gain."
+    },
+    {
+      "myth": "Conflict of interest is only a modern legal or corporate concept and has no relevance to spiritual practice or karmic consequences in Jainism.",
+      "reality": "While the phrase \"conflict of interest\" is modern, the underlying issue—judgment distorted by attachment, greed, or partiality—is central to Jain moral psychology. Texts on vows, lay conduct, and passions describe how self-interest and lobha lead to bad conduct and karmic bondage. Resolving conflicts between duty and self-interest is therefore not just a matter of compliance, but a spiritual discipline aimed at purifying conduct and reducing the influx of karma."
+    },
+    {
+      "myth": "As long as harm is indirect or hidden, conflicts of interest are less serious in Jain ethics.",
+      "reality": "Jainism pays close attention to intention, mental states, and subtle forms of himsa and deceit. Indirect or hidden harm, especially when knowingly tolerated or engineered for personal advantage, is still karmically significant. Using complex structures, intermediaries, or technicalities to conceal self-serving decisions does not lessen their ethical weight; it often increases the role of deceit and rationalization, deepening karmic bondage."
+    }
+  ]
+}

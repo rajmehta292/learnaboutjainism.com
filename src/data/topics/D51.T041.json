@@ -1,0 +1,27 @@
+{
+  "overview": "Interoperability refers to the ability of different systems, technologies, organizations, or processes to work together seamlessly. In information technology, it describes how software applications, databases, and devices exchange data reliably and consistently. In engineering, it concerns the compatibility of components or protocols. In social and institutional contexts, interoperability reflects the capacity of distinct groups or frameworks to coordinate actions without friction.\n\nThe concept emerged prominently in computing during the late 20th century as networks expanded and heterogeneous systems needed to communicate. Standards such as TCP/IP, XML, and later REST APIs were developed to ensure that independently built systems could interact. Interoperability also plays a major role in healthcare, finance, transportation, and government services, where data exchange across institutions is essential for safety, efficiency, and accountability.\n\nInteroperability can be technical, semantic, or organizational. Technical interoperability ensures that systems can physically connect and exchange data. Semantic interoperability ensures that exchanged data is interpreted consistently across systems. Organizational interoperability ensures that institutions have aligned policies, workflows, and governance structures that allow cooperation. Achieving full interoperability often requires shared standards, transparent documentation, and long-term collaboration.\n\nIn modern digital ecosystems, interoperability is increasingly viewed as a foundation for innovation. Open standards and interoperable platforms allow new services to be built on top of existing infrastructure, reduce vendor lock-in, and promote competition. At the same time, interoperability raises challenges related to security, privacy, and regulatory compliance. Balancing openness with protection remains a central concern in contemporary discussions about digital governance.",
+  "primary_sources": [
+    {
+      "title": "No direct Jain primary text on interoperability",
+      "author": "N/A",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "Interoperability is a modern technical concept. Jain canonical texts do not address it directly. When relevant, scholars sometimes draw analogies to Jain epistemology or multi-perspective reasoning (anekāntavāda), but these are interpretive parallels rather than primary textual sources."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Interoperability only concerns technology.",
+      "reality": "While widely used in computing, interoperability also applies to institutions, social systems, and organizational processes."
+    },
+    {
+      "myth": "Interoperability means all systems must be identical.",
+      "reality": "Interoperability allows diverse systems to work together without requiring uniformity; it relies on shared standards and communication protocols."
+    },
+    {
+      "myth": "Once achieved, interoperability does not require maintenance.",
+      "reality": "Interoperability must be continuously maintained as systems evolve, standards change, and new security requirements emerge."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "Ratnatraya (the “Three Jewels”) is a foundational doctrinal framework in Jainism that defines the path to liberation (mokṣa). Across Digambara and Śvetāmbara traditions, Ratnatraya is consistently described as the triad of **samyag‑darśana** (right vision or right faith), **samyag‑jñāna** (right knowledge), and **samyag‑cāritra** (right conduct). These three are not independent virtues but mutually reinforcing states of spiritual clarity, understanding, and disciplined ethical practice.\n\nIn classical Jain ontology, Ratnatraya is the operational core of the mokṣa‑mārga. The triad appears in early canonical sources such as the *Tattvārtha Sūtra*, Digambara works like *Ṣaṭkhaṇḍāgama* and *Kundakunda’s Samayasāra*, and Śvetāmbara Āgamas including the *Uttarādhyayana Sūtra*. The three jewels are also mapped directly onto the progression of the fourteen guṇasthānas (stages of spiritual development), where the emergence of right faith marks the transition from delusion to spiritual awakening.\n\n**Samyag‑darśana** is the experiential conviction in the reality of the tattvas (fundamental principles such as soul, karma, bondage, liberation). It is not blind belief but a clarity of perception free from intense passions and wrong views. **Samyag‑jñāna** is accurate, non‑contradictory knowledge of the tattvas, derived from scripture, reasoning, and direct experience. **Samyag‑cāritra** is the disciplined application of that knowledge through ethical restraint, vows, and purification of conduct.\n\nTogether, Ratnatraya forms the indispensable triad for dissolving karmic bondage. Jain philosophers emphasize that liberation cannot be attained through conduct alone, nor through knowledge without proper vision; all three must be present in harmony. This triadic structure has shaped Jain pedagogy, monastic discipline, lay ethics, and philosophical debates for over two millennia.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right vision, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This is the most widely cited canonical definition of Ratnatraya. Both Digambara and Śvetāmbara traditions accept the verse, though they differ in interpretive nuances."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text (author not specified)",
+      "original_text": "दंसणं णाणं च चरित्तं च सुहं अहं",
+      "transliteration": "daṃsaṇaṃ ṇāṇaṃ ca carittaṃ ca suhaṃ ahaṃ",
+      "translation": "Right faith, right knowledge, and right conduct—these bring happiness (spiritual welfare).",
+      "notes": "This passage reinforces the triadic structure and links Ratnatraya to spiritual well‑being."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Kundakunda (Digambara)",
+      "original_text": "दंसणं णाणं चरित्तं तिहि णिव्वाणसाहणं",
+      "transliteration": "daṃsaṇaṃ ṇāṇaṃ carittaṃ tihi nivvāṇa‑sāhaṇaṃ",
+      "translation": "Right faith, knowledge, and conduct—these three lead to liberation.",
+      "notes": "Kundakunda emphasizes the internal, soul‑centered interpretation of Ratnatraya, focusing on purity of consciousness rather than external ritual."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Ratnatraya refers only to monastic practice and is irrelevant for laypeople.",
+      "reality": "Primary texts state that Ratnatraya applies to all aspirants. Lay practice adapts conduct through anuvratas (small vows), but right faith and right knowledge are equally essential."
+    },
+    {
+      "myth": "Right conduct alone is sufficient for liberation.",
+      "reality": "Jain doctrine insists that conduct without right faith and right knowledge cannot remove karmic bondage. All three jewels must be present together."
+    },
+    {
+      "myth": "Samyag‑darśana is mere belief or ritual devotion.",
+      "reality": "Right vision is defined as a clear, passion‑free perception of reality, not ritualism or unexamined belief. It is an experiential transformation described in canonical texts."
+    }
+  ]
+}

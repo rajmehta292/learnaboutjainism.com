@@ -1,0 +1,43 @@
+{
+  "overview": "“Inference for others” (parārthānumāna or parārthānumiti) is a classical Jain epistemological category describing the structured reasoning used to communicate and justify knowledge to another person. In Jain thought, inference is divided into two major forms: svārthānumāna (inference for oneself) and parārthānumāna (inference for others). The former concerns internal reasoning that leads an individual to certainty, while the latter concerns the outward, communicable form of reasoning that persuades or instructs another mind. This distinction appears across early canonical discussions of pramāṇa (valid knowledge) and is elaborated in later scholastic works.\n\nIn Jain epistemology, parārthānumāna is not merely “explaining a conclusion.” It is a formalized structure of argumentation that must include a thesis (pratijñā), a reason (hetu), an example or illustration (dṛṣṭānta), application (upanaya), and conclusion (nigamana). This five-part structure is shared with classical Indian logic more broadly, but Jain authors often emphasize its role in ethical communication, intellectual nonviolence (ahiṃsā in speech), and the avoidance of fallacies (hetvābhāsa). The goal is not victory in debate but clarity, precision, and the reduction of misunderstanding.\n\nWithin Jain traditions, parārthānumāna is used in scriptural exegesis, philosophical debate, and lay education. Digambara and Śvetāmbara scholastic texts both preserve detailed treatments of inference, though terminology and examples may vary. The method is also linked to anekāntavāda (the doctrine of many-sidedness) and syādvāda (the doctrine of conditioned predication), because inference for others must acknowledge the partial nature of any single standpoint. Thus, parārthānumāna becomes a tool for presenting reasoned claims while respecting the complexity of reality.\n\nModern scholarship highlights that Jain inference for others is not only a logical device but also a pedagogical and ethical one. It reflects the Jain commitment to careful speech, intellectual humility, and the cultivation of shared understanding. When used responsibly, it helps bridge perspectives without asserting dogmatic certainty, aligning with the broader Jain vision of non-harmful communication.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "अनुमानं त्रिविधम्",
+      "transliteration": "anumānaṃ trividham",
+      "translation": "Inference is of three kinds.",
+      "notes": "Tattvārthasūtra 1.6 identifies three types of inference: pūrvavat, śeṣavat, and sāmānyato dṛṣṭa. Later Digambara and Śvetāmbara commentaries clarify that each may be used in both svārtha (for oneself) and parārtha (for others) modes. The sūtra itself is terse; elaboration appears in authoritative commentaries such as Pūjyapāda’s Sarvārthasiddhi (Digambara) and Siddhasena’s Tattvārthādhigama-bhāṣya (Śvetāmbara)."
+    },
+    {
+      "title": "Nyāyāvatāra",
+      "author": "Siddhasena Divākara",
+      "original_text": "प्रत्यक्षाnumानोपमितिशब्दाः प्रमाणानि",
+      "transliteration": "pratyakṣānumānopamitiśabdāḥ pramāṇāni",
+      "translation": "Perception, inference, comparison, and testimony are the means of valid knowledge.",
+      "notes": "Nyāyāvatāra provides one of the earliest systematic Jain treatments of inference. Later verses distinguish the communicative structure of parārthānumāna and outline the five-membered syllogism used to convey reasoning to others."
+    },
+    {
+      "title": "Pramāṇamīmāṃsā",
+      "author": "Hemacandra",
+      "original_text": "पञ्चावयवोऽनुमानस्य परार्थानुमितौ",
+      "transliteration": "pañcāvayavo'numānasya parārthānumitau",
+      "translation": "Inference, when intended for others, consists of five members.",
+      "notes": "Hemacandra’s 12th‑century Śvetāmbara treatise gives a detailed account of the five-part structure: pratijñā, hetu, dṛṣṭānta, upanaya, and nigamana. He also discusses fallacies and the ethical obligations of clear reasoning."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Inference for others is simply explaining one’s personal reasoning.",
+      "reality": "In Jain epistemology, parārthānumāna is a formal, structured mode of argumentation with defined components. It is not merely casual explanation but a disciplined method for presenting knowledge responsibly."
+    },
+    {
+      "myth": "Inference for others is used to win debates or assert doctrinal superiority.",
+      "reality": "Jain texts emphasize that parārthānumāna should be used with intellectual nonviolence. Its purpose is clarity and mutual understanding, not domination or coercion."
+    },
+    {
+      "myth": "All Jain traditions treat inference identically.",
+      "reality": "While the core structure is shared, Digambara and Śvetāmbara commentaries differ in terminology, examples, and emphasis. These variations reflect broader scholastic developments rather than contradictions."
+    }
+  ]
+}

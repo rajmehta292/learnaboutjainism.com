@@ -1,0 +1,55 @@
+{
+  "overview": "Pratyakhyana (Skt. *pratyākhyāna*, Prakrit *paḍiyakkhāṇa*) is a foundational Jain ethical and ritual concept referring to a deliberate renunciation, resolve, or formal declaration of abstention. Across Śvetāmbara and Digambara traditions, it appears in contexts ranging from daily repentance (āvaśyaka), confession (ālocanā), and vow‑renewal (vrata‑saṃskāra) to advanced ascetic practice. In its most basic sense, pratyakhyana is the conscious decision to refrain from a specific action, passion, or fault, undertaken with clarity of intention and awareness of karmic consequences.\n\nIn classical Jain soteriology, pratyakhyana is closely linked to *pratikramaṇa* (retrospection and repentance). While pratikramaṇa involves reviewing past faults, pratyakhyana is forward‑looking: it is the resolve not to repeat those faults. This dual movement—acknowledging past harm and committing to future restraint—is central to Jain ethical cultivation. The term also appears in technical karma theory, where pratyakhyana is one of the forms of *saṃvara* (stoppage of karmic influx), because intentional renunciation reduces passions and prevents new karmic bondage.\n\nIn lay practice, pratyakhyana is expressed through daily or periodic resolutions, such as limiting food intake, avoiding certain harmful activities, or reaffirming the five minor vows (aṇu‑vrata). In monastic contexts, it can be more formalized, appearing in ritual formulas, disciplinary procedures, and ascetic commitments. Some texts distinguish between *dravyapratyakhyana* (renunciation of material objects or actions) and *bhāvapratyakhyana* (renunciation of internal dispositions such as anger or pride). Both are considered essential for progress through the *guṇasthānas* (stages of spiritual development).\n\nBecause pratyakhyana involves intentional restraint, classical sources emphasize that it must be undertaken with proper understanding, without coercion, and within one’s physical and ethical capacity. It is not a vow of extreme austerity by itself; rather, it is a structured ethical commitment embedded in broader Jain discipline. Traditions differ slightly in terminology and ritual usage, but all agree that pratyakhyana is a key mechanism for cultivating non‑violence, self‑control, and karmic purification.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "प्रत्याख्यानं च",
+      "transliteration": "pratyākhyānaṃ ca",
+      "translation": "“And (there is) renunciation.”",
+      "notes": "Appears in TS 9.2 within the discussion of saṃvara (stoppage of karmic influx). Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) explain pratyakhyana as a conscious rejection of harmful activities and passions, contributing to karmic restraint."
+    },
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "पडियक्खाणं तव्विहं",
+      "transliteration": "paḍiyakkhāṇaṃ tavvihaṃ",
+      "translation": "“Pratyakhyana is of various kinds.”",
+      "notes": "Used in the context of daily āvaśyaka practices. The text outlines different forms of renunciation and their role in repentance and vow‑renewal."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "प्रत्याख्यानं हि भावस्य निग्रहायोच्यते",
+      "transliteration": "pratyākhyānaṃ hi bhāvasya nigrahāyo cyate",
+      "translation": "“Pratyakhyana is taught for the restraint of inner dispositions.”",
+      "notes": "Highlights the Digambara emphasis on internal renunciation (bhāva) as the basis for external discipline."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "एवं पडियक्खाणं कुर्वन्ति मुनयः",
+      "transliteration": "evaṃ paḍiyakkhāṇaṃ kurvanti munayaḥ",
+      "translation": "“Thus the monks perform pratyakhyana.”",
+      "notes": "Appears in sections describing monastic conduct, illustrating how renunciation is ritually articulated."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Pratyakhyana is the same as pratikramaṇa.",
+      "reality": "They are related but distinct. Pratikramaṇa is retrospective (reviewing past faults), while pratyakhyana is prospective (resolving not to repeat faults)."
+    },
+    {
+      "myth": "Pratyakhyana always involves severe austerity or fasting.",
+      "reality": "Classical texts define pratyakhyana as renunciation or resolve, not necessarily austerity. It can be as simple as committing to avoid a harmful action."
+    },
+    {
+      "myth": "Pratyakhyana is only for monks.",
+      "reality": "Laypeople also perform pratyakhyana, especially during āvaśyaka practice, vow‑renewal, and ethical reflection."
+    },
+    {
+      "myth": "Pratyakhyana is a binding religious command requiring authorization.",
+      "reality": "It is an ethical resolve, not a diksha‑level commitment. Complex or extreme renunciations require guidance from qualified human teachers, but ordinary pratyakhyana does not."
+    }
+  ]
+}

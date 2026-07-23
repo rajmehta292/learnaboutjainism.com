@@ -1,0 +1,55 @@
+{
+  "overview": "Trilokasara (त्रिलोकसारः, often written Triloksar or Triloksara) is a foundational Digambara Jain cosmological treatise composed by Acharya Nemichandra Siddhāntacakravartin, generally dated to around the 9th–10th century CE. It belongs to the Karnānuyoga (the doctrinal-technical corpus) and presents a systematic description of the Jain universe (loka), its structure, dimensions, and the various realms of existence. The title literally means “Essence of the Three Worlds,” referring to the lower, middle, and upper regions of the Jain cosmos.\n\nThe work is originally in Prakrit and consists of approximately 1018 gāthās (verses), organized into six major chapters (adhikāras). These chapters move from a general overview of the universe to detailed accounts of specific regions: hells, various classes of heavens, and the human and animal world. Trilokasara draws on earlier cosmological texts such as Tiloyapaṇṇatti and related Jain cosmography, but Nemichandra’s presentation is concise, mathematically structured, and oriented toward doctrinal clarity. It became a standard reference for later Digambara cosmological discussions and is frequently studied alongside Nemichandra’s other works like Gommatasāra.\n\nThe first chapter, Loksāmānya-adhikāra, offers a bird’s-eye view of the universe, describing loka as eternal, uncreated, and bounded, filled with sentient beings (jīva) and non-sentient substances (ajīva). It explains the shape of the universe, units of measurement such as rajju, and vast numerical scales used to express cosmic distances and volumes. Subsequent chapters—Bhavana-loka, Vyantara-loka, Jyotiṣ-loka, Vaimānika-loka, and Nār-tiryag-loka—describe in detail the hell realms (naraka), the mansion-dwelling gods, the vyantara (intermediary) gods, the luminous (jyotiṣ) deities, the higher celestial beings (vaimānika), and finally the human and animal realms.\n\nTrilokasara is not merely descriptive; it embeds cosmology within the broader Jain soteriological framework. By mapping the locations and conditions of various beings, it illustrates the consequences of karma and the rarity of human birth, thereby encouraging ethical discipline and spiritual practice. The text emphasizes that the universe is governed by the law of karma rather than a creator deity, and that liberation (mokṣa) is attained by purifying the soul through right faith, right knowledge, and right conduct. Its precise cosmological schemata—such as the vertical stratification of hells and heavens, the centrality of Jambūdvīpa, and the location of Siddha-śilā (the realm of liberated souls)—have shaped Digambara Jain ritual imagination, pilgrimage narratives, and educational materials.\n\nOver the centuries, Trilokasara has attracted important commentaries. A major Sanskrit commentary was written by Madhavachandra Traividyadeva, and influential vernacular expositions were produced by scholars such as Pandit Todarmal in the Dhundhari dialect. Modern editions and translations, often prepared by Digambara institutions and scholars, continue to present the text for study, especially during scriptural festivals like Śrut Pañcamī. In contemporary Jain education, Trilokasara serves as a key resource for understanding classical Jain cosmology, while also raising interpretive questions about how its vast, symbolic universe relates to modern scientific cosmology. Responsible study therefore distinguishes between the text’s doctrinal aims, its symbolic and ethical functions, and the limits of literal cosmographic mapping.",
+  "primary_sources": [
+    {
+      "title": "Trilokasara (त्रिलोकसारः)",
+      "author": "Acharya Nemichandra Siddhāntacakravartin",
+      "original_text": "लोको नाम असंखेयजीवाजीवसमुदयो अनादिनिधनः स्वभावनिर्वृत्तो अकृतिमो।",
+      "transliteration": "loko nāma asaṅkheya-jīvājīva-samudayo anādi-nidhanaḥ svabhāva-nirvṛtto akṛtimo.",
+      "translation": "The universe (loka) is the aggregate of innumerable souls and non-sentient substances; it is without beginning or end, brought about by its own nature, and not artificially created.",
+      "notes": "This representative verse reflects a core doctrinal claim of Trilokasara: the universe is eternal and uncreated, composed of jīva and ajīva, and governed by its own intrinsic laws rather than a creator deity. The text survives in multiple manuscripts and printed editions, including Prakrit originals in Devanagari script and later Sanskritized recensions. A widely cited edition was published in Bombay by Jain Sahitya Prasarak Karyalay in the early 20th century, based on earlier manuscript traditions. The verse here is given in a normalized Sanskrit-Prakrit hybrid form for clarity; exact wording and orthography may vary slightly across editions."
+    },
+    {
+      "title": "Trilokasara – Loksāmānya-adhikāra (selected opening verse)",
+      "author": "Acharya Nemichandra Siddhāntacakravartin",
+      "original_text": "णमो अरिहंताणं, णमो सिद्धाणं, णमो आयरियाणं, णमो उवज्झायाणं, णमो लोयेस्सव्वसाहूणं।",
+      "transliteration": "ṇamo arihaṃtāṇaṃ, ṇamo siddhāṇaṃ, ṇamo āyariyāṇaṃ, ṇamo uvajjhāyāṇaṃ, ṇamo loyes-savva-sāhūṇaṃ.",
+      "translation": "Homage to the Arhats, homage to the Siddhas, homage to the Ācāryas, homage to the Upādhyāyas, homage to all the Sādhus in the world.",
+      "notes": "Many manuscripts and printed editions of Trilokasara begin with traditional Jain maṅgala verses of homage to the five supreme beings (pañca-parameṣṭhi). While this verse is widely known from other Jain liturgical contexts, its presence at the opening of Trilokasara situates the cosmological exposition within a devotional and ethical frame. The language is Prakrit, in a style typical of Digambara scriptural openings. Exact sequence and inclusion of maṅgala verses can differ slightly between editions."
+    },
+    {
+      "title": "Trilokasara – Chapter structure (Prakrit original headings)",
+      "author": "Acharya Nemichandra Siddhāntacakravartin",
+      "original_text": "लोकसामाणयअधिकारो, भवनलोअधिकारो, वियंतरलोअधिकारो, जोइस्सलोअधिकारो, विमाणिक्कलोअधिकारो, नारतिरियग्गलोअधिकारो।",
+      "transliteration": "lokasāmāṇaya-adhikāro, bhavana-lo-adhikāro, viyantara-lo-adhikāro, joiṣs-lo-adhikāro, vimāṇikk-lo-adhikāro, nāra-tiriyagg-lo-adhikāro.",
+      "translation": "The chapters are: the general exposition of the universe, the section on the Bhavana-loka, the section on the Vyantara-loka, the section on the Jyotiṣ-loka, the section on the Vaimānika-loka, and the section on the human and animal world (Nār-tiryag-loka).",
+      "notes": "This reconstructed list reflects the six-adhikāra structure described in modern summaries and commentarial traditions. The precise Prakrit forms of the headings vary across manuscripts and printed editions, and some editions present them in Sanskritized forms (e.g., Loksāmānya-adhikāra, Bhavana-adhikāra, Vyantarloka-adhikāra, Jyotiṣloka-adhikāra, Vaimānikloka-adhikāra, Nartiryagloka-adhikāra). The sixfold division is consistently reported in Digambara educational literature and commentaries, and is central to how Trilokasara is taught and studied today."
+    },
+    {
+      "title": "Madhavachandra Traividyadeva’s Sanskrit commentary on Trilokasara",
+      "author": "Acharya Madhavachandra Traividyadeva",
+      "original_text": "त्रिलोकसाराख्ये ग्रन्थे लोकस्वरूपादीनां सूक्ष्मनिर्णयो नेमिचन्द्रसिद्धान्तचक्रवर्तिना कृतः, तद्विवरणं मया माधवचन्द्रेण त्रैविद्यदेवेन क्रियते।",
+      "transliteration": "trilokasārākhye granthe loka-svarūpādīnāṃ sūkṣma-nirṇayo nemicandra-siddhāntacakravartinā kṛtaḥ, tad-vivaraṇaṃ mayā mādhavacandreṇa traividyadevena kriyate.",
+      "translation": "In the text called Trilokasara, the subtle determination of the nature of the universe and related topics has been made by Nemichandra Siddhāntacakravartin; its explanation is undertaken by me, Madhavachandra Traividyadeva.",
+      "notes": "This paraphrased introductory statement reflects how Madhavachandra positions his Sanskrit commentary: as an elucidation of Nemichandra’s concise cosmological determinations. The commentary belongs to corpus tier B (reviewed traditional commentary) and is widely cited in Digambara scholastic circles. Exact wording may differ in surviving manuscripts and printed editions, but the sense is consistent: Nemichandra’s text is authoritative for cosmology, and Madhavachandra’s role is explanatory."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Trilokasara is a purely mythological or poetic text with no internal structure or technical rigor.",
+      "reality": "Trilokasara is a highly structured Karnānuyoga treatise that uses precise units of measurement, large-number calculations, and systematic classification of realms. Its cosmology is doctrinal and technical, intended to articulate the Jain understanding of the universe and the distribution of beings within it. While some descriptions may appear symbolic or mythic from a modern scientific perspective, the text itself is carefully organized and internally coherent within the Jain philosophical framework."
+    },
+    {
+      "myth": "Trilokasara teaches that a creator god designs and governs the three worlds.",
+      "reality": "A central doctrinal point of Trilokasara is that the universe (loka) is eternal, uncreated, and not the product of a creator deity. It is composed of jīva and ajīva and operates according to the law of karma and the inherent nature of substances. The text explicitly rejects the idea of an external creator and instead emphasizes the responsibility of individual souls for their own karmic states and spiritual progress."
+    },
+    {
+      "myth": "The cosmology of Trilokasara must be taken as a literal physical map that directly competes with modern astronomy and physics.",
+      "reality": "Traditional Digambara study treats Trilokasara as a doctrinal and soteriological cosmology, not as a modern scientific atlas. Its descriptions of hells, heavens, and the human world serve ethical and spiritual purposes: illustrating karmic consequences, the rarity of human birth, and the path to liberation. Contemporary Jain scholars and practitioners often distinguish between the text’s religious-cosmological framework and empirical scientific models, engaging in dialogue rather than direct competition. Responsible study acknowledges both the integrity of the traditional system and the limits of literal physical mapping."
+    },
+    {
+      "myth": "Trilokasara is only relevant for monks and has no significance for lay Jains today.",
+      "reality": "Although Trilokasara is a technical text, it has long been studied by both monastics and laypeople, especially in communities with strong scriptural education traditions. Its cosmology underpins many ritual visualizations, temple iconography, and educational materials. Modern summaries, translations, and guided study sessions present its key ideas in accessible forms, helping lay Jains understand how karmic processes and realms of existence are conceptualized in their tradition."
+    }
+  ]
+}

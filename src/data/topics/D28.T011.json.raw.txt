@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain literary and pedagogical history, \"thirty-two-text lists\" (often expressed in Sanskrit and Prakrit as dvātriṃśikā or battīs-grantha traditions) refer to structured collections of thirty-two scriptures or doctrinal topics that are grouped together for memorization, curriculum design, and sectarian self-definition. The number thirty-two functions as a mnemonic frame: it is large enough to encompass a broad canon or set of practices, yet finite and easily recitable in oral teaching.\n\nWithin Śvetāmbara Jainism—especially in Sthānakavāsī and Terāpanth lineages—the most prominent example is the list of \"32 Āgam\" (battīs āgam), a canonical set of scriptures accepted as authoritative. This list aggregates eleven Aṅga Āgams, twelve Upāṅga Āgams, four Cheda-sūtras, four Mūla-sūtras, and one Āvaśyaka-sūtra, yielding a total of thirty-two texts. The list is not itself a single scripture but a classificatory schema that shapes how monks, nuns, and laypeople understand the structure of revelation and commentary in their tradition. [[0]](https://jainknowledge.com/question/19436/what-are-the-names-of-the-32-aagam-wht-do-they-consist-of-)\n\nBeyond the 32 Āgam schema, Jain authors have also composed dvātriṃśikā-style works—texts that explicitly organize thirty-two virtues, contemplations, or narratives. An example from the Digambara scholastic milieu is Amitagati’s Bhāvanādvātriṃśatikā, which arranges thirty-two contemplations (bhāvanā) for lay practice and ethical reflection. Such dvātriṃśikā compositions parallel broader Indian literary habits, where thirty-two-tale or thirty-two-name collections (as seen in the non-Jain Siṃhāsana Dvātriṃśikā cycle) provide a didactic and aesthetic framework. [[1]](https://en.wikipedia.org/wiki/Singhasan_Battisi) [[2]](https://encyclopediaofjainism.com/32-%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%AD_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%A8%E0%A5%8D%E0%A4%A5_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80/)\n\nIn Jain usage, thirty-two-text lists serve several functions. First, they stabilize sectarian canons: by fixing the count at thirty-two, communities can clearly state which scriptures they recognize, and how they differ from other Jain groups that count forty-five or more Āgams. Second, they support graded study: novices learn the broad categories (Aṅga, Upāṅga, Cheda, Mūla, Āvaśyaka), while advanced students delve into the content of each text. Third, they embody a pedagogical ideal in which doctrinal breadth is balanced with memorization and recitation, reflecting the oral-aural culture in which Jain scriptures were transmitted.\n\nComparatively, thirty-two-text lists also highlight intra-Jain diversity. Śvetāmbara Mūrti-pūjaka traditions often speak of forty-five Āgams, counting additional Cheda-sūtras and other texts, whereas Sthānakavāsī and Terāpanth communities emphasize the thirty-two-text list as their canonical boundary. Digambara traditions, which do not accept the Śvetāmbara Āgam corpus as preserved revelation, nonetheless employ dvātriṃśikā structures in ethical and contemplative literature. Thus, \"thirty-two-text lists\" are not a single pan-Jain canon but a family of enumerative strategies that different communities adapt to their doctrinal and historical circumstances.",
+  "primary_sources": [
+    {
+      "title": "List of 32 Āgam (Śvetāmbara Sthānakavāsī / Terāpanth schema)",
+      "author": "Attributed collectively to the Jain gaṇadharas and later redactors; the list itself is a sectarian classification rather than a single authored text.",
+      "original_text": "अङ्गागम ११, उपाङ्गागम १२, चेदासूत्र ४, मूलसूत्र ४, आवश्यकसूत्र १ — एते द्वात्रिंशद् आगमाः।",
+      "transliteration": "aṅgāgama 11, upāṅgāgama 12, chedāsūtra 4, mūlasūtra 4, āvaśyakasūtra 1 — ete dvātriṃśad āgamāḥ.",
+      "translation": "Eleven Aṅga Āgams, twelve Upāṅga Āgams, four Cheda-sūtras, four Mūla-sūtras, and one Āvaśyaka-sūtra—these are the thirty-two Āgams.",
+      "notes": "This classificatory formula summarizes the Sthānakavāsī / Terāpanth understanding of the canonical corpus. The eleven Aṅga Āgams include Ācārāṅga, Sūtrakṛtāṅga, Sthānāṅga, Samavāyāṅga, Bhagavatī (Vyākhyāprajñapti), Jñātādharmakathāṅga, Upāsakadaśāṅga, Antakṛddaśāṅga, Anuttaraupapātikadaśāṅga, Praśnavyākaraṇa, and Vipākaśruta; the twelfth Aṅga, Dṛṣṭivāda, is considered lost and is not counted in the thirty-two. The twelve Upāṅgas, four Cheda-sūtras, four Mūla-sūtras, and one Āvaśyaka-sūtra complete the list. This schema is widely taught in Śvetāmbara Sthānakavāsī and Terāpanth educational materials as \"battīs āgam\" (thirty-two scriptures). [[0]](https://jainknowledge.com/question/19436/what-are-the-names-of-the-32-aagam-wht-do-they-consist-of-)"
+    },
+    {
+      "title": "Bhāvanādvātriṃśatikā",
+      "author": "Amitagati (Digambara ācārya, c. 11th century)",
+      "original_text": "भावनाद्वात्रिंशतिका अमितगतिकृतम् (opening colophon; individual verses enumerate specific bhāvanās).",
+      "transliteration": "bhāvanādvātriṃśatikā Amitagatikṛtam.",
+      "translation": "The \"Thirty-two Contemplations\" composed by Amitagati.",
+      "notes": "Although primarily an ethical and contemplative manual rather than a canonical list of scriptures, Amitagati’s Bhāvanādvātriṃśatikā exemplifies the dvātriṃśikā form in Jain literature: thirty-two structured contemplations (bhāvanā) are presented for lay practitioners to internalize virtues such as non-violence, truthfulness, and detachment. The text is cited in Digambara study lists and appears in modern Jain reference bibliographies as an important dvātriṃśikā composition. [[2]](https://encyclopediaofjainism.com/32-%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%AD_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%A8%E0%A5%8D%E0%A4%A5_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80/)"
+    },
+    {
+      "title": "Siṃhāsana Dvātriṃśikā (Singhasan Battisi)",
+      "author": "Anonymous Sanskrit author(s); later vernacular adaptations",
+      "original_text": "सिंहासनद्वात्रिंशिका — विक्रमादित्यसिंहासनद्वात्रिंशिका इति प्रसिद्धा।",
+      "transliteration": "siṃhāsanadvātriṃśikā — Vikramādityasiṃhāsanadvātriṃśikā iti prasiddhā.",
+      "translation": "The \"Thirty-two (Tales) of the Throne\", known as \"The Thirty-two Tales of King Vikramaditya’s Throne\".",
+      "notes": "This non-Jain Sanskrit collection, later popular in Hindi and other vernaculars as Singhasan Battisi, arranges thirty-two narrative episodes around the throne of King Vikramaditya, each told by a statue (puttalikā). While not part of Jain canon, it illustrates the broader Indian literary habit of organizing material into thirty-two units, which Jain authors and teachers also adopt. Comparative study of dvātriṃśikā structures shows how Jain thirty-two-text lists participate in a shared cultural preference for enumerative, story- or topic-based collections. [[1]](https://en.wikipedia.org/wiki/Singhasan_Battisi)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The \"32 Āgam\" list represents a universally accepted Jain canon, binding on all sects and sub-traditions.",
+      "reality": "In fact, the thirty-two-text list is characteristic of specific Śvetāmbara lineages, especially Sthānakavāsī and Terāpanth. Mūrti-pūjaka Śvetāmbaras commonly speak of forty-five Āgams, counting additional Cheda-sūtras and related texts, while Digambara traditions do not accept the Śvetāmbara Āgam corpus as preserved revelation at all. The number thirty-two therefore marks a sectarian boundary, not a pan-Jain consensus. [[0]](https://jainknowledge.com/question/19436/what-are-the-names-of-the-32-aagam-wht-do-they-consist-of-)"
+    },
+    {
+      "myth": "Because a list contains thirty-two texts, Jainism must have only thirty-two scriptures in total.",
+      "reality": "Thirty-two-text lists are pedagogical and classificatory tools, not exhaustive catalogues of all Jain literature. Even within the Śvetāmbara framework, the 32 Āgams coexist with extensive commentarial, narrative, ritual, and philosophical works outside the list. Digambara traditions have their own vast corpora of śāstras, prabandhas, and stotras. The dvātriṃśikā number signals a structured subset, not a limit on scriptural production."
+    },
+    {
+      "myth": "Any text labeled dvātriṃśikā or battīs-grantha must be late, popular, and non-scholarly.",
+      "reality": "While some thirty-two-tale collections are indeed popular literature, Jain dvātriṃśikā works such as Amitagati’s Bhāvanādvātriṃśatikā are carefully crafted ethical and doctrinal treatises. The use of thirty-two as an organizing principle does not by itself indicate low status; rather, it reflects a broader Indian preference for numerically structured teaching, which can be applied to both scholastic and popular genres. [[2]](https://encyclopediaofjainism.com/32-%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%AD_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%A8%E0%A5%8D%E0%A4%A5_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80/)"
+    }
+  ]
+}
+
+
+
+> [0] [What are the names of the 32 aagam. WhT do they consist of. | JainGPT by Jain Knowledge](https://jainknowledge.com/question/19436/what-are-the-names-of-the-32-aagam-wht-do-they-consist-of-)
+>
+> [1] [Singhasan Battisi - Wikipedia](https://en.wikipedia.org/wiki/Singhasan_Battisi)
+>
+> [2] [सन्दर्भ ग्रन्थ सूची](https://encyclopediaofjainism.com/32-%E0%A4%B8%E0%A4%A8%E0%A5%8D%E0%A4%A6%E0%A4%B0%E0%A5%8D%E0%A4%AD_%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A4%A8%E0%A5%8D%E0%A4%A5_%E0%A4%B8%E0%A5%82%E0%A4%9A%E0%A5%80/)

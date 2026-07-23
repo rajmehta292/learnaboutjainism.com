@@ -1,0 +1,39 @@
+{
+  "overview": "Karnataka is a state in southern India known for its diverse geography, rich linguistic heritage, and deep historical connections to Jainism, Buddhism, and various Hindu traditions. Bordered by Goa, Maharashtra, Telangana, Andhra Pradesh, Tamil Nadu, and Kerala, it stretches from the Arabian Sea coast to the forested Western Ghats and the dry interior plains. Its capital, Bengaluru, is a major global technology hub.\n\nHistorically, Karnataka was home to powerful dynasties such as the Kadambas, Gangas, Chalukyas, Rashtrakutas, Hoysalas, and Vijayanagara rulers. Many of these dynasties patronized Jainism, resulting in a dense network of basadis (Jain temples), inscriptions, and monastic centers. Shravanabelagola, with its monumental Gommateshwara Bahubali statue, remains one of the most important Jain pilgrimage sites in the world.\n\nCulturally, Karnataka is multilingual, with Kannada as the official language and significant communities speaking Tulu, Kodava, Konkani, Urdu, and others. Its arts include Yakshagana, Carnatic and Hindustani music traditions, and distinctive temple architecture. Karnataka’s economy is diverse, spanning information technology, aerospace, agriculture, textiles, and education.\n\nFor Jain studies, Karnataka is especially significant because it preserves early Digambara textual traditions, inscriptions in Prakrit and Kannada, and monastic lineages that shaped the development of Jain philosophy, ethics, and ritual practice. The region’s contributions include classical commentaries, early narrative literature, and monumental sculpture that influenced Jain communities across India.",
+  "primary_sources": [
+    {
+      "title": "Ādi Purāṇa",
+      "author": "Jinasena (Digambara tradition)",
+      "original_text": "जिनसेनाचार्येण कृतम् आदिपुराणम्",
+      "transliteration": "jinasenāchāryeṇa kṛtam ādipurāṇam",
+      "translation": "“The Ādi Purāṇa composed by Ācārya Jinasena narrates the life of Ṛṣabhanātha and the early lineage of Jain teachers.”",
+      "notes": "Composed in Karnataka under the Rashtrakutas (9th century CE). It is central to understanding the region’s Jain literary and philosophical history."
+    },
+    {
+      "title": "Gommata Purāṇa",
+      "author": "Nemichandra Siddhānta Chakravarti",
+      "original_text": "गोम्मटपुराणम्",
+      "transliteration": "gommaṭapurāṇam",
+      "translation": "“The Gommata Purāṇa describes the life of Bahubali and the consecration of the Shravanabelagola statue.”",
+      "notes": "A medieval Digambara text tied directly to Karnataka’s most iconic Jain monument."
+    },
+    {
+      "title": "Shravanabelagola Inscriptions",
+      "author": "Various (Gangas, later dynasties)",
+      "original_text": "Prakrit and early Kannada inscriptions (various)",
+      "transliteration": "N/A",
+      "translation": "Short donative records mentioning monks, lay donors, and temple constructions.",
+      "notes": "These inscriptions (6th–12th century CE) are primary evidence for Jain monastic activity and patronage in Karnataka."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Karnataka’s Jain heritage is limited to Shravanabelagola.",
+      "reality": "While Shravanabelagola is the most famous site, Karnataka contains numerous Jain centers such as Karkala, Moodabidri, Aihole, Badami, and Humcha, each with significant historical and textual importance."
+    },
+    {
+      "myth": "Jainism in Karnataka is exclusively Digambara.",
+      "reality": "Although Digambara traditions dominate historically, Svetambara communities also exist in modern Karnataka, especially in urban centers, contributing to a diverse Jain landscape."
+    }
+  ]
+}

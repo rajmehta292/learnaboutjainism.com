@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, commerce (vanijjā/vaṇijyā) is understood as a necessary sphere of worldly life for laypeople (śrāvakas), governed by strict ethical constraints derived from ahiṃsā (non‑violence), satya (truthfulness), asteya (non‑stealing), brahmacarya (chastity), and aparigraha (non‑possessiveness). Jain texts do not treat commerce as a standalone doctrinal category but address it within broader discussions of right livelihood, permissible trades, and the karmic consequences of economic activity. Commerce is framed as an arena where intentions, methods, and impacts on living beings determine moral quality.\n\nEarly canonical sources classify occupations according to the degree of harm they cause. Activities involving direct injury to mobile beings (trasa‑jīvas) are considered gravely harmful, while those involving minimal harm to immobile beings (sthāvara‑jīvas) may be tolerated for householders under strict regulation. Commerce is therefore not rejected but morally bounded. The ideal Jain merchant is one who practices meticulous honesty, avoids exploitation, minimizes harm in production and distribution, and restrains greed.\n\nAcross Digambara and Śvetāmbara traditions, commerce is also linked to vows such as the aṇu‑vratas (small vows), supplementary vows like the bhoga‑upabhoga‑parimāṇa (limits on consumables), and the profession‑related vow of right livelihood (ājīva‑saṃyama). Medieval commentaries further refine acceptable trades, often listing prohibited occupations such as dealing in weapons, animal products, intoxicants, or industries involving fire and earth‑digging. Modern Jain ethicists extend these principles to contemporary contexts such as finance, global supply chains, environmental impact, and corporate governance.\n\nThus, commerce in Jainism is not merely an economic activity but a moral practice shaped by non‑violence, restraint, and transparency. It is a domain where laypeople cultivate spiritual progress by transforming everyday transactions into expressions of ethical discipline.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; Śvetāmbara canon",
+      "original_text": "ण वणिज्जा ण वेसा ण कुसीलस्स धम्मो",
+      "transliteration": "ṇa vaṇijjā ṇa vesā ṇa kusīlassa dhammo",
+      "translation": "“Trade, commerce, and deceit are not the path of the unvirtuous.”",
+      "notes": "This passage (Ācārāṅga Sūtra 1.4, varying by edition) is often cited to emphasize that commerce must be free of deceit and violence. It does not prohibit trade but warns against unethical conduct within it."
+    },
+    {
+      "title": "Sūtrakṛtāṅga Sūtra",
+      "author": "Śvetāmbara canon",
+      "original_text": "जे ण वणिज्जा करन्ति ते बहुहिंसā करन्ति",
+      "transliteration": "je ṇa vaṇijjā karanti te bahu‑hiṃsā karanti",
+      "translation": "“Those who engage in certain forms of trade commit much violence.”",
+      "notes": "The text discusses occupations involving harm, urging householders to avoid trades that directly injure living beings. Commentaries clarify that non‑violent commerce is permissible."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अजीवसंयमः",
+      "transliteration": "ājīva‑saṃyamaḥ",
+      "translation": "“Restraint in livelihood.”",
+      "notes": "Tattvārtha Sūtra 7.6 identifies right livelihood as part of lay conduct. Digambara and Śvetāmbara commentaries elaborate on acceptable professions, including ethical commerce."
+    },
+    {
+      "title": "Śrāvakācāra (various authors)",
+      "author": "Notably Ācārya Amitagati, Ācārya Samantabhadra (Digambara), and later Śvetāmbara teachers",
+      "original_text": "वणिज्यां सम्यगाचारः",
+      "transliteration": "vaṇijyāṃ samyag‑ācāraḥ",
+      "translation": "“Right conduct in commerce.”",
+      "notes": "Lay conduct manuals describe honesty, non‑harm, fair measurement, and avoidance of prohibited goods as essential to Jain commercial ethics."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism forbids all forms of commerce.",
+      "reality": "Primary texts allow commerce for laypeople but require strict adherence to non‑violence, honesty, and restraint. Only harmful or deceitful trades are prohibited."
+    },
+    {
+      "myth": "Jain merchants must avoid profit entirely.",
+      "reality": "Profit is not condemned; excessive greed, exploitation, and harm are. Ethical profit within the limits of ahiṃsā and aparigraha is acceptable."
+    },
+    {
+      "myth": "Traditional Jain rules cannot apply to modern business.",
+      "reality": "Contemporary Jain scholars and communities actively interpret ancient principles—non‑violence, truthfulness, environmental care—for modern industries, finance, and global commerce."
+    }
+  ]
+}

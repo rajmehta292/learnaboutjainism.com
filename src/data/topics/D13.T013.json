@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical and ethical literature, **vigilance** is a central discipline that supports non‑violence, self‑restraint, and the gradual refinement of consciousness. The term is often expressed through Sanskrit and Prakrit words such as *apramatta*, *pramāda‑virati*, and *samiti‑saṃyama*, each highlighting a slightly different dimension of attentive conduct. Vigilance is not merely alertness in a worldly sense; it is a sustained moral and cognitive awareness that prevents harm to living beings, guards against karmic influx (*āsrava*), and stabilizes progress toward higher states of spiritual development.\n\nAcross both Digambara and Śvetāmbara traditions, vigilance is described as a continuous discipline applied to bodily movement, speech, mental states, and interactions with the environment. It is closely linked to the five *samitis* (carefulnesses) and three *guptis* (protections), which together form a framework for mindful conduct. Vigilance also appears in the *guṇasthāna* system, where the transition from negligence (*pramāda*) to non‑negligence (*apramatta*) marks a major qualitative shift in spiritual maturity.\n\nIn practice, vigilance includes careful walking to avoid harming small beings, mindful handling of objects, restraint in speech to avoid falsehood or injury, and continuous introspection to detect rising passions (*kaṣāyas*). Laypersons apply vigilance in moderated forms—such as attentive consumption, ethical livelihood, and mindful interpersonal behavior—while monastic texts describe more intensive applications suitable for renunciants.\n\nJain authors emphasize that vigilance is not a rigid or fearful state but a cultivated clarity that allows one to act with compassion, precision, and freedom from impulsive harm. It is both a preventative discipline and a positive cultivation of awareness, forming a foundation for meditation, ethical living, and liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अप्रमत्तयोगः समाधिः",
+      "transliteration": "apramatta‑yogaḥ samādhiḥ",
+      "translation": "“The activity of non‑negligence is concentration.”",
+      "notes": "Tattvārtha Sūtra 9.27 links vigilance (*apramatta‑yoga*) with the attainment of steadiness and meditative absorption. Commentaries in both Digambara and Śvetāmbara traditions explain that vigilance prevents karmic influx and stabilizes the mind."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to early Jain community; Śvetāmbara canon",
+      "original_text": "णं चरे अप्पमत्तो",
+      "transliteration": "ṇaṃ care appamatto",
+      "translation": "“One should walk with vigilance.”",
+      "notes": "This passage appears in discussions of careful movement and non‑violence. The text emphasizes vigilance as essential for avoiding harm to subtle living beings during daily activities."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra)",
+      "author": "Pujyapāda (Digambara)",
+      "original_text": "अप्रमत्तत्वं हि योगस्य विशेषः",
+      "transliteration": "apramattatvaṃ hi yogasya viśeṣaḥ",
+      "translation": "“Non‑negligence is indeed the distinguishing feature of disciplined activity.”",
+      "notes": "Pujyapāda clarifies that vigilance is not passive watchfulness but an active quality that shapes ethical and meditative conduct."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Vigilance in Jainism means constant fear of harming beings.",
+      "reality": "Primary texts describe vigilance as calm, intentional awareness. It is a disciplined clarity that reduces harm, not a fearful or anxious state."
+    },
+    {
+      "myth": "Vigilance is required only for monks and nuns.",
+      "reality": "While monastic texts describe more intensive forms, laypersons are also instructed to practice vigilance in speech, livelihood, consumption, and interpersonal conduct."
+    },
+    {
+      "myth": "Vigilance is only about physical carefulness.",
+      "reality": "Jain sources emphasize vigilance of mind and speech as equally important, especially in preventing passions and verbal harm."
+    }
+  ]
+}

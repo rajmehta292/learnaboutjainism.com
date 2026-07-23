@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain tradition, the **eleven gaṇadharas** are the chief disciples of Bhagavān Mahāvīra, the twenty‑fourth Tīrthaṅkara of the current avasarpinī. They are regarded as the earliest authoritative transmitters of Mahāvīra’s teachings, responsible for organizing, preserving, and systematizing the doctrinal material that later became the Jain āgamas and śāstras. All sects—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—affirm the existence of eleven gaṇadharas, though details of their biographies and roles vary across traditions.\n\nThe gaṇadharas are described as possessing extraordinary scriptural insight (*śruta‑kevalī* status), enabling them to comprehend Mahāvīra’s omniscient discourse (*divya‑dhvani*) and articulate it in human language. They are traditionally credited with forming the earliest **gaṇas** (monastic groups), each led by one gaṇadhara. The first gaṇadhara, **Indrabhūti Gautama**, is the most prominent, often portrayed as Mahāvīra’s closest disciple and the final recipient of kevala‑jñāna after Mahāvīra’s nirvāṇa.\n\nLists of the eleven gaṇadharas appear in multiple canonical and commentarial sources. While Śvetāmbara texts preserve detailed narratives of their interactions with Mahāvīra, Digambara sources emphasize their role in receiving and organizing the *Pūrvas* and *Aṅgas*. Across traditions, the gaṇadharas are revered not as omniscient beings but as the most authoritative human interpreters of Mahāvīra’s teachings.\n\nThe traditional list includes: (1) Indrabhūti Gautama, (2) Agnibhūti, (3) Vāyubhūti, (4) Vyakta, (5) Sudharman, (6) Maṇḍikāputra, (7) Mauryaputra, (8) Akampita, (9) Acalabhrāta, (10) Metārya, and (11) Prabhāsa. Their collective legacy forms the foundation of Jain scriptural transmission, monastic organization, and doctrinal development.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara canon)",
+      "author": "Traditionally attributed to the gaṇadharas",
+      "original_text": "इन्द्रभूति गोतमो प्रथमं गणधरं",
+      "transliteration": "indrabhūti gotamo prathamaṃ gaṇadharaṃ",
+      "translation": "Indrabhūti Gautama is the first gaṇadhara.",
+      "notes": "The Ācārāṅga Sūtra references Gautama and Sudharman as principal disciples. Sectarian editions vary in narrative detail."
+    },
+    {
+      "title": "Kalpa Sūtra (Śvetāmbara)",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "गणधराणं नामे इमे एकादश — गोतमो, अग्निभूति, वायुभूति...",
+      "transliteration": "gaṇadharāṇaṃ nāme ime ekādaśa — gotamo, agnibhūti, vāyubhūti...",
+      "translation": "These are the names of the eleven gaṇadharas — Gautama, Agnibhūti, Vāyubhūti...",
+      "notes": "Provides the canonical list of eleven gaṇadharas and brief biographical notes."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara)",
+      "author": "Gaṇadhara Puṣpadanta and Bhūtabali (traditional attribution)",
+      "original_text": "महावीरस्य गणधराः श्रुतकेवलिनो अभवन्",
+      "transliteration": "mahāvīrasya gaṇadharāḥ śrutakevalino abhavan",
+      "translation": "Mahāvīra’s gaṇadharas were possessors of complete scriptural knowledge.",
+      "notes": "Digambara tradition emphasizes the gaṇadharas’ role in receiving the Pūrvas and organizing doctrinal material."
+    },
+    {
+      "title": "Samavāyāṅga Sūtra (Śvetāmbara)",
+      "author": "Gaṇadharas (traditional attribution)",
+      "original_text": "एकादश गणधराणं गणसंख्यायं",
+      "transliteration": "ekādaśa gaṇadharāṇaṃ gaṇasaṃkhyāyaṃ",
+      "translation": "The number of gaṇadharas is eleven.",
+      "notes": "A numerical and categorical text confirming the traditional count of eleven gaṇadharas."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The gaṇadharas were omniscient like Mahāvīra.",
+      "reality": "Jain doctrine states that gaṇadharas possessed *śruta‑kevala‑jñāna* (complete scriptural knowledge), not *kevala‑jñāna* (omniscience). Only Tīrthaṅkaras attain omniscience."
+    },
+    {
+      "myth": "All sects preserve identical biographies of the eleven gaṇadharas.",
+      "reality": "While the list of eleven is shared, Digambara and Śvetāmbara traditions differ in narrative details, textual attributions, and the extent of preserved biographical material."
+    },
+    {
+      "myth": "Sudharman was the last surviving gaṇadhara in all traditions.",
+      "reality": "Śvetāmbara texts affirm Sudharman as the last surviving gaṇadhara and the transmitter of the canon. Digambara sources do not preserve this narrative and emphasize loss of the Pūrvas instead."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, **āratī (आरती / આરતી)** refers to a devotional lamp-offering performed before images or representations of the Jinas, revered teachers, and occasionally before sacred texts or lineage-sthāpanā objects. While widely practiced among Śvetāmbara Mūrtipūjaka communities and present in some Digambara temple contexts, āratī is not mandated by early canonical texts. Instead, it emerges historically as a later ritual expression of reverence, gratitude, and celebration.\n\nIn Jain settings, āratī typically involves circling a flame—often a ghee lamp—before the Jina image while reciting hymns such as *Arihant Chintāmaṇi*, *Arihant Vandana*, or regionally composed āratī verses. The gesture symbolizes illumination of inner knowledge, removal of ignorance, and recognition of the Jina’s perfected qualities. Unlike in some Hindu traditions, Jain āratī is not directed toward a deity who grants boons; rather, it honors the Jina as an exemplar of liberation.\n\nThe ritual often occurs at the conclusion of daily temple worship (*pujā*), during festivals such as Paryuṣaṇa or Mahāvīra Jayantī, or at the completion of scriptural recitation. In many temples, āratī is followed by *maṅgal dīvo* (a smaller lamp-blessing) and *śānti kalash* rituals. Sthānakavāsī and Terāpanth traditions, which emphasize non-image worship, generally do not perform āratī, though they may use symbolic light-offerings in non-idolatrous contexts such as honoring scriptures or teachers.\n\nBecause āratī is a later ritual development, its forms vary by region—Gujarati, Rajasthani, and Marathi Jain communities maintain distinct melodies and verses. Modern scholarship notes that Jain āratī reflects both internal ritual evolution and selective adaptation from broader Indian devotional culture, while retaining a distinctly Jain theological orientation focused on the qualities of the *Arihanta*, *Siddha*, *Ācārya*, *Upādhyāya*, and *Sādhu*.",
+  "primary_sources": [
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "णमो अरिहंताणं",
+      "transliteration": "ṇamo arihantāṇaṁ",
+      "translation": "Homage to the Arihants.",
+      "notes": "While the text does not prescribe āratī, its core homage formula is frequently incorporated into āratī hymns. Source Tier A."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Gautama Svāmī",
+      "original_text": "सूरियं उवगामि, तमो विणासइ",
+      "transliteration": "sūriyaṁ uvagāmi, tamo viṇāsai",
+      "translation": "When the sun rises, darkness is destroyed.",
+      "notes": "This metaphor of light dispelling darkness is often invoked symbolically in Jain interpretations of āratī, though the text itself does not mention the ritual. Source Tier A."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha",
+      "original_text": "जिणवरं जो नमस्सइ, सो पावं पच्छइ",
+      "transliteration": "jiṇavaraṁ jo namassai, so pāvaṁ pacchai",
+      "translation": "One who bows to the Jina destroys sin.",
+      "notes": "Later ritual manuals cite this verse to frame āratī as an act of reverential bowing. The text itself predates the ritual. Source Tier A."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Āratī is a mandatory Jain ritual prescribed in the earliest scriptures.",
+      "reality": "No early canonical text mandates āratī. It is a later devotional practice shaped by community tradition."
+    },
+    {
+      "myth": "Āratī implies worship of the Jina as a deity who grants worldly boons.",
+      "reality": "Jain āratī honors the Jina’s perfected qualities; it does not involve petitionary prayer or expectation of divine intervention."
+    },
+    {
+      "myth": "All Jain sects perform āratī in the same way.",
+      "reality": "Image-worshipping Śvetāmbara and some Digambara communities perform āratī, while Sthānakavāsī and Terāpanth traditions generally do not due to their non-idolatrous orientation."
+    }
+  ]
+}

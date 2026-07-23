@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical literature, **negation (pratiṣedha / niṣedha)** is a foundational logical and linguistic operation used to clarify the limits of statements, avoid absolutism, and support the multi-perspectival framework of *anekāntavāda*. Negation is not merely the denial of a proposition; it is a carefully structured method for indicating what a statement does **not** claim, thereby preventing metaphysical overreach.\n\nWithin Jain epistemology, negation appears prominently in discussions of *syādvāda* (the conditioned predication system) and *nayavāda* (the doctrine of viewpoints). A statement such as “syāt asti” (in some respect, it exists) is often paired with “syāt nāsti” (in some respect, it does not exist). These are not contradictions but complementary negations that mark the boundaries of each claim. Jain thinkers emphasize that negation must be contextually grounded: one negates only within the scope of a particular standpoint (*naya*), object, and temporal-spatial condition.\n\nNegation also plays a role in Jain ontology. For example, the distinction between *dravya* (substance) and *guṇa* (quality) is clarified through negation: a substance is said to be “not non-substance,” meaning it retains its identity despite possessing changing qualities. Similarly, karmic theory uses negation to differentiate between states of bondage and liberation, describing the liberated soul as “free from” (*vigata*) passions, karmic influx, and obscurations.\n\nIn linguistic analysis, Jain grammarians and logicians treat negation as a precise semantic operator. It can be external (denying the entire proposition) or internal (denying a specific component). This distinction is essential for interpreting canonical texts, where negation often signals doctrinal nuance rather than simple contradiction.\n\nOverall, negation in Jainism is a disciplined tool for safeguarding non-absolutism, ensuring that philosophical claims remain conditional, contextual, and free from dogmatic overstatement.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "सत्त्वद्रव्यगुणपर्यायाः।",
+      "transliteration": "sattva-dravya-guṇa-paryāyāḥ",
+      "translation": "Existence consists of substance, qualities, and modes.",
+      "notes": "While not a direct definition of negation, this foundational ontology is frequently explained through negation in commentaries: a substance is said to be ‘not devoid of qualities,’ and qualities are ‘not independent of substance.’ Negation is used to clarify relational boundaries."
+    },
+    {
+      "title": "Apta-mīmāṁsā",
+      "author": "Ācārya Samantabhadra",
+      "original_text": "अनेकान्ताद् वचनं न विरुध्यते।",
+      "transliteration": "anekāntād vacanaṃ na virudhyate",
+      "translation": "Because of non-absolutism, statements do not contradict one another.",
+      "notes": "Commentators explain that apparent contradictions are resolved through contextual negation—each statement negates only what lies outside its standpoint."
+    },
+    {
+      "title": "Syādvāda-mañjarī",
+      "author": "Ācārya Malliṣeṇa",
+      "original_text": "स्यात् अस्ति, स्यात् नास्ति इति विरोधाभासः।",
+      "transliteration": "syāt asti, syāt nāsti iti virodhābhāsaḥ",
+      "translation": "‘In some respect it exists’ and ‘in some respect it does not exist’ only appear contradictory.",
+      "notes": "Malliṣeṇa clarifies that negation in syādvāda is conditional. The negation ‘nāsti’ does not deny existence absolutely but only under a specific standpoint."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Negation in Jainism means rejecting or disproving a statement entirely.",
+      "reality": "Jain negation is contextual and conditional. It marks the limits of a claim rather than rejecting it wholesale."
+    },
+    {
+      "myth": "The paired statements ‘syāt asti’ and ‘syāt nāsti’ are contradictions.",
+      "reality": "They are complementary conditioned statements. Each negation applies only within its defined standpoint, preventing absolutist interpretation."
+    },
+    {
+      "myth": "Negation in Jain logic is identical to classical binary negation.",
+      "reality": "Jain negation is multi-valued and standpoint-dependent, functioning within the broader framework of anekāntavāda and syādvāda."
+    }
+  ]
+}

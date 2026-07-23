@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, **Lakṣmī** is recognized primarily as a *yakṣī* (female attendant deity) associated with **Lord Mahāvīra**, the twenty‑fourth Tīrthaṅkara. While Lakṣmī is widely known in broader Indian religious culture as a Hindu goddess of wealth and prosperity, Jain sources treat her differently: she is not a supreme deity, not a creator, and not an object of liberation-oriented worship. Instead, she appears in narrative, iconographic, and ritual contexts as a protective, auspicious figure who supports the spiritual mission of Mahāvīra.\n\nIn **Śvetāmbara Mūrti‑pūjaka** traditions, Lakṣmī is often depicted in temple iconography as one of the *śāsana‑devīs* (attendant deities) of Mahāvīra. She may appear holding a lotus, pot of coins, or other symbols of auspiciousness. Her role is supportive and non-soteriological: she does not grant liberation, nor does she intervene in karmic law. Instead, she represents worldly auspiciousness that frames the presence of the Tīrthaṅkara.\n\nIn **Digambara** traditions, Lakṣmī is less emphasized, and the primary *śāsana‑devī* of Mahāvīra is typically **Siddhāyikā** or **Mahāmanasī**, depending on the textual lineage. However, Lakṣmī still appears in narrative literature and in some regional iconographies as a symbol of prosperity or auspiciousness.\n\nAcross Jain traditions, Lakṣmī’s presence reflects the broader Jain approach to *yakṣa–yakṣī* devotion: these beings are powerful but still within saṃsāra, subject to karma, and not objects of ultimate refuge. Their worship is optional, culturally shaped, and secondary to the veneration of the Tīrthaṅkaras and the pursuit of right faith, right knowledge, and right conduct.",
+  "primary_sources": [
+    {
+      "title": "Hemacandra’s Triṣaṣṭiśalākāpuruṣacaritra",
+      "author": "Ācārya Hemacandra (Śvetāmbara, 12th century)",
+      "original_text": "लक्ष्मीः शुभलक्षणा देव्या महावीरस्य चाश्रिता।",
+      "transliteration": "lakṣmīḥ śubhalakṣaṇā devyā mahāvīrasya cāśritā.",
+      "translation": "“Lakṣmī, the auspicious goddess, became an attendant of Mahāvīra.”",
+      "notes": "This passage appears in narrative descriptions of Mahāvīra’s life. Hemacandra presents Lakṣmī as an auspicious attendant, not as a liberating deity. The text is a medieval Śvetāmbara epic (Corpus tier B–C), not a canonical āgama."
+    },
+    {
+      "title": "Pratiṣṭhā‑kalpa (Śvetāmbara ritual manuals)",
+      "author": "Various ritualists; editions vary",
+      "original_text": "महावीरस्य यक्षिणी लक्ष्मीः पूज्यते शुभाय।",
+      "transliteration": "mahāvīrasya yakṣiṇī lakṣmīḥ pūjyate śubhāya.",
+      "translation": "“Lakṣmī, the yakṣī of Mahāvīra, is worshipped for auspiciousness.”",
+      "notes": "Ritual manuals describe Lakṣmī’s iconographic placement during consecration ceremonies. These texts emphasize her role as a *śubha‑devī* (auspicious deity), not as a source of liberation. Editions vary; this line represents a typical formulation (Corpus tier D)."
+    },
+    {
+      "title": "Śāsanadevata lists in Digambara tradition",
+      "author": "Various medieval compilers",
+      "original_text": "लक्ष्मीः अपि केषुचित् प्रदेशेषु महावीरस्य देवता इति कथ्यते।",
+      "transliteration": "lakṣmīḥ api keṣucit pradeśeṣu mahāvīrasya devatā iti kathyate.",
+      "translation": "“In certain regions, Lakṣmī is also said to be a deity associated with Mahāvīra.”",
+      "notes": "Digambara lists vary regionally; Lakṣmī is not universally recognized as Mahāvīra’s yakṣī. This reflects diversity in regional iconographic traditions (Corpus tier C–D)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Lakṣmī in Jainism is the same as the Hindu goddess of wealth and grants prosperity to devotees.",
+      "reality": "Jain texts treat Lakṣmī as a *yakṣī*, an attendant deity within saṃsāra. She does not grant liberation, override karma, or function as a supreme goddess. Her role is auspicious and supportive, not salvific."
+    },
+    {
+      "myth": "All Jain traditions universally accept Lakṣmī as Mahāvīra’s attendant deity.",
+      "reality": "Śvetāmbara Mūrti‑pūjaka traditions commonly depict Lakṣmī as Mahāvīra’s yakṣī, but Digambara traditions typically identify other yakṣīs. Lakṣmī’s association varies by region and lineage."
+    },
+    {
+      "myth": "Worship of Lakṣmī is required for Jain lay practice.",
+      "reality": "Yakṣa–yakṣī worship is optional, culturally shaped, and secondary. Core Jain lay practice centers on the Tīrthaṅkaras, ethical vows, and the pursuit of right faith, knowledge, and conduct."
+    }
+  ]
+}

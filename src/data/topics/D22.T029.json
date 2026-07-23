@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, the term “transcripts” refers to written, typed, or digitally recorded renditions of oral teachings, lectures, pravachanas, manuscript readings, or classroom sessions. Within Jain academic and community contexts, transcripts serve as a bridge between oral tradition and textual preservation. They help document how teachers explain canonical scriptures, how contemporary scholars interpret historical materials, and how lay communities engage with ethical and philosophical discussions.\n\nIn traditional Jain practice, authoritative knowledge is rooted in canonical texts (Āgamas for Śvetāmbaras and primary Prakrit/Sanskrit works for Digambaras). Oral exposition by learned teachers has always been central, but historically these explanations were not systematically transcribed. Modern transcripts—created during seminars, university courses, or community discourses—provide a record of interpretive trends, pedagogical methods, and evolving concerns such as ecology, nonviolence, and applied ethics.\n\nTranscripts also play a role in manuscript studies. When scholars examine palm-leaf or paper manuscripts, they often produce diplomatic transcripts (faithful reproductions of the text), normalized transcripts (standardized spellings and grammar), or critical transcripts (annotated versions noting variant readings). These forms help preserve fragile textual heritage and support comparative study across Jain traditions.\n\nBecause Jainism emphasizes precision in doctrinal categories—such as karma theory, gunasthānas, vows, and cosmology—transcripts must be carefully verified. They are not themselves authoritative scripture; rather, they are secondary records that require cross-checking against primary sources and established commentaries. Their value lies in documentation, pedagogy, and research, not in replacing canonical texts.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं च ववहारं च, णं च विणिव्वत्तिं च",
+      "transliteration": "ṇaṃ ca vavahāraṃ ca, ṇaṃ ca viṇivvattiṃ ca",
+      "translation": "“There is conduct, and there is restraint; there is cessation.”",
+      "notes": "This passage is often used in lectures on ascetic discipline. Transcripts of such lectures help document how teachers contextualize early Śvetāmbara canonical teachings for modern audiences."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "Transcripts of university courses frequently analyze this foundational Digambara–Śvetāmbara shared text. They help preserve interpretive differences across traditions."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (select verse)",
+      "author": "Kundakunda lineage; compiled by Puṣpadanta and Bhūtabali",
+      "original_text": "कर्मप्रकृतयः जीवस्य बन्धहेतवः",
+      "transliteration": "karma-prakṛtayaḥ jīvasya bandha-hetavaḥ",
+      "translation": "“The karma categories are the causes of the soul’s bondage.”",
+      "notes": "Scholarly transcripts of manuscript readings often include variant forms of technical terms. These transcripts support critical editions and comparative Digambara studies."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Transcripts are equivalent to canonical scripture.",
+      "reality": "Transcripts are secondary records of oral explanations or manuscript readings. They must be verified against primary texts and do not hold scriptural authority."
+    },
+    {
+      "myth": "Any transcript of a teacher’s discourse automatically reflects the official position of a Jain tradition.",
+      "reality": "Different lineages and sects interpret texts differently. Transcripts capture one moment of interpretation and must be contextualized within broader tradition-specific commentaries."
+    },
+    {
+      "myth": "Transcripts can replace critical editions for academic study.",
+      "reality": "Transcripts are helpful but cannot substitute for authenticated manuscripts, established editions, or peer-reviewed scholarship. They are supplementary tools."
+    }
+  ]
+}

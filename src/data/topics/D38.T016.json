@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, “types of birth” (janma‑bheda) refers to the four fundamental modes through which embodied beings (jīvas) enter saṃsāra. This classification is shared across Digambara and Śvetāmbara traditions and appears in the earliest canonical strata. The system is not merely biological; it is a karmic taxonomy describing how the fruition of nāma‑karma (body‑determining karma) shapes the form, conditions, and limitations of a new embodiment.\n\nThe four types are: (1) **Garbhaja** – womb‑birth, (2) **Aṇḍaja** – egg‑birth, (3) **Sammūḍha** – spontaneous or sweat‑birth, and (4) **Upapāda** – instantaneous birth. These categories apply across the four gatis (destinies): heavenly beings (devas), hell beings (narakis), humans (manuṣyas), and subhuman beings (tiryañcas). Each type of birth corresponds to specific karmic conditions, degrees of consciousness, and environmental constraints.\n\n**Garbhaja** birth includes humans and many animals. It involves conception, gestation, and delivery, with karmic fruition determining the physical form, sensory capacities, and lifespan. **Aṇḍaja** birth includes birds, reptiles, and certain insects. Jain texts emphasize that even egg‑born beings possess jīva‑hood from the moment karmic fruition initiates embodiment, not from biological hatching. **Sammūḍha** birth refers to beings arising in moisture, decay, or fermentation—traditionally understood as minute organisms. This category is central to Jain ethics of non‑violence, as it highlights the presence of life in seemingly inert substances. **Upapāda** birth is instantaneous and applies to heavenly and hell beings. These beings manifest fully formed, without gestation, due to the immediate fruition of karmas appropriate to their realm.\n\nAcross traditions, these four types of birth illustrate the breadth of saṃsāric existence and reinforce the Jain emphasis on carefulness (samiti) and non‑harm (ahiṃsā). They also serve as foundational categories for understanding karma theory, cosmology, and ethical conduct.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmī (shared across traditions)",
+      "original_text": "गर्भाऽण्डसम्भवसाम्मूढोपपादाः",
+      "transliteration": "garbhā’ṇḍa‑sambhava‑sāmmūḍhopapādāḥ",
+      "translation": "Birth occurs in four ways: womb‑born, egg‑born, moisture‑born, and spontaneous (instantaneous).",
+      "notes": "Tattvārtha Sūtra 2.31 is the most widely cited canonical definition. Commentaries such as Pūjyapāda’s Sarvārthasiddhi (Digambara) and Umāsvāti’s own tradition‑linked expositions (Śvetāmbara) elaborate on karmic causes and realms."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जायन्ते चतुर्विधा — गर्भजा अण्डजा साम्मूढा उपपादा।",
+      "transliteration": "jāyante caturvidhā — garbhajā aṇḍajā sāmmūḍhā upapādā.",
+      "translation": "Beings are born in four ways: womb‑born, egg‑born, moisture‑born, and spontaneously born.",
+      "notes": "Appears in didactic sections describing cosmology and the diversity of living beings. The text emphasizes ethical implications for ahiṃsā."
+    },
+    {
+      "title": "Gommatasāra Jīvakāṇḍa",
+      "author": "Nemicandra Siddhānta Cakravartin (Digambara)",
+      "original_text": "उपपादादयो जन्मभेदाः कर्मफलोद्भवाः।",
+      "transliteration": "upapādādayo janmabhedāḥ karma‑phalodbhavāḥ.",
+      "translation": "The types of birth, beginning with upapāda, arise from the fruits of karma.",
+      "notes": "Provides technical detail on how nāma‑karma determines embodiment, including sensory capacities and bodily structures."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Moisture-born (sammūḍha) beings refer only to mythological creatures.",
+      "reality": "Primary texts describe sammūḍha beings as minute organisms arising in moisture, decay, or fermentation. This category underlies Jain teachings on microscopic life and carefulness in daily conduct."
+    },
+    {
+      "myth": "Instantaneous birth (upapāda) implies supernatural creation without karmic cause.",
+      "reality": "Upapāda birth is fully karmically determined. Heavenly and hell beings manifest instantly because their nāma‑karma produces a complete form at the moment of embodiment."
+    },
+    {
+      "myth": "Egg-born beings become jīvas only after hatching.",
+      "reality": "Jain ontology holds that the jīva is present from the moment karmic fruition initiates embodiment, regardless of biological development. The egg is already a living being."
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "overview": "The *Prajñāpanā* (also spelled *Prajnapana*, Prakrit: **Paññāvaṇā**) is one of the most important canonical texts of the Śvetāmbara Jain tradition. It belongs to the **Upāṅga** corpus, traditionally counted as the fourth Upāṅga of the Śvetāmbara canon. The work is closely associated with the *Bhagavatī-sūtra*, functioning as a systematic companion text that organizes and expands doctrinal material found in the larger canonical dialogues.\n\nThe *Prajñāpanā* is primarily a **cosmological and ontological treatise**. It provides detailed enumerations and classifications of living beings (*jīva*), non‑living substances (*ajīva*), realms of existence, categories of karma, and the structure of the universe. Its method is taxonomic: the text arranges reality into lists, matrices, and categorical schemes that became foundational for later Jain scholasticism. Because of this, it is often described as one of the earliest comprehensive Jain “encyclopedias.”\n\nThe text is composed in **Ardhamāgadhī Prakrit**, the canonical language of the Śvetāmbara scriptures. Traditional accounts attribute its redaction to the early Jain councils, especially the Valabhi council (5th–6th century CE), though the material itself is considered much older. The *Prajñāpanā* is frequently cited by medieval commentators such as Abhayadeva Sūri and Malayagiri, who rely on it for doctrinal precision in cosmology and karma theory.\n\nWithin Jain studies, the *Prajñāpanā* is valued for its **systematic presentation of the five living categories (pañca‑saṃjñī and asaṃjñī jīvas)**, its detailed mapping of **hells, heavens, and human realms**, and its early canonical articulation of **karma‑bandha** (bondage) and **leśyā** (soul coloration). It remains a key text for reconstructing early Jain cosmology and for understanding how the Śvetāmbara tradition organized doctrinal knowledge in the canonical period.",
+  "primary_sources": [
+    {
+      "title": "Paññāvaṇā (Prajñāpanā)",
+      "author": "Canonical Śvetāmbara tradition; redaction attributed to early Jain councils",
+      "original_text": "“Pañca jīvā, saṃjñī asaṃjñī, teṇaṃ bhedā bahū ya.”",
+      "transliteration": "pañca jīvā, saṃjñī asaṃjñī, teṇaṃ bhedā bahū ya",
+      "translation": "“There are five classes of living beings, sentient and non‑sentient; their divisions are many.”",
+      "notes": "This representative line illustrates the classificatory style of the *Prajñāpanā*. The text systematically enumerates categories of beings, often beginning with the fivefold division of jīvas. The edition used here is based on the Śvetāmbara canonical Ardhamāgadhī recension (Corpus Tier A)."
+    },
+    {
+      "title": "Bhagavatī-sūtra (Vyākhyāprajñapti)",
+      "author": "Canonical Śvetāmbara tradition",
+      "original_text": "“Jīvāṇaṃ nānā-bhedā, nānā-gati, nānā-jāti.”",
+      "transliteration": "jīvāṇaṃ nānā-bhedā, nānā-gati, nānā-jāti",
+      "translation": "“Living beings have various divisions, various destinies, various births.”",
+      "notes": "The *Bhagavatī-sūtra* is the primary dialogical text from which the *Prajñāpanā* draws its systematic material. The *Prajñāpanā* reorganizes these doctrinal discussions into structured lists. This passage is included to show the shared cosmological vocabulary between the two texts."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Prajñāpanā is a purely philosophical text without practical relevance.",
+      "reality": "While highly systematic and scholastic, the *Prajñāpanā* directly informs Jain ethical practice by clarifying the nature of living beings, karmic bondage, and cosmological realms. These classifications underpin lay and monastic conduct rules, especially regarding non‑violence and carefulness (*ahiṃsā* and *samiti*)."
+    },
+    {
+      "myth": "The Prajñāpanā is identical to the Bhagavatī-sūtra.",
+      "reality": "The two texts are closely related but distinct. The *Bhagavatī-sūtra* is dialogical and expansive, while the *Prajñāpanā* is concise and taxonomic. The latter reorganizes material from the former into systematic categories."
+    },
+    {
+      "myth": "The Prajñāpanā is accepted equally across all Jain traditions.",
+      "reality": "The *Prajñāpanā* is part of the Śvetāmbara canonical corpus. Digambara traditions do not include it in their canon, though Digambara scholars may reference its cosmological content comparatively."
+    }
+  ]
+}

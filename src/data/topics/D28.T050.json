@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, a *recension* refers to a distinct version of a text that has emerged through processes of transmission, copying, regional adaptation, sectarian redaction, or linguistic updating. Because Jain scripture and commentarial literature were preserved for centuries through both oral and manuscript traditions, multiple recensions often coexist for a single work. These recensions may differ in Prakrit dialect, chapter order, verse count, inclusion or omission of narrative episodes, or doctrinal emphasis.\n\nWithin Jainism, the phenomenon of recensional diversity is especially visible in the Śvetāmbara and Digambara canons. The Śvetāmbara canon, formally redacted at the Council of Valabhī (5th century CE), preserves multiple internal recensional traces—such as variant sutra lengths and alternative readings noted in manuscript colophons. Digambara traditions, which do not accept the Śvetāmbara canon as authoritative, maintain their own recensions of foundational texts such as the *Ṣaṭkhaṇḍāgama* and *Kaṣāyapāhuda*, often accompanied by extensive medieval commentaries that themselves exist in variant manuscript families.\n\nRecensions are not merely textual variants; they represent historical layers of interpretation, regional scribal practices, and evolving pedagogical needs. Scholars and traditional commentators treat recensional differences with care, distinguishing between primary textual evidence (Tier A), authoritative commentaries (Tier B), and later scholastic or community-level materials (Tier C–D). When studying Jain doctrine—whether karma theory, ethics, cosmology, or monastic discipline—understanding the recension of a text is essential for accurate interpretation and for mapping doctrinal disagreements across sects and periods.\n\nModern critical editions attempt to reconstruct earlier recensions by comparing manuscripts from different regions (Gujarat, Rajasthan, Karnataka), identifying scribal interpolations, and noting variant readings. However, due to the fragmentary survival of many early Jain manuscripts, some recensions remain only partially recoverable, and scholars must clearly separate verified textual evidence from conjectural reconstruction.",
+  "primary_sources": [
+    {
+      "title": "Āyāraṅga-sutta (Ācārāṅga)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; compiled by early Śvetāmbara redactors",
+      "original_text": "सीलवग्गो णाम णवमो सुयक्खंडो",
+      "transliteration": "sīlavajjo nāma navamo suyakkhaṇḍo",
+      "translation": "“The section on conduct is the ninth division of the scripture.”",
+      "notes": "Manuscript families of the Āyāraṅga preserve differences in chapter divisions and narrative framing. The Valabhī recension includes structured vaggas (sections), while earlier manuscript witnesses show looser organization."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama",
+      "author": "Kundakunda (attributed), with later Digambara redactors",
+      "original_text": "जोगस्स णिव्वाणस्स णाणं",
+      "transliteration": "jogassa nivvāṇassa ṇāṇaṁ",
+      "translation": "“Knowledge is the path to liberation for the yogin.”",
+      "notes": "The surviving text is based on medieval manuscript recensions preserved in Karnataka. Variants occur in the ordering of the khaṇḍas and in technical terminology related to karma categories."
+    },
+    {
+      "title": "Kalpasūtra",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "महावीरस्स णिरव्वाणं",
+      "transliteration": "mahāvīrassa niravvāṇaṁ",
+      "translation": "“The nirvāṇa of Mahāvīra.”",
+      "notes": "Different recensions vary in the length of genealogical lists and the narrative details of the lives of the tīrthaṅkaras. Some manuscripts include expanded festival instructions used in Śvetāmbara Mūrti-pūjaka practice."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain scriptures exist in a single, uniform version preserved unchanged since ancient times.",
+      "reality": "Jain texts survive in multiple recensions shaped by oral transmission, regional manuscript traditions, sectarian redaction, and pedagogical adaptation. Uniformity cannot be assumed without verifying the recension."
+    },
+    {
+      "myth": "Recensional differences imply doctrinal corruption or invalidity.",
+      "reality": "Recensions often reflect legitimate historical layers of interpretation. Traditional commentaries frequently acknowledge variant readings and integrate them into doctrinal analysis."
+    },
+    {
+      "myth": "Śvetāmbara and Digambara disagreements arise solely from sectarian bias.",
+      "reality": "Many differences stem from distinct recensional histories, including which manuscripts were preserved, lost, or redacted in each community."
+    }
+  ]
+}

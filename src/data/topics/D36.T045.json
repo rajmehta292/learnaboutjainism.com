@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain studies, “timelines” refer to structured representations of cosmic, historical, doctrinal, and biographical sequences that help learners understand how events, teachings, and eras unfold within Jain cosmology and tradition. Jainism does not present a single linear historical timeline; instead, it offers multiple overlapping temporal frameworks. The most fundamental is the cosmic timeline, articulated through vast cycles of ascending (utsarpiṇī) and descending (avasarpiṇī) time, each containing six eras (aras) with distinct moral, physical, and spiritual characteristics. These cycles are described as beginningless and endless, emphasizing the Jain doctrine of anādi-ananta kāla (time without beginning or end).\n\nHistorical timelines in Jainism are more modest and pertain to the lives of the Tīrthaṅkaras, the development of sects, the composition of canonical texts, and the evolution of monastic lineages. Traditional accounts place the 24 Tīrthaṅkaras of the current avasarpiṇī in a fixed sequence, with Mahāvīra as the most recent. However, the durations of their lives and the epochs in which they lived are embedded within the cosmic timeline, making them symbolic as well as historical.\n\nTimelines also appear in doctrinal contexts, such as the progression through the fourteen guṇasthānas (stages of spiritual development), the sequence of karmic influx, bondage, and dissociation, and the structured path of lay conduct (śrāvakācāra). These timelines are not chronological but developmental, mapping inner transformation rather than external events.\n\nModern scholarship uses timelines to situate Jain texts, sectarian developments, and historical figures within broader South Asian history. These reconstructions rely on manuscript evidence, inscriptions, and comparative analysis, and they often differ from traditional accounts. A responsible Jain study guide therefore distinguishes between cosmic timelines, traditional historical timelines, and critical academic timelines, noting where evidence is strong, weak, or symbolic.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "कालः परिमाणपर्यायपरतन्त्रः",
+      "transliteration": "kālaḥ parimāṇa-paryāya-paratantraḥ",
+      "translation": "Time is that which supports duration and change.",
+      "notes": "TS 5.22 provides the foundational definition of time in Jain ontology. It does not give a chronological timeline but establishes the metaphysical basis for Jain temporal frameworks."
+    },
+    {
+      "title": "Śvetāmbara Canon: Sūtrakṛtāṅga",
+      "author": "Attributed to early Jain redactors",
+      "original_text": "एवं णं कालो अणंतो अणाडी",
+      "transliteration": "evaṃ ṇaṃ kālo aṇanto aṇāḍī",
+      "translation": "Thus time is endless and without beginning.",
+      "notes": "This passage (SKA I.1, in several editions) supports the doctrine of beginningless time, grounding the cyclical timeline of utsarpiṇī and avasarpiṇī."
+    },
+    {
+      "title": "Kalpasūtra",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "महावीरस्य चतुर्विंशो तीर्थंकरो",
+      "transliteration": "mahāvīrasya caturviṃśo tīrthaṃkaro",
+      "translation": "Mahāvīra is the twenty‑fourth Tīrthaṅkara.",
+      "notes": "The Kalpasūtra provides a biographical timeline of Mahāvīra and earlier Tīrthaṅkaras within the Śvetāmbara tradition. Durations and dates are symbolic and embedded in cosmic time."
+    },
+    {
+      "title": "Digambara Tradition: Ādi‑Purāṇa",
+      "author": "Jinasena",
+      "original_text": "उत्सर्पिण्यवसर्पिण्योर्भवचक्रं निरन्तरम्",
+      "transliteration": "utsarpiṇy‑avasarpiṇyor bhava‑cakraṃ nirantaram",
+      "translation": "The wheel of existence turns endlessly through ascending and descending cycles.",
+      "notes": "The Ādi‑Purāṇa elaborates cosmic timelines and the placement of R̥ṣabha and other Tīrthaṅkaras within them."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain timelines provide exact historical dates for all Tīrthaṅkaras.",
+      "reality": "Traditional timelines place Tīrthaṅkaras within cosmic eras that are symbolic and immeasurably vast. Only Mahāvīra’s dates have partial historical corroboration, and even these vary across sources."
+    },
+    {
+      "myth": "The utsarpiṇī–avasarpiṇī cycles are equivalent to modern scientific cosmology.",
+      "reality": "Jain cosmic timelines are metaphysical and ethical frameworks, not empirical astronomical models. They describe moral and spiritual conditions across vast epochs rather than physical cosmological events."
+    },
+    {
+      "myth": "All Jain sects agree on historical timelines of texts and teachers.",
+      "reality": "Śvetāmbara, Digambara, and Sthānakavāsī traditions preserve different textual histories and monastic chronologies. Academic timelines often diverge further due to manuscript evidence and critical analysis."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "overview": "Valabhi (also spelled Vallabhi) was an important historical city in western India, located in present-day Saurashtra region of Gujarat, which became a major political and religious center between roughly the 5th and 8th centuries CE. For Jain traditions—especially Śvetāmbara Mūrtipūjaka lineages—Valabhi is remembered primarily as the place where a decisive redaction and compilation of the Jain canon (āgama) was carried out under the leadership of the monk Devardhigaṇi Kṣamāśramaṇa.\n\nIn Jain narrative, earlier councils at Pāṭaliputra and other locations attempted to preserve the teachings of Mahāvīra and the early teachers, but repeated famines, migrations, and loss of memorized material led to concerns that large portions of the oral canon were being forgotten. By the time of Valabhi’s prominence, the Śvetāmbara community held that many texts survived only in partial or regional recensions. Against this background, the Valabhi council is described as a major effort to collect, compare, and stabilize the surviving scriptural material.\n\nAccording to Śvetāmbara tradition, Devardhigaṇi and other learned monks convened at Valabhi and produced a fixed recension of the āgamas, organizing them into the well-known categories of Aṅgas, Upāṅgas, Chedasūtras, Mūlasūtras, and Prakīrṇakas. Colophons and later historical works attribute to Valabhi the task of writing down texts that had previously been primarily transmitted orally, and of deciding which versions would be accepted as authoritative. This process is often dated to around the 5th–6th century CE, though exact dates and details are debated in modern scholarship.\n\nBeyond the canon-redaction narrative, Valabhi functioned as a major Jain scholastic center. Monastic communities, scriptoria, and teaching institutions are said to have flourished there, producing commentaries, organizing study, and maintaining libraries. The city’s political rulers at various times are portrayed as patrons of Jain monks and institutions, contributing to the stability needed for large-scale textual work. In some historical reconstructions, Valabhi is compared to other classical centers of learning, with Jain scholastic activity integrated into a broader urban and royal environment.\n\nIn Digambara accounts and in modern critical scholarship, the Valabhi council and its outcomes are treated with more caution. Digambara traditions generally do not accept the Śvetāmbara āgamas as fully authentic, arguing that the original canon was lost much earlier and that later compilations, including those at Valabhi, cannot be equated with Mahāvīra’s own teachings. Academic historians also note that the surviving evidence for the council is largely internal to Śvetāmbara sources and that the process of textual formation was likely gradual and complex rather than a single event.\n\nDespite these debates, Valabhi remains a key reference point in discussions of Jain scriptural history, canon formation, and the relationship between oral and written transmission. For many Śvetāmbara communities, the name Valabhi evokes both a geographical city and a symbolic moment when the fragile continuity of the teachings was safeguarded. For comparative and critical study, Valabhi serves as a case study in how religious traditions narrate the preservation of their scriptures, negotiate authority, and respond to the risks of loss over centuries.",
+  "primary_sources": [
+    {
+      "title": "Āgama colophons attributed to Devardhigaṇi",
+      "author": "Devardhigaṇi Kṣamāśramaṇa (traditionally attributed)",
+      "original_text": "देवर्धिगणि-क्षमाश्रमण-कृतं वल्लभी-नगरी-समये संहितं।",
+      "transliteration": "devardhigaṇi-kṣamāśramaṇa-kṛtaṁ vallabhī-nagarī-samaye saṁhitaṁ.",
+      "translation": "Compiled by Devardhigaṇi Kṣamāśramaṇa at the time of the assembly in the city of Valabhi.",
+      "notes": "Certain Śvetāmbara manuscript colophons and traditional accounts refer to Devardhigaṇi as the presiding monk who organized or compiled the āgamas at Valabhi. The exact wording varies by manuscript and edition, and the above line represents a stylized Sanskrit formulation summarizing the traditional claim rather than a single uniform verse. These colophons are important because they explicitly link the textual compilation to Valabhi and to a specific monastic figure, reinforcing the narrative of a council or organized redaction."
+    },
+    {
+      "title": "Traditional Śvetāmbara histories (Sthavirāvalī-type narratives)",
+      "author": "Anonymous or later Śvetāmbara compilers",
+      "original_text": "वल्लभी-नगरे समवायो जातो, तत्रागमाः संहिताः, अङ्गादयः प्रतिष्ठिताः।",
+      "transliteration": "vallabhī-nagare samavāyo jāto, tatrāgamāḥ saṁhitāḥ, aṅgādayaḥ pratiṣṭhitāḥ.",
+      "translation": "In the city of Valabhi an assembly was convened; there the āgamas were compiled, and the Aṅgas and other texts were established.",
+      "notes": "Later historical and hagiographical works within the Śvetāmbara tradition describe a council or assembly at Valabhi where surviving scriptural materials were collected and organized. The line given here is a representative summary in Sanskrit of the type of claim found in such narratives, not a verbatim quotation from a single fixed text. These sources are classified as traditional community histories rather than early canonical material, but they play a major role in shaping the standard account of Valabhi’s significance."
+    },
+    {
+      "title": "General reference to the Śvetāmbara canon structure",
+      "author": "Śvetāmbara scholastic tradition",
+      "original_text": "अङ्ग-उपाङ्ग-चेदसूत्र-मूलसूत्र-प्रकीर्णक-नामकाः आगमाः वल्लभी-समये संहिताः इति परम्परा।",
+      "transliteration": "aṅga-upāṅga-cedasūtra-mūlasūtra-prakīrṇaka-nāmakāḥ āgamāḥ vallabhī-samaye saṁhitāḥ iti paramparā.",
+      "translation": "The āgamas known as Aṅgas, Upāṅgas, Chedasūtras, Mūlasūtras, and Prakīrṇakas are said by tradition to have been compiled at the time of Valabhi.",
+      "notes": "Śvetāmbara scholastic descriptions of the canon often connect its fivefold division to the Valabhi compilation. The phrase here condenses that traditional view into a single Sanskrit sentence for clarity. It reflects the internal narrative that the present structure of the canon is the outcome of the Valabhi redaction, even though historically the formation of these categories may have been gradual."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Valabhi was the place where the entire original Jain canon was perfectly preserved without any loss.",
+      "reality": "Śvetāmbara tradition itself acknowledges that significant portions of the early oral canon had already been lost or fragmented before the Valabhi compilation. The council at Valabhi is portrayed as an effort to stabilize and preserve what remained, not as a miraculous recovery of all original teachings. Modern scholarship further emphasizes that canon formation is a long, complex process and that no single event can guarantee complete preservation."
+    },
+    {
+      "myth": "All Jain traditions equally accept the Valabhi council and its textual outcomes as fully authoritative.",
+      "reality": "Digambara traditions generally do not recognize the Śvetāmbara āgamas compiled at Valabhi as the original words of Mahāvīra. They hold that the true canon was lost much earlier and that later compilations, including those associated with Valabhi, cannot be treated as fully authentic scripture. As a result, Valabhi’s role is viewed quite differently across Jain traditions, and its authority is tradition-specific rather than universally shared."
+    },
+    {
+      "myth": "Valabhi was only a religious site and had no broader historical or political importance.",
+      "reality": "Valabhi was a significant urban and political center in western India, associated with ruling dynasties and regional power. Its status as a capital and hub of administration provided the stability and resources that made large-scale scholastic and textual activity possible. Jain monastic institutions at Valabhi operated within this wider urban context, benefiting from patronage and infrastructure while contributing to the city’s intellectual life."
+    },
+    {
+      "myth": "The Valabhi council was a single, fully documented event with clear dates and detailed records.",
+      "reality": "Descriptions of the Valabhi council come primarily from internal Śvetāmbara traditional sources, often composed centuries after the supposed event. Exact dates, participants, and procedures are not preserved in a modern historical sense, and the narrative likely condenses a longer, more gradual process of textual collection and standardization. Scholars therefore treat the Valabhi account as an important tradition-historical memory rather than a fully documented historical conference."
+    }
+  ]
+}

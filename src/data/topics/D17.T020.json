@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, “annual practice” refers to the structured, cyclical observances that occur once every year and are intended to renew ethical discipline, deepen scriptural study, and strengthen communal harmony. Although the term is not a single technical category in classical Prakrit or Sanskrit sources, it is a useful umbrella for describing practices that recur annually across Śvetāmbara and Digambara lineages. These include major festivals (parva), extended periods of austerity, scriptural recitation cycles, and community-wide ethical renewals.\n\nAnnual practices typically revolve around the Jain lunar calendar. The most widely observed is Paryuṣaṇa (Śvetāmbara) or Daśalakṣaṇa Parva (Digambara), an eight- or ten-day period of intensified self-examination, fasting, and scriptural engagement. Other annual observances include Mahāvīra Jayantī, the celebration of the birth of the twenty‑fourth Tīrthaṅkara; Śruta Pañcamī, honoring scriptural preservation; and Kartika rituals such as the completion of Ayambil Oli or the Pratikramaṇa cycle.\n\nThese practices serve multiple functions: they reinforce ahiṃsā (non‑violence), satya (truthfulness), and other vows; they provide structured opportunities for laypeople to engage with primary texts; and they create communal rhythms that connect households, temples, and monastic communities. While fasting and austerities are common features, classical sources emphasize that these must be undertaken with proper health, intention, and guidance. Annual practices are not merely ritual events but pedagogical cycles that cultivate long-term ethical transformation.\n\nDifferent Jain traditions interpret and emphasize annual practices in distinct ways. Śvetāmbara Mūrti‑pūjaka communities often integrate temple-based rituals, while Sthānakavāsī and Terāpanth traditions emphasize non‑iconic worship and meditation. Digambara communities center Daśalakṣaṇa Parva around the ten dharmas (virtues) described in canonical texts. Despite these differences, the shared goal remains the renewal of spiritual commitment through structured, yearly observance.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "Although the Tattvārtha Sūtra does not list annual festivals, it provides the doctrinal foundation for practices such as Paryuṣaṇa and Daśalakṣaṇa Parva, which emphasize right conduct and introspection."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Attributed to Śvetāmbara canonical redactors",
+      "original_text": "णं दुव्विहं चुल्लस्स, णं दुव्विहं महस्स",
+      "transliteration": "ṇaṃ duvviham cullassa, ṇaṃ duvviham mahasse",
+      "translation": "There are two kinds of lesser transgressions and two kinds of major ones.",
+      "notes": "This text is central during Paryuṣaṇa for Śvetāmbara communities. Its ethical teachings guide the annual cycle of confession (ālocanā) and repentance (pratikramaṇa)."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (select Digambara canonical material)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "धर्मस्य लक्षणं हितं",
+      "transliteration": "dharmasya lakṣaṇaṃ hitaṃ",
+      "translation": "The characteristic of dharma is welfare.",
+      "notes": "Daśalakṣaṇa Parva centers on the ten dharmas described in Digambara canonical literature. The festival’s structure is derived from these doctrinal foundations rather than explicit festival prescriptions."
+    },
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Śvetāmbara canonical tradition",
+      "original_text": "वेस्सायणस्स कालं समणो भगवो महावीरं जणायस्स",
+      "transliteration": "vessāyaṇassa kālaṃ samaṇo bhagavo mahāvīraṃ jaṇāyassa",
+      "translation": "In the time of Vesṣāyaṇa, the venerable ascetic Mahāvīra was born.",
+      "notes": "The Kalpa Sūtra is publicly recited during Paryuṣaṇa in Śvetāmbara Mūrti‑pūjaka communities, forming a major annual scriptural event."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Annual practices are mandatory for all Jains regardless of health or circumstance.",
+      "reality": "Primary texts emphasize intention, capacity, and non‑harm. Austerities must never endanger health, and guidance from qualified teachers is recommended."
+    },
+    {
+      "myth": "Paryuṣaṇa and Daśalakṣaṇa Parva are identical festivals.",
+      "reality": "They share themes of introspection and ethical renewal but differ in duration, scriptural focus, and ritual structure across Śvetāmbara and Digambara traditions."
+    },
+    {
+      "myth": "Annual practices are primarily ritualistic and do not involve scriptural study.",
+      "reality": "Most annual observances center on canonical texts, ethical reflection, and doctrinal learning. Ritual is only one component of a broader pedagogical cycle."
+    }
+  ]
+}

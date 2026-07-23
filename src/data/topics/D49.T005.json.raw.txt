@@ -1,0 +1,37 @@
+{
+  "overview": "Europe is a continent located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. It spans approximately 10.18 million square kilometers, making it the second-smallest continent by land area. Europe is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, the Mediterranean Sea to the south, and Asia to the east. Its conventional boundary with Asia follows the Ural Mountains, Ural River, Caspian Sea, Greater Caucasus, Black Sea, and the Turkish Straits. Politically, Europe contains around fifty sovereign states, with Russia being the largest and most populous. Europe’s population is roughly 745 million, representing about 10% of the global population.  [[0]](https://en.wikipedia.org/wiki/Europe)\n\nEurope’s physical geography is highly varied, featuring extensive coastlines, fertile plains, major rivers such as the Danube, Rhine, and Volga, and mountain ranges including the Alps, Carpathians, and the Ural Mountains. The continent’s climate is moderated by warm Atlantic currents like the Gulf Stream, resulting in temperate conditions across much of Western Europe.  [[0]](https://en.wikipedia.org/wiki/Europe) [[1]](https://www.britannica.com/place/Europe/Land)\n\nHistorically, Europe has been a central stage for major civilizations and events. Ancient Greece and Rome laid foundational cultural, political, and philosophical frameworks. The Middle Ages saw the rise of Christian kingdoms, followed by the Renaissance, which revitalized art, science, and humanistic inquiry. The continent experienced profound transformations through the Protestant Reformation, the Industrial Revolution, and the age of colonial expansion. The 20th century brought two world wars, the Cold War division, and later the formation and expansion of the European Union, which now serves as a major political and economic bloc of 27 member states.  [[2]](https://en.wikipedia.org/wiki/Portal%3AEurope/Intro) [[3]](https://www.infoplease.com/atlas/europe)\n\nCulturally, Europe is diverse yet deeply interconnected. Its artistic, architectural, literary, and musical traditions have shaped global cultural development. Modern Europe remains a center of innovation, diplomacy, and cultural exchange, while also facing contemporary challenges such as migration, climate change, and political realignment.  [[3]](https://www.infoplease.com/atlas/europe)",
+  "primary_sources": [
+    {
+      "title": "No applicable Jain primary text",
+      "author": "N/A",
+      "original_text": "N/A",
+      "transliteration": "N/A",
+      "translation": "Jain canonical literature does not address the modern geographical concept of Europe.",
+      "notes": "Because the topic is a world region outside the scope of Jain scriptures, no Prakrit or Sanskrit primary passages exist that directly reference Europe."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Europe is the largest continent.",
+      "reality": "Europe is one of the smallest continents by land area, larger only than Australia.  [[0]](https://en.wikipedia.org/wiki/Europe)"
+    },
+    {
+      "myth": "Europe has a uniform climate.",
+      "reality": "Europe’s climate varies widely, from Arctic tundra in the north to Mediterranean climates in the south, influenced heavily by Atlantic currents.  [[0]](https://en.wikipedia.org/wiki/Europe) [[1]](https://www.britannica.com/place/Europe/Land)"
+    },
+    {
+      "myth": "Europe is culturally homogeneous.",
+      "reality": "Europe contains a wide range of languages, religions, and cultural traditions shaped by millennia of migration, empire, and regional development.  [[0]](https://en.wikipedia.org/wiki/Europe)"
+    }
+  ]
+}
+
+
+
+> [0] [Europe - Wikipedia](https://en.wikipedia.org/wiki/Europe)
+>
+> [1] [Europe - Geography, Climate, People | Britannica](https://www.britannica.com/place/Europe/Land)
+>
+> [2] [Portal:Europe/Intro - Wikipedia](https://en.wikipedia.org/wiki/Portal%3AEurope/Intro)
+>
+> [3] [Europe Map: Regions, Geography, Facts & Figures](https://www.infoplease.com/atlas/europe)

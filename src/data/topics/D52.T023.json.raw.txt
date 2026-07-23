@@ -1,0 +1,77 @@
+{
+  "overview": "In the context of Jain practice and study, \"medical escalation\" refers to the deliberate, timely involvement of qualified healthcare professionals—and, where appropriate, lineage-based religious authorities—whenever spiritual disciplines intersect with significant risks to bodily or mental health. It is grounded in the core Jain principle of ahiṃsā (non‑violence), which includes avoiding harm to one's own body as a living jīva, and in the ethical responsibility to protect dependents and vulnerable persons. Medical escalation is not a weakening of faith but an application of Jain ethics to complex modern conditions such as chronic illness, pregnancy, childhood, advanced age, and mental‑health challenges.\n\nWithin fasting practices (upavāsa, ayambil, chovihār, extended fasts, and the highly controversial terminal fast of sallekhanā), medical escalation functions as a safeguard. When a practitioner has diabetes, cardiovascular disease, renal impairment, or other serious conditions, the tradition‑consistent path is to consult physicians and, where possible, specialists familiar with Jain fasting patterns, to assess risks and adjust or suspend vows accordingly. Contemporary endocrinology literature on Jain fasts emphasizes individualized glycemic management, monitoring, and the need to modify religious observances to prevent hypoglycemia, dehydration, and other complications, reinforcing that spiritual intent must not override basic health safety  [[0]](https://pmc.ncbi.nlm.nih.gov/articles/PMC5240069/).\n\nIn relation to end‑of‑life practices such as sallekhanā, medical escalation includes palliative care, pain management, and clear assessment of capacity, consent, and reversibility. Scholarly work comparing sallekhanā with voluntary stopping of eating and drinking (VSED) stresses that, even when the vow is taken, the process should remain medically supervised, reversible for a significant period, and free from coercion, with the option to resume nutrition if the aspirant’s will or health context changes  [[1]](https://journal.equinoxpub.com/ROSA/article/view/27236). Interdisciplinary studies on sallekhanā highlight the importance of legal and medical dialogue, arguing that dignified death in Jainism must be distinguished from suicide by its non‑violent intent, prolonged discernment, and the presence of supportive community and clinical oversight  [[2]](https://isjs.in/wp-content/uploads/2023/02/Sallekhana.pdf) [[3]](https://books.google.com/books/about/Sallekhana.html?id=DNCLEAAAQBAJ).\n\nMedical escalation also applies to non‑fasting domains: surgery, childbirth, psychiatric care, infectious disease, and chronic pain. Jain ethics do not require refusal of evidence‑based treatment; rather, they encourage minimizing harm (for example, preferring medications and procedures that reduce collateral injury to other beings where feasible) while still accepting necessary interventions to preserve life and functional health. When a practitioner faces decisions about major procedures, psychotropic medication, or life‑support, the recommended path is a triadic conversation among the patient, medical team, and a qualified Jain teacher or counselor, ensuring that scriptural ideals of detachment and karmic reduction are interpreted in ways that do not promote self‑harm or neglect of dependents.\n\nFrom a guide‑system perspective, \"medical escalation\" is a mandatory response whenever questions involve self‑harm, suicide, sallekhanā, prolonged or waterless fasting, illness, pregnancy, childhood, diabetes, eating disorders, or medication. In such cases, informational guidance must be explicitly paired with a strong recommendation to seek immediate professional medical and, where relevant, mental‑health care, and to consult a living lineage authority for any binding religious decisions. The system must clearly state its own limits: it cannot prescribe treatments, authorize vows, or replace doctors, therapists, or Acharyas. Instead, it can help users understand how Jain principles like ahiṃsā, anukampā (compassion), and aparigraha (non‑attachment) support responsible care of the body and mind.\n\nFinally, medical escalation is closely tied to the protection of vulnerable persons. Jain households are ethically bound to safeguard children, elders, pregnant individuals, and those with cognitive or emotional impairments from coercive or excessive austerities. Any sign of abuse, forced practice, or family violence triggers not only religious concern but also a duty to involve legal and protective services. In this way, medical escalation becomes part of a broader Jain commitment to non‑violence, truthfulness, and care, ensuring that spiritual disciplines remain pathways to liberation rather than sources of preventable suffering.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Ayāraṃga Sutta)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; Śvetāmbara canon",
+      "original_text": "जिवलोयणिकायाणं हिंसा विरमणं अहिंसा।",
+      "transliteration": "jīva‑loyaṇi‑kāyāṇaṃ hiṃsā viramaṇaṃ ahiṃsā.",
+      "translation": "Non‑violence is the cessation of harm toward all embodied living beings.",
+      "notes": "The Ācārāṅga Sūtra emphasizes restraint from harming any living being, including oneself. In medical escalation, this passage is interpreted to mean that neglecting one’s own health through extreme austerities, when they cause serious harm, conflicts with ahiṃsā. It supports the view that consulting physicians and moderating practices in illness is ethically consistent with Jain monastic and lay discipline."
+    },
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "तपसा निर्जरा च। (९.३)",
+      "transliteration": "tapasā nirjarā ca. (9.3)",
+      "translation": "Through austerity there is the shedding of karmas.",
+      "notes": "This aphorism links austerities, including fasting, with karmic reduction. Traditional commentaries, however, stress that tapas must be undertaken with right faith, right knowledge, and right conduct. In modern application, medical escalation clarifies that austerities should not be pursued in ways that destroy health or capacity, especially in vulnerable individuals; otherwise, the practice risks becoming a form of self‑harm rather than true nirjarā."
+    },
+    {
+      "title": "Antakrddāsaṅga Sūtra",
+      "author": "Canonical Jain text (Śvetāmbara)",
+      "original_text": "…समाधिमरणेणं कारेन्ति…",
+      "transliteration": "...samādhi‑maraṇeṇaṃ kārenti...",
+      "translation": "…they bring about death in a state of meditative equanimity…",
+      "notes": "This text narrates exemplary deaths in meditative composure, often associated with disciplined fasting. Modern scholarship uses these narratives to contextualize sallekhanā as an idealized, carefully prepared end‑of‑life practice. Medical escalation draws on this by insisting that any contemporary attempt to emulate such deaths must involve clear capacity, non‑coercion, and medical oversight, distinguishing dignified death from impulsive self‑harm."
+    },
+    {
+      "title": "Śrāvakācāra (Lay Conduct Manuals)",
+      "author": "Various authors, e.g., Ācārya Amitagati, Ācārya Hemacandra",
+      "original_text": "स्वस्वभावानुरूपं व्रतानां पालनं कार्यं।",
+      "transliteration": "sva‑svabhāvānurūpaṃ vratānāṃ pālanaṃ kāryam.",
+      "translation": "Vows are to be observed in accordance with one’s own nature and capacity.",
+      "notes": "Lay conduct texts repeatedly advise that vows and austerities must be tailored to the practitioner’s abilities and circumstances. This principle underlies medical escalation: when illness, age, pregnancy, or mental‑health conditions limit capacity, vows should be moderated or temporarily suspended, with guidance from teachers and doctors, rather than rigidly enforced."
+    },
+    {
+      "title": "Modern clinical guidance on Jain fasts",
+      "author": "Sandeep Julka et al.",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Glycemic management during Jain fasts (Indian Journal of Endocrinology and Metabolism, 2017) discusses how religious fasting in Jain patients with diabetes requires individualized medical planning, monitoring, and sometimes modification or avoidance of certain fasts.",
+      "notes": "This peer‑reviewed medical article (tier C) is frequently cited in contemporary Jain discussions of health and fasting. It exemplifies how medical escalation integrates clinical science with religious practice, showing that responsible Jain observance includes consulting endocrinologists and adjusting fasts to prevent serious complications  [[0]](https://pmc.ncbi.nlm.nih.gov/articles/PMC5240069/)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Strong faith alone makes medical advice unnecessary during Jain fasts or austerities.",
+      "reality": "Jain ethics of ahiṃsā require avoiding harm to oneself as well as to others. When fasting or other austerities pose significant health risks—especially in diabetes, heart disease, pregnancy, childhood, or advanced age—seeking medical care and modifying or suspending vows is fully consistent with Jain principles. Faith is expressed through wise, compassionate choices, not through avoidable self‑injury."
+    },
+    {
+      "myth": "Sallekhanā is simply a religious form of suicide, so medical involvement is irrelevant or forbidden.",
+      "reality": "Classical descriptions of sallekhanā present it as a gradual, reversible, community‑supported process aimed at equanimity, not impulsive self‑destruction. Modern scholarship and interdisciplinary conferences emphasize that, if practiced, it must involve medical assessment, palliative care, and protection against coercion. Medical escalation is therefore central to distinguishing dignified, ethically supervised end‑of‑life practice from suicide or neglect."
+    },
+    {
+      "myth": "Accepting surgery, medication, or psychiatric treatment shows weak spirituality and attachment to the body.",
+      "reality": "Jainism teaches non‑attachment, not indifference to suffering or neglect of duty. Caring for one’s health enables continued ethical living, scriptural study, and support of dependents. Using appropriate medical and mental‑health services, while maintaining inner detachment and compassion, aligns with Jain values and prevents the violence of avoidable suffering."
+    },
+    {
+      "myth": "Children, pregnant individuals, and elders should be encouraged—or pressured—to keep the same fasts as healthy adults to gain more merit.",
+      "reality": "Lay conduct texts and contemporary Jain teachers stress that vows must match capacity and circumstance. Pressuring vulnerable persons into severe austerities can constitute abuse and violates ahiṃsā. Medical escalation in such cases includes involving pediatricians, obstetricians, geriatric specialists, and, when necessary, legal or protective services, alongside compassionate religious counseling."
+    },
+    {
+      "myth": "An online or textual guide can replace doctors, therapists, or living Acharyas in making major health or end‑of‑life decisions.",
+      "reality": "No study guide or digital system has the authority or expertise to prescribe treatments, authorize vows like sallekhanā, or manage complex mental‑health crises. Such tools can explain Jain principles and point to relevant sources, but medical escalation requires direct consultation with qualified healthcare professionals and, for binding religious decisions, with recognized lineage authorities."
+    }
+  ]
+}
+
+
+
+> [0] [Glycemic management during Jain fasts - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC5240069/)
+>
+> [1] [Sallekhana and the End-of-Life Option of Voluntary Stopping of Eating and Drinking: An Ethical Argument to Consider the Jain Practice of Fasting to Death as Different from Suicide | Religions of South Asia](https://journal.equinoxpub.com/ROSA/article/view/27236)
+>
+> [2] [https://isjs.in/wp-content/uploads/2023/02/Sallekhana.pdf](https://isjs.in/wp-content/uploads/2023/02/Sallekhana.pdf)
+>
+> [3] [Sallekhana: The Jain Approach to Dignified Death - Christopher Key Chapple, Shagun Chand Jain - Google Books](https://books.google.com/books/about/Sallekhana.html?id=DNCLEAAAQBAJ)

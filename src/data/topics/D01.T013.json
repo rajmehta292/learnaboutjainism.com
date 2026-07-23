@@ -1,0 +1,43 @@
+{
+  "overview": "Beginner learning paths in Jain studies refer to structured, tradition-aware ways for newcomers to gradually understand Jain philosophy, ethics, history, and practice without assuming prior knowledge or requiring monastic authority. These paths emphasize careful orientation to the diversity of Jain traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—while grounding learning in primary sources and verified commentaries. A beginner’s progression typically starts with foundational concepts such as ahiṃsā (non-harm), anekāntavāda (many-sidedness), and the basic cosmology of living and non-living substances (jīva and ajīva). From there, learners explore lay ethics, karma theory, and narratives from canonical and post-canonical literature.\n\nA well-designed beginner path avoids overwhelming technical detail and instead introduces core ideas through accessible texts, guided study, and community resources. It also highlights differences in scripture collections across traditions—for example, Digambara reliance on texts like the Ṣaṭkhaṅḍāgama and Śvetāmbara reliance on the Āgamas—while showing shared philosophical foundations. Modern learners often benefit from parallel study: reading a primary passage, reviewing a traditional commentary, and then consulting peer-reviewed scholarship to understand historical context and interpretive debates.\n\nBecause Jainism includes both rigorous philosophical systems and practical ethical disciplines, beginner learning paths emphasize gradual engagement. This includes understanding the lay vows (aṇu-vrata), the role of compassion in daily life, and the importance of non-coercive, health-aware practice. Beginners are encouraged to explore Jainism as a living tradition with diverse expressions, while maintaining fidelity to verified sources and avoiding ungrounded claims. The goal is not to produce doctrinal certainty but to cultivate informed curiosity, respectful inquiry, and a stable foundation for deeper study.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non-harm is the highest dharma.",
+      "notes": "Although this line is widely cited in Jain tradition, it appears in commentarial literature rather than the root sūtras themselves. The Tattvārtha Sūtra is accepted across major Jain traditions and is often recommended as an early philosophical text for beginners because it systematically outlines Jain ontology, ethics, and cosmology."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara canon)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "जिवा जिवा न हन्तव्वा",
+      "transliteration": "jīvā jīvā na hantavvā",
+      "translation": "Living beings should not be harmed by living beings.",
+      "notes": "One of the earliest Śvetāmbara canonical texts, emphasizing foundational principles of non-harm. Beginners often study selected passages to understand early monastic discipline and the roots of Jain ethical thought."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara tradition)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "द्रव्यगुणपर्यायाः",
+      "transliteration": "dravya-guṇa-paryāyāḥ",
+      "translation": "Substance, qualities, and modes.",
+      "notes": "A central Digambara canonical text focusing on karma theory and ontology. Beginners typically engage with summaries or guided selections due to its technical depth."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Beginners must immediately study complex karma theory or cosmology to understand Jainism properly.",
+      "reality": "Traditional pedagogy emphasizes gradual learning. Foundational ethics, basic ontology, and narrative literature are appropriate starting points before advancing to technical karma theory or detailed cosmology."
+    },
+    {
+      "myth": "All Jain traditions use the same scriptures and practices.",
+      "reality": "Jain traditions share core philosophical principles but differ in canonical collections, ritual practices, and interpretive lineages. Beginner learning paths must acknowledge these differences while highlighting shared foundations."
+    },
+    {
+      "myth": "Laypeople are expected to follow monastic-level austerities.",
+      "reality": "Primary texts clearly distinguish lay and monastic obligations. Beginner paths emphasize the aṇu-vratas (small vows) and accessible ethical practices suitable for householders."
+    }
+  ]
+}

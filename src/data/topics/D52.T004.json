@@ -1,0 +1,47 @@
+{
+  "overview": "Commentary mode is the structured way in which Jain teachings are explained, expanded, and contextualized beyond the bare wording of primary scriptures. In the architecture you described, commentary mode is not a license to invent doctrine, but a disciplined layer that sits on top of verified primary passages. It aims to clarify meaning, trace interpretive history, and show how different Jain traditions have understood the same root texts, while always keeping the boundary between scripture and explanation visible.\n\nIn classical Jain learning, sutras and gathas are often extremely concise, using technical terms and dense philosophical shorthand. Without commentary, these aphorisms can be opaque or easily misunderstood. Commentary mode therefore begins by anchoring every claim in a specific passage from a recognized text—such as the Āgamas, the Tattvārthasūtra, or major śāstras—and then brings in reviewed traditional commentaries (like Pūjyapāda’s Sarvārthasiddhi) and modern scholarship to unpack grammar, doctrinal implications, and historical context. Each layer is marked: quotation (exact words of the text), paraphrase (faithful restatement), interpretation (how a commentator understands it), and application (how it might guide lay practice today).\n\nWithin this system, commentary mode also has a responsibility to display disagreement and uncertainty. Jain traditions—Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, Terāpanth, and others—sometimes differ on textual canons, doctrinal emphasis, or practical norms. A careful commentary does not flatten these differences but shows them: which lineage says what, which source tier supports each view, and where evidence is thin or translation is debated. This protects the user from mistaking one school’s interpretation for universally binding Jain doctrine.\n\nCommentary mode further integrates modern disciplines—philology, history, ethics, and comparative religion—under clearly labeled scholarship tiers. Peer‑reviewed research (tier C) can illuminate manuscript history, language shifts, or social context, while reviewed community education (tier D) can show how teachings are lived in contemporary Jain communities. However, these are never allowed to override primary texts (tier A) or established commentaries (tier B) without explicit indication. The system thus encourages users to see commentary as a map of understanding, not as a new scripture.\n\nFinally, commentary mode is constrained by authority and safety checks. It must not issue binding religious rulings, prescribe medical or mental‑health actions, or encourage coercive practice. When questions touch on sallekhanā, prolonged fasting, dikṣā, or family obligations, commentary mode can explain how texts and commentaries discuss these topics, but it must also escalate to qualified human guidance. In this way, commentary mode becomes a responsible academic and devotional bridge: it helps readers engage deeply with Jain sources while honoring the limits of textual interpretation and the need for living, qualified teachers.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra (also called Mokṣaśāstra)",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः ॥१.१॥",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ || 1.1 ||",
+      "translation": "Right faith, right knowledge, and right conduct—these constitute the path to liberation.",
+      "notes": "This opening sūtra is a classic example of a dense aphorism that has generated extensive commentary. In Sarvārthasiddhi, Pūjyapāda explains each component—samyag-darśana, jñāna, and cāritra—by drawing on earlier scriptural material and philosophical reasoning. Commentary mode, following this pattern, would first present the sūtra itself (tier A), then summarize Sarvārthasiddhi’s explanations (tier B), and finally note how different Jain traditions emphasize aspects of the triad in lay practice (tiers C–D). The distinction between the terse original and the expansive commentary is kept explicit so that readers can see where interpretation begins."
+    },
+    {
+      "title": "Sarvārthasiddhi (commentary on Tattvārthasūtra)",
+      "author": "Ācārya Pūjyapāda",
+      "original_text": "सम्यग्दर्शनं नाम तत्त्वेषु अविचिकित्साप्रमोदभावः ।",
+      "transliteration": "samyag-darśanaṃ nāma tattveṣu avicikitsā-pramoda-bhāvaḥ.",
+      "translation": "Right faith is the state of unhesitating clarity and joyful acceptance regarding the real principles.",
+      "notes": "Here Pūjyapāda defines ‘right faith’ by interpreting the terse term samyag-darśana in Tattvārthasūtra 1.1. Commentary mode would mark this as a tier B traditional commentary, clearly separate from the sūtra itself. It would then compare this definition with other commentators and with Śvetāmbara perspectives, highlighting convergences and divergences. This illustrates how commentary mode builds a layered understanding: primary text, classical explanation, and then modern analysis of how these ideas shape contemporary Jain identity and practice."
+    },
+    {
+      "title": "Ācārāṅga-sūtra (Śvetāmbara canon)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं चियं णं चियं, णं चियं णं चियं।\nएगं दंसणं एगं जाणा एगं चरिअं मोक्कं मग्गं।",
+      "transliteration": "ṇaṃ ciyaṃ ṇaṃ ciyaṃ, ṇaṃ ciyaṃ ṇaṃ ciyaṃ.\negaṃ daṃsaṇaṃ egaṃ jāṇā egaṃ cariā mokkaṃ maggaṃ.",
+      "translation": "There is indeed, there is indeed; there is indeed, there is indeed.\nOne faith, one knowledge, one conduct—this is the path to liberation.",
+      "notes": "This Prakrit passage echoes the triad of right faith, knowledge, and conduct found in later systematic texts. Traditional commentaries and modern philological studies analyze its repetitive structure, language, and doctrinal emphasis. In commentary mode, the original Prakrit (tier A) is presented first, followed by Sanskritized renderings and classical explanations (tier B), and then by scholarly discussion of its place in the formation of Jain soteriology (tier C). Any uncertainty in translation or manuscript variants is explicitly noted so that readers understand where the text is firm and where interpretation is more tentative."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Commentary is just opinion and can be treated as equal to or interchangeable with scripture.",
+      "reality": "In Jain learning, commentary is a distinct layer that explains and systematizes scripture but does not replace it. Classical commentaries are highly respected, yet their status is different from the primary Āgamas and foundational śāstras. Commentary mode must therefore keep a clear boundary: it shows how commentators understand a text, maps disagreements, and labels modern scholarly input, rather than presenting any of these as new revelation."
+    },
+    {
+      "myth": "A single commentary or modern book can provide the final, universally binding Jain view on any topic.",
+      "reality": "Jain traditions contain multiple lineages and interpretive histories. No single commentary or modern work can claim universally binding authority across all sects and communities. Commentary mode is designed to reveal this plurality by citing multiple sources, indicating which tradition each belongs to, and recommending consultation with qualified living teachers for matters that require lineage authorization or have serious practical consequences."
+    },
+    {
+      "myth": "Academic scholarship about Jain texts is inherently opposed to traditional commentaries and should be ignored in serious study.",
+      "reality": "While academic scholarship and traditional commentaries arise from different contexts, they can fruitfully complement each other. Philological and historical research can clarify manuscript transmission, language, and social setting, while traditional commentaries preserve doctrinal continuity and lived practice. Commentary mode integrates both under clearly labeled tiers, allowing readers to benefit from each without confusing scholarly analysis with scriptural authority."
+    },
+    {
+      "myth": "If a commentary or guide suggests a practice, it is safe to follow without further advice, even in cases of illness, extreme fasting, or family obligations.",
+      "reality": "Textual commentary cannot replace individualized guidance from qualified teachers, medical professionals, or legal advisors. The architecture explicitly requires escalation for topics like sallekhanā, prolonged fasting, illness, pregnancy, childhood, diabetes, eating disorders, medication, abuse, or dikṣā. Commentary mode may explain how texts discuss these matters, but it must also emphasize safety, non‑coercion, and the need for direct human counsel before any serious life decision."
+    }
+  ]
+}

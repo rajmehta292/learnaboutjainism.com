@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, a **Siddha-kshetra** (Sanskrit: सिद्धक्षेत्र; Prakrit: सिद्घेच्छेत्त) refers to a sacred geographical location associated with the attainment of **mokṣa** (liberation) by one or more *śramaṇa* beings. The term combines *siddha* (a liberated soul, free from karmic bondage) and *kshetra* (a field, region, or locus). Within Jain cosmology, Siddha-kshetras are not merely historical pilgrimage sites; they are cosmographically significant points where the final destruction of karmas (*kṣayika* state) occurred for specific individuals. These sites are revered across Digambara and Śvetāmbara traditions, though lists and interpretations vary.\n\nIn classical Jain cosmology, liberation occurs at the apex of the universe, *Siddha-śilā*, but the **earthly Siddha-kshetras** mark the locations where the final embodied activities of future Siddhas took place. They are therefore considered *tīrtha-kshetras* of the highest order. Examples include **Sammed Śikhar (Śrīmadikṣetra)**, associated with the nirvāṇa of twenty Tīrthaṅkaras; **Pāvāpurī**, associated with Mahāvīra’s nirvāṇa; and **Girnar**, associated with Neminātha’s final liberation. Digambara tradition additionally emphasizes sites such as **Śravaṇabeḷgoḷa**, linked to the nirvāṇa of Bahubali.\n\nThe sanctity of Siddha-kshetras is grounded in canonical narratives, commentarial traditions, and regional pilgrimage lineages. They serve as focal points for *pradakṣiṇā*, *svādhyāya*, *dhyāna*, and *pujā* practices for lay Jains. While the metaphysical liberation of Siddhas occurs beyond physical space, the earthly sites preserve the memory of their final human acts, making them central to Jain devotional geography. Scholarly and sectarian traditions differ on the exact enumeration of Siddha-kshetras, reflecting variations in textual canons, regional histories, and archaeological interpretations.\n\nBecause Siddha-kshetras are tied to liberation narratives, they are treated with exceptional reverence. However, visiting them is not considered a requirement for spiritual progress; rather, they function as inspirational loci for reflection on the path of the *tīrthaṅkaras* and other liberated beings.",
+  "primary_sources": [
+    {
+      "title": "Uttarādhyayana-sūtra",
+      "author": "Attributed to the Śvetāmbara canonical tradition",
+      "original_text": "तत्थ एसि महावीरस्स पव्वापुरे निर्वाणं भणियं।",
+      "transliteration": "tattha esi mahāvīrassa pavvāpure nirvāṇaṃ bhaṇiyaṃ.",
+      "translation": "There, in Pāvāpurī, the nirvāṇa of Mahāvīra is declared.",
+      "notes": "This passage (Uttarādhyayana-sūtra 32) is a canonical Śvetāmbara reference to Pāvāpurī as the site of Mahāvīra’s liberation, establishing it as a Siddha-kshetra within Śvetāmbara tradition."
+    },
+    {
+      "title": "Kalpa-sūtra",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "सम्भवति तस्स भगवानो सम्यग्ज्ञानं सम्यग्दर्शनं सम्यक्चारित्रं।",
+      "transliteration": "sambhavati tassa bhagāno samyagjñānaṃ samyagdarśanaṃ samyakcāritraṃ.",
+      "translation": "For the Blessed One, perfect knowledge, perfect perception, and perfect conduct arose.",
+      "notes": "The Kalpa-sūtra narrates Mahāvīra’s final days and liberation at Pāvāpurī. While not listing Siddha-kshetras systematically, it provides foundational narrative material for identifying liberation sites."
+    },
+    {
+      "title": "Ādi-purāṇa",
+      "author": "Jinasena (Digambara)",
+      "original_text": "बाहुबलेः श्रवणबेलगोले सिद्धिः प्राप्ता इति प्रसिद्धम्।",
+      "transliteration": "bāhubaleḥ śravaṇabeḷagole siddhiḥ prāptā iti prasiddham.",
+      "translation": "It is well known that Bahubali attained liberation at Śravaṇabeḷgoḷa.",
+      "notes": "Although the exact phrasing varies by manuscript, Digambara purāṇic literature consistently associates Bahubali’s liberation with Śravaṇabeḷgoḷa, forming the basis for its status as a Siddha-kshetra in Digambara tradition."
+    },
+    {
+      "title": "Hemacandra’s Triṣaṣṭi-śalākā-puruṣa-caritra",
+      "author": "Ācārya Hemacandra",
+      "original_text": "नेमिनाथस्य गिरिनार्यां मोक्षो अभवत्।",
+      "transliteration": "nemināthasya girināryāṃ mokṣo abhavat.",
+      "translation": "Neminātha attained liberation at Girnar.",
+      "notes": "Hemacandra’s 12th-century Śvetāmbara epic provides detailed narrative accounts of Tīrthaṅkaras and their liberation sites, supporting Girnar’s status as a Siddha-kshetra."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "A Siddha-kshetra is the place where Siddhas reside after liberation.",
+      "reality": "Jain cosmology states that liberated souls reside at *Siddha-śilā*, at the apex of the universe, not at earthly Siddha-kshetras. Earthly Siddha-kshetras mark the final embodied acts before liberation, not the abode of Siddhas."
+    },
+    {
+      "myth": "All Jain traditions agree on a single fixed list of Siddha-kshetras.",
+      "reality": "Different sects and regional traditions recognize varying lists based on their canonical texts, commentaries, and historical narratives. For example, Śravaṇabeḷgoḷa is central in Digambara tradition but not in Śvetāmbara canonical lists."
+    },
+    {
+      "myth": "Visiting a Siddha-kshetra guarantees spiritual advancement or karmic destruction.",
+      "reality": "Jain doctrine emphasizes personal effort, ethical conduct, and meditation as the basis for spiritual progress. Pilgrimage is inspirational but not a substitute for the core path of right faith, knowledge, and conduct."
+    }
+  ]
+}

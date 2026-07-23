@@ -1,0 +1,51 @@
+{
+  "overview": "The **Pūrvas** (also spelled *Purvas* or *Puvvas*) are a foundational yet largely lost corpus of ancient Jain canonical knowledge. In Jain historical memory, they are described as fourteen extensive scriptures containing cosmology, metaphysics, karma theory, logic, ascetic practice, and advanced spiritual disciplines. The Pūrvas are considered part of the *Dr̥ṣṭivāda*, the twelfth Anga, which itself is said to have contained the Pūrvas as embedded sections. Both Digambara and Śvetāmbara traditions agree that the Pūrvas represented an immense body of knowledge attributed to omniscient beings (kevalins) and preserved by early *śruta-kevalins*—masters of perfect scriptural knowledge.\n\nIn the Śvetāmbara tradition, the loss of the Pūrvas is tied to the gradual decline of scriptural memory after the time of Bhadrabāhu, who is traditionally regarded as the last knower of all fourteen Pūrvas. The *Kalpa Sūtra* and *Niryuktis* mention the diminishing capacity of monks to retain the vast corpus, leading to the eventual disappearance of the Pūrvas before the final redaction of the canon at the Valabhī council (5th–6th century CE). Digambara tradition similarly maintains that the Pūrvas were lost early, and that the surviving Śvetāmbara canon does not preserve them.\n\nDescriptions of the Pūrvas appear in later canonical and commentarial literature, outlining their thematic range: the first Pūrva (*Utpāda Pūrva*) deals with origins and modes of existence; the *Agrayaṇī Pūrva* addresses advanced doctrinal categories; the *Pratyākhyāna Pūrva* and *Sūtra Pūrva* explore renunciation and ascetic rules; and the *Kriyā Pūrva* and *Jñāna Pūrva* treat karma, epistemology, and cosmology. Although the texts themselves are no longer extant, their remembered outlines significantly shaped Jain scholastic traditions, especially in karma theory and metaphysics.\n\nModern scholarship treats the Pūrvas as a critical window into early Jain intellectual history. Their loss is considered one of the most significant gaps in South Asian religious literature. Surviving references, however, allow partial reconstruction of their themes and influence, demonstrating how the Pūrvas served as a bridge between early Jain oral traditions and later systematic philosophical works.",
+  "primary_sources": [
+    {
+      "title": "Kalpa Sūtra (Śvetāmbara canonical text)",
+      "author": "Traditionally attributed to Bhadrabāhu",
+      "original_text": "“Bhadrabāhu was the last to know the fourteen Pūrvas.”",
+      "transliteration": "bhadrabāhu pacchimaṃ pūrvaṃ jānai",
+      "translation": "“Bhadrabāhu was the last person who knew the Pūrvas.”",
+      "notes": "This brief reference is one of the most cited canonical attestations of the Pūrvas’ decline. The Kalpa Sūtra does not preserve the Pūrvas but acknowledges their earlier existence."
+    },
+    {
+      "title": "Nandī Sūtra (Śvetāmbara)",
+      "author": "Unknown (canonical compilation)",
+      "original_text": "Mentions the categories of knowledge including *pūrva-jñāna*.",
+      "transliteration": "pūrva-jñānaṃ savva-suttaṃ jānanaṃ",
+      "translation": "“Pūrva-knowledge is the knowing of all scriptures.”",
+      "notes": "The Nandī Sūtra classifies types of knowledge and describes *pūrva-jñāna* as a supreme scriptural mastery, indirectly indicating the scope of the Pūrvas."
+    },
+    {
+      "title": "Tiloyapaṇṇatti (Digambara, 6th–7th century CE)",
+      "author": "Yativṛṣabha",
+      "original_text": "Contains references to cosmological doctrines attributed to the Pūrvas.",
+      "transliteration": "pūvva-ṇayāṇugāmiyaṃ loka-samāsam",
+      "translation": "“A summary of the world-system following the ancient Pūrva doctrines.”",
+      "notes": "Although not quoting the Pūrvas directly, the Tiloyapaṇṇatti preserves doctrinal structures believed to descend from Pūrva-era knowledge."
+    },
+    {
+      "title": "Commentaries of Abhayadeva Sūri (11th century CE)",
+      "author": "Abhayadeva Sūri",
+      "original_text": "Provides outlines of the contents of several Pūrvas.",
+      "transliteration": "pūrvāṇāṃ viśeṣaḥ pratyākhyāna-kriyā-jñāna-ādiṣu",
+      "translation": "“The Pūrvas contain special teachings on renunciation, conduct, knowledge, and other subjects.”",
+      "notes": "Abhayadeva’s commentaries are among the most detailed surviving secondary sources describing the thematic structure of the Pūrvas."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Pūrvas are still preserved in secret by certain Jain lineages.",
+      "reality": "Both Digambara and Śvetāmbara traditions affirm that the Pūrvas were lost many centuries ago. No verified manuscript or oral lineage claims to preserve them."
+    },
+    {
+      "myth": "The Pūrvas were short texts similar to the surviving Angas.",
+      "reality": "Traditional accounts describe the Pūrvas as extremely extensive—far larger than the Angas—and containing advanced doctrinal material that required exceptional memory and training."
+    },
+    {
+      "myth": "Modern reconstructions can fully recover the Pūrvas.",
+      "reality": "Only thematic outlines and scattered references survive. No reconstruction can reproduce the original content, and scholars treat all reconstructions as speculative."
+    }
+  ]
+}

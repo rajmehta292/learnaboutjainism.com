@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, the question of **soul size and bodily accommodation** (jīva-pramāṇa and śarīra-anurūpa vyavasthā) is a classical metaphysical topic addressed in both Digambara and Śvetāmbara traditions. Jainism holds that every living being possesses an eternal, conscious soul (jīva) whose essential attributes—knowledge, perception, bliss, and energy—are infinite in potential. Yet, in embodied existence, the soul appears to occupy and pervade the physical body it inhabits.\n\nJain texts describe the soul as **amūrta** (non-material), **vibhu** (all-pervasive in its pure state), and yet **parimita-pramāṇa** (apparently limited) when bound by karma. This apparent limitation is not a change in the soul’s true nature but a karmically conditioned manifestation. The soul, though inherently capable of infinite expansion, functions as if it is coextensive with the body during worldly existence. This coextension is called **deha-parimāṇa-anurūpa vyavasthā**—the soul pervades the body exactly to its boundaries.\n\nClassical Jain metaphysics explains this through the doctrine of **karmic obscuration**: karma restricts the soul’s operative capacities, causing it to appear spatially confined. When embodied, the soul is said to fill the body “like light fills a room,” without becoming material or divisible. Upon liberation (mokṣa), the soul expands to its natural infinitude, no longer constrained by bodily dimensions.\n\nDifferent categories of beings—one-sensed organisms, animals, humans, celestial beings, and hell beings—are described as having souls that pervade bodies of varying sizes and shapes. The soul itself does not change size; rather, its **field of manifestation** adjusts according to the karmically determined body. Thus, a human soul and an ant’s soul are metaphysically identical, though their bodily accommodation differs.\n\nThis doctrine serves several philosophical purposes: it preserves the soul’s immateriality, explains the diversity of embodied forms, and maintains the continuity of karmic causation across rebirths. It also supports Jain ethics by affirming the equal spiritual worth of all living beings, regardless of physical form.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "जीवः शरीरपरिमाणानुरूपः",
+      "transliteration": "jīvaḥ śarīra-parimāṇānurūpaḥ",
+      "translation": "The soul corresponds to the measure of the body.",
+      "notes": "Tattvārtha Sūtra 2.24 is the most frequently cited aphorism on soul-body coextension. Commentaries (Digambara and Śvetāmbara) clarify that this correspondence is karmically conditioned and does not imply material limitation of the soul."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Nemicandra Siddhānta Cakravartin",
+      "original_text": "अमूर्तो जीवो देहपरिमाणं व्याप्नोति",
+      "transliteration": "amūrto jīvo deha-parimāṇaṃ vyāpnoti",
+      "translation": "The immaterial soul pervades the measure of the body.",
+      "notes": "A concise Digambara text describing the soul as non-material yet fully pervading the body it inhabits. The text emphasizes that pervasion does not imply physical contact or spatial limitation in the material sense."
+    },
+    {
+      "title": "Pañcāstikāya",
+      "author": "Kundakunda",
+      "original_text": "जीवो देहपरिमाणं तिरियग् ऊर्ध्वाधो व्याप्नोति",
+      "transliteration": "jīvo deha-parimāṇaṃ tiriyag ūrdhvādhō vyāpnoti",
+      "translation": "The soul pervades the body in all directions—across, above, and below.",
+      "notes": "Kundakunda clarifies that the soul’s pervasion is not spatial extension but a mode of manifestation conditioned by karma."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The soul physically shrinks or expands to fit different bodies.",
+      "reality": "Jain texts state that the soul is immaterial and does not change size. Only its field of manifestation appears limited by the body due to karmic bondage."
+    },
+    {
+      "myth": "Larger bodies contain ‘larger’ or more powerful souls.",
+      "reality": "All souls are metaphysically equal. Differences in embodiment arise from karma, not from variations in soul magnitude or potency."
+    },
+    {
+      "myth": "Soul-body coextension means the soul is material or spatially divisible.",
+      "reality": "Jainism maintains that the soul is amūrta (non-material) and indivisible. Coextension is a functional, not physical, relationship."
+    }
+  ]
+}

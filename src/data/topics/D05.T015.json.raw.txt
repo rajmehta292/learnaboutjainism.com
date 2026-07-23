@@ -1,0 +1,67 @@
+{
+  "overview": "Svetambara presentations refer to the characteristic ways in which the Svetambara Jain tradition expresses, structures, and communicates its understanding of Jain dharma—through scripture, monastic discipline, iconography, ritual, sectarian organization, and public teaching. The term “Svetambara” (Sanskrit: śvetāmbara, ‘white‑clad’) itself is already a presentation: it visually and conceptually distinguishes this lineage by the white robes of its ascetics, in contrast to the nudity of Digambara monks. [[0]](https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara) [[1]](https://grokipedia.com/page/%C5%9Av%C4%93t%C4%81mbara)\n\nHistorically, Svetambara self‑presentation is anchored in narratives of continuity from Mahavira and in the preservation of the canonical Agamas. Councils such as the redaction at Valabhi (6th century CE) are remembered as moments when the community stabilized its scriptural corpus and thereby defined what counts as authoritative teaching. The Kalpa Sutra, with its biographies of the Tirthankaras and monastic lineages, is publicly recited during Paryushana, making scripture itself a ritualized presentation of identity: the community hears, displays, and venerates its own textual memory. [[0]](https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara) [[1]](https://grokipedia.com/page/%C5%9Av%C4%93t%C4%81mbara)\n\nDoctrinally, Svetambara presentations emphasize the three jewels—right faith, right knowledge, and right conduct—within a framework that is at once ascetic and accessible to laypeople. Sermons by monks and nuns, pravachans in upashrayas and sthanaks, and printed or digital commentaries all present core themes such as ahiṃsā (non‑violence), anekāntavāda (doctrinal non‑one‑sidedness), and the workings of karma. In these presentations, the possibility of liberation for women is explicitly affirmed, with Mallinatha (Mallī), the 19th Tirthankara, presented as female in Svetambara tradition—an important contrast to Digambara narratives and a recurring topic in modern educational materials. [[2]](https://explorejainism.com/shwetambar-sect/) [[1]](https://grokipedia.com/page/%C5%9Av%C4%93t%C4%81mbara)\n\nVisually, Svetambara murtipujaka temples present Tirthankara images with open eyes, white or lightly colored robes, and often with ornaments and a throne, set within ornate temple architecture. This iconography communicates both transcendence and royal dignity, while still signaling ascetic purity through the calm posture and absence of weapons or worldly attributes. Temple rituals—ārati, snatra‑puja, abhiṣeka, and offerings of rice, flowers, and lamps—are choreographed presentations of devotion and community cohesion. In contrast, non‑image‑worshipping Svetambara sub‑traditions such as Sthanakavasi and Terapanth present Jain dharma through bare halls, emphasis on meditation, ethical discipline, and scriptural recitation without icons, thereby offering an alternative visual and ritual language within the same broader sect. [[2]](https://explorejainism.com/shwetambar-sect/) [[3]](https://en-academic.com/dic.nsf/enwiki/196818)\n\nMonastic presentations differ subtly across Svetambara sub‑sects but share core features: white robes, the whisk broom (rajoharaṇa), and often a mouth‑cloth (muhpatti) to minimize harm to airborne organisms. Public alms‑rounds, disciplined walking, and carefully regulated speech and diet present the vows of non‑violence, truthfulness, non‑stealing, celibacy, and non‑attachment in embodied form. Lay presentations—such as observance of Paryushana, Samvatsari pratikramana (annual confession), and community fasts—mirror monastic ideals in moderated ways, making ascetic values visible in everyday life. [[4]](https://www.britannica.com/topic/Jainism/Ritual-practices-and-religious-institutions) [[3]](https://en-academic.com/dic.nsf/enwiki/196818)\n\nInstitutionally, Svetambara presentations are structured through gacchas (monastic lineages) and sub‑sects. Murtipujaka gacchas such as Tapa Gaccha and Kharatara Gaccha present distinct histories, lineages of acharyas, and styles of teaching, while reform movements like Lonka Shah’s critique of image‑worship in the 15th century and the later emergence of Sthanakavasi and Terapanth present themselves as returns to scriptural purity and simplicity. Modern Svetambara presentations also include printed pattavalis (lineage lists), biographies of acharyas, and educational materials that narrate the sect’s majority status among Jains in western India and its global diaspora, often highlighting social service, education, and non‑violence as bridges to contemporary ethical concerns. [[2]](https://explorejainism.com/shwetambar-sect/) [[3]](https://en-academic.com/dic.nsf/enwiki/196818) [[1]](https://grokipedia.com/page/%C5%9Av%C4%93t%C4%81mbara)\n\nFrom an academic perspective, “Svetambara presentations” thus encompass a layered system: canonical texts presented as Agamas; ritual and iconographic systems that present Tirthankaras and ideals; monastic and lay conduct that presents vows in lived form; and historical, institutional narratives that present the sect’s identity vis‑à‑vis Digambara and internal reform movements. These presentations are not static; they are continually interpreted in sermons, commentaries, and community debates, and they invite careful study with attention to primary sources, sectarian perspectives, and the diversity of practice across regions and sub‑traditions.",
+  "primary_sources": [
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Traditionally attributed to Bhadrabāhu; redacted within Svetambara canon",
+      "original_text": "णमो अरिहंताणं, णमो सिद्धाणं, णमो आयरियाणं, णमो उवज्झायाणं, णमो लोए सव्वसाहूणं।",
+      "transliteration": "ṇamo arihaṃtāṇaṃ, ṇamo siddhāṇaṃ, ṇamo āyariyāṇaṃ, ṇamo uvajjhāyāṇaṃ, ṇamo loe savvasāhūṇaṃ.",
+      "translation": "Homage to the Arhats, homage to the Siddhas, homage to the Ācāryas, homage to the Upādhyāyas, homage to all the Sādhus in the world.",
+      "notes": "The Kalpa Sūtra is a key Svetambara canonical text, publicly recited during Paryushana. Its biographies of Mahavira and other Tirthankaras, along with monastic lineage lists (pattavalis), are central to how Svetambaras present their historical continuity and authority. The opening homage formula is widely used in liturgy and frames the presentation of the fourfold community and liberated beings."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Acaranga Sutra)",
+      "author": "Traditionally attributed to Gautama Ganadhara; preserved in Svetambara canon",
+      "original_text": "सव्वे पाणे अहिंसा व्रतं, न हणे, न पच्छाये, न विहिंसाए।",
+      "transliteration": "savve pāṇe ahiṃsā vrataṃ, na haṇe, na pacchāe, na vihiṃsāe.",
+      "translation": "Towards all living beings, the vow of non‑violence: one should not strike, not cause to be struck, not allow violence.",
+      "notes": "The Ācārāṅga Sūtra is foundational for Svetambara presentations of monastic conduct and ahiṃsā. Passages like this are frequently cited in sermons and ethical instruction to show that the careful regulation of movement, speech, and diet in Svetambara monastic life directly arises from canonical injunctions."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Anonymous; part of Svetambara canonical corpus",
+      "original_text": "सद्दहा, सच्चं जाणं, चरित्तं च सुहुत्तमं। एतत्ति तिण्णि रत्तणा, मोक्षमारग्गस्स कारणं।",
+      "transliteration": "saddahā, sacchaṃ jāṇaṃ, carittaṃ ca suhuttamaṃ; etatti tiṇṇi rattṇā, mokṣamāraggassa kāraṇaṃ.",
+      "translation": "Right faith, right knowledge, and right conduct—these three jewels are the cause of the path to liberation.",
+      "notes": "This verse is central to how Svetambara teachers present the structure of Jain practice. The three jewels are explained in sermons, textbooks, and lay instruction as the framework within which monastic discipline, lay vows, temple worship, and meditation all find their place."
+    },
+    {
+      "title": "Viśeṣāvaśyaka Bhāṣya",
+      "author": "Jinabhadra Gaṇi Kṣamāśramaṇa (5th century CE)",
+      "original_text": "एत्थ महावीरस्स वंसो, एत्थ गच्छाणं पवत्ति, एत्थ विभागो दिगंबरश्वेतांबराणं।",
+      "transliteration": "ettha mahāvīrassa vaṃso, ettha gacchāṇaṃ pavatti, ettha vibhāgo digambaraśvetāṃbarāṇaṃ.",
+      "translation": "Here is the lineage of Mahavira, here the development of the gacchas, here the division between Digambaras and Svetambaras.",
+      "notes": "The Viśeṣāvaśyaka Bhāṣya is an early Svetambara commentary that preserves sectarian narratives about the schism with Digambaras and the formation of monastic lineages. It is an important source for understanding how Svetambaras present their own history and legitimacy in contrast to other Jain traditions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Svetambara Jains are idol‑worshippers and present their religion only through ornate temples and images.",
+      "reality": "While the murtipujaka (image‑worshipping) majority does center its ritual life on Tirthankara icons and temples, Svetambara also includes non‑image‑worshipping sub‑sects such as Sthanakavasi and Terapanth. These groups present Jain dharma through simple halls, meditation, ethical discipline, and scriptural study without icons, showing significant diversity in ritual and visual presentation within the same sect. [[2]](https://explorejainism.com/shwetambar-sect/) [[3]](https://en-academic.com/dic.nsf/enwiki/196818)"
+    },
+    {
+      "myth": "Svetambara ascetics are less strict than Digambara monks because they wear clothes and may possess a few items.",
+      "reality": "Svetambara monks and nuns do wear white robes and may keep regulated items such as an alms bowl, whisk broom, and mouth‑cloth, but their lives are governed by the same great vows and detailed disciplinary rules. Their presentations of non‑possession and non‑violence are expressed through strict control of movement, diet, speech, and daily avashyaka practices, rather than through nudity alone. The difference is in the interpretation of how non‑possession is best embodied, not in a simple hierarchy of strictness. [[4]](https://www.britannica.com/topic/Jainism/Ritual-practices-and-religious-institutions) [[0]](https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara)"
+    },
+    {
+      "myth": "Svetambara tradition denies the possibility of women’s liberation or treats women as spiritually inferior.",
+      "reality": "Svetambara presentations explicitly affirm that women can attain kevala‑jñāna and mokṣa, and they identify Mallinatha (Mallī), the 19th Tirthankara, as female. This doctrinal stance is frequently highlighted in modern Svetambara educational materials and sermons, especially in contrast to Digambara views, and shapes how the sect presents gender and spiritual capacity. [[2]](https://explorejainism.com/shwetambar-sect/) [[1]](https://grokipedia.com/page/%C5%9Av%C4%93t%C4%81mbara)"
+    },
+    {
+      "myth": "The split between Svetambara and Digambara is fully explained and unanimously agreed upon within Jain sources.",
+      "reality": "Svetambara texts such as the Viśeṣāvaśyaka Bhāṣya present one narrative of the schism, including figures like Sivabhuti and lineages from Mahavira, but Digambara sources offer different accounts, and modern scholarship notes gaps and uncertainties in the historical record. Responsible study of Svetambara presentations therefore distinguishes between sectarian self‑narration and reconstructive history, acknowledging areas where evidence is limited or contested. [[0]](https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara) [[1]](https://grokipedia.com/page/%C5%9Av%C4%93t%C4%81mbara)"
+    }
+  ]
+}
+
+
+
+> [0] [Śvetāmbara - Wikipedia](https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara)
+>
+> [1] [Śvetāmbara](https://grokipedia.com/page/%C5%9Av%C4%93t%C4%81mbara)
+>
+> [2] [Shwetambar Sect - Explore Jainism](https://explorejainism.com/shwetambar-sect/)
+>
+> [3] [Svetambara](https://en-academic.com/dic.nsf/enwiki/196818)
+>
+> [4] [Jainism - Rituals, Monks, Ahimsa | Britannica](https://www.britannica.com/topic/Jainism/Ritual-practices-and-religious-institutions)

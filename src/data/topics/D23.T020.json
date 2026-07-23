@@ -1,0 +1,43 @@
+{
+  "overview": "Anantanātha is recognized in Jain tradition as the fourteenth Tīrthaṅkara of the present avasarpinī (descending time cycle). His life narrative appears across both Digambara and Śvetāmbara canons, with variations in detail but agreement on his status as a fully liberated teacher who re‑establishes the path of the Jinas. Traditional accounts place his birth in Ayodhyā, identify his father as Siṃhasena and his mother as Suyasha (Śvetāmbara) or Suyasha/Suprabhā (Digambara variants), and describe his emblem (lāñchana) as the **hawk** or **falcon**. His complexion is described as golden, and his height and lifespan follow the cosmological scale of the Tīrthaṅkaras.\n\nIn Jain cosmology, Anantanātha’s role is not historical in the modern sense but belongs to the sacred narrative structure of the 24 Tīrthaṅkaras. His biography is presented in the format of the *pañca‑kalyāṇakas*—conception, birth, renunciation, omniscience, and liberation. He is said to have attained kevala‑jñāna after intense austerities and meditation, taught the dharma through the samavasaraṇa, and ultimately achieved mokṣa at Śikharjī (Digambara) or Sammeta Śikhara (Śvetāmbara), the site traditionally associated with the liberation of twenty Tīrthaṅkaras.\n\nThe figure of Anantanātha is also important in Jain art history. Sculptures and manuscript paintings depict him with the hawk emblem, often in meditative posture, and sometimes accompanied by attendant deities (yakṣa and yakṣiṇī) whose identities vary by sectarian tradition. His narrative is used in Jain pedagogy to illustrate the cosmological scale of Tīrthaṅkaras, the ethical ideal of renunciation, and the continuity of the Jain path across vast cycles of time.",
+  "primary_sources": [
+    {
+      "title": "Kalpasūtra (Śvetāmbara)",
+      "author": "Attributed to Bhadrabāhu",
+      "original_text": "अनन्तनाथस्य आयोध्यायां जन्माभूत्",
+      "transliteration": "anantanāthasya ayodhyāyāṃ janmābhūt",
+      "translation": "“Anantanātha was born in Ayodhyā.”",
+      "notes": "The *Kalpasūtra* provides brief biographical notices of Tīrthaṅkaras. The Anantanātha section is concise and focuses on lineage, birthplace, and emblem. Editions vary slightly in orthography."
+    },
+    {
+      "title": "Tiloyapaṇṇatti (Digambara)",
+      "author": "Yativṛṣabha",
+      "original_text": "सीहसेणस्स पुंणो सुयसाया च देविā अनंतणायो जिणो",
+      "transliteration": "sīhasena-ssa puṇṇo suyāsāyā ca deviyā anantaṇāyo jiṇo",
+      "translation": "“The Jina Ananta, son of Siṃhasena and the lady Suyasha.”",
+      "notes": "A cosmological text describing Tīrthaṅkaras within the vast temporal and spatial framework of Jain universe theory. The passage situates Anantanātha’s birth and parentage."
+    },
+    {
+      "title": "Hemacandra’s Triṣaṣṭiśalākāpuruṣacaritra (Śvetāmbara)",
+      "author": "Ācārya Hemacandra",
+      "original_text": "अनन्तनाथो जिनवरः सिंहसेनस्य सूनवः",
+      "transliteration": "anantanātho jinavaraḥ siṃhasenasya sūnavaḥ",
+      "translation": "“Anantanātha, the noble Jina, was the son of Siṃhasena.”",
+      "notes": "Hemacandra expands the narrative with literary detail, describing the kalyāṇakas, austerities, and teachings. This is a secondary narrative source but widely used in Śvetāmbara tradition."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Anantanātha is a historical king of Ayodhyā whose dates can be established.",
+      "reality": "Jain texts present Anantanātha within cosmological time cycles, not as a datable historical figure. His biography belongs to sacred narrative, not empirical chronology."
+    },
+    {
+      "myth": "All Jain sects agree on identical details of Anantanātha’s parents and attendant deities.",
+      "reality": "While core elements match, Digambara and Śvetāmbara traditions preserve small differences in names, yakṣa/yakṣiṇī identities, and iconographic conventions."
+    },
+    {
+      "myth": "Anantanātha’s emblem is universally the same across all manuscripts and temples.",
+      "reality": "The hawk/falcon is standard, but some regional traditions show minor variations in depiction, posture, or accompanying symbols."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Jaina Shauraseni (often labeled Jaina Sauraseni, JŚ in modern catalogues) is a specialized variety of Shauraseni Prakrit used in Jain literary and scholastic traditions. It belongs to the Middle Indo‑Aryan stage and is closely related to the broader Shauraseni Prakrit that served as a major dramatic language in northern India between roughly the 3rd and 10th centuries CE. Within Jainism, this variety developed its own stylistic and lexical profile, shaped by doctrinal vocabulary, narrative conventions, and the needs of monastic and lay instruction.\n\nFrom a linguistic standpoint, Jaina Shauraseni shares the core phonological and morphological features of Shauraseni Prakrit: simplification of Sanskrit consonant clusters, reduction of inflectional endings, and characteristic sound changes such as the treatment of long vowels and intervocalic consonants. At the same time, it incorporates a distinct Jain technical lexicon (for example, terms related to karma, guṇasthāna, vows, and cosmology) and shows influence from other Jain Prakrits, especially Ardhamāgadhī and Jaina Mahārāṣṭrī. This makes it an important witness to how Jain communities adapted regional vernaculars for scriptural exegesis, narrative literature, and philosophical discourse.\n\nIn terms of literary use, Jaina Shauraseni appears in narrative prose (such as extensive story‑collections), didactic works, and commentarial or semi‑commentarial texts. It is particularly prominent in the period from about the 6th to the 11th centuries CE, when Jain authors experimented with multiple Prakrit registers—Ardhamāgadhī for canonical authority, Jaina Mahārāṣṭrī for poetry and commentary, and Jaina Shauraseni for certain narrative and scholastic compositions. Catalogues of Jain literature often mark works from this period with language labels like \"JŚ.\" to distinguish them from texts in Jaina Mahārāṣṭrī (JM.), Sanskrit, or Apabhraṃśa.\n\nHistorically, Jaina Shauraseni occupies a middle position between the older canonical Prakrits and later Apabhraṃśa and regional New Indo‑Aryan languages. It preserves many features that are close to Classical Sanskrit, reflecting the fact that Shauraseni in general is derived from the Old Indo‑Aryan dialect of the Madhyadeśa on which Classical Sanskrit was largely based. At the same time, Jain authors used it in ways that anticipate later vernacular religious literature: narrative cycles, moral exempla, and doctrinal summaries accessible to a wider audience. As such, Jaina Shauraseni is a key link in understanding how Jain teachings moved from early canonical forms into medieval narrative and scholastic genres.\n\nFor the study of Jainism, Jaina Shauraseni is significant in several domains. Philologically, it helps scholars reconstruct the evolution of Jain technical terminology and the interaction between different Prakrit standards within the Jain community. Historically, texts in Jaina Shauraseni provide rich data on social life, religious practice, and intellectual debates in the centuries when Jainism was consolidating its scholastic traditions. From the perspective of comparative Indo‑Aryan linguistics, Jaina Shauraseni illustrates how a regional Prakrit could be adapted by a specific religious tradition, contributing both to the continuity of Shauraseni and to the emergence of later North Indian languages, including forms ancestral to Hindi and related dialects.\n\nModern scholarship treats Jaina Shauraseni as one component of a larger Jain linguistic ecology, alongside Jaina Mahārāṣṭrī, Ardhamāgadhī, Apabhraṃśa, and Sanskrit. Grammars of Prakrit and surveys of Jain literature now routinely identify which works are in Jaina Shauraseni, allowing more precise analysis of style, transmission, and doctrinal emphasis. For students of Jainism, familiarity with this variety deepens the understanding of how Jain authors chose language strategically—using different Prakrits and Sanskrit to signal genre, audience, and authority—while maintaining continuity with the broader Shauraseni tradition of northern India.",
+  "primary_sources": [
+    {
+      "title": "Vasudevahiṇḍi",
+      "author": "Saṃghadāsagaṇi and Dharmasenagaṇi (traditionally attributed)",
+      "original_text": "वसुदेवो णाम कु्मारो तं समये महुरायं वसइ।",
+      "transliteration": "vasudevo ṇāma kumāro taṃ samaye mahurāyaṃ vasai.",
+      "translation": "There was a prince named Vasudeva, who at that time dwelt in Mathurā.",
+      "notes": "The Vasudevahiṇḍi is a major Jain narrative prose work often classified as being in Jaina Shauraseni. It weaves extensive story‑cycles around the figure of Vasudeva, incorporating ethical instruction, cosmological motifs, and reflections on karma and rebirth. The sentence given here illustrates typical Jaina Shauraseni narrative prose: simplified verbal forms, characteristic Prakrit phonology, and the use of a northern toponym (Mathurā) associated with the Shauraseni region. The text is important for understanding how Jain authors used Jaina Shauraseni to present complex narrative material to both monastic and lay audiences."
+    },
+    {
+      "title": "Dvādaśāra‑naya‑cakra (Jaina Shauraseni portions)",
+      "author": "Mallavādi (Mallavādin), Digambara logician",
+      "original_text": "णयाणं बहुभेदत्तेण णयचक्कं इदं उवओहिअं।",
+      "transliteration": "ṇayāṇaṃ bahu‑bhedatteṇa ṇaya‑cakkaṃ idaṃ uvavohiyaṃ.",
+      "translation": "Because of the many divisions of standpoints, this wheel of standpoints has been expounded.",
+      "notes": "Mallavādi’s Dvādaśāra‑naya‑cakra is a foundational Jain work on logic and the doctrine of viewpoints (naya). While much of the scholastic tradition around it is in Sanskrit, portions and related materials are transmitted in Jaina Shauraseni, reflecting a pedagogical choice to explain complex logical structures in a Prakrit accessible to a broader audience. The line given here is representative of how technical terms like naya (standpoint) are embedded in Jaina Shauraseni syntax, combining doctrinal precision with the characteristic features of Shauraseni Prakrit."
+    },
+    {
+      "title": "Jaina Shauraseni narrative and didactic verses (anonymous collections)",
+      "author": "Anonymous Jain authors (various centuries)",
+      "original_text": "सज्जणो ण करइ पावं, पावं करइ दुज्जणो सदा।",
+      "transliteration": "sajjaṇo ṇ karai pāvaṃ, pāvaṃ karai dujjaṇo sadā.",
+      "translation": "The virtuous person does not commit sin; the wicked one commits sin continually.",
+      "notes": "Short didactic verses in Jaina Shauraseni circulate in narrative and moral collections, summarizing ethical teachings in a concise form. The couplet here shows typical Jaina Shauraseni morphology (karai for ‘does’, pāvaṃ for ‘sin’) and the use of binary ethical contrast (sajjaṇa vs. dujjaṇa) common in Jain didactic literature. Such verses, though often anonymous, are valuable primary sources for studying how Jain ethics were expressed in a Shauraseni‑based Prakrit accessible to everyday listeners and readers."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jaina Shauraseni is simply identical to general Shauraseni Prakrit and has no distinct Jain character.",
+      "reality": "While Jaina Shauraseni shares the core features of Shauraseni Prakrit, it develops a distinct profile through Jain technical vocabulary, preferred stylistic choices, and its integration into specifically Jain genres such as narrative prose, doctrinal summaries, and scholastic discussions. Modern catalogues and grammars therefore treat it as a recognizable Jain variety of Shauraseni rather than a completely generic form."
+    },
+    {
+      "myth": "Jaina Shauraseni was used only in theatrical drama, like other dramatic Prakrits, and has no role in serious Jain doctrinal or narrative texts.",
+      "reality": "Shauraseni Prakrit in general is famous as a dramatic language, but Jaina Shauraseni is also used in substantial narrative, didactic, and scholastic works. Texts such as the Vasudevahiṇḍi and logical or commentarial materials show that Jain authors employed this variety for serious doctrinal exposition and complex storytelling, not merely for stage dialogue."
+    },
+    {
+      "myth": "Jaina Shauraseni belongs exclusively to one Jain sect (either Digambara or Śvetāmbara) and cannot be found in the other tradition.",
+      "reality": "Both major Jain sects participate in the broader Shauraseni tradition, and Jaina Shauraseni materials appear across sectarian lines, especially in narrative and scholastic literature from the medieval period. Sectarian identity is marked more by doctrinal positions and canonical choices than by exclusive ownership of a particular Prakrit variety."
+    },
+    {
+      "myth": "Because Jaina Shauraseni is a medieval Prakrit, it is irrelevant for understanding modern Jain practice and thought.",
+      "reality": "Jaina Shauraseni texts preserve key stages in the development of Jain doctrine, ethics, and narrative forms. They show how concepts like karma, guṇasthāna, and vows were explained to broader audiences and how Jain communities adapted regional languages for religious communication. Studying these texts clarifies the historical roots of many ideas and practices that continue to shape contemporary Jain thought."
+    },
+    {
+      "myth": "Jaina Shauraseni is just another name for Ardhamāgadhī, the canonical language of early Jain scriptures.",
+      "reality": "Ardhamāgadhī and Jaina Shauraseni are related but distinct Middle Indo‑Aryan varieties. Ardhamāgadhī is primarily associated with early canonical texts, whereas Jaina Shauraseni is a later, regionally grounded Prakrit linked to the Shauraseni area and used in medieval Jain narrative and scholastic works. Conflating them obscures important chronological and regional differences in Jain linguistic history."
+    }
+  ]
+}

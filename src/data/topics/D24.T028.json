@@ -1,0 +1,35 @@
+{
+  "overview": "Modern memory refers to the interdisciplinary study of how individuals and societies encode, store, retrieve, and interpret information in contemporary contexts. It spans cognitive science, neuroscience, digital technology, cultural studies, and social theory. In cognitive science, modern memory is understood as a dynamic system involving working memory, long‑term memory, and procedural memory, each shaped by biological processes such as synaptic plasticity and neural network consolidation. Neuroscientific advances—especially functional MRI and electrophysiology—have revealed how memory formation involves coordinated activity across the hippocampus, prefrontal cortex, and distributed cortical regions.\n\nIn the digital era, modern memory also encompasses the externalization of human recollection into technological systems. Smartphones, cloud storage, search engines, and social media platforms act as extensions of human memory, altering how people remember and forget. Scholars describe this as a shift from internal biological memory to hybrid memory systems, where digital archives supplement or even replace personal recollection. This raises questions about authenticity, privacy, and the long‑term effects of outsourcing memory to machines.\n\nCulturally, modern memory includes collective remembrance—how societies construct narratives about the past through museums, memorials, education, and public discourse. Memory studies examine how historical events are preserved, contested, or reshaped over time. The field also explores trauma, nostalgia, identity formation, and the politics of remembering and forgetting. Modern memory is therefore not only a biological function but also a social and technological phenomenon shaped by contemporary life.",
+  "primary_sources": [
+    {
+      "title": "Nāyādhammakahāo (Jñātadharmakathāḥ)",
+      "author": "Traditionally attributed to the Śvetāmbara canon",
+      "original_text": "णयधम्मकहाओ",
+      "transliteration": "ṇayadhammakahāo",
+      "translation": "“Accounts of the conduct of those who have understood the teachings.”",
+      "notes": "Although not a modern text, early Jain narrative literature contains reflections on memory, recollection, and mindfulness (smṛti) as ethical and cognitive capacities. These passages are not about modern memory directly but provide historical context for how memory was conceptualized in classical Jain thought."
+    },
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "स्मृतिसम्प्रत्ययज्ञानम्",
+      "transliteration": "smṛti‑sampratyaya‑jñānam",
+      "translation": "“Memory and recognition are forms of knowledge.”",
+      "notes": "This aphorism (Tattvārthasūtra 1.13) identifies memory (smṛti) as a valid cognitive mode. While not modern, it provides a classical anchor for understanding how memory has been theorized in Jain epistemology."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Modern memory is primarily digital and biological memory is becoming obsolete.",
+      "reality": "Digital tools supplement but do not replace biological memory. Cognitive processes such as encoding and retrieval remain essential, and reliance on digital devices can both support and hinder natural memory depending on context."
+    },
+    {
+      "myth": "Human memory works like a computer, storing exact copies of experiences.",
+      "reality": "Human memory is reconstructive. People rebuild memories each time they recall them, influenced by context, emotion, and interpretation. This makes memory flexible but also prone to distortion."
+    },
+    {
+      "myth": "Collective memory is simply the sum of individual memories.",
+      "reality": "Collective memory is shaped by institutions, narratives, and cultural frameworks. It is constructed through education, media, rituals, and public discourse, not merely aggregated personal recollections."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "overview": "Indic OCR (Optical Character Recognition for Indic scripts) refers to the set of algorithms, tools, and workflows designed to automatically convert text written in Indian scripts—such as Devanagari, Bengali, Tamil, Telugu, Gujarati, Gurmukhi, Kannada, Malayalam, Odia, Urdu, and others—into machine-readable form. Unlike OCR for Latin script, Indic OCR must handle a wide variety of scripts, each with its own orthographic rules, complex ligatures, conjuncts, vowel signs (matras), and script-specific rendering behaviors. These systems are used for digitizing printed books, newspapers, government records, archival material, and increasingly, historical manuscripts in Sanskrit, Prakrit, Pali, and modern Indian languages.\n\nTechnically, Indic OCR combines several stages: image acquisition, preprocessing (deskewing, denoising, binarization, layout analysis), script and language identification, text-line and word segmentation, character or sequence recognition, and post-processing with language models and dictionaries. Early systems relied on character-level segmentation and handcrafted features (such as zoning, stroke analysis, and structural descriptors) fed into classical classifiers like k-NN, SVMs, or HMMs. Modern approaches increasingly use deep learning architectures—Convolutional Recurrent Neural Networks (CRNNs), Transformer-based encoders, and Connectionist Temporal Classification (CTC) loss—to recognize entire word or line images without explicit character segmentation. This sequence-based modeling is particularly important for Indic scripts, where conjuncts and ligatures make reliable character segmentation difficult.\n\nThe challenges of Indic OCR arise from script complexity, font and printing variability, and multilingual document environments. Scripts like Devanagari have base consonants, dependent vowel signs, and numerous conjunct forms; Tamil and Telugu have large composite character sets; Urdu uses a cursive Nastaliq style with context-dependent shaping. Documents may mix multiple languages and scripts on the same page (for example, Hindi and English, or Tamil and English), requiring robust script detection and model switching. Historical documents introduce additional difficulties: degraded paper, uneven ink, non-standard orthography, and older typefaces or handwritten forms. For Jain, Buddhist, and Hindu textual traditions, this means that OCR must often be adapted to recognize older forms of Devanagari, Bengali, or regional scripts used in manuscripts and early prints.\n\nRecent research has focused on building large, publicly available datasets and deployable models for Indic OCR. Projects such as Mozhi provide millions of annotated word images across multiple Indian languages and scripts, enabling training of neural OCR models that generalize across fonts and layouts. Pipelines like IndicOCR demonstrate end-to-end systems for recognizing printed documents in over twenty Indian languages, integrating script detection, recognition, and Unicode output. Commercial and open-source engines (including Tesseract-based models, Kraken, and custom APIs) now offer support for many Indic scripts, though accuracy still varies significantly by script, font, and document quality. Benchmarks show that specialized Indic OCR models often outperform generic OCR engines on Indian-language documents, especially for complex scripts and noisy scans.\n\nBeyond technical recognition, Indic OCR has major cultural and scholarly implications. It enables large-scale digitization of government records, legal documents, educational materials, and newspapers, improving accessibility and searchability. For classical and religious literature—including Jain Agamas, commentaries, and regional Jain texts—Indic OCR can accelerate the creation of searchable corpora, support linguistic and philological research, and assist in preservation efforts. However, for fragile manuscripts and rare prints, OCR outputs must be treated as provisional: they require human verification, careful comparison with authoritative editions, and awareness of orthographic and editorial conventions. In Jain studies, this means that OCR is a tool for discovery and initial transcription, not a substitute for trained scholars, editors, or lineage-based authorities.\n\nFuture directions in Indic OCR include better handling of handwritten documents, improved layout analysis for complex page designs, integration of script-aware language models, and closer collaboration with libraries, archives, and religious institutions. There is also growing interest in domain-specific OCR models trained on particular genres—such as Sanskrit philosophical texts, Prakrit canonical literature, or regional devotional works—so that recognition can be tuned to typical vocabulary and orthography. As these technologies mature, they will play an increasingly important role in bridging the gap between physical Indic textual heritage and digital research environments, while still requiring careful human oversight, especially in religious and legal contexts.",
+  "primary_sources": [
+    {
+      "title": "Towards Deployable OCR Models for Indic Languages",
+      "author": "Minesh Mathew, Ajoy Mondal, C. V. Jawahar",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This research article introduces Mozhi, a large public dataset of printed word images across thirteen Indian languages, and evaluates several neural network architectures using Connectionist Temporal Classification (CTC) for Indic OCR. It demonstrates that specialized models trained on this dataset outperform general-purpose OCR engines on most supported languages, and provides APIs and tools for practical deployment.",
+      "notes": "Peer-reviewed computer vision research focusing on printed Indic text recognition. It is a modern technical source (corpus tier C) rather than a classical Sanskrit or Prakrit text, but it is foundational for contemporary Indic OCR practice."
+    },
+    {
+      "title": "IndicOCR: A Pipeline for Recognizing Printed Documents for Indian Languages",
+      "author": "Krishna Tulsyan, Tessy Flemin, Ajoy Mondal, C. V. Jawahar",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This conference paper presents IndicOCR, an end-to-end pipeline designed to recognize printed documents in twenty-two Indian languages. It describes the system architecture, script coverage, and practical considerations for deploying OCR in a linguistically diverse environment, emphasizing inclusivity and preservation of India’s textual heritage.",
+      "notes": "Technical demonstration paper from a data science and database conference (corpus tier C). It is a key reference for understanding multi-language Indic OCR pipelines and their application to large-scale document digitization."
+    },
+    {
+      "title": "Offline Recognition of Handwritten Indic Scripts: A State-of-the-Art Survey and Future Perspectives",
+      "author": "Various (Computer Science Review survey article)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This survey reviews methods for offline recognition of handwritten Indic scripts, covering feature-based approaches, neural architectures, datasets, and open challenges. It situates handwritten Indic OCR within the broader field of document analysis and highlights the difficulties posed by script complexity and writing variability.",
+      "notes": "Comprehensive survey article (corpus tier C) that complements printed-text OCR research by focusing on handwritten Indic scripts, which are crucial for manuscript and archival digitization."
+    },
+    {
+      "title": "Devanagari Character Recognition: A Comprehensive Literature Review",
+      "author": "Various (IEEE literature review)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "This literature review traces the development of Devanagari character recognition, from early feature-based methods to modern machine learning and deep learning approaches. It discusses the historical origins of Devanagari from Brahmi and analyzes how script structure influences OCR design.",
+      "notes": "Technical review article (corpus tier C) focused on Devanagari, one of the most important Indic scripts for Sanskrit, Hindi, Marathi, and many religious and philosophical texts, including Jain and other Indic traditions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Indic OCR is just a simple extension of Latin-script OCR and can be solved with the same models and settings.",
+      "reality": "Indic OCR requires specialized handling of complex scripts with conjuncts, ligatures, matras, and context-dependent shaping. Generic Latin-focused OCR engines often perform poorly on Indic documents unless they are retrained or heavily customized with script-aware models and language resources."
+    },
+    {
+      "myth": "Once a document is processed with Indic OCR, the resulting text can be treated as fully accurate and authoritative, even for religious or legal materials.",
+      "reality": "Indic OCR outputs are approximations that may contain recognition errors, especially in degraded scans, unusual fonts, or historical documents. For religious, legal, or scholarly use—such as Jain canonical texts or court records—OCR results must be checked against reliable editions or original documents by qualified experts before being treated as authoritative."
+    },
+    {
+      "myth": "Indic OCR works equally well across all Indian languages and scripts because they share a common cultural origin.",
+      "reality": "Accuracy varies significantly by script, language, font, and document type. Scripts like Devanagari, Tamil, and Bengali may have strong model support, while others with fewer training resources or more complex rendering (such as Urdu in Nastaliq style) can be much harder to recognize. Performance must be evaluated per script and use case."
+    },
+    {
+      "myth": "Indic OCR can fully replace manual transcription for historical manuscripts and rare printed editions.",
+      "reality": "For fragile manuscripts, non-standard orthography, and rare typefaces, OCR is best used as an assistive tool to generate draft transcriptions. Human experts are still needed to correct errors, interpret ambiguous readings, and align the text with established critical editions and traditional commentaries."
+    },
+    {
+      "myth": "Digitizing Indic texts with OCR automatically preserves them without further work.",
+      "reality": "OCR is only one step in preservation. Long-term safeguarding of Indic textual heritage also requires metadata curation, version control, quality assurance, storage and backup strategies, and, in religious contexts, collaboration with custodial communities and lineages to ensure that digital representations respect traditional understandings and practices."
+    }
+  ]
+}

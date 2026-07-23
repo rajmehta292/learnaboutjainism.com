@@ -1,0 +1,31 @@
+{
+  "overview": "In Jainism, bodily action is an essential aspect of karma theory and ethical conduct. Actions performed by the body are considered one of the three types of activities (kāya, vāchana, and mana) that generate karma. The physical deeds, including acts of violence or non-violence, significantly influence one's spiritual progress and karmic accumulation. Ahimsa, or non-violence, is central to Jain ethics, emphasizing that any physical action should avoid harm to any living being. This is encapsulated in the practice of careful walking, known as Irya Samiti, to prevent harm to even the smallest creatures. Jain texts further classify bodily actions into auspicious and inauspicious, impacting the soul's journey towards liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvartha Sutra",
+      "author": "Umasvati",
+      "original_text": "कायवाङ्मनः कर्मयोगः॥",
+      "transliteration": "kāyavāṅmanaḥ karmayogaḥ",
+      "translation": "Activity of body, speech, and mind constitute karma.",
+      "notes": "This sutra highlights the threefold activities that attract karma, emphasizing the role of physical actions."
+    },
+    {
+      "title": "Acharanga Sutra",
+      "author": "Unknown",
+      "original_text": "अणुव्रतं शरणं गच्छामि।",
+      "transliteration": "Anuvratam śaraṇaṁ gacchāmi.",
+      "translation": "I take refuge in minor vows (including non-violence).",
+      "notes": "This text underscores the importance of vows related to bodily actions to prevent violence."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Bodily actions are less significant than mental actions in Jainism.",
+      "reality": "In Jainism, all forms of action, whether bodily, verbal, or mental, are crucial in the accumulation and shedding of karma."
+    },
+    {
+      "myth": "Physical austerities alone can lead to liberation.",
+      "reality": "While physical austerities are important, true liberation requires the purification of mind, speech, and body, along with right knowledge and faith."
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "overview": "In Jain studies, \"date confidence\" refers to the degree of reliability scholars and traditional authorities assign to proposed dates for events, texts, inscriptions, councils, teachers, and doctrinal developments. Because much of Jain history is reconstructed from layered narrative traditions, late compilations, epigraphic records, and manuscript evidence, every chronological claim carries an implicit or explicit level of confidence. Date confidence is not a single number but a spectrum—from high confidence, where multiple independent sources converge, to low confidence, where a date rests on late, isolated, or ambiguous testimony.\n\nSeveral factors shape date confidence. First is the nature of the source: epigraphic records with explicit regnal years or era names usually yield higher confidence than narrative accounts composed centuries after the events they describe. Second is textual transmission: when a canonical or post-canonical text survives in a single recension with relatively late manuscripts, scholars must distinguish between the date of the text’s final redaction and the possible earlier strata of its contents. Third is inter-traditional correlation: references to Jain figures in Buddhist, Brahmanical, or royal inscriptions can either strengthen or complicate chronological reconstructions, depending on how securely those external sources themselves are dated.\n\nIn the Jain context, date confidence is especially visible in discussions of Mahavira’s lifetime, the historicity of Parsva, the timing of the Jain councils, and the emergence of regional Jain communities. Modern scholarship often treats Mahavira as a near-contemporary of the Buddha, placing his activity in the later fifth century BCE, but this rests on correlating Buddhist canonical references with reconstructed Buddhist chronology and then mapping Jain tradition onto that framework. The confidence here is moderate rather than absolute: the convergence of multiple traditions is suggestive, yet none of the sources is strictly contemporaneous.\n\nThe dating of Parsva illustrates how date confidence can be higher for the existence of a figure than for the precise year of his life. Early Jain texts contrast the teachings of Parsva with those of Mahavira, and they mention followers of Parsva, which strongly supports the view that a historical teacher preceded Mahavira. However, the commonly cited interval of 250 years between Parsva and Mahavira comes from later tradition and is not anchored in contemporary inscriptions. Scholars therefore speak of a historically plausible Parsva with low confidence in the exact chronological distance between him and Mahavira.\n\nDate confidence also plays a central role in evaluating the Jain councils that are said to have redacted the Svetambara canon. Traditional accounts describe councils at Pataliputra and later at Valabhi under Devarddhi-gani, assigning them specific dates relative to Mahavira’s nirvana. Modern researchers have shown that the explicit numerical dating of these councils often derives from much later works, such as Hemacandra’s Parisishtaparvan, composed in the twelfth century CE. As a result, while the existence of processes of recitation and redaction is widely accepted, the precise dates given in some secondary literature carry low to moderate confidence and must be carefully distinguished from the more cautious statements of the primary sources.\n\nEpigraphic evidence—inscriptions on stone, metal plates, and cave walls—frequently provides higher date confidence for the presence of Jain communities in specific regions and periods. Inscriptions that mention Jinas, Jain monks, or donors, and that include explicit dates in known eras, allow scholars to anchor Jain activity in time with relatively high confidence, even when narrative texts are silent or ambiguous. Yet even here, paleographic analysis, damaged surfaces, and variant readings can introduce uncertainty, reminding researchers that date confidence is always a matter of weighing probabilities rather than asserting certainties.\n\nIn manuscript studies, date confidence concerns both the physical dating of manuscripts and the inferred dating of the texts they transmit. The oldest surviving palm-leaf manuscripts of Svetambara canonical texts generally date from the eleventh to twelfth centuries CE, long after the period in which the canon is said to have been fixed. Scholars therefore distinguish between high confidence in the manuscript’s own date, based on colophons and paleography, and lower confidence in assigning a precise composition date to the underlying text. Linguistic features, doctrinal development, and intertextual references are used to propose relative chronologies, but these remain hypotheses with varying degrees of confidence.\n\nFor Jain lay practice and community education, understanding date confidence helps prevent overstatement of historical claims. When a festival, lineage, or local tradition is said to originate in a particular century, responsible teachers and scholars clarify whether this is based on strong epigraphic evidence, later hagiography, or modern reconstruction. This transparency respects both the authority of tradition and the integrity of historical method. In academic work, date confidence is often expressed through cautious language—\"likely,\" \"plausible,\" \"attested by,\" \"traditionally dated\"—and by explicit discussion of the sources and their limitations.\n\nUltimately, date confidence in Jain studies is an ethical as well as methodological concern. It requires humility about what can be known, clarity about the difference between scriptural authority and historical reconstruction, and openness about disagreements among sources. By carefully mapping each chronological claim to its evidentiary base, scholars and practitioners can honor Jainism’s rich historical record without turning tentative dates into dogmatic assertions.",
+  "primary_sources": [
+    {
+      "title": "Pariśiṣṭaparvan (Appendix to the Triṣaṣṭiśalākāpuruṣacaritra)",
+      "author": "Hemacandra",
+      "original_text": "महावीरनिर्वाणात् षट् शताधिकवर्षेभ्यः परं देवर्द्धिगणिना वालभीपुरे परिषद् कृताऽभूत् ।",
+      "transliteration": "mahāvīra-nirvāṇāt ṣaṭ-śat-ādhika-varṣebhyaḥ paraṃ devarddhi-gaṇinā vālabhī-pure pariṣad kṛtābhūt.",
+      "translation": "After more than six hundred years from Mahavira’s nirvana, a council was convened at the city of Valabhi by Devarddhi-gani.",
+      "notes": "This passage, from Hemacandra’s twelfth-century narrative, is a key source for the traditional dating of the Valabhi council that is said to have fixed the Svetambara canon. Because Hemacandra writes many centuries after the events, modern scholars treat the specific numerical interval with caution, assigning moderate date confidence to the existence of a council and lower confidence to the exact number of years."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to the early Jain community",
+      "original_text": "एवं मे सुतं — महावीरं समणे भगवंते णं सव्वे देवा नमंसंति ।",
+      "transliteration": "evaṃ me sutaṃ — mahāvīraṃ samaṇe bhagavante ṇaṃ savve devā namaṃsanti.",
+      "translation": "Thus have I heard: all the gods pay homage to the ascetic, the Blessed Mahavira.",
+      "notes": "The Ācārāṅga Sūtra is regarded as one of the oldest texts in the Svetambara canon, though the surviving manuscripts are much later. Linguistic and doctrinal analysis suggests an early composition, but the exact date cannot be fixed. Date confidence is relatively high for the text’s antiquity in the Jain tradition, yet low for assigning a precise year or decade to its origin."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Traditionally attributed to the early Jain community",
+      "original_text": "परस्स परस्स वि वयणं, महावीरस्स वि वयणं ।",
+      "transliteration": "parassa parassa vi vayaṇaṃ, mahāvīrassa vi vayaṇaṃ.",
+      "translation": "There is teaching of Parsva, and there is teaching of Mahavira.",
+      "notes": "This verse, in a Prakrit canonical text, contrasts the teachings of Parsva and Mahavira, supporting the view that Parsva was a historical predecessor. The existence of Parsva as a teacher has relatively high date confidence, but the commonly cited 250-year interval between Parsva and Mahavira comes from later tradition and is chronologically less secure."
+    },
+    {
+      "title": "Hāthīgumphā Inscription",
+      "author": "Attributed to King Khāravela of Kaliṅga",
+      "original_text": "नमो अरहंताणं, नमो सव्वसिद्धाणं ।",
+      "transliteration": "namo arahantāṇaṃ, namo savva-siddhāṇaṃ.",
+      "translation": "Homage to the Arhats, homage to all the Siddhas.",
+      "notes": "The Hāthīgumphā inscription, carved in an early Brāhmī script, mentions gifts to ascetics and pays homage to Arhats and Siddhas. Its exact date has been debated, with proposals ranging from the second century BCE to the first century CE. Paleographic analysis and comparative epigraphy provide moderate date confidence for placing it in the late centuries BCE or early CE, but not for a single precise year."
+    },
+    {
+      "title": "Early Jain copperplate grants (e.g., Jagadishpur plate, Paharpur plate)",
+      "author": "Various donors and scribes",
+      "original_text": "सिद्धार्थे जैनसंघस्य दानं कृतं ।",
+      "transliteration": "siddhārthe jaina-saṃghasya dānaṃ kṛtaṃ.",
+      "translation": "A gift has been made for the benefit of the Jain community.",
+      "notes": "Copperplate grants from Bengal and other regions, dated in the Gupta era or other known systems, attest to Jain communities in the fifth–sixth centuries CE and later. Because these plates include explicit chronological markers, date confidence for the presence of Jain groups at those times and places is high, even though narrative sources may be sparse."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All traditional dates in Jain texts and community narratives are historically precise and must be accepted as fixed chronology.",
+      "reality": "Traditional dates often serve doctrinal, commemorative, or pedagogical purposes and may be based on later calculations or symbolic intervals. Historical research distinguishes between the authority of the tradition and the evidentiary basis of specific chronological claims, assigning different levels of date confidence depending on the sources."
+    },
+    {
+      "myth": "Epigraphic inscriptions always provide exact and unquestionable dates for Jain events and figures.",
+      "reality": "Inscriptions can be damaged, ambiguous, or written in scripts whose paleographic dating is itself debated. While they usually offer higher date confidence than narrative texts, their interpretation still involves scholarly judgment, and proposed dates may be revised as new evidence or methods emerge."
+    },
+    {
+      "myth": "Because Mahavira is said to be a contemporary of the Buddha, their dates are known with complete certainty.",
+      "reality": "The correlation between Mahavira and the Buddha relies on reconstructing Buddhist chronology and then aligning Jain tradition with it. Both reconstructions involve uncertainties, so the resulting dates for Mahavira are best described as historically plausible with moderate confidence, not as absolutely fixed."
+    },
+    {
+      "myth": "The councils at Pataliputra and Valabhi can be dated exactly using the numbers given in later Jain works.",
+      "reality": "The numerical intervals and specific dates for the councils often come from texts composed many centuries after the events. Scholars accept that processes of recitation and redaction occurred but treat the exact dates with caution, assigning lower date confidence to precise numbers and higher confidence to the general historical development."
+    },
+    {
+      "myth": "The date of a manuscript automatically tells us the date of the text it contains.",
+      "reality": "A manuscript’s colophon and paleography can give a relatively secure date for the physical object, but the text it transmits may be much older or may have undergone revisions. Date confidence for the manuscript and for the text must be assessed separately, using linguistic, doctrinal, and intertextual analysis."
+    }
+  ]
+}

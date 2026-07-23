@@ -1,0 +1,55 @@
+{
+  "overview": "Algorithmic harm refers to the suffering, injustice, or degradation of living beings that arises from the design, deployment, and use of computational systems—such as machine-learning models, automated decision-making tools, and digital platforms. From a Jain perspective, this is not merely a technical or legal issue but a deeply ethical one, because harm (hiṃsā) can occur even when there is no physical contact, and even when the agents involved are dispersed across organizations, code repositories, and data centers.\n\nIn contemporary settings, algorithms influence credit scoring, hiring, policing, healthcare triage, content recommendation, and political communication. When these systems encode bias, amplify hatred, misinform users, or silently exclude vulnerable groups, they participate in forms of hiṃsā that may be subtle yet far-reaching. Jain ethics emphasizes apramatta-yoga (non-careless conduct) and samiti (carefulness in action); an engineer or policymaker who deploys an opaque, untested, or poorly governed algorithm in high-stakes contexts risks engaging in carelessness that can lead to large-scale, indirect harm. The karmic perspective intensifies this concern: intentional or negligent participation in structures that harm others can bind karma, even if the harm is mediated through machines.\n\nAlgorithmic harm can be understood through the Jain distinction between dravya-hiṃsā (material harm) and bhāva-hiṃsā (mental or intentional harm). A discriminatory algorithm may not physically injure a person, yet it can cause psychological suffering, social exclusion, and economic deprivation. If designers or operators know about these effects and continue for profit, convenience, or prestige, their inner dispositions—attachment (rāga), aversion (dveṣa), and negligence (pramāda)—constitute bhāva-hiṃsā. Even when ignorance is involved, Jain thought treats willful ignorance and failure to investigate foreseeable harm as ethically serious.\n\nJainism also stresses anekāntavāda (the doctrine of many-sidedness) and syādvāda (conditional predication). Algorithmic harm often arises when complex human realities are reduced to narrow categories or single metrics—\"risk scores\", \"engagement\", \"creditworthiness\"—without acknowledging multiple standpoints. Over-simplification can erase nuance and produce unjust outcomes, especially for marginalized communities. A Jain-informed approach to algorithms would therefore encourage multi-perspectival design: consulting diverse stakeholders, examining edge cases, and recognizing that no single dataset or model can exhaust reality.\n\nAnother dimension is scale and invisibility. Digital systems can affect millions of beings almost instantaneously, while the causal chain remains hidden behind interfaces and corporate structures. Jain texts repeatedly warn against subtle forms of harm, including harm to one-sensed beings (like plants and microorganisms) and harm that occurs indirectly through economic or social systems. In the algorithmic context, this translates into a duty to trace consequences: to audit models, monitor impacts, and avoid complacency about \"neutral\" technology. Non-violence (ahiṃsā) becomes a design principle: minimizing harm, reducing addictive patterns, avoiding manipulative dark patterns, and resisting architectures that thrive on anger, fear, or greed.\n\nFinally, algorithmic harm raises questions about responsibility and collective practice. Jain lay ethics (śrāvakācāra) recognizes that householders live within complex networks of commerce and technology, yet still calls for restraint (saṃyama), right livelihood, and conscious consumption. Applying this to digital life, users, developers, managers, and regulators share responsibility for ensuring that algorithms do not become instruments of exploitation or cruelty. While Jainism does not provide ready-made technical blueprints, its emphasis on ahiṃsā, anekāntavāda, aparigraha (non-possessiveness), and carefulness offers a framework for evaluating and transforming algorithmic systems so that they align more closely with compassion, fairness, and spiritual integrity.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra (also called Tattvārthādhigamasūtra)",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "प्रमादाद् योगः हिंसा",
+      "transliteration": "pramādād yogaḥ hiṃsā",
+      "translation": "Careless activity is violence.",
+      "notes": "This aphorism is often cited to show that violence (hiṃsā) is not limited to overt physical acts. Any activity undertaken with carelessness (pramāda) can become a vehicle of harm. In the context of algorithmic systems, deploying or maintaining models without due diligence, testing, or concern for affected beings can be seen as a modern form of such careless activity."
+    },
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "अहिंसा संजमः",
+      "transliteration": "ahiṃsā saṃjamaḥ",
+      "translation": "Non-violence is restraint.",
+      "notes": "This sutra links ahiṃsā (non-violence) with saṃyama (restraint or self-control). Algorithmic harm often arises from unrestrained pursuit of profit, scale, or engagement. A Jain reading would emphasize restraint in data collection, model deployment, and feature design, prioritizing reduction of harm over expansion of control or possession."
+    },
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "अनेकान्तवादात् स्याद्वादः",
+      "transliteration": "anekāntavādāt syādvādaḥ",
+      "translation": "From the doctrine of many-sidedness arises conditional predication.",
+      "notes": "While this formulation summarizes a broader philosophical stance rather than a single canonical sutra line, the connection between anekāntavāda and syādvāda is central in Jain thought. For algorithmic design, it suggests that reality must be approached from multiple standpoints, and that any categorical judgment produced by a model is only conditionally true. This cautions against rigid classifications and encourages inclusive, multi-perspectival evaluation of algorithmic outputs."
+    },
+    {
+      "title": "Ācārāṅgasūtra",
+      "author": "Traditionally attributed to Mahāvīra’s teachings, compiled by early Jain community",
+      "original_text": "सव्वे पाणाः सुखकामा दुःखपडिकूला",
+      "transliteration": "savve pāṇā sukhakāmā duḥkhapaḍikūlā",
+      "translation": "All living beings desire happiness and are averse to suffering.",
+      "notes": "This passage underscores the universal desire to avoid suffering. Algorithmic harm—whether through biased decisions, manipulative interfaces, or exploitative data practices—ignores this basic truth. A Jain-informed approach to technology would treat the reduction of suffering for all affected beings as a core design and governance objective."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Algorithmic harm is purely a technical bug and has no ethical or spiritual significance.",
+      "reality": "From a Jain perspective, harm mediated by algorithms is ethically serious because it can involve both material and mental forms of hiṃsā. When designers, operators, or institutions knowingly allow systems to cause suffering, exclusion, or exploitation, they participate in carelessness (pramāda) and bind karma, even if the harm is indirect and digitally mediated."
+    },
+    {
+      "myth": "If an algorithm is labeled ‘neutral’ or ‘objective’, it cannot be harmful.",
+      "reality": "Algorithms are built on human choices about data, objectives, and constraints. These choices reflect particular standpoints and can encode bias or partiality. Jain anekāntavāda warns against assuming any single perspective or metric captures the whole truth. A ‘neutral’ label does not remove the duty to examine impacts, listen to diverse voices, and correct injustices."
+    },
+    {
+      "myth": "Using harmful digital platforms or tools is ethically irrelevant for lay Jains as long as they personally avoid physical violence.",
+      "reality": "Jain lay ethics (śrāvakācāra) recognizes responsibility within complex social and economic systems. Supporting or benefiting from platforms that systematically spread hatred, misinformation, or exploitation can be a form of indirect hiṃsā. Conscious digital consumption, preference for less harmful tools, and advocacy for ethical governance are consistent with ahiṃsā and aparigraha."
+    },
+    {
+      "myth": "Algorithmic harm only matters when it affects humans; non-human life is outside the scope of digital ethics.",
+      "reality": "Jainism extends moral concern to all living beings, including one-sensed organisms and ecosystems. While many algorithmic systems primarily affect humans, their indirect consequences—such as resource extraction for data centers, energy consumption, and environmental impact—can harm non-human life. Evaluating algorithmic harm therefore includes ecological and inter-species dimensions, not just human convenience."
+    }
+  ]
+}

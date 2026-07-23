@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain philosophical vocabulary, **satta** (Sanskrit: सत्ता; Prakrit: सत्त) refers to *existence*, *being*, or the *state of having ontological reality*. It is a foundational term used across Śvetāmbara and Digambara traditions to describe the intrinsic mode of existence possessed by substances (dravya) and their qualities (guṇa). In classical Jain ontology, satta is not merely an abstract notion of existence but a technical marker indicating that something possesses its own *svabhāva* (intrinsic nature) and persists through change.\n\nJain metaphysics distinguishes between the **eternal substance** (dravya) and its **ever-changing modes** (paryāya). Satta is attributed primarily to the substance level: a dravya is said to have satta because it continues to exist across infinite transformations. This aligns with the Jain doctrine of *satkāryavāda*—the view that effects pre-exist in their causes—and the broader commitment to realism. Satta thus becomes a key term in explaining how the universe is beginningless, eternal, and composed of real entities that neither emerge from non-existence nor dissolve into non-existence.\n\nIn epistemology, satta is also used to clarify the difference between *real* and *conceptual* entities. A real entity (vastu) has satta because it possesses *astitva* (existence), *vastutva* (thingness), and *dravyatva* (substantiality). Conceptual constructs, linguistic categories, or mental fictions lack satta because they do not have independent ontological standing. This distinction is crucial in Jain logic (nyāya) and the doctrine of multiple viewpoints (anekāntavāda), where satta helps determine which aspects of a statement refer to real entities and which are merely conceptual.\n\nAcross commentarial traditions, satta is often paired with terms such as *bhāva* (state), *svabhāva* (intrinsic nature), and *astitva* (existence). While the nuances differ slightly between Digambara and Śvetāmbara scholastic works, the core meaning remains stable: satta is the ontological reality of substances that endure through infinite temporal cycles, making Jain metaphysics a robust realist system.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (shared across traditions)",
+      "original_text": "सत्तानित्यत्वम्",
+      "transliteration": "sattā-nityatvam",
+      "translation": "“Existence is eternal.”",
+      "notes": "This phrase appears in commentarial discussions on Tattvārtha Sūtra 5.29–5.30, where the permanence of substances is explained. The sutra itself does not use the word ‘sattā’ directly, but authoritative commentaries (Tier B) employ the term to clarify the eternal nature of dravya."
+    },
+    {
+      "title": "Pañcāstikāya",
+      "author": "Kundakunda (Digambara)",
+      "original_text": "सत्तं दव्वं भणन्ति",
+      "transliteration": "sattaṃ davvaṃ bhaṇanti",
+      "translation": "“They call that which exists a substance.”",
+      "notes": "Kundakunda uses satta to define dravya as that which possesses real existence. This is a Tier A Prakrit source, though manuscripts vary slightly in wording."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Kundakunda (Digambara)",
+      "original_text": "सत्तस्स भावो णिव्वाणो",
+      "transliteration": "sattassa bhāvo ṇivvāṇo",
+      "translation": "“The state of true existence is liberation.”",
+      "notes": "Here satta is used in a more soteriological sense, indicating the pure, real nature of the soul when freed from karmic obscurations. Interpretation varies among commentators."
+    },
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (Śvetāmbara)",
+      "original_text": "सत्तस्स ठाणं अत्तं",
+      "transliteration": "sattassa ṭhāṇaṃ attaṃ",
+      "translation": "“The locus of existence is the self.”",
+      "notes": "This early Śvetāmbara text uses satta to describe the ontological grounding of the jīva. The precise meaning depends on the interpretive tradition."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Satta simply means ‘existence’ in a generic philosophical sense.",
+      "reality": "In Jainism, satta is a technical term tied to the realism of dravya and the doctrine of eternal substances. It is not merely a general notion of existence but a marker of ontological permanence."
+    },
+    {
+      "myth": "Satta refers only to the soul (jīva).",
+      "reality": "While satta is often used in discussions of the soul’s intrinsic nature, it applies equally to all six substances in Jain ontology, including matter, dharma-dravya, adharma-dravya, space, and time."
+    },
+    {
+      "myth": "Satta implies static or unchanging existence.",
+      "reality": "Jain philosophy distinguishes between the permanence of substance (dravya) and the constant change of modes (paryāya). Satta refers to the enduring reality of the substance, not to the absence of change."
+    }
+  ]
+}

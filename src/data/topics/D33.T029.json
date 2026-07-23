@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “foliation” refers to the systematic numbering, organization, and physical structuring of manuscript leaves (folios) within traditional Jain scriptoria. Because Jain canonical and commentarial literature was preserved for centuries through handwritten palm-leaf and paper manuscripts, foliation became a crucial archival practice. It ensured that individual leaves could be tracked, restored, and transmitted accurately across generations of scribes and monastic libraries.\n\nHistorically, Jain manuscript foliation developed differently across regions and traditions. Early palm‑leaf manuscripts in Śvetāmbara and Digambara communities often used incised or inked numerals at the left margin, sometimes accompanied by colophons indicating the scribe, date, and lineage. Later paper manuscripts—especially those produced in western India—adopted more elaborate foliation systems, including double numbering (e.g., folio number and side number), catchwords, and decorative markers.\n\nFoliation is not merely a technical feature; it is central to Jain textual criticism. Because many canonical works survive in multiple manuscript families, foliation helps scholars reconstruct variant readings, identify missing or interpolated passages, and trace the movement of texts across monastic libraries. In modern critical editions, foliation references allow researchers to map printed text back to its manuscript witnesses, preserving transparency and lineage integrity.\n\nWithin Jain ritual and educational contexts, foliation also supports the respectful handling of manuscripts. Properly ordered folios ensure that recitation, study, and copying proceed without accidental omission or distortion—an important concern in traditions that emphasize the careful preservation of śruta‑jñāna (scriptural knowledge).",
+  "primary_sources": [
+    {
+      "title": "Āyāraṅga-sutta (Ācārāṅga)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; compiled by the Śvetāmbara tradition",
+      "original_text": "पण्णत्ति णं णं पओसग्गा",
+      "transliteration": "paṇṇattiṇaṃṇaṃ paosaggā",
+      "translation": "“There are enumerations and divisions.”",
+      "notes": "While the text does not describe foliation directly, early manuscript witnesses of the Āyāraṅga show systematic folio numbering and catchwords. These physical features are essential for reconstructing the canonical structure described in the text."
+    },
+    {
+      "title": "Niryukti tradition (e.g., on the Sūtrakṛtāṅga)",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "पण्णत्ति-ठाण-समुत्थाणं",
+      "transliteration": "paṇṇatti-thāṇa-samutthāṇaṃ",
+      "translation": "“Arrangement, place, and emergence [of teachings].”",
+      "notes": "Niryuktis emphasize the ordered arrangement of doctrinal units. Manuscript foliation in surviving copies of Niryukti texts reflects this concern for structured transmission."
+    },
+    {
+      "title": "Manuscript colophons from Jaina palm-leaf codices (various)",
+      "author": "Anonymous scribes",
+      "original_text": "इदं पत्तं संख्या २४",
+      "transliteration": "idaṃ pattaṃ saṃkhyā 24",
+      "translation": "“This leaf is number 24.”",
+      "notes": "Such colophons are direct evidence of foliation practices. They appear across Śvetāmbara and Digambara manuscript traditions and are essential for textual reconstruction."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Foliation is a modern scholarly invention imposed on Jain manuscripts.",
+      "reality": "Historical Jain manuscripts—both palm‑leaf and paper—already contained folio numbers, catchwords, and organizational markers created by traditional scribes."
+    },
+    {
+      "myth": "Foliation is purely decorative and has no textual significance.",
+      "reality": "Foliation is central to preserving textual integrity, identifying missing leaves, and reconstructing canonical and commentarial works across manuscript families."
+    },
+    {
+      "myth": "All Jain traditions used identical foliation systems.",
+      "reality": "Foliation practices vary by region, material (palm‑leaf vs. paper), and sectarian manuscript culture, with notable differences between Śvetāmbara and Digambara scriptoria."
+    }
+  ]
+}

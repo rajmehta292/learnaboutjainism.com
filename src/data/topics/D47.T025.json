@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, sculpture occupies a central place in the visual, ritual, and historical landscape of the community. Across Digambara and Śvetāmbara lineages, sculptural forms serve not as objects of worship in themselves but as carefully codified representations of the Jinas—embodied ideals of perfected non‑violence, omniscience, and liberation. Jain sculpture is distinguished by its emphasis on stillness, symmetry, and the absence of worldly attributes. The Jina is depicted in either kāyotsarga (standing meditation) or padmāsana (seated lotus posture), reflecting the tradition’s focus on inner discipline rather than external grandeur.\n\nFrom the earliest surviving examples at Mathura (1st–3rd century CE) to the monumental carvings at Gwalior, Shravanabelagola, and Mount Abu, Jain sculpture demonstrates a continuity of iconographic rules. These include the absence of royal ornaments for Tīrthaṅkaras, the presence of a lāñchana (emblem) to distinguish each Jina, and the use of attendant figures such as yakṣas and yakṣiṇīs in later medieval temple complexes. Regional styles developed over time: Digambara works often emphasize nudity as a symbol of complete renunciation, while Śvetāmbara images may include a simple cloth garment, reflecting differences in monastic discipline.\n\nBeyond temple icons, Jain sculpture includes narrative panels illustrating episodes from the lives of the Tīrthaṅkaras, cosmological diagrams rendered in relief, and elaborate toranas (ornamental gateways). These works serve educational, devotional, and mnemonic functions, helping lay communities visualize doctrinal concepts such as karma, cosmology, and the path to liberation. Modern Jain communities continue to commission sculptures, often using marble or metal, while adhering to traditional iconographic standards preserved in manuscripts and temple manuals.",
+  "primary_sources": [
+    {
+      "title": "Ācāranga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "कायोत्सर्गेण तं जिणं नमस्सामि",
+      "transliteration": "kāyotsargeṇa taṃ jiṇaṃ namassāmi",
+      "translation": "“I bow to the Jina who stands in kāyotsarga.”",
+      "notes": "Although the Ācāranga Sūtra does not prescribe sculptural rules, it describes the meditative postures of the Jina. These passages became foundational for later iconographic conventions in both Digambara and Śvetāmbara traditions."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha",
+      "original_text": "जिणा णिव्वाणसिद्धा अणंतसुक्खा",
+      "transliteration": "jiṇā nivvāṇasiddhā aṇantasukkhā",
+      "translation": "“The Jinas, perfected in liberation, possess infinite bliss.”",
+      "notes": "Cosmological texts like the Tiloyapaṇṇatti describe the qualities of liberated beings. Sculptural representations aim to reflect these qualities through serene expression, balanced proportions, and symbolic attributes."
+    },
+    {
+      "title": "Pratiṣṭhā‑sāroddhāra (Śvetāmbara ritual manual)",
+      "author": "Anonymous medieval compiler",
+      "original_text": "लाञ्छनं तु तेषां भेदकं भवति",
+      "transliteration": "lāñchanaṃ tu teṣāṃ bhedakaṃ bhavati",
+      "translation": "“The emblem serves to distinguish them.”",
+      "notes": "Temple installation manuals specify that each Tīrthaṅkara must be identified by a unique emblem (lāñchana). This rule directly informs sculptural practice."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain sculptures are worshipped as divine beings.",
+      "reality": "In Jain philosophy, the sculpture is not divine; it is a symbolic representation of the qualities of the Jina. Devotion is directed toward the ideals of liberation, not the material object."
+    },
+    {
+      "myth": "All Jain sculptures look identical and lack artistic variation.",
+      "reality": "While core iconographic rules are consistent, regional styles, materials, and historical periods show significant variation—from the austere Digambara monoliths to the intricately ornamented Śvetāmbara marble images of Gujarat."
+    },
+    {
+      "myth": "Jain sculpture developed only in medieval India.",
+      "reality": "Archaeological evidence from Mathura and other sites shows that Jain sculptural traditions began in the early centuries CE and evolved continuously over two millennia."
+    }
+  ]
+}

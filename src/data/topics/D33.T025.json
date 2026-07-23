@@ -1,0 +1,35 @@
+{
+  "overview": "In textual scholarship—especially in Jain studies, Indology, and manuscript traditions—a critical apparatus is the structured set of notes that accompanies a critically edited text. It records the evidence, variants, conjectures, and editorial decisions used to establish the most reliable version of a work. In Jain manuscript culture, where texts often survive in multiple recensions, scripts, and regional traditions, the critical apparatus is essential for transparency and scholarly rigor.\n\nA critical apparatus typically appears at the bottom of a printed page or in a dedicated section of an edition. It documents variant readings from manuscripts (such as differences in spelling, word choice, or verse order), lacunae, scribal errors, emendations proposed by editors, and references to earlier editions. In Jain Prakrit and Sanskrit works—like the *Tattvārthasūtra*, *Uttarādhyayana-sūtra*, or *Ṣaṭkhaṇḍāgama*—the apparatus helps scholars understand how the text evolved across centuries of copying and commentary.\n\nThe apparatus also distinguishes between primary textual evidence and later interpretive layers. For example, Digambara and Śvetāmbara traditions may preserve different recensions of the same canonical or semi-canonical text. A critical apparatus allows researchers to compare these systematically without collapsing them into a single homogenized version. It also clarifies where an editor has made interpretive choices, ensuring that readers can evaluate those decisions independently.\n\nIn modern Jain studies, the critical apparatus is considered a foundational tool for responsible scholarship. It supports philological accuracy, preserves the diversity of manuscript traditions, and provides a transparent record of editorial reasoning. Without it, a critical edition risks presenting a text that appears authoritative but lacks verifiable grounding in the manuscript record.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra (select example of apparatus-worthy line)",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "In critical editions, the apparatus often records variant spellings such as *samyagdarśanam* vs. *samyakdarśanam*, or manuscript differences in compound formation. Some Śvetāmbara manuscripts include minor orthographic variants, while Digambara traditions occasionally preserve alternative punctuation or spacing. The apparatus documents these differences without altering the main text."
+    },
+    {
+      "title": "Uttarādhyayana-sūtra (illustrative example)",
+      "author": "Anonymous; part of Śvetāmbara canonical corpus",
+      "original_text": "णंति भइयं जोगं",
+      "transliteration": "ṇaṃti bhaiaṃ jogaṃ",
+      "translation": "Reverence to the discipline of the monks.",
+      "notes": "Manuscripts differ in Prakrit orthography, such as *ṇaṃti* vs. *nanti*, and in sandhi resolution. A critical apparatus records these variants and notes where earlier editors (e.g., Jacobi) proposed emendations."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "A critical apparatus is only for advanced scholars and has no relevance for general readers.",
+      "reality": "While specialists rely on it most heavily, the apparatus benefits all readers by showing how the edited text was constructed and by clarifying uncertainties or disagreements in the manuscript tradition."
+    },
+    {
+      "myth": "A critical apparatus represents the editor’s personal interpretation of the text.",
+      "reality": "A properly constructed apparatus distinguishes evidence from interpretation. It records manuscript variants objectively and marks editorial judgments clearly, allowing readers to evaluate them independently."
+    },
+    {
+      "myth": "If a text has a critical apparatus, it must represent the single authoritative version of the work.",
+      "reality": "A critical apparatus does not claim final authority. It documents the evidence available at the time of editing and remains open to revision as new manuscripts or traditions are studied."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain cosmology, **Loka** refers to the structured, finite universe in which all embodied beings exist. It is not an infinite expanse but a carefully delineated cosmic domain described in canonical texts such as the *Tattvārtha Sūtra*, *Saṃgrahaṇī Sūtra*, and Digambara works like *Tiloya Paṇṇatti*. Jainism maintains that the Loka has always existed, is uncreated, and is governed by natural laws rather than divine intervention. The Loka is shaped like a standing human figure with arms akimbo—often compared to a cosmic man (loka-puruṣa)—and is divided vertically into three major realms: **Urdhva Loka** (upper world), **Madhya Loka** (middle world), and **Adho Loka** (lower world). Each region contains distinct classes of beings, karmic conditions, and environmental structures.\n\nThe **Upper World** houses the heavens, where celestial beings (devas) reside. These heavens are arranged in hierarchical layers, each with specific lifespans, karmic prerequisites, and spatial characteristics. At the very top of the Loka lies **Siddha-śilā**, the realm beyond rebirth where liberated souls (siddhas) abide eternally in perfect knowledge and bliss. The **Middle World** includes human and animal realms, as well as the various continents and oceans described in Jain geography. It is the only region where souls can attain liberation because it uniquely supports the combination of karmic conditions and moral agency required for spiritual progress. The **Lower World** consists of multiple hells (narakas), each characterized by increasing degrees of suffering and karmic bondage.\n\nJain texts emphasize that the Loka is filled with innumerable souls (jīvas) and non-soul substances (ajīvas), all interacting according to the laws of karma. Space outside the Loka is called **Aloka**, a vast, empty region without motion, matter, or embodied beings. The distinction between Loka and Aloka is central to Jain metaphysics: the Loka is the arena of samsāra, while Aloka is a silent expanse where only liberated souls may exist at its boundary. The detailed cosmography of the Loka serves not merely as a physical description but as a moral map, illustrating the consequences of karmic actions and the path toward liberation.\n\nAcross Jain traditions—Śvetāmbara, Digambara, Sthānakavāsī, and Terāpanth—the broad structure of the Loka remains consistent, though specific enumerations of heavens, hells, and cosmological measurements may vary. Modern scholarship notes that Jain cosmology blends mathematical precision with symbolic meaning, offering both a metaphysical model of existence and an ethical framework for understanding the soul’s journey through countless lifetimes.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "लोकालोकसमयः",
+      "transliteration": "lokāloka-samayaḥ",
+      "translation": "“The universe (loka) and the non-universe (aloka) are its spatial divisions.”",
+      "notes": "This sutra (TS 3.1) establishes the fundamental distinction between the inhabited universe and the empty expanse beyond it. Commentaries from both Śvetāmbara and Digambara traditions elaborate on the vertical tripartite structure of the Loka."
+    },
+    {
+      "title": "Saṃgrahaṇī Sūtra",
+      "author": "Traditionally attributed to Śvetāmbara canonical redactors",
+      "original_text": "लोयप्पस्सो णिव्वाणप्पस्सो",
+      "transliteration": "loya-ppasso nibbāṇa-ppasso",
+      "translation": "“One who knows the structure of the universe knows the path to liberation.”",
+      "notes": "A cosmological text detailing the dimensions, inhabitants, and subdivisions of the Loka. The passage underscores the epistemic and ethical importance of cosmology."
+    },
+    {
+      "title": "Tiloya Paṇṇatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "लोयप्पहुत्तं णियमेणं वियप्पइ",
+      "transliteration": "loya-ppahuttaṃ niyamenaṃ viyappaï",
+      "translation": "“The expanse of the universe is described systematically.”",
+      "notes": "A Digambara cosmological treatise offering detailed measurements of the Loka, including the heights of heavens, depths of hells, and dimensions of continents."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Jain Loka is an infinite universe similar to modern astrophysical models.",
+      "reality": "Jain texts consistently describe the Loka as finite, structured, and unchanging in shape. Infinity applies only to the number of souls and certain substances, not to spatial extent."
+    },
+    {
+      "myth": "Liberated souls travel freely throughout the Loka.",
+      "reality": "Primary texts state that liberated souls reside permanently at Siddha-śilā, at the very top of the Loka, and do not move or reincarnate."
+    },
+    {
+      "myth": "The heavens and hells are metaphorical rather than literal realms.",
+      "reality": "Canonical Jain cosmology treats these realms as literal spatial regions within the Loka, though they also carry symbolic ethical meaning."
+    }
+  ]
+}

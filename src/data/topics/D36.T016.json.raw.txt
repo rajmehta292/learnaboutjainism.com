@@ -1,0 +1,39 @@
+{
+  "overview": "Gunabhadra (Guṇabhadra) is a prominent Digambara Jain acharya and poet, active roughly in the 9th–10th century CE during the Rashtrakuta period in South India. He is best known as the co‑author of the Jain Mahāpurāṇa, having composed its second half, the Uttarapurāṇa, after the death of his teacher Acharya Jinasena, who had written the Ādipurāṇa and the initial portion of the Mahāpurāṇa. [[0]](https://en.wikipedia.org/wiki/Gu%E1%B9%87abhadra_%28Jain_monk%29)\n\nGunabhadra stands within a well‑documented monastic lineage: Chandrasena initiated Āryanandi; Āryanandi initiated Vīrasena and Jayasena; Vīrasena in turn initiated several disciples, including Daśarayaguru and Jinasena. Daśarayaguru and Jinasena then initiated Gunabhadra, who later initiated Lokasena. [[1]](https://dbpedia.org/page/Gunabhadra_%28Jain_monk%29) This lineage situates Gunabhadra firmly in the Digambara scholastic tradition, emphasizing rigorous scriptural study and the composition of narrative and doctrinal texts in Sanskrit.\n\nThe Uttarapurāṇa, Gunabhadra’s principal work, completes the narrative cycle begun in Jinasena’s Ādipurāṇa. While Ādipurāṇa focuses on Ṛṣabhanātha (the first Tīrthaṅkara) and early cosmological and mythic material, the Uttarapurāṇa narrates the lives of the remaining Tīrthaṅkaras, from Ajitanātha (2nd) through Mahāvīra (24th). [[2]](https://en.wikipedia.org/wiki/Uttarapurana) In doing so, it provides a comprehensive mytho‑historical and ethical panorama of Jain ideals—renunciation, non‑violence (ahiṃsā), restraint, and the path to liberation—embedded in richly poetic Sanskrit.\n\nWithin Digambara tradition, the combined Mahāpurāṇa (Ādi + Uttara) became a foundational model for later Jain Purāṇic literature. It influenced narrative and devotional compositions in Sanskrit and regional languages such as Kannada, and helped articulate Jain identity and values in royal and courtly milieus. [[0]](https://en.wikipedia.org/wiki/Gu%E1%B9%87abhadra_%28Jain_monk%29) [[2]](https://en.wikipedia.org/wiki/Uttarapurana) Modern critical editions and translations, such as the Bhartiya Jnanpith edition of the Uttarapurāṇa, continue to be central resources for scholars studying Jain narrative, sectarian history, and the development of Digambara literary culture. [[3]](https://en.bharatpedia.org/wiki/Uttarapurana) [[4]](https://dbpedia.org/page/Uttarapurana)",
+  "primary_sources": [
+    {
+      "title": "Uttarapurāṇa",
+      "author": "Acharya Guṇabhadra (continuing work begun by Acharya Jinasena)",
+      "original_text": "उत्तरपुराणम्",
+      "transliteration": "Uttarapurāṇa",
+      "translation": "The Later Purāṇa (the second half of the Jain Mahāpurāṇa, narrating the lives of the later Tīrthaṅkaras).",
+      "notes": "The Uttarapurāṇa is a major Digambara Jain Sanskrit epic, composed in the 9th–10th century CE. It was begun by Acharya Jinasena and completed by his disciple Acharya Guṇabhadra, forming the second part of the Mahāpurāṇa. [[2]](https://en.wikipedia.org/wiki/Uttarapurana) [[4]](https://dbpedia.org/page/Uttarapurana) The text presents detailed narratives of the last 23 Tīrthaṅkaras, emphasizing Jain ethical and spiritual ideals. Modern editions, such as Pannalal Jain’s critical edition published by Bhartiya Jnanpith, provide a reliable textual basis for contemporary study and translation. [[3]](https://en.bharatpedia.org/wiki/Uttarapurana) [[4]](https://dbpedia.org/page/Uttarapurana)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Gunabhadra is the sole author of the entire Mahāpurāṇa.",
+      "reality": "The Mahāpurāṇa is a composite work: Acharya Jinasena composed the Ādipurāṇa and the initial portion of the Mahāpurāṇa, while Acharya Guṇabhadra completed the epic by composing the Uttarapurāṇa, the second half. [[0]](https://en.wikipedia.org/wiki/Gu%E1%B9%87abhadra_%28Jain_monk%29) [[2]](https://en.wikipedia.org/wiki/Uttarapurana)"
+    },
+    {
+      "myth": "Gunabhadra belongs to an indeterminate or non‑sectarian Jain background.",
+      "reality": "Gunabhadra is clearly identified in traditional and modern sources as a Digambara monk, situated in a specific lineage descending from Chandrasena through Āryanandi, Vīrasena, Daśarayaguru, and Jinasena, and followed by his own disciple Lokasena. [[1]](https://dbpedia.org/page/Gunabhadra_%28Jain_monk%29)"
+    },
+    {
+      "myth": "Gunabhadra lived in the 4th century CE.",
+      "reality": "Current scholarly consensus, based on textual and historical evidence, places Gunabhadra in the 9th–10th century CE, associated with the Rashtrakuta period in India. [[0]](https://en.wikipedia.org/wiki/Gu%E1%B9%87abhadra_%28Jain_monk%29) [[1]](https://dbpedia.org/page/Gunabhadra_%28Jain_monk%29)"
+    }
+  ]
+}
+
+
+
+> [0] [Guṇabhadra (Jain monk) - Wikipedia](https://en.wikipedia.org/wiki/Gu%E1%B9%87abhadra_%28Jain_monk%29)
+>
+> [1] [About: Gunabhadra (Jain monk)](https://dbpedia.org/page/Gunabhadra_%28Jain_monk%29)
+>
+> [2] [Uttarapurana - Wikipedia](https://en.wikipedia.org/wiki/Uttarapurana)
+>
+> [3] [Uttarapurana - Bharatpedia](https://en.bharatpedia.org/wiki/Uttarapurana)
+>
+> [4] [About: Uttarapurana](https://dbpedia.org/page/Uttarapurana)

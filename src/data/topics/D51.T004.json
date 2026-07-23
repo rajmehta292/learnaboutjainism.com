@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain studies, “translation records” refer to the documented history, metadata, and scholarly apparatus surrounding the movement of Jain texts from their original Prakrit or Sanskrit forms into later languages such as Gujarati, Hindi, Kannada, Tamil, and English. These records are essential for reconstructing how scriptures, commentaries, and ritual manuals have been transmitted, adapted, and interpreted across centuries. They include manuscript colophons, translator prefaces, lineage notes, scribal remarks, and modern critical editions that specify which manuscripts were consulted, how variant readings were handled, and what interpretive principles guided the translator.\n\nWithin Jain traditions, translation records serve several purposes. First, they preserve the provenance of a text—where it was copied, by whom, under which monastic lineage, and with what intended audience. Second, they help scholars and practitioners identify divergences between Digambara and Śvetāmbara recensions, especially in canonical works such as the *Tattvārtha-sūtra* or narrative literature like the *Kalpa-sūtra*. Third, they provide transparency about interpretive choices, such as how technical terms (e.g., *lesyā*, *guṇasthāna*, *saṃvara*) were rendered into modern languages. Fourth, they allow researchers to trace the evolution of doctrinal emphasis, since translators often include explanatory notes reflecting the philosophical priorities of their tradition.\n\nModern translation records also incorporate critical apparatus from peer‑reviewed scholarship, including stemmatic analysis, manuscript comparison, and philological notes. These records highlight uncertainties—such as ambiguous Prakrit forms, damaged folios, or divergent commentarial traditions—and clearly separate direct quotation from interpretation. Because Jainism places strong emphasis on textual fidelity, responsible translation records are indispensable for ensuring that contemporary readers engage with sources in a manner consistent with historical evidence and tradition-aware scholarship.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha-sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "तत्त्वार्थसूत्रम्",
+      "transliteration": "tattvārtha-sūtram",
+      "translation": "“Aphorisms on the Meaning of Reality.”",
+      "notes": "Translation records for this text often document differences between Digambara and Śvetāmbara recensions, especially regarding chapter order and certain doctrinal terms. Critical editions note variant manuscript readings and the interpretive choices made by translators when rendering technical concepts such as *jīva*, *ajīva*, and *mokṣa*."
+    },
+    {
+      "title": "Ācārāṅga-sūtra",
+      "author": "Attributed to early Śvetāmbara redactors",
+      "original_text": "आचाराङ्गसूत्र",
+      "transliteration": "ācārāṅga-sūtra",
+      "translation": "“Scripture on Conduct.”",
+      "notes": "Translation records include colophons from medieval manuscripts describing copying locations and monastic sponsors. Modern editions highlight uncertainties in archaic Ardhamāgadhī forms and note where commentarial traditions diverge on passages concerning nonviolence and ascetic discipline."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama",
+      "author": "Kundakunda (traditionally associated with foundational material); later Digambara redactors",
+      "original_text": "षटकण्डागम",
+      "transliteration": "ṣaṭkhaṇḍāgama",
+      "translation": "“Scripture of Six Sections.”",
+      "notes": "Translation records for this Digambara canonical text are complex due to fragmentary manuscript evidence and the reliance on authoritative commentaries such as the *Dhavalā* and *Mahādhavalā*. Records typically specify which palm-leaf manuscripts were consulted and where interpretive uncertainty remains."
+    },
+    {
+      "title": "Kalpa-sūtra",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "कल्पसूत्र",
+      "transliteration": "kalpa-sūtra",
+      "translation": "“Ritual and Biographical Manual.”",
+      "notes": "Translation records document variations in narrative sections, especially the biographies of the tīrthaṅkaras. Modern translators often note where ritual terminology lacks exact English equivalents and provide justification for chosen renderings."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Translation records are merely administrative notes and have little impact on understanding Jain doctrine.",
+      "reality": "In fact, translation records are crucial for reconstructing doctrinal history. They reveal variant readings, lineage-specific interpretations, and scribal decisions that directly shape how philosophical concepts are understood today."
+    },
+    {
+      "myth": "All Jain texts have a single authoritative translation that is universally accepted across traditions.",
+      "reality": "Different Jain traditions preserve distinct recensions and commentarial lineages. Translation records document these divergences and help readers understand why multiple translations may legitimately coexist."
+    },
+    {
+      "myth": "Modern translations eliminate all ambiguity present in ancient Prakrit and Sanskrit manuscripts.",
+      "reality": "Translation records explicitly note unresolved ambiguities, damaged folios, and contested interpretations. Responsible scholarship preserves these uncertainties rather than smoothing them over."
+    }
+  ]
+}

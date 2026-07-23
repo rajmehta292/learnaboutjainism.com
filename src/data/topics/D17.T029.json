@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “translations” refer to the rendering of canonical Prakrit and Sanskrit texts into modern languages such as Gujarati, Hindi, and English. Because Jain scriptures span over two millennia, translation is not merely linguistic conversion but a scholarly and tradition-aware process that requires careful attention to philology, sectarian redactions, manuscript variants, and commentarial lineages. The earliest Jain canonical texts—such as the Śvetāmbara Āgamas in Ardhamāgadhī Prakrit and the Digambara Śāstras in Jaina Śaurasenī and Sanskrit—were transmitted orally for centuries before being written down. As a result, modern translators must navigate variant readings, regional recensions, and differing sectarian views on authenticity.\n\nJain traditions emphasize that translations are interpretive acts. A single Prakrit term—such as *jīva*, *ajīva*, *lesyā*, or *saṃvara*—may carry layers of meaning depending on doctrinal context. Therefore, responsible translation requires explicit separation of (1) the literal rendering of the original text, (2) traditional commentary, and (3) modern scholarly interpretation. Many contemporary editions include parallel text formats: original script, transliteration, literal translation, and explanatory notes. This structure helps preserve the authority of the primary text while allowing readers to understand doctrinal nuances.\n\nBecause Jainism has multiple sectarian canons, translation practices differ. Śvetāmbara Mūrtipūjaka scholars often rely on the canonical Āgamas preserved in the Vallabhi redaction, while Digambara scholars prioritize Sanskrit śāstras such as the *Ṣaṭkhaṇḍāgama* and *Kaṣāyapāhuda*. Modern translators must clearly identify which tradition’s canon they are working with and avoid conflating sectarian positions. Translation also plays a crucial role in global Jain communities, enabling lay practitioners, youth, and scholars to access teachings without requiring mastery of Prakrit or Sanskrit.\n\nIn academic contexts, translation is treated as a critical discipline involving textual criticism, manuscript comparison, and historical linguistics. Scholars often note uncertainties, missing folios, or ambiguous terms. Responsible translation also includes acknowledging disagreements among commentaries and avoiding doctrinal overreach. In all cases, translations serve as bridges—helping readers engage with Jain philosophy while preserving the integrity of the original sources.",
+  "primary_sources": [
+    {
+      "title": "Ācāranga Sūtra (Śvetāmbara Canon)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "𑀅𑀘𑀸𑀭𑀁𑀕𑀺 𑀲𑀼𑀢𑁆𑀭𑀸 — “ṇa yaṃ paḍivajjāmi” (example line)",
+      "transliteration": "na yaṃ paḍivajjāmi",
+      "translation": "“I do not abandon it.” (Illustrative line from a vow context)",
+      "notes": "One of the earliest Śvetāmbara canonical texts. Translations vary because Ardhamāgadhī terms often have layered ethical meanings. Modern editions typically include commentary by Abhayadeva Sūri (B-tier)."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (accepted across sects with minor differences)",
+      "original_text": "तत्त्वार्थसूत्रम् १.१ — “सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः”",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "A pan-sectarian philosophical text. Sanskrit allows relatively stable translation, but commentaries differ on doctrinal emphasis. Digambara and Śvetāmbara editions vary slightly in sutra numbering."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara Canon)",
+      "author": "Pūjyapāda, Virasena, and Jinasena (commentarial lineage)",
+      "original_text": "Example (non-copyrighted fragmental phrase): “jīvaṭṭhāṇaṃ”",
+      "transliteration": "jīva-sthānaṃ",
+      "translation": "“The states of the soul.”",
+      "notes": "One of the most authoritative Digambara texts. Survives in partial manuscripts. Translations require careful handling of technical karma theory terminology. Modern English translations are typically partial and heavily annotated."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Translations of Jain scriptures are universally agreed upon across all sects.",
+      "reality": "Sectarian canons differ, and even within a tradition, commentaries offer divergent interpretations. Responsible translations identify the tradition and commentary lineage."
+    },
+    {
+      "myth": "A translation can fully capture the meaning of Prakrit or Sanskrit Jain terms.",
+      "reality": "Many doctrinal terms—such as *lesyā*, *saṃvara*, or *nirjarā*—carry layered philosophical meanings. Translators must provide notes and avoid oversimplification."
+    },
+    {
+      "myth": "Modern-language translations replace the need for studying the original text.",
+      "reality": "Translations are aids, not replacements. Primary texts remain authoritative, and serious study requires engagement with the original Prakrit or Sanskrit when possible."
+    }
+  ]
+}

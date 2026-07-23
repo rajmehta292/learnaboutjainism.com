@@ -1,0 +1,43 @@
+{
+  "overview": "Within Jain traditions, the topic of caste and community (jāti, kula, śreṇi, samāja) is approached through a combination of scriptural ideals, historical developments, and contemporary ethical reflection. Jain primary texts articulate a moral and spiritual framework in which liberation (mokṣa) is independent of birth, lineage, or social category. The soul (jīva) is described as fundamentally equal across all beings, and karmic bondage—not caste—is the determinant of spiritual condition. This doctrinal foundation has long served as a basis for critiques of caste hierarchy within Jain communities.\n\nHistorically, however, Jain lay society developed within broader South Asian social structures. Over centuries, distinct Jain communities emerged—such as Oswal, Porwal, Srimal, Jaina Chettiars, Jaina Banias, and others—often shaped by regional patterns of marriage, occupation, and migration. These communities sometimes adopted caste-like boundaries, including endogamy and occupational clustering, even while maintaining theological commitments to equality. Digambara and Śvetāmbara traditions both contain internal diversity, with monastic lineages and lay groups interacting differently with caste norms depending on region and historical period.\n\nModern Jain scholarship and community education frequently emphasize the tension between scriptural egalitarianism and inherited social practices. Many contemporary Jain organizations advocate for reducing caste-based distinctions, promoting inter-community marriage, and foregrounding the universalist ethics of ahiṃsā, anekāntavāda, and compassion. At the same time, historians note that community identities have played important roles in preserving manuscripts, supporting temples, and sustaining monastic lineages.\n\nIn Jain ethical discourse, caste is not considered a spiritual category. The Tattvārtha Sūtra and Āgamas consistently frame moral action, vows, and right conduct as universally accessible. The ideal Jain layperson (śrāvaka/śrāvikā) is defined by adherence to vows, generosity, and nonviolence—not by birth. Thus, the study of caste and community in Jainism requires careful distinction between doctrinal principles, historical realities, and contemporary reform movements.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "सर्वे जीवाः सुखदुःखोपभोगाः स्वकर्मनिबन्धनात्",
+      "transliteration": "sarve jīvāḥ sukhaduḥkhopabhogāḥ svakarma-nibandhanāt",
+      "translation": "All souls experience pleasure and pain according to the bondage of their own karma.",
+      "notes": "This aphorism (TS 8.1) is frequently cited to emphasize that spiritual condition arises from karma, not caste or lineage. Commentaries across both Digambara and Śvetāmbara traditions use this passage to argue for the fundamental equality of souls."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जायि न जायि, समो सव्वेसिं जीवाणं",
+      "transliteration": "jāyi na jāyi, samo savvesiṃ jīvāṇaṃ",
+      "translation": "Birth does not make one higher or lower; all living beings are equal.",
+      "notes": "This passage appears in discussions of nonviolence and equality. Variants occur across manuscript traditions; the core idea is that ethical worth is not determined by birth."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "न जाति न कुलं न रूपं, धर्मो हि पुरुषं पुज्यते",
+      "transliteration": "na jāti na kulaṃ na rūpaṃ, dharmo hi puruṣaṃ pujyate",
+      "translation": "Not caste, not family, not appearance—only conduct makes a person worthy of respect.",
+      "notes": "This verse is widely used in Jain educational contexts to highlight the primacy of ethical conduct over social identity. Exact wording varies across editions; this is a standard paraphrase based on canonical themes."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism has always been completely free of caste distinctions.",
+      "reality": "Jain doctrine rejects caste hierarchy, but historical Jain communities often adopted caste-like social structures such as endogamy and occupational clustering due to regional and cultural influences."
+    },
+    {
+      "myth": "Jain scriptures endorse caste-based duties similar to other South Asian traditions.",
+      "reality": "Primary Jain texts consistently frame duty (dharma) in terms of vows, nonviolence, and right conduct, not birth-based roles. Liberation is equally accessible to all beings."
+    },
+    {
+      "myth": "All Jain communities follow identical social norms regarding caste and marriage.",
+      "reality": "Practices vary widely across regions and traditions. Some communities maintain strong endogamous boundaries, while others actively promote inter-community marriage and caste reform."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical discourse, the relationship between means (upāya) and ends (upeya or phala) is a foundational ethical and soteriological concern. Jainism consistently maintains that the purity of the means is inseparable from the purity of the ends. This principle appears across the āgamas, commentarial traditions, and later scholastic works, shaping Jain ethics, ascetic conduct, lay practice, and karmic theory.\n\nIn contrast to traditions that may allow morally questionable means for a supposedly noble end, Jain thought insists that any action—mental, verbal, or physical—creates karmic consequences according to its intrinsic moral quality. Thus, an impure means cannot generate a pure end. Violence, deceit, coercion, or harm cannot lead to liberation, social harmony, or spiritual merit. This is rooted in the doctrine of karma, where each act binds the soul with specific karmic particles according to the intention, execution, and emotional states involved.\n\nThe principle also informs the Jain understanding of ahiṃsā (non‑violence), satya (truthfulness), and the broader framework of the five vows. For both ascetics and laypeople, ethical discipline is not merely instrumental but constitutive of spiritual progress. The path to mokṣa is itself the end, and the means—right faith, right knowledge, and right conduct—are expressions of that end in lived practice.\n\nIn modern Jain ethics, the means–ends relationship is applied to environmental stewardship, business ethics, dietary choices, and social engagement. Scholars emphasize that Jainism offers a distinctive critique of utilitarian or consequentialist frameworks by insisting that moral integrity cannot be overridden by calculations of benefit. The ends never justify the means; rather, the means must embody the ends one seeks.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non‑violence is the supreme dharma.",
+      "notes": "Although this aphorism is widely cited in Jain tradition, its spirit is reflected throughout the Tattvārtha Sūtra, especially in chapters on conduct and karma. The text emphasizes that actions rooted in violence bind karma, demonstrating that impure means cannot lead to liberation."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara canon)",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जिवा विरायाए अणरिस्साए",
+      "transliteration": "jīvā virāyāe aṇarissāe",
+      "translation": "Living beings are to be protected; they are not to be harmed.",
+      "notes": "This passage underscores the inseparability of ethical means and spiritual ends. The text repeatedly warns that harm, even for seemingly beneficial purposes, results in karmic bondage."
+    },
+    {
+      "title": "Samayasāra (Digambara tradition)",
+      "author": "Ācārya Kundakunda",
+      "original_text": "णिज्जरं कम्मसंसग्गं, णिव्वाणं तस्स कारणं",
+      "transliteration": "nijjaraṃ kammasaṃsaggaṃ, nivvāṇaṃ tassa kāraṇaṃ",
+      "translation": "The shedding of karmic bondage is the cause of liberation.",
+      "notes": "Kundakunda emphasizes that liberation arises only from pure conduct grounded in right knowledge and right faith. Actions performed with attachment, aversion, or delusion—even for noble ends—cannot produce the final goal."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that good intentions can justify harmful actions if the final goal is noble.",
+      "reality": "Jain doctrine explicitly rejects the idea that ends justify means. Any harmful action, regardless of intention, binds karma and obstructs liberation."
+    },
+    {
+      "myth": "The means–ends principle applies only to monks and not to laypeople.",
+      "reality": "While ascetics follow stricter vows, laypeople are equally bound by the karmic consequences of their actions. Ethical means are required at every level of practice."
+    },
+    {
+      "myth": "Non‑violence in Jainism is purely symbolic and can be overridden for practical benefits.",
+      "reality": "Ahiṃsā is a concrete ethical requirement. Jain texts consistently state that violence, even for seemingly beneficial ends, creates karmic bondage and contradicts the path to liberation."
+    }
+  ]
+}

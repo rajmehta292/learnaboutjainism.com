@@ -1,0 +1,59 @@
+{
+  "overview": "In Jain traditions, “mantra texts” refer to a diverse body of canonical and post‑canonical literature that preserves sacred syllables, invocations, protective formulae, and meditative utterances used by laypeople and monastics. These texts span early Prakrit sources, medieval Sanskrit compilations, and sect‑specific manuals. They serve multiple functions: venerating the tīrthaṅkaras, invoking the pañca‑parameṣṭhins, cultivating mental purity, supporting ritual contexts, and guiding contemplative practice. \n\nWithin the canonical strata, mantras appear embedded in sūtras, often as short invocatory passages. Later compendia systematize them into standalone collections, offering phonetic guidance, ritual framing, and doctrinal interpretation. Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth traditions preserve overlapping yet distinct corpora, reflecting differences in ritual practice, linguistic preference, and doctrinal emphasis. \n\nJain mantra texts do not function as magical formulas; rather, they are understood as disciplined speech acts grounded in right faith (samyak‑darśana) and ethical restraint. Their efficacy is tied to intention, purity of conduct, and alignment with the teachings of the Jinas. Commentarial traditions consistently warn against attributing supernatural powers to mantras independent of ethical and spiritual cultivation. \n\nModern scholarship highlights the philological complexity of these texts: variant recensions, regional pronunciations, and differing sectarian interpretations. Manuscript evidence shows that many mantra collections evolved over centuries, incorporating older Prakrit verses, Sanskrit expansions, and ritual instructions. Despite this diversity, the central orientation remains consistent: mantras are tools for recollection, reverence, and inner transformation, not instruments of coercive or miraculous intervention.",
+  "primary_sources": [
+    {
+      "title": "Namokāra / Navakāra Mantra",
+      "author": "Canonical formula; no single author",
+      "original_text": "णमो अरिहंताणं, णमो सिद्धाणं, णमो आयरियाणं, णमो उवज्झायाणं, णमो लोए सव्वसाहूणं",
+      "transliteration": "ṇamo arihaṃtāṇaṃ, ṇamo siddhāṇaṃ, ṇamo āyariyāṇaṃ, ṇamo uvajjhāyāṇaṃ, ṇamo loe savvasāhūṇaṃ",
+      "translation": "Homage to the Arihants; homage to the Siddhas; homage to the Ācāryas; homage to the Upādhyāyas; homage to all Sādhus in the world.",
+      "notes": "Tier A canonical formula found across sects. The earliest attestations appear in Prakrit canonical texts such as the *Ṭhāṇaṃga* and *Vavahāra*. Sectarian recensions differ slightly in phonology. Commentaries (Tier B) emphasize its non‑petitionary nature: it is an act of reverence, not a request for intervention."
+    },
+    {
+      "title": "Uvasaggaharam Stotra",
+      "author": "Attributed to Bhadrabāhu (traditional attribution; historically debated)",
+      "original_text": "उवसग्गहरं पासं, पासं सव्वदुक्खहं… (opening line only)",
+      "transliteration": "uvasaggaharaṃ pāsaṃ, pāsaṃ savvadukkahaṃ…",
+      "translation": "A remover of obstacles, a destroyer of all suffering… (opening line; full text omitted)",
+      "notes": "Tier B traditional stotra used widely in Śvetāmbara Mūrti‑pūjaka practice. Manuscript evidence shows multiple recensions. Interpreted as a praise hymn to Pārśvanātha, not a magical charm. Commentaries warn against reading it as a supernatural remedy."
+    },
+    {
+      "title": "Digambara Śruta‑mantra Passages",
+      "author": "Various canonical compilers",
+      "original_text": "Examples include short Prakrit invocations embedded in *Ṣaṭkhaṇḍāgama* commentarial traditions (one‑line excerpts only).",
+      "transliteration": "Varies by recension.",
+      "translation": "These passages typically offer homage to the Jinas or articulate protective recollection.",
+      "notes": "Tier A/B. Digambara mantra usage is more tightly integrated with scriptural recitation and contemplative practice rather than standalone ritual manuals."
+    },
+    {
+      "title": "Śvetāmbara Mūrti‑pūjaka Mantra Compendia (e.g., *Mantra‑śataka*, regional *Pūjā‑pāṭha*)",
+      "author": "Various medieval authors",
+      "original_text": "Varies; often Sanskrit expansions of older Prakrit verses.",
+      "transliteration": "Varies by text.",
+      "translation": "Typically praise hymns, protective verses, and ritual invocations.",
+      "notes": "Tier C/D. These collections systematize mantras for temple worship, pūjā sequences, and daily recitation. They are not canonical but widely used."
+    },
+    {
+      "title": "Sthānakavāsī and Terāpanth Recitation Manuals",
+      "author": "Community compilers",
+      "original_text": "Primarily Prakrit and Hindi/vernacular renderings of canonical invocations.",
+      "transliteration": "Varies.",
+      "translation": "Focus on canonical homage formulas and ethical reflection verses.",
+      "notes": "Tier D. These traditions minimize ritualism; mantra texts emphasize recollection, meditation, and ethical cultivation rather than elaborate liturgy."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain mantras are magical spells that grant worldly benefits regardless of conduct.",
+      "reality": "Primary texts and commentaries consistently state that mantras function as disciplined acts of reverence and recollection. Their value depends on ethical purity, intention, and alignment with right faith, not supernatural intervention."
+    },
+    {
+      "myth": "All Jain sects use identical mantra texts.",
+      "reality": "While core formulas like the Namokāra are universal, each tradition preserves distinct compilations, pronunciations, and ritual contexts. Manuscript evidence shows significant regional and historical variation."
+    },
+    {
+      "myth": "Mantra texts replace ethical practice and meditation.",
+      "reality": "Jain sources emphasize that mantras support—never substitute—ethical restraint, meditation, and doctrinal understanding. They are supplementary tools within a broader path of liberation."
+    }
+  ]
+}

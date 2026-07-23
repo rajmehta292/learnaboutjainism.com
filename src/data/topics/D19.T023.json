@@ -1,0 +1,43 @@
+{
+  "overview": "Attham (Prakrit: *aṭṭhaṃ*, Sanskrit: *aṣṭam*) is a term found in early Jain canonical literature, most prominently in the Śvetāmbara *Āyāraṅga-sutta* (Ācārāṅga) and related commentarial traditions. The word literally means “eightfold,” but its technical usage varies depending on context. In the earliest strata of Jain scripture, *attham* refers to an eightfold set of conditions, qualities, or states relevant to ascetic conduct, perception, or spiritual discipline. Because Jain canonical texts often employ numerical lists as mnemonic devices, *attham* functions as a structural marker indicating an eight-part doctrinal or ethical cluster.\n\nIn the *Āyāraṅga-sutta*, *attham* appears in discussions of ascetic restraint, sensory discipline, and the conditions that shape right perception. The term is not a single fixed doctrine but a flexible category: different sections of the canon present different “eightfold” sets. Examples include eight types of suffering, eight forms of restraint, eight conditions of vigilance, or eight aspects of right conduct. Later commentaries, such as those by Abhayadeva Sūri, systematize these lists and clarify their doctrinal significance.\n\nIn Digambara sources, the term appears less frequently as a standalone technical label, but the underlying concept of eightfold groupings is present in texts such as the *Ṣaṭkhaṇḍāgama* and *Kasāyapāhuda*. These traditions emphasize eightfold classifications of karmic influx, passions, or ascetic practices, though they do not always use the Prakrit term *attham* explicitly.\n\nModern scholarship treats *attham* as an example of the numerical structuring characteristic of early Jain pedagogy. It reflects the tradition’s emphasis on memorization, oral transmission, and the organization of ethical and metaphysical knowledge into stable numerical frameworks. Because the term’s meaning is context-dependent, careful reading of the specific canonical passage is required to determine which “eightfold” set is being referenced.",
+  "primary_sources": [
+    {
+      "title": "Āyāraṅga-sutta (Ācārāṅga)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; compiled by the Śvetāmbara canon redactors",
+      "original_text": "“aṭṭhaṃ ceva ṇaṃ tiṭṭhai”",
+      "transliteration": "aṭṭhaṃ cevaṇaṃ tiṣṭhai",
+      "translation": "“The eightfold indeed stands (is established).”",
+      "notes": "This line appears in discussions of ascetic discipline. The term *aṭṭhaṃ* signals an eightfold set of qualities or conditions relevant to the ascetic path. Commentaries identify these as eight forms of vigilance or eight restraints, depending on the section."
+    },
+    {
+      "title": "Niryukti on Āyāraṅga",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "“aṭṭha-guṇā samāhārā”",
+      "transliteration": "aṭṭha-guṇāḥ samāhārāḥ",
+      "translation": "“An assemblage of eight qualities.”",
+      "notes": "The Niryukti tradition often glosses *attham* as referring to eight qualities of restraint or perception. These glosses help identify which eightfold set is intended in ambiguous passages."
+    },
+    {
+      "title": "Vṛtti of Abhayadeva Sūri",
+      "author": "Abhayadeva Sūri",
+      "original_text": "“aṭṭha-prakārāṇi yat samyama-lakṣaṇam”",
+      "transliteration": "aṣṭa-prakārāṇi yat saṃyama-lakṣaṇam",
+      "translation": "“The characteristics of restraint are of eight kinds.”",
+      "notes": "Abhayadeva’s commentary systematizes multiple eightfold lists, including eight restraints, eight sufferings, and eight conditions of vigilance. His work is essential for understanding how Śvetāmbara scholastics interpreted *attham*."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Attham refers to a single, universally fixed doctrine across all Jain traditions.",
+      "reality": "In reality, *attham* is a structural term indicating an eightfold grouping. Different texts list different sets of eight, and the meaning must be determined from the specific canonical context."
+    },
+    {
+      "myth": "Attham is exclusively a Śvetāmbara concept.",
+      "reality": "While the term appears most explicitly in Śvetāmbara Prakrit sources, Digambara texts also employ eightfold classifications. They may not use the exact term *attham*, but the conceptual structure is shared."
+    },
+    {
+      "myth": "Attham always refers to moral virtues.",
+      "reality": "The term can refer to virtues, restraints, sufferings, perceptual conditions, or other doctrinal clusters. It is not limited to ethics."
+    }
+  ]
+}

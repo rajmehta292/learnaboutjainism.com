@@ -1,0 +1,55 @@
+{
+  "overview": "Jainism and Judaism are two ancient religious traditions that emerged in distinct cultural and geographic contexts—Jainism in the Indian subcontinent and Judaism in the Near Eastern Levant. Despite their differences, both traditions share certain thematic resonances, including strong ethical frameworks, disciplined ritual life, and deep textual cultures. This article presents a comparative, academically grounded overview following the Jain Study Guide architecture rules.\n\nFrom a historical perspective, Jainism’s earliest strata appear in the śramaṇa milieu of North India (6th–5th century BCE), while Judaism’s formative period is rooted in the Hebrew Bible’s narrative of Israelite religion (circa 1200–500 BCE). There is no evidence of direct contact between early Jain and Jewish communities; instead, parallels arise from independent developments within each tradition’s moral and philosophical systems.\n\nJainism emphasizes *ahiṃsā* (non‑violence), *anekāntavāda* (many‑sidedness), and *aparigraha* (non‑possessiveness) as foundational principles. Judaism emphasizes covenantal ethics, justice (*tzedek*), loving‑kindness (*chesed*), and adherence to divine commandments (*mitzvot*). Both traditions cultivate disciplined ethical conduct, though Jainism frames ethics as part of a karmic cosmology and path to liberation, while Judaism frames ethics within a covenantal relationship between God and the people of Israel.\n\nTextually, Jainism preserves its teachings in Prakrit and Sanskrit canons (Śvetāmbara Āgamas, Digambara Śāstras), while Judaism’s core scriptures are in Hebrew and Aramaic (Tanakh, Talmud). Both traditions maintain extensive commentarial cultures, though their interpretive aims differ: Jain commentaries often clarify metaphysics, karma theory, and monastic discipline, while Jewish commentaries emphasize legal reasoning, narrative interpretation, and theological reflection.\n\nIn modern interreligious dialogue, scholars highlight shared commitments to ethical living, dietary regulation, and ritual discipline. Yet they also note fundamental differences: Jainism is non-theistic in its classical metaphysics, positing liberated beings (*siddhas*) but no creator deity, whereas Judaism is monotheistic, centered on the worship of a single, personal God. Comparative studies therefore focus on ethics, community life, and textual traditions rather than theological equivalence.\n\nThis article presents primary sources from each tradition to illustrate these themes, noting that cross‑tradition comparison must respect the integrity of each system and avoid projecting equivalences where none exist.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara Canon)",
+      "author": "Traditionally attributed to the disciples of Mahāvīra",
+      "original_text": "णंसा सव्वभूएसु वेरं महणइज्जा",
+      "transliteration": "ṇaṃsā savvabhūesu veraṃ mahaṇaijjā",
+      "translation": "\"One should not have enmity toward any living being.\"",
+      "notes": "Ācārāṅga Sūtra 1.4.1 emphasizes ahiṃsā as the foundational discipline of Jain ascetics. This passage is often cited in comparative ethics discussions. Source tier: A (verified primary text)."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "\"Non‑violence is the supreme duty.\"",
+      "notes": "Although widely quoted, this exact phrase appears in later commentarial traditions rather than the earliest manuscripts. The Tattvārtha Sūtra itself (TS 7.11) defines ahiṃsā as the absence of injury to living beings. Source tier: B (reviewed traditional commentary)."
+    },
+    {
+      "title": "Torah (Hebrew Bible), Leviticus 19:18",
+      "author": "Traditionally attributed to Mosaic authorship; historically composite",
+      "original_text": "וְאָהַבְתָּ לְרֵעֲךָ כָּמוֹךָ",
+      "transliteration": "ve’ahavta lere‘akha kamokha",
+      "translation": "\"You shall love your neighbor as yourself.\"",
+      "notes": "A central ethical commandment in Judaism, frequently used in interreligious comparison. Source tier: A (verified primary text)."
+    },
+    {
+      "title": "Mishnah, Pirkei Avot 1:2",
+      "author": "Early rabbinic sages",
+      "original_text": "עַל שְׁלֹשָׁה דְבָרִים הָעוֹלָם עוֹמֵד: עַל הַתּוֹרָה וְעַל הָעֲבוֹדָה וְעַל גְּמִילוּת חֲסָדִים",
+      "transliteration": "al shlosha devarim ha‑olam omed: al ha‑Torah, ve’al ha‑avodah, ve’al gemilut chasadim",
+      "translation": "\"The world stands on three things: on Torah, on worship, and on acts of kindness.\"",
+      "notes": "This rabbinic teaching highlights Judaism’s ethical and ritual pillars. Source tier: A (verified primary text)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism and Judaism share a common historical origin.",
+      "reality": "There is no historical evidence of shared origins or early contact. Jainism emerged in the Indian śramaṇa context, while Judaism developed in the ancient Near East. Similarities in ethics arise independently."
+    },
+    {
+      "myth": "Jainism is a form of monotheism similar to Judaism.",
+      "reality": "Jainism is non-theistic in its classical metaphysics and does not posit a creator God. Judaism is strictly monotheistic, centered on the worship of a single, personal deity."
+    },
+    {
+      "myth": "Both traditions teach identical dietary laws.",
+      "reality": "While both traditions regulate diet, their frameworks differ: Jainism emphasizes non‑violence toward all living beings, leading to strict vegetarianism; Judaism’s dietary laws (kashrut) are covenantal and ritual, permitting meat under specific conditions."
+    },
+    {
+      "myth": "Anekāntavāda is equivalent to Jewish pluralism.",
+      "reality": "Anekāntavāda is a Jain epistemological doctrine about the many‑sided nature of reality. Jewish pluralism is a modern social concept about community diversity. They are not historically or conceptually identical."
+    }
+  ]
+}

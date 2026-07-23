@@ -1,0 +1,55 @@
+{
+  "overview": "In Jain philosophy, **puṇya** (Punya) refers to auspicious karmic influx and accumulation that arises from ethically wholesome actions, intentions, and states of mind. It is not a reward granted by a deity, nor a moral credit in a theistic sense. Instead, it is a technical term within Jain karma theory describing a specific category of karmic matter (*dravya karma*) that binds to the soul (*jīva*) when actions are performed with non-harmful, disciplined, and benevolent dispositions. Punya contributes to pleasant experiences in future births—such as good health, wealth, social status, and favorable circumstances—but it does not, by itself, liberate the soul. Liberation requires the cessation of all karmic influx (*saṃvara*) and the shedding of all karmic matter (*nirjarā*), including both punya and pāpa.\n\nAcross Jain traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—the core definition of punya remains consistent: it is auspicious karmic bondage resulting from virtuous conduct. However, each tradition emphasizes different practices that generate punya, such as temple worship (Mūrti-pūjaka), scriptural study and meditation (Sthānakavāsī, Terāpanth), or ascetic discipline (Digambara). Despite these differences, all agree that punya is ultimately a worldly benefit and not the final goal. The highest aim is **mokṣa**, which requires transcending both auspicious and inauspicious karmas.\n\nJain texts classify punya into various types, often paired with corresponding forms of pāpa. Actions generating punya include charity (*dāna*), compassion (*dayā*), restraint (*saṃyama*), hospitality toward monks (*vaiyāvṛttya*), and participation in rituals with pure intention. The internal state—free from anger, pride, deceit, and greed—is considered more important than the external act. Thus, even simple acts performed with sincerity and nonviolence can generate significant punya.\n\nIn modern Jain ethical discourse, punya is often explained as the natural consequence of living with mindfulness, nonviolence, and responsibility. While contemporary interpretations may frame punya in psychological or social terms—such as cultivating positive habits or contributing to community well-being—traditional sources maintain its metaphysical role within the karma doctrine. The distinction between scriptural meaning and modern application is essential for accurate study.\n\nUltimately, punya is a foundational concept in Jainism that illustrates how ethical conduct shapes future experience. It encourages virtuous living while reminding practitioners that true spiritual progress requires moving beyond both auspicious and inauspicious karmic states toward complete liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (accepted across Digambara and Śvetāmbara traditions)",
+      "original_text": "पुण्यं सुखम्",
+      "transliteration": "puṇyaṃ sukham",
+      "translation": "Punya is that which results in pleasant experiences.",
+      "notes": "Tattvārtha Sūtra 6.12 defines punya in relation to its experiential consequence. Commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi) explain that punya arises from actions such as charity, service to ascetics, and nonviolent conduct."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "दया पुण्णस्स कारणं",
+      "transliteration": "dayā puṇṇassa kāraṇaṃ",
+      "translation": "Compassion is a cause of punya.",
+      "notes": "This passage highlights the centrality of compassionate intention in generating auspicious karmic results. The text frequently pairs ethical conduct with karmic outcomes."
+    },
+    {
+      "title": "Samayasāra (Digambara)",
+      "author": "Ācārya Kundakunda",
+      "original_text": "पुण्णं अपुण्णं च दव्वकम्मं",
+      "transliteration": "puṇṇaṃ apuṇṇaṃ ca davvakammaṃ",
+      "translation": "Punya and papa are forms of material karma.",
+      "notes": "Kundakunda emphasizes that both auspicious and inauspicious karmas are ultimately obstacles to liberation. The text distinguishes the pure standpoint (*niścaya naya*) from the conventional standpoint (*vyavahāra naya*)."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "सज्जा पुण्णं बंधंति",
+      "transliteration": "sajjā puṇṇaṃ bandhamti",
+      "translation": "The virtuous bind punya.",
+      "notes": "This passage links virtuous conduct with auspicious karmic bondage, reinforcing the ethical dimension of karmic accumulation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Punya is equivalent to divine reward granted by a god.",
+      "reality": "Jainism is non-theistic; punya is a natural karmic process resulting from the soul’s interaction with subtle matter through intention and action."
+    },
+    {
+      "myth": "Accumulating large amounts of punya leads directly to liberation.",
+      "reality": "Punya produces pleasant worldly experiences but does not remove karmic bondage. Liberation requires stopping and shedding all karmas, including punya."
+    },
+    {
+      "myth": "Only ritual worship generates punya.",
+      "reality": "Scriptures emphasize intention and ethical conduct. Compassion, restraint, charity, and service to ascetics generate punya regardless of ritual practice."
+    },
+    {
+      "myth": "Punya is purely moral and has no technical meaning.",
+      "reality": "In Jain ontology, punya is a specific category of karmic matter with defined subtypes, mechanisms of bondage, and effects on future births."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "Lexicography, in its broad sense, is the systematic study and compilation of word-lists, glossaries, and dictionaries, together with the principles that govern their structure, usage, and interpretation. In the Jain context, lexicography is closely tied to the preservation and understanding of canonical Prakrits (such as Ardhamāgadhī and Śaurasenī), classical Sanskrit, and later vernaculars used in commentarial and didactic literature. Because Jain scriptures and scholastic works employ highly technical terminology—covering metaphysics, ethics, cosmology, ritual, and monastic discipline—lexicographical tools became essential for both monastic and lay study.\n\nHistorically, Jain communities participated in and contributed to the wider Indian tradition of nighaṇṭu (glossaries) and kośa (lexicons). These works often served multiple purposes: clarifying rare or archaic words in canonical texts, standardizing doctrinal vocabulary across regions and sects, and providing students with a bridge from everyday language to the specialized idiom of philosophy and spiritual practice. Jain lexicographers drew on earlier Brahmanical and Buddhist models while also developing distinct entries for uniquely Jain concepts such as jīva (soul), ajīva (non-soul), karma, guṇasthāna (stages of spiritual development), and the detailed taxonomy of vows and transgressions.\n\nWithin Jain scholastic culture, lexicography is not merely a technical or linguistic exercise; it is a hermeneutic tool. A single term may carry layered meanings depending on context—scriptural, ritual, philosophical, or narrative—and lexicons often record these nuances. For example, words related to karma or meditation can have different shades of meaning in Digambara and Śvetāmbara sources, and careful lexicographical work helps readers avoid doctrinal confusion. Lexicons and glossaries also document variant readings, regional pronunciations, and orthographic differences, which are crucial for reconstructing manuscript traditions and understanding how texts were transmitted over centuries.\n\nModern Jain lexicography extends beyond traditional Sanskrit and Prakrit dictionaries to include bilingual and trilingual works that map Jain technical vocabulary into English and other contemporary languages. These resources support academic research, interreligious dialogue, and the education of diaspora communities. They often combine philological rigor with explanatory notes that situate terms within broader doctrinal frameworks, making them valuable for both specialists and serious lay students. At the same time, responsible lexicography acknowledges uncertainties in translation, especially for terms that lack direct equivalents in modern languages, and clearly distinguishes between literal meanings, interpretive renderings, and context-dependent usage.\n\nIn sum, lexicography in Jain studies functions at the intersection of language, doctrine, and history. It preserves the linguistic heritage of Jain communities, facilitates accurate engagement with primary texts, and provides a structured vocabulary for comparative work across sects and traditions. By carefully documenting how words are used, changed, and interpreted, Jain lexicography helps safeguard both the precision and the subtlety of the tradition’s intellectual and spiritual discourse.",
+  "primary_sources": [
+    {
+      "title": "Abhidhāna-Rajendra-kośa",
+      "author": "Vijaya Rājendra Sūri and collaborators (Śvetāmbara Mūrtipūjaka tradition)",
+      "original_text": "अभिधानराजेन्द्रकोशः",
+      "transliteration": "Abhidhāna-Rājendra-kośaḥ",
+      "translation": "The Lexicon of Rājendra",
+      "notes": "This multi-volume Sanskrit lexicon, compiled in the late 19th and early 20th centuries, is one of the most important Jain contributions to Indian lexicography. It gathers and explains a vast range of Sanskrit terms, including many specifically Jain technical expressions, drawing on scriptural, philosophical, and literary sources. While not limited to Jain usage, it is heavily informed by Jain scholastic needs and is frequently consulted in Jain studies for clarifying doctrinal vocabulary and cross-referencing terms across different genres of texts."
+    },
+    {
+      "title": "Jaina Sabdakośa (Jain Sanskrit–Hindi Lexicons)",
+      "author": "Various modern Jain scholars and institutions",
+      "original_text": "जैन शब्दकोश",
+      "transliteration": "Jaina Śabdakośa",
+      "translation": "Jain Lexicon of Words",
+      "notes": "Under titles such as 'Jaina Śabdakośa' or 'Jain Sanskrit–Hindi Dictionary', several modern lexicographical projects have produced dictionaries focused on Jain technical terms, proper names, and scriptural vocabulary. These works typically provide Sanskrit headwords, Devanāgarī script, transliteration, and Hindi explanations, sometimes with references to canonical or commentarial sources. They are designed to support students in traditional Jain educational settings as well as university-based researchers, and often include doctrinal notes that go beyond simple word-for-word translation."
+    },
+    {
+      "title": "Nighaṇṭu and Kośa Traditions Referenced in Jain Commentaries",
+      "author": "Anonymous and multiple authors in the wider Indian lexicographical tradition",
+      "original_text": "निघण्टु, कोश",
+      "transliteration": "Nighaṇṭu, Kośa",
+      "translation": "Glossaries and Lexicons",
+      "notes": "Although many classical nighaṇṭu and kośa works are not exclusively Jain, Jain commentators frequently cite and rely on them to clarify rare or ambiguous words in scriptures and philosophical treatises. For example, lexicons like the Amarakośa are used to establish standard meanings and synonyms, which are then adapted to Jain doctrinal contexts. In this way, Jain lexicography is intertwined with the broader Indian tradition of word-lists and synonym dictionaries, while simultaneously extending and modifying that tradition to accommodate specifically Jain concepts and usages."
+    },
+    {
+      "title": "Prakrit Glossaries in Jain Canonical and Commentarial Literature",
+      "author": "Various Jain ācāryas and commentators",
+      "original_text": "प्राकृत निघण्टु (titles vary by work)",
+      "transliteration": "Prākṛta Nighaṇṭu (titles vary)",
+      "translation": "Prakrit Glossaries",
+      "notes": "Within Jain canonical and commentarial literature, especially in Śvetāmbara traditions, one finds embedded glossaries and word-lists that explain Ardhamāgadhī and other Prakrit terms in Sanskrit or vernacular languages. These are sometimes presented as appendices or as running glosses in commentaries. They serve a lexicographical function by standardizing the understanding of key scriptural terms, documenting variant forms, and helping readers navigate the linguistic distance between ancient Prakrit and later study languages. Although not always independent lexicons, they are important primary sources for reconstructing Jain lexicographical practice."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Lexicography is only about compiling alphabetical lists of words and has little relevance for spiritual or doctrinal study.",
+      "reality": "In Jain traditions, lexicography is deeply connected to doctrinal clarity and scriptural understanding. Lexicons and glossaries help students and scholars grasp the precise meanings of technical terms related to karma, vows, cosmology, and meditation. By documenting nuances, synonyms, and context-dependent usages, Jain lexicographical works support accurate interpretation of primary texts and prevent misunderstandings that could affect both study and practice."
+    },
+    {
+      "myth": "Jain lexicography deals exclusively with Sanskrit and ignores Prakrit and vernacular languages.",
+      "reality": "While Sanskrit lexicons are prominent, Jain lexicography also engages extensively with Prakrits used in canonical texts and with later vernaculars employed in commentaries and didactic literature. Embedded glossaries, bilingual dictionaries, and modern multi-language projects all reflect a concern for making Jain terminology accessible across linguistic boundaries. This multi-layered approach is essential for understanding how key concepts evolved and were transmitted in different historical and regional contexts."
+    },
+    {
+      "myth": "Modern Jain dictionaries and glossaries are purely academic tools and have no role in traditional learning.",
+      "reality": "Many contemporary Jain lexicographical works are used in traditional paṭhaśālās (religious schools), monastic training, and lay study circles, not only in universities. They often combine philological information with doctrinal explanations, making them practical resources for serious religious study. Far from being detached academic artifacts, these lexicons continue the long-standing Jain practice of using structured word-lists and explanations to support scriptural engagement and ethical reflection."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "overview": "Kala (kāla) in Jain philosophy is the technical term for time, recognized as one of the six fundamental substances (dravya) that constitute reality, alongside soul (jīva), matter (pudgala), space (ākāśa), the medium of motion (dharma), and the medium of rest (adharma). As a dravya, kāla is not merely a way of counting moments but an ontological category that participates in the structure of existence itself. It is described as eternal, formless, subtle, and indispensable for the processes of change, motion, and continuity in all other substances.\n\nIn the canonical synthesis Tattvārtha Sūtra, accepted by both Digambara and Śvetāmbara traditions, time is explicitly classified as a substance. The sūtra \"kālaś ca\" (5.39) states that time also is a dravya, and the classical commentary Sarvārthasiddhi explains that kāla satisfies both major Jain definitions of substance: that which exists with origination (utpāda), destruction (vyaya), and permanence (dhrauvya), and that which possesses qualities (guṇa) and modes (paryāya). Time exhibits permanence through its own nature, while its modes arise and perish in relation to the changing states of other substances. In this way, kāla is both enduring and dynamically involved in the flux of the universe.\n\nJain thinkers distinguish between real (mukhya or niścaya) time and conventional (vyavahāra) time. Real time is the subtle, ontological dravya whose specific function is to assist substances in their continuity of being through gradual changes (vartanā), modifications (pariṇāma), movements (kriyā), endurance (paratva), and non-endurance (aparatva). Tattvārtha Sūtra 5.22 enumerates these functions, emphasizing that while substances have an inherent capacity to undergo new modes, an external instrumental cause is required for the incessant attainment of these modes, and this auxiliary cause is kāla. Conventional time, by contrast, is the empirically experienced and measured sequence of instants, hours, days, and ages, inferred from the motion of luminary deities (jyotiṣī deva) such as the sun, moon, and planets. The divisions of conventional time—like ghāḍī, muhūrta, day and night—are said to be caused by these celestial beings (Tattvārtha Sūtra 4.14).\n\nAt the finest level, Jain philosophy speaks of indivisible temporal units called samaya, which function as the atomic units of vyavahāra-kāla. Tattvārtha Sūtra 5.40 states that conventional time consists of infinite samaya, explaining that although the present is a single instant, the instants of past and future are infinite. These samaya aggregate into larger units such as āvalī and other measures, forming a detailed hierarchy of temporal quantification. This atomistic view of time underlies the broader Jain cosmological model of the kālacakra, the wheel of time, in which the universe passes through vast ascending (utsarpiṇī) and descending (avasarpiṇī) cycles. Each cycle comprises innumerable smaller periods, and the moral and spiritual conditions of beings vary across these phases.\n\nMetaphysically, kāla is acetanatva (non-conscious), amūrtatva (formless), sūkṣmatva (extremely subtle), and characterized by agurulaghutva, the capacity to maintain distinction without becoming heavier or lighter relative to other substances. Its particular quality is vartanā—the assistance it provides to other dravyas in their continuity through gradual change. Without time, the modes of substances could not arise in an ordered sequence, and karmic processes such as bondage, fruition, and dissociation would lack temporal structure. Thus, kāla is integral to Jain accounts of karma and liberation: while time itself does not cause bondage or release, it is the necessary condition for the unfolding of karmic states and for the progression of the soul through the fourteen stages of spiritual development (guṇasthāna).\n\nEthically and soteriologically, the Jain conception of time encourages both urgency and patience. On one hand, the vastness of cosmic cycles and the infinitude of samaya highlight the rarity of human birth and the preciousness of opportunities for right faith, knowledge, and conduct. On the other hand, the continuity and regularity of time’s assistance to change suggest that spiritual transformation is a gradual process, unfolding through countless instants of right effort. Modern scholarship has emphasized that Jain time theory combines a rigorous metaphysical atomism with a cyclical cosmology and a practical concern for how beings use their finite conventional time within an infinite temporal framework. In sum, kāla in Jainism is not merely a backdrop for events but a fundamental, subtle dravya that structures change, supports karmic processes, and frames the path to liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 5.39",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "कालश्च ॥ ५.३९ ॥",
+      "transliteration": "kālaś ca || 5.39 ||",
+      "translation": "Time (kāla) also is a substance (dravya). (39)",
+      "notes": "This brief sūtra occurs in the fifth chapter of Tattvārtha Sūtra, which treats non-living substances. The authoritative commentary Sarvārthasiddhi by Ācārya Pūjyapāda explains that kāla qualifies as a dravya because it exhibits origination, destruction, and permanence, and because it possesses qualities and modes. The passage is foundational for the Jain classification of time as one of the six dravya recognized by both Digambara and Śvetāmbara traditions.\nSource tier: A (primary text) with B (traditional commentary). [[0]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084793.html)"
+    },
+    {
+      "title": "Tattvārtha Sūtra 5.22",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "वर्तनापरिणामक्रियाः परत्वापरत्वे च कालस्य ॥ ५.२२ ॥",
+      "transliteration": "vartanāpariṇāmakriyāḥ paratvāparatve ca kālasya || 5.22 ||",
+      "translation": "Assisting substances in their continuity of being through gradual changes (vartanā), in their modification (pariṇāma), in their movement (kriyā), in their endurance (paratva) and in their non-endurance (aparatva), are the functions of time (kāla). (22)",
+      "notes": "This sūtra describes the specific functions of time as an auxiliary cause in the continuous change of substances. Sarvārthasiddhi clarifies that although substances have inherent capacity for new modes, an external instrumental cause is needed, and this is kāla. The text thereby distinguishes time’s causal role from that of other dravya while emphasizing its indispensability for change.\nSource tier: A (primary text) with B (traditional commentary). [[1]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084776.html)"
+    },
+    {
+      "title": "Tattvārtha Sūtra 5.40",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "सोऽनन्तसमयः ॥ ५.४० ॥",
+      "transliteration": "so'nantasamayaḥ || 5.40 ||",
+      "translation": "It (the conventional time) consists of infinite (ananta) instants (samaya). (40)",
+      "notes": "Here the text turns to vyavahāra-kāla, the conventional or empirical time inferred from changes in substances. The commentary explains that while the present is a single instant, the instants of past and future are infinite, and that samaya is the smallest unit of time whose multiples form larger measures such as āvalī. This passage supports the Jain doctrine of temporal atomism and the distinction between real and conventional time.\nSource tier: A (primary text) with B (traditional commentary). [[2]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084794.html)"
+    },
+    {
+      "title": "Tattvārtha Sūtra 4.14",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "तत्कृतः कालविभागः ॥ ४.१४ ॥",
+      "transliteration": "tatkṛtaḥ kālavibhāgaḥ || 4.14 ||",
+      "translation": "The divisions of time (kāla-vibhāga) are caused by those luminary deities (jyotiṣī deva). (14)",
+      "notes": "This sūtra appears in the chapter on celestial beings and links conventional time to the motion of luminary deities such as the sun and moon. The commentary notes that units like ghāḍī, hour, day, and night are divisions of vyavahāra-kāla established by these moving stellar deities. It thereby grounds empirical time measurement in cosmological phenomena while maintaining the distinction from real time.\nSource tier: A (primary text) with B (traditional commentary). [[3]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084725.html)"
+    },
+    {
+      "title": "“The Concept of Time in Jain Philosophy”",
+      "author": "Pintu Das",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "This modern scholarly article (EPRA International Journal of Multidisciplinary Research, 2025) synthesizes canonical sources such as Tattvārtha Sūtra and traditional commentaries with contemporary academic work by Padmanabh Jaini, Paul Dundas, and others. It highlights four aspects of Jain time theory: time as a fundamental substance, its measurement and units (including samaya and kālacakra), its role in karmic and cosmic order, and its soteriological implications. The article situates Jain views of kāla within broader Indian philosophical discussions of temporality.\nSource tier: C (peer-reviewed scholarship). [[4]](https://eprajournals.com/IJMR/article/17919)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Kala in Jainism is only a way of counting days and ages, similar to a calendar.",
+      "reality": "In Jain philosophy, kāla is a fundamental substance (dravya), not merely a conventional calendar. While empirical divisions of time—days, nights, months, and cosmic ages—belong to vyavahāra-kāla, the real kāla is an eternal, subtle dravya whose particular function is to assist other substances in their continuity and change. Treating kāla as only a calendar overlooks its ontological status and its role in the metaphysics of change and karma."
+    },
+    {
+      "myth": "Time in Jainism is purely cyclical, so nothing genuinely changes and spiritual progress is ultimately futile.",
+      "reality": "Jain cosmology does describe vast cycles of time (kālacakra) with ascending and descending phases, but within these cycles, real change occurs in the modes (paryāya) of substances and in the karmic states of souls. Kāla enables the ordered sequence of these changes, and the doctrine of guṇasthāna affirms that souls can progress irreversibly toward liberation. Cyclic cosmology does not negate genuine spiritual advancement; it provides the temporal framework within which liberation is possible."
+    },
+    {
+      "myth": "Because kala is non-conscious and formless, it has no ethical or spiritual significance.",
+      "reality": "Although kāla is acetanatva (non-conscious) and amūrtatva (formless), it has profound ethical and spiritual significance as the condition for all change, including karmic processes and spiritual practice. The Jain emphasis on the rarity of human birth, the preciousness of the present moment, and the gradual unfolding of right conduct all presuppose the structure provided by time. Recognizing kāla as a dravya underscores that ethical decisions and spiritual efforts are temporally situated and therefore urgent."
+    }
+  ]
+}
+
+
+
+> [0] [Classification of time as a substance [Verse 5.39]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084793.html)
+>
+> [1] [The functions of time (kāla) [Verse 5.22]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084776.html)
+>
+> [2] [The extent of the conventional time (vyavahāra-kāla) [Verse 5.40]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084794.html)
+>
+> [3] [The divisions of time (kāla-vibhāga) [Verse 4.14]](https://www.wisdomlib.org/jainism/book/tattvartha-sutra-with-commentary/d/doc1084725.html)
+>
+> [4] [THE CONCEPT OF TIME IN JAIN PHILOSOPHY by Mr.Pintu Das](https://eprajournals.com/IJMR/article/17919)

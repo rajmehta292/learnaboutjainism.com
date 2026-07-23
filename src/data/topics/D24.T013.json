@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, the term **fourfold saṅgha (caturvidha saṅgha)** refers to the complete community of Jain practitioners who sustain the path taught by the Jinas. It is a foundational sociological and spiritual category appearing across Śvetāmbara and Digambara canons. The four components are: **muni (monks), āryikā/sādhvī (nuns), śrāvaka (laymen), and śrāvikā (laywomen)**. Together they form the living network through which teachings, ethical norms, rituals, and scriptural transmission continue.\n\nThe concept is rooted in early canonical descriptions of Mahāvīra’s disciples and the organization of his community. The fourfold structure emphasizes that liberation-oriented practice is not limited to ascetics; laypeople also have defined vows, responsibilities, and roles. The saṅgha is therefore both hierarchical—because ascetics maintain stricter vows—and interdependent, since laypeople support ascetics materially while receiving guidance in return.\n\nAcross traditions, the fourfold saṅgha is described as the ideal form of the Jain community. Digambara texts emphasize the primacy of monks and the unique austerities they uphold, while Śvetāmbara texts provide detailed accounts of both monks and nuns, including rules for communal harmony. Modern scholarship notes that the fourfold saṅgha is also a historical record of Jain social organization, showing how gender, renunciation, and lay participation were integrated into a single religious framework.\n\nIn contemporary Jain life, the fourfold saṅgha remains a central identity marker. Temples, study groups, and festivals often invoke the fourfold saṅgha to affirm continuity with the ancient community. Although the proportions of each group vary by region and tradition, the conceptual unity of the fourfold saṅgha continues to shape Jain ethics, education, and community governance.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to the Śvetāmbara canon’s early redactors",
+      "original_text": "𑀘𑀼𑀢𑁆𑀭𑀯𑀺𑀥𑁆𑀳𑀲𑀁𑀖𑀁",
+      "transliteration": "caturvidhaṃ saṃghaṃ",
+      "translation": "“A fourfold community.”",
+      "notes": "Appears in descriptive passages about Mahāvīra’s disciples. The text does not list the four explicitly in this line but uses the term to denote the complete community of ascetics and lay followers."
+    },
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "𑀫𑀼𑀦𑀺 𑀲𑀸𑀥𑁆𑀯𑀻 𑀱𑀭𑀸𑀯𑀓 𑀱𑀭𑀸𑀯𑀓𑁆𑀱𑀸",
+      "transliteration": "muni sādhvī śrāvaka śrāvikā",
+      "translation": "“Monks, nuns, laymen, and laywomen.”",
+      "notes": "This listing appears in narrative sections describing Mahāvīra’s community. Editions vary; some manuscripts include slight orthographic differences."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सङ्घो जिनशासनसमुद्योगः",
+      "transliteration": "saṅgho jina-śāsana-samudyogaḥ",
+      "translation": "“The saṅgha is the collective effort devoted to the Jina’s teaching.”",
+      "notes": "While the text does not explicitly enumerate the fourfold saṅgha, classical commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi) identify the saṅgha as consisting of the four groups."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The fourfold saṅgha refers only to monastics.",
+      "reality": "Primary texts and commentaries consistently include laymen and laywomen as integral members of the saṅgha."
+    },
+    {
+      "myth": "All Jain traditions define the fourfold saṅgha identically.",
+      "reality": "While the four categories are shared, Digambara and Śvetāmbara traditions differ in their descriptions of nuns and in the practical roles assigned to each group."
+    },
+    {
+      "myth": "The fourfold saṅgha is purely symbolic and has no practical function today.",
+      "reality": "It remains a living organizational model for temples, educational programs, and community rituals across global Jain communities."
+    }
+  ]
+}

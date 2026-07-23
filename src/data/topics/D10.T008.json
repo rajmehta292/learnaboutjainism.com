@@ -1,0 +1,51 @@
+{
+  "overview": "In classical Indian logic and Jain epistemology, fallacies—often discussed under terms such as *hetvābhāsa* (faulty reason), *doṣa* (error), or *vyabhicāra* (inconsistency)—refer to patterns of reasoning that appear valid but fail under scrutiny. Jain philosophers, especially within the traditions of *syādvāda* (conditioned predication) and *anekāntavāda* (many-sidedness), treat fallacies not merely as mistakes but as opportunities to refine understanding, reveal hidden assumptions, and highlight the partial nature of any single viewpoint.\n\nAcross Jain treatises, fallacies are typically analyzed in relation to inference (*anumāna*), testimony (*āgama*), perception (*pratyakṣa*), and the structure of debate. A fallacy may arise from an incorrect middle term, an overgeneralization, a contradiction between premises, or a failure to recognize the conditional nature of claims. Because Jain logic emphasizes perspectival truth, many fallacies stem from absolutizing a single standpoint while ignoring legitimate alternative angles.\n\nJain thinkers such as Akalaṅka, Vidyānanda, and Hemacandra developed sophisticated taxonomies of fallacies, often in dialogue with Buddhist and Nyāya logicians. These taxonomies include errors in inference (e.g., *viruddha*, contradictory reason), errors in application (e.g., *asiddha*, unestablished reason), and errors in relevance (e.g., *anaikāntika*, inconclusive reason). The Jain contribution is distinctive in its insistence that logical rigor must coexist with epistemic humility: fallacies are not only technical flaws but reminders that truth is multifaceted and context-dependent.\n\nIn modern scholarship, fallacies are studied both as historical categories within Jain logic and as tools for understanding Jain philosophical pluralism. They illuminate how Jain thinkers navigated debates, defended non-absolutism, and articulated a system capable of accommodating complexity without collapsing into relativism.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अनेकान्तवादः प्रामाण्यम्",
+      "transliteration": "anekāntavādaḥ prāmāṇyam",
+      "translation": "Non-one-sidedness is essential to valid knowledge.",
+      "notes": "While the Tattvārthasūtra does not present a formal list of fallacies, its emphasis on non-one-sidedness provides the philosophical foundation for later Jain discussions of faulty reasoning. Commentaries by Pūjyapāda and Umāsvāti’s Digambara and Śvetāmbara interpreters elaborate how absolutist claims lead to epistemic error."
+    },
+    {
+      "title": "Nyāyāvatāra",
+      "author": "Siddhasena Divākara",
+      "original_text": "हेत्वाभासाः दोषाः",
+      "transliteration": "hetvābhāsāḥ doṣāḥ",
+      "translation": "Fallacious reasons are errors.",
+      "notes": "The Nyāyāvatāra is one of the earliest Jain works to systematically discuss logical categories. It identifies fallacies in relation to inference and debate, often in conversation with Buddhist and Nyāya frameworks."
+    },
+    {
+      "title": "Aṣṭaśatī (Commentary on Nyāyāvatāra)",
+      "author": "Akalaṅka",
+      "original_text": "अनैकान्तिको दोषः",
+      "transliteration": "anaikāntiko doṣaḥ",
+      "translation": "The inconclusive reason is a defect.",
+      "notes": "Akalaṅka’s commentary expands the taxonomy of fallacies and clarifies how inconclusive reasoning arises when a middle term does not consistently support the conclusion. His analysis is foundational for later Jain logic."
+    },
+    {
+      "title": "Pramāṇamīmāṃsā",
+      "author": "Hemacandra",
+      "original_text": "सिद्धासिद्धविचारः हेत्वाभासभेदः",
+      "transliteration": "siddhāsiddhavicāraḥ hetvābhāsabhedaḥ",
+      "translation": "The examination of established and unestablished reasons constitutes the classification of fallacies.",
+      "notes": "Hemacandra provides one of the most detailed Jain treatments of fallacies, integrating earlier Digambara and Śvetāmbara analyses. His work is central for understanding medieval Jain logic."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain philosophy rejects the idea of fallacies because it teaches that all viewpoints are valid.",
+      "reality": "Jain epistemology holds that viewpoints are conditionally valid, not universally correct. Fallacies are essential tools for identifying when a claim oversteps its legitimate standpoint."
+    },
+    {
+      "myth": "Fallacies in Jain logic are identical to those in Nyāya or Buddhist logic.",
+      "reality": "While Jain thinkers engage deeply with other traditions, their classification of fallacies is shaped by *anekāntavāda* and *syādvāda*, giving Jain logic a distinctive perspectival orientation."
+    },
+    {
+      "myth": "Fallacies only concern formal debate and have no relevance to spiritual practice.",
+      "reality": "Jain texts often link epistemic errors to karmic bondage: misunderstanding reality leads to attachment, aversion, and delusion. Recognizing fallacies supports clearer perception and ethical conduct."
+    }
+  ]
+}

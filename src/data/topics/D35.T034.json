@@ -1,0 +1,35 @@
+{
+  "overview": "Identical-name disambiguation refers to the systematic process of distinguishing between multiple individuals, places, concepts, or entities that share the same name. In academic, archival, religious, and digital cataloging contexts, identical names can create confusion, misattribution, and errors in interpretation. Disambiguation provides structured methods to ensure that each entity is correctly identified, contextualized, and referenced.\n\nIn Jain studies, identical-name disambiguation is particularly important because many historical figures—such as monks, nuns, lay scholars, and donors—share common names like \"Sudatta,\" \"Kundakunda,\" \"Padmaprabha,\" or \"Mahavira\" (used both as a title and a personal name). Manuscript colophons, inscriptions, and commentarial traditions often preserve names without additional biographical detail, making it necessary to rely on contextual markers such as lineage, geographic location, date, associated teachers, or doctrinal style.\n\nOutside Jainism, identical-name disambiguation is a core practice in library science, digital humanities, linguistics, and information retrieval. Systems such as authority control in cataloging, unique identifiers (e.g., ORCID for researchers), and structured metadata help prevent conflation of distinct individuals. In computational contexts, algorithms use features such as co-occurrence patterns, publication venues, or temporal clustering to differentiate entities.\n\nOverall, identical-name disambiguation is a multidisciplinary effort that combines philology, historiography, metadata design, and computational reasoning to ensure clarity and accuracy in scholarly and informational environments.",
+  "primary_sources": [
+    {
+      "title": "Kalpasūtra",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "पद्मप्रभो नाम जिनो",
+      "transliteration": "padmaprabho nāma jino",
+      "translation": "The Jina named Padmaprabha.",
+      "notes": "This line illustrates how identical names appear in Jain canonical texts. Multiple historical or legendary figures may share the same name, requiring contextual disambiguation through lineage, era, or narrative placement."
+    },
+    {
+      "title": "Samavāyāṅga Sūtra",
+      "author": "Unknown (Śvetāmbara canon)",
+      "original_text": "महावीरस्स कालं",
+      "transliteration": "mahāvīrassa kālaṃ",
+      "translation": "In the time of Mahavira.",
+      "notes": "The term 'Mahavira' can refer to the 24th Tīrthaṅkara or be used honorifically for other revered teachers. Disambiguation depends on narrative context and doctrinal framing."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Identical names always refer to the same historical person.",
+      "reality": "Many Jain and non-Jain texts use common names repeatedly across centuries. Without contextual markers, assuming identity can lead to major historical inaccuracies."
+    },
+    {
+      "myth": "Disambiguation is only a modern digital problem.",
+      "reality": "Ancient Jain scribes, commentators, and historians already used lineage markers, geographic references, and teacher-student relationships to distinguish individuals with identical names."
+    },
+    {
+      "myth": "A name appearing in multiple manuscripts guarantees a single authorship.",
+      "reality": "Manuscript traditions often attribute works to well-known figures, sometimes leading to conflation. Philological analysis is required to determine whether identical names indicate one author or several."
+    }
+  ]
+}

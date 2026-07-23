@@ -1,0 +1,43 @@
+{
+  "overview": "Kṣayopaśama (क्षयोपशम) is a technical term in Jain karma theory describing a mixed state in which a particular karmic category is simultaneously undergoing partial destruction (kṣaya) and partial subsidence (upaśama). It is one of the three classical modes of karmic modification—kṣaya (complete destruction), upaśama (complete subsidence), and kṣayopaśama (partial destruction combined with partial subsidence). In Jain metaphysics, karmic matter (karma pudgala) binds to the soul due to passions and activities. Once bound, karma can mature, rise, be suppressed, or be destroyed. Kṣayopaśama is crucial because it explains how a soul may temporarily manifest higher qualities—such as increased knowledge or perception—without having permanently eliminated the karmic obstructions that limit those qualities.\n\nIn the context of the guṇasthānas (the fourteen stages of spiritual development), kṣayopaśama plays a central role in transitions between states. For example, the emergence of *kṣayopaśama samyaktva* (right faith arising through partial destruction and partial subsidence of faith-deluding karma) marks the soul’s entry into the fourth guṇasthāna. This state is stable but not irreversible; because the deluding karma is only partially destroyed, the soul may regress if passions re-emerge. Thus, kṣayopaśama is both a moment of spiritual advancement and a reminder of the fragility of progress when deluding karma is not fully eradicated.\n\nJain philosophers—across Digambara and Śvetāmbara traditions—describe kṣayopaśama as a subtle and dynamic karmic condition. It is neither purely temporary (like upaśama) nor fully transformative (like kṣaya). Instead, it is an intermediate state that allows the soul to experience glimpses of its inherent purity. These glimpses motivate further practice of right conduct, meditation, and restraint. Kṣayopaśama thus serves as a bridge between bondage and liberation, illustrating the complex mechanics of karmic attenuation in Jain doctrine.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "क्षयोपशमः कर्मणः",
+      "transliteration": "kṣayopaśamaḥ karmaṇaḥ",
+      "translation": "“Kṣayopaśama is the mixed state of destruction and subsidence of karma.”",
+      "notes": "This concept appears in discussions of karmic states in Tattvārtha Sūtra 8.3–8.5. The text distinguishes kṣaya, upaśama, and kṣayopaśama as three modes through which karma loses its potency. Traditional commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi) elaborate on how kṣayopaśama enables partial manifestation of the soul’s innate qualities."
+    },
+    {
+      "title": "Gommatasāra (Karmakāṇḍa)",
+      "author": "Nemicandra Siddhānta Cakravartin",
+      "original_text": "कषयोपशमो नाम कषयस्योपशमस्य च योगः",
+      "transliteration": "kṣayopaśamo nāma kṣayasyopaśamasya ca yogaḥ",
+      "translation": "“Kṣayopaśama is the conjunction of destruction and subsidence.”",
+      "notes": "Gommatasāra provides detailed classifications of karmic states. It explains how kṣayopaśama allows partial emergence of knowledge or faith while residual karma remains capable of reactivation."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Kundakunda",
+      "original_text": "उपशमकषययोगेण भावो विवर्तते",
+      "transliteration": "upaśama-kṣaya-yogeṇa bhāvo vivartate",
+      "translation": "“Through the combination of subsidence and destruction, the soul’s qualities manifest variably.”",
+      "notes": "Although Kundakunda does not always use the term kṣayopaśama explicitly, his descriptions of mixed karmic states align with the concept. Digambara commentarial traditions interpret these passages as referring to kṣayopaśama conditions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Kṣayopaśama means that karma is permanently eliminated.",
+      "reality": "Kṣayopaśama is only a partial destruction combined with subsidence. The karma can reassert itself because it is not fully eradicated."
+    },
+    {
+      "myth": "Kṣayopaśama guarantees irreversible spiritual progress.",
+      "reality": "Progress achieved through kṣayopaśama—such as right faith—can be lost if deluding karma resurges. Only kṣaya (complete destruction) ensures irreversible advancement."
+    },
+    {
+      "myth": "Kṣayopaśama is identical across all karmic categories.",
+      "reality": "Different karmas (knowledge-obscuring, perception-obscuring, deluding, obstructive) manifest kṣayopaśama differently, and Jain texts describe distinct effects depending on the karma involved."
+    }
+  ]
+}

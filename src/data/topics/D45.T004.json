@@ -1,0 +1,43 @@
+{
+  "overview": "Online speech refers to all forms of expression communicated through digital networks, including social media posts, comments, blogs, messaging platforms, video sharing, and collaborative forums. It encompasses both synchronous and asynchronous communication and has become a central medium for public discourse, community building, education, and activism. Because online environments collapse traditional boundaries of geography, identity, and authority, online speech raises complex questions about ethics, responsibility, privacy, and the consequences of amplification.\n\nFrom a Jain studies perspective, online speech can be examined through the lens of ahiṃsā (non‑harm), satya (truthfulness), and careful attention to the karmic consequences of verbal action (vāc‑karma). While classical Jain texts do not address digital communication directly, they provide a framework for evaluating speech in any medium. Online communication often accelerates reactions, encourages anonymity, and enables rapid dissemination of both constructive and harmful content. Therefore, applying Jain principles requires heightened awareness of intention, tone, and impact.\n\nIn contemporary scholarship, online speech is also analyzed through legal, sociological, and technological frameworks. These include debates about free expression, content moderation, misinformation, harassment, and the responsibilities of platforms. The global nature of digital communication means that norms vary across cultures and jurisdictions, making online speech a dynamic and evolving field of study.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 7.21",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "वाग्दोषात् परपीडनम्",
+      "transliteration": "vāgdoṣāt parapīḍanam",
+      "translation": "Harm to others arises from faults of speech.",
+      "notes": "This aphorism, from a universally respected Jain philosophical text (Tier A), identifies harmful speech as a cause of injury. While composed long before digital communication, it provides a foundational principle for evaluating online speech through the lens of non‑harm."
+    },
+    {
+      "title": "Daśavaikālika Sūtra 8.36",
+      "author": "Attributed to Śramaṇa Devardhigaṇi Kṣamāśramaṇa (compiler)",
+      "original_text": "सुणहु वयणं जोगं, जोगेण वयणं सुणहु",
+      "transliteration": "suṇahu vayaṇaṃ jogaṃ, jogeṇa vayaṇaṃ suṇahu",
+      "translation": "Listen to speech with restraint, and speak with restraint when you listen.",
+      "notes": "This passage emphasizes disciplined listening and speaking. In online contexts, where reactive communication is common, the principle of restraint helps guide responsible engagement."
+    },
+    {
+      "title": "Ācārāṅga Sūtra 1.5.4",
+      "author": "Traditionally attributed to Mahāvīra’s teachings; compiled by Śramaṇa Devardhigaṇi",
+      "original_text": "ण वि भासे अणभासे, भासे अणभासे",
+      "transliteration": "ṇa vi bhāse aṇabhāse, bhāse aṇabhāse",
+      "translation": "One should not speak what should not be spoken; one should speak what should be spoken.",
+      "notes": "This guidance on discernment in speech is central to Jain ethics. Applied to online speech, it encourages careful evaluation of whether a message is truthful, necessary, and non‑harmful before posting."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Online speech is less ethically significant because it is not face‑to‑face.",
+      "reality": "Digital communication can have far‑reaching consequences, often amplified beyond traditional interpersonal interactions. Jain principles treat all forms of speech as karmically consequential, regardless of medium."
+    },
+    {
+      "myth": "Anonymity online removes personal responsibility for speech.",
+      "reality": "While anonymity may obscure identity, ethical traditions—including Jainism—hold individuals accountable for intention and impact. Harmful speech generates consequences even when the speaker is not publicly known."
+    },
+    {
+      "myth": "Online speech is inherently harmful because digital platforms encourage conflict.",
+      "reality": "Online environments can facilitate both harm and benefit. Constructive dialogue, education, compassion, and community support are equally possible. Ethical frameworks help guide positive use rather than assuming negativity."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, a “scriptural story” refers to a narrative found within canonical or near‑canonical literature that illustrates ethical principles, karmic mechanics, cosmology, or the conduct of exemplary figures. These stories appear across Śvetāmbara and Digambara canons, often in Prakrit (Ardhamāgadhī, Śaurasenī) or Sanskrit, and serve as pedagogical tools rather than literal historical accounts. They are used to convey the consequences of actions (karma‑phala), the stages of spiritual development (guṇasthāna), and the ideals of ahiṃsā, satya, aparigraha, and restraint.\n\nScriptural stories frequently center on tīrthaṅkaras, gaṇadharas, śrāvakas, śrāvikās, and celestial beings. They may describe previous births (jātaka‑like narratives), karmic transformations, or moral dilemmas resolved through Jain ethical reasoning. In both Digambara and Śvetāmbara traditions, these stories are not treated as independent authority but as part of a larger textual ecosystem: canonical āgamas (Śvetāmbara), śāstras and commentaries (Digambara), narrative compendia, and later retellings. Their function is illustrative—clarifying doctrinal points through memorable narrative form.\n\nBecause Jainism emphasizes non-absolutism (anekāntavāda), scriptural stories often present multiple perspectives or highlight the limits of singular viewpoints. They also demonstrate the workings of karma in detail, showing how even subtle intentions shape future experiences. Modern scholarship notes that these narratives evolved over centuries, with variations across manuscripts and sectarian recensions. Therefore, responsible study requires attention to edition, provenance, and commentary.\n\nWithin Jain pedagogy, scriptural stories are used in lay instruction, youth education, and ethical reflection. They are not prescriptive legal rulings; rather, they invite contemplation and dialogue. When interpreted carefully—distinguishing between direct quotation, traditional commentary, and modern analysis—they provide insight into Jain values and the lived imagination of the tradition.",
+  "primary_sources": [
+    {
+      "title": "Uttarādhyayana-sūtra (Śvetāmbara)",
+      "author": "Traditionally attributed to the canonical redactors; no single author",
+      "original_text": "“ṇaṁ se bhikkhū aṇutāveṇaṁ kāraṇaṁ karanti.”",
+      "transliteration": "ṇaṁ se bhikṣuḥ anutāvena kāraṇaṁ karanti",
+      "translation": "“Indeed, monks act with careful reflection.”",
+      "notes": "The Uttarādhyayana-sūtra contains numerous didactic stories, such as the narrative of King Nami, illustrating renunciation and ethical discernment. Editions vary; the line above is representative of the text’s emphasis on reflective action."
+    },
+    {
+      "title": "Jñātādharmakathā (Śvetāmbara)",
+      "author": "Canonical compilation; anonymous redaction",
+      "original_text": "“savve pāṇā suhaṁ icchanti.”",
+      "transliteration": "sarve prāṇāḥ sukham icchanti",
+      "translation": "“All living beings desire happiness.”",
+      "notes": "This āgama includes narrative exempla explaining moral duties toward living beings. Stories often illustrate the consequences of harming even minute life forms."
+    },
+    {
+      "title": "Padmapurāṇa (Digambara)",
+      "author": "Raviṣeṇa (c. 7th century CE)",
+      "original_text": "“jñānaṁ ca caritraṁ ca samyagdarśanasaṁyutam.”",
+      "transliteration": "jñānaṁ ca caritraṁ ca samyagdarśana-saṁyutam",
+      "translation": "“Knowledge and conduct, joined with right vision.”",
+      "notes": "The Padmapurāṇa recounts the life of Rāma and Lakṣmaṇa within a Jain cosmological frame. Its stories illustrate karma theory and the ideal conduct of kṣatriyas under Jain ethical norms."
+    },
+    {
+      "title": "Ādi-purāṇa (Digambara)",
+      "author": "Jinasena (9th century CE)",
+      "original_text": "“vītarāgā hi siddhāḥ.”",
+      "transliteration": "vītarāgā hi siddhāḥ",
+      "translation": "“The liberated ones are free from all passions.”",
+      "notes": "Contains extensive narrative material on Ṛṣabhanātha and his descendants. Stories emphasize the gradual emergence of civilization and the role of restraint in spiritual progress."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Scriptural stories are literal historical accounts meant to be taken as factual records.",
+      "reality": "Jain traditions treat these narratives as pedagogical and symbolic, illustrating ethical and karmic principles. Manuscript variation and allegorical structure show they are not intended as strict historical chronicles."
+    },
+    {
+      "myth": "All Jain sects preserve identical versions of scriptural stories.",
+      "reality": "Digambara and Śvetāmbara traditions often maintain distinct recensions, emphases, and narrative details. Differences reflect historical development, not doctrinal contradiction."
+    },
+    {
+      "myth": "Scriptural stories function as binding religious rulings for laypeople.",
+      "reality": "They serve as moral exempla, not legal directives. Actual practice guidance comes from prescriptive texts, commentaries, and qualified human teachers."
+    }
+  ]
+}

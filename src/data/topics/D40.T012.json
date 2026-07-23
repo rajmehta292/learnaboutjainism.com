@@ -1,0 +1,51 @@
+{
+  "overview": "Jnana Panchami is a Jain festival dedicated to the veneration, cultivation, and purification of **jnana** (knowledge), one of the five fundamental virtues in Jain philosophy. Observed primarily by Śvetāmbara communities—especially Mūrti-pūjaka and Sthānakavāsī traditions—it occurs on the fifth day (Pañcamī) of the bright half of Kārttika month, following the completion of the eight-day **Aṣṭāhnikā** period and the preceding festival of **Śruta Pañcamī**. While Śruta Pañcamī honors scriptures and scriptural custodians, Jnana Panchami focuses on the inner and outer dimensions of knowledge: scriptural study, ethical reflection, and the removal of obstacles (antarāya karma) that impede right knowledge.\n\nThe festival is grounded in the Jain understanding of knowledge as a multi-layered spiritual capacity, ranging from sensory cognition to omniscience (kevala‑jnana). Laypeople typically engage in scriptural reading, penance, and acts of reverence toward libraries, manuscripts, and teachers. In many Śvetāmbara communities, sacred texts are ceremonially cleaned, catalogued, or displayed, symbolizing the preservation of **śruta‑jnana** (scriptural knowledge). Digambara communities do not universally celebrate Jnana Panchami as a distinct festival, though some regional groups observe related practices of honoring knowledge during Kārttika.\n\nThe day is also associated with the removal of **jnanāvaraṇīya karma** (knowledge‑obscuring karma). Traditional commentaries describe Jnana Panchami as an opportunity to reaffirm commitment to study, humility, and the disciplined pursuit of right knowledge (samyag‑jnana), which is essential for progress through the **guṇasthānas** (spiritual stages).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "ज्ञानं च",
+      "transliteration": "jñānaṃ ca",
+      "translation": "“Knowledge (is one of the fundamental categories).”",
+      "notes": "Tattvārtha Sūtra 1.9 lists jñāna as a core ontological category. Later chapters (1.10–1.33) classify the five types of knowledge: mati, śruta, avadhi, manaḥparyaya, and kevala. These passages form the doctrinal basis for festivals centered on knowledge."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "ज्ञानावरणीयं कर्म",
+      "transliteration": "jñānāvaraṇīyaṃ karma",
+      "translation": "“The knowledge‑obscuring karma (is one of the eight types of karma).”",
+      "notes": "From Tattvārtha Sūtra 8.1–8.3. Jnana Panchami practices often emphasize reducing the influence of this karma through study, meditation, and ethical conduct."
+    },
+    {
+      "title": "Āvaśyaka Niryukti (Śvetāmbara)",
+      "author": "Bhadrabāhu (attributed)",
+      "original_text": "सुतं नाणं तहा नाणस्स कारणं",
+      "transliteration": "sutaṃ nāṇaṃ tahā nāṇassa kāraṇaṃ",
+      "translation": "“Scriptural knowledge is knowledge, and it is the cause of (higher) knowledge.”",
+      "notes": "This verse underscores the importance of śruta‑jnana as a foundation for spiritual progress. Śvetāmbara communities often cite this during Jnana Panchami observances."
+    },
+    {
+      "title": "Śruta‑Skandha References (Śvetāmbara Mūrti‑pūjaka tradition)",
+      "author": "Various compilers",
+      "original_text": "श्रुतपञ्चमी‑कथानक",
+      "transliteration": "śrutapañcamī‑kathānaka",
+      "translation": "Narratives associated with Śruta Pañcamī and Jnana Panchami.",
+      "notes": "These narrative collections (tier D community education) describe the ritual cleaning of scriptures and libraries. They are not primary canonical texts but are widely used in community practice."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jnana Panchami is only about worshipping books.",
+      "reality": "While Śvetāmbara communities ceremonially honor scriptures, the festival’s deeper purpose is the cultivation of right knowledge, reduction of knowledge‑obscuring karma, and recommitment to study and ethical discipline."
+    },
+    {
+      "myth": "All Jain traditions celebrate Jnana Panchami in the same way.",
+      "reality": "The festival is primarily Śvetāmbara; Digambara communities may not observe it as a distinct holiday. Practices and emphases vary across Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth traditions."
+    },
+    {
+      "myth": "Jnana Panchami grants spiritual knowledge automatically through ritual.",
+      "reality": "Jain texts emphasize that knowledge arises through disciplined effort, ethical conduct, and the gradual removal of karmic obstructions. Rituals are supportive but not sufficient on their own."
+    }
+  ]
+}

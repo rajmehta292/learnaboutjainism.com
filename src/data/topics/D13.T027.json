@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical and ethical literature, **madhyastha** (Sanskrit/Prakrit: *majjhattha*, *madhyastha*) refers to the state of **equanimity, neutrality, and non‑attachment** toward beings and situations. It is most commonly listed as one of the **four sublime attitudes** (*caturbhāvanā* or *caturviśuddhi*) cultivated by laypeople and ascetics to purify intention and reduce karmic influx. In this context, *madhyastha* means maintaining a calm, impartial disposition toward those who are not receptive to guidance, instruction, or moral uplift. Rather than reacting with frustration, aversion, or coercive effort, the practitioner remains centered, wishing well but without attachment to outcomes.\n\nAcross Digambara and Śvetāmbara traditions, *madhyastha* is described as a **mental discipline** that supports *ahiṃsā* (non‑violence) and *saṃyama* (self‑restraint). It is not indifference in the sense of apathy; rather, it is a **balanced neutrality** that avoids harmful emotional entanglement. Commentaries emphasize that attempting to force change upon someone who is unwilling can generate anger, pride, or delusion—states that bind karma. *Madhyastha* protects the practitioner from these reactions.\n\nIn karma theory, *madhyastha* is associated with the gradual refinement of the **mohaniya karma** (deluding karma). By cultivating equanimity toward difficult or unreceptive individuals, one weakens passions (*kaṣāyas*) and moves toward higher levels of spiritual development (*guṇasthāna*). The term also appears in ethical manuals for householders, where it is framed as a practical attitude for navigating social life without generating hostility or attachment.\n\nHistorically, the concept appears in early canonical Prakrit texts and continues through medieval Sanskrit commentaries. While the nuances differ slightly across sects, all major Jain traditions treat *madhyastha* as a foundational virtue supporting non‑violence, compassion, and inner steadiness.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "मैत्री करुणा मुदिता माध्यस्थ्यं च",
+      "transliteration": "maitrī karuṇā muditā mādhyasthyaṃ ca",
+      "translation": "Friendliness, compassion, joy, and equanimity (toward the unreceptive).",
+      "notes": "Tattvārtha Sūtra 7.11 lists *madhyasthya* as one of the four attitudes to be cultivated for mental purification. Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) explain that equanimity is directed toward those who neither accept guidance nor respond to moral instruction."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text (author unknown)",
+      "original_text": "मज्जहत्तो भावो समो",
+      "transliteration": "majjhatto bhāvo samo",
+      "translation": "The state of neutrality is equanimity.",
+      "notes": "This passage appears in discussions of the mental qualities required for ascetic steadiness. The term *majjhatta* (Prakrit) is cognate with Sanskrit *madhyastha*."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra)",
+      "author": "Pūjyapāda",
+      "original_text": "अप्रवृत्तेषु समभावो माध्यस्थ्यम्",
+      "transliteration": "apravṛtteṣu samabhāvo mādhyasthyam",
+      "translation": "Equanimity toward those who do not engage (in right conduct) is called *madhyasthya*.",
+      "notes": "Pūjyapāda clarifies that *madhyastha* is not apathy but a calm neutrality that avoids anger or coercion when others are unwilling to follow virtuous paths."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Madhyastha means emotional detachment from all people and situations.",
+      "reality": "Jain texts define *madhyastha* specifically as equanimity toward those who are unreceptive to guidance. It does not imply apathy or withdrawal from compassionate engagement."
+    },
+    {
+      "myth": "Practicing madhyastha requires avoiding social responsibility.",
+      "reality": "The virtue concerns inner attitude, not external withdrawal. One may continue offering help, but without frustration, coercion, or attachment to outcomes."
+    },
+    {
+      "myth": "Madhyastha is identical across all Indian philosophical traditions.",
+      "reality": "While equanimity is a shared concept, Jain *madhyastha* is embedded in karma theory and the four attitudes (*maitrī*, *karuṇā*, *muditā*, *madhyastha*), giving it a distinct doctrinal role."
+    }
+  ]
+}

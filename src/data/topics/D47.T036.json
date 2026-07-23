@@ -1,0 +1,55 @@
+{
+  "overview": "In Jain thought, “evidence standards” are not a separate doctrine with a single technical term, but they emerge from the broader epistemological framework of pramāṇa (valid cognition), naya (standpoints), anekāntavāda (non-one-sidedness), and the graded hierarchy of knowledge from ordinary perception to omniscience. When Jains ask whether a claim is trustworthy—about ethics, cosmology, karma, or scriptural authority—they implicitly rely on these standards.\n\nAt the most basic level, Jain epistemology distinguishes between valid and invalid cognition. Valid cognition (pramāṇa) is that which reveals an object as it is, without distortion, while invalid cognition is mixed with doubt, error, or illusion. Within pramāṇa, classical Jain authors recognize multiple means of knowing, including direct cognition (pratyakṣa), inference (anumāna), scriptural testimony (āgama or śruta), and comparison or analogy (upamāna). Each of these is admissible as “evidence,” but not with equal weight: they are graded according to their proximity to the soul’s unobstructed awareness. Sensory and mental perception (mati-jñāna) and scriptural knowledge (śruta-jñāna) are considered indirect (parokṣa), while clairvoyance (avadhi-jñāna), telepathic cognition (manaḥparyāya-jñāna), and omniscience (kevala-jñāna) are direct (aparokṣa). The closer a cognition is to kevalajñāna, the higher its evidential authority.\n\nThis hierarchy is tied to the Jain understanding of the soul and karma. Knowledge is the soul’s intrinsic nature, but karmic particles obscure it. Evidence standards therefore include a moral dimension: the reliability of a knower depends on the degree to which their knowledge-obscuring karmas (jñānāvaraṇīya karma) have been reduced. An omniscient Tīrthaṅkara or kevalin is the highest evidential authority, followed by advanced ascetics with extraordinary cognition, then ordinary learned monks and lay scholars, and finally everyday sense-based opinions. This is why Jain texts often speak of the āpta—the trustworthy, spiritually advanced person—as the proper source of testimony. Scriptural testimony is valid not simply because it is old, but because it is traced back to such āptas.\n\nAlongside pramāṇa, Jainism insists that all evidence is perspectival. Naya theory describes partial standpoints—such as the practical (vyavahāra-naya) or the ultimate (niścaya-naya)—from which statements are made. Anekāntavāda and syādvāda formalize this into a disciplined method: any assertion is true only under certain conditions and from certain angles. Evidence standards therefore require that claims be qualified (syāt—\"in a certain respect\") and that multiple, apparently conflicting perspectives be integrated rather than absolutized. A single piece of evidence is rarely treated as final; instead, Jains look for convergence across pramāṇas and nayas.\n\nIn scriptural and doctrinal matters, evidence standards are closely tied to the status of texts. Canonical Āgamas and works like the Tattvārtha Sūtra are treated as primary sources, but even these are interpreted through commentarial traditions that acknowledge loss, redaction, and sectarian differences. Digambara and Śvetāmbara communities, for example, disagree about the preservation of the original Angas, and this disagreement itself is handled through evidential arguments about lineage, manuscript history, and the reliability of oral transmission. Modern scholarship adds another layer, using philology, history, and comparative philosophy to evaluate textual claims, but within Jain practice these scholarly tools are secondary to the internal criteria of āpta testimony, karmic purity, and doctrinal coherence.\n\nPractically, Jain evidence standards encourage caution and humility. Because reality is many-sided and ordinary cognition is limited, strong claims—especially those affecting ethics, health, or communal practice—are expected to be grounded in multiple pramāṇas: scriptural passages interpreted in context, logical reasoning, experiential insight, and the guidance of qualified teachers. Where evidence is incomplete or disputed, the tradition often recommends restraint rather than dogmatic assertion. This is visible in debates over cosmological details, the exact mechanics of karma, or the historical reconstruction of early Jainism, where texts, commentaries, and modern research do not always align.\n\nFor contemporary students, these standards suggest a layered approach to evidence: begin with primary Jain scriptures and classical treatises; read them through responsible commentaries; compare sectarian positions; and then engage modern academic work, all while remembering that, in Jain terms, no human evidence is absolute. Only kevalajñāna is perfectly authoritative. Everything else is provisional, to be held with conviction but also with openness to correction, in line with anekāntavāda. When questions touch on health, law, or major life decisions, Jain epistemology itself points outward: spiritual texts are not a substitute for qualified medical, legal, or psychological expertise, and responsible practice requires integrating those forms of evidence as well.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "प्रमाणनयवैशेष्याज्ज्ञानं तत्त्वार्थदर्शनम् ।",
+      "transliteration": "pramāṇa-naya-vaiśeṣyāj jñānaṃ tattvārtha-darśanam",
+      "translation": "Knowledge and perception of reality arise through the distinct modes of pramāṇa and naya.",
+      "notes": "The Tattvārtha Sūtra is a foundational Sanskrit compendium accepted by both major Jain sects. Early chapters outline categories of knowledge and perception, linking valid cognition (pramāṇa) and standpoints (naya) to right faith and right knowledge. This verse encapsulates the idea that evidence is structured by both comprehensive cognition and partial perspectives, forming the basis for later discussions of epistemic standards."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to the Ganadharas of Mahāvīra",
+      "original_text": "णाणं च दंसणं च चरित्तं च तवो च तित्थस्स धम्मो।",
+      "transliteration": "ñāṇaṃ ca daṃsaṇaṃ ca carittaṃ ca tavo ca titthassa dhammo",
+      "translation": "Knowledge, perception, conduct, and austerity—these are the dharma taught by the Jina.",
+      "notes": "Composed in Ardhamāgadhī Prakrit, the Ācārāṅga Sūtra emphasizes the ethical and experiential dimensions of knowledge. By placing knowledge (ñāṇa) and perception (daṃsaṇa) alongside conduct and austerity, it implies that evidential reliability is inseparable from moral discipline. The text frequently warns against careless belief and urges careful observation and non-harm, shaping a cautious attitude toward what counts as trustworthy cognition."
+    },
+    {
+      "title": "Aptamīmāṃsā",
+      "author": "Samantabhadra",
+      "original_text": "आप्तो हि ज्ञानवान् धर्मवान् अलुब्धः सत्यवाग् हितवादी च।",
+      "transliteration": "āpto hi jñānavān dharmavān alubdhaḥ satyavāg hitavādī ca",
+      "translation": "The trustworthy authority (āpta) is one who possesses knowledge, lives in dharma, is free from greed, speaks truth, and speaks for others’ welfare.",
+      "notes": "Samantabhadra’s Aptamīmāṃsā is a key Digambara text on epistemology and authority. This verse defines the criteria for reliable testimony: not merely intellectual skill, but ethical integrity and selflessness. It underpins Jain standards for accepting scriptural and doctrinal evidence, insisting that the character of the witness is part of the evidential evaluation."
+    },
+    {
+      "title": "Nyāyāvatāra",
+      "author": "Siddhasena Mahāmati",
+      "original_text": "प्रमाणं द्विविधं प्रोक्तं प्रत्यक्षमनुमानकम्।",
+      "transliteration": "pramāṇaṃ dvividhaṃ proktaṃ pratyakṣam anumānakam",
+      "translation": "Valid cognition is said to be of two kinds: direct perception and inference.",
+      "notes": "In this concise Sanskrit treatise, Siddhasena engages with broader Indian logical traditions. While Jain epistemology ultimately recognizes more pramāṇas, this verse shows the centrality of perception and inference as basic evidence types. Later verses integrate scriptural testimony and perspectival analysis, illustrating how Jain thinkers negotiate common Indian standards of evidence while maintaining their own hierarchy of cognition."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism accepts any sincere belief or scriptural statement as valid evidence, as long as it comes from a religious text.",
+      "reality": "Jain epistemology is highly discriminating. Scriptural testimony (āgama or śruta) is treated as valid only when it can be traced to trustworthy, ethically purified authorities (āptas) and when it coheres with other pramāṇas such as perception and inference. Texts are evaluated in light of lineage, karmic purity of the teachers, and consistency with core doctrines, and sectarian debates over the canon show that scriptural status itself is subject to evidential scrutiny."
+    },
+    {
+      "myth": "Because Jainism teaches anekāntavāda (many-sidedness), all viewpoints and all pieces of evidence are equally true.",
+      "reality": "Anekāntavāda does not flatten all claims into equal truth. It insists that statements are true under specific conditions and from particular standpoints (nayas), and it ranks evidence according to the clarity of cognition. Omniscient knowledge (kevalajñāna) is fully authoritative, while ordinary sense perception and opinion are limited and prone to error. Evidence standards require careful qualification of claims and integration of multiple pramāṇas, not indiscriminate acceptance of every view."
+    },
+    {
+      "myth": "Jain reliance on clairvoyance and omniscience means that ordinary empirical and logical evidence are irrelevant for practice today.",
+      "reality": "While Jain texts affirm extraordinary forms of direct knowledge, they also recognize empirical perception (mati-jñāna) and inference (anumāna) as important, though indirect, means of valid cognition. For contemporary ethical, social, and scientific questions, Jains are expected to use these ordinary pramāṇas responsibly and to integrate non-religious expertise—such as medical or legal evidence—rather than treating spiritual claims as a substitute for professional knowledge."
+    },
+    {
+      "myth": "Once a Jain community has accepted a doctrine, its truth is fixed and no further evidence or reinterpretation is needed.",
+      "reality": "Jain history shows ongoing debate and reinterpretation, especially regarding scripture, cosmology, and ritual practice. Digambara and Śvetāmbara disagreements over the preservation of the Angas, and later commentarial revisions, demonstrate that communal acceptance is not the final evidential criterion. Claims can be revisited in light of new textual discoveries, logical analysis, and ethical reflection, in keeping with the provisional and many-sided nature of non-omniscient knowledge."
+    }
+  ]
+}

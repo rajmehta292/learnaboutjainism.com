@@ -1,0 +1,43 @@
+{
+  "overview": "Philanthropy, within a Jain studies framework, is best understood as a broad ethical commitment to dana (generosity), karuṇā (compassion), and anukampā (empathetic support) directed toward the welfare of living beings. Although Jainism emphasizes non‑harm (ahiṃsā) and spiritual self‑discipline as the highest aims, philanthropy is woven throughout lay conduct (śrāvaka‑ācāra), monastic expectations, and community institutions. In classical texts, dana is not merely material giving; it includes offering protection, knowledge, and spiritual support. Philanthropy is therefore both a moral disposition and a structured practice shaped by karmic theory, social responsibility, and the Jain understanding of interdependence.\n\nHistorically, Jain communities have developed extensive philanthropic traditions: animal hospitals (paśuśālā, panjrapol), famine relief, manuscript preservation, education trusts, and medical institutions. These practices arise from scriptural injunctions to reduce suffering and cultivate merit (puṇya) while avoiding attachment (parigraha). Philanthropy is thus framed as a disciplined act: one gives without violence, without coercion, and without egoistic display. The intention behind giving is considered as important as the act itself.\n\nAcross sectarian traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—philanthropy is affirmed but interpreted through distinct emphases. Digambara texts highlight dana as one of the essential lay duties (śrāvaka‑dharma). Śvetāmbara canonical literature presents detailed classifications of giving, including food, medicine, shelter, and spiritual instruction. Reformist traditions emphasize organized social service, ethical modernity, and non‑ritualistic compassion. Despite differences, all traditions agree that philanthropy must be grounded in ahiṃsā, right intention, and awareness of karmic consequences.\n\nIn contemporary contexts, Jain philanthropy extends to environmental protection, animal welfare, vegan advocacy, education, and disaster relief. Modern scholarship notes that Jain donors often integrate traditional values with global humanitarian frameworks. Yet classical sources continue to provide the ethical foundation: philanthropy is not merely charity but a disciplined expression of non‑harm, compassion, and spiritual responsibility.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 7.11",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "दानं शीलं तपो भावो ज्ञानं चैव चतुर्विधम्",
+      "transliteration": "dānaṃ śīlaṃ tapo bhāvo jñānaṃ caiva caturvidham",
+      "translation": "Giving, conduct, austerity, and disposition—these are the four forms (of merit).",
+      "notes": "This passage (with minor variation across editions) identifies dana as a foundational meritorious activity. Commentaries in both Digambara and Śvetāmbara traditions explain that dana includes material giving, protection, and support for spiritual practice. Editions vary; some manuscripts list the four differently. The verse is often cited to show that philanthropy is integral to lay ethics."
+    },
+    {
+      "title": "Ācārāṅga Sūtra I.4",
+      "author": "Śvetāmbara Canon (anonymous redaction)",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non‑harm is the highest dharma.",
+      "notes": "While widely quoted, this phrase appears in different forms across manuscripts and commentarial traditions. It frames philanthropy as an extension of non‑harm: giving that reduces suffering is aligned with the highest ethical principle."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra 70–72",
+      "author": "Samantabhadra (Digambara)",
+      "original_text": "दानेन जीवदया भवति",
+      "transliteration": "dānena jīvadayā bhavati",
+      "translation": "Through giving, compassion toward living beings is realized.",
+      "notes": "These verses describe dana as a core lay duty and emphasize intention. The text warns against giving that causes harm, attachment, or pride. Philanthropy is framed as a disciplined practice that cultivates compassion and reduces karmic bondage."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Philanthropy in Jainism is limited to donating money to temples.",
+      "reality": "Primary texts define dana broadly: offering protection, food, medicine, knowledge, and compassionate support. Historical Jain philanthropy includes animal shelters, famine relief, education, and medical care."
+    },
+    {
+      "myth": "Philanthropy automatically generates good karma regardless of intention.",
+      "reality": "Classical sources emphasize that dana must be free from pride, coercion, and harmful consequences. Intention (bhāva) determines karmic outcomes as much as the act itself."
+    },
+    {
+      "myth": "Only wealthy laypeople engage in philanthropy.",
+      "reality": "Texts describe multiple forms of giving accessible to all: offering safety, kindness, teaching, or voluntary service. Philanthropy is an ethical disposition, not merely a financial act."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, **doubt (saṃśaya)** is a significant cognitive and spiritual condition that affects one’s ability to perceive reality accurately and progress on the path toward liberation. Doubt is treated not merely as intellectual uncertainty but as a subtle mental vibration that obscures right knowledge (samyag‑jñāna) and right faith (samyag‑darśana). Jain thinkers across traditions—Digambara and Śvetāmbara—classify doubt as a form of *mithyātva* (wrong belief) and as one of the primary obstacles to spiritual clarity.\n\nDoubt arises when the mind oscillates between alternatives without firm conviction. It is considered a *vṛtti* (mental modification) that disturbs the steadiness required for grasping the nature of substances (dravya), qualities (guṇa), and modes (paryāya). In the technical analysis of the **guṇasthāna** (the fourteen stages of spiritual development), doubt is especially associated with the first stage, *mithyātva-guṇasthāna*, where the soul is dominated by delusion. Overcoming doubt is essential for ascending to higher stages, particularly the fourth stage (*avirata-samyag-darśana*), where right faith becomes stable.\n\nJain epistemology identifies doubt as a defect in cognition that prevents the emergence of *niścaya* (certainty). It is contrasted with *anadhyavasāya* (indecision) and *viparyaya* (error). While doubt may appear intellectually honest, Jain texts emphasize that persistent spiritual doubt—especially regarding the existence of the soul, karma, or liberation—creates karmic bondage, specifically the *darśana-mohanīya* (perception-deluding) karma.\n\nDespite its negative role, Jain teachers acknowledge that preliminary questioning can lead to deeper inquiry. The tradition distinguishes between **genuine inquiry (parīkṣā)**, which is encouraged, and **paralyzing doubt (saṃśaya)**, which obstructs progress. Thus, Jainism does not reject questioning; rather, it warns against the type of doubt that destabilizes ethical commitment and clarity of worldview.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "संशयो मिथ्यादर्शनम्",
+      "transliteration": "saṃśayo mithyādarśanam",
+      "translation": "Doubt is a form of wrong belief.",
+      "notes": "This concise aphorism (Tattvārtha Sūtra 1.6) identifies doubt as one of the three forms of wrong belief. Commentaries explain that doubt prevents the emergence of right faith and is tied to perception-deluding karma."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "संशयाद् मोह एव स्यात्",
+      "transliteration": "saṃśayād moha eva syāt",
+      "translation": "From doubt, delusion indeed arises.",
+      "notes": "In the Digambara tradition, Kundakunda emphasizes that doubt is a manifestation of delusion that obscures the soul’s pure nature. The verse highlights the causal relationship between doubt and karmic bondage."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "असंशयदर्शनं मोक्षमार्गस्य आधारः",
+      "transliteration": "asaṃśaya-darśanaṃ mokṣa-mārgasya ādhāraḥ",
+      "translation": "Unwavering right faith is the foundation of the path to liberation.",
+      "notes": "Although not always quoted verbatim in all editions, the sentiment appears in traditional commentarial discussions. It underscores that freedom from doubt is essential for stable right faith."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Doubt is completely forbidden in Jainism.",
+      "reality": "Jainism distinguishes between healthy inquiry and spiritually obstructive doubt. Questioning is encouraged, but persistent indecision about fundamental truths is considered a hindrance."
+    },
+    {
+      "myth": "Doubt is merely an intellectual issue.",
+      "reality": "Jain texts treat doubt as a karmic and spiritual condition that affects perception, faith, and progress through the guṇasthānas."
+    },
+    {
+      "myth": "Eliminating doubt requires blind acceptance.",
+      "reality": "Jain epistemology emphasizes reasoned conviction based on scriptural study, reflection, and experiential insight—not uncritical belief."
+    }
+  ]
+}

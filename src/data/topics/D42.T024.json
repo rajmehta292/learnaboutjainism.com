@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “regional style” refers to the distinct artistic, architectural, ritual, linguistic, and manuscript traditions that developed across different geographic zones of the Jain world. Although Jainism maintains shared doctrinal foundations—such as the teachings of the Tirthankaras, the centrality of ahimsa, and the authority of canonical and post‑canonical texts—its lived expression has always been shaped by local materials, political patronage, climate, and cultural exchange. Regional styles are therefore not deviations from orthodoxy but historically grounded variations in how communities preserved, represented, and transmitted Jain ideals.\n\nIn western India, particularly Gujarat and Rajasthan, Śvetāmbara Mūrti‑pūjaka communities developed temple forms characterized by intricate marble carving, multi‑shrine layouts, and highly ornamented toranas. Manuscript traditions in this region often feature dense miniature painting, gold detailing, and the use of Jain Devanāgarī or Jaina Nāgarī scripts. By contrast, Digambara traditions in Karnataka and surrounding regions cultivated monumental stone sculpture, including the famous Gommateshwara (Bāhubali) at Śravaṇa Beḷgoḷa, and temple plans influenced by early medieval Dravidian architectural idioms.\n\nIn northern India, especially in Uttar Pradesh and Madhya Pradesh, both Śvetāmbara and Digambara communities contributed to temple complexes with mixed stylistic influences from broader North Indian Nāgara architecture. The manuscript culture here often reflects regional scripts such as Śāradā or early Devanāgarī. In the Deccan and Maharashtra, Jain caves at Ellora and Aihole show how Jain monastic architecture adapted to rock‑cut traditions shared with Buddhist and Hindu communities.\n\nRegional style also appears in ritual practice: the form of āratī, the melodies of stavans, the design of pūjā implements, and even the iconographic conventions of Tirthankara images (such as eye‑painting, pedestal form, or the presence or absence of clothing) vary by region and sect. These variations do not alter the doctrinal identity of the Tirthankaras but reflect local aesthetic norms and community history.\n\nScholars emphasize that regional styles demonstrate Jainism’s ability to remain doctrinally consistent while culturally adaptive. They also provide crucial evidence for dating temples, reconstructing migration patterns, and understanding how Jain communities interacted with surrounding artistic and political cultures.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; Śvetāmbara canon",
+      "original_text": "णं चउव्विहं धम्मं णत्थि",
+      "transliteration": "ṇaṃ cauvvihaṃ dhammaṃ natthi",
+      "translation": "“There is no (true) religion without the fourfold discipline.”",
+      "notes": "While the text does not discuss regional style directly, its emphasis on discipline and conduct provides the doctrinal baseline from which regional artistic and architectural expressions diverged without altering core ethical commitments."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "मूर्तिपूजा तत्त्वज्ञानस्य साधनम्",
+      "transliteration": "mūrtipūjā tattvajñānasya sādhanam",
+      "translation": "“Image‑worship is a means toward knowledge of the principles.”",
+      "notes": "This widely cited line (noting manuscript variation and commentary differences) is used in traditional discussions to justify the role of images. Regional styles of Tirthankara icons—whether Śvetāmbara or Digambara—are understood as culturally shaped vehicles for the same soteriological aim."
+    },
+    {
+      "title": "Śravaṇa Beḷgoḷa Inscriptions",
+      "author": "Various donors and scribes (5th–12th century CE)",
+      "original_text": "ಬಾಹುಬಲदेವಂ ಮಹಾಮಸ್ತಕಾಭिषೇಕं",
+      "transliteration": "bāhubaladevaṃ mahā‑mastakābhiṣekaṃ",
+      "translation": "“The great head‑anointing (mahā‑mastakābhiṣeka) of Lord Bāhubali.”",
+      "notes": "Epigraphic evidence from Karnataka demonstrates how regional monumental sculpture and ritual festivals developed around local devotional culture while remaining aligned with Digambara theological frameworks."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Regional artistic differences indicate doctrinal disagreement between Jain communities.",
+      "reality": "Most regional variations—such as temple layout, iconographic detail, or manuscript style—reflect local aesthetics and patronage rather than doctrinal divergence. Core teachings remain consistent across regions."
+    },
+    {
+      "myth": "Śvetāmbara and Digambara iconographic differences are purely regional.",
+      "reality": "Although regional styles influence artistic expression, the major iconographic distinctions between Śvetāmbara and Digambara traditions arise from sectarian doctrinal interpretations, not geography alone."
+    },
+    {
+      "myth": "Uniformity in temple architecture is a sign of religious purity.",
+      "reality": "Jain history shows that diversity in architectural and artistic forms has long coexisted with strong commitments to scriptural authority and ethical discipline. Regional variation is a historical norm, not a deviation."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "overview": "In Jain philosophy, \"bandha\" (bondage) is a central technical term in the doctrine of karma and the path of liberation. It refers to the actual binding of karmic matter (pudgala) to the soul (jīva), a process that obscures and distorts the soul’s innate qualities of infinite knowledge, perception, bliss, and energy. Bandha is not merely a metaphor but is understood as a real, ontological union between two substances—soul and subtle matter—whose interaction produces the empirical, worldly condition of living beings.\n\nBandha is classified as one of the nine fundamental tattvas (principles) that describe the soul’s journey in saṃsāra: jīva, ajīva, āsrava (influx), bandha (bondage), saṃvara (stoppage), nirjarā (shedding), puṇya (merit), pāpa (demerit), and mokṣa (liberation). In this sequence, āsrava denotes the inflow of karmic particles toward the soul, while bandha denotes their actual assimilation and fusion with the soul’s units. The classic analogy is that of milk and water: once mixed, they form a single, inseparable solution, illustrating how karmic matter permeates the soul and becomes coextensive with it until it is later shed.\n\nThe Tattvārthasūtra, authoritative for both Digambara and Śvetāmbara traditions, presents bandha as arising from specific inner and outer conditions. Wrong belief (mithyādarśana), non-abstinence (avirati), negligence (pramāda), passions (kaṣāya), and the activities of body, speech, and mind (yoga) are identified as the causes of bondage. When these factors are active, karmic particles attracted through āsrava gain the capacity to bind to the soul. Thus, bandha is ethically conditioned: it depends on the quality of one’s beliefs, conduct, vigilance, and emotional states.\n\nFrom a technical standpoint, bandha is analyzed in four dimensions: (1) prakṛti-bandha, the bondage according to the specific type or nature of karma (such as knowledge-obscuring, perception-obscuring, feeling-producing, deluding, life-span determining, physique-making, status-determining, and obstructive karmas); (2) sthiti-bandha, the duration for which the karmas remain bound to the soul before fruition; (3) anubhāga-bandha, the intensity or fruition-strength of the karmas; and (4) pradeśa-bandha, the quantity of karmic space-points that bind to the soul. These four aspects allow Jain thinkers to describe bondage with great precision, explaining why different beings experience diverse lifespans, bodies, social positions, capacities, and obstacles.\n\nTraditional texts emphasize that bandha is beginningless for mundane souls but not endless. As long as the soul remains in ignorance and passion, new karmas are continuously bound while old karmas ripen and fall away, maintaining an unbroken chain of bondage. However, through right faith (samyagdarśana), right knowledge (samyagjñāna), and right conduct (samyakcāritra), along with practices such as restraint, austerity, vigilance, and purification of passions, the causes of bandha are progressively weakened. This leads first to saṃvara (stoppage of new bondage) and then to nirjarā (shedding of existing karmas). When all karmic bondage is destroyed, the soul attains kevalajñāna (omniscience) and ultimately mokṣa, a state of complete freedom from bandha.\n\nDifferent Jain traditions and commentarial lineages agree on the core definition of bandha as the union of soul and karmic matter, but they sometimes vary in explanatory detail, metaphors, and emphasis. Some texts highlight the mystical, subtle nature of the process—visible only to an omniscient being—while others focus on ethical psychology, analyzing how specific mental states and behaviors generate particular karmic bonds. Modern scholarship often explores bandha in dialogue with broader Indian philosophical discussions on causality, moral responsibility, and the nature of the self, yet it consistently treats the classical sources as the primary authority. Across these interpretations, bandha remains the key concept that explains why the soul, inherently pure and luminous, appears limited, embodied, and subject to pleasure, pain, and moral consequence.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra, Chapter 8 (Bondage of Karmas)",
+      "author": "Ācārya Umāsvāti / Umāsvāmi",
+      "original_text": "मिथ्यादर्शनाविरतिप्रमादकषाययोगा बन्धहेतवः ॥ ८.१ ॥\nसंयोगः पुद्गलेन बन्धः ॥ ८.२ ॥",
+      "transliteration": "mithyādarśanāviratipramādakaṣāyayogā bandhahetavaḥ || 8.1 ||\nsaṃyogaḥ pudgalena bandhaḥ || 8.2 ||",
+      "translation": "8.1 Wrong belief, non-abstinence, negligence, passions, and activities (of body, speech, and mind) are the causes of bondage.\n8.2 Bondage is the union of the soul with matter.",
+      "notes": "These sūtras form the foundational definition of bandha in Jainism. Verse 8.1 lists the five causal factors that transform karmic influx (āsrava) into actual bondage, emphasizing the ethical and psychological roots of karmic binding. Verse 8.2 offers a concise ontological definition: bandha is the conjunction of jīva and pudgala. Both Digambara and Śvetāmbara traditions accept the Tattvārthasūtra as authoritative, though their commentaries (such as Pūjyapāda’s Sarvārthasiddhi) elaborate differently on the nuances of wrong belief, negligence, and passions. The Sanskrit wording is stable across major editions, but minor differences in punctuation and transliteration occur in modern publications."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārthasūtra)",
+      "author": "Ācārya Pūjyapāda",
+      "original_text": "मिथ्यादर्शनं तु सम्यग्दर्शनविपरीतं, अविरतिः विरतेर्विपरीता, प्रमादो धर्मानादरः, कषायाः क्रोधमानमायालोभाः, योगः कायवाङ्मनःप्रवृत्तिः इति। एते पञ्च बन्धहेतवः।",
+      "transliteration": "mithyādarśanaṃ tu samyagdarśanaviparītaṃ, aviratiḥ viraterviparītā, pramādo dharmānādaraḥ, kaṣāyāḥ krodhamānamāyālobhāḥ, yogaḥ kāyavāṅmanaḥpravṛttiḥ iti. ete pañca bandhahetavaḥ.",
+      "translation": "Wrong belief is the opposite of right faith; non-abstinence is the opposite of abstinence; negligence is disregard for dharma; the passions are anger, pride, deceit, and greed; and activity is the operation of body, speech, and mind. These five are the causes of bondage.",
+      "notes": "Sarvārthasiddhi is a classical Digambara commentary that clarifies the brief sūtras of the Tattvārthasūtra. Here, Pūjyapāda explains each cause of bandha in ethical and psychological terms, linking them to earlier discussions of right faith and the twenty-five forms of activity. While the commentary is not itself a primary sūtra, it is treated as a highly authoritative traditional exposition (tier B in the corpus classification). Some Śvetāmbara commentaries use slightly different examples or emphasize scriptural misinterpretation more strongly in defining pramāda (negligence)."
+    },
+    {
+      "title": "Bhagavatī-sūtra (Bhagavatī, reference to karmic reception)",
+      "author": "Traditionally attributed to Lord Mahāvīra’s teachings, compiled by gaṇadharas",
+      "original_text": "सव्वेणं सव्वे जिवा सव्वे कर्मे बन्धंति।",
+      "transliteration": "savveṇaṃ savve jīvā savve karme bandhaṃti.",
+      "translation": "By all their units, souls bind all the karmas that are to be bound.",
+      "notes": "This Prakrit line (often paraphrased in secondary literature) reflects the doctrine that the soul, in its entirety, receives and binds karmic particles across all its units simultaneously, without hierarchical ordering. The exact wording and segmentation can vary slightly between manuscript traditions and modern critical editions, and some sources present the phrase within a longer discussion of karmic processes. The passage is used to illustrate the subtle and pervasive nature of bandha: karmic matter permeates the whole soul rather than attaching to a single localized point."
+    },
+    {
+      "title": "Samayasāra (Selected verses on karma-bandha)",
+      "author": "Ācārya Kundakunda",
+      "original_text": "जो सम्यग्दंसणसम्यग्ज्ञानसम्यग्चरित्तसंपन्नो\nसो न करइ कम्मबन्धं, कम्मबन्धो हि मोहणो।",
+      "transliteration": "jo samyagdaṃsaṇasamyagñāṇasamyagcarittasaṃpanno\nso na karaï kammabandhaṃ, kammabandho hi mohaṇo.",
+      "translation": "One who is endowed with right faith, right knowledge, and right conduct does not create karmic bondage; karmic bondage indeed arises from delusion.",
+      "notes": "Samayasāra, a key Digambara text, focuses on the pure nature of the self and the distinction between the real (niścaya) and conventional (vyavahāra) viewpoints. This verse, as transmitted in common editions, links bandha directly to delusion (moha) and asserts that a soul established in the three jewels does not generate new bondage. Different recensions and translations may adjust the wording slightly, and some scholars debate the precise scope of \"not creating bondage\"—whether it refers to complete cessation or a high degree of reduction. Nonetheless, the text is consistently cited to support the idea that spiritual realization is incompatible with ongoing karmic binding."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Bandha is only a metaphorical or symbolic idea, not a real process.",
+      "reality": "Classical Jain texts treat bandha as a real, ontological union between soul and subtle matter. While modern readers may interpret it metaphorically, the traditional doctrine insists that karmic particles are actual pudgala that bind to the soul’s units, producing concrete effects such as obscuring knowledge, determining lifespan, and shaping bodily form."
+    },
+    {
+      "myth": "Bandha is caused only by major sins or gross acts of violence.",
+      "reality": "The Tattvārthasūtra and its commentaries state that bandha arises from a broad set of conditions: wrong belief, non-abstinence, negligence, passions, and the activities of body, speech, and mind. Even subtle forms of attachment, pride, carelessness, or unexamined belief can generate karmic bondage, not just overtly violent or immoral acts."
+    },
+    {
+      "myth": "Bandha is an irreversible fate; once karmas are bound, liberation is impossible.",
+      "reality": "Jain doctrine emphasizes that although bondage is beginningless for mundane souls, it is not endless. Through right faith, right knowledge, right conduct, restraint, austerity, and the weakening of passions, one can stop new bondage (saṃvara) and shed existing karmas (nirjarā). Complete destruction of bandha is the very definition of mokṣa, so liberation is precisely the state in which no karmic bondage remains."
+    },
+    {
+      "myth": "Bandha is imposed by a creator god or external divine will.",
+      "reality": "Jainism rejects the idea of a creator god who rewards or punishes souls. Bandha is governed by an impersonal moral law: karmic matter binds to the soul according to its own activities, passions, and beliefs. There is no external deity deciding bondage; the soul itself, through its conduct, is responsible for attracting and binding karmas."
+    },
+    {
+      "myth": "Bandha affects only the next life and has no relevance to present experience.",
+      "reality": "While some karmas bound in the past determine future births, many karmas also ripen in the present, influencing current knowledge, perception, emotions, health, social status, and opportunities. Bandha is a continuous process: karmas are being bound, maturing, and falling away at every moment, shaping both present and future conditions of the soul."
+    }
+  ]
+}

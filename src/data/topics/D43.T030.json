@@ -1,0 +1,43 @@
+{
+  "overview": "Diaspora identity refers to the complex, evolving sense of self experienced by individuals and communities living outside their ancestral homeland. In Jain studies, diaspora identity is examined within broader frameworks of cultural continuity, migration history, religious practice, and the negotiation of belonging. Although the term itself is modern, the phenomenon of Jain communities living beyond their regions of origin has historical precedents, including merchant mobility across the Indian Ocean, settlement in Central India, and later global migration to East Africa, Europe, and North America.\n\nDiaspora identity typically involves three interrelated dimensions. First is **memory and heritage**, in which individuals maintain narratives of origin, linguistic traditions, ritual practices, and ethical frameworks inherited from their community. Second is **adaptation and hybridity**, where diaspora Jains integrate local cultural norms, professional environments, and social expectations while selectively preserving or transforming inherited practices. Third is **community formation**, expressed through temples, study groups, youth organizations, and digital networks that sustain collective identity across geographic distance.\n\nWithin Jainism, diaspora identity often centers on questions of practice: how to observe anuvratas, how to maintain dietary commitments, how to transmit teachings to children, and how to interpret texts in multilingual environments. Diaspora communities frequently rely on translated scriptures, lay-led study circles, and hybrid ritual forms shaped by both Digambara and Śvetāmbara influences. Scholars note that diaspora identity is not merely preservation but active reinterpretation—an ongoing negotiation between tradition, modernity, and global belonging.\n\nBecause diaspora identity is shaped by lived experience rather than doctrinal prescription, Jain texts do not directly address the modern term. However, themes such as non-possession, adaptability, ethical intentionality, and community cohesion provide conceptual resources for understanding how Jains navigate life away from ancestral homelands. The study of diaspora identity thus intersects with history, sociology, language, ritual studies, and ethics, offering insight into how Jain traditions evolve while remaining anchored in core principles.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "परिव्राज्यं च देशान्तरगमनम्",
+      "transliteration": "parivrājyaṃ ca deśāntara-gamanam",
+      "translation": "Wandering includes movement to other regions.",
+      "notes": "This brief line appears in discussions of mendicant conduct (TS 7.12). While referring to monastic wandering rather than modern migration, it shows early recognition that movement across regions is part of lived religious life. It is not a doctrinal statement on diaspora identity but provides a conceptual anchor for mobility within Jain tradition."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "सीलेणोवस्सग्गो, सीलेणोवस्सयणं",
+      "transliteration": "sīleṇovassaggo, sīleṇovassayaṇaṃ",
+      "translation": "By conduct there is protection; by conduct there is dwelling.",
+      "notes": "This passage (Ācārāṅga 1.2) emphasizes that ethical conduct provides stability regardless of location. Later commentators interpret this as suggesting that moral discipline sustains identity even when external circumstances change, a theme relevant to diaspora contexts."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जहा ठाणं तहा धम्मो",
+      "transliteration": "jahā ṭhāṇaṃ tahā dhammo",
+      "translation": "Where one stands, there is the Dharma.",
+      "notes": "This aphoristic statement (Utt. 2.3) is often cited in diaspora discussions to illustrate that ethical and spiritual practice is not geographically bound. The text itself does not discuss diaspora identity, but the line is used in modern Jain education to support the idea that Dharma can be lived anywhere."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Diaspora identity means losing traditional Jain practices.",
+      "reality": "Research shows that diaspora communities often preserve practices with great intentionality, sometimes more systematically than in regions where Jainism is culturally dominant. Adaptation does not necessarily imply loss; it can involve creative continuity."
+    },
+    {
+      "myth": "Diaspora Jains follow a single, unified tradition.",
+      "reality": "Diaspora communities frequently include Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanthī members who collaborate in shared spaces. This produces hybrid forms of practice, but not a collapse of distinct traditions."
+    },
+    {
+      "myth": "Diaspora identity is purely religious.",
+      "reality": "Diaspora identity includes cultural, linguistic, professional, and generational dimensions. Religion is one component among many that shape how individuals understand belonging and heritage."
+    }
+  ]
+}

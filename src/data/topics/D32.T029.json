@@ -1,0 +1,43 @@
+{
+  "overview": "Lexicography is the scholarly discipline devoted to the study, compilation, and analysis of dictionaries. It encompasses both the practical craft of dictionary-making and the theoretical investigation of how words, meanings, and linguistic structures should be described. Historically, lexicography developed in many linguistic traditions, including Sanskrit and Prakrit, where early Jain and non-Jain scholars produced glossaries, synonym lists, and technical vocabularies to support scriptural study, grammar, and pedagogy.\n\nIn the Indian context, lexicography is closely tied to the preservation and interpretation of sacred texts. Jain traditions relied on lexicographical works to clarify archaic or technical terms found in Prakrit scriptures such as the *Āgamas*, *Niryuktis*, and *Cūrṇis*. These works helped students and scholars navigate polysemy, dialectal variation, and specialized doctrinal vocabulary. Over time, lexicography expanded to include bilingual dictionaries, etymological studies, and comprehensive encyclopedic lexicons.\n\nModern lexicography integrates linguistic theory, corpus analysis, digital tools, and cross-cultural comparison. It examines how dictionaries shape understanding, how definitions evolve, and how lexicons reflect social, philosophical, and religious contexts. In Jain studies, lexicography remains essential for accurate translation, commentary, and comparative research across Śvetāmbara, Digambara, and other traditions.",
+  "primary_sources": [
+    {
+      "title": "Pāiasaddamahaṇṇavo (Prakrit Lexicon)",
+      "author": "Dhanapāla (traditionally attributed)",
+      "original_text": "पाइअसद्दम्हण्णवो",
+      "transliteration": "Pāiasaddamahaṇṇavo",
+      "translation": "“The Great Ocean of Prakrit Words.” A lexicon explaining Prakrit terms, often used in Jain scriptural study.",
+      "notes": "A major medieval lexicographical work used across Jain traditions to clarify Prakrit vocabulary in canonical and commentarial literature. Considered a Tier A/B source depending on manuscript edition."
+    },
+    {
+      "title": "Abhidhāna-Rajendra",
+      "author": "Hemacandra",
+      "original_text": "अभिधान-राजेन्द्र",
+      "transliteration": "Abhidhāna-Rājendra",
+      "translation": "“The Royal Treasury of Words.” A Sanskrit lexicon compiled by the Jain polymath Hemacandra.",
+      "notes": "Hemacandra’s lexicographical works are foundational for understanding medieval Sanskrit and Prakrit usage. They support grammatical, poetic, and doctrinal study. Tier A/B source depending on edition."
+    },
+    {
+      "title": "Nāmamālā",
+      "author": "Various Jain authors (multiple recensions)",
+      "original_text": "नाममाला",
+      "transliteration": "Nāmamālā",
+      "translation": "“Garland of Names.” A list-style lexicon of synonyms and technical terms.",
+      "notes": "Used as a pedagogical tool in monastic and scholastic settings. Helps students learn synonyms and semantic fields relevant to Jain literature."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Lexicography is only about listing words and their meanings.",
+      "reality": "Lexicography involves complex decisions about semantic analysis, historical usage, dialect variation, cultural context, and textual interpretation. It is both a practical craft and a theoretical discipline."
+    },
+    {
+      "myth": "Ancient lexicons are simple glossaries with limited scholarly value.",
+      "reality": "Many early Jain and non-Jain lexicons are sophisticated works that preserve linguistic, cultural, and philosophical information essential for interpreting classical texts."
+    },
+    {
+      "myth": "Modern digital tools have replaced traditional lexicography.",
+      "reality": "Digital tools enhance lexicography but do not replace the need for expert analysis, historical knowledge, and careful interpretation of sources, especially in traditions with complex textual histories like Jainism."
+    }
+  ]
+}

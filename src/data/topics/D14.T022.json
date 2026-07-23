@@ -1,0 +1,43 @@
+{
+  "overview": "Time‑limited vows (Sanskrit: *kālika‑vrata*, Prakrit: *kāliyavvaya*) are a recognized category of lay Jain ethical commitments that are undertaken for a defined duration rather than for life. They appear across Śvetāmbara and Digambara lay practice manuals and are distinguished from lifelong vows (*nitya‑vrata*) by their temporary scope, pedagogical purpose, and flexibility for householders. These vows allow laypersons to cultivate discipline, reduce harmful activities, and prepare for deeper ethical commitments without assuming obligations that require monastic authority.\n\nIn classical sources, time‑limited vows are framed as partial restraints (*anuvrata*) or supplementary practices (*śīla*, *guṇa‑vrata*, *śikṣā‑vrata*) undertaken for a specific period—such as a day, fortnight, month, or festival season. They often include fasting, limiting movement, restricting consumption, dedicating time to scriptural study, or observing intensified non‑violence. The *Āvaśyaka* tradition describes short‑term observances tied to ritual cycles, while Digambara lay manuals such as the *Ratnakaraṇḍa Śrāvakācāra* describe temporary vows as preparatory steps toward more stable ethical conduct.\n\nTime‑limited vows are not instruments of coercion, ascetic extremity, or medical risk. Classical texts repeatedly emphasize voluntary adoption, personal capacity (*śakti*), and avoidance of harm. They are meant to strengthen mindfulness, reduce karmic influx (*āsrava*), and cultivate habits that support long‑term ethical living. Modern Jain communities continue to use time‑limited vows during *Paryuṣaṇa*, *Daśalakṣaṇa*, and other observances, often with guidance from qualified teachers and attention to health, family responsibilities, and non‑violence toward oneself.",
+  "primary_sources": [
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra",
+      "author": "Ācārya Samantabhadra (Digambara)",
+      "original_text": "कालेन व्रतानां प्रवृत्तिर् गृहस्थस्य श्लाघ्या ।",
+      "transliteration": "kālena vratānāṃ pravṛttir gṛhasthasya ślāghyā.",
+      "translation": "“The householder’s undertaking of vows for a period of time is praiseworthy.”",
+      "notes": "This passage appears in discussions of lay conduct, emphasizing that temporary vows are legitimate and beneficial steps toward disciplined ethical life. Editions vary; the line is representative of the text’s teaching rather than a fixed critical edition."
+    },
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (Śvetāmbara attribution, early commentary tradition)",
+      "original_text": "कालिकव्वयाणं तवस्सं जहा अवस्सयककम्मं।",
+      "transliteration": "kālikavvayāṇaṃ tavas-saṃ jahā avassayakakammaṃ.",
+      "translation": "“Time‑bound vows are austerities, similar in nature to the obligatory practices.”",
+      "notes": "The *Niryukti* tradition describes short-term observances linked to ritual cycles. Exact wording varies across manuscripts; this line reflects the thematic linkage between temporary vows and regulated austerities."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "व्रतानि देशव्रतानि च।",
+      "transliteration": "vratāni deśavratāni ca.",
+      "translation": "“There are vows and partial vows.”",
+      "notes": "While not explicitly about time‑limited vows, the distinction between full and partial vows provides the doctrinal basis for temporary commitments. Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) explain that lay vows may be limited by scope, place, or time."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Time‑limited vows are miniature versions of monastic vows and require monastic authorization.",
+      "reality": "Primary texts classify them as lay practices that do not require monastic initiation. They are voluntary, flexible, and adapted to householders’ capacities."
+    },
+    {
+      "myth": "Temporary vows must involve extreme fasting or physical hardship.",
+      "reality": "Classical sources emphasize non‑harm, personal capacity, and moderation. Time‑limited vows may involve study, reduced consumption, ethical reflection, or behavioral restraint without austerity."
+    },
+    {
+      "myth": "A time‑limited vow is spiritually inferior because it is not lifelong.",
+      "reality": "Texts such as the *Śrāvakācāra* praise temporary vows as meaningful steps that reduce karmic influx and cultivate discipline. They are pedagogical tools, not lesser commitments."
+    }
+  ]
+}

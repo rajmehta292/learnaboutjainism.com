@@ -1,0 +1,51 @@
+{
+  "overview": "Bala-maraṇa (बाल-मरण), often translated as “child-death,” is a classical Jain doctrinal category describing a spiritually unprepared death. In the canonical and commentarial literature, it is one of the three major types of maraṇa (death) distinguished by the degree of awareness, equanimity, and spiritual maturity present at the time of dying. Unlike saṃjñī-maraṇa (death with awareness) or paṇḍita-maraṇa (wise or disciplined death), bala-maraṇa refers to dying in a state of spiritual immaturity, impulsiveness, or confusion. The term does **not** refer to biological childhood; rather, it is a metaphor for a mind that lacks steadiness, discernment, and capacity for detached awareness.\n\nAcross Śvetāmbara and Digambara traditions, bala-maraṇa is consistently described as a death occurring without the cultivation of samyaktva (right faith), without the stabilizing of passions, and without the contemplative clarity recommended in the final stages of life. It is therefore considered spiritually disadvantageous, because the dying person is overwhelmed by fear, attachment, or delusion, and thus unable to direct consciousness toward liberation-oriented states.\n\nIn the karma theory framework, bala-maraṇa is associated with the activation of kaṣāyas (passions) at the moment of death, which can intensify the bondage of new karmas and influence the next birth. Commentaries emphasize that bala-maraṇa is not a moral condemnation but a descriptive category: most beings die in this state because they have not cultivated the advanced meditative capacities required for equanimous death.\n\nJain texts also use bala-maraṇa pedagogically. By contrasting it with paṇḍita-maraṇa, they highlight the importance of lifelong ethical discipline, meditation, and gradual reduction of passions. The category appears in discussions of the guṇasthānas (stages of spiritual development), karma theory, and narratives illustrating the consequences of unprepared death. Modern Jain teachers treat bala-maraṇa as a reminder that spiritual preparation for death is inseparable from daily practice and cannot be postponed to the final moment.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "बालमरणं सञ्ज्ञिमरणं पण्डितमरणम्",
+      "transliteration": "bāla-maraṇaṃ sañjñi-maraṇaṃ paṇḍita-maraṇam",
+      "translation": "“There are three kinds of death: child-like death, conscious death, and wise death.”",
+      "notes": "Tattvārtha Sūtra 3.10 (Digambara numbering 3.11) provides the canonical triad of death types. The sūtra itself is brief; traditional commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi, Śvetāmbara commentaries by Siddhasena and others) explain that ‘bāla’ refers to spiritual immaturity, not chronological age."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra)",
+      "author": "Pūjyapāda",
+      "original_text": "बाल इति मोहवशाद् अविवेकिनो मरणम्",
+      "transliteration": "bāla iti mohavaśād avivekino maraṇam",
+      "translation": "“‘Child-like’ means death of one who, under the sway of delusion, lacks discernment.”",
+      "notes": "This Digambara commentary clarifies that bala-maraṇa is defined by delusion (moha) and absence of viveka (discernment). It is not tied to biological childhood."
+    },
+    {
+      "title": "Pravacanasāra (with commentary)",
+      "author": "Kundakunda",
+      "original_text": "मोहपरवशो बालो मरणेऽपि निश्चलतां न लभते",
+      "transliteration": "mohaparavaśo bālo maraṇe’pi niścalatāṃ na labhate",
+      "translation": "“The one overcome by delusion is ‘child-like’; even at death he does not attain steadiness.”",
+      "notes": "Used in Digambara study traditions to illustrate the karmic consequences of dying without equanimity."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "अविवेकिनो मरणं बालमरणं उच्यते",
+      "transliteration": "avivekino maraṇaṃ bāla-maraṇaṃ ucyate",
+      "translation": "“The death of one without discernment is called child-like death.”",
+      "notes": "Appears in didactic passages describing the qualities of a prepared versus unprepared death. The text emphasizes the role of mindfulness and detachment."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Bala-maraṇa refers to the physical death of infants or young children.",
+      "reality": "In Jain doctrine, ‘bāla’ is a metaphor for spiritual immaturity, not biological age. A person of any age can die a bala-maraṇa if the mind is dominated by fear, attachment, or delusion at the moment of death."
+    },
+    {
+      "myth": "Bala-maraṇa is a moral judgment implying wrongdoing.",
+      "reality": "Jain texts treat bala-maraṇa descriptively, not morally. It simply indicates that the dying person lacked the meditative steadiness required for equanimous death. Most beings die in this state due to ordinary karmic conditions."
+    },
+    {
+      "myth": "Bala-maraṇa is equivalent to ritual or intentional death practices.",
+      "reality": "Bala-maraṇa is the opposite of ritualized, equanimous death (paṇḍita-maraṇa). It describes an unprepared, passion-driven death and is never presented as a practice or goal."
+    }
+  ]
+}

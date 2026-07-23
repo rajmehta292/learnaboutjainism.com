@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “rights verification” refers to the careful process of confirming the authenticity, provenance, and interpretive legitimacy of claims about texts, practices, and historical events. Because Jain traditions rely on a vast corpus of Prakrit and Sanskrit scriptures, layered commentaries, and lineage-specific interpretations, scholars and practitioners emphasize rigorous verification to avoid misattributing doctrines, misquoting scriptures, or projecting modern assumptions onto ancient sources.\n\nWithin the architecture of Jain research, rights verification ensures that any textual passage or doctrinal claim is traced to a reliable edition, manuscript lineage, or commentary tradition. This includes confirming whether a text belongs to Digambara or Śvetāmbara canons, whether a cited verse appears in a critical edition, and whether a translation accurately reflects the original Prakrit or Sanskrit. Rights verification also involves distinguishing between primary sources (such as the *Āgamas* or *Ṣaṭkhaṇḍāgama*), secondary commentaries, and modern interpretations.\n\nIn manuscript studies, rights verification includes establishing the authenticity of palm-leaf manuscripts, identifying scribal hands, dating the manuscript through paleography, and confirming whether a manuscript is complete or interpolated. In digital humanities, it involves ensuring that digitized Jain texts are not corrupted by OCR errors, mislabeling, or unverified metadata.\n\nIn ethical and legal contexts, rights verification also refers to confirming permissions for reproducing Jain scriptures, images of manuscripts, temple photographs, or lineage-specific ritual manuals. Because many Jain texts are held in private bhandāras (libraries), scholars must verify custodial rights before publication or digital distribution.\n\nOverall, rights verification is a foundational discipline that protects the integrity of Jain knowledge, prevents doctrinal distortion, and supports responsible academic and community-based study.",
+  "primary_sources": [
+    {
+      "title": "Āyāraṅga-sutta (Ācārāṅga)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "ṇaṁ se bhikkhū ṇaṁ se bhikkhūṇaṁ dhamme ṇaṁ se uvāgāre",
+      "transliteration": "ṇaṃ se bhikkhū, ṇaṃ se bhikkhūṇaṃ dhamme, ṇaṃ se uvāgāre",
+      "translation": "“Let the monks be attentive; let them be attentive to the teaching; let them be attentive to the exposition.”",
+      "notes": "This passage is frequently cited in discussions of textual transmission and the need for careful preservation and verification of teachings. Rights verification ensures that such verses are drawn from authenticated editions of the Śvetāmbara canon."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama",
+      "author": "Kundakunda lineage (Digambara tradition)",
+      "original_text": "pajjavāyaṇaṁ kāraṇaṁ puvvāṇaṁ savisesaṁ",
+      "transliteration": "paryavāyaṇaṃ kāraṇaṃ pūrvāṇaṃ saviśeṣam",
+      "translation": "“The causes of karmic influx are described in detail in the ancient teachings.”",
+      "notes": "Critical editions of the *Ṣaṭkhaṇḍāgama* require rights verification because surviving manuscripts differ significantly. Scholars must confirm which recension is being cited."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "suddhā bhāvā yaṇāṇāṇaṁ",
+      "transliteration": "śuddhā bhāvā ya jñānāṇam",
+      "translation": "“Pure states are known through right knowledge.”",
+      "notes": "Used in discussions of epistemic integrity. Rights verification ensures that translations of Kundakunda’s works accurately reflect Digambara doctrinal terminology."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Rights verification is only a modern academic concern and has no place in traditional Jain practice.",
+      "reality": "Both Digambara and Śvetāmbara traditions historically maintained strict protocols for preserving manuscripts, authenticating recensions, and verifying lineage-based commentaries. Modern rights verification continues this longstanding discipline."
+    },
+    {
+      "myth": "Any digital version of a Jain text is automatically reliable.",
+      "reality": "Digitized texts often contain OCR errors, missing folios, or unverified metadata. Rights verification is essential to ensure that digital reproductions match authenticated manuscripts or critical editions."
+    },
+    {
+      "myth": "If a passage appears in a popular commentary, it must be part of the canonical scripture.",
+      "reality": "Commentaries frequently paraphrase, expand, or reinterpret canonical verses. Rights verification distinguishes between canonical text, commentary, and later doctrinal development."
+    }
+  ]
+}

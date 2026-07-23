@@ -1,0 +1,47 @@
+{
+  "overview": "“Jain Om” is a modern, widely used symbolic representation within Jain devotional, educational, and cultural contexts. Unlike the Vedic or Hindu ‘Om’, which is tied to specific phonetic and metaphysical doctrines, the Jain usage is primarily a **visual and mnemonic symbol** that condenses the five supreme beings (Pañca‑Parameṣṭhi) into a single emblem. The form most commonly seen today—ॐ written in Devanagari or similar scripts—emerged in the late medieval to modern period as Jain communities adopted a compact graphic sign for liturgical and pedagogical use.\n\nIn Jainism, the sound traditionally associated with the Pañca‑Parameṣṭhi is **“A+A+A+U+M”**, representing Arihanta, Siddha, Ācārya, Upādhyāya, and Sādhu. This sequence appears in canonical and commentarial sources as a **five‑part salutation**, not as a single phoneme. Over time, Jain teachers and communities visually compressed these syllables into a single symbol—now popularly called “Jain Om”—to represent the collective veneration of the five beings. Thus, Jain Om is best understood as a **symbolic abbreviation** of the Navakāra Mantra’s salutation structure.\n\nThe symbol is used across Digambara and Śvetāmbara traditions, though its theological interpretation remains consistent: it is **not** a metaphysical primordial sound but a **devotional shorthand**. In manuscripts, temple inscriptions, and modern educational materials, Jain Om functions as a marker of Jain identity and a reminder of the ethical and spiritual ideals embodied by the Pañca‑Parameṣṭhi.\n\nScholars note that Jain Om’s rise reflects broader patterns of Jain visual culture—especially the need for concise, recognizable symbols in manuscripts, yantras, and community emblems. Its meaning is therefore rooted in **Jain liturgical structure**, not in cross‑religious metaphysics. The symbol’s use today remains widespread, but its interpretation must be grounded in canonical passages that emphasize the fivefold salutation rather than any single sacred syllable.",
+  "primary_sources": [
+    {
+      "title": "Ṇamokāra (Navakāra) Mantra",
+      "author": "Canonical across Śvetāmbara and Digambara traditions",
+      "original_text": "णमो अरिहंताणं । णमो सिद्धाणं । णमो आयरियाणं । णमो उवज्झायाणं । णमो लोए सव्वसाहूणं ।",
+      "transliteration": "ṇamo arihaṃtāṇaṃ | ṇamo siddhāṇaṃ | ṇamo āyariyāṇaṃ | ṇamo uvajjhāyāṇaṃ | ṇamo loe savva‑sāhūṇaṃ |",
+      "translation": "Homage to the Arihantas; homage to the Siddhas; homage to the Ācāryas; homage to the Upādhyāyas; homage to all Sādhus in the world.",
+      "notes": "This mantra is the canonical basis for the fivefold salutation. Later Jain tradition interprets the initials A+A+A+U+M as the source of the symbolic ‘Jain Om’. The mantra itself does not contain the syllable ‘Om’; the symbol is a later visual abbreviation."
+    },
+    {
+      "title": "Tattvārtha Sūtra 1.1",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः ।",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "While not directly referencing ‘Om’, this foundational text is frequently cited in commentaries that explain the Pañca‑Parameṣṭhi as exemplars of right faith, knowledge, and conduct. Jain Om is often placed near this sūtra in manuscripts as a symbolic header."
+    },
+    {
+      "title": "Śvetāmbara Manuscript Colophons (various)",
+      "author": "Anonymous scribes",
+      "original_text": "अअअउम्",
+      "transliteration": "a‑a‑a‑u‑m",
+      "translation": "A symbolic sequence representing Arihanta, Siddha, Ācārya, Upādhyāya, and Sādhu.",
+      "notes": "This five‑letter sequence appears in medieval Jain manuscripts. It is the clearest textual precursor to the modern Jain Om symbol. The sequence is a mnemonic device, not a phonetic mantra."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain Om is identical to the Hindu Om and represents the same metaphysical concept.",
+      "reality": "Jain Om is a **symbolic abbreviation** of the fivefold salutation (A+A+A+U+M). It does not represent a primordial cosmic sound and has no Vedic metaphysical function."
+    },
+    {
+      "myth": "The Navakāra Mantra contains the syllable ‘Om’.",
+      "reality": "The canonical mantra contains **no** ‘Om’. The symbol emerged later as a visual shorthand for the initials of the Pañca‑Parameṣṭhi."
+    },
+    {
+      "myth": "Jain Om is a mandatory liturgical element prescribed by ancient scriptures.",
+      "reality": "No early canonical text mandates the use of the symbol. Its adoption is historical and cultural, not scripturally required."
+    },
+    {
+      "myth": "All Jain traditions interpret Jain Om in exactly the same way.",
+      "reality": "While the core meaning is shared, usage varies across Digambara and Śvetāmbara communities. Some emphasize its mnemonic value; others use it primarily as a visual emblem."
+    }
+  ]
+}

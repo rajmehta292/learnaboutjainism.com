@@ -1,0 +1,55 @@
+{
+  "overview": "In Jain thought, “care in food” (āhāra‑saṃyama or bhojana‑saṃyama) is a foundational expression of ahiṃsā, vigilance, and ethical restraint. It encompasses not only what is eaten, but how it is obtained, prepared, shared, and consumed. Across Digambara and Śvetāmbara traditions, carefulness in food is treated as a daily discipline for laypeople and monastics, grounded in the belief that food choices directly influence the extent of harm caused to living beings, the clarity of mind, and the accumulation of karmic particles.\n\nAt its core, care in food involves four interlinked dimensions: (1) ontological awareness of the types of living beings present in food materials; (2) procedural care in preparation and consumption; (3) ethical restraint in quantity and intention; and (4) social responsibility in sourcing and sharing. Jain texts repeatedly emphasize that food is not morally neutral: every act of eating involves contact with life forms, and thus requires mindfulness, compassion, and deliberate reduction of harm.\n\nFor monastics, food care is governed by strict rules—accepting alms only under specific conditions, avoiding food prepared at night, and refusing items that involve excessive harm or possessiveness. Laypeople follow moderated versions of these rules, such as avoiding root vegetables in many Śvetāmbara communities, limiting consumption after sunset, and practicing periodic fasting with medical and ethical caution. The traditions differ in details, but all agree that food is a primary arena for cultivating nonviolence and self-restraint.\n\nModern Jain communities extend the principle to vegetarianism, veganism, sustainable agriculture, and ecological awareness. Scholars note that contemporary interpretations often blend classical prescriptions with new concerns such as industrial farming, environmental degradation, and global food ethics. Despite these developments, the classical foundation remains: food is a site where one’s intentions, habits, and awareness directly shape karmic outcomes and interpersonal compassion.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 7.15",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "आहारसंयमः",
+      "transliteration": "āhāra‑saṃyamaḥ",
+      "translation": "“Restraint in food.”",
+      "notes": "This terse sūtra is expanded in commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi) to include carefulness in obtaining, preparing, and consuming food, linking it to the broader category of samiti (carefulness) and gupti (control)."
+    },
+    {
+      "title": "Ācārāṅga Sūtra I.3",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जोगं पवेज्जा, अहिंसा‑संजमो।",
+      "transliteration": "jogaṃ pavejjā, ahiṃsā‑saṃjamo.",
+      "translation": "“One should practice discipline, the restraint of nonviolence.”",
+      "notes": "While not exclusively about food, this section outlines the broader framework of vigilance (samiti) and restraint (saṃyama) that governs monastic eating practices, including avoiding harm to small beings during food collection."
+    },
+    {
+      "title": "Daśavaikālika Sūtra 8.36",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "अहिंसा परमो धम्मो।",
+      "transliteration": "ahiṃsā paramo dhammo.",
+      "translation": "“Nonviolence is the supreme dharma.”",
+      "notes": "This widely cited verse frames all food-related rules. Commentaries explain that food choices are among the most frequent opportunities to uphold or violate ahiṃsā."
+    },
+    {
+      "title": "Mūlācāra 5.1–5",
+      "author": "Vattakera (Digambara)",
+      "original_text": "भोजनं पवित्तं कुर्वीत…",
+      "transliteration": "bhojanaṃ pavittaṃ kurvīta…",
+      "translation": "“One should make eating pure…”",
+      "notes": "The text details purity conditions for monastic food acceptance, including the avoidance of food prepared with violence, carelessness, or possessive intention."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain food rules are primarily about ritual purity rather than nonviolence.",
+      "reality": "Classical sources consistently frame food discipline as an application of ahiṃsā and vigilance. Ritual purity is secondary to reducing harm to living beings."
+    },
+    {
+      "myth": "All Jains universally avoid root vegetables.",
+      "reality": "Avoidance of root vegetables is common in many Śvetāmbara Mūrtipūjaka communities but not universal. Digambara texts do not prescribe this as a blanket rule for laypeople, and practices vary by region and lineage."
+    },
+    {
+      "myth": "Care in food requires extreme fasting for spiritual progress.",
+      "reality": "Primary texts emphasize moderation, awareness, and nonviolence. Fasting is optional, must be undertaken with health and ethical caution, and requires guidance from qualified human teachers."
+    },
+    {
+      "myth": "Jain food ethics are static and do not apply to modern issues.",
+      "reality": "Contemporary Jain communities actively apply classical principles to veganism, environmental sustainability, and industrial agriculture, while acknowledging that these are modern extensions rather than explicit ancient rules."
+    }
+  ]
+}

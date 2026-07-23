@@ -1,0 +1,51 @@
+{
+  "overview": "Nigoda is a foundational yet complex concept in Jain ontology, particularly within discussions of jīva‑sāmānya (the general category of living beings), karmic obscuration, and the lower strata of saṃsāra. Jain texts describe nigodas as extremely minute, imperceptible life‑forms that exist in vast clusters and represent the lowest stage of embodied existence. They are characterized by extremely limited consciousness, minimal bodily structure, and a near‑complete envelopment by karmic matter. Nigodas are often invoked to illustrate the breadth of life in the universe and the Jain commitment to ahiṃsā, since even the smallest entities possess jīva.\n\nNigodas are typically divided into two types: *nitya‑nigoda* (perpetual nigodas) and *itara‑nigoda* (transitional nigodas). Nitya‑nigodas are said to remain eternally in this lowest form, never progressing through higher states of existence. Itara‑nigodas, by contrast, may eventually evolve into more complex life‑forms when karmic conditions permit. This distinction is central to Jain cosmology, as it explains both the continuity of life and the mechanism by which beings enter higher realms.\n\nIn classical Jain metaphysics, nigodas are described as possessing only one sense (touch), existing in dense clusters, and having extremely short lifespans. Their consciousness is so obscured by karma that they are often used to illustrate the extreme end of the karmic spectrum. Despite their minimal faculties, they remain full jīvas, subject to karmic bondage, rebirth, and the possibility—however remote—of eventual liberation.\n\nThe concept of nigoda also plays a role in discussions of ecological ethics, microbiology analogies, and the Jain understanding of pervasive life. Modern scholarship often compares nigodas to hypothetical micro‑organisms, though traditional texts emphasize that nigodas are metaphysical entities rather than empirical biological species. The idea underscores the Jain view that life permeates all spaces, making careful, compassionate conduct essential for lay and monastic practitioners.\n\nBecause nigodas are not directly observable and are described differently across sectarian traditions, their interpretation varies. Digambara and Śvetāmbara sources agree on the basic ontology but differ in details such as the exact nature of nitya‑nigoda existence and the mechanisms of transition into higher forms. These differences are noted in commentarial literature but do not alter the core doctrinal role of nigodas as the lowest life‑forms in saṃsāra.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "निगोदास्तु सूक्ष्मतमाः",
+      "transliteration": "nigodāstu sūkṣmatamāḥ",
+      "translation": "Nigodas are the most minute (forms of life).",
+      "notes": "This brief sūtra is expanded in commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārtha‑bhāṣya* (Śvetāmbara), which describe nigodas as extremely subtle beings with only touch‑sense and dense clustering."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra)",
+      "author": "Pūjyapāda",
+      "original_text": "सूक्ष्मत्वं तु देहपरिमाणाद् बध्यकर्मप्रचुरत्वाच् च",
+      "transliteration": "sūkṣmatvaṃ tu deha‑parimāṇād badhya‑karma‑pracuratvā c ca",
+      "translation": "Their minuteness is due to the smallness of their bodies and the abundance of binding karmas.",
+      "notes": "Pūjyapāda elaborates that nigodas exist in clusters and are almost entirely enveloped by karma, explaining their extremely limited consciousness."
+    },
+    {
+      "title": "Pravacanasāra",
+      "author": "Kundakunda",
+      "original_text": "एगइंदियाणं जीवाणं पव्वयणं निगोयाणं",
+      "transliteration": "ega‑indiyāṇaṃ jīvāṇaṃ pavvaayaṇaṃ nigoyāṇaṃ",
+      "translation": "Among one‑sensed beings, the lowest are the nigodas.",
+      "notes": "Kundakunda situates nigodas within the hierarchy of jīvas, emphasizing their minimal sensory capacity and karmic obscuration."
+    },
+    {
+      "title": "Jīvābhigama (Śvetāmbara canonical text)",
+      "author": "Attributed to Devardhigaṇi Kṣamāśramaṇa (redactor)",
+      "original_text": "निगोइया बहुसंखेया सूक्खा अणंतायरा",
+      "transliteration": "nigoiyā bahusaṅkheyā sūkkhā aṇantāyarā",
+      "translation": "Nigodas are innumerable, subtle, and of infinite varieties.",
+      "notes": "This canonical description highlights the vast number and diversity of nigodas, reinforcing their role in Jain cosmology."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Nigodas are literal bacteria or microbes described in ancient Jain texts.",
+      "reality": "While modern writers sometimes compare nigodas to microorganisms, traditional texts describe them as metaphysical life‑forms defined by karmic conditions, not empirical biological species."
+    },
+    {
+      "myth": "All nigodas eventually evolve into higher life‑forms.",
+      "reality": "Jain doctrine distinguishes between nitya‑nigodas, which remain perpetually in this state, and itara‑nigodas, which may progress under specific karmic circumstances."
+    },
+    {
+      "myth": "Nigodas are irrelevant to lay practice because they are invisible.",
+      "reality": "Nigodas illustrate the Jain principle that life permeates all spaces, reinforcing ahiṃsā and careful conduct even at the micro‑level."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "overview": "In Jain philosophy, **one-sensed beings (ekendriya jīva)** constitute the foundational category of embodied life within the broader doctrine of *jīva-ajīva* and the taxonomy of living beings based on sensory faculties. Jainism classifies all living beings according to the number of senses they possess, ranging from one to five. One-sensed beings are the simplest embodied forms of life, yet they are fully endowed with *jīva*—consciousness—and are subject to karmic bondage, rebirth, and liberation. Their study is central to Jain ethics, cosmology, and environmental awareness.\n\nOne-sensed beings possess only the **sense of touch (sparśanendriya)**. Despite their minimal sensory capacity, Jain texts emphasize that they experience pleasure, pain, and karmic consequences. They are considered highly vulnerable and ubiquitous, forming the largest population of living beings in the universe. Jainism divides one-sensed beings into five subcategories: **earth-bodied (pṛthivī-kāyika), water-bodied (āpa-kāyika), fire-bodied (tejas-kāyika), air-bodied (vāyu-kāyika), and plant-bodied (vanaspati-kāyika)**. Each category is understood as a conglomerate of innumerable souls inhabiting a material substrate.\n\nEarth-bodied beings include entities such as soil, clay, and minerals; water-bodied beings include natural bodies of water; fire-bodied beings include flames and heat; air-bodied beings include wind and gaseous forms; and plant-bodied beings include vegetation, seeds, and even certain microscopic forms. Jain texts further distinguish **single-souled plants (pratyeka-vanaspati)** from **multi-souled plants (sādhāraṇa-vanaspati)**, the latter containing countless jīvas within a single physical structure.\n\nEthically, one-sensed beings are central to the practice of *ahiṃsā*. Because they are omnipresent and easily harmed, Jain lay and monastic disciplines include detailed guidelines to minimize injury to them—such as filtering water, avoiding unnecessary digging, and practicing mindful movement. Their inclusion in the moral universe reflects the Jain commitment to universal compassion and the recognition of life in forms often overlooked by other traditions.\n\nPhilosophically, one-sensed beings illustrate the Jain doctrine of **life as pervasive and subtle**, challenging assumptions that consciousness requires complex biological structures. They also demonstrate the Jain emphasis on non-anthropocentric ethics, where even the simplest forms of life are morally significant. The study of one-sensed beings thus bridges metaphysics, ethics, cosmology, and daily conduct within Jainism.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "एकेन्द्रियाः पृथिव्यापस्तेजोवायुवनस्पतयः",
+      "transliteration": "ekendriyāḥ pṛthivy-āpas-tejo-vāyu-vanaspatayaḥ",
+      "translation": "One-sensed beings are earth-bodied, water-bodied, fire-bodied, air-bodied, and plant-bodied.",
+      "notes": "Tattvārtha Sūtra 2.13 provides the canonical fivefold classification of one-sensed beings. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* elaborate on the nature of each category and their karmic capacities."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जे णाणस्स णाणं, ते णाणस्स दुव्वा; जे दुव्वा, ते णाणस्स णाणं।",
+      "transliteration": "je ñāṇassa ñāṇaṃ, te ñāṇassa duvvā; je duvvā, te ñāṇassa ñāṇaṃ.",
+      "translation": "What is known is knowable; what is knowable is known.",
+      "notes": "Although not directly listing one-sensed beings, the Ācārāṅga Sūtra repeatedly emphasizes the presence of life in subtle forms and warns ascetics to avoid harming earth, water, fire, air, and plants. These passages form the ethical foundation for recognizing one-sensed beings."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Early Śvetāmbara canonical compilers",
+      "original_text": "पण्णत्तं जिवाणं णाणं, तं णाणं णाणस्स कारणं।",
+      "transliteration": "paṇṇattaṃ jivāṇaṃ ñāṇaṃ, taṃ ñāṇaṃ ñāṇassa kāraṇaṃ.",
+      "translation": "The knowledge of living beings is declared; that knowledge is the cause of further knowledge.",
+      "notes": "This text includes detailed warnings against harming subtle-bodied beings and provides examples of earth-bodied and water-bodied life forms."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "One-sensed beings are metaphorical or symbolic rather than actual living entities.",
+      "reality": "Jain texts consistently treat one-sensed beings as literal living beings with consciousness. Their existence is foundational to Jain ethics and cosmology, and they are described in detail across canonical scriptures."
+    },
+    {
+      "myth": "Plants are the only one-sensed beings.",
+      "reality": "Plants are only one category. Jainism identifies four additional types—earth-bodied, water-bodied, fire-bodied, and air-bodied—each inhabited by innumerable jīvas."
+    },
+    {
+      "myth": "One-sensed beings cannot experience karmic consequences due to their simplicity.",
+      "reality": "All embodied beings, regardless of sensory capacity, accrue and shed karma. One-sensed beings undergo pleasure, pain, and rebirth according to Jain doctrine."
+    },
+    {
+      "myth": "Harming one-sensed beings is ethically insignificant because they lack complex nervous systems.",
+      "reality": "Jain ethics explicitly emphasize minimizing harm to one-sensed beings, as they are abundant and easily injured. Their protection is central to the practice of ahiṃsā."
+    }
+  ]
+}

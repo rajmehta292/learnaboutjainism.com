@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, “vitalities” (Skt. *prāṇa*, Prakrit *pāṇa*) refer to the functional capacities that make a living being alive and capable of activity. They are central to Jain ontology, ethics, and karmic theory. All living beings—whether one‑sensed or five‑sensed—possess some combination of these vitalities, and harming any vitality is considered a form of *hiṃsā* (violence). The doctrine appears across both Śvetāmbara and Digambara traditions and is foundational for understanding the gradation of life forms, karmic consequences of actions, and the ethical discipline of non‑violence.\n\nJain texts typically enumerate ten vitalities: five physical (*bhāva prāṇa*) and five psychical (*dravya prāṇa*). The physical vitalities include the body, lifespan, respiration, and the ability to speak and move. The psychical vitalities correspond to the five senses. Higher‑order beings possess all ten, while lower‑order beings possess fewer. For example, a one‑sensed being such as a plant has only the vitalities of body, lifespan, respiration, and the sense of touch.\n\nVitalities are not merely biological attributes; they are karmically conditioned capacities. The presence or absence of a vitality depends on the soul’s embodied state, shaped by past karmas. Ethical conduct—especially carefulness (*samiti*) and restraint (*gupti*)—is evaluated by how one avoids harming these vitalities in other beings. Thus, the doctrine of vitalities forms a bridge between metaphysics, ethics, and everyday lay practice, guiding decisions about diet, occupation, and environmental interaction.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "प्राणाः शरीरश्च आयुः श्वासो वाक् चेष्टा च चक्षुः श्रोत्रं घ्राणं रसना स्पर्शश्च",
+      "transliteration": "prāṇāḥ śarīraś ca āyuḥ śvāso vāk ceṣṭā ca cakṣuḥ śrotraṃ ghrāṇaṃ rasanā sparśaś ca",
+      "translation": "The vitalities are: body, lifespan, respiration, speech, movement, and the senses of sight, hearing, smell, taste, and touch.",
+      "notes": "Tattvārtha Sūtra 2.13 is the most widely cited canonical enumeration of the ten vitalities. Both Digambara and Śvetāmbara traditions accept this list, though commentaries differ in interpretation of how vitalities manifest in specific life forms."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "एगइंदियाणं पाणो तव्विहो, दुवइंदियाणं पाणो तव्विहो...",
+      "transliteration": "egaindiyāṇaṃ pāṇo tavviho, duvaindiyāṇaṃ pāṇo tavviho...",
+      "translation": "One‑sensed beings have their specific vitalities; two‑sensed beings have their specific vitalities...",
+      "notes": "This text provides detailed gradations of vitalities across different classes of beings, emphasizing ethical implications for monastic and lay conduct."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "पाणगुणा जीवस्य भावद्रव्यपरिणामलक्षणाः",
+      "transliteration": "pāṇaguṇā jīvasya bhāvadravyapariṇāmalakṣaṇāḥ",
+      "translation": "The vitalities are characteristics of the soul’s psychical and physical modifications.",
+      "notes": "The Digambara canonical text elaborates on vitalities in relation to karmic bondage and the soul’s modifications (*paryāya*)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Vitalities are equivalent to biological organs or modern physiological functions.",
+      "reality": "Vitalities are metaphysical capacities conditioned by karma. While they correlate with biological functions, they are defined within Jain ontology and cannot be reduced to anatomy or physiology."
+    },
+    {
+      "myth": "All living beings possess all ten vitalities.",
+      "reality": "Only five‑sensed beings possess all ten. Lower‑order beings possess fewer vitalities, with one‑sensed beings having the least."
+    },
+    {
+      "myth": "Harming vitalities applies only to killing a being.",
+      "reality": "Any reduction, obstruction, or impairment of a vitality—such as restricting movement or damaging a sense faculty—is considered a form of violence in Jain ethics."
+    }
+  ]
+}

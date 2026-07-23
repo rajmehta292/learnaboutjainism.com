@@ -1,0 +1,31 @@
+{
+  "overview": "Gunadhara (also spelled Guṇadhara) is a significant figure in the textual history of Jainism, particularly within the Śvetāmbara tradition. He is traditionally identified as one of the *śruta-kevalins*—masters of scriptural knowledge—who played a key role in the redaction and transmission of early Jain canonical literature after the era of the Gaṇadharas. In Śvetāmbara narrative memory, Gunadhara is associated with the preservation of portions of the *Dvādaśāṅga* (Twelve Limbs), the earliest canonical corpus attributed to the disciples of Mahāvīra.\n\nGunadhara is most frequently mentioned in connection with the *Dr̥ṣṭivāda*, the twelfth and final limb of the canon, which is said to have contained extensive doctrinal, cosmological, and narrative material. According to Śvetāmbara tradition, the *Dr̥ṣṭivāda* was eventually lost, but earlier redactors such as Gunadhara are credited with preserving fragments or derivative texts. His name appears in canonical lists of teachers who maintained scriptural continuity during periods of decline in memorization and transmission.\n\nIn Digambara sources, the figure of Gunadhara is not emphasized in the same way, as Digambara tradition maintains that the entire *Dvādaśāṅga* was lost relatively early. Thus, Gunadhara’s role is primarily a Śvetāmbara historiographical construct, reflecting the community’s efforts to trace the lineage of scriptural preservation.\n\nModern scholarship treats Gunadhara as part of the layered memory of Jain textual history—an emblematic figure representing the transition from oral transmission to more systematized redaction. His historical biography cannot be reconstructed with certainty, but his role in tradition highlights the importance Jain communities place on safeguarding scriptural knowledge across generations.",
+  "primary_sources": [
+    {
+      "title": "Nandīsūtra (Śvetāmbara Canon)",
+      "author": "Attributed to early Śvetāmbara redactors",
+      "original_text": "गुणधरादयः श्रुतकेवलिनः",
+      "transliteration": "guṇadharādayaḥ śrutakevalinaḥ",
+      "translation": "“Gunadhara and others were śruta-kevalins.”",
+      "notes": "The Nandīsūtra includes lists of scriptural authorities and is one of the canonical sources that names Gunadhara as a śruta-kevalin. The passage is brief and formulaic, reflecting the text’s function as a classificatory manual."
+    },
+    {
+      "title": "Āvaśyaka Niryukti (commentarial tradition)",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "दृष्टिवादस्य प्रवक्तारो गुणधरप्रभृतयः",
+      "transliteration": "dr̥ṣṭivādasya pravaktāro guṇadhara-prabhr̥tayaḥ",
+      "translation": "“Gunadhara and others were expounders of the Dr̥ṣṭivāda.”",
+      "notes": "This verse appears in the commentarial tradition surrounding the Āvaśyaka literature. It reflects the Śvetāmbara belief that Gunadhara was connected with the transmission of the Dr̥ṣṭivāda. The attribution to Bhadrabāhu is traditional but historically uncertain."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Gunadhara personally authored surviving Jain canonical texts.",
+      "reality": "No extant canonical text can be directly attributed to Gunadhara. His role is described as a transmitter or redactor of earlier material, especially portions of the Dr̥ṣṭivāda, which itself is considered lost."
+    },
+    {
+      "myth": "Gunadhara is equally important in both Śvetāmbara and Digambara traditions.",
+      "reality": "Gunadhara’s significance is primarily within Śvetāmbara historiography. Digambara tradition does not preserve a parallel role for him, as it maintains that the entire Dvādaśāṅga was lost early and does not emphasize individual redactors of partial remnants."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "overview": "Sanjvalana is a term in Jain philosophy related to the concept of karma. It specifically refers to a type of karmic bond that ignites or inflames passions, leading to the disturbance of the soul's inherent tranquility. In Jainism, karmas are classified into eight main categories, and Sanjvalana is associated with the Mohaniya (deluding) karma. This type of karma is considered particularly detrimental as it clouds right belief and conduct, thus hindering spiritual progress. Sanjvalana karma is responsible for arousing passions such as anger, pride, deceit, and greed, which are obstacles in the path of liberation. The ultimate goal in Jainism is to achieve a state of Kevala Jnana or omniscience, which requires the shedding of all karmic bonds, including Sanjvalana.",
+  "primary_sources": [
+    {
+      "title": "Tattvartha Sutra",
+      "author": "Umaswati",
+      "original_text": "मोहनियं च",
+      "transliteration": "Mohanīyaṁ ca",
+      "translation": "And deluding karma",
+      "notes": "This sutra discusses the various types of karmas, including those that delude the soul, emphasizing their impact on spiritual progress."
+    },
+    {
+      "title": "Samayasara",
+      "author": "Acharya Kundakunda",
+      "original_text": "रागद्वेषमोहः संज्वलनं",
+      "transliteration": "Rāgadveṣamohaḥ saṁjvalanaṁ",
+      "translation": "Attachment, aversion, and delusion are the inflaming factors.",
+      "notes": "This text elaborates on how certain emotions inflame the soul, linking to the concept of Sanjvalana."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Sanjvalana is a type of positive karma.",
+      "reality": "Sanjvalana is actually a negative karma that inflames passions and hinders spiritual liberation."
+    }
+  ]
+}

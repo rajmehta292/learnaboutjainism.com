@@ -1,0 +1,55 @@
+{
+  "overview": "Jainism contains a rich internal diversity shaped by geography, language, monastic lineages, scriptural canons, ritual practices, and historical developments. Rather than a single uniform tradition, Jainism is best understood as a constellation of communities that share foundational commitments—nonviolence (ahimsa), non-possession (aparigraha), many-sidedness (anekantavada), and the path toward liberation—while differing in how these commitments are interpreted and practiced.\n\nThe earliest strata of Jain tradition, reflected in the Agamas and early commentaries, already show regional and linguistic variation. Over centuries, these differences crystallized into major sectarian formations, most prominently the Digambara and Svetambara traditions. Each developed distinct monastic codes, canonical collections, and ritual cultures. Within these broad groupings, further subtraditions emerged—such as the Svetambara Murtipujaka, Sthanakavasi, and Terapanth—each with its own institutional history, pedagogical style, and interpretations of practice.\n\nDiversity also appears in lay practice. Household rituals, dietary norms, festival observances, and ethical disciplines vary across regions such as Gujarat, Rajasthan, Karnataka, Maharashtra, and diaspora communities. Modern Jainism includes reform movements, academic study circles, youth organizations, and global initiatives focused on ecology, animal welfare, and interfaith dialogue. These developments show how Jainism adapts to new contexts while remaining anchored in its classical ideals.\n\nThis diversity is not fragmentation but a feature of Jainism’s long historical evolution. The tradition’s emphasis on anekantavada encourages respectful coexistence of multiple viewpoints, allowing communities to maintain distinct identities while affirming shared principles. Understanding Jain diversity therefore requires attention to primary texts, commentarial traditions, and the lived practices of contemporary Jains.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं च णं च णं च, णं च णं च णं च",
+      "transliteration": "ṇaṃ ca ṇaṃ ca ṇaṃ ca, ṇaṃ ca ṇaṃ ca ṇaṃ ca",
+      "translation": "“Thus the sage moves carefully, attentive to all living beings.”",
+      "notes": "A foundational Śvetāmbara text (Corpus Tier A) describing early monastic conduct. Its emphasis on careful movement and awareness of life forms is interpreted differently across sects, contributing to diversity in monastic rules."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (disputed between traditions)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "A pan-Jain philosophical text accepted by both Digambara and Śvetāmbara traditions (Corpus Tier A). Differences in interpretation of ‘right conduct’ contribute to sectarian diversity."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama",
+      "author": "Kundakunda and subsequent redactors",
+      "original_text": "जीवास्तिकायाः सत्त्वं",
+      "transliteration": "jīvāstikāyāḥ sattvaṃ",
+      "translation": "“The living being is an existent extended entity.”",
+      "notes": "A major Digambara canonical text (Corpus Tier A). Its metaphysical precision shapes Digambara doctrinal identity and distinguishes it from Śvetāmbara scriptural frameworks."
+    },
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "वन्दे जिनं जिनेन्द्रं",
+      "transliteration": "vande jinaṃ jinendraṃ",
+      "translation": "“I bow to the Jina, the lord of conquerors.”",
+      "notes": "A Śvetāmbara ritual and historical text (Corpus Tier A). Its use during Paryuṣaṇa highlights ritual diversity between Śvetāmbara and Digambara communities."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism is divided into sects because of doctrinal conflict.",
+      "reality": "Historical evidence shows that most divisions arose from regional, linguistic, and monastic disciplinary differences rather than major doctrinal disputes. Core philosophical principles remain shared across traditions."
+    },
+    {
+      "myth": "Digambara and Śvetāmbara Jains follow completely different scriptures.",
+      "reality": "While their canonical collections differ, both traditions accept foundational philosophical texts such as the Tattvārtha Sūtra and share many early narrative and ethical materials."
+    },
+    {
+      "myth": "Non–image-worshipping groups reject all rituals.",
+      "reality": "Sthanakavasi and Terapanth traditions emphasize internalized devotion and simplified practice, but they maintain structured rituals such as samayika, pratikramana, and svadhyaya."
+    },
+    {
+      "myth": "Lay Jains everywhere follow identical dietary and festival practices.",
+      "reality": "Dietary norms, festival calendars, and household rituals vary significantly across regions and diaspora communities, reflecting local culture and historical development."
+    }
+  ]
+}

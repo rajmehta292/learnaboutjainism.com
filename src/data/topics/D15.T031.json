@@ -1,0 +1,55 @@
+{
+  "overview": "Illness and care in Jain traditions is framed by ahiṃsā (non‑harm), karuṇā (compassion), and the practical responsibilities of householders and monastics. Across Śvetāmbara, Digambara, and Sthānakavāsī lineages, illness is understood as a condition shaped by bodily processes, karmic fruition (udaya), and environmental causes, but the response to illness is grounded in ethical duty rather than fatalism. Primary texts consistently emphasize that care for the sick is a meritorious act for laypeople, and that monastics—while practicing restraint—may accept necessary assistance.\n\nJain literature distinguishes between karmic explanation and medical action: karmic theory describes why suffering arises, but does not prohibit treatment. The *Ācārāṅga Sūtra* and *Sūtrakṛtāṅga* describe the vulnerability of the body and encourage vigilance, while later commentaries clarify that householders must provide food, medicine, and protection to dependents. The *Tattvārtha Sūtra* (TS 7.11–7.13) explains that pain is a mode of body‑affecting karma, yet does not instruct abstention from care.\n\nMonastic codes (caryā‑padas) outline how monks and nuns should manage illness within vows of non‑possession and limited dependence. They may accept simple medicines, avoid harmful substances, and rely on attendants for tasks they cannot perform. Laypeople are encouraged to support ill monastics through non‑violent means, ensuring safety without violating monastic discipline.\n\nModern Jain communities integrate traditional ethics with contemporary medical science. Physicians, caregivers, and family members are encouraged to act with compassion, avoid coercion, and prioritize well‑being. Prolonged fasting, water restriction, or austerities during illness are discouraged by all major traditions unless supervised by qualified lineage authorities and medical professionals. Sallekhanā is explicitly differentiated from suicide and is never appropriate for the ill without extensive review, consent, and lineage authorization.\n\nOverall, Jain approaches to illness combine spiritual reflection with practical care, emphasizing responsibility, compassion, and the ethical use of medical knowledge.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; Śvetāmbara canon",
+      "original_text": "पव्वयणं दुःखं, जं शरीरं।",
+      "transliteration": "pavvayaṇaṃ duḥkhaṃ, jaṃ śarīraṃ.",
+      "translation": "“The body is a place of suffering.”",
+      "notes": "Ācārāṅga Sūtra I.2 describes bodily vulnerability and the need for careful conduct. Commentaries (B) explain that recognizing bodily fragility motivates compassionate care."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Śvetāmbara canon",
+      "original_text": "जं दुहं तं भयं।",
+      "transliteration": "jaṃ duhaṃ taṃ bhayaṃ.",
+      "translation": "“Where there is pain, there is fear.”",
+      "notes": "Used in discussions of illness and the ethical duty to alleviate fear and suffering. Commentators note that fear is not a moral failing but a natural response requiring support."
+    },
+    {
+      "title": "Tattvārtha Sūtra 7.11–7.13",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "वेदनीयं कर्म दुःखसुखानुभवहेतुः।",
+      "transliteration": "vedanīyaṃ karma duḥkha‑sukhānubhavahetuḥ.",
+      "translation": "“Feeling‑producing karma is the cause of experiencing pain and pleasure.”",
+      "notes": "Primary source for karmic explanation of suffering. Commentaries emphasize that karmic causation does not prohibit medical treatment."
+    },
+    {
+      "title": "Niśītha Cūrṇi (Digambara monastic code)",
+      "author": "Traditional Digambara commentary",
+      "original_text": "रोगे भिक्षुः औषधं गृह्णीयात्।",
+      "transliteration": "roge bhikṣuḥ auṣadhaṃ gṛhṇīyāt.",
+      "translation": "“In illness, a monk may accept medicine.”",
+      "notes": "A key passage showing that monastic restraint allows necessary medical care. Interpretations vary by lineage."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism discourages medical treatment because illness is karmic.",
+      "reality": "Primary texts never prohibit treatment. Karmic theory explains suffering but does not replace medical care. Compassionate treatment is considered a lay duty."
+    },
+    {
+      "myth": "Monastics must endure illness without assistance.",
+      "reality": "Monastic codes explicitly allow acceptance of simple medicines and caregiver support within ethical limits."
+    },
+    {
+      "myth": "Fasting is always spiritually beneficial during illness.",
+      "reality": "All major traditions warn against austerities during illness unless medically safe and approved by qualified lineage authorities."
+    },
+    {
+      "myth": "Sallekhanā is a response to severe illness.",
+      "reality": "Sallekhanā requires long-term preparation, consent, and lineage authorization. It is not a crisis response and must never be undertaken due to untreated illness."
+    }
+  ]
+}

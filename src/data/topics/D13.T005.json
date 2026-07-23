@@ -1,0 +1,43 @@
+{
+  "overview": "Asteya, commonly translated as “non-stealing,” is one of the five fundamental vows (pañca‑vrata) in Jain ethics and a core component of both monastic and lay conduct. In Jain thought, asteya extends far beyond the literal act of theft. It encompasses any form of taking that is not willingly given, including subtle actions such as exploiting someone’s time, appropriating ideas without acknowledgment, using resources without permission, or benefiting from another’s labor without fair exchange. The vow is grounded in the broader Jain commitment to ahiṃsā (non‑violence), because stealing is understood to cause harm—material, emotional, and karmic—to the one deprived.\n\nIn classical Jain philosophy, asteya is treated as both a moral discipline and a karmic safeguard. The act of taking what is not given binds paṅca‑anantarya‑karma (harmful karmas) associated with deceit, greed, and possessiveness. Therefore, asteya is closely linked to aparigraha (non‑possessiveness), since the desire to accumulate often motivates theft. For householders, the vow is taken in a moderated form (anuvrata), emphasizing honesty in trade, fair wages, transparent contracts, and refusal to engage in fraud or corruption. For monks and nuns, the vow is absolute: they may not take anything unless it is explicitly offered, and they must avoid even indirect forms of appropriation.\n\nAcross Jain traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—the principle remains consistent, though disciplinary details may vary. Commentaries emphasize that asteya cultivates trust, reduces social conflict, and purifies intention. Modern Jain ethics extends the vow to intellectual property, environmental stewardship, and digital conduct, arguing that unauthorized use of data, plagiarism, or exploitation of shared resources are contemporary forms of stealing. Asteya thus remains a living ethical principle, guiding personal integrity, social responsibility, and spiritual progress.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अदत्तादनवग्रहः",
+      "transliteration": "adattād anavagrahaḥ",
+      "translation": "Non‑taking of what is not given.",
+      "notes": "Tattvārtha Sūtra 7.7 defines asteya succinctly. Traditional Digambara and Śvetāmbara commentaries agree that the term includes physical, verbal, and mental forms of appropriation. The sutra is considered a pan‑Jain authority (Corpus Tier A)."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जे ण अण्णस्स दव्वं हरंति ते पावं बंधंति",
+      "transliteration": "je ṇ aṇṇassa davvaṃ haraṃti te pāvaṃ bandhaṃti",
+      "translation": "Those who take another’s property bind sin.",
+      "notes": "This passage appears in discussions of monastic conduct. The text warns that even minor acts of unauthorized taking create karmic bondage. Variants exist across manuscripts (Corpus Tier A)."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "अदत्तादानं परिहरइ",
+      "transliteration": "adattādānaṃ pariharai",
+      "translation": "One should avoid taking what is not given.",
+      "notes": "The text elaborates on ethical restraints for monks, emphasizing intention and vigilance. Commentaries note that negligence leading to unintended appropriation is also a breach (Corpus Tier A/B)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Asteya only refers to physical theft of objects.",
+      "reality": "Jain texts explicitly include mental and verbal forms of stealing, such as deceit, misrepresentation, plagiarism, and unauthorized use of resources."
+    },
+    {
+      "myth": "Asteya is a minor vow compared to ahiṃsā.",
+      "reality": "Asteya is considered an extension of non‑violence because stealing harms others materially and emotionally. It is treated as a major ethical restraint in both monastic and lay practice."
+    },
+    {
+      "myth": "Modern issues like digital piracy or data misuse are unrelated to asteya.",
+      "reality": "Contemporary Jain scholars and community educators interpret asteya to include digital ethics, arguing that unauthorized copying or exploitation of information is a form of taking what is not given."
+    }
+  ]
+}

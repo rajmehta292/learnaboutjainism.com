@@ -1,0 +1,71 @@
+{
+  "overview": "The \"four anuyogas\" (catur-anuyoga) are a traditional Jain way of classifying scriptural and doctrinal material according to its primary mode of exposition. Rather than being four separate philosophies, they are four complementary lenses through which the same path to liberation (mokṣa-mārga) is taught. In Digambara and Śvetāmbara traditions alike, the anuyogas organize vast bodies of literature and practice into intelligible domains, helping students move from narrative inspiration to ethical discipline, cosmological understanding, and finally metaphysical insight.  [[0]](https://insightjainism.vercel.app/docs/Concepts/Anuyog/) [[1]](https://jainworld.com/literature/jain-agams/jain-agam-literature/four-anuyogas/)\n\nMost commonly, the four are named: Prathamanuyoga (or Dharma-kathā-anuyoga), Charan-anuyoga (or Carana-karaṇa-anuyoga), Karan-anuyoga (or Gaṇit-anuyoga), and Dravya-anuyoga (Dravyānuyoga). Prathamanuyoga focuses on religious narratives—lives of Tīrthaṅkaras, Cakravartins, and other exemplary figures—using stories, poetry, and history to cultivate faith (śraddhā), detachment (vairāgya), and moral imagination. Charan-anuyoga gathers texts on conduct and discipline, detailing vows, observances, and the art of living for both householders (śrāvakas) and ascetics. Karan-anuyoga presents cosmology, mathematics, astronomy, and the structure of the universe (loka–aloka), including the workings of karma, the four destinies (gatis), and the complex numerical and spatial schemes that frame Jain cosmography. Dravya-anuyoga expounds philosophical doctrine: the six substances (dravya), the seven or nine tattvas, the nature of soul and non-soul, bondage and liberation, and the logic and epistemology by which right knowledge is established.  [[0]](https://insightjainism.vercel.app/docs/Concepts/Anuyog/) [[1]](https://jainworld.com/literature/jain-agams/jain-agam-literature/four-anuyogas/) [[2]](https://jainknowledge.com/question/9233/english-translations-of-prathamanuyog-karananuyog-charananuyog-and-dravyanuyog)\n\nIn traditional pedagogy, these four are not rigid compartments but mutually reinforcing approaches. Narratives of Prathamanuyoga embody the ethical ideals codified in Charan-anuyoga; those ethical disciplines are grounded in the karmic and cosmological structures explained in Karan-anuyoga; and all three ultimately presuppose and lead toward the metaphysical clarity of Dravya-anuyoga. Pandit Todarmal and later scholars emphasize that proper interpretation of scripture requires awareness of which anuyoga is operative in a given passage, so that one does not confuse metaphorical, conventional descriptions with strict ontological claims. In this way, the four anuyogas are closely linked to the Jain doctrine of multiple viewpoints (naya) and the distinction between conventional (vyavahāra) and ultimate (niścaya) standpoints.  [[3]](https://jaingpt.org/knowledge/shastra_ka_arth_karne_ki_paddhati_aur_char_anuyoga_211996_211996) [[4]](https://jaingpt.org/knowledge/jaindarshan_me_sat_ka_swarup_210983_210983)\n\nAcross sectarian lines, the core thematic content of the four anuyogas remains stable, even though terminology and ordering may vary slightly. Digambara lists often highlight Prathamanuyoga, Charan-anuyoga, Karan-anuyoga, and Dravya-anuyoga, while Śvetāmbara discussions may speak of dharma-kathā, carana-karaṇa, gaṇita, and dravya as interpretive branches of the āgamas. Modern expositions sometimes translate them as narrative, conduct, cosmology/mathematics, and philosophy, respectively. This framework continues to shape contemporary Jain education, from introductory courses to advanced philosophical study, offering a structured way to engage with the breadth of Jain literature while keeping the central aim—realization of the pure self and cessation of karmic bondage—clearly in view.  [[0]](https://insightjainism.vercel.app/docs/Concepts/Anuyog/) [[2]](https://jainknowledge.com/question/9233/english-translations-of-prathamanuyog-karananuyog-charananuyog-and-dravyanuyog)",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha-sūtra (also called Tattvārthādhigama-sūtra)",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "तत्त्वार्थोऽयम्",
+      "transliteration": "tattvārtho ’yam",
+      "translation": "“This is the meaning of reality (tattva).”",
+      "notes": "The Tattvārtha-sūtra is a foundational Jain philosophical text often classified under Dravya-anuyoga. It systematically presents the nature of substances (dravya), categories of truth (tattva), karma, bondage, and liberation, and has been commented upon by Samantabhadra, Pūjyapāda, Akalaṅka, and Vidyānanda, among others. Its concise aphorisms exemplify the doctrinal and metaphysical focus of Dravya-anuyoga.  [[1]](https://jainworld.com/literature/jain-agams/jain-agam-literature/four-anuyogas/)"
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Kundakunda",
+      "original_text": "समयसारो नाम ग्रन्थः",
+      "transliteration": "samayasāro nāma granthaḥ",
+      "translation": "“The text called Samayasāra (Essence of the Self).”",
+      "notes": "Samayasāra is a key Digambara work of Dravya-anuyoga, emphasizing the pure nature of the soul and distinguishing it from all non-self conditions. It elaborates the niścaya (ultimate) standpoint and is central to later metaphysical and spiritual practice literature. Its verses are frequently cited in discussions of right faith and the experiential realization of the self.  [[1]](https://jainworld.com/literature/jain-agams/jain-agam-literature/four-anuyogas/) [[4]](https://jaingpt.org/knowledge/jaindarshan_me_sat_ka_swarup_210983_210983)"
+    },
+    {
+      "title": "Padma-purāṇa",
+      "author": "Raviseṇa",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "Padma-purāṇa, attributed to the Digambara author Raviseṇa (c. 7th century CE), is a major narrative text placed under Prathamanuyoga (Dharma-kathā-anuyoga). It recounts the life of Rāma and other exemplary figures in a Jain framework, using story and poetry to inculcate detachment, nonviolence, and devotion to the path of liberation.  [[1]](https://jainworld.com/literature/jain-agams/jain-agam-literature/four-anuyogas/)"
+    },
+    {
+      "title": "Ratna-karanda-śrāvakācāra",
+      "author": "Samantabhadra",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "This text, traditionally dated around the 6th–7th century CE, is a classic of Charan-anuyoga. It outlines the conduct, vows, and observances appropriate for lay followers (śrāvakas), including the twelve vows, modes of worship, and ethical disciplines. It exemplifies the conduct-focused literature that guides householders in aligning daily life with the Jain path.  [[1]](https://jainworld.com/literature/jain-agams/jain-agam-literature/four-anuyogas/)"
+    },
+    {
+      "title": "Sūrya-prajñapti and Candra-prajñapti",
+      "author": "Unknown (Āgamic tradition)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "These āgamic texts are associated with Karan-anuyoga (Gaṇit-anuyoga). They contain astronomical and cosmological descriptions of the sun, moon, and celestial bodies, along with numerical and spatial schemes that support Jain cosmography. Their focus on calculation, measurement, and cosmic structure illustrates the mathematical and cosmological dimension of Karan-anuyoga.  [[1]](https://jainworld.com/literature/jain-agams/jain-agam-literature/four-anuyogas/) [[4]](https://jaingpt.org/knowledge/jaindarshan_me_sat_ka_swarup_210983_210983)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The four anuyogas are four separate and competing philosophies within Jainism.",
+      "reality": "The anuyogas are complementary modes of exposition—narrative, conduct, cosmology/mathematics, and philosophy—used to teach the same path to liberation from different angles. They are not rival schools but interpretive branches of a single doctrinal tradition.  [[0]](https://insightjainism.vercel.app/docs/Concepts/Anuyog/) [[2]](https://jainknowledge.com/question/9233/english-translations-of-prathamanuyog-karananuyog-charananuyog-and-dravyanuyog)"
+    },
+    {
+      "myth": "Prathamanuyoga is merely mythological storytelling with no doctrinal significance.",
+      "reality": "Prathamanuyoga’s narratives are crafted to embody ethical ideals, illustrate karmic principles, and inspire detachment and faith. They are tightly integrated with Charan-, Karan-, and Dravya-anuyoga, and are treated as a legitimate vehicle of right knowledge (samyag-jñāna) when interpreted with awareness of their narrative mode.  [[0]](https://insightjainism.vercel.app/docs/Concepts/Anuyog/) [[1]](https://jainworld.com/literature/jain-agams/jain-agam-literature/four-anuyogas/) [[3]](https://jaingpt.org/knowledge/shastra_ka_arth_karne_ki_paddhati_aur_char_anuyoga_211996_211996)"
+    },
+    {
+      "myth": "Dravya-anuyoga alone is sufficient for spiritual progress; the other three can be ignored.",
+      "reality": "While Dravya-anuyoga provides deep metaphysical clarity, traditional teachers emphasize that progress requires the integrated support of all four anuyogas: stories to awaken faith, conduct texts to shape behavior, cosmological works to contextualize karma and rebirth, and doctrinal treatises to refine understanding. Neglecting any branch risks imbalance in practice and comprehension.  [[3]](https://jaingpt.org/knowledge/shastra_ka_arth_karne_ki_paddhati_aur_char_anuyoga_211996_211996) [[4]](https://jaingpt.org/knowledge/jaindarshan_me_sat_ka_swarup_210983_210983) [[2]](https://jainknowledge.com/question/9233/english-translations-of-prathamanuyog-karananuyog-charananuyog-and-dravyanuyog)"
+    }
+  ]
+}
+
+
+
+> [0] [Introduction | Insight Jainism](https://insightjainism.vercel.app/docs/Concepts/Anuyog/)
+>
+> [1] [Four Anuyogas - Jainworld](https://jainworld.com/literature/jain-agams/jain-agam-literature/four-anuyogas/)
+>
+> [2] [English translations of Prathamanuyog, Karananuyog, Charananuyog, and Dravyanuyog | JainGPT by Jain Knowledge](https://jainknowledge.com/question/9233/english-translations-of-prathamanuyog-karananuyog-charananuyog-and-dravyanuyog)
+>
+> [3] [Shastra Ka Arth Karne Ki Paddhati Aur Char Anuyoga - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/shastra_ka_arth_karne_ki_paddhati_aur_char_anuyoga_211996_211996)
+>
+> [4] [Jaindarshan Me Sat Ka Swarup - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/jaindarshan_me_sat_ka_swarup_210983_210983)

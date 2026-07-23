@@ -1,0 +1,55 @@
+{
+  "overview": "Ahimsa, often translated as non‑violence or non‑harm, is one of the foundational ethical principles of Jainism and is regarded as the highest dharma (paramo dharmaḥ). In Jain thought, ahimsa is not merely the avoidance of physical violence but a comprehensive discipline that governs thought, speech, and action. It is rooted in the belief that all living beings—ranging from humans and animals to insects, plants, and even microscopic organisms—possess jīva (sentience) and are capable of experiencing suffering. Because every act of harm binds karma to the soul, ahimsa becomes both a moral and metaphysical imperative.\n\nJainism develops ahimsa with exceptional rigor. The tradition distinguishes between intentional and unintentional harm, direct and indirect harm, and harm caused through negligence. Laypeople (śrāvakas) and monastics (munis/āryikās/sādhvīs) follow different levels of discipline, but the underlying principle remains constant: minimize harm to the greatest extent possible while fulfilling one’s responsibilities. This includes careful food choices, mindful movement, truthful and non‑hurtful speech, and professions that avoid violence.\n\nAhimsa is also linked to other core Jain virtues such as aparigraha (non‑possessiveness), satya (truthfulness), and anukampā (compassion). In classical Jain metaphysics, violence is not defined solely by physical injury; mental states such as anger, pride, deceit, and greed are considered forms of internal himsā because they disturb the soul and can motivate harmful actions. Thus, ahimsa is both an ethical practice and a path to liberation (mokṣa), guiding practitioners toward equanimity, restraint, and universal respect for life.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "सव्वे पाणा अहिंसा",
+      "transliteration": "savve pāṇā ahiṃsā",
+      "translation": "All living beings should be treated with non‑violence.",
+      "notes": "The Ācārāṅga Sūtra (Śvetāmbara canon, Tier A) is one of the earliest Jain texts and provides detailed guidance on monastic conduct. Its first book emphasizes careful movement, mindfulness, and the avoidance of harm to even the smallest creatures."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non‑violence is the supreme duty.",
+      "notes": "A pan‑sectarian text accepted by both Digambara and Śvetāmbara traditions (Tier A). This aphorism is one of the most cited statements on Jain ethics, though scholars note that the exact phrase appears in commentarial traditions as well."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Traditionally attributed to early Jain teachers",
+      "original_text": "जिवे दया अहिंसा",
+      "transliteration": "jive dayā ahiṃsā",
+      "translation": "Compassion toward living beings is non‑violence.",
+      "notes": "The Sūtrakṛtāṅga (Śvetāmbara canon, Tier A) elaborates on harmful mental states and warns against speech or actions that cause fear, injury, or exploitation."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (select Digambara tradition passages)",
+      "author": "Kundakunda lineage; compiled by Puṣpadanta and Bhūtabali",
+      "original_text": "हिंसा बन्धहेतु",
+      "transliteration": "hiṃsā bandha‑hetu",
+      "translation": "Violence is a cause of karmic bondage.",
+      "notes": "A foundational Digambara canonical text (Tier A). It frames ahimsa within the technical analysis of karma, showing how harm binds specific karmic categories to the soul."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Ahimsa means avoiding all forms of harm completely.",
+      "reality": "Jain texts acknowledge that some minimal harm is unavoidable in daily life. The discipline focuses on intentionality, carefulness, and minimizing harm within one’s role and capacity."
+    },
+    {
+      "myth": "Ahimsa is only about physical non‑violence.",
+      "reality": "Classical Jain sources emphasize mental and verbal non‑violence equally. Anger, harsh speech, and deceit are considered forms of himsā because they disturb the soul and can lead to harmful actions."
+    },
+    {
+      "myth": "Ahimsa requires everyone to follow monastic rules.",
+      "reality": "Jainism differentiates between lay and monastic obligations. Laypeople follow anuvratas (small vows), while monastics follow mahāvratas (great vows), each calibrated to their lifestyle and responsibilities."
+    },
+    {
+      "myth": "Ahimsa is only about protecting animals.",
+      "reality": "Jain metaphysics recognizes life in plants, microorganisms, and subtle beings. Ahimsa applies universally, not selectively."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain thought, “occupational harm” refers to the ethical challenges and karmic consequences arising from livelihood activities that involve injury to living beings (jīva-himsā), environmental disruption, or indirect participation in violence. It is a central topic in Jain lay ethics because householders must work, trade, and participate in society while striving to minimize harm. The concept appears across Śvetāmbara and Digambara traditions and is closely tied to the vows of ahiṃsā, satya, asteya, brahmacarya, and aparigraha, especially the layperson’s small vows (aṇu-vrata) and supplementary vows (śīla-vrata and guṇa-vrata).\n\nJainism classifies harm into intentional, unintentional, direct, and indirect forms. Occupational harm typically falls under indirect or instrumental harm (ārambha-himsā), which arises from necessary worldly activities such as agriculture, trade, construction, or professional duties. While monks renounce all occupations, laypeople are permitted livelihoods that minimize violence and avoid professions explicitly condemned in the texts, such as those involving slaughter, weapon-making, or trafficking in living beings.\n\nThe tradition distinguishes between unavoidable harm (ārambhaja) and avoidable harm (saṅkalpaja). Occupational harm is treated as unavoidable for householders, but it must be reduced through careful selection of professions, ethical conduct, and mindful consumption. Commentaries emphasize that karmic consequences vary according to intention, negligence, and the degree of harm inflicted. Modern Jain scholarship extends the discussion to industrial labor, digital work, environmental impact, and global supply chains, showing how ancient principles can guide contemporary ethical reflection.\n\nAcross sects, the core principle remains: livelihoods should be chosen and practiced in ways that minimize violence, promote compassion, and support spiritual progress. Occupational harm is not merely a moral category but a practical framework for navigating the tension between worldly responsibilities and the pursuit of liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "आरम्भसमारम्भदोषा हिंसा",
+      "transliteration": "ārambha-samārambha-doṣā hiṃsā",
+      "translation": "“Violence arises from activity and from the preparation for activity.”",
+      "notes": "Tattvārtha Sūtra 7.13 identifies occupational and preparatory actions as sources of himsā. Traditional commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi) explain that householders inevitably engage in ārambha (undertaking work), which can generate harm if done negligently or with violent intent."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "जिवा विरायए अणरिस्सं",
+      "transliteration": "jīvā virāyae aṇarissaṃ",
+      "translation": "“Living beings are harmed through carelessness.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.1) highlights negligence (pramāda) as a major cause of harm. Commentators apply this principle to occupational contexts, stressing that carefulness (samiti) reduces karmic accumulation."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "अरंभजं पावं बहुक्करं",
+      "transliteration": "araṃbhajaṃ pāvaṃ bahukkaraṃ",
+      "translation": "“Sin arising from undertakings is manifold.”",
+      "notes": "Uttarādhyayana Sūtra 31 discusses the karmic complexity of worldly undertakings. Later teachers use this to explain why certain professions are discouraged for laypeople."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism forbids all occupations that involve any form of harm.",
+      "reality": "Primary texts acknowledge that householders must engage in livelihoods that inevitably involve some harm. The requirement is to minimize violence, avoid explicitly harmful professions, and practice carefulness."
+    },
+    {
+      "myth": "Occupational harm is only about physical injury to visible beings.",
+      "reality": "Jain ethics include harm to microscopic life, environmental damage, and indirect violence. Occupational harm encompasses all these layers."
+    },
+    {
+      "myth": "Modern professions are exempt because ancient texts do not mention them.",
+      "reality": "Jain principles apply universally. Commentators and scholars extend ahiṃsā to modern contexts such as industrial pollution, digital labor ethics, and global supply chains."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "overview": "In Jain traditions, monks (śramaṇa / muni) are renunciants who undertake the most rigorous form of the Jain path, embodying the ideal of non‑violence (ahiṃsā), non‑possessiveness (aparigraha), and disciplined conduct. They are not considered spiritual authorities in the sense of issuing binding rulings; rather, they are practitioners who model the highest standards of restraint described in the canonical texts. Jain monasticism is diverse across Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth lineages, each maintaining distinct rules of conduct, dress, scriptural canons, and disciplinary structures.\n\nAcross traditions, monks are understood as individuals who have renounced household life (pravrajyā) and taken vows that regulate speech, movement, diet, possessions, and interactions. Their purpose is not social authority but the pursuit of liberation (mokṣa) through the elimination of karmic influx (āsrava) and the shedding of accumulated karma (nirjarā). Primary texts describe monks as those who cultivate vigilance (apramatta), equanimity (samatā), and meditative awareness (dhyāna), while living in accordance with detailed disciplinary codes.\n\nDigambara monks follow nudity (dig‑ambara, “sky‑clad”) as a symbol of complete non‑possession, though this is interpreted differently in modern contexts and is subject to lineage‑specific rules. Śvetāmbara monks wear white robes and maintain distinct rules for alms, movement, and study. Sthānakavāsī and Terāpanth monks emphasize non‑image worship, strict internal discipline, and centralized authority structures. Despite these differences, all Jain monastic traditions share a commitment to ahiṃsā, careful movement to avoid harming living beings, and daily practices such as scriptural study, meditation, confession (pratikramaṇa), and observance of seasonal retreats (cāturmāsa).\n\nHistorical sources portray monks as central to the preservation of Jain scriptures, the transmission of Prakrit and Sanskrit learning, and the maintenance of ethical ideals. Manuscript traditions show that monks were responsible for copying, memorizing, and teaching canonical texts. Modern scholarship emphasizes that monastic life is not static; it adapts to social, geographic, and ecological contexts while remaining anchored in the core vows. Monks are not intermediaries between laypeople and liberation; rather, they exemplify a path that laypeople support and learn from within their own ethical capacities.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara Canon)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "“ṇa yaṃ kiṃci pāṇaṃ viheṭhejjā”",
+      "transliteration": "ṇa yaṃ kiṃci pāṇaṃ viheṭhejjā",
+      "translation": "“He should not injure any living being.”",
+      "notes": "Book I of the Ācārāṅga Sūtra outlines the conduct of wandering monks, emphasizing vigilance, careful movement, and non‑violence. This is one of the earliest and most authoritative descriptions of Jain monastic discipline."
+    },
+    {
+      "title": "Sūtrakṛtāṅga Sūtra (Śvetāmbara Canon)",
+      "author": "Traditionally attributed to early Jain elders",
+      "original_text": "“samaeṇaṃ carejja”",
+      "transliteration": "samaeṇaṃ carejja",
+      "translation": "“He should conduct himself with equanimity.”",
+      "notes": "This text describes the mental and ethical qualities expected of monks, including equanimity, restraint, and avoidance of harmful speech. It also discusses wrong views and the dangers of negligence."
+    },
+    {
+      "title": "Mūlācāra (Digambara Monastic Code)",
+      "author": "Vattakera",
+      "original_text": "“sarva‑parigraha‑tyāgaḥ muner lakṣaṇam”",
+      "transliteration": "sarva‑parigraha‑tyāgaḥ muner lakṣaṇam",
+      "translation": "“The defining mark of a monk is the abandonment of all possessions.”",
+      "notes": "A foundational Digambara text detailing monastic vows, nudity, alms rules, and ethical conduct. It is central to understanding Digambara interpretations of aparigraha."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "“vrata‑caryā‑saṃyama‑tapasāṃ ca”",
+      "transliteration": "vrata‑caryā‑saṃyama‑tapasāṃ ca",
+      "translation": "“Through vows, conduct, restraint, and austerities…”",
+      "notes": "Although not exclusively monastic, this pan‑Jain text describes the path of liberation and the role of vows and austerities, which are interpreted at their highest level in monastic life."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain monks serve as spiritual authorities who issue binding religious rulings for laypeople.",
+      "reality": "Jain monks are practitioners of rigorous renunciation, not institutional authorities issuing binding rulings. Lineage‑specific councils and lay organizations handle community governance."
+    },
+    {
+      "myth": "All Jain monks follow identical rules and dress codes.",
+      "reality": "Monastic regulations differ significantly across Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth traditions, including dress, alms practices, scriptural canons, and disciplinary structures."
+    },
+    {
+      "myth": "Monks act as intermediaries between laypeople and liberation.",
+      "reality": "Jain doctrine holds that liberation is achieved through one’s own effort. Monks exemplify the path but do not mediate salvation."
+    },
+    {
+      "myth": "Monastic life is static and unchanged since ancient times.",
+      "reality": "While grounded in canonical vows, monastic practice adapts to geography, ecology, and social conditions, as shown in manuscript traditions and modern scholarship."
+    }
+  ]
+}

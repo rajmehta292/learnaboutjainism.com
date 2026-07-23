@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, obstacles to liberation (mokṣa) are understood through a precise technical framework that explains why the soul (jīva), though inherently endowed with infinite knowledge, perception, bliss, and energy, remains bound in saṃsāra. Across Digambara and Śvetāmbara traditions, the core obstacles are described through the doctrines of karma, passions (kaṣāya), delusion (mithyātva), and the structural limitations of the soul’s current spiritual stage (guṇasthāna). These obstacles are not external forces but internal conditions arising from the soul’s own activity (yoga) and impurities (kaṣāya). \n\nThe most fundamental obstacle is **mithyātva**, the state of false worldview or spiritual ignorance. Primary texts repeatedly emphasize that without right faith (samyagdarśana), the path to liberation cannot begin. Mithyātva manifests as misunderstanding the nature of reality, doubting the efficacy of the path, or clinging to mistaken beliefs. It is considered the root from which other obstacles arise. \n\nAnother major obstacle is **kaṣāya**—the passions of anger, pride, deceit, and greed. These are the primary agents that attract and bind karma to the soul. Even subtle forms of these passions obstruct the higher guṇasthānas. Traditional commentaries describe kaṣāya as “the glue” that fastens karmic particles to the soul, preventing the rise of pure knowledge and conduct. \n\nThe **four destructive karmas (ghātiyā karmas)**—knowledge-obscuring (jñānāvaraṇīya), perception-obscuring (darśanāvaraṇīya), deluding (mohanīya), and obstructive (antarāya)—are also central obstacles. They directly impair the soul’s essential qualities. Liberation is achieved only when these karmas are completely destroyed. \n\nThe **activities of body, speech, and mind (yoga)**, when accompanied by passions, become obstacles by generating new karmic influx (āsrava). Improper conduct, violence, negligence, and attachment further intensify karmic bondage (bandha). \n\nFinally, the **lower guṇasthānas** themselves represent structural obstacles. As long as the soul remains in stages dominated by delusion, passions, or wavering conduct, it cannot ascend to the pure states required for liberation. The transition from delusion to right faith, and from passion to passionlessness, marks the progressive removal of obstacles. \n\nAcross traditions, the removal of obstacles is achieved through right faith, right knowledge, and right conduct (the three jewels), supported by austerities, meditation, scriptural study, and ethical discipline. While the obstacles are many, Jain texts emphasize that they are finite and conquerable through disciplined spiritual practice.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "मिथ्यात्वाविरतिप्रमादकषाययोगाः पापस्य कारणम्",
+      "transliteration": "mithyātva‑virati‑pramāda‑kaṣāya‑yogāḥ pāpasya kāraṇam",
+      "translation": "False belief, non-restraint, negligence, passions, and activities are the causes of demerit.",
+      "notes": "Tattvārtha Sūtra 6.1 identifies the core internal obstacles that generate karmic bondage. Both Digambara and Śvetāmbara traditions accept this text as authoritative, though commentarial interpretations differ."
+    },
+    {
+      "title": "Samayasāra",
+      "author": "Ācārya Kundakunda",
+      "original_text": "कषायो हि बन्धहेतु",
+      "transliteration": "kaṣāyo hi bandhahetu",
+      "translation": "Passions are indeed the cause of bondage.",
+      "notes": "A foundational Digambara text emphasizing kaṣāya as the principal obstacle preventing the soul from realizing its pure nature."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical compilers",
+      "original_text": "मोहो हि संसारस्य मूलम्",
+      "transliteration": "moho hi saṃsārasya mūlam",
+      "translation": "Delusion is the root of saṃsāra.",
+      "notes": "This canonical text highlights delusion (moha/mithyātva) as the foundational obstacle to liberation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Obstacles to liberation are external forces or divine punishments.",
+      "reality": "Jain texts consistently teach that obstacles arise from the soul’s own passions, ignorance, and activities. There is no external deity imposing bondage."
+    },
+    {
+      "myth": "Karma is purely metaphorical and not a technical system.",
+      "reality": "Primary Jain sources describe karma as a precise, material, particulate substance that binds to the soul due to passions and activities."
+    },
+    {
+      "myth": "Only severe sins create obstacles to liberation.",
+      "reality": "Even subtle passions, minor negligence, and wavering faith obstruct progress in the guṇasthānas. Liberation requires eliminating both gross and subtle obstacles."
+    }
+  ]
+}

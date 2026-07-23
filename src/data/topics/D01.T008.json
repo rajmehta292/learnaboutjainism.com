@@ -1,0 +1,55 @@
+{
+  "overview": "Reading Jain primary texts requires a careful, source‑grounded method that respects linguistic, historical, and sectarian contexts. Because Jain literature spans over two millennia and includes Ardhamāgadhī Prakrit, Śaurasenī, Apabhraṃśa, and classical Sanskrit, approaching these works demands both philological discipline and awareness of interpretive traditions. A responsible reader begins by identifying the genre of the text—āgama, niryukti, bhāṣya, cūrṇi, ṭīkā, śāstra—because each genre carries different expectations for literalness, doctrinal density, and commentarial dependence.\n\nPrimary texts often present aphoristic or highly compressed statements. For example, canonical sūtras may list categories without explanation, assuming the presence of an oral teacher. Later commentaries expand these terse formulations. Therefore, reading a primary text in isolation can lead to misunderstanding unless the reader consults both traditional exegesis and modern critical editions. Sectarian differences also matter: Digambara and Śvetāmbara canons diverge in content, transmission history, and accepted authority. A careful reader notes these divergences rather than assuming uniformity.\n\nA structured approach includes: (1) identifying a reliable critical edition; (2) reading the original language alongside a trustworthy translation; (3) checking commentaries for doctrinal clarification; (4) noting variant readings across manuscripts; (5) distinguishing between direct quotation, translator interpretation, and later doctrinal synthesis. Because Jain texts often embed technical terms—such as guṇasthāna, leśyā, pramāda, saṃvara, nirjarā—readers benefit from lexicons and cross‑references to related works.\n\nFinally, primary texts should be read with humility regarding authority. They are not manuals for medical, legal, or ascetic action. When texts describe practices such as fasting, renunciation, or advanced austerities, modern readers must contextualize these passages historically and consult qualified human teachers rather than treating the texts as prescriptive instructions. The goal is understanding, not self‑directed ascetic experimentation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (sectarian attribution varies)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "A foundational Sanskrit compendium accepted across Jain traditions. Its aphoristic style requires commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) or Siddhasena’s *Tattvārtha‑vṛtti* (Śvetāmbara)."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to early Śvetāmbara redactors",
+      "original_text": "णं चेसु णं चेसु, णं चेसु णं चेसु",
+      "transliteration": "ṇaṃ cesu ṇaṃ cesu, ṇaṃ cesu ṇaṃ cesu",
+      "translation": "Injure not, injure not; injure not, injure not.",
+      "notes": "One of the earliest Śvetāmbara canonical texts, composed in Ardhamāgadhī Prakrit. Its repetitive, oral style reflects monastic instruction. Modern readers must rely on critical editions due to manuscript variation."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama",
+      "author": "Kundakunda lineage; compiled by Puṣpadanta and Bhūtabali",
+      "original_text": "जोगस्स णाणं, णाणस्स जोगो",
+      "transliteration": "jogassa ṇāṇaṃ, ṇāṇassa jogo",
+      "translation": "Knowledge belongs to yoga, and yoga belongs to knowledge.",
+      "notes": "A central Digambara canonical text preserved through medieval manuscript traditions. Extremely technical; typically studied with commentaries such as *Dhavalā* and *Mahādhavalā*."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Śvetāmbara canonical redactors",
+      "original_text": "एवमेव अहिंसा परमो धर्मः",
+      "transliteration": "evameva ahiṃsā paramo dharmaḥ",
+      "translation": "Thus indeed, non‑violence is the supreme dharma.",
+      "notes": "Although the Sanskrit phrasing is widely known, the canonical text is in Prakrit. Readers must distinguish between traditional Sanskrit restatements and the original Prakrit passages."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Primary Jain texts can be read like modern instructional manuals.",
+      "reality": "Most primary texts are aphoristic, oral‑formulaic, or highly technical. They presuppose a teacher, commentaries, and contextual knowledge. Treating them as standalone instructions leads to misinterpretation."
+    },
+    {
+      "myth": "All Jain traditions use the same canon.",
+      "reality": "Digambara and Śvetāmbara traditions preserve different canons and commentarial lineages. A responsible reader notes sectarian context before drawing conclusions."
+    },
+    {
+      "myth": "Translations are interchangeable and fully capture the meaning.",
+      "reality": "Translations vary widely in accuracy and interpretive choices. Many technical terms have no exact English equivalents. Reading the original language or consulting multiple translations is essential."
+    },
+    {
+      "myth": "Ancient descriptions of austerities are direct prescriptions for modern practice.",
+      "reality": "Primary texts describe historical monastic contexts. Modern application requires guidance from qualified teachers and careful ethical, medical, and safety considerations."
+    }
+  ]
+}

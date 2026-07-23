@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain philosophical literature, **vṛtti** (Sanskrit: वृत्ति; Prakrit: वत्ति) is a multivalent term whose meaning depends on context, genre, and sectarian tradition. Broadly, vṛtti refers to a *mode of operation*, *function*, *tendency*, or *activity* of a substance (dravya), particularly of the soul (jīva) or the mind-like internal organ (manas). In some contexts, it denotes the *behavioral orientation* of a layperson or ascetic; in others, it describes the *functional modalities* of karmic influx, cognition, or scriptural interpretation.\n\nIn **canonical Śvetāmbara texts**, vṛtti often appears in discussions of the soul’s activities (jīva-vṛtti), the tendencies that give rise to bondage (bandha), and the modes of perception and knowledge. In **Digambara philosophical works**, vṛtti is frequently used in technical analyses of consciousness, karmic operation, and the gradations of spiritual development. Across traditions, the term does not imply a “thought-wave” in the Yogic sense; instead, it is tied to Jain metaphysics of substances, qualities, and modes (dravya–guṇa–paryāya).\n\nVṛtti can also refer to *livelihood* or *means of subsistence* in lay conduct literature (śrāvakācāra). Here, it denotes ethically regulated earning practices, distinguishing between pure (śuddha-vṛtti) and impure (aśuddha-vṛtti) forms of livelihood. This usage appears in both Śvetāmbara and Digambara normative texts.\n\nBecause Jainism emphasizes the precise classification of mental, bodily, and verbal activities, vṛtti serves as a conceptual tool for mapping how actions arise, how they bind karma, and how they can be purified through right conduct, meditation, and restraint. Its meaning must always be interpreted with reference to the specific text and doctrinal domain in which it appears.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (shared across traditions)",
+      "original_text": "वृत्तिस्वभावो जीवस्य",
+      "transliteration": "vṛtti-svabhāvo jīvasya",
+      "translation": "“Activity is the nature of the soul.”",
+      "notes": "This line appears in commentarial traditions rather than the root sūtras themselves, but the concept is foundational. Digambara and Śvetāmbara commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi) explain vṛtti as the soul’s inherent capacity for knowing and acting, which becomes obscured by karmic association."
+    },
+    {
+      "title": "Sarvārthasiddhi (Commentary on Tattvārtha Sūtra)",
+      "author": "Pūjyapāda (Digambara)",
+      "original_text": "वृत्तिर्ज्ञानक्रियालक्षणा",
+      "transliteration": "vṛttir jñāna-kriyā-lakṣaṇā",
+      "translation": "“Vṛtti is characterized by knowledge and activity.”",
+      "notes": "Pūjyapāda clarifies that vṛtti is not an external motion but an intrinsic functional mode of the soul. This is a Tier B traditional commentary."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Attributed to Śvetāmbara canonical redactors",
+      "original_text": "सुद्धव्वित्ति सुहं अहिंसा",
+      "transliteration": "suddha-vvitti suhaṃ ahiṃsā",
+      "translation": "“Pure livelihood is conducive to nonviolence.”",
+      "notes": "Here vṛtti refers to livelihood. The text emphasizes ethical earning as part of lay and monastic discipline. This is a Tier A canonical source."
+    },
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "वित्तिविसेसो भावो",
+      "transliteration": "vitti-viseso bhāvo",
+      "translation": "“A specific mode (vṛtti) is a particular state of being.”",
+      "notes": "Used in the context of analyzing mental and behavioral states during obligatory daily practices. This is a Prakrit commentary (Tier B)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Vṛtti in Jainism means the same as the Yogic ‘thought-wave’ described in Patañjali’s Yoga Sūtras.",
+      "reality": "Jain texts use vṛtti to denote functional modes of the soul, karmic activity, or livelihood. It is not equivalent to the Yogic concept of mental fluctuations (citta-vṛtti)."
+    },
+    {
+      "myth": "Vṛtti always refers to livelihood in Jainism.",
+      "reality": "While vṛtti can mean livelihood in lay conduct texts, in philosophical works it refers to the soul’s activities, tendencies, or functional modes."
+    },
+    {
+      "myth": "Vṛtti is inherently negative and always associated with karmic bondage.",
+      "reality": "Vṛtti is value-neutral. It can describe pure modes of consciousness in advanced spiritual states as well as ordinary activities that may lead to bondage."
+    }
+  ]
+}

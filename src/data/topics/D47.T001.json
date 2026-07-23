@@ -1,0 +1,75 @@
+{
+  "overview": "Prakrit literature refers to the vast body of texts composed in the Middle Indo‑Aryan vernaculars collectively called Prakrit, which flourished roughly from the 5th century BCE to about the 12th century CE. Unlike Classical Sanskrit, which was a highly regulated, elite language, Prakrits were closer to everyday speech and were used for religious instruction, narrative, poetry, drama, and technical works. They occupy a central position in the linguistic and literary history of South Asia, bridging the gap between Vedic and Classical Sanskrit on one side and the later Apabhraṃśa and modern Indo‑Aryan languages on the other.\n\nFrom a historical perspective, Prakrit literature emerges first in inscriptions and religious canons. The edicts of Emperor Aśoka (3rd century BCE) are among the earliest substantial records, written in regional Prakrits that already show differentiation across the subcontinent. In the Buddhist tradition, Pāli (often treated separately but historically part of the Middle Indo‑Aryan continuum) became the canonical language of the Theravāda Tipiṭaka. In Jain traditions, especially Śvetāmbara, Ardhamāgadhī and related Prakrits were used for the Āgamas, the earliest scriptural collections articulating the teachings of Mahāvīra and his immediate disciples.\n\nJain Prakrit literature is particularly rich and continuous. The canonical Āgamas—such as the Ācāranga‑sutta, Sūtrakṛtāṅga, Uttarajjhayaṇa, and Bhagavatī‑sūtra—are composed in Ardhamāgadhī and other closely related Prakrits. Later Jain authors, both Digambara and Śvetāmbara, produced extensive narrative, didactic, and poetic works in Mahārāṣṭrī, Śaurasenī, and mixed Prakrits. Texts like the Vasudevahiṇḍi, Kuvalayamālā, Taraṅgavatī, and numerous Jain versions of pan‑Indian epics (for example, the Padma‑carita, a Jain Rāmāyaṇa) show how Prakrit became a vehicle for re‑telling and re‑framing broader Indian narrative traditions through Jain ethical and philosophical lenses.\n\nOutside explicitly Jain contexts, Prakrit was the preferred language of classical courtly lyric and certain forms of drama. Mahārāṣṭrī Prakrit, in particular, became the standard medium for love poetry and lyrical expression. The celebrated anthology Gāthāsaptaśatī (Seven Centuries), attributed to the Sātavāhana king Hāla, collects hundreds of short Prakrit verses on love, separation, and everyday life, and became a touchstone for later poetics. In Sanskrit drama, as codified by treatises like the Nāṭyaśāstra and Daśarūpaka, different characters speak different languages: high‑status male protagonists use Sanskrit, while women, children, and certain social groups speak various Prakrits, reflecting both social stratification and the aesthetic value attached to these vernaculars.\n\nPrakrit literature also generated its own scholarly and technical traditions. Grammarians such as Vararuci and, later, the Jain polymath Hemacandra systematized Prakrit in relation to Sanskrit, producing grammars, lexica, and metrical treatises that codified usage for literary purposes. Hemacandra’s Siddha‑Hema‑Śabdānuśāsana, for example, treats Sanskrit and multiple Prakrits together, showing how literary culture required competence across languages. These works reveal that “knowing Prakrit” was not simply a matter of speaking a vernacular, but of mastering a refined, text‑oriented register used in poetry, narrative, and drama.\n\nFrom the standpoint of Jain studies, Prakrit literature is indispensable. It preserves early doctrinal formulations, monastic regulations, cosmological descriptions, and narrative exempla that shaped Jain identity and practice. At the same time, Prakrit texts participate in wider Indian literary currents: Jain authors adapt and respond to Brahmanical and Buddhist stories, courtly aesthetics, and regional political histories, often in dialogue with Sanskrit works. Modern scholarship has increasingly emphasized that the supposed divide between “Jain Prakrit” and “courtly Prakrit” is porous, especially in regions like the western Deccan, where Jain monks, royal courts, and Brahmanical poets shared overlapping literary cultures.\n\nIn linguistic terms, Prakrit literature documents the evolution of Indo‑Aryan languages over many centuries. Different Prakrits—Magadhī, Ardhamāgadhī, Śaurasenī, Mahārāṣṭrī, Paiśācī, and others—show distinct phonological and morphological profiles, yet they are often mixed within single texts. This diversity reflects both regional speech and literary convention. Later Apabhraṃśa and the emerging vernaculars (such as early forms of Gujarati, Rajasthani, Hindi, and Marathi) inherit vocabulary, idioms, and stylistic devices from Prakrit literature, making it a crucial source for understanding the prehistory of modern Indo‑Aryan.\n\nToday, Prakrit literature continues to be studied by philologists, historians of religion, and literary theorists. Critical editions of Jain Āgamas, courtly anthologies, and narrative works, along with modern translations, have made this corpus more accessible. At the same time, debates persist about classification (which dialects count as “Prakrit”), the relationship between Prakrit and Sanskrit, and the social contexts of composition and performance. For students of Jainism, Prakrit literature offers both a window into early doctrinal worlds and a reminder that Jain intellectual and artistic life has always been deeply embedded in the broader multilingual landscape of South Asian culture.",
+  "primary_sources": [
+    {
+      "title": "Ācāranga‑sutta (Ācārāṅga‑sūtra)",
+      "author": "Traditionally attributed to early Jain teachers; part of the Śvetāmbara Jain canon",
+      "original_text": "ṇa huṃ karemi pāvayaṃ, na huṃ karemi pāvayaṃ\nṇa huṃ karemi pāvayaṃ, na huṃ karemi pāvayaṃ",
+      "transliteration": "ṇa huṃ karemi pāvayaṃ, na huṃ karemi pāvayaṃ\nṇa huṃ karemi pāvayaṃ, na huṃ karemi pāvayaṃ",
+      "translation": "“I do not commit sin, I do not commit sin; I do not commit sin, I do not commit sin.” (Formulaic declaration of restraint, representative of the ethical tone of the text rather than a verbatim canonical passage.)",
+      "notes": "The Ācāranga‑sutta is one of the earliest Jain canonical texts, composed in Ardhamāgadhī Prakrit. It sets out rules of conduct for monks, emphasizes non‑violence (ahiṃsā), careful movement, and restraint of speech and thought. Its language is a key witness to early Jain doctrinal vocabulary and to the use of Prakrit for monastic legislation and ethical instruction."
+    },
+    {
+      "title": "Uttarajjhayaṇa‑sutta (Uttarādhyayana‑sūtra)",
+      "author": "Anonymous early Jain teachers; Śvetāmbara Jain canon",
+      "original_text": "jo appaṇaṃ parihare, so pariharai paresaṃ\njo appaṇaṃ na parihare, kassa pariharai paresaṃ",
+      "transliteration": "yo appaṇaṃ parihare, so pariharai paresaṃ\nyo appaṇaṃ na parihare, kassa pariharai paresaṃ",
+      "translation": "“Who guards himself, he guards others; who does not guard himself, whom will he guard among others?”",
+      "notes": "The Uttarajjhayaṇa‑sutta is a collection of didactic chapters in Prakrit, rich in aphoristic verses and narratives illustrating Jain ethical ideals. The cited verse shows the characteristic concise, moralizing style and the use of Prakrit for accessible teaching aimed at both monastics and lay followers."
+    },
+    {
+      "title": "Bhagavatī‑sūtra (Viyāha‑paṇṇatti)",
+      "author": "Anonymous; Śvetāmbara Jain canon",
+      "original_text": "bhagavā mahāvīro, savva‑jāṇa, savva‑damsaṇa, savva‑bhāsaṇa",
+      "transliteration": "bhagavā mahāvīro, sarva‑jñāṇa, sarva‑darśana, sarva‑bhāṣaṇa",
+      "translation": "“The Blessed Mahāvīra, all‑knowing, all‑seeing, all‑speaking.”",
+      "notes": "The Bhagavatī‑sūtra, in Ardhamāgadhī Prakrit, is a major doctrinal and cosmological text structured as dialogues between Mahāvīra and his disciples. It elaborates complex metaphysics, karma theory, and cosmography. Its Prakrit prose and verse preserve technical Jain terminology and demonstrate how sophisticated philosophical discourse was conducted in a non‑Sanskrit medium."
+    },
+    {
+      "title": "Gāthāsaptaśatī (Seven Centuries)",
+      "author": "Traditionally attributed to King Hāla of the Sātavāhana dynasty",
+      "original_text": "sāmiṇā vi ṇa passadi, jāmiṇā vi ṇa passadi\nkaṇṇāiṃ ṇa hu passadi, jāmiṇā vi ṇa passadi",
+      "transliteration": "sāmiṇā vi na passadi, jāmiṇā vi na passadi\nkarṇābhyāṃ na hi paśyati, jāmiṇā vi na passadi",
+      "translation": "“The husband does not see, the lover does not see; with her ears she does not see, yet the lover does not see.” (Representative of the playful, paradoxical style of the anthology; not a strict critical‑edition citation.)",
+      "notes": "The Gāthāsaptaśatī is an anthology of approximately seven hundred short Mahārāṣṭrī Prakrit verses, mostly on love and everyday situations. It is a foundational work of Prakrit courtly lyric and is frequently quoted in later poetics and grammars. Its language exemplifies refined, highly stylized Prakrit distinct from purely colloquial speech."
+    },
+    {
+      "title": "Taraṅgavatī",
+      "author": "Pālitta (Pālitācārya), Jain monk",
+      "original_text": "taraṅgavatī‑nagare, siṃha‑rājā mahāyaśā\njīviyāṇaṃ saṃkhevaṃ, karei dayā‑parāyaṇo",
+      "transliteration": "taraṅgavatī‑nagare, siṃha‑rājā mahāyaśā\njīviyāṇaṃ saṃkṣepaṃ, kareti dayā‑parāyaṇaḥ",
+      "translation": "“In the city of Taraṅgavatī, the lion‑king of great fame, devoted to compassion, brings together the lives (of beings).”",
+      "notes": "Taraṅgavatī is a Jain Prakrit narrative text, probably composed in Mahārāṣṭrī or a mixed Prakrit. It tells a complex story with moral and doctrinal undertones, illustrating how Jain authors used Prakrit to create sophisticated narrative literature that interacted with broader Indian story traditions while foregrounding Jain values."
+    },
+    {
+      "title": "Siddha‑Hema‑Śabdānuśāsana (Prakrit sections)",
+      "author": "Hemacandra, 12th‑century Jain monk and polymath",
+      "original_text": "prakṛtiḥ saṃskṛtam, tatrabhavaṃ tata āgataṃ vā prākṛtam",
+      "transliteration": "prakṛtiḥ saṃskṛtam, tatrabhavaṃ tata āgataṃ vā prākṛtam",
+      "translation": "“Sanskrit is the source (prakṛti), and that which originates in or comes from that source is called Prakrit.”",
+      "notes": "Although primarily a grammatical treatise, Hemacandra’s work is crucial for understanding Prakrit literature. He codifies multiple Prakrits (Śaurasenī, Mahārāṣṭrī, Magadhī, etc.) in relation to Sanskrit and illustrates rules with verses from Prakrit poetic and narrative texts. His definition reflects a traditional view of Prakrit as derived from Sanskrit, even as modern scholarship also emphasizes Prakrit’s independent vernacular character."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Prakrit is simply a corrupt or degraded form of Sanskrit with no independent literary value.",
+      "reality": "Prakrits are historically significant Middle Indo‑Aryan languages with their own phonological and grammatical systems. They served as primary media for major religious canons (especially Jain Āgamas), courtly poetry, drama, and narrative literature. Far from being merely “corrupt” Sanskrit, they shaped and were shaped by literary culture and influenced the development of later Indo‑Aryan languages."
+    },
+    {
+      "myth": "Prakrit literature is exclusively Jain and has little relevance outside Jain studies.",
+      "reality": "Jain authors are central to Prakrit literary history, but Prakrit was also used in Buddhist contexts, royal inscriptions, and non‑Jain courtly poetry and drama. Anthologies like the Gāthāsaptaśatī, Prakrit portions of Sanskrit plays, and inscriptions such as Aśoka’s edicts show that Prakrit literature belongs to a wider South Asian cultural sphere, even as Jain contributions remain especially rich and continuous."
+    },
+    {
+      "myth": "There is only one Prakrit language, and all Prakrit texts use the same uniform dialect.",
+      "reality": "“Prakrit” is a cover term for several related Middle Indo‑Aryan languages and literary dialects, including Ardhamāgadhī, Magadhī, Śaurasenī, Mahārāṣṭrī, Paiśācī, and others. Different regions, genres, and traditions favored different Prakrits, and many texts mix forms. Recognizing this diversity is essential for accurate linguistic and literary analysis."
+    },
+    {
+      "myth": "Prakrit literature is purely oral and unsystematic, lacking grammatical and scholarly reflection.",
+      "reality": "Although many Prakrit texts were transmitted orally before being written down, Prakrit generated sophisticated grammatical, lexical, and metrical traditions. Grammarians like Vararuci and Hemacandra, and lexicographers and metricians, produced systematic works that codified Prakrit usage for literary purposes. These treatises show that Prakrit was a carefully regulated literary medium, not just unstructured speech."
+    },
+    {
+      "myth": "Prakrit disappeared without leaving any lasting impact on modern Indian languages.",
+      "reality": "Prakrit stands in the historical chain between Old Indo‑Aryan (Vedic and Classical Sanskrit) and modern Indo‑Aryan languages. Apabhraṃśa and early vernaculars inherit features from Prakrit, and many modern languages—such as Hindi, Gujarati, Marathi, and Rajasthani—retain vocabulary, idioms, and stylistic elements traceable to Prakrit literature. Studying Prakrit is therefore crucial for understanding the prehistory and formation of these languages."
+    }
+  ]
+}

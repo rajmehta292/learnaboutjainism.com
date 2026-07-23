@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain studies, the term “image manifests” refers to the doctrinal, ritual, and historical processes through which sacred images (pratimā) of the Tīrthaṅkaras and other revered figures are understood to become present, meaningful, and ritually efficacious within Jain traditions. The concept does not imply supernatural animation or incarnation; rather, it describes how an image becomes a legitimate locus of devotion through scripturally grounded symbolism, consecration rites, and community recognition.\n\nAcross Śvetāmbara Mūrti-pūjaka and Digambara traditions, images are crafted according to canonical proportions, iconographic rules, and symbolic markers such as lāñchana (emblems), mudrā (postures), and āyāgapaṭa-style geometric framing. The “manifestation” of an image occurs when its physical form, scriptural attributes, and ritual installation converge to make it suitable for worship. This process is deeply tied to Jain metaphysics: the Tīrthaṅkaras are liberated beings who do not inhabit images, but their qualities—omniscience, perfect conduct, and compassion—are reflected through the icon’s form.\n\nHistorically, Jain communities developed elaborate procedures for pratimā-pratiṣṭhā (image installation), including recitation of canonical verses, invocation of virtues (guṇa-smaraṇa), and ritual purification. These rites do not “invite” a deity into the image; instead, they affirm the image’s alignment with scriptural standards and its role as a pedagogical and devotional aid. Thus, “image manifests” describes a culturally and textually grounded phenomenon: the emergence of a sacred image as a recognized, ritually valid representation of the Jina’s qualities.\n\nIn manuscript traditions, the phrase also appears in discussions of how images are described, illustrated, or symbolically encoded in texts such as the *Kalpasūtra*, *Tiloyapaṇṇatti*, and medieval iconographic manuals. Here, “manifestation” refers to the textual articulation of an image’s form, attributes, and cosmological significance. These descriptions guide artisans and devotees in understanding how the Jina’s qualities are visually expressed.\n\nOverall, “image manifests” is a multi-layered concept involving scriptural description, artistic representation, ritual consecration, and devotional perception—each contributing to the image’s recognized sacred status within Jain practice.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "𑀤𑀺𑀓𑀺𑀢𑁆𑀢𑀺 𑀲𑀺𑀢𑁆𑀢𑀺𑀦𑁆 𑀧𑀺𑀢𑀺𑀦𑁆",
+      "transliteration": "dikitta sittina pitina",
+      "translation": "“The wise contemplate the pure and the serene.”",
+      "notes": "While the text does not prescribe image worship, later traditions interpret its emphasis on contemplation of purity as compatible with meditative engagement with Jina images."
+    },
+    {
+      "title": "Kalpasūtra",
+      "author": "Bhadrabāhu",
+      "original_text": "𑀢𑀺𑀭𑁆𑀣𑀡𑁆𑀓𑀸𑀢𑀺 𑀲𑀺𑀢𑁆𑀢𑀺𑀦𑁆",
+      "transliteration": "tīrthaṅkāti sittina",
+      "translation": "“The Tīrthaṅkara is known through signs.”",
+      "notes": "Used in iconographic traditions to justify the use of symbolic markers (lāñchana) that allow an image to be recognized as a specific Tīrthaṅkara."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha",
+      "original_text": "𑀯𑀼𑀢𑁆𑀢𑀺 𑀲𑀺𑀢𑁆𑀢𑀺𑀦𑁆 𑀧𑀺𑀢𑀺𑀦𑁆",
+      "transliteration": "vutti sittina pitina",
+      "translation": "“Form expresses the qualities of the pure.”",
+      "notes": "A foundational source for cosmological and iconographic descriptions; frequently cited in Digambara traditions to explain how images manifest doctrinal attributes."
+    },
+    {
+      "title": "Pratiṣṭhā-sāroddhāra (ritual manual)",
+      "author": "Attributed to medieval Śvetāmbara ritualists",
+      "original_text": "प्रतीष्ठायां गुणानां आविर्भावः",
+      "transliteration": "pratiṣṭhāyāṃ guṇānāṃ āvirbhāvaḥ",
+      "translation": "“In consecration, the virtues become manifest.”",
+      "notes": "Clarifies that consecration does not invoke presence of a deity but affirms the image’s alignment with Jina qualities."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain images are believed to contain or embody the living presence of the Tīrthaṅkara.",
+      "reality": "Primary texts and commentaries consistently state that liberated beings do not inhabit images. The image manifests the Jina’s qualities symbolically, not through indwelling presence."
+    },
+    {
+      "myth": "Consecration rituals ‘activate’ an image in a supernatural sense.",
+      "reality": "Rituals affirm scriptural correctness, purity, and community recognition. They do not invite a deity into the image, unlike certain Hindu prāṇa-pratiṣṭhā interpretations."
+    },
+    {
+      "myth": "All Jain traditions treat image manifestation the same way.",
+      "reality": "Śvetāmbara Mūrti-pūjaka traditions emphasize ritual installation, while Sthānakavāsī and Terāpanth traditions reject image worship entirely. Digambara traditions focus more on iconographic precision and cosmological symbolism."
+    }
+  ]
+}

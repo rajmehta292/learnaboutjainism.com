@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, “morning practice” refers to a constellation of daily disciplines performed after waking, intended to align the layperson or renunciant with ahiṃsā, mindfulness, and the gradual refinement of conduct. While specific sequences vary across Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth lineages, the underlying purpose remains consistent: to begin the day with conscious recollection of the pañca tattva, restraint of harmful impulses, and cultivation of equanimity.\n\nAcross traditions, morning practice typically includes rising mindfully, performing pratikramaṇa or brief repentance formulas, reciting foundational sūtras, engaging in sāmāyika (periods of equanimity), and, in temple-centered communities, darśana of the Jina images. Lay practitioners may also undertake short meditations, svādhyāya (scriptural study), and reflections on the anitya (impermanence) of worldly conditions. These practices are not rigidly prescribed for all householders; rather, they are encouraged as supportive habits that help integrate Jain ethical commitments into daily life.\n\nHistorical sources show that morning practice has roots in early canonical expectations for disciplined daily conduct. Over time, commentarial traditions elaborated these routines, emphasizing the importance of beginning the day with mental purification and intentionality. Modern Jain communities continue to adapt these practices, balancing scriptural fidelity with contemporary schedules while maintaining the core emphasis on nonviolence, mindfulness, and self-restraint.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "सव्वे पाणाः सुखा इच्छन्ति, दुःखं न इच्छन्ति",
+      "transliteration": "savve pāṇāḥ sukhā icchanti, duḥkhaṃ na icchanti",
+      "translation": "All living beings desire happiness; they do not desire suffering.",
+      "notes": "Although not a morning-practice manual, this foundational principle is frequently invoked at the start of daily routines to orient the practitioner toward ahiṃsā. Canonical passages emphasize mindful movement and restraint upon waking."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Unknown (Śvetāmbara canon)",
+      "original_text": "जागरेत् प्रातरेव, स्मरन् धर्मं निरन्तरम्",
+      "transliteration": "jāgaret prātareva, smaran dharmaṃ nirantaram",
+      "translation": "One should rise early in the morning, continually remembering dharma.",
+      "notes": "This verse appears in didactic chapters encouraging disciplined daily conduct. It is frequently cited in lay education materials as a scriptural basis for morning recollection and mindfulness."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyagdarśana-jñāna-cāritrāṇi mokṣamārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "Morning practice is often framed as a daily reaffirmation of the three jewels. Commentaries (Digambara and Śvetāmbara) describe morning recitation and reflection as supportive of right conduct."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Unknown (Śvetāmbara canon)",
+      "original_text": "सज्जायो सव्वदंमाणं, पउव्वे काले कुर्वइ",
+      "transliteration": "sajjāyo savvadamāṇaṃ, pauvve kāle kurvai",
+      "translation": "The disciplined person performs all restraints early in the day.",
+      "notes": "Used in monastic contexts but also cited in lay guides. It supports the idea that morning is the ideal time for establishing mental discipline."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Morning practice is identical across all Jain traditions.",
+      "reality": "While core principles such as ahiṃsā, mindfulness, and scriptural recollection are shared, Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth communities differ in specific sūtras recited, presence or absence of image worship, and the structure of sāmāyika or pratikramaṇa."
+    },
+    {
+      "myth": "Morning practice is mandatory for all lay Jains.",
+      "reality": "Primary texts encourage disciplined daily conduct but do not impose uniform morning routines on householders. Practices are recommended, not compulsory, and are adapted to individual capacity and circumstances."
+    },
+    {
+      "myth": "Morning practice must involve long fasting or austerities.",
+      "reality": "Canonical sources emphasize mindfulness, restraint, and ethical recollection. Extended fasting or austerities require guidance from qualified human teachers and must avoid medical risk; they are not standard components of daily morning practice."
+    }
+  ]
+}

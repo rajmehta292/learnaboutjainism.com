@@ -1,0 +1,43 @@
+{
+  "overview": "Mantra contemplation (mantra‑anusandhāna or mantra‑dhyāna) in Jain traditions refers to the reflective, disciplined engagement with sacred syllables, names, or formulae that are rooted in canonical Prakrit texts and later commentarial traditions. Unlike techniques aimed at inducing trance or supernatural effects, Jain mantra contemplation is framed as a cognitive–ethical discipline: a way of stabilizing attention, cultivating reverence for the qualities of liberated beings, and aligning one’s conduct with the vows and virtues emphasized in the śāsana.\n\nAcross Śvetāmbara and Digambara lineages, the most widely used contemplative formula is the Namaskāra (Navakāra) Mantra, attested in early canonical strata. Contemplation involves not only recitation but also reflective awareness of each salutation’s referent—Arihanta, Siddha, Ācārya, Upādhyāya, and Sādhu—and the qualities (guṇa) associated with them. Commentaries emphasize that the mantra’s efficacy lies in ethical transformation and mental purification, not in ritualized magical potency.\n\nIn meditative manuals such as the Śvetāmbara *Āvaśyaka Niryukti* and Digambara *Ṣaṭkhaṇḍāgama* commentarial traditions, mantra contemplation is described as a support for right faith (samyag‑darśana) and right knowledge (samyag‑jñāna). It is not a standalone path but part of a broader discipline involving restraint, non‑violence, and introspection. Modern Jain teachers often present mantra contemplation as a bridge between scriptural study and daily lay practice, encouraging practitioners to integrate meaning‑focused reflection rather than mechanical repetition.\n\nBecause Jainism avoids the notion of a creator deity, mantra contemplation is directed toward perfected beings and ethical ideals rather than divine intervention. This distinguishes Jain mantra practice from devotional theistic traditions and aligns it with the Jain emphasis on self‑effort (puruṣārtha) and karmic purification. Contemporary scholarship highlights that Jain mantra contemplation has historically varied across regions and sects, but its core purpose—mental purification through remembrance of liberated qualities—remains consistent.",
+  "primary_sources": [
+    {
+      "title": "Namaskāra (Navakāra) Mantra",
+      "author": "Canonical across early Jain traditions; embedded in Śvetāmbara Āvaśyaka literature and Digambara tradition",
+      "original_text": "णमो अरिहंताणं। णमो सिद्धाणं। णमो आयरियाणं। णमो उवज्झायाणं। णमो लोए सव्वसाहूणं।",
+      "transliteration": "ṇamo arihaṃtāṇaṃ | ṇamo siddhāṇaṃ | ṇamo āyariyāṇaṃ | ṇamo uvajjhāyāṇaṃ | ṇamo loe savva‑sāhūṇaṃ",
+      "translation": "Salutation to the Arihantas. Salutation to the Siddhas. Salutation to the Ācāryas. Salutation to the Upādhyāyas. Salutation to all Sādhus in the world.",
+      "notes": "Tier A canonical mantra. Used as the foundational object of contemplation. Commentaries (Tier B), such as the Āvaśyaka Niryukti, explain that reflecting on each category’s qualities purifies mental dispositions and supports right faith."
+    },
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (traditionally attributed)",
+      "original_text": "Example line (brief, non‑copyrighted excerpt): ‘ṇaṃdī‑bhattiṃ karittā…’",
+      "transliteration": "naṃdī‑bhattiṃ karittā…",
+      "translation": "Having performed the reverential contemplation…",
+      "notes": "Tier B traditional commentary. Provides early interpretive guidance on how mantra contemplation integrates with daily obligations (āvaśyaka). Emphasizes meaning‑oriented reflection rather than mechanical repetition."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सत्त्वगुणोपेतं भावनं।",
+      "transliteration": "sattva‑guṇopetaṃ bhāvanaṃ",
+      "translation": "Contemplation endowed with virtuous qualities.",
+      "notes": "Tier A philosophical text. While not prescribing specific mantras, it frames contemplation (bhāvanā) as a virtue‑cultivating practice. Later commentators apply this to mantra contemplation as a means of stabilizing right faith."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Mantra contemplation in Jainism is a magical practice that grants worldly boons or supernatural powers.",
+      "reality": "Primary texts and commentaries consistently frame mantra contemplation as an ethical and cognitive discipline aimed at mental purification and remembrance of liberated qualities. Any worldly benefits are considered incidental and not the purpose of the practice."
+    },
+    {
+      "myth": "Jain mantras invoke a creator god who intervenes in human affairs.",
+      "reality": "Jainism does not posit a creator deity. Mantras honor perfected beings and ethical ideals, reinforcing self‑effort and karmic purification rather than divine intervention."
+    },
+    {
+      "myth": "Reciting the Navakāra Mantra without understanding its meaning is sufficient for spiritual progress.",
+      "reality": "Commentarial traditions emphasize reflective engagement—understanding and contemplating the qualities of the beings saluted—rather than mechanical repetition."
+    }
+  ]
+}

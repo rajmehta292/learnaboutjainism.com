@@ -1,0 +1,43 @@
+{
+  "overview": "Jñānāvaraṇīya (ज्ञानावरणीय) is one of the eight primary karmas described in Jain philosophy, classified specifically as a *ghātiyā karma*—a destructive karma that directly obscures the soul’s essential qualities. Its function is to veil or obstruct **jñāna**, the soul’s inherent capacity for knowledge. Jain metaphysics holds that the soul (jīva) is naturally endowed with infinite knowledge, perception, bliss, and energy. However, due to karmic influx (āsrava) and bondage (bandha), these capacities become partially obscured. Jñānāvaraṇīya karma is considered the most fundamental obstruction because knowledge is the basis for right perception and right conduct.\n\nJain texts describe five types of knowledge—*mati*, *śruta*, *avadhi*, *manaḥparyāya*, and *kevala-jñāna*. Jñānāvaraṇīya karma obstructs all of these in varying degrees. It is destroyed completely only at the 12th guṇasthāna (kṣīṇa-moha), enabling the attainment of *kevala-jñāna*, the perfect and infinite knowledge of an omniscient being (kevalin). Both Digambara and Śvetāmbara traditions agree on the essential nature of this karma, though their commentarial traditions differ in technical elaboration.\n\nThe karma arises from activities rooted in negligence, anger, pride, deceit, greed, and particularly from actions that distort or misuse knowledge. Its fruition results in ignorance, doubt, confusion, and limitations in cognitive capacity. Jain ethics therefore emphasize practices such as *samyak-darśana*, *samyak-jñāna*, and *samyak-cāritra* to gradually weaken and ultimately eliminate this karma. The doctrine is central to Jain epistemology, soteriology, and the broader karmic ontology.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "ज्ञानावरणीयं कर्म",
+      "transliteration": "jñānāvaraṇīyaṃ karma",
+      "translation": "“The karma that obscures knowledge.”",
+      "notes": "Tattvārtha Sūtra 8.5 identifies jñānāvaraṇīya as one of the four destructive karmas. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārthavṛtti* (Śvetāmbara) elaborate on its subdivisions and effects."
+    },
+    {
+      "title": "Gommatasāra (Karmakāṇḍa)",
+      "author": "Nemichandra Siddhānta Cakravartin",
+      "original_text": "ज्ञानावरणियकम्मं पञ्चविधं",
+      "transliteration": "jñānāvaraṇiya-kammaṃ pañcavidhaṃ",
+      "translation": "“The knowledge-obscuring karma is of five kinds.”",
+      "notes": "Gommatasāra Karmakāṇḍa provides detailed Digambara classification of the five types of knowledge-obscuring karma corresponding to the five forms of knowledge."
+    },
+    {
+      "title": "Dravyasaṃgraha",
+      "author": "Nemichandra",
+      "original_text": "ज्ञानावरणियं तु घातिकम्मं",
+      "transliteration": "jñānāvaraṇiyaṃ tu ghātikammaṃ",
+      "translation": "“The knowledge-obscuring karma is a destructive karma.”",
+      "notes": "A concise Śvetāmbara-oriented text affirming the destructive nature of jñānāvaraṇīya karma and its role in obstructing the soul’s inherent attributes."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jñānāvaraṇīya karma causes complete ignorance or lack of any knowledge.",
+      "reality": "Jain texts state that it obscures knowledge partially, not absolutely. Even beings with heavy karmic bondage possess some degree of mati and śruta knowledge."
+    },
+    {
+      "myth": "It is identical to mohanīya karma.",
+      "reality": "Mohanīya karma deludes conduct and perception, while jñānāvaraṇīya specifically obstructs knowledge. They are distinct ghātiyā karmas with different functions."
+    },
+    {
+      "myth": "Only intellectual wrongdoing produces jñānāvaraṇīya karma.",
+      "reality": "While misuse of knowledge contributes to its bondage, Jain doctrine teaches that any passion-driven action—anger, pride, deceit, greed—can generate this karma."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "Aranatha (also spelled Araṇanātha or Aranath) is revered in Jain traditions as the eighteenth Tirthankara of the present avasarpinī (descending time cycle). His life narrative appears in both Śvetāmbara and Digambara canons, with minor differences in details but broad agreement on his role as a world-teacher who re-establishes the path of liberation. Traditional accounts describe Aranatha as being born in Hastinapura to King Sudarśana and Queen Devi. His clan affiliation is given as the Ikṣvāku lineage, a recurrent royal house in Jain cosmology. He is portrayed as possessing extraordinary physical, ethical, and spiritual qualities from birth, consistent with the Tirthankara archetype.\n\nAranatha’s emblem (lāñchana) is traditionally the **nandi-vṛṣabha** (bull), though some regional traditions depict a **fish** symbol. His color (keśa-varṇa) is described as **golden** in Śvetāmbara sources and **white** in Digambara iconography. His height, lifespan, and other cosmological attributes follow the hyperbolic scale of Jain universal history: he is said to have lived for millions of years and attained omniscience (kevala-jñāna) after intense austerities. After delivering discourses (divya-dhvani) that formed the basis of canonical teachings, he attained liberation (mokṣa) at Sammeta Śikhara, the site associated with the nirvāṇa of twenty Tirthankaras.\n\nIn temple traditions, Aranatha is worshipped as a symbol of steadfastness, renunciation, and clarity of insight. His narrative is used in lay education to illustrate the Jain ideal of nonviolence, self-restraint, and the gradual purification of karma. Manuscript traditions from both major sects preserve his biography in universal histories (mahāpurāṇa) and Tirthankara catalogues. Although his historical existence is not treated as empirically verifiable in modern scholarship, his role within Jain cosmology is central to the doctrinal structure of the Tirthankara lineage.",
+  "primary_sources": [
+    {
+      "title": "Kalpa-sūtra (Śvetāmbara)",
+      "author": "Attributed to Bhadrabāhu",
+      "original_text": "अरननाथस्य हस्तिनपुरे जन्माभूत्",
+      "transliteration": "araṇanāthasya hastinapure janmābhūt",
+      "translation": "“Aranatha was born in Hastinapura.”",
+      "notes": "The Kalpa-sūtra provides brief genealogical information on Tirthankaras. The Aranatha section is concise and focuses on birth, lineage, and emblem. Editions vary, and some manuscripts omit minor details."
+    },
+    {
+      "title": "Hemacandra’s Triṣaṣṭi-śalākā-puruṣa-caritra (Śvetāmbara, 12th century)",
+      "author": "Ācārya Hemacandra",
+      "original_text": "अरननाथो नृपश्रेष्ठः सुदर्शनस्य सुतोऽभवत्",
+      "transliteration": "araṇanātho nṛpaśreṣṭhaḥ sudarśanasya suto’bhavat",
+      "translation": "“Aranatha, foremost among kings, was born as the son of Sudarśana.”",
+      "notes": "Hemacandra’s narrative expands the biography with moral episodes, cosmological measurements, and descriptions of Aranatha’s renunciation and attainment of omniscience. This is a key Śvetāmbara narrative source."
+    },
+    {
+      "title": "Jinasena–Guṇabhadra’s Mahāpurāṇa (Digambara)",
+      "author": "Ācārya Jinasena and Ācārya Guṇabhadra",
+      "original_text": "अरननाथो हस्तिनपुरे इक्ष्वाकुवंशसमुद्भवः",
+      "transliteration": "araṇanātho hastinapure ikṣvākūvaṃśasamudbhavaḥ",
+      "translation": "“Aranatha arose in Hastinapura, born of the Ikṣvāku lineage.”",
+      "notes": "The Digambara Mahāpurāṇa provides a detailed cosmological biography, including Aranatha’s austerities, kevala-jñāna, and liberation. Digambara texts emphasize his nudity at renunciation, consistent with sectarian norms."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Aranatha is associated with a single universal emblem across all Jain traditions.",
+      "reality": "While the bull (nandi-vṛṣabha) is the most common emblem, some regional Śvetāmbara traditions depict a fish symbol. Iconographic variation is acknowledged in manuscript catalogues."
+    },
+    {
+      "myth": "Aranatha’s biography is historically verifiable in the modern sense.",
+      "reality": "Jain texts present Aranatha within a cosmological framework spanning vast time cycles. His narrative is doctrinal and symbolic rather than empirically historical."
+    },
+    {
+      "myth": "All sects agree on the physical depiction of Aranatha.",
+      "reality": "Śvetāmbara sources often describe a golden complexion, while Digambara iconography uses white. Differences reflect sectarian conventions rather than doctrinal conflict."
+    }
+  ]
+}

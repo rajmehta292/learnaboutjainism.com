@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical vocabulary, “attachment” is most precisely discussed under the terms *rāga* (passionate attraction), *parigraha* (possessiveness), and *moha* (delusion‑based clinging). These concepts appear across Śvetāmbara and Digambara canons and are treated as central obstacles to liberation because they bind the soul with karmic matter. Attachment is not merely emotional liking; it is the active, sticky orientation of the soul toward objects, persons, experiences, or identities that generates new karmic influx (*āsrava*) and prevents the shedding of existing karma (*nirjarā*).\n\nIn classical Jain ontology, attachment is paired with aversion (*dveṣa*) as the two principal passions that distort perception and conduct. Both are rooted in *moha*, the fundamental ignorance that mistakes the non‑self for the self. Attachment manifests in subtle and gross forms: subtle attachment includes pride in knowledge, status, or ritual performance; gross attachment includes craving for possessions, relationships, or sensory pleasures. The tradition emphasizes that attachment is not eliminated by suppression alone but by cultivating right faith (*samyag‑darśana*), right knowledge (*samyag‑jñāna*), and right conduct (*samyak‑cāritra*).\n\nLay practice focuses on reducing *parigraha* through ethical limits on possessions, consumption, and emotional entanglement. Monastic practice aims at complete non‑attachment, expressed through vows, disciplined conduct, and meditative equanimity. Across sects, attachment is understood as a psychological, ethical, and metaphysical condition that must be gradually weakened through insight, restraint, and compassion. Modern Jain teachers often frame attachment as a habitual pattern of grasping that can be recognized through mindfulness and redirected toward non‑violent, non‑possessive living.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 7.3",
+      "author": "Umāsvāti/Umāsvāmi (accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "रागद्वेषमोहाḥ कषायाः",
+      "transliteration": "rāga‑dveṣa‑mohāḥ kaṣāyāḥ",
+      "translation": "Attachment, aversion, and delusion are the passions.",
+      "notes": "This sutra defines the core passions that bind karma. Attachment (*rāga*) is listed first, indicating its centrality in karmic bondage. Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) explain that attachment arises from mistaken identification with pleasurable objects."
+    },
+    {
+      "title": "Ācārāṅga Sūtra I.2.3",
+      "author": "Attributed to Mahāvīra’s teachings; Śvetāmbara canon",
+      "original_text": "जो ण परिग्गहे, सो ण परिग्गहस्स बन्धे",
+      "transliteration": "jo ṇa pariggahae, so ṇa pariggahassa bandhe",
+      "translation": "One who is without attachment is not bound by possessiveness.",
+      "notes": "This passage links non‑attachment with freedom from bondage. The text emphasizes that attachment is a mental condition, not merely physical possession."
+    },
+    {
+      "title": "Samayasāra 11",
+      "author": "Ācārya Kundakunda (Digambara)",
+      "original_text": "रागो दव्वस्स बन्धो",
+      "transliteration": "rāgo davvassa bandho",
+      "translation": "Attachment is the bondage of the soul.",
+      "notes": "Kundakunda’s metaphysical analysis identifies attachment as the soul’s own activity that results in karmic bondage. The emphasis is on internal transformation rather than external renunciation."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Attachment in Jainism means rejecting all emotions and relationships.",
+      "reality": "Classical texts distinguish between natural affection and karmically binding attachment. The problem is clinging, possessiveness, and identification, not the existence of relationships or compassion."
+    },
+    {
+      "myth": "Attachment is eliminated only through severe asceticism.",
+      "reality": "Both lay and monastic paths emphasize gradual reduction of attachment through insight, ethical restraint, and equanimity. Asceticism is one method, not the sole requirement."
+    },
+    {
+      "myth": "Attachment refers only to material possessions.",
+      "reality": "Primary texts describe attachment to ideas, status, rituals, and identities as equally binding. Psychological attachment can be more subtle and more difficult to overcome than material possession."
+    }
+  ]
+}

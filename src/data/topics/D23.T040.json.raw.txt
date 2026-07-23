@@ -1,0 +1,71 @@
+{
+  "overview": "In Jain studies, “biography sources” refers to the layered corpus of texts through which the lives of Tirthankaras, eminent monks, nuns, lay exemplars, and mytho‑historical figures are remembered, interpreted, and ritually re‑enacted. These sources are not merely historical records; they are didactic narratives designed to embody Jain doctrines of non‑violence, karma, renunciation, and liberation. As such, biography in the Jain tradition sits at the intersection of scripture, narrative epic, hagiography, and community memory.\n\nAt the most foundational level, early Śvetāmbara canonical texts in Ardhamāgadhī Prakrit—such as the Ācāranga‑sūtra, Kalpa‑sūtra, and Uttarādhyayana‑sūtra—preserve biographical material about Mahāvīra and other Tirthankaras alongside teachings on conduct and monastic discipline. The Kalpa‑sūtra, for example, contains the Jinacaritra section, which narrates the lives of Mahāvīra, Pārśva, Ariṣṭanemi, and Ṛṣabha, and offers shorter notices of the remaining Tirthankaras; it also includes the Sthavirāvalī, a lineage list of teachers, and the Sāmācārī, rules for the rainy‑season retreat. [[0]](https://cudl.lib.cam.ac.uk/view/MS-ADD-02205) These texts are Tier A primary sources in the Jain canon and are central to Śvetāmbara ritual life, especially during Paryuṣaṇa, when public recitation of the Kalpa‑sūtra renews communal memory of the Tirthankaras.\n\nIn the Digambara tradition, biographical and historical memory is preserved primarily through Sanskrit narrative purāṇas, such as the Ādipurāṇa and Mahāpurāṇa of Ācāryas Jinasena and Guṇabhadra, and related works like the Harivaṃśa‑purāṇa. These epics integrate the lives of Tirthankaras and other illustrious beings into a vast cosmological and karmic framework, presenting biography as part of universal history. [[1]](https://jainknowledge.com/question/6068/books-on-jainism-from-start-history) They are not canonical in the same sense as the Śvetāmbara sūtras, but they function as authoritative narrative sources for Digambara communities and are widely studied across Jain traditions.\n\nA further stratum of biography sources consists of classical Sanskrit works like Hemacandra’s Triṣaṣṭi‑śalākā‑puruṣa‑caritra (“Lives of the Sixty‑Three Illustrious Persons”), which systematizes the careers of twenty‑four Tirthankaras along with Baladevas, Vāsudevas, Prativāsudevas, and Cakravartins. Hemacandra’s text draws on earlier Jain narrative materials and commentarial traditions, elaborating well‑known episodes and reincarnation cycles to create a comprehensive narrative theology of Jain exemplars. [[2]](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213206.html) Such works occupy a bridge position between scriptural biography and later hagiography, and they are crucial for understanding how Jain communities conceptualize ideal lives across cosmic time.\n\nBeyond these major texts, there is a wide range of regional and lineage‑specific hagiographies, charitras (biographical narratives), and kathā‑collections that recount the lives of particular Tirthankaras, ācāryas, monks, nuns, and lay devotees. Examples include Pārśva‑caritra narratives, Kālakācārya‑kathā, Śrīpāla‑kathā, and numerous vernacular works in Gujarati, Rajasthani, Hindi, and other languages. [[3]](https://jainpedia.org/manuscript/text-496275cf6f/) These sources often blend doctrinal teaching with local memory, temple histories, and miracle stories, and they play a significant role in shaping devotional practice and ethical imagination at the community level.\n\nModern scholarship and community education materials—such as historical syntheses by Natubhai Shah, social histories by Vilas Sangave, and studies of Jain art and iconography by John Cort and Pratapaditya Pal—provide another layer of biography sources. [[1]](https://jainknowledge.com/question/6068/books-on-jainism-from-start-history) While these are Tier C and D materials rather than primary scripture, they help situate traditional biographies within broader historical, social, and material contexts, and they often highlight how different Jain traditions (Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, Terāpanth, Digambara) remember and narrate the lives of the same figures with subtle variations.\n\nTaken together, Jain biography sources form a complex ecosystem: canonical sūtras, narrative purāṇas, epic caritras, regional hagiographies, and modern studies. For rigorous academic work, it is essential to distinguish between Tier A canonical texts, Tier B traditional commentaries, and later narrative or educational materials, and to note where traditions diverge or where historical evidence is thin. Because these biographies are primarily doctrinal and soteriological rather than critical historiography, they must be read with attention to genre, purpose, and sectarian context, and supplemented by qualified human scholarship when used for historical reconstruction or ethical guidance.",
+  "primary_sources": [
+    {
+      "title": "Kalpa-sūtra (including Jinacaritra, Sthavirāvalī, Sāmācārī)",
+      "author": "Traditionally attributed to Bhadrabāhu; canonical Śvetāmbara text",
+      "original_text": "जिणचरित्तं ठविरावलि सामाचारि (Ardhamāgadhī Prakrit sections within the Kalpa-sūtra)",
+      "transliteration": "Jinacarittaṃ, Thavirāvalī, Sāmācārī (sections of the Kalpa-sūtra)",
+      "translation": "“Lives of the Jinas”, “Lineage of Elders”, and “Conduct” — sections of the Kalpa-sūtra that narrate the biographies of Mahāvīra, Pārśva, Ariṣṭanemi, and Ṛṣabha, list successive teachers, and prescribe monastic discipline during the rainy season.",
+      "notes": "The Kalpa-sūtra is a Śvetāmbara canonical text in Ardhamāgadhī Prakrit, classified among the Cheda-sūtras. It became closely associated with the Paryuṣaṇa festival, where its public recitation reinforces communal memory of the Tirthankaras and the monastic lineage. Manuscript evidence from the 14th century onward shows widespread copying and artistic embellishment, indicating its central role in ritual and biography. [[0]](https://cudl.lib.cam.ac.uk/view/MS-ADD-02205)"
+    },
+    {
+      "title": "Ācāranga-sūtra",
+      "author": "Canonical Śvetāmbara text; specific redactors not individually named",
+      "original_text": "आयारंग-सुत्तं (Āyāraṃga-sutta in Ardhamāgadhī Prakrit)",
+      "transliteration": "Āyāraṃga-sutta (Ācāranga-sūtra)",
+      "translation": "“Scripture on Conduct” — includes accounts of Mahāvīra’s ascetic practices, encounters, and discipline, embedded within broader teachings on right conduct and non-violence.",
+      "notes": "Although primarily a doctrinal and disciplinary text, the Ācāranga-sūtra preserves important biographical material about Mahāvīra’s life as an ascetic, including his vows, hardships, and interactions with various beings. It is a Tier A canonical source for early Jain biography and is often read alongside the Kalpa-sūtra to reconstruct Mahāvīra’s life in Śvetāmbara tradition. [[1]](https://jainknowledge.com/question/6068/books-on-jainism-from-start-history)"
+    },
+    {
+      "title": "Mahāpurāṇa (including Ādipurāṇa sections)",
+      "author": "Ācārya Jinasena and Ācārya Guṇabhadra (Digambara tradition)",
+      "original_text": "महापुराणम् आदिपुराणम् (Sanskrit)",
+      "transliteration": "Mahāpurāṇa, Ādipurāṇa",
+      "translation": "“Great Purāṇa” and “First Purāṇa” — extensive narrative epics that recount the lives of Tirthankaras and other illustrious beings within a cosmic and karmic framework.",
+      "notes": "These Sanskrit epics are foundational narrative sources in the Digambara tradition, integrating biography with universal history and doctrine. They present detailed accounts of Tirthankaras’ previous births, renunciations, teachings, and the karmic consequences of actions. While not part of the Śvetāmbara canon, they are widely respected and studied across Jain communities as major biography sources. [[1]](https://jainknowledge.com/question/6068/books-on-jainism-from-start-history)"
+    },
+    {
+      "title": "Triṣaṣṭi-śalākā-puruṣa-caritra",
+      "author": "Ācārya Hemacandra (12th century, Śvetāmbara Mūrti-pūjaka tradition)",
+      "original_text": "त्रिषष्टिशलाकापुरुषचरित्रम् (Sanskrit)",
+      "transliteration": "Triṣaṣṭi-śalākā-puruṣa-caritra",
+      "translation": "“Lives of the Sixty-Three Illustrious Persons” — a Sanskrit epic that narrates the biographies of twenty-four Tirthankaras, five Baladevas, five Vāsudevas, five Prativāsudevas, and Cakravartins.",
+      "notes": "Hemacandra’s work systematizes Jain narrative traditions into a comprehensive biography of key figures, drawing on earlier Jain sources and commentaries. It elaborates reincarnation cycles and well-known episodes, providing more detailed biographies of certain Tirthankaras (such as Śāntinātha) than many other works. Modern translations, such as Helen M. Johnson’s English edition, make this text accessible for academic study and highlight Hemacandra’s role in shaping Jain historical memory. [[2]](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213206.html)"
+    },
+    {
+      "title": "Pārśva-caritra and related Tirthankara biographies",
+      "author": "Various Jain authors across Śvetāmbara and Digambara traditions",
+      "original_text": "पार्श्वचरित्रम्, निमिनाथचरित्रम्, महावीरचरित्रम् (Sanskrit and Prakrit variants)",
+      "transliteration": "Pārśva-caritra, Neminātha-caritra, Mahāvīra-caritra",
+      "translation": "“Life of Pārśvanātha”, “Life of Neminātha”, “Life of Mahāvīra” — narrative texts focusing on individual Tirthankaras, often embedded in larger collections.",
+      "notes": "These charitra texts exist in multiple versions and languages, sometimes as independent works and sometimes as parts of larger collections like Hemacandra’s Triṣaṣṭi or regional kathā‑kośas. They provide focused biographical narratives that emphasize specific doctrinal themes—such as renunciation, compassion, or reform—and are frequently used in sermons and educational settings. Scholarly studies have compared different versions to trace how Tirthankara biographies evolved across time and traditions. [[2]](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213206.html) [[4]](https://jainknowledge.com/question/16498/point-to-specific-biographical-texts-within-the-jain-canon-and-summarize-their-conveyed-life-stories-in-a-way-that-stays-true-to-jain-doctrinal-aims-)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain biography sources are straightforward historical records that can be read like modern biographies.",
+      "reality": "Jain biography sources are primarily doctrinal and soteriological narratives, crafted to exemplify the path to liberation and ethical ideals rather than to provide critical, empirically verified history. They integrate mythic time, cosmology, and karmic cycles, and must be interpreted with attention to genre, purpose, and sectarian context. Modern historical reconstruction requires careful comparison of canonical texts, narrative epics, inscriptions, and archaeological evidence, ideally under the guidance of qualified scholars."
+    },
+    {
+      "myth": "All Jain traditions use the same canonical biographical texts, especially the Kalpa-sūtra, in the same way.",
+      "reality": "While many Jain communities respect the major biography sources, Śvetāmbara and Digambara traditions differ in their canons and narrative emphases. The Kalpa-sūtra is central and canonical in the Śvetāmbara tradition, especially during Paryuṣaṇa, but it does not hold the same canonical status in Digambara Jainism, which relies more on Sanskrit purāṇas like the Mahāpurāṇa and Ādipurāṇa for narrative biography. Recognizing these differences is essential for accurate comparative study and for avoiding the projection of one tradition’s practices onto another. [[1]](https://jainknowledge.com/question/6068/books-on-jainism-from-start-history) [[0]](https://cudl.lib.cam.ac.uk/view/MS-ADD-02205)"
+    },
+    {
+      "myth": "Later hagiographies and regional kathā collections can be treated as equally authoritative as canonical sūtras for doctrinal and ethical decisions.",
+      "reality": "Regional hagiographies, vernacular kathā collections, and modern educational materials are important for understanding lived Jain devotion and community memory, but they do not carry the same canonical authority as Tier A scriptures or Tier B classical commentaries. For doctrinal clarification or ethical decision-making—especially in sensitive areas such as vows, fasting, or renunciation—one should consult primary canonical texts and qualified living teachers within a recognized lineage, and avoid relying solely on inspirational stories or unverified modern retellings."
+    }
+  ]
+}
+
+
+
+> [0] [Sanskrit Manuscripts : Kalpasūtra](https://cudl.lib.cam.ac.uk/view/MS-ADD-02205)
+>
+> [1] [Books on jainism, from start, history | JainGPT by Jain Knowledge](https://jainknowledge.com/question/6068/books-on-jainism-from-start-history)
+>
+> [2] [Introduction to volume 3](https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213206.html)
+>
+> [3] [Text - Jainpedia](https://jainpedia.org/manuscript/text-496275cf6f/)
+>
+> [4] [point to specific biographical texts within the Jain canon and summarize their conveyed life-stories in a way that stays true to Jain doctrinal aims. | JainGPT by Jain Knowledge](https://jainknowledge.com/question/16498/point-to-specific-biographical-texts-within-the-jain-canon-and-summarize-their-conveyed-life-stories-in-a-way-that-stays-true-to-jain-doctrinal-aims-)

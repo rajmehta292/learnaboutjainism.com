@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophical vocabulary, **udaya** (Sanskrit/Prakrit: उदय / उव्वय) refers to the *rise*, *manifestation*, or *fruition* of karma. It is a technical term within Jain karma theory describing the stage at which a previously bound karmic particle (bandha) produces its specific effect on the soul (jīva). Udaya is one of the essential processes in the karmic cycle, alongside saṃvara (stoppage), nirjarā (shedding), and bandha (bondage). \n\nIn both Digambara and Śvetāmbara traditions, udaya is treated as a predictable and law‑governed phase: karma bound in the past matures according to its duration (sthiti), intensity (anubhāga), and quantity (pradeśa). When these conditions ripen, the karma enters udaya and begins to influence the soul’s experience—producing pleasure, pain, delusion, knowledge-obstruction, lifespan, body type, and other effects depending on the karmic category. \n\nUdaya is not considered random. Classical texts emphasize that karmas rise strictly according to their intrinsic nature and previously determined parameters. The soul’s current conduct—ethical restraint, meditation, equanimity—can influence future karmic bondage and accelerate the shedding of existing karmas, but the udaya of already‑ripened karmas must be experienced until their fruition ends. \n\nIn the broader Jain cosmology of spiritual progress, udaya plays a central role in the **guṇasthāna** system. Certain karmas must be in udaya for specific spiritual stages to occur, while others must be suppressed (upaśama) or destroyed (kṣaya). Thus, udaya is not merely a metaphysical concept but a structural component of Jain soteriology, shaping the soul’s journey toward liberation (mokṣa).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "उदयः कर्मणाम्",
+      "transliteration": "udayaḥ karmaṇām",
+      "translation": "“The rise of karmas.”",
+      "notes": "Tattvārtha Sūtra 8.5 briefly defines udaya as the phase in which karma produces its effect. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārthavṛtti* (Śvetāmbara) elaborate that udaya occurs when karmas reach their predetermined maturation point."
+    },
+    {
+      "title": "Gommatasāra (Karmakāṇḍa)",
+      "author": "Nemichandra Siddhānta Cakravartin",
+      "original_text": "उव्वयो णामं फलं",
+      "transliteration": "uvvayo nāmaṃ phalaṃ",
+      "translation": "“Udaya is the manifestation of karmic fruit.”",
+      "notes": "Gommatasāra Karmakāṇḍa provides detailed taxonomies of karmic rise, including how different karmas mature and the conditions under which their effects are experienced."
+    },
+    {
+      "title": "Paṇḍit Pūjyapāda’s Sarvārthasiddhi (commentary on Tattvārtha Sūtra)",
+      "author": "Pūjyapāda",
+      "original_text": "उदयः फलप्रदर्शनम्",
+      "transliteration": "udayaḥ phalapradarśanam",
+      "translation": "“Udaya is the showing forth of the karmic result.”",
+      "notes": "This commentary clarifies that udaya is distinct from upaśama (suppression) and kṣaya (destruction). Even suppressed karmas may later enter udaya unless destroyed."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Udaya means that karma arises randomly or due to divine intervention.",
+      "reality": "Jain texts consistently state that udaya follows precise karmic laws determined at the moment of bondage. No external deity or supernatural force causes karmas to rise."
+    },
+    {
+      "myth": "Udaya can be avoided entirely through intense austerities.",
+      "reality": "Austerities can reduce future karmic bondage and accelerate shedding, but karmas that have already matured must undergo udaya until their fruition is complete."
+    },
+    {
+      "myth": "Udaya always produces suffering.",
+      "reality": "Udaya includes both auspicious and inauspicious karmas. Pleasure, clarity, and favorable circumstances also arise through the udaya of puṇya karmas."
+    }
+  ]
+}

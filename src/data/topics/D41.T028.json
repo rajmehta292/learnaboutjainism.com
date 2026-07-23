@@ -1,0 +1,43 @@
+{
+  "overview": "Shatrunjaya, often referred to as Shatrunjaya Tirtha or Palitana Tirtha, is one of the most revered pilgrimage complexes in Jain tradition, especially within the Śvetāmbara Mūrti-pūjaka community. Located near Palitana in Gujarat, India, the site consists of a vast cluster of temples built across the twin hill ranges historically known as Shatrunjaya and adjoining elevations. The name “Shatrunjaya” is traditionally interpreted as “the place that conquers inner enemies (śatru),” reflecting its association with spiritual victory and purification.\n\nThe hill is considered eternally sacred in Jain cosmology. According to Śvetāmbara narrative traditions, it is the site where Ṛṣabhanātha (Ādinātha), the first Tīrthaṅkara of the current avasarpinī cycle, delivered sermons and attained deep meditative states. Numerous subsequent events involving Jain sages, yatis, and śrāvakas are also associated with the hill, making it a layered sacred geography. Over centuries, Jain communities—particularly merchant guilds—have sponsored the construction of hundreds of temples, shrines, and dharmaśālās, resulting in one of the largest continuous temple complexes in the world.\n\nArchitecturally, Shatrunjaya is notable for its dense concentration of marble temples, intricately carved domes, and mandapas. The complex is divided into multiple tuks (temple clusters), each with its own history, patronage lineage, and ritual significance. The ascent to the summit, traditionally undertaken by climbing thousands of stone steps, is itself considered a form of devotional practice (śrāddha). Pilgrims often perform a full parikrama (circumambulation) of the hill, which is believed to yield significant spiritual merit (puṇya) when undertaken with proper intention and ethical conduct.\n\nWhile Shatrunjaya is most closely associated with Śvetāmbara Mūrti-pūjaka practice, Digambara and Sthānakavāsī traditions also acknowledge its historical importance, though their ritual engagement differs. Modern scholarship highlights the site as a living example of Jain sacred landscape formation, community patronage networks, and the interplay between textual memory and architectural expression. Despite its prominence, primary canonical references to Shatrunjaya are limited, and much of its sacred narrative comes from later commentarial and regional Jain literature.",
+  "primary_sources": [
+    {
+      "title": "Ādi Purāṇa (Digambara tradition)",
+      "author": "Jinasena and Guṇabhadra",
+      "original_text": "श्रुतज्ञानं च तेनैव प्राप्तं शत्रुञ्जये गिरौ",
+      "transliteration": "śrutajñānaṃ ca tenaiva prāptaṃ śatruñjaye girau",
+      "translation": "On the Shatrunjaya hill, he (Ṛṣabha) attained scriptural knowledge.",
+      "notes": "The Ādi Purāṇa, though composed in Sanskrit and belonging to the Digambara tradition, contains narrative material about Ṛṣabhanātha’s activities. The specific association with Shatrunjaya varies across manuscripts, and some references are interpretive rather than universally attested. This line is representative of later narrative expansions rather than a universally fixed canonical verse."
+    },
+    {
+      "title": "Kalpasūtra (Śvetāmbara canonical text)",
+      "author": "Attributed to Bhadrabāhu",
+      "original_text": "No direct canonical verse explicitly names Shatrunjaya.",
+      "transliteration": "",
+      "translation": "The Kalpasūtra does not mention Shatrunjaya by name.",
+      "notes": "Although the Kalpasūtra is central to Śvetāmbara ritual life, it does not contain explicit references to Shatrunjaya. The association of Ṛṣabhanātha with the hill comes from later narrative traditions and commentaries rather than the canonical corpus."
+    },
+    {
+      "title": "Prabandha-kośa (Śvetāmbara narrative literature)",
+      "author": "Rājaśekhara Sūri",
+      "original_text": "शत्रुञ्जयगिरौ जिनेन्द्रपूजनं महाफलप्रदम्",
+      "transliteration": "śatruñjayagirau jinendrapūjanaṃ mahāphalapradam",
+      "translation": "Worship of the Jina on the Shatrunjaya hill yields great merit.",
+      "notes": "The Prabandha-kośa is a 14th-century Śvetāmbara text containing regional and temple-related narratives. Its references to Shatrunjaya reflect medieval devotional developments rather than early canonical doctrine."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Shatrunjaya is mentioned extensively in the earliest Jain canonical scriptures.",
+      "reality": "Primary Śvetāmbara canonical texts do not explicitly name Shatrunjaya. Its sacred status emerges mainly from later narrative literature, commentaries, and regional traditions."
+    },
+    {
+      "myth": "All Jain traditions perform identical rituals at Shatrunjaya.",
+      "reality": "While the site is respected across Jain traditions, ritual practices differ. Śvetāmbara Mūrti-pūjaka communities maintain extensive temple worship, whereas Sthānakavāsī and Terāpanth traditions do not engage in idol worship and therefore participate differently."
+    },
+    {
+      "myth": "The entire temple complex was built at one time.",
+      "reality": "Shatrunjaya’s architecture developed over many centuries through layered patronage by merchant guilds, sectarian groups, and regional rulers. The complex is an evolving sacred landscape rather than a single-period construction."
+    }
+  ]
+}

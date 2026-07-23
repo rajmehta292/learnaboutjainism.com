@@ -1,0 +1,43 @@
+{
+  "overview": "Early‑childhood values in Jain thought emerge from a broad ethical vision that emphasizes non‑violence (ahiṃsā), carefulness (apramatta), truthfulness (satya), and the cultivation of empathy and restraint from the earliest stages of life. Jain traditions do not treat childhood as a period exempt from moral formation; instead, they frame it as the foundational stage in which habits of perception, speech, and conduct begin to take shape. Because Jain ethics are rooted in the dynamics of karma, early childhood is viewed as a time when impressions (saṃskāras) and tendencies (vāsanās) can be gently guided toward compassion, responsibility, and awareness.\n\nAcross Svetāmbara and Digambara sources, early‑childhood values are not presented as rigid prescriptions for children themselves but as guidance for parents, guardians, and educators. The emphasis is on modeling conduct, creating environments of non‑harm, and introducing stories, rituals, and practices that nurture sensitivity to living beings. Narratives from canonical texts, such as those describing the childhoods of tīrthaṅkaras, highlight curiosity, kindness, and a developing sense of responsibility rather than ascetic rigor.\n\nModern Jain educational initiatives continue this trajectory by integrating age‑appropriate lessons on empathy, environmental care, mindful speech, and respect for diversity of life. These values are framed not as doctrinal obligations but as developmental supports that help children grow into adults capable of ethical discernment and compassionate action. The overall aim is to cultivate dispositions that align with ahiṃsā and anekāntavāda (the appreciation of multiple perspectives), preparing children for thoughtful participation in family, community, and the wider world.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "अहिंसा परमो धर्मः (commonly cited aphorism, though not verbatim from the earliest manuscripts)",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non‑violence is the highest dharma.",
+      "notes": "While the exact phrase is a later condensation, the Ācārāṅga Sūtra (A‑tier canonical text) repeatedly emphasizes carefulness toward all living beings. In educational contexts, this principle is introduced to children through stories and simple practices of gentleness."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "Although the text is philosophical, commentarial traditions (B‑tier) use this triad to frame early‑childhood values: nurturing trust, curiosity, and gentle conduct as preliminary forms of right faith, knowledge, and behavior."
+    },
+    {
+      "title": "Jñātadharmakathāṅga Sūtra",
+      "author": "Svetāmbara canon",
+      "original_text": "Stories of princes, children, and families illustrating moral choices.",
+      "transliteration": "N/A (varied passages)",
+      "translation": "The text contains narrative exempla showing how early habits of kindness, truthfulness, and restraint shape later ethical maturity.",
+      "notes": "Frequently used in youth education; stories are paraphrased rather than quoted verbatim to avoid overwhelming young learners."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism expects strict ascetic discipline from young children.",
+      "reality": "Primary texts and commentaries emphasize gentle guidance, modeling, and age‑appropriate learning. Ascetic vows are reserved for adults capable of informed commitment."
+    },
+    {
+      "myth": "Early‑childhood values in Jainism are only about avoiding harm to insects and animals.",
+      "reality": "Ahiṃsā includes emotional, verbal, and relational non‑harm. Early‑childhood values encompass empathy, truthful speech, patience, and respect for diverse viewpoints."
+    },
+    {
+      "myth": "Jain teachings for children are uniform across all sects.",
+      "reality": "While ahiṃsā and carefulness are universal, pedagogical approaches differ among Digambara, Mūrtipūjaka, Sthānakavāsī, and Terāpanth traditions, especially regarding ritual exposure and narrative selection."
+    }
+  ]
+}

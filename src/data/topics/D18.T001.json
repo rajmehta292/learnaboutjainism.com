@@ -1,0 +1,51 @@
+{
+  "overview": "Dhyāna (meditative absorption) is a central discipline in Jain philosophy and practice, described as both a mental state and a structured method for purifying consciousness. Across the Jain traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth—dhyāna is treated as a technical process that directly influences the soul’s karmic condition. Jain texts define dhyāna not merely as concentration but as a moral-psychological transformation in which the soul becomes increasingly free from passions (kaṣāyas) and delusion (mithyātva).\n\nClassical Jainism distinguishes four types of dhyāna: ārta (painful), raudra (destructive), dharma (virtuous), and śukla (pure). The first two are considered unwholesome states that bind karma, while the latter two are auspicious or liberating. Dharma-dhyāna involves contemplations on impermanence, solitude of the soul, and the nature of karma. Śukla-dhyāna, described in the *Tattvārtha Sūtra* and Digambara works such as *Ṣaṭkhaṇḍāgama*, is the highest meditative state, attainable only by advanced ascetics approaching liberation.\n\nJain dhyāna is always embedded within ethical foundations: right faith (samyak-darśana), right knowledge (samyak-jñāna), and right conduct (samyak-cāritra). Meditation without ethical discipline is repeatedly criticized in the canonical literature. Lay practitioners are encouraged to cultivate dharma-dhyāna through practices such as sāmāyika, pratikramaṇa, and reflections on the twelve anuprekṣās. Advanced techniques—such as the Digambara *kāyotsarga* and Śvetāmbara *prekṣā-dhyāna* (a modern Terāpanth development)—are framed as structured methods to stabilize attention, reduce passions, and support the gradual ascent through the guṇasthānas.\n\nAcross history, Jain teachers have emphasized that dhyāna is not escapism but a disciplined engagement with reality. It is a method for observing the soul’s true nature (jīva-svabhāva) and dissolving karmic influx (āsrava) and bondage (bandha). While terminology and techniques vary across sects, the underlying aim remains consistent: the cultivation of a passionless, steady, and self-aware consciousness that ultimately leads to mokṣa.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "ध्यानं चतुर्विधम् ।",
+      "transliteration": "dhyānaṃ caturvidham.",
+      "translation": "Meditation is of four kinds.",
+      "notes": "Chapter 9 outlines ārta, raudra, dharma, and śukla dhyāna. Śvetāmbara and Digambara commentaries agree on the fourfold classification but differ in details of eligibility and stages."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text (author unknown)",
+      "original_text": "जो धम्मं धाए, सो णं कम्मं पज्झवाए ।",
+      "transliteration": "jo dhammaṃ dhāe, soṇaṃ kammaṃ pajjhavāe.",
+      "translation": "One who meditates on dharma burns away karma.",
+      "notes": "This passage appears in didactic sections encouraging monks to cultivate virtuous meditation as part of daily discipline."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama",
+      "author": "Puṣpadanta and Bhūtabali (Digambara tradition)",
+      "original_text": "सुक्कधम्मे णिव्वाणस्स णिव्वत्तिआ होइ ।",
+      "transliteration": "sukkadhamme nivvāṇassa nivvattiyā hoi.",
+      "translation": "In pure meditation arises the attainment of liberation.",
+      "notes": "A foundational Digambara text describing śukla-dhyāna as the final stage before kevala-jñāna."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Śvetāmbara canonical text (author unknown)",
+      "original_text": "एगग्गं धाए, णिव्वाणं पवेसइ ।",
+      "transliteration": "egaggaṃ dhāe, nivvāṇaṃ pavesai.",
+      "translation": "Concentrated meditation leads toward liberation.",
+      "notes": "One of the earliest Jain texts describing meditative restraint, bodily stillness (kāyotsarga), and vigilance."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain dhyāna is identical to general mindfulness or relaxation techniques.",
+      "reality": "Jain dhyāna is a karmically significant ethical-meditative discipline rooted in right faith, right knowledge, and right conduct. It aims at liberation, not merely stress reduction."
+    },
+    {
+      "myth": "Only monks can practice dhyāna.",
+      "reality": "While advanced forms like śukla-dhyāna are reserved for highly disciplined ascetics, laypeople are encouraged to cultivate dharma-dhyāna through sāmāyika, anuprekṣā, and pratikramaṇa."
+    },
+    {
+      "myth": "Dhyāna is purely mental and does not involve ethical conduct.",
+      "reality": "Jain texts consistently state that meditation without ethical purification does not lead to spiritual progress and may even bind harmful karma."
+    }
+  ]
+}

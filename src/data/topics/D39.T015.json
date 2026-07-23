@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, festival food (often called *utsava-bhojana* or *parva-bhojana*) refers to the dietary practices, offerings, and communal meals associated with major religious observances. Unlike many Indic traditions where festivals are marked by elaborate feasts, Jain festival food is shaped by the principles of *ahimsa* (non‑violence), *aparigraha* (non‑possessiveness), and strict dietary discipline. As a result, Jain festivals emphasize purity, restraint, and symbolic meaning rather than indulgence.\n\nAcross Śvetāmbara and Digambara communities, festival food varies by region but follows core rules: avoidance of root vegetables, eggs, honey, and fermented items; careful preparation to minimize harm to microorganisms; and heightened attention to cleanliness and intention. During major festivals such as Paryuṣaṇa/Daśalakṣaṇa, food is often simplified or reduced, with many laypeople observing fasts ranging from partial to complete. On days of *kalyāṇakas* (auspicious events in a Tīrthaṅkara’s life), families may prepare special non‑violent sweets such as *laddus*, *shrikhand*, or *paak*, offered symbolically and then shared.\n\nRegional Jain communities have developed distinctive festival foods: Gujarati Śvetāmbaras may prepare *sukhdi* or *lapsi* for Mahāvīra Jayantī; Marwari Jains may offer *paanchkuta* during certain observances; Digambara households may prepare *panchamrit* or simple sweetened milk during *kalyāṇaka* celebrations. These foods are not sacramental in the sense of divine consumption; rather, they serve as reminders of virtues, community solidarity, and gratitude.\n\nModern Jain communities often adapt festival foods to contemporary health needs, vegan preferences, and environmental concerns. Yet the underlying principle remains constant: festival food is an extension of ethical living, a practice of mindfulness, and a celebration of spiritual milestones through non‑violent nourishment.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "अहिंसा परमो धर्मः (commonly cited maxim; not a verbatim line from the Ācārāṅga but reflective of its ethos)",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "Non‑violence is the highest dharma.",
+      "notes": "While the exact phrase is not found verbatim in the earliest manuscripts, the Ācārāṅga Sūtra (Tier A) repeatedly emphasizes carefulness in eating, avoidance of harm to living beings, and disciplined consumption. These principles form the foundation for Jain festival food norms."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "जीवो जीवस्य भोजनम्",
+      "transliteration": "jīvo jīvasya bhojanam",
+      "translation": "One living being is the food of another living being.",
+      "notes": "This aphorism (TS 5.21) highlights the inevitability of harm in eating and motivates Jains to minimize violence. Commentaries (Tier B) apply this principle to festival contexts, encouraging simplified, non‑harmful foods."
+    },
+    {
+      "title": "Niśītha Cūrṇi (Śvetāmbara monastic commentary)",
+      "author": "Traditional commentator",
+      "original_text": "भोजनं समये कर्तव्यं, सावधानेन",
+      "transliteration": "bhojanaṃ samaye kartavyaṃ, sāvadānena",
+      "translation": "Food should be taken at the proper time, with carefulness.",
+      "notes": "Used in monastic contexts but influential in lay education (Tier D). Festival days often emphasize heightened *sāmāyika* and careful eating."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "अहिंसायाṃ परं यत्नं",
+      "transliteration": "ahiṃsāyāṃ paraṃ yatnaṃ",
+      "translation": "One must exert the utmost effort toward non‑violence.",
+      "notes": "Digambara commentaries (Tier B) extend this to food preparation during *kalyāṇakas*, recommending simple, non‑harmful offerings."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain festivals involve elaborate feasts similar to other Indian traditions.",
+      "reality": "Most Jain festivals emphasize fasting, restraint, and simple non‑violent foods. Feasting is secondary and often minimal."
+    },
+    {
+      "myth": "All Jains eat the same festival foods.",
+      "reality": "Festival foods vary significantly by region, sect, and family tradition, though all follow core principles of non‑violence."
+    },
+    {
+      "myth": "Festival foods are offerings meant for divine consumption.",
+      "reality": "Jainism does not include sacrificial or divine‑consumption rituals. Foods are symbolic, communal, and ethical reminders."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "Civil disobedience refers to the deliberate, public, and nonviolent refusal to obey certain laws, regulations, or commands issued by a governing authority, undertaken on the grounds of conscience and moral principle. It is typically used when individuals or groups believe that legal or political systems have become unjust, discriminatory, or harmful, and that conventional channels for reform are ineffective or inaccessible.\n\nThe concept has appeared in many cultures and philosophical traditions. In modern political thought, it is most closely associated with figures such as Henry David Thoreau, Mohandas K. Gandhi, and Martin Luther King Jr., each of whom framed civil disobedience as a moral duty in the face of systemic injustice. Thoreau emphasized individual conscience against state power; Gandhi developed *satyagraha*, a disciplined form of nonviolent resistance rooted in truth and self-restraint; and King articulated civil disobedience as a means of exposing unjust laws and awakening the conscience of the broader public.\n\nCivil disobedience is generally characterized by several features: it is nonviolent, it is conscientious and principled, it is public rather than covert, and it accepts legal consequences as part of its moral witness. These features distinguish it from revolution, insurrection, or violent protest. Civil disobedience aims not to overthrow the state but to reform it by appealing to shared ethical values, constitutional principles, or universal human rights.\n\nDebates surrounding civil disobedience often focus on its legitimacy, limits, and risks. Supporters argue that it is essential for correcting injustices that democratic systems fail to address. Critics contend that it can undermine rule of law or be misused by groups seeking to impose minority views on society. Despite these debates, civil disobedience remains a central concept in discussions of political ethics, social movements, and democratic accountability.",
+  "primary_sources": [
+    {
+      "title": "Bhagavad Gītā (for moral duty and conscientious action)",
+      "author": "Traditionally attributed to Vyāsa",
+      "original_text": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन",
+      "transliteration": "karmaṇy-evādhikāras te mā phaleṣu kadācana",
+      "translation": "You have a right to action alone, never to its fruits.",
+      "notes": "Although not a text on civil disobedience per se, this verse is frequently cited in discussions of principled action, duty, and moral responsibility. It has been used by modern thinkers—including Gandhi—to frame conscientious resistance as action rooted in ethical duty rather than personal gain."
+    },
+    {
+      "title": "Aśoka’s Edicts (for nonviolence and moral governance)",
+      "author": "Emperor Aśoka",
+      "original_text": "सर्वे पाणभूता हितसुखाय",
+      "transliteration": "sarve pāṇabhūtā hita-sukhāya",
+      "translation": "All living beings should be for welfare and happiness.",
+      "notes": "Aśoka’s edicts emphasize moral governance, compassion, and nonviolence. While they do not prescribe civil disobedience, they provide early South Asian political philosophy supporting ethical critique of unjust rule."
+    },
+    {
+      "title": "Henry David Thoreau, *Civil Disobedience*",
+      "author": "Henry David Thoreau",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "“I cannot for an instant recognize that political organization as my government which is the slave’s government also.”",
+      "notes": "Thoreau’s 1849 essay is one of the foundational modern texts on civil disobedience. Only a brief quotation is provided here to respect copyright limitations. The essay argues that individuals must not permit governments to overrule their consciences."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Civil disobedience is the same as violent rebellion.",
+      "reality": "Civil disobedience is explicitly nonviolent and aims to reform laws or policies, not overthrow the state."
+    },
+    {
+      "myth": "Civil disobedience rejects all laws.",
+      "reality": "Most theories of civil disobedience emphasize respect for the broader legal system and target only specific unjust laws."
+    },
+    {
+      "myth": "Civil disobedience requires mass participation to be legitimate.",
+      "reality": "Civil disobedience can be carried out by individuals or small groups; its legitimacy depends on moral reasoning, not numbers."
+    }
+  ]
+}

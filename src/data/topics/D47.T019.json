@@ -1,0 +1,55 @@
+{
+  "overview": "In Jainism, cosmography (loka-vijñāna or loka-svarūpa) is a highly structured account of the universe’s shape, extent, and internal regions, closely tied to the path of liberation. It is not merely a speculative map but a framework that situates souls (jīvas), karmic bondage, and spiritual progress within a vast, beginningless cosmos. Jain cosmography is shared, with minor variations, by both Digambara and Śvetāmbara traditions and is elaborated in canonical texts, commentaries, and later cosmological diagrams.\n\nThe Jain universe (loka) is described as having a distinctive anthropomorphic or “standing man” shape: broad at the top (upper world), narrow in the middle (middle world), and broad again at the bottom (lower world). This loka is surrounded by an infinite, empty non-world (aloka) where no embodied beings reside. The universe is beginningless and endless in time, but finite in spatial extent; it is neither created nor destroyed by a supreme deity. Instead, it is governed by natural laws and the interactions of jīva and ajīva (non-soul substances), including karma.\n\nThe upper world (ūrdhva-loka) contains the heavens (deva-lokas), culminating in the highest realm, Siddha-śilā, the abode of liberated souls (siddhas). Below this lies a series of heavenly regions inhabited by various classes of celestial beings, each with specific lifespans, powers, and karmic conditions. The middle world (madhya-loka) is the realm of humans, animals, plants, and many mobile and immobile beings. It includes the famous concentric continents and oceans, with Jambūdvīpa at the center, Mount Meru (Sumeru) rising at its heart, and regions such as Bharata, Airāvata, and Mahāvideha where Tīrthaṅkaras appear and preach. The lower world (adho-loka) consists of multiple hells (narakas), arranged in descending order of suffering, where beings experience intense karmic fruition before eventually migrating elsewhere.\n\nJain cosmography is deeply quantitative. Texts specify the dimensions of the loka in terms of rajju (a vast unit of measure), the heights of heavens and hells, the thickness of continents and oceans, and the lifespans of beings in different realms. These measurements are not intended as modern physical metrics but as a consistent internal system that expresses the enormity and orderliness of the cosmos. The structure of the loka is also correlated with the fourteen stages of spiritual development (guṇasthānas), the cycles of time (kālacakra) in different regions, and the appearance or absence of Tīrthaṅkaras.\n\nVisual representation plays a major role in Jain cosmography. Manuscripts, temple paintings, and three-dimensional models depict the standing-man-shaped universe, the layered heavens and hells, and the concentric dvīpas and samudras. These images serve as pedagogical tools, meditative aids, and reminders of the soul’s potential journey from the lowest realms to the Siddha-śilā. While details differ between Digambara and Śvetāmbara sources—for example, in the number and naming of certain heavens or in the exact layout of continents—the overarching structure remains remarkably stable across centuries.\n\nPhilosophically, Jain cosmography reinforces key doctrines: the eternity of the universe, the absence of a creator god, the plurality of souls, and the moral causality of karma. The fixed architecture of the loka underscores that liberation is achieved not by altering the cosmos but by transforming the soul’s own karmic condition. Modern interpreters sometimes read Jain cosmography symbolically, emphasizing its ethical and spiritual meanings, while traditional expositions maintain its concrete reality. Both approaches, however, agree that understanding the structure of the universe helps practitioners grasp the scale of samsāra and the significance of the path to liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha-sūtra (also called Mokṣa-śāstra)",
+      "author": "Umāsvāti / Umāsvāmi (traditionally identified; accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "लोकः स्वभावतः सिद्धः।\nउर्ध्वमधोमध्यस्थो लोकः।",
+      "transliteration": "lokaḥ svabhāvataḥ siddhaḥ.\nūrdhva-madho-madhyastho lokaḥ.",
+      "translation": "“The universe (loka) is established by its own nature.\nThe universe is (divided into) upper, lower, and middle (regions).”",
+      "notes": "Tattvārtha-sūtra is a foundational philosophical text that systematically presents Jain doctrine. Its chapters on loka describe the threefold division of the universe, the nature of aloka (non-world), and the classification of beings in different realms. Later commentaries, such as those by Pūjyapāda (Sarvārthasiddhi), elaborate the measurements, the structure of heavens and hells, and the relation of cosmography to karma and spiritual progress."
+    },
+    {
+      "title": "Tiloya-paṇṇatti (Triloka-prajñapti)",
+      "author": "Attributed to Yativṛṣabha (Digambara tradition)",
+      "original_text": "तिलोयपण्णत्ति लोयस्स विण्णाणं करइ।\nउव्वहलोयअधोलोयमज्झलोयविभागो।",
+      "transliteration": "tiloya-paṇṇatti loyassa viṇṇāṇaṃ karai.\nuvvaha-loya-adholoya-majjha-loya-vibhāgo.",
+      "translation": "“The Tiloya-paṇṇatti makes known the nature of the three worlds (triloka).\nIt explains the division of the universe into upper, lower, and middle worlds.”",
+      "notes": "Tiloya-paṇṇatti is a major Digambara cosmological text in Jaina Śaurasenī Prakrit. It offers detailed descriptions of the three worlds, including the number and names of heavens and hells, the dimensions of the loka, and the characteristics of beings in each region. It is a key source for traditional Jain cosmological diagrams and for later Digambara scholastic treatments of cosmography."
+    },
+    {
+      "title": "Lokaprakāśa",
+      "author": "Pt. Vinayavijaya and Yaśovijaya (Śvetāmbara tradition; composite authorship in some recensions)",
+      "original_text": "लोकप्रकाशो नाम ग्रन्थो लोकरचनां विस्तरेण वर्णयति।\nजम्बूद्वीपादिकं मेरुप्रभृतिं च।",
+      "transliteration": "lokaprakāśo nāma grantho loka-racanāṃ vistareṇa varṇayati.\njambūdvīpādikaṃ meru-prabhṛtiṃ ca.",
+      "translation": "“The treatise called Lokaprakāśa describes in detail the structure of the universe,\nincluding Jambūdvīpa and Mount Meru and the like.”",
+      "notes": "Lokaprakāśa is an important Śvetāmbara cosmological work that synthesizes earlier canonical and commentarial materials. It provides extensive accounts of the dvīpas (continents), samudras (oceans), Mount Meru, the heavens and hells, and the measurements of the loka. It has influenced manuscript illustrations and temple art, especially in Śvetāmbara Mūrtipūjaka communities."
+    },
+    {
+      "title": "Gommatasāra Jīva-kāṇḍa (with cosmological sections)",
+      "author": "Nemichandra Siddhānta Cakravartin (Digambara tradition)",
+      "original_text": "जीवकाण्डे जीवाणं स्थानं लोके निर्दिश्यते।\nउर्ध्वमधोमध्यलोकेषु तेषां संचारः।",
+      "transliteration": "jīva-kāṇḍe jīvāṇaṃ sthānaṃ loke nirdiśyate.\nūrdhva-madho-madhya-lokeṣu teṣāṃ saṃcāraḥ.",
+      "translation": "“In the Jīva-kāṇḍa, the locations of souls in the universe are indicated,\nand their movement through the upper, lower, and middle worlds is described.”",
+      "notes": "Gommatasāra, especially its Jīva-kāṇḍa, focuses on the classification of souls and their karmic conditions. In doing so, it presupposes and occasionally outlines the cosmographical framework of the three worlds. It is widely studied in Digambara scholastic circles and is often read alongside more explicitly cosmological texts like Tiloya-paṇṇatti."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain cosmography teaches that a supreme creator god designed and periodically destroys and recreates the universe.",
+      "reality": "Jain texts consistently affirm that the universe (loka) is beginningless, uncreated, and not governed by a creator deity. Its structure and functioning arise from the inherent nature of substances (dravya) and the law-like operation of karma. Gods (devas) in Jain cosmography are powerful but themselves bound by karma and samsāra; they do not create or annihilate the cosmos."
+    },
+    {
+      "myth": "The Jain map of continents and oceans is simply an ancient, incorrect physical geography that must match modern Earth science.",
+      "reality": "The concentric dvīpas and samudras, with Jambūdvīpa and Mount Meru at the center, are part of a sacred cosmographical system that combines spatial description with ethical and spiritual symbolism. Traditional texts do not present these maps as empirical surveys of the Earth’s surface in a modern scientific sense. Instead, they locate different types of beings, time cycles, and Tīrthaṅkara appearances within a structured moral universe. Some modern interpreters read these descriptions symbolically or metaphorically, while others maintain their concrete reality, but in either case they are not straightforwardly equivalent to contemporary geographic models."
+    },
+    {
+      "myth": "Jain cosmography is entirely uniform across all sects and periods, with no variations or interpretive differences.",
+      "reality": "While the basic threefold division of the universe and the standing-man-shaped loka are widely shared, Digambara and Śvetāmbara sources differ in certain details, such as the naming and numbering of heavens, the layout of specific continents, and the emphasis placed on particular regions like Mahāvideha. Over time, commentaries and regional traditions have introduced variations in diagrams and measurements. Recognizing these differences is important for accurate study and prevents oversimplification of Jain cosmological thought."
+    },
+    {
+      "myth": "Because Jain cosmography uses very large numerical units and precise measurements, it must be intended as a literal modern scientific cosmology.",
+      "reality": "Jain texts employ vast units like rajju and specify detailed dimensions to express the enormity, order, and internal consistency of the universe within their own conceptual framework. These measurements function within a religious-philosophical system that integrates karma, rebirth, and liberation. They are not framed in terms of contemporary physics or cosmology, and traditional authors do not claim that their purpose is to provide experimentally testable scientific models. Instead, they support doctrinal clarity, meditative reflection, and ethical orientation."
+    }
+  ]
+}

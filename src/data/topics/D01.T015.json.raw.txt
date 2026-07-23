@@ -1,0 +1,79 @@
+{
+  "overview": "Jainism is often introduced through a few striking ideas—strict non‑violence, detailed rules about food, and the image of serene Jinas in meditation. Yet the tradition is far broader and more philosophically intricate than these surface impressions suggest. Classical Jain thinkers developed sophisticated accounts of reality (anekantavada, the doctrine of non‑one‑sidedness), logic, and ethics, all oriented toward the purification of the soul (jiva) and its liberation from karmic bondage.  [[0]](https://www.britannica.com/topic/Indian-philosophy/Jain-philosophy)\n\nMany misconceptions arise when key Jain concepts are detached from their scriptural and philosophical context. Ahimsa (non‑violence) is reduced to dietary rules, karma is treated as a vague moral metaphor, and the practice of sallekhana is misidentified with suicide. In reality, these ideas belong to a carefully structured path of right faith, right knowledge, and right conduct (triratna), articulated in canonical and post‑canonical texts such as the Agamas and the Tattvartha Sutra.  [[1]](https://philosophy.institute/indian-philosophy/jainism-path-liberation-ethics-morality/) [[2]](https://philosophy.institute/religions-of-the-world/exploring-sacred-texts-jainism-guide/)\n\nAnother common misunderstanding is that Jainism is merely a “negative” religion of renunciation and prohibition. The primary sources instead present a positive vision of the soul as inherently endowed with infinite knowledge, perception, energy, and bliss, temporarily obscured by karmic matter. Ethical discipline is not imposed for social control but is understood as a precise technology for stopping the influx of new karma (samvara) and shedding existing karma (nirjara).  [[1]](https://philosophy.institute/indian-philosophy/jainism-path-liberation-ethics-morality/)\n\nJainism is also frequently described as simply “atheistic,” as if the absence of a creator‑god implied a lack of devotion or spiritual depth. The tradition does reject a world‑creating deity, but it affirms a rich devotional culture centered on the Jinas—perfected beings who reveal the path to liberation—and on reverence for scriptures, teachers, and the community of ascetics.  [[0]](https://www.britannica.com/topic/Indian-philosophy/Jain-philosophy) [[2]](https://philosophy.institute/religions-of-the-world/exploring-sacred-texts-jainism-guide/)\n\nFinally, misconceptions persist because of the diversity within Jain traditions themselves (Digambara, Svetambara Murtipujaka, Sthanakavasi, Terapanth, and others). Differences in scripture, ritual, and monastic discipline can be mistaken for contradictions in core doctrine. When read carefully, however, the major sects share foundational commitments to non‑violence, karmic causality, and the triratna, even while they debate details of practice and textual authority.  [[2]](https://philosophy.institute/religions-of-the-world/exploring-sacred-texts-jainism-guide/)",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi (traditionally attributed)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः ।",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ.",
+      "translation": "Right faith, right knowledge, and right conduct are the path to liberation.",
+      "notes": "This aphorism (Tattvārtha Sūtra 1.1) succinctly defines the Jain path as a threefold discipline. It counters the misconception that Jainism is only about external rules or ritual; liberation depends on an integrated transformation of worldview, understanding, and behavior. The text is accepted across major sects as a foundational philosophical treatise and is frequently cited in discussions of ethics and karma.  [[1]](https://philosophy.institute/indian-philosophy/jainism-path-liberation-ethics-morality/) [[0]](https://www.britannica.com/topic/Indian-philosophy/Jain-philosophy)"
+    },
+    {
+      "title": "Ācāranga Sūtra",
+      "author": "Traditionally attributed to early Jain monastic compilers preserving Mahāvīra’s teachings",
+      "original_text": "सव्वे पणा जिवा दोहिṃ न हन्तव्वा ।",
+      "transliteration": "savve paṇā jīvā dohiṃ na hantavvā.",
+      "translation": "All living beings, however small, should not be harmed.",
+      "notes": "The Ācāranga Sūtra is among the oldest Jain scriptures, composed in Ardhamāgadhī Prakrit. This passage expresses the radical scope of ahimsa, extending moral concern to all forms of life. It clarifies that non‑violence is not merely a matter of diet but a comprehensive discipline of body, speech, and mind, aimed at preventing karmic bondage through harm.  [[1]](https://philosophy.institute/indian-philosophy/jainism-path-liberation-ethics-morality/) [[2]](https://philosophy.institute/religions-of-the-world/exploring-sacred-texts-jainism-guide/)"
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Early Jain canonical tradition (Svetambara)",
+      "original_text": "कम्मं चेदं न विज्जइ, नत्थि लोए परलोए च ।",
+      "transliteration": "kammaṃ cedaṃ na vijjai, natthi loe paraloe ca.",
+      "translation": "If karma did not exist, there would be neither this world nor the other.",
+      "notes": "This verse emphasizes the centrality of karma as a real, causally operative principle in Jain cosmology and ethics. It challenges the misconception that karma is only a metaphor for psychological states or moral bookkeeping. In classical Jain thought, karma is a subtle material substance that binds to the soul and structures its experiences across lifetimes.  [[3]](https://www.spirituality-studies.org/dp-volume12-issue1-spring2026/files/assets/common/downloads/files/12-1-nishit-shah.pdf) [[0]](https://www.britannica.com/topic/Indian-philosophy/Jain-philosophy)"
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism is only about food restrictions and vegetarianism.",
+      "reality": "Dietary discipline is one expression of a much broader commitment to ahimsa (non‑violence) in thought, speech, and action. Jain ethics addresses how every passion‑driven act attracts karmic matter to the soul, and the tradition’s vows (vratas) regulate behavior in many domains—truthfulness, non‑stealing, sexual restraint, and non‑possessiveness—alongside careful attention to what and how one eats.  [[1]](https://philosophy.institute/indian-philosophy/jainism-path-liberation-ethics-morality/) [[2]](https://philosophy.institute/religions-of-the-world/exploring-sacred-texts-jainism-guide/)"
+    },
+    {
+      "myth": "Jains worship idols as gods in a theistic sense.",
+      "reality": "Images of the Jinas in temples are not regarded as creator‑gods who intervene in the world. They represent perfected beings who have completely destroyed karmic bondage and serve as exemplars of the path. Devotional practices—such as darśana (beholding the image), recitation, and ritual—are meant to cultivate humility, right faith, and concentration, not to petition a deity for favors or forgiveness.  [[0]](https://www.britannica.com/topic/Indian-philosophy/Jain-philosophy) [[2]](https://philosophy.institute/religions-of-the-world/exploring-sacred-texts-jainism-guide/)"
+    },
+    {
+      "myth": "Jainism is purely atheistic and therefore lacks spirituality or devotion.",
+      "reality": "While Jainism rejects a world‑creating god, it affirms a rich spiritual universe populated by liberated souls (siddhas), perfected teachers (Tirthankaras), and celestial beings. Devotion (bhakti) to the Jinas, reverence for scriptures, and respect for ascetics are central practices that support right faith and right conduct. The absence of a creator‑god does not diminish spiritual depth; it shifts responsibility for bondage and liberation entirely to the individual soul and the law‑governed process of karma.  [[1]](https://philosophy.institute/indian-philosophy/jainism-path-liberation-ethics-morality/) [[0]](https://www.britannica.com/topic/Indian-philosophy/Jain-philosophy)"
+    },
+    {
+      "myth": "Karma in Jainism is just a moral metaphor or psychological state.",
+      "reality": "Classical Jain philosophy treats karma as a subtle material substance that adheres to the soul, obscuring its innate qualities of knowledge, perception, energy, and bliss. Actions driven by passions such as anger, pride, deceit, and greed attract specific types of karmic matter, which then shape future experiences across lifetimes. Liberation is defined as the complete removal of this karmic obstruction through disciplined ethical and meditative practice.  [[3]](https://www.spirituality-studies.org/dp-volume12-issue1-spring2026/files/assets/common/downloads/files/12-1-nishit-shah.pdf) [[1]](https://philosophy.institute/indian-philosophy/jainism-path-liberation-ethics-morality/)"
+    },
+    {
+      "myth": "Sallekhana (the vow of voluntary fasting unto death) is equivalent to suicide.",
+      "reality": "In Jain tradition, sallekhana is a highly regulated, rare vow undertaken at the end of life under specific conditions—such as incurable illness or extreme old age—when ordinary bodily functions are already failing. It is framed as a peaceful, detached acceptance of death, accompanied by confession, forgiveness, and renunciation of passions, rather than an act driven by despair or aversion to life. Classical texts and later commentaries emphasize that it requires guidance from qualified teachers and is distinct from self‑harm motivated by emotional turmoil.  [[1]](https://philosophy.institute/indian-philosophy/jainism-path-liberation-ethics-morality/) [[2]](https://philosophy.institute/religions-of-the-world/exploring-sacred-texts-jainism-guide/)"
+    },
+    {
+      "myth": "Ahimsa means absolute passivity and refusal to act in the world.",
+      "reality": "Ahimsa prohibits intentional harm to living beings, but it does not demand withdrawal from all activity. Jain householders are expected to work, care for families, and participate in society while minimizing violence through careful choices—such as avoiding unnecessary killing, reducing consumption, and cultivating compassion. The tradition recognizes gradations of harm and provides practical guidelines for living responsibly in a world where some level of impact is unavoidable.  [[1]](https://philosophy.institute/indian-philosophy/jainism-path-liberation-ethics-morality/) [[2]](https://philosophy.institute/religions-of-the-world/exploring-sacred-texts-jainism-guide/)"
+    },
+    {
+      "myth": "Jain discipline is meant only for monks and nuns; laypeople have no serious spiritual path.",
+      "reality": "Jain scriptures distinguish between great vows (mahāvratas) for ascetics and smaller, adapted vows (aṇuvratas) for householders. Lay practice includes regular worship, scriptural study, periodic fasting, charity, and ethical restraint, all oriented toward reducing karmic bondage and cultivating right faith. While monks and nuns pursue the path in its most radical form, householders are given a structured, meaningful way to progress spiritually within family and social life.  [[1]](https://philosophy.institute/indian-philosophy/jainism-path-liberation-ethics-morality/) [[2]](https://philosophy.institute/religions-of-the-world/exploring-sacred-texts-jainism-guide/)"
+    },
+    {
+      "myth": "Differences between Digambara and Svetambara sects mean there is no shared Jain doctrine.",
+      "reality": "The major sects disagree on issues such as monastic nudity, the status of certain scriptures, and details of ritual, but they share core commitments: belief in the eternal soul, karmic causality, the triratna path, and the centrality of ahimsa. Texts like the Tattvārtha Sūtra are respected across sectarian lines, and many philosophical doctrines—such as anekantavada and the classification of substances (dravya)—are common to all.  [[0]](https://www.britannica.com/topic/Indian-philosophy/Jain-philosophy) [[2]](https://philosophy.institute/religions-of-the-world/exploring-sacred-texts-jainism-guide/)"
+    },
+    {
+      "myth": "Jainism is anti‑science because it emphasizes asceticism and renunciation.",
+      "reality": "Jain texts present detailed cosmological and biological classifications, and modern Jain thinkers have engaged actively with scientific discourse, especially in areas like ecology, non‑violence, and environmental ethics. The emphasis on restraint and minimal harm often aligns with contemporary concerns about sustainability and the impact of human activity on other forms of life. Ascetic ideals are not opposed to knowledge; they aim to free the soul from passions that distort perception and judgment.  [[4]](https://link.springer.com/article/10.1007/s40961-025-00379-y) [[1]](https://philosophy.institute/indian-philosophy/jainism-path-liberation-ethics-morality/)"
+    }
+  ]
+}
+
+
+
+> [0] [Indian philosophy - Jainism, Ahimsa, Karma | Britannica](https://www.britannica.com/topic/Indian-philosophy/Jain-philosophy)
+>
+> [1] [Jainism's Path to Liberation: Ethics and Morality • Philosophy Institute](https://philosophy.institute/indian-philosophy/jainism-path-liberation-ethics-morality/)
+>
+> [2] [Exploring the Sacred Texts of Jainism: A Guide • Philosophy Institute](https://philosophy.institute/religions-of-the-world/exploring-sacred-texts-jainism-guide/)
+>
+> [3] [68 Spirituality Studies](https://www.spirituality-studies.org/dp-volume12-issue1-spring2026/files/assets/common/downloads/files/12-1-nishit-shah.pdf)
+>
+> [4] [In Defence of Jain Philosophy and Religion: An Experimental and Comparative Approach Towards Peaceful Culture | Journal of Indian Council of Philosophical Research | Springer Nature Link](https://link.springer.com/article/10.1007/s40961-025-00379-y)

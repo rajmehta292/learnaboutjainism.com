@@ -1,0 +1,51 @@
+{
+  "overview": "Truth in commerce (vāṇijya‑satya or vanijja‑saccaya in Prakrit) is a core Jain ethical concern grounded in the broader virtue of satya, one of the five fundamental vows (pañca‑vrata) for laypeople and ascetics. In Jain thought, truthfulness is not limited to speech; it extends to intention, representation, and economic conduct. Commerce is understood as a field where falsehood can easily arise—through misrepresentation of goods, deceptive measurements, hidden defects, adulteration, or manipulative persuasion. Because such actions harm others, they are considered forms of hiṃsā (harm), even when no physical injury occurs.\n\nJain traditions consistently teach that economic life must be governed by non‑harm, transparency, and fairness. The *Ācārāṅga Sūtra* and *Sūtrakṛtāṅga* establish truthfulness as a foundational discipline, while later texts such as the *Ratnakaraṇḍa Śrāvakācāra* and *Yogasāra* apply these principles to lay conduct, including trade. Digambara and Śvetāmbara commentaries emphasize that commercial deception binds karma associated with delusion (mohaniya) and greed (lobha), obstructing spiritual progress.\n\nHistorically, Jain mercantile communities developed reputations for reliable accounting, honest weights, and ethical contracts. Modern Jain ethicists extend these principles to contemporary issues such as advertising ethics, corporate transparency, environmental impact disclosures, and fair labor practices. While the tradition encourages prosperity achieved through skill and diligence, it insists that wealth must never be pursued through deceit, coercion, or exploitation.\n\nTruth in commerce therefore represents a synthesis of satya, ahiṃsā, and aparigraha (non‑possessiveness). It is not merely a moral ideal but a practical discipline shaping how goods are described, priced, and exchanged. The goal is to ensure that economic activity supports mutual trust, reduces harm, and aligns with the Jain path toward liberation.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "सच्चं भासे, नो भासे असच्चं",
+      "transliteration": "sacchaṃ bhāse, no bhāse asacchaṃ",
+      "translation": "“Speak what is true; do not speak what is untrue.”",
+      "notes": "Tier A. Although the text addresses ascetic conduct, commentators (Tier B) apply this injunction to all forms of communication, including commercial representation. The emphasis is on avoiding speech that misleads or causes harm."
+    },
+    {
+      "title": "Sūtrakṛtāṅga",
+      "author": "Traditionally attributed to early Jain canonical compilers",
+      "original_text": "जे णाणं गोयरे, ते अवगुणे पावं",
+      "transliteration": "je ṇāṇaṃ goyare, te avaguṇe pāvaṃ",
+      "translation": "“Those who conceal knowledge (information) incur demerit.”",
+      "notes": "Tier A. Commentaries interpret concealment of relevant information—including defects in goods or unfair terms—as a form of falsehood and harm."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra",
+      "author": "Ācārya Samantabhadra",
+      "original_text": "असत्यवचनं चौर्यं च व्यापारदोषाः",
+      "transliteration": "asatyavacanaṃ cauryaṃ ca vyāpāradoṣāḥ",
+      "translation": "“False speech and theft are faults in trade.”",
+      "notes": "Tier B. A Digambara lay‑conduct text explicitly linking satya to commercial honesty. It warns that deceptive trade binds karma similar to theft."
+    },
+    {
+      "title": "Yogasāra",
+      "author": "Ācārya Amitagati",
+      "original_text": "लोभाद् दुष्टो व्यापारः पापबन्धाय",
+      "transliteration": "lobhād duṣṭo vyāpāraḥ pāpabandhāya",
+      "translation": "“Trade corrupted by greed leads to the binding of sin (karma).”",
+      "notes": "Tier B. Highlights the karmic consequences of dishonest or exploitative commerce."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain ethics prohibit all forms of profit-making.",
+      "reality": "Jain texts do not oppose profit itself. They oppose profit gained through deception, harm, or exploitation. Ethical prosperity is encouraged when aligned with satya, ahiṃsā, and aparigraha."
+    },
+    {
+      "myth": "Truth in commerce only concerns accurate speech.",
+      "reality": "Truthfulness in Jainism includes intention, transparency, fair measurement, honest accounting, and avoidance of concealment. It is a holistic discipline, not limited to verbal statements."
+    },
+    {
+      "myth": "Only ascetics are required to uphold strict truthfulness.",
+      "reality": "Laypeople are explicitly instructed to maintain truth in trade. Texts such as the *Śrāvakācāra* apply satya directly to business practices."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "overview": "Jain discussions of dates and calendars sit at the meeting point of cosmology, ritual practice, and community life. While Jains today use the common civil (Gregorian) calendar for everyday purposes, religious observances, fasts, and festivals are still anchored in a traditional lunar system known through panchang or Jain pañcāṅga. This system tracks lunar days (tithi), fortnights (pakṣa), months, and years, and coordinates them with key observances such as Paryushan, Das Lakshana, Mahavir Janma Kalyanak, and the annual cycles of Chaumasi Chaudas and Ayambil Oli.\n\nHistorically, Jain communities have reckoned time in relation to the life of the Tirthankaras, especially Mahavira. The most distinctive Jain era is the Vīra Nirvāṇa Saṃvat, which counts years from Mahavira’s nirvāṇa at Pāvāpurī. Many calendars in North India also use Vikram Samvat and, in some regions, Śaka era calculations alongside Vīra Nirvāṇa Saṃvat, so a single date can be expressed in multiple systems. The Jain lunar calendar broadly parallels the wider Indian lunar tradition, with months such as Āṣāḍha, Śrāvaṇa, Bhādrapada, and Kārtika, each divided into dark (kṛṣṇa) and bright (śukla) fortnights. Religious dates are fixed by tithi and sometimes by nakṣatra (lunar mansion), rather than by the solar day alone.\n\nA typical Jain panchang lists, for each day, the tithi, nakṣatra, and any associated vows (vrata) or festivals. For example, Rohini Vrat is observed when the Rohini nakṣatra prevails, and Chaumasi Chaudas marks the closing of a four‑month period with intensified pratikraman and fasting. In 2026, a Jain panchang for Vīra Nirvāṇa Saṃvat 2552 shows, for July, the sequence of tithis and nakṣatras along with Rohini Vrat, Āṣāḍha Ashtahnika, and Āṣāḍha Chaumasi Chaudas, illustrating how the calendar functions as a spiritual schedule rather than a mere list of dates.\n\nMajor annual observances highlight the importance of calendar calculation. Paryushan Parva for Śvetāmbara Jains is held in Bhādrapada, following the lunar tithis of the dark half of Śrāvaṇa and the bright half of Bhādrapada, and culminates on Samvatsari, the day of universal forgiveness. Digambara Jains observe the parallel Das Lakshana Parva, beginning the day after Śvetāmbara Paryushan ends, and continuing for ten days. The exact Gregorian dates shift each year because they follow the lunar calendar; in 2026, Śvetāmbara Paryushan runs from 8 to 15 September, ending on Samvatsari, while Digambara Das Lakshana runs from 16 to 25 September, ending on Kṣamāvaṇī, the forgiveness day.\n\nThe Jain calendar is also shaped by monastic practice. Traditionally, monks and nuns observe a rains retreat (caturmāsa) during the monsoon, staying in one place to avoid harming the many small beings that flourish in the wet season. This retreat became a fixed season of intensified study, restraint, and communal observance for both ascetics and laypeople, and its timing is determined by the lunar months of the monsoon. Festivals such as Paryushan and Ashtahnika are closely linked to this monsoon retreat, so their dates are not arbitrary but arise from a long‑standing rhythm of spiritual life.\n\nIn modern practice, Jain communities must reconcile the traditional lunar calendar with global civil timekeeping. Local sanghs and derasars often publish annual Jain calendars that show both Gregorian dates and Jain tithis, along with the relevant era years (Vīra Nirvāṇa Saṃvat, Vikram Samvat). Because different regions and traditions may use slightly different rules for calculating tithis and for determining when a festival should be observed (for example, sunrise‑based versus moonrise‑based calculations), there can be minor variations of one day between calendars. For this reason, community guidance from a local temple or lineage remains important when planning fasts or major observances.\n\nPhilosophically, Jain texts treat time (kāla) as one of the fundamental substances (dravya) and distinguish between the smallest instant (samaya) and larger units such as muhūrta, day, month, and year. While the canonical texts do not present a detailed technical manual of calendar calculation in the modern sense, they provide the conceptual framework within which later Jain astronomers and calendar‑makers worked. The practical Jain calendar thus stands on two pillars: a metaphysical understanding of time as a real but non‑material substance, and a lived tradition of aligning spiritual disciplines with the cyclical movements of the moon and seasons.\n\nToday, dates and calendars in Jainism continue to serve as a \"spiritual roadmap\" for practitioners. They mark days for intensified ahiṃsā and aparigraha, for confession and forgiveness, for listening to scriptures such as the Kalpa‑sūtra, and for undertaking specific fasts. Rather than being merely technical, the Jain calendar is a tool for remembering the Tirthankaras, structuring ethical reflection, and harmonizing personal practice with the wider community’s rhythm of devotion and restraint.",
+  "primary_sources": [
+    {
+      "title": "Kalpa-sutra",
+      "author": "Traditionally attributed to Acharya Bhadrabahu",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The Kalpa-sutra is publicly recited during Paryushan, narrating the lives of the Tirthankaras, especially Mahavira, and is scheduled according to specific lunar tithis in the month of Bhādrapada.",
+      "notes": "Corpus tier A/B. The Kalpa-sutra does not function as a technical calendar manual, but its liturgical use is tightly bound to the Jain lunar calendar. Śvetāmbara communities organize the eight days of Paryushan and the Mahavira Janma Vachan celebration by reference to tithis such as Śrāvaṇa vad 12/13 and Bhādrapada śukla 1–5, as reflected in contemporary Paryushan guides and temple practice."
+    },
+    {
+      "title": "Tattvartha Sutra",
+      "author": "Acharya Umāsvāti / Umāsvāmi",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "In its discussion of substances (dravya), the Tattvartha Sutra identifies time (kāla) as one of the fundamental realities and distinguishes between the smallest instant (samaya) and larger units such as muhūrta, day, month, and year, providing the conceptual basis for Jain reckoning of temporal cycles.",
+      "notes": "Corpus tier A/B. While the text is philosophical rather than calendrical, its treatment of kāla underlies later Jain approaches to measuring and structuring time. Commentaries elaborate on how temporal units relate to karmic processes and to practical observances, which are then mapped onto the lunar calendar by later tradition."
+    },
+    {
+      "title": "Bhagavati-sutra (Vyākhyāprajñapti)",
+      "author": "Canonical Śvetāmbara text, multiple redactors",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "The Bhagavati-sutra contains dialogues in which Mahavira instructs monks about staying in one place during the rainy season to avoid harming living beings, a practice that later develops into the fixed monsoon retreat (caturmāsa) and shapes the seasonal structure of Jain observances.",
+      "notes": "Corpus tier A/B. The text provides narrative and doctrinal support for the monsoon retreat, which is timed according to the lunar months of the rainy season. This seasonal discipline becomes the backbone for annual cycles such as Paryushan and Ashtahnika, linking calendar dates to the ethical imperative of ahiṃsā."
+    },
+    {
+      "title": "Jain Panchang (Vira Nirvana Samvat 2552, example for 2026)",
+      "author": "Modern calendar compilers based on traditional calculations",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "A Jain panchang for Vīra Nirvāṇa Saṃvat 2552 lists, for each day of July 2026, the lunar tithi, nakṣatra, and associated Jain observances such as Rohini Vrat, Āṣāḍha Ashtahnika, and Āṣāḍha Chaumasi Chaudas, alongside Vikram Samvat and Gregorian dates.",
+      "notes": "Corpus tier C/D. This modern liturgical calendar demonstrates how traditional lunar calculations are applied in practice. It shows the coexistence of multiple era systems (Vīra Nirvāṇa Saṃvat, Vikram Samvat) and the way vows and festivals are anchored to tithis and nakṣatras rather than to fixed Gregorian dates."
+    },
+    {
+      "title": "Paryushan and Das Lakshana festival guides (Śvetāmbara and Digambara traditions)",
+      "author": "Contemporary Jain scholars and community educators",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "Modern guides explain that Śvetāmbara Paryushan follows the Bhadrapada month’s bright fortnight, typically beginning on Śrāvaṇa vad 12/13 and ending on Bhādrapada śukla 4/5, while Digambara Das Lakshana begins the day after Śvetāmbara Paryushan ends and continues for ten days, all determined by the Jain lunar calendar.",
+      "notes": "Corpus tier C/D. These guides clarify how calendar rules are applied differently by Śvetāmbara and Digambara communities while preserving a shared spiritual core of fasting, introspection, and forgiveness. They also note that local panchang differences can shift observance dates by a day, underscoring the need for community verification."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jain festivals like Paryushan and Das Lakshana fall on the same fixed Gregorian dates every year.",
+      "reality": "Jain religious observances are set by the lunar calendar, using tithis and lunar months, so their Gregorian dates shift annually. For example, Śvetāmbara Paryushan and Digambara Das Lakshana in 2026 occur in September, but in other years they may fall in August or early September depending on the lunar cycle and local panchang calculations."
+    },
+    {
+      "myth": "The Jain calendar is simply identical to the broader Hindu lunar calendar, with no distinct Jain features.",
+      "reality": "While the Jain lunar calendar shares many structural elements with the wider Indian lunar system (months, tithis, nakṣatras), it has distinctive era reckoning (such as Vīra Nirvāṇa Saṃvat), specific Jain vows and festivals (Rohini Vrat, Ashtahnika, Chaumasi Chaudas, Ayambil Oli), and sect-specific observance patterns. Jain panchangs integrate these uniquely Jain elements into the shared lunar framework."
+    },
+    {
+      "myth": "Only one \"official\" Jain calendar exists, and all communities worldwide follow exactly the same dates.",
+      "reality": "Different Jain traditions and regions may use slightly different rules for calculating tithis and determining observance days, leading to minor variations of one day between calendars. Śvetāmbara and Digambara communities also structure some festivals differently. As a result, local sanghs and temples provide authoritative guidance for their own communities, and practitioners are encouraged to confirm dates locally rather than assuming a single universal calendar."
+    },
+    {
+      "myth": "The Jain calendar is purely technical and has no connection to ethics or spiritual practice.",
+      "reality": "Jain calendar structures are deeply tied to ethical and spiritual disciplines. The timing of the monsoon retreat, Paryushan, Das Lakshana, Chaumasi Chaudas, and various vrats is designed to support ahiṃsā, aparigraha, confession, forgiveness, and scriptural study. Dates are not arbitrary; they are chosen to align personal practice with seasonal rhythms and communal opportunities for intensified reflection and restraint."
+    }
+  ]
+}

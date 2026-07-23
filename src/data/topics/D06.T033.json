@@ -1,0 +1,63 @@
+{
+  "overview": "The term \"Karmagrantha traditions\" refers to the highly developed, multi‑sect corpus of Jain writings devoted to the doctrine of karma—its ontological nature, modes of bondage, classifications, fruition (vipāka), and role in the path through the guṇasthānas toward liberation. These traditions are not a single book but a layered literary field spanning early canonical materials, large technical treatises, and extensive commentarial networks in both Digambara and Śvetāmbara lineages.\n\nHistorically, Jain karma doctrine is traced back, in both major sects, to the eighth of the fourteen Purvas, the Karma‑pravāda‑purva, now lost as an independent text. Its conceptual legacy survives in later works that systematize karma categories and their relation to the soul (jīva), the universe (loka), and spiritual progress. In the Digambara tradition, this line is represented above all by the monumental Śaṭkhaṇḍāgama and its associated texts such as the Kaṣāya‑prābhṛta and Mahābandha, which analyze the minutiae of karmic bondage, the passions (kaṣāya), and the technical conditions under which karma is bound, matured, and shed. These works are often treated as the backbone of Digambara karmagrantha literature, with later commentaries elaborating their dense doctrinal material.\n\nIn the Śvetāmbara Mūrtipūjaka tradition, the karmagrantha field coalesces around texts like Bandha‑śataka, Karma‑prakṛti (often in saṅgraha or saṅgrahaṇī form), Saptatikā/Saptati, and related compilations. These works classify the eight primary karmas—jñānāvaraṇīya, darśanāvaraṇīya, vedanīya, mohanīya, āyuṣya, nāma, gotra, and antarāya—into numerous prakṛtis (sub‑types), describing their causes, effects, and the ways in which right faith (samyag‑darśana), right knowledge (samyag‑jñāna), and right conduct (samyag‑cāritra) progressively weaken and destroy them. The Śvetāmbara tradition also preserves composite collections such as \"Karmagrantha–Karmaprakṛti–Pañcasaṅgraha\", which gather several key treatises into a single study volume for advanced students.\n\nAcross sects, karmagrantha traditions share certain structural features. They typically begin with a taxonomy of karma, distinguishing ghātiyā (destructive) from aghātiyā (non‑destructive) karmas, and then subdivide each into increasingly fine categories. They link these classifications to cosmology (types of bodies, realms of rebirth), ethics (passions and vows), and soteriology (the sequence of guṇasthānas). Technical discussions often employ precise numerical schemes—lists of prakṛtis, sub‑prakṛtis, intensities, durations, and spaces of karmic bondage—reflecting an attempt to render the moral and spiritual universe mathematically intelligible.\n\nCommentarial traditions play a crucial role in making karmagrantha texts usable. Chūrṇis, vṛttis, ṭīkās, and avacūrīs in both Digambara and Śvetāmbara lineages explain difficult terms, reconcile apparent contradictions, and integrate karma doctrine with broader philosophical frameworks such as anekāntavāda and syādvāda. Modern scholarship and community education have further systematized this material, producing surveys of Jain karma literature, critical editions, and vernacular translations that allow lay practitioners and students to access what was once the preserve of highly trained monks and pandits.\n\nAt the same time, there are important differences and open questions. Digambara and Śvetāmbara karmagrantha traditions do not always agree on textual authority, exact enumerations, or interpretive emphasis—for example, on the relative centrality of certain prakṛtis or the details of karmic processes at higher guṇasthānas. Some early sources are fragmentary or known only through later quotations, and modern editors must navigate variant manuscripts and uncertain readings. Responsible study therefore distinguishes between direct quotations, sect‑specific interpretations, and contemporary applications, and it recognizes the need for guidance from qualified teachers when using these technical texts to inform practice.\n\nIn modern contexts, karmagrantha traditions are often engaged not only as abstract metaphysics but as ethical and existential maps. They offer a way to understand suffering, inequality, and moral responsibility without resorting to randomness or divine favoritism, while simultaneously insisting that karma is not fatalistic: through disciplined conduct, vows, and inner transformation, the jīva can progressively exhaust its karmic load and attain liberation. For serious students, these traditions form a bridge between scriptural study, philosophical reflection, and lived practice, and they invite careful, source‑grounded engagement rather than quick, simplified summaries.",
+  "primary_sources": [
+    {
+      "title": "Śaṭkhaṇḍāgama (with Kaṣāya‑prābhṛta and Mahābandha traditions)",
+      "author": "Traditionally attributed to Ācārya Puṣpadanta and Ācārya Bhūtabali; later commentarial lineage includes Kundakunda and others",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "A foundational Digambara scripture analyzing the six \"sections\" of karmic bondage, including the nature of karma as a subtle material entity, the conditions of its influx (āsrava) and bondage (bandha), the role of passions (kaṣāya), and the detailed classifications of karmic types and their fruition.",
+      "notes": "Corpus tier A/B. The Śaṭkhaṇḍāgama is preserved in later manuscripts and is traditionally linked to the lost Karma‑pravāda‑purva. The Kaṣāya‑prābhṛta and Mahābandha are closely related texts focusing on passions and bondage. Exact Prakrit wording varies by edition, and technical passages are typically studied through established commentaries rather than in isolation."
+    },
+    {
+      "title": "Bandha‑śataka",
+      "author": "Śivśarmasūri (Śvetāmbara Mūrtipūjaka tradition)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "A Śvetāmbara treatise in one hundred verses that outlines the doctrine of karmic bondage, describing how various mental states, actions, and omissions lead to the binding of specific karmas and how right faith and discipline counteract them.",
+      "notes": "Corpus tier B. Bandha‑śataka is transmitted with multiple layers of commentary—bhāṣya, chūrṇi, vṛtti, ṭippaṇa, and avacūrī—reflecting its importance as a pedagogical text. Different commentaries sometimes emphasize distinct practical implications, so interpretation must be situated within a given lineage."
+    },
+    {
+      "title": "Karma‑prakṛti (Saṅgraha/Saṅgrahaṇī)",
+      "author": "Śivśarmasūri; major commentaries by Malayagiri and Yaśovijaya",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "A systematic exposition of the \"natures\" (prakṛtis) of karma, classifying the eight primary karmas into numerous sub‑types and explaining their causes, effects, and interrelations with spiritual stages.",
+      "notes": "Corpus tier B/C. Often studied through the Saṅgraha or Saṅgrahaṇī format, which condenses and organizes material for advanced students. Commentaries by Malayagiri and Yaśovijaya provide philosophical framing and cross‑references to other Śvetāmbara texts."
+    },
+    {
+      "title": "Saptatikā / Saptati",
+      "author": "Anonymous; later exegesis by Abhayadeva, Merutuṅgasūri, Malayagiri, Devendrasūri, Guṇaratnasūri and others",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "A text in approximately seventy sections or verses that treats key aspects of karma doctrine, often focusing on specific groups of prakṛtis and their ethical and soteriological implications.",
+      "notes": "Corpus tier B/C. The anonymity of the base text and the richness of its commentarial tradition illustrate how karmagrantha material can become a shared doctrinal resource across generations. Manuscript variation and differing commentarial agendas mean that precise doctrinal claims should be checked against critical editions."
+    },
+    {
+      "title": "Karmagrantha–Karmaprakṛti–Pañcasaṅgraha (compilation)",
+      "author": "Compilation under Hemacandracārya Granthamālā; individual sections by Devendrasūri and other authors",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "A modern scholarly and community‑oriented compilation bringing together five major Jain treatises on karma, including Karma‑vipāka‑nāma, which details the fruition of different karmas and their impact on experiences, bodies, lifespans, status, and obstacles.",
+      "notes": "Corpus tier C/D. The compilation presents Prakrit/Apabhraṃśa source material alongside Gujarati and other vernacular aids, making technical karma doctrine accessible to contemporary readers. It should be read with awareness of its editorial framework and memorial dedication, and doctrinal points should be traced back to the underlying primary texts where possible."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Karmagrantha is a single, universally agreed‑upon Jain text that all sects accept in the same form.",
+      "reality": "In reality, \"karmagrantha traditions\" refer to a diverse field of texts and commentaries across Digambara and Śvetāmbara lineages. Different sects privilege different works, employ distinct classifications, and sometimes disagree on textual authority or doctrinal detail. There is no single, uniform karmagrantha that overrides these historical and interpretive differences."
+    },
+    {
+      "myth": "Jain karma literature teaches a rigid, fatalistic view in which everything is fixed and spiritual effort cannot change one’s destiny.",
+      "reality": "Karmagrantha texts emphasize both the law‑like regularity of karmic causation and the transformative power of right faith, knowledge, and conduct. They describe in detail how vows, restraint, meditation, and the weakening of passions alter the influx, intensity, and duration of karmas, making liberation possible. Far from promoting passivity, they provide a technical framework for intentional ethical and spiritual change."
+    },
+    {
+      "myth": "Only monks and specialists need to engage with karmagrantha traditions; laypeople gain nothing from these technical texts.",
+      "reality": "While many karmagrantha works are highly technical and traditionally studied in advanced monastic settings, their core insights—about responsibility, the consequences of actions, and the path to reducing suffering—are relevant to lay practice. Modern editions, translations, and guided study allow lay practitioners to engage with this material in a responsible, contextualized way, often under the guidance of qualified teachers."
+    },
+    {
+      "myth": "All details in karmagrantha texts are fixed and uncontested, so any modern summary can be treated as definitive.",
+      "reality": "Karmagrantha traditions involve complex manuscript histories, variant readings, and sect‑specific interpretations. Some early sources are fragmentary or known only through later quotations, and scholars and teachers may differ on how to reconcile them. Careful study distinguishes between direct textual evidence, traditional commentary, and modern interpretation, and recognizes areas where evidence is limited or disagreement persists."
+    }
+  ]
+}

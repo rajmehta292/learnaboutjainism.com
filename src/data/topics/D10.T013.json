@@ -1,0 +1,51 @@
+{
+  "overview": "Scriptural interpretation (śāstra-vicāra or śruta-vicaya) in Jain traditions refers to the disciplined, multi-layered process of understanding canonical and post-canonical texts through linguistic analysis, doctrinal alignment, commentarial reasoning, and lineage-based hermeneutics. Because Jainism spans multiple sects, languages, and manuscript histories, interpretation is never monolithic; it is shaped by Prakrit and Sanskrit philology, the epistemological frameworks of anekāntavāda and syādvāda, and the commentarial traditions of Digambara and Śvetāmbara lineages.\n\nAt its foundation, interpretation begins with the recognition that Jain scriptures—whether Āgamas in the Śvetāmbara tradition or the Digambara canonical and semi-canonical corpus—are layered texts. They include direct teachings attributed to the Jinas, mnemonic sūtras, narrative expansions, and later scholastic treatises. Each layer requires different interpretive tools. For example, terse sūtras often demand grammatical unpacking and doctrinal cross-referencing, while narrative texts require attention to allegory, moral exemplars, and karmic causality.\n\nTraditional hermeneutics rely heavily on linguistic precision. Terms such as *jīva*, *ajīva*, *lesyā*, *paryāya*, and *dravya* carry technical meanings that shift subtly across contexts. Commentators therefore emphasize etymology, canonical usage, and the logic of the broader doctrinal system. Anekāntavāda provides a meta-framework: interpretation must acknowledge multiple valid perspectives while maintaining coherence with the core teachings of nonviolence, karma theory, and liberation.\n\nInterpretation also involves sectarian methodologies. Digambara scholars often prioritize texts like the *Ṣaṭkhaṇḍāgama* and *Kaṣāyapāhuda*, using commentaries such as those by Amṛtacandra or Śrutasāgara to clarify metaphysics and conduct. Śvetāmbara traditions rely on the Āgamas and their niryuktis, bhāṣyas, and cūrṇis, with later Sanskrit commentaries providing doctrinal synthesis. Despite differences, both traditions share commitments to rigorous philology, ethical alignment, and the preservation of lineage-based knowledge.\n\nModern scholarship adds manuscript criticism, historical linguistics, and comparative hermeneutics. These tools help identify variant readings, reconstruct lost contexts, and clarify doctrinal development. However, traditional authorities emphasize that interpretation must remain grounded in verified texts and lineage guidance, especially for matters of practice, vows, and monastic discipline.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples; Śvetāmbara canonical redaction",
+      "original_text": "णं चेयव्वं णं दिट्ठव्वं",
+      "transliteration": "ṇaṃ ceyavvaṃ ṇaṃ diṭṭhavvaṃ",
+      "translation": "“One must examine and one must see (understand) properly.”",
+      "notes": "This passage is frequently cited in discussions of scriptural interpretation because it emphasizes disciplined inquiry and direct understanding. The phrasing appears in the context of instructions for careful conduct and perception, illustrating the Jain emphasis on reflective analysis."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyagdarśana-jñāna-cāritrāṇi mokṣamārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "Although not an interpretive rule per se, this foundational sūtra guides hermeneutics: interpretations must align with the triad of right faith, knowledge, and conduct. Commentaries across sects use this verse to evaluate doctrinal coherence."
+    },
+    {
+      "title": "Niryukti Literature (e.g., Āvaśyaka Niryukti)",
+      "author": "Traditionally attributed to Bhadrabāhu",
+      "original_text": "अणुगहिउं णं विणिव्वत्तिउं",
+      "transliteration": "aṇugahiūṃ ṇaṃ viṇivvattiūṃ",
+      "translation": "“One should grasp (the meaning) and then expound it.”",
+      "notes": "Niryuktis provide early interpretive frameworks for canonical texts. They emphasize grasping core meaning before elaboration, forming the basis for later bhāṣyas and cūrṇis."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama",
+      "author": "Kundakunda tradition; compiled by Puṣpadanta and Bhūtabali",
+      "original_text": "दव्वस्स भावो पज्जाओ",
+      "transliteration": "davvassa bhāvo pajjāo",
+      "translation": "“The state of a substance is its mode.”",
+      "notes": "This technical definition is central to Digambara hermeneutics. Commentators use it to interpret metaphysical passages and resolve apparent contradictions through the doctrine of modes (paryāya) and substance (dravya)."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain scriptures provide a single, uniform interpretation of doctrines.",
+      "reality": "Jain hermeneutics recognize multiple valid perspectives (anekāntavāda). Different sects, commentaries, and linguistic traditions offer distinct yet coherent interpretations."
+    },
+    {
+      "myth": "Interpretation can rely solely on modern translations without reference to Prakrit or Sanskrit sources.",
+      "reality": "Traditional scholarship insists on grounding interpretation in verified primary texts. Translations may simplify or obscure technical meanings, making philological study essential."
+    },
+    {
+      "myth": "Commentaries are secondary and optional for understanding Jain scriptures.",
+      "reality": "Many canonical texts are highly concise. Commentaries—niryuktis, bhāṣyas, cūrṇis, and later scholastic works—are indispensable for unpacking grammar, context, and doctrinal coherence."
+    }
+  ]
+}

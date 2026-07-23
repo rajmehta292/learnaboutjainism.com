@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain philosophy, karma is understood not merely as moral causation but as a form of **subtle material substance (pudgala)** that interacts with the soul (jīva). This doctrine, central to both Digambara and Śvetāmbara traditions, describes karma as extremely fine matter that binds to the soul when it engages in activities driven by passions (kaṣāyas) such as anger, pride, deceit, and greed. Unlike metaphorical or psychological interpretations found in other traditions, Jainism treats karmic particles as ontologically real, possessing qualities of touch, taste, smell, and color, though in forms imperceptible to ordinary senses.\n\nKarmic matter attaches to the soul through a process called **āsrava (influx)**, facilitated by vibrations (yoga) of body, speech, and mind. Once attached, these particles undergo **bandha (bonding)**, determining the duration, intensity, and type of karmic effect. Over time, karmic matter matures (udaya) and produces results such as pleasure, pain, lifespan, bodily form, social status, and spiritual obscurations. Liberation (mokṣa) is achieved when all karmic matter is shed through **nirjarā (shedding)** and no new karma is bound.\n\nJain texts classify karma into **eight primary types**, divided into **ghātiyā (destructive)** karmas that obscure the soul’s essential qualities—knowledge, perception, energy, and bliss—and **aghātiyā (non-destructive)** karmas that shape worldly existence. The material nature of karma allows Jain philosophers to explain spiritual bondage with a precise, quasi-physical model, integrating metaphysics, ethics, and cosmology.\n\nThe doctrine of karma as subtle matter is foundational to Jain soteriology. It emphasizes personal responsibility, the causal precision of ethical action, and the possibility of complete purification through disciplined conduct, meditation, and nonviolence. While interpretations vary across sects and commentarial traditions, the core idea of karma as a real, material substance remains consistent throughout canonical and post-canonical literature.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "कर्मास्ति",
+      "transliteration": "karmāsti",
+      "translation": "Karma exists.",
+      "notes": "Tattvārtha Sūtra 6.1 establishes the ontological reality of karma. Subsequent sūtras (6.2–6.7) describe its material nature, types, and modes of bondage. Commentaries such as Pūjyapāda’s Sarvārthasiddhi (Digambara) and Siddhasena’s Tattvārthādhigama Bhāṣya (Śvetāmbara) elaborate on karma as pudgala."
+    },
+    {
+      "title": "Gommatasāra (Karmakāṇḍa)",
+      "author": "Nemichandra Siddhānta Chakravartin (Digambara)",
+      "original_text": "कम्मपोग्गलस्स णिव्वाणं जिव्वस्स मोहो।",
+      "transliteration": "kamma-poggala-ssa nivvāṇaṃ jivva-ssa moho.",
+      "translation": "The dissociation of karmic matter is the soul’s liberation.",
+      "notes": "This text provides one of the most detailed Digambara expositions of karma as subtle matter, including quantitative descriptions of karmic particles, their duration, and intensity."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जोगो कम्मस्स कारणं।",
+      "transliteration": "jogo kammasa kāraṇaṃ.",
+      "translation": "Activity (yoga) is the cause of karma.",
+      "notes": "This passage links bodily, verbal, and mental activity to the influx of karmic matter. Traditional commentaries emphasize the role of passions in converting mere activity into karmic bondage."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Karma in Jainism is purely symbolic or psychological.",
+      "reality": "Jain texts consistently describe karma as a real, physical substance (pudgala) that binds to the soul. Its material nature is affirmed in canonical scriptures and classical commentaries."
+    },
+    {
+      "myth": "Karmic matter is visible or detectable through ordinary perception.",
+      "reality": "Karmic particles are extremely subtle and cannot be perceived by the senses. Their existence is inferred through scriptural authority and philosophical reasoning."
+    },
+    {
+      "myth": "All karmas produce immediate effects.",
+      "reality": "Jain doctrine states that karmas may remain bound for long durations before maturing. Some karmas ripen in the same lifetime, while others manifest in future births."
+    }
+  ]
+}

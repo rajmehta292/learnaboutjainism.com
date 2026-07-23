@@ -1,0 +1,55 @@
+{
+  "overview": "Diwali, within Jain traditions, is primarily commemorated as the anniversary of **Mahavira’s nirvāṇa**—the liberation of the twenty‑fourth Tirthankara—from the cycle of rebirth. While Diwali is widely known across South Asia as a festival of lights, prosperity, and renewal, Jain communities emphasize its spiritual significance as a moment of profound liberation, ethical reflection, and scriptural remembrance.\n\nAccording to Jain canonical chronology, Mahavira attained nirvāṇa at Pāvā (Pāvāpurī) on the night of the new moon of Kārttika. This event marks the culmination of his final life, the completion of omniscience (kevala‑jñāna), and the cessation of all karmic bondage. The lighting of lamps—described in early sources—is interpreted not as a worldly celebration but as a symbolic act of sustaining the light of knowledge after the physical departure of the Jina.\n\nAcross Jain traditions (Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth), Diwali is observed through scriptural recitation, meditation, pratikramaṇa, and charitable acts. Śvetāmbara communities often associate Diwali with the composition or preservation of key texts, such as the *Dvādaśāṅgī* tradition and the finalization of *Kalpa Sūtra* recitations. Digambara communities emphasize Mahavira’s final teachings and the liberation of Gautama Gaṇadhara on the same night.\n\nThe festival thus serves as a moment of ethical renewal: laypeople reflect on ahiṃsā, aparigraha, and right conduct; families engage in peaceful gatherings; and communities remember the Jina’s final instructions. While practices vary, the unifying theme is the remembrance of nirvāṇa as the highest spiritual achievement and the illumination of right knowledge.",
+  "primary_sources": [
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "तस्स रत्तिं महावीरस्स पावाय नगरस्स अवसाणे निरवाणं पव्वइ",
+      "transliteration": "tassa rattiṃ mahāvīrassa pāvāya nagarassa avasāṇe niravāṇaṃ pavvai",
+      "translation": "“On that night, at the outskirts of the city of Pāvā, Mahavira attained nirvāṇa.”",
+      "notes": "This passage (Uttarādhyayana Sūtra 30.1) is one of the earliest canonical references to Mahavira’s liberation. Editions vary slightly in wording; the core narrative is stable across Śvetāmbara manuscripts."
+    },
+    {
+      "title": "Kalpa Sūtra",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "तेण कालवसणे महावीरस्स निरवाणं भणियं",
+      "transliteration": "teṇa kālavasane mahāvīrassa niravāṇaṃ bhaṇiyaṃ",
+      "translation": "“At the end of that time, the nirvāṇa of Mahavira is declared.”",
+      "notes": "The Kalpa Sūtra provides a structured narrative of Mahavira’s final days. Recitation during Kārttika is a Śvetāmbara practice; Digambara traditions do not use this text."
+    },
+    {
+      "title": "Hemacandra’s Triṣaṣṭiśalākāpuruṣacaritra",
+      "author": "Ācārya Hemacandra",
+      "original_text": "अन्ते कार्तिककृष्णामावास्यायां वीरः सिद्धिशिखरं जगाम",
+      "transliteration": "ante kārtika‑kṛṣṇā‑amāvāsyāyāṃ vīraḥ siddhi‑śikharaṃ jagāma",
+      "translation": "“At the end of the Kārttika dark‑moon night, Vīra ascended to the summit of liberation.”",
+      "notes": "A 12th‑century Śvetāmbara narrative text (Tier B/C). Hemacandra’s account harmonizes earlier canonical material with later scholastic tradition."
+    },
+    {
+      "title": "Tiloyapaṇṇatti",
+      "author": "Yativṛṣabha (Digambara)",
+      "original_text": "कार्तिके अमावासियं महावीरस्स मोक्षो",
+      "transliteration": "kārtike amāvāsiaṃ mahāvīrassa mokṣo",
+      "translation": "“In Kārttika, on the new‑moon night, Mahavira attained mokṣa.”",
+      "notes": "A Digambara cosmological text (Tier B). Provides calendrical confirmation of the nirvāṇa date."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Diwali is primarily a Jain festival of wealth and prosperity.",
+      "reality": "In Jainism, Diwali centers on Mahavira’s nirvāṇa and the illumination of spiritual knowledge, not material prosperity."
+    },
+    {
+      "myth": "All Jain traditions celebrate Diwali in the same way.",
+      "reality": "While the nirvāṇa theme is universal, Digambara and Śvetāmbara communities differ in liturgy, scriptural recitation, and ritual emphasis."
+    },
+    {
+      "myth": "The lighting of lamps is a later cultural borrowing from Hindu practice.",
+      "reality": "Early Jain sources explicitly mention lamps lit after Mahavira’s nirvāṇa to symbolize the continuation of knowledge in the Jina’s physical absence."
+    },
+    {
+      "myth": "Diwali marks the beginning of the Jain year everywhere.",
+      "reality": "Some Jain communities use Diwali as a calendrical marker, but this is not uniform across regions or traditions."
+    }
+  ]
+}

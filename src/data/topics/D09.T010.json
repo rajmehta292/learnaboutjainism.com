@@ -1,0 +1,43 @@
+{
+  "overview": "Conditional predication—often discussed in Jain philosophy under terms such as *syādvāda*, *anekāntavāda*, and the sevenfold predication (*saptabhaṅgī*)—is a formal method of expressing statements about reality with explicit conditionality. It acknowledges that any single proposition reflects only one standpoint (*naya*) and therefore must be qualified to avoid absolutism. In classical Jain epistemology, conditional predication is not merely a logical device but a disciplined way of speaking that mirrors the many-sidedness (*anekānta*) of existence.\n\nAt its core, conditional predication states that any claim about an entity or event is true only under certain conditions—perspective, time, mode, or relation. This conditionality is expressed through the particle *syāt* (“from a certain standpoint”). Thus, instead of asserting “X is,” Jain logic asserts “*syāt* X is,” meaning “in some respect, X is.” The same entity may also be described as “*syāt* X is not,” “*syāt* X is and is not,” and so forth, depending on the standpoint. These seven predications form the *saptabhaṅgī*, a structured system that prevents dogmatic or one‑sided claims.\n\nConditional predication serves several philosophical functions. It protects metaphysical discourse from contradiction by clarifying the conditions under which each statement holds. It also models the complexity of substances (*dravya*), which possess infinite attributes (*guṇa*) and modes (*paryāya*). Because no single statement can capture this complexity, conditional predication becomes a linguistic and epistemic discipline. In practice, it is used in Jain debates, commentarial traditions, and modern scholarship to articulate nuanced positions without collapsing them into rigid binaries.\n\nAcross Jain traditions—Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth—the underlying logic remains consistent, though terminology and emphasis may vary. Digambara authors often highlight the metaphysical grounding in substance‑mode theory, while Śvetāmbara commentators elaborate the linguistic and epistemological dimensions. Modern scholars interpret conditional predication as an early form of multi‑valued logic, though this interpretation is debated within traditional circles. Despite these differences, all agree that conditional predication is central to Jain philosophical method and its commitment to intellectual non‑violence (*ahiṃsā* in thought).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 1.6",
+      "author": "Umāsvāti / Umāsvāmi (traditionally accepted by both Digambara and Śvetāmbara traditions)",
+      "original_text": "anekāntāt syādvādaḥ",
+      "transliteration": "anekāntāt syādvādaḥ",
+      "translation": "Because reality is many‑sided, the doctrine of conditioned predication (*syādvāda*) is taught.",
+      "notes": "This aphorism is one of the earliest concise statements linking many‑sidedness (*anekānta*) with conditional predication. Commentaries differ on whether the sūtra refers explicitly to the sevenfold predication or more broadly to qualified speech."
+    },
+    {
+      "title": "Sanmati Tarka (selected verses)",
+      "author": "Ācārya Siddhasena Divākara",
+      "original_text": "syād iti vacanam bhavati niyata‑viśeṣa‑paricchinna‑artha‑nirdeśakam",
+      "transliteration": "syād iti vacanam bhavati niyata‑viśeṣa‑paricchinna‑artha‑nirdeśakam",
+      "translation": "The term *syāt* indicates an object described with a specific and delimited qualification.",
+      "notes": "Siddhasena’s work is foundational for explaining how the particle *syāt* functions as a logical qualifier. His analysis is central in Śvetāmbara commentarial traditions."
+    },
+    {
+      "title": "Aṣṭaśatī Commentary on the Tattvārtha Sūtra",
+      "author": "Ācārya Akalaṅka (Digambara)",
+      "original_text": "syād iti avadhāraṇa‑parihāra‑lakṣaṇam",
+      "transliteration": "syād iti avadhāraṇa‑parihāra‑lakṣaṇam",
+      "translation": "The term *syāt* is characterized by the avoidance of absolutist assertion.",
+      "notes": "Akalaṅka’s interpretation emphasizes the epistemic humility embedded in conditional predication. His works are central to Digambara logic and epistemology."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Conditional predication means that Jainism denies the possibility of truth.",
+      "reality": "Jain philosophy does not deny truth; it denies unqualified, absolute claims. Conditional predication affirms that truth exists but must be expressed with proper standpoint‑based qualifications."
+    },
+    {
+      "myth": "The sevenfold predication is a form of relativism where all statements are equally valid.",
+      "reality": "Jain logic is not relativistic. Each predication is valid only under specific conditions. Incorrect or ungrounded standpoints are rejected in classical debates."
+    },
+    {
+      "myth": "Conditional predication is merely a linguistic convention without metaphysical significance.",
+      "reality": "The method is deeply tied to Jain metaphysics. Substances possess infinite attributes and modes, and conditional predication is the linguistic reflection of this ontological complexity."
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "overview": "Samyama, in the Jain canonical and commentarial tradition, refers to an advanced composite discipline integrating **samyak-darśana** (right perception), **samyak-jñāna** (right knowledge), and **samyak-cāritra** (right conduct) into a unified mode of spiritual restraint and attentiveness. While the term appears across Indic traditions, Jain usage is distinct, technical, and tied to the path of liberation described in the *Ratnatraya* framework. In Jainism, samyama is not merely moral restraint but a holistic state in which the aspirant’s perception, cognition, and conduct converge to reduce karmic influx (*āsrava*) and promote karmic shedding (*nirjarā*).\n\nWithin the Śvetāmbara and Digambara traditions, samyama is treated as both a **practice** and a **state**. As a practice, it includes vigilant self-regulation of body, speech, and mind, guided by the vows (*vrata*) and sub-vows (*anuvrata*, *śīlavrata*, *caturviṃśati-stava*, etc.). As a state, it marks a significant threshold in the *guṇasthāna* ladder, especially the transition from the fourth to higher stages, where right conduct becomes increasingly purified.\n\nIn canonical texts, samyama is often linked to **saṃyama-śruta**, the scriptural knowledge concerning restraints, and **saṃyama-cāritra**, the conduct aligned with vows. Commentaries emphasize that samyama is not achieved through external austerity alone but through internal vigilance (*pratyākhyāna*), mindfulness of transgressions (*aticāra*), and continuous reflection on the nature of the soul (*ātma-anuprekṣā*). It is thus a central pillar of Jain soteriology, bridging ethical discipline and meditative insight.\n\nModern scholarship highlights that Jain samyama is a dynamic discipline: it evolves as the aspirant progresses through the *guṇasthānas*, becoming subtler and more internalized. Lay practitioners engage in partial samyama through vows and periodic restraints, while mendicants pursue complete samyama as part of their renunciatory path. Across traditions, samyama remains a key indicator of spiritual maturity, marking the aspirant’s capacity to harmonize knowledge, faith, and conduct.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (disputed between Śvetāmbara and Digambara traditions)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right perception, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "TS 1.1 establishes the triad that underlies samyama. Commentaries (e.g., Pūjyapāda’s *Sarvārthasiddhi*) explain samyama as the integrated functioning of these three, especially in higher guṇasthānas."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "सयंमगुणसम्पन्नो भिक्खू धम्मं जहस्सति",
+      "transliteration": "saṃyama-guṇa-sampanno bhikkhū dhammaṃ jahassati",
+      "translation": "The monk endowed with the qualities of restraint upholds the Dharma.",
+      "notes": "This passage (various editions around chapter 24) highlights samyama as a defining quality of mendicant life. Exact wording varies across manuscripts; the line is representative rather than universally fixed."
+    },
+    {
+      "title": "Āvaśyaka Niryukti",
+      "author": "Bhadrabāhu (traditional attribution)",
+      "original_text": "सयंमस्स तु कारणं नाणं च अरियव्वयं",
+      "transliteration": "saṃyamassa tu kāraṇaṃ ñāṇaṃ ca ariyavvayaṃ",
+      "translation": "The causes of restraint are knowledge and noble discernment.",
+      "notes": "The *Niryukti* literature provides early Prakrit interpretive verses. Variants exist; this line illustrates the linkage between knowledge and samyama."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Samyama is identical to yogic concentration found in other Indic traditions.",
+      "reality": "While the term appears in multiple traditions, Jain samyama is specifically the integrated functioning of right perception, knowledge, and conduct. It is not merely concentration but a comprehensive ethical–cognitive discipline tied to karmic theory and the guṇasthāna ladder."
+    },
+    {
+      "myth": "Samyama is achievable only by monks and nuns.",
+      "reality": "Canonical texts describe full samyama for mendicants, but laypeople practice partial samyama through vows, periodic restraints, and mindful conduct. The degree differs, but the principle applies across the fourfold community."
+    },
+    {
+      "myth": "Samyama is purely external restraint of actions.",
+      "reality": "Jain sources emphasize internal vigilance—mental restraint, awareness of transgressions, and reflection on the soul—as essential components. External restraint without internal transformation is considered incomplete."
+    }
+  ]
+}

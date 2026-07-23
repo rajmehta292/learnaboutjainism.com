@@ -1,0 +1,55 @@
+{
+  "overview": "Temple etiquette in Jainism (devakulācāra or jinālaya-ācāra) refers to the respectful conduct expected when entering, worshipping in, and departing from a Jain temple. Although practices vary among Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, and Terāpanth traditions, the underlying principles are shared: non‑violence, purity, mindfulness, and reverence for the Jina. Etiquette is not merely social convention; it is an extension of ahiṃsā and saṃyama, shaping how laypeople approach sacred spaces.\n\nCore expectations include physical cleanliness, mental composure, and avoidance of actions that may disturb others or harm living beings. Visitors typically remove footwear, avoid leather items, and refrain from bringing food into the temple. Many communities encourage bathing before entering, though allowances exist for practical circumstances. Silence or soft speech is preferred, and mobile devices are turned off. The temple is approached as a place for contemplation, not casual socializing.\n\nWithin the garbha-gṛha (inner shrine), devotees maintain awareness of the Jina’s presence as an ideal of perfected non‑attachment. Śvetāmbara Mūrti-pūjaka traditions permit pūjā with flowers, rice, sandal paste, and lamps, while Digambara temples emphasize darśana without material offerings. In both cases, touching images is regulated: Śvetāmbara traditions allow it after proper purification; Digambara temples generally prohibit touching the mūrti. Circumambulation (pradakṣiṇā) is performed clockwise, symbolizing movement toward liberation.\n\nTemple etiquette also includes ethical considerations: avoiding gossip, commercial activity, or coercive religious behavior; respecting gender and privacy norms; and ensuring that children are guided gently rather than scolded. The goal is to cultivate an environment where all beings can experience peace and spiritual upliftment.\n\nModern Jain communities emphasize accessibility and inclusivity while maintaining traditional reverence. Many temples provide guidance for newcomers, including signage explaining basic conduct. Across traditions, etiquette remains a living practice shaped by scriptural ideals, commentarial interpretation, and community consensus.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं चित्तं समणो धरे, णं चित्तं समणो धरे",
+      "transliteration": "ṇaṃ cittaṃ samaṇo dhare, ṇaṃ cittaṃ samaṇo dhare",
+      "translation": "“A monk should hold his mind in restraint; a monk should hold his mind in restraint.”",
+      "notes": "While the text addresses mendicants, commentators (tier B) note that laypeople entering sacred spaces should emulate mental restraint and mindfulness. This passage is often cited to explain why temple etiquette emphasizes quiet, focus, and non‑distraction."
+    },
+    {
+      "title": "Niśītha Sūtra (Śvetāmbara)",
+      "author": "Anonymous monastic redactors",
+      "original_text": "पवित्ते णिव्वत्ते त्थाणे णिव्वत्ते",
+      "transliteration": "pavitte nivvatte thāṇe nivvatte",
+      "translation": "“In a purified place, one should act in a purified manner.”",
+      "notes": "Used in traditional commentaries to justify rules of physical cleanliness before entering a temple and the avoidance of impure substances."
+    },
+    {
+      "title": "Mūlācāra (Digambara)",
+      "author": "Vattakera",
+      "original_text": "देवालये शुचिर्भूत्वा देवमूर्तिं निरीक्षयेत्",
+      "transliteration": "devālaye śucir bhūtvā deva-mūrtiṃ nirīkṣayet",
+      "translation": "“Having become pure, one should behold the image in the temple.”",
+      "notes": "A foundational Digambara source emphasizing purity and reverence during darśana. Commentaries clarify that purity includes non‑violence, calmness, and avoidance of disruptive behavior."
+    },
+    {
+      "title": "Pratiṣṭhā-sāroddhāra (Śvetāmbara Mūrti-pūjaka)",
+      "author": "Traditional ritual compilers",
+      "original_text": "प्रदक्षिणां कुर्यात् जिनप्रतिमायाः",
+      "transliteration": "pradakṣiṇāṃ kuryāt jina-pratimāyāḥ",
+      "translation": "“One should perform circumambulation of the Jina image.”",
+      "notes": "Frequently cited in temple manuals to explain the clockwise movement around the shrine as part of respectful conduct."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Temple etiquette is identical across all Jain traditions.",
+      "reality": "Digambara temples emphasize non‑material worship and generally prohibit touching the mūrti, while Śvetāmbara Mūrti‑pūjaka temples incorporate material pūjā. Sthānakavāsī and Terāpanth traditions do not use images at all, so etiquette focuses on meditation halls rather than mūrti‑based rituals."
+    },
+    {
+      "myth": "One must perform elaborate rituals to show respect in a Jain temple.",
+      "reality": "The essential requirement is ahiṃsā‑centered mindfulness: cleanliness, quietness, and reverence. Elaborate rituals are optional and tradition‑specific."
+    },
+    {
+      "myth": "Children should not be brought to temples because they may disturb others.",
+      "reality": "Most Jain communities encourage families to bring children, guiding them gently in appropriate conduct. The goal is education, not exclusion."
+    },
+    {
+      "myth": "Temple etiquette is purely cultural and has no scriptural basis.",
+      "reality": "Primary texts emphasize purity, restraint, and reverence in sacred spaces. Later commentaries and ritual manuals systematize these principles into practical guidelines."
+    }
+  ]
+}

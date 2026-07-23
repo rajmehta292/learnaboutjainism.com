@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, **anger (krodha)** is one of the four primary passions (kaṣāyas) that bind the soul to saṃsāra. It is treated not merely as an emotion but as a deep-seated defilement that distorts perception, obstructs right knowledge, and fuels karmic bondage. Across both Digambara and Śvetāmbara traditions, anger is consistently described as a destabilizing force that disrupts equanimity (samatā), compassion (dayā), and nonviolence (ahiṃsā). \n\nJain philosophers classify anger into degrees—from momentary irritation to destructive rage—each producing different karmic consequences. In the technical karma literature, anger is linked especially to the **ghātiyā karmas**, those that obscure the soul’s innate qualities of infinite knowledge, perception, bliss, and energy. The Tattvārtha Sūtra and its commentaries emphasize that anger arises from attachment to one's own views, possessions, or ego, and that its cessation is essential for progress through the fourteen stages of spiritual development (guṇasthānas). \n\nEthically, anger is understood as a form of subtle violence. Even when not expressed physically, it harms oneself and others through intention, speech, and mental agitation. Lay practice manuals advise cultivating patience (kṣamā), humility (mārdava), and careful speech (bhāṣā-gupti) as antidotes. Monastic texts prescribe deeper meditative disciplines to dissolve the underlying passions. \n\nHistorically, Jain teachers have treated anger as both a psychological and spiritual obstacle. While acknowledging its presence in ordinary life, they insist that its transformation—not suppression through force but dissolution through awareness and restraint—is central to the Jain path. Modern interpreters often highlight the resonance between Jain analyses of anger and contemporary understandings of emotional regulation, though traditional sources remain the foundation for any interpretation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra 7.3",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "क्रोधमानमायालोभाः कषायाः",
+      "transliteration": "krodha-māna-māyā-lobhāḥ kaṣāyāḥ",
+      "translation": "Anger, pride, deceit, and greed are the passions.",
+      "notes": "A foundational definition of the four kaṣāyas. Commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi) explain that anger is the most destabilizing because it immediately disrupts right conduct and obstructs equanimity."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 29.17",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जो कोहि कोधं कुहेइ, सो अवस्सं दुहं कुहेइ.",
+      "transliteration": "jo kohi kodhaṃ kuhei, so avassaṃ duhaṃ kuhei.",
+      "translation": "Whoever gives rise to anger certainly gives rise to suffering.",
+      "notes": "This verse links anger directly to duḥkha (suffering), emphasizing its immediate karmic and psychological consequences."
+    },
+    {
+      "title": "Daśavaikālika Sūtra 8.36",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "कोधो जहा अगिसमाओ, सो जहा जलेइ जिवं.",
+      "transliteration": "kodho jahā agisamāo, so jahā jalei jivaṃ.",
+      "translation": "Anger is like fire; it burns the soul.",
+      "notes": "A metaphor frequently cited in Jain ethics. Commentators note that anger consumes merit and obstructs spiritual clarity."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara), Karma-prakṛti discussion",
+      "author": "Kundakunda lineage (compiled by later Digambara scholars)",
+      "original_text": "कषायसमुदये घातिकर्मबन्धः.",
+      "transliteration": "kaṣāya-samudaye ghātikarma-bandhaḥ",
+      "translation": "With the rise of passions, destructive karmas are bound.",
+      "notes": "Although not specifying anger alone, Digambara karma theory consistently treats anger as the most intense of the kaṣāyas, producing the heaviest ghātiyā karmas."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that all anger must be suppressed immediately and completely.",
+      "reality": "Primary texts emphasize gradual reduction, not forced suppression. Anger is dissolved through awareness, restraint, and cultivation of equanimity. Sudden repression can itself become a form of inner violence."
+    },
+    {
+      "myth": "Anger is only a moral issue, not a karmic one.",
+      "reality": "Jain karma theory treats anger as a major cause of ghātiyā karmas. It is both an ethical and metaphysical obstacle, affecting the soul’s knowledge, perception, and bliss."
+    },
+    {
+      "myth": "Only monks are required to eliminate anger.",
+      "reality": "Laypeople are also instructed to reduce anger according to their capacity. Texts like the Ratnakaraṇḍa Śrāvakācāra outline practical steps for householders to manage anger without unrealistic expectations."
+    }
+  ]
+}

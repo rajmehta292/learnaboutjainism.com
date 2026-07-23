@@ -1,0 +1,39 @@
+{
+  "overview": "Artificial intelligence (AI) refers to a broad field of computer science focused on creating systems capable of performing tasks that typically require human cognitive abilities. These tasks include learning from data, recognizing patterns, making decisions, understanding language, and adapting to new information. AI encompasses a wide range of methods, from symbolic logic systems to statistical learning models and neural networks.\n\nHistorically, AI emerged in the mid‑20th century as researchers sought to formalize reasoning and problem‑solving. Over time, the field expanded to include machine learning, where systems improve performance through exposure to data rather than explicit programming. Modern AI includes deep learning, natural language processing, computer vision, robotics, and reinforcement learning. These technologies enable applications such as automated translation, medical image analysis, autonomous vehicles, and conversational agents.\n\nAI raises philosophical, ethical, and societal questions. These include concerns about bias, transparency, accountability, labor displacement, and the boundaries between human and machine cognition. Jain philosophical perspectives—while not historically addressing AI—offer relevant ethical frameworks emphasizing non‑harm (ahiṃsā), careful attention to consequences, and humility regarding the limits of knowledge. These perspectives can inform modern discussions about responsible AI development without asserting religious authority or prescribing binding rules.\n\nIn contemporary research, AI is understood not as a sentient or conscious entity but as a collection of computational techniques. It does not possess emotions, moral agency, or spiritual qualities. Instead, AI systems operate through mathematical optimization, statistical inference, and pattern recognition. Their capabilities and limitations depend entirely on human design, training data, and evaluation methods.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "ज्ञानं च दर्शनं च चारित्रं च तपश्चैव।",
+      "transliteration": "jñānaṃ ca darśanaṃ ca cāritraṃ ca tapaś caiva",
+      "translation": "Knowledge, perception, conduct, and austerity are [the means].",
+      "notes": "This foundational Jain text (Tier A) does not discuss artificial intelligence, but its treatment of knowledge (jñāna) and perception (darśana) provides a philosophical backdrop for evaluating human–machine cognition. AI systems do not possess jñāna in the Jain sense, which requires a conscious soul (jīva). The passage is included to clarify that any discussion of AI within Jain frameworks must distinguish computational processes from spiritually grounded forms of knowledge."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "सव्वे पाणा अहिंसा।",
+      "transliteration": "savve pāṇā ahiṃsā",
+      "translation": "All living beings should not be harmed.",
+      "notes": "This passage (Tier A) is cited to contextualize ethical reflections on AI. While AI itself is not a living being, its deployment can affect living beings. Jain ethics emphasize minimizing harm, which can guide discussions about AI safety, fairness, and societal impact without implying religious authority over technological decisions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Artificial intelligence is conscious or possesses a soul.",
+      "reality": "AI systems do not have consciousness, subjective experience, or a jīva. They operate through algorithms and data processing, not through awareness or spiritual faculties."
+    },
+    {
+      "myth": "AI can make morally correct decisions on its own.",
+      "reality": "AI does not have moral agency. Its outputs reflect human-created data, design choices, and constraints. Ethical responsibility remains with human developers and users."
+    },
+    {
+      "myth": "AI will inevitably surpass human control and dominate society.",
+      "reality": "While AI can be powerful, its behavior is bounded by human programming, oversight, and regulatory frameworks. Risks arise from misuse or poor design, not inherent autonomy."
+    },
+    {
+      "myth": "AI can replace human spiritual or philosophical inquiry.",
+      "reality": "AI can analyze texts or assist research, but it cannot engage in spiritual practice, moral cultivation, or experiential insight. These remain uniquely human endeavors."
+    }
+  ]
+}

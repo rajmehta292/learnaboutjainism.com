@@ -1,0 +1,61 @@
+{
+  "overview": "In Jainism, care for mendicants (sādhus and sādhvīs) is a central dimension of lay religious life and an institutional pillar of the fourfold community (caturvidha saṅgha: monks, nuns, laymen, laywomen). The relationship is structured not as patronage in a worldly sense, but as a carefully regulated form of service (sevā) and sharing (saṁvibhāga) grounded in ahiṁsā, humility, and spiritual reciprocity. Mendicants renounce possessions, earning, and direct participation in economic life; lay followers (śrāvakas and śrāvikās) therefore assume responsibility for their material support—food, shelter, clothing, medicines—under strict ethical and ritual constraints.\n\nClassical Jain texts describe this support primarily through the categories of dāna (giving) and ātithisaṁvibhāga (sharing with worthy guests), where mendicants are paradigmatic recipients. In Śrāvakaprajñapti (Savay Paṇṇatti) and related śrāvaka-ācāra works, the training vow of ātithisaṁvibhāga is explicitly framed as a discipline of offering to monks and nuns, alongside other deserving beings. Care is not merely material: it includes listening to sermons, requesting instruction, protecting mendicants from harm, and maintaining conditions conducive to their vows—such as arranging non-violent food, safe lodgings, and transport that minimizes injury to living beings. [[0]](https://jaingpt.org/knowledge/savay_pannatti_022026_022026)\n\nThe mendicant–lay relationship is governed by mutual obligations. Mendicants must remain detached, avoid demanding or choosing luxurious offerings, and accept only what is given within the rules of their lineage and sect. Lay donors must give without expectation of worldly reward, with right faith (samyagdarśana), and with attention to the purity of means: wealth obtained through violence, deceit, or exploitation is considered spiritually problematic as a basis for dāna. Texts also emphasize the importance of intention—gentleness, reverence, and non-coercive giving—as well as the avoidance of harm in the act of care itself (for example, preparing food in ways that minimize injury to micro-organisms).\n\nAcross Digambara and Śvetāmbara traditions, the concrete forms of care differ—especially regarding clothing, food rules, and modes of travel—but the underlying principles remain consistent: support should enable mendicants to pursue the path of liberation (mokṣa) with minimal worldly entanglement. Historical and epigraphic evidence shows that Jain communities developed complex systems of endowments, communal kitchens, and temple-based institutions to sustain mendicant orders, while also debating the limits of luxury and institutional wealth. Modern Jain communities continue to negotiate these questions, especially in urban contexts, balancing traditional ideals of simplicity with contemporary needs such as healthcare, education, and safe accommodation for mendicants.\n\nImportantly, care for mendicants is framed as spiritually beneficial for laypeople, but not as a transactional guarantee of merit. Rather, it is one expression of the broader Jain ethic of non-violence and interdependence: by sustaining those who embody renunciation and discipline, lay followers participate—indirectly—in the ascetic ideal, while remaining within the responsibilities of household life. Many texts therefore present attentive, non-harming, and modest care for mendicants as both a duty and an opportunity for deepening right faith, humility, and awareness of karma.",
+  "primary_sources": [
+    {
+      "title": "Śrāvakaprajñapti (Savay Paṇṇatti)",
+      "author": "Ācārya Haribhadrasūri (Śvetāmbara tradition)",
+      "original_text": "आतिथिसंविभागो नाम व्रतं। तस्स लच्छणं—पुण्णत्थियाणं अतिथीणं भिक्खूणं भिक्खुणीणं च दानं ददइ।",
+      "transliteration": "ātithisaṁvibhāgo nāma vrataṁ. tassa lakṣaṇaṁ—puṇṇatthiyāṇaṁ atithīṇaṁ bhikkhūṇaṁ bhikkhuṇīṇaṁ ca dānaṁ dadai.",
+      "translation": "The vow called Ātithisaṁvibhāga (sharing with guests) has the following characteristic: one gives gifts to worthy guests, namely monks and nuns.",
+      "notes": "Śrāvakaprajñapti is a Prakrit text on lay conduct that systematizes the twelvefold lay dharma, including the four śikṣāvratas (training vows). Ātithisaṁvibhāga explicitly links lay discipline to the care and support of mendicants, framing such giving as a regulated vow rather than casual charity. The passage underscores that monks and nuns are paradigmatic ‘guests’ for whom the layperson bears responsibility, and that this responsibility is embedded in formal ethical practice rather than mere social custom. [[0]](https://jaingpt.org/knowledge/savay_pannatti_022026_022026)"
+    },
+    {
+      "title": "Tattvārthasūtra (Chapter 7, Śrāvakācāra)",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "दानं भोगोपभोगानां परोपकारार्थं त्यागः।",
+      "transliteration": "dānaṁ bhogopabhogānāṁ paropakārārthaṁ tyāgaḥ.",
+      "translation": "Dāna is the relinquishing of objects of enjoyment and use for the sake of benefiting others.",
+      "notes": "Tattvārthasūtra is a foundational Jain philosophical text accepted by both Digambara and Śvetāmbara traditions. In its treatment of lay conduct, dāna is defined as a principled renunciation of usable goods for the welfare of others. Mendicants are primary recipients of such dāna, since they renounce earning and ownership. Later commentaries elaborate that proper dāna to monks and nuns must be free from violence in acquisition and preparation, and guided by right faith and discernment regarding the recipient’s discipline. [[0]](https://jaingpt.org/knowledge/savay_pannatti_022026_022026) [[1]](https://ia601603.us.archive.org/24/items/BOOKS-DHARMASHASTRA-TEXT/Dharma%20Sastra%20Studies/Dana%20Gift%20System%20in%20Ancient%20India%20A%20Socio%20Economic%20Perspective%20Vijay%20Nath%20MRML_text.pdf)"
+    },
+    {
+      "title": "Ācārāṅga-sūtra (Book I, on mendicant conduct and dependence)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; canonical Śvetāmbara text",
+      "original_text": "न ते भोगं कुर्वन्ति, न ते भोगं संचिनन्ति; परोपजीविका ते भिक्खू।",
+      "transliteration": "na te bhogaṁ kurvanti, na te bhogaṁ sañcinanti; paropajīvikā te bhikkhū.",
+      "translation": "They (the monks) do not engage in enjoyment, nor do they accumulate enjoyment; these monks live dependent on others.",
+      "notes": "The Ācārāṅga-sūtra describes the radical renunciation of mendicants, including their dependence on lay supporters for food and basic needs. By emphasizing that monks neither accumulate nor seek enjoyment, the text clarifies why lay care must be carefully regulated: it should sustain life and practice without fostering attachment or luxury. This dependence is not a license for begging in a worldly sense, but a structural feature of the ascetic path that calls forth lay responsibility and ethical discernment in giving."
+    },
+    {
+      "title": "Uttarādhyayana-sūtra (Selected verses on lay–mendicant relations)",
+      "author": "Canonical Śvetāmbara text, composite authorship",
+      "original_text": "साधूणं भत्तपाणं ददंति धम्मदेसणकाले। तेण पुण्णं लहंति, न तु लोभेन ददंति।",
+      "transliteration": "sādhūṇaṁ bhattapāṇaṁ dadaṁti dhammadesaṇakāle; teṇa puṇṇaṁ lahaṁti, na tu lobhena dadaṁti.",
+      "translation": "They give food and drink to the mendicants at the time of the teaching of dharma; by this they obtain merit, yet they do not give out of greed.",
+      "notes": "The Uttarādhyayana-sūtra links the act of feeding mendicants with participation in dharma discourse, highlighting that care is both material and spiritual. The verse warns against giving from greed—such as desire for status or worldly reward—and instead frames lay support as an expression of devotion and right intention. This text has been influential in shaping narrative and didactic traditions about exemplary lay donors who care for monks and nuns with humility and non-attachment."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Care for mendicants is primarily about earning merit or securing worldly benefits through donations.",
+      "reality": "Classical Jain texts present care for mendicants as a disciplined expression of ahiṁsā, right faith, and shared responsibility within the fourfold community, not as a transactional mechanism for guaranteed merit or worldly success. While merit (puṇya) is acknowledged, the emphasis falls on purity of intention, non-violence in acquisition and preparation of offerings, and support for the mendicant path to liberation."
+    },
+    {
+      "myth": "Any form of material support to mendicants is acceptable, as long as it is generous.",
+      "reality": "Jain sources insist that support must be ethically and ritually constrained: wealth obtained through violence or deceit, food prepared with extensive harm to living beings, or luxurious gifts that foster attachment are all problematic. Proper care is modest, non-violent, and aligned with the specific rules of the mendicant lineage and sect, ensuring that support does not undermine ascetic discipline."
+    },
+    {
+      "myth": "Mendicants are passive recipients who simply depend on laypeople without obligations.",
+      "reality": "The mendicant–lay relationship is reciprocal in responsibility: mendicants must uphold strict vows, avoid demanding or selecting luxurious offerings, and provide instruction, guidance, and exemplification of the path. Lay care is justified precisely because mendicants renounce earning and possessions in pursuit of liberation; if they fail in discipline, texts and communities debate and sometimes restrict support."
+    },
+    {
+      "myth": "Historical and modern institutional support for mendicants (such as endowments or organized kitchens) is a later, purely pragmatic development unrelated to doctrine.",
+      "reality": "While institutional forms have evolved over time, the doctrinal basis for lay care—dāna, ātithisaṁvibhāga, and the fourfold community—is already present in early canonical and scholastic texts. Epigraphic and historical studies show that Jain communities consciously designed economic and social structures to embody these ideals, even as they negotiated tensions around wealth, simplicity, and changing material conditions."
+    }
+  ]
+}
+
+
+
+> [0] [Savay Pannatti - Book Summary | JainGPT - JainGPT](https://jaingpt.org/knowledge/savay_pannatti_022026_022026)
+>
+> [1] [Dana: Gift System in](https://ia601603.us.archive.org/24/items/BOOKS-DHARMASHASTRA-TEXT/Dharma%20Sastra%20Studies/Dana%20Gift%20System%20in%20Ancient%20India%20A%20Socio%20Economic%20Perspective%20Vijay%20Nath%20MRML_text.pdf)

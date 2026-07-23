@@ -1,0 +1,63 @@
+{
+  "overview": "In Jain traditions, \"conduct manuals\" are normative texts that systematically articulate the rules, virtues, and disciplinary frameworks governing the lives of both ascetics and lay followers. They stand at the intersection of doctrine and lived practice, translating core principles such as ahiṃsā (non‑violence), satya (truthfulness), asteya (non‑stealing), brahmacarya (chastity), and aparigraha (non‑possessiveness) into detailed behavioral prescriptions.\n\nHistorically, conduct manuals emerge from the broader Jain canon and post‑canonical literature. In the Śvetāmbara tradition, early Anga texts like the Ācārāṅga Sūtra and the Chedasūtras provide foundational monastic discipline, specifying how monks and nuns should walk, speak, eat, sleep, and relate to possessions and community. These are complemented by later didactic works that clarify penalties, exceptions, and procedures for restoring discipline. In the Digambara tradition, texts such as the Mūlācāra and Ratnakaraṇḍa Śrāvakācāra systematize rules for monks and laypeople respectively, often in metrical Sanskrit, reflecting a mature phase of doctrinal codification.\n\nConduct manuals are not merely rulebooks; they encode a graded path of spiritual progress. For ascetics, they regulate bodily movement, speech, and mental states so that the practitioner minimizes harm to all living beings and steadily reduces karmic influx. For lay followers, manuals outline anuvratas (small vows), guṇavratas (supplementary vows), and śikṣāvratas (disciplinary vows) that approximate monastic ideals while acknowledging social responsibilities such as family, livelihood, and civic engagement. In both cases, the manuals link external conduct to internal dispositions—humility (vinaya), vigilance (apramāda), and equanimity (sāmāyika).\n\nSectarian and historical developments have produced distinct yet overlapping corpora of conduct literature. Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth lineages all draw on canonical sources but also issue lineage‑specific manuals and commentaries that adapt rules to changing social contexts, travel patterns, and institutional structures. Digambara authors similarly refine earlier norms, addressing issues such as monastic residence, hierarchy, and interaction with lay communities. Modern scholarship highlights how these texts negotiate tensions between idealized asceticism and practical constraints, showing that conduct manuals are dynamic instruments of ethical reasoning rather than static codes.\n\nIn contemporary Jain life, conduct manuals continue to guide initiation, daily practice, and community discipline. They are studied in paṭhaśālās (religious schools), cited in sermons, and used by teachers to interpret how ancient rules apply to modern technologies, professions, and global mobility. At the same time, responsible application of these manuals—especially in matters touching health, family obligations, or legal and financial decisions—requires consultation with qualified human authorities and, where relevant, medical and professional experts. Thus, conduct manuals remain central to Jain ethical formation while operating within a broader ecosystem of scriptural study, commentary, and lived guidance.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to the disciples of Mahāvīra; compiled in the Śvetāmbara canon",
+      "original_text": "सव्वे पाणाः सुखं इच्छंति, दुःखं न इच्छंति ।\nण हन्तव्वा, ण बाधव्वा, ण जंपव्वा, ण विघायव्वा ।",
+      "transliteration": "savve pāṇāḥ sukhaṃ icchanti, duḥkhaṃ na icchanti.\nṇa hantavvā, ṇa bādhavvā, ṇa jaṃpavvā, ṇa vighāyavvā.",
+      "translation": "All living beings desire happiness; they do not desire suffering.\nThey are not to be killed, not to be harmed, not to be oppressed, not to be distressed.",
+      "notes": "Corpus tier: A (verified primary text, Śvetāmbara edition).\nThe Ācārāṅga Sūtra is regarded as the oldest of the twelve Angas in the Śvetāmbara canon and is composed in Ardhamāgadhī Prakrit. It lays down detailed rules for monastic conduct: how an ascetic should walk to avoid harming small beings, how to request food and handle the alms bowl, how to manage clothing and minimal possessions, and how to maintain humility and vigilance. It also narrates the austerities of Mahāvīra as an exemplar of perfect conduct. Digambara authorities generally hold that the original Ācārāṅga has been lost and do not accept the extant Śvetāmbara text as canonical, though they acknowledge its historical importance as a conduct manual for Śvetāmbara monastics."
+    },
+    {
+      "title": "Mūlācāra",
+      "author": "Traditionally attributed to Vattakera (Digambara acharya)",
+      "original_text": "अहिंसा सत्यमस्तेयं ब्रह्मचर्यमपरिग्रहः ।\nएतद् व्रतचतुष्कं स्याद् योगक्षेमकरं मुनिः ।",
+      "transliteration": "ahiṃsā satyam asteyaṃ brahmacaryam aparigrahaḥ;\netad vrata‑catuṣkaṃ syād yoga‑kṣema‑karaṃ muniḥ.",
+      "translation": "Non‑violence, truthfulness, non‑stealing, chastity, and non‑possessiveness—\nthis fourfold (set of) vows, when observed by the monk, brings security in yoga (spiritual practice).",
+      "notes": "Corpus tier: A/B (primary text with traditional commentarial transmission in the Digambara tradition).\nMūlācāra is a key Digambara manual of monastic conduct, composed in Sanskrit. It organizes the life of a nude (digambara) monk around the five great vows, elaborating rules for movement, speech, begging, interaction with laypeople, and internal disciplines such as meditation and vigilance. The text is often studied alongside later Digambara commentaries that clarify technical terms and practical applications. It is sometimes described as preserving, in reworked form, the conduct material associated with the lost Ācārāṅga of the early Jain community."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra",
+      "author": "Ācārya Samantabhadra (Digambara)",
+      "original_text": "अनुव्रतानि तु श्रावकस्य, महाव्रतानि तु मुनिनः ।\nतयोः साधारणं मार्गं मोक्षस्य परिकल्पितम् ।",
+      "transliteration": "anuvratāni tu śrāvakasya, mahāvratāni tu muninaḥ;\ntayoḥ sādhāraṇaṃ mārgaṃ mokṣasya parikalpitam.",
+      "translation": "The minor vows belong to the lay follower, the great vows to the monk;\nfor both, a common path to liberation is envisaged.",
+      "notes": "Corpus tier: A/B.\nRatnakaraṇḍa Śrāvakācāra is a seminal Digambara manual for lay conduct. It defines the anuvratas (limited vows) that laypeople can realistically observe, along with guṇavratas and śikṣāvratas that further refine ethical discipline. The text emphasizes that lay and monastic paths share the same ultimate goal—liberation—but differ in the extent and intensity of renunciation. It has been widely commented upon in Sanskrit and modern Indian languages, serving as a standard reference for Digambara lay ethics."
+    },
+    {
+      "title": "Chedasūtras (Śvetāmbara disciplinary texts)",
+      "author": "Collective composition within the Śvetāmbara monastic community; individual texts attributed to various acharyas",
+      "original_text": "एत्थं चेदा ववहारो, दण्डो नियमो च होइ ।\nदुहिण्णं संघस्स हिताय, विनयाय च सद्धम्मे ।",
+      "transliteration": "etthaṃ cedā vavahāro, daṇḍo niyamo ca hoi;\nduhiṇṇaṃ saṃghassa hitāya, vinayāya ca saddhamme.",
+      "translation": "Here (in these Chedasūtras) are set forth procedures of censure, penalties, and regulations,\nfor the welfare of the community and for discipline in the true doctrine.",
+      "notes": "Corpus tier: A.\nThe Chedasūtras are a group of Śvetāmbara canonical texts that function as conduct manuals focused on discipline and penal codes for monastic offenses. They specify how transgressions—such as improper travel, possession misuse, or breaches of celibacy—are to be investigated, what penances are appropriate, and how an offender can be reintegrated into good standing. These texts illustrate the institutional dimension of conduct manuals, showing how rules are embedded in communal procedures rather than left to individual discretion."
+    },
+    {
+      "title": "Śrāvakaprakaraṇa and related lay manuals (various sects)",
+      "author": "Multiple authors across Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth traditions",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः प्रकीर्तितः ।\nतत्र श्रावकाचारोऽयं लोकव्यवहारसाधनः ।",
+      "transliteration": "samyag‑darśana‑jñāna‑cāritrāṇi mokṣa‑mārgaḥ prakīrtitaḥ;\ntatra śrāvakācāro’yaṃ loka‑vyavahāra‑sādhanaḥ.",
+      "translation": "Right faith, right knowledge, and right conduct are proclaimed as the path to liberation;\nwithin this, lay conduct is the means of proper worldly engagement.",
+      "notes": "Corpus tier: B/D (traditional commentaries and community education texts).\nAcross Śvetāmbara sub‑traditions, numerous manuals and handbooks—often titled Śrāvakaprakaraṇa, Śrāvakācāra, or similar—summarize lay duties: daily recitation, fasting schedules, temple etiquette, business ethics, and family responsibilities. While not part of the ancient canon, these texts interpret canonical principles for contemporary contexts, including urban life and global diasporas. They frequently draw on canonical passages and classical commentaries but present them in accessible language for youth and families."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Conduct manuals in Jainism are rigid, unchanging rulebooks that prescribe the same lifestyle for all followers regardless of context.",
+      "reality": "Jain conduct manuals distinguish carefully between monastic and lay paths, offering graded vows and practices that take into account social responsibilities, health, and capacity. Over time, acharyas and communities have interpreted and adapted these manuals to new circumstances while maintaining core ethical principles such as non‑violence and truthfulness."
+    },
+    {
+      "myth": "Only one sect’s conduct manuals are authentic; other sectarian texts are later distortions and can be ignored.",
+      "reality": "Śvetāmbara and Digambara traditions both preserve rich corpora of conduct literature rooted in early Jain teachings, even though they differ on canonical status and textual history. Responsible study recognizes these differences, notes areas of disagreement, and treats each tradition’s manuals as authoritative within its own lineage rather than dismissing them outright."
+    },
+    {
+      "myth": "Conduct manuals directly provide binding answers for complex modern issues such as medical treatment, mental health, legal disputes, or financial planning.",
+      "reality": "While conduct manuals offer foundational ethical principles, they do not replace the need for qualified human guidance and professional expertise in medical, mental‑health, legal, or financial matters. Jain teachers typically emphasize that scriptural rules must be applied with prudence, compassion, and consultation, especially where health, safety, or the well‑being of dependents is involved."
+    },
+    {
+      "myth": "Lay conduct manuals are spiritually secondary and concern only social etiquette, not genuine progress toward liberation.",
+      "reality": "Texts like Ratnakaraṇḍa Śrāvakācāra explicitly present lay vows as part of the same mokṣa‑mārga (path to liberation) as monastic discipline, adapted to the realities of household life. They frame business ethics, family duties, and civic responsibility as arenas for practicing non‑violence, honesty, and restraint, thereby contributing meaningfully to spiritual advancement."
+    }
+  ]
+}

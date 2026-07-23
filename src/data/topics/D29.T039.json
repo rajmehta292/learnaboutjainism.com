@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, a \"publication series\" (often called granthamālā, pustakamālā, or series in English) is a structured, ongoing set of printed or digital volumes issued under a common editorial vision, title, and numbering system. In the Jain context, such series have been crucial for preserving canonical āgamas, commentarial literature, philosophical treatises, narrative texts, and modern scholarship in a coherent, accessible form. They function as bridges between manuscript culture and contemporary research libraries, allowing students, lay readers, and scholars to locate texts reliably and to trace editorial lineages.\n\nHistorically, Jain publication series emerged in the late nineteenth and early twentieth centuries, when printing presses in Ahmedabad, Bombay, Jaipur, Benares, and other centers began to collaborate with monks, pandits, and lay patrons. Series such as the \"Singhi Jain Granthmala\" (सिंघी जैन ग्रन्थमाला) and \"Sanatan Jain Granth Mala\" organized critical editions of Sanskrit and Prakrit works, often with introductions, indices, and cross-references that made complex textual traditions navigable for new audiences.\n\nA typical Jain publication series has several defining features: a stable series title; a numbered list of volumes; a clear publisher or sponsoring institution; and an editorial board or named editor responsible for textual decisions. Many series also specify the sectarian or philosophical orientation of the texts they publish—for example, Digambara-oriented philosophical treatises, Śvetāmbara narrative literature, or cross-sectarian historical documents. This structure helps readers understand the context and intended audience of each volume.\n\nInstitutional series—such as those associated with the L. D. Institute of Indology in Ahmedabad—often focus on critical editions and research monographs, while community-based series may emphasize devotional literature, biographies of monks and nuns, or practical guides for lay conduct. Together, these series form a layered ecosystem: primary texts, traditional commentaries, and modern academic studies are all made available in curated sequences that reflect both historical continuity and contemporary concerns.\n\nIn modern times, many Jain publication series have been digitized and made available through online libraries and archives. This has extended their reach beyond regional and linguistic boundaries, allowing global readers to access rare volumes that were once confined to specialized collections. At the same time, the series format continues to matter: even in digital catalogs, the series title and volume number remain key metadata for identifying editions, tracking textual variants, and citing sources accurately.\n\nFor students of Jainism, understanding publication series is not merely a bibliographic exercise. It is a way of recognizing how authority, tradition, and scholarship are mediated through editorial choices, funding patterns, and institutional priorities. Knowing which series produced a given edition—whether a community granthamālā or an academic series—helps readers evaluate the text’s reliability, sectarian framing, and intended use, and encourages consultation of multiple editions when studying doctrinally sensitive or historically complex works.",
+  "primary_sources": [
+    {
+      "title": "जैन तर्क भाषा (Jaina Tarka Bhāṣā)",
+      "author": "Yashovijaya (Yaśovijaya)",
+      "original_text": "जैन तर्क भाषा",
+      "transliteration": "Jaina Tarka Bhāṣā",
+      "translation": "The Language of Jain Logic",
+      "notes": "This work by the Śvetāmbara scholar-monk Yaśovijaya is a key text on Jain logic and epistemology. A notable modern edition was published within the Singhi Jain Granthmala series in Ahmedabad, with Sukhlalji Sanghavi as editor. The series context signals a focus on critical scholarship and careful textual preparation, and the catalog entry identifies it explicitly as part of a Jain religious and philosophical series."
+    },
+    {
+      "title": "Sanatan Jain Granth Mala (Series)",
+      "author": "Various Jain authors; edited and published by Shri Yut Lal Jain and others",
+      "original_text": "सनातन जैन ग्रन्थमाला",
+      "transliteration": "Sanātana Jaina Granthamālā",
+      "translation": "Eternal Jain Text Series",
+      "notes": "The Sanatan Jain Granth Mala is an early twentieth-century publication series that issued Sanskrit Jain texts from Benares and other centers. A 1914 volume preserved in digital form illustrates the series’ role in bringing classical Jain works into print with standardized pagination and catalog data. The series title itself appears on title pages and library records, marking the volumes as part of a coherent granthamālā dedicated to Jain scriptural and philosophical literature."
+    },
+    {
+      "title": "Singhi Jain Granthmala (Series)",
+      "author": "Various authors; series associated with Jinavijaya Muni and other editors",
+      "original_text": "सिंघी जैन ग्रन्थमाला",
+      "transliteration": "Singhī Jaina Granthamālā",
+      "translation": "Singhi Jain Text Series",
+      "notes": "The Singhi Jain Granthmala is a major Śvetāmbara-oriented publication series that has issued numerous critical editions of Jain texts, including narrative works like Prabandha-cintāmaṇi, historical compilations, and philosophical treatises. Library records and digitized volumes show the series title prominently, along with volume numbers and editorial information. As a curated series, it has significantly shaped access to Jain literature for both traditional scholars and modern researchers, and is frequently cited in academic work on Jainism."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain texts in a publication series are canonical scriptures of equal authority.",
+      "reality": "A Jain publication series typically includes a mix of materials: canonical āgamas (where recognized by a given tradition), sub-commentaries, philosophical treatises, narrative literature, and modern scholarly studies. The series label does not itself confer scriptural authority; it simply indicates editorial and publishing continuity. Readers must still distinguish between primary canonical texts, traditional commentaries, and contemporary research when assessing doctrinal weight."
+    },
+    {
+      "myth": "If a text appears in a respected Jain series, its edition is always definitive and beyond question.",
+      "reality": "Even highly respected series can contain editorial decisions, typographical errors, or sectarian framing that later scholarship revises or questions. Critical editions may be superseded by new manuscript discoveries or improved philological methods. The presence of a text in a series is an important indicator of care and context, but it does not eliminate the need to compare editions, consult manuscripts where possible, and read editorial introductions critically."
+    },
+    {
+      "myth": "Publication series are only of interest to librarians and have little relevance for ordinary Jain readers.",
+      "reality": "For lay practitioners, students, and teachers, knowing the series in which a text appears can clarify its orientation, level of technicality, and intended audience. Devotional collections, youth-oriented series, and academic granthamālās often differ in language, commentary style, and doctrinal depth. Recognizing these differences helps readers choose appropriate materials for study and practice, and encourages informed engagement with both traditional and modern Jain literature."
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "overview": "Kannada is a major Dravidian language spoken predominantly in the Indian state of Karnataka and in adjoining regions of Andhra Pradesh, Tamil Nadu, Maharashtra, Goa, and Kerala. It has a documented literary history of more than one and a half millennia, with inscriptions attested from at least the 5th–6th centuries CE and continuous manuscript traditions from the 9th century onward. Kannada is written in its own script, derived from the southern Brahmi family, and has developed a rich array of prose and poetic forms, meters, and stylistic registers. Linguistically, scholars usually distinguish three broad phases: Old Kannada (c. 450–1200 CE), Middle Kannada (c. 1200–1700 CE), and Modern Kannada (c. 1700–present), each associated with characteristic phonological, morphological, and literary features.\n\nFrom a Jain perspective, Kannada occupies a special place as one of the earliest and most sustained vehicles for Jain religious, philosophical, and narrative expression in South India. Between roughly the 9th and 12th centuries, Kannada literary culture was dominated by Jain authors, patronized by ruling dynasties such as the Western Ganga, Rashtrakuta, Chalukya, Hoysala, and Yadava kings. During this period, Kannada was not merely a vernacular adjunct to Sanskrit and Prakrit; it became a language in which major Jain narratives, ethical treatises, and even commentaries on foundational scriptures were composed. Traditional accounts speak of extensive Kannada commentaries on the Digambara canonical text Ṣaṭkhaṇḍāgama, including the monumental Cūdāmaṇi, suggesting that by the early centuries of the Common Era, Jain teachers in Karnataka were already using Kannada to transmit doctrinal material to monastic and lay audiences.\n\nThe classical Jain contribution to Kannada literature is visible in several genres. Courtly mahākāvya-style works such as Pampa’s \"Ādipurāṇa\" and \"Vikramārjuna Vijaya\" (10th century) retell pan-Indian epic and purāṇic narratives through a Jain lens, emphasizing nonviolence, restraint, and the spiritual trajectory of the Tīrthaṅkaras and exemplary heroes. Ponna’s \"Śāntipurāṇa\" and Ranna’s \"Gadāyuddha\" continue this tradition, combining ornate poetics with ethical reflection. Champū (mixed prose and verse) compositions, narrative charitas (biographical legends), and didactic works further broadened the Jain Kannada corpus. Even when the subject matter drew on widely known stories, the framing, characterization, and moral emphasis often foregrounded Jain metaphysics—karma, guṇasthāna (spiritual stages), and the ideal of liberation.\n\nFrom the 12th century onward, the rise of Vīraśaiva (Liṅgāyat) vacana literature and later Vaiṣṇava devotional movements reshaped the Kannada literary landscape, reducing Jain dominance but not erasing Jain voices. Jain authors continued to write in Kannada, sometimes engaging in subtle contestation with emerging Śaiva and Vaiṣṇava discourses. Texts like Vṛttavilāsa’s \"Dharmaparīkṣe\" (c. 14th century) show a Jain writer using both Kannada and Sanskrit to articulate Jain ethical positions, reclaiming Sanskrit as a vehicle for Jain thought while addressing a Kannada-reading audience. In this way, Kannada functioned as a bridge language—linking local communities, regional courts, and pan-Indian Jain scholastic traditions.\n\nIn modern times, Kannada remains an important language for Jain communities in Karnataka and beyond. Contemporary Jain scholars, teachers, and community organizations produce Kannada works on doctrine, ethics, history, and children’s education, often drawing on classical texts while responding to current social and ethical questions. Kannada Jain literature today includes commentaries on canonical texts, retellings of Tīrthaṅkara lives, introductions to karma theory, and reflections on nonviolence, environmental responsibility, and interreligious coexistence. For students of Jainism, Kannada offers a window into how Jain ideas were localized, translated, and creatively reimagined over centuries, and how they continue to be articulated in a living regional language.\n\nAt the same time, Kannada is not exclusively a Jain language; it is shared by speakers of many religious traditions—Hindu, Muslim, Christian, Buddhist, and others. The Jain strand is one among several, but historically it has been foundational in shaping early literary norms, genres, and aesthetic ideals. Understanding Kannada in a Jain study context therefore involves both appreciating the depth of Jain contributions and recognizing the broader, plural literary ecology in which those contributions emerged.",
+  "primary_sources": [
+    {
+      "title": "Kavirajamarga",
+      "author": "Traditionally attributed to King Nṛipatunga Amoghavarṣa I (Rashtrakuta dynasty)",
+      "original_text": "ಕವಿರಾಜಮಾರ್ಗೋಯಂ ಕರ್ಣಾಟಭಾಷಾಸು ಸುಂದರೀ।",
+      "transliteration": "kavirājamārgo ayaṁ karṇāṭa-bhāṣāsu sundarī",
+      "translation": "This is the royal path of poets; in the Kannada language it is beautiful.",
+      "notes": "Composed around the mid-9th century CE, \"Kavirajamarga\" is the earliest extant treatise on poetics in Kannada. While not exclusively Jain, it reflects a literary environment in which Jain poets were prominent and mentions earlier Kannada authors, many of whom were Jains. The work establishes standards for poetic composition, discusses regional dialects, and affirms the aesthetic value of Kannada alongside Sanskrit and Prakrit. For Jain studies, it is a key source for understanding the early status of Kannada as a refined literary medium in which Jain narratives and doctrines could be expressed."
+    },
+    {
+      "title": "Ādipurāṇa (Kannada version)",
+      "author": "Ādikavi Pampa",
+      "original_text": "ಆದಿನಾಥನ ಮಹಿಮೆಯು ಲೋಕದೊಳಗೆ ಲಘುವಲ್ಲ।",
+      "transliteration": "ādināthana mahimeyu lōkadoḷage laghuvalla",
+      "translation": "The glory of Ādinātha is not small in this world.",
+      "notes": "Pampa’s \"Ādipurāṇa\" (10th century CE) is a landmark Jain mahākāvya in Kannada, narrating the life of the first Tīrthaṅkara, Ṛṣabhanātha (Ādinātha). Drawing on earlier Sanskrit and Prakrit Jain sources, Pampa adapts the story into sophisticated Kannada verse, integrating courtly aesthetics with Jain ethical and metaphysical themes. The text exemplifies how Kannada became a vehicle for high Jain literature, presenting doctrinal material—such as the nature of right faith, right knowledge, and right conduct—through narrative and poetic imagery accessible to regional audiences."
+    },
+    {
+      "title": "Śāntipurāṇa (also called Purāṇa Cūdāmaṇi)",
+      "author": "Ponna",
+      "original_text": "ಶಾಂತಿನಾಥನ ಚರಿತೆಯು ಶಾಂತಿಯ ಮಾರ್ಗವನು ಬೋಧಿಸುತಿ।",
+      "transliteration": "śāntināthana cariteyu śāntiya mārgavanu bōdhisuti",
+      "translation": "The life-story of Śāntinātha teaches the path of peace.",
+      "notes": "Ponna, a prominent 10th-century Jain poet, composed \"Śāntipurāṇa\" in Kannada, focusing on the sixteenth Tīrthaṅkara Śāntinātha. The work is known for its elegant style and doctrinal depth, often described as \"Purāṇa Cūdāmaṇi\" (the crest-jewel of purāṇas). It illustrates Jain ideals such as nonviolence, detachment, and the progression through spiritual stages, while contributing to the development of Kannada narrative and poetic conventions. For students of Jainism, it shows how Tīrthaṅkara biographies were localized in Kannada and used for ethical instruction."
+    },
+    {
+      "title": "Gadāyuddha",
+      "author": "Ranna",
+      "original_text": "ಭೀಮನ ಗದಾಯುದ್ಧವು ಧರ್ಮವಿಚಾರಕೆ ದಾರಿಯಾಯಿತು.",
+      "transliteration": "bhīmana gadāyuddhavu dharma-vicārake dāriyāyitu",
+      "translation": "Bhīma’s mace-battle became a path for reflection on dharma.",
+      "notes": "\"Gadāyuddha\" (c. 10th–11th century CE) by the Jain poet Ranna is a Kannada retelling of a single episode from the Mahābhārata—the mace duel between Bhīma and Duryodhana. Although the narrative is drawn from a pan-Indian epic, Ranna’s treatment infuses the story with Jain ethical concerns, highlighting the consequences of anger, pride, and violence. The text is important for understanding how Jain authors used Kannada to reinterpret widely known narratives, subtly redirecting the moral focus toward Jain values while contributing to the evolution of Kannada epic style."
+    },
+    {
+      "title": "Dharmaparīkṣe (Investigation of Dharma)",
+      "author": "Vṛttavilāsa",
+      "original_text": "ಧರ್ಮಪರೀಕ್ಷೆಯಿಂ ಧರ್ಮವನು ತತ್ತ್ವತಃ ತಿಳಿಯಬೆಕೆಂದು ಹೇಳಿದೆನು।",
+      "transliteration": "dharmaparīkṣeyim dharmavanu tattvataḥ tiḷiyabekendu hēḷidenu",
+      "translation": "In the Investigation of Dharma, I have said that one must know dharma in its true nature.",
+      "notes": "Composed around the 14th century CE, \"Dharmaparīkṣe\" is a Jain Kannada work that engages with questions of ethical conduct and religious identity in a context where Jain literary dominance had waned. Vṛttavilāsa employs both Kannada and Sanskrit verses, reclaiming Sanskrit as a Jain medium while addressing a Kannada-reading audience. The text is significant for showing the continued vitality of Jain Kannada literature after the rise of Vīraśaiva and other movements, and for illustrating how Jain authors used Kannada to articulate doctrinal positions and negotiate their place within a changing religious landscape."
+    },
+    {
+      "title": "Cūdāmaṇi (Kannada commentary on Ṣaṭkhaṇḍāgama, traditional account)",
+      "author": "Tumbuluru Ācārya (traditional attribution)",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "Traditional Jain accounts describe a massive Kannada commentary called \"Cūdāmaṇi\" on the first five sections (khaṇḍas) of the Digambara canonical text \"Ṣaṭkhaṇḍāgama,\" attributed to Tumbuluru Ācārya and said to comprise eighty-four thousand granthas (verses or lines). Although the text itself is not extant and details rely on later reports, its existence—along with references to other early Kannada commentaries—indicates that Kannada was used very early for serious doctrinal exposition, not only for narrative or devotional literature. For Jain studies, these traditions highlight the role of Kannada as a language of scriptural interpretation and monastic education in Karnataka, even if the primary sources are now largely lost."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Kannada developed only as a secular or courtly language and has little connection with Jain religious literature.",
+      "reality": "Historical evidence shows that Jain authors were central to the early development of Kannada literature, producing major narrative, poetic, and doctrinal works between the 9th and 12th centuries. Kannada was used not only for courtly poetry but also for Tīrthaṅkara biographies, ethical treatises, and even commentaries on foundational Jain scriptures, making it a significant language for Jain religious expression."
+    },
+    {
+      "myth": "Jain contributions to Kannada ended completely with the rise of Vīraśaiva vacana literature in the 12th century.",
+      "reality": "While Jain dominance in Kannada literary culture declined after the rise of Vīraśaiva and later Vaiṣṇava movements, Jain authors continued to write in Kannada in subsequent centuries. Works like Vṛttavilāsa’s \"Dharmaparīkṣe\" demonstrate ongoing Jain engagement with Kannada, including sophisticated use of both Kannada and Sanskrit to articulate Jain doctrine and respond to changing religious and social contexts."
+    },
+    {
+      "myth": "Kannada Jain texts simply translate Sanskrit or Prakrit works without adding anything distinctive.",
+      "reality": "Many Kannada Jain works are creative retellings rather than literal translations. Authors such as Pampa, Ponna, and Ranna adapt pan-Indian narratives and doctrinal themes into Kannada, reshaping characterization, plot emphasis, and ethical framing to speak to local audiences. In doing so, they develop distinctive Kannada literary forms and styles while conveying Jain metaphysics and ethics in ways that are not reducible to their Sanskrit or Prakrit sources."
+    },
+    {
+      "myth": "Studying Jainism through Kannada is only relevant for regional history and has no bearing on broader Jain philosophy.",
+      "reality": "Kannada Jain literature is deeply engaged with core Jain philosophical concepts—karma, guṇasthāna, right faith, right knowledge, and right conduct—often embedding them in narrative and poetic forms. For students of Jainism, Kannada sources illuminate how these concepts were interpreted, taught, and lived in a specific regional context, enriching our understanding of Jainism’s diversity and historical development across the Indian subcontinent."
+    }
+  ]
+}

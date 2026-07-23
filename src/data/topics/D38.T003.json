@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain ontology, “three‑sensed beings” (trīndriya‑jīva) form one of the canonical categories in the progressive hierarchy of embodied life. Jainism classifies living beings according to the number of senses they possess, ranging from one-sensed (ekendriya) to five-sensed (pañcendriya). Three-sensed beings occupy the middle tier of this structure and are defined as organisms endowed with **touch (sparśa)**, **taste (rasa)**, and **smell (ghrāṇa)**. They lack sight and hearing, which belong to higher-sensed beings.\n\nAcross Śvetāmbara and Digambara traditions, three-sensed beings are consistently described as a distinct class of mobile organisms, typically including **ants, lice, and certain small insects**. Their sensory capacities allow them to navigate environments more complexly than two-sensed beings (worms, leeches) but far less than four- or five-sensed beings.\n\nThe classification is not merely biological; it is karmic and ethical. Jain texts use sensory gradation to explain the increasing complexity of karmic bondage, mental states, and potential for intentional action. Three-sensed beings possess a more developed capacity for movement, feeding, and avoidance of harm, which implies a corresponding karmic structure. In ethical practice, recognizing the presence of three-sensed beings helps laypeople and monastics avoid inadvertent violence (hiṃsā), especially in contexts such as food storage, cleaning, and agriculture.\n\nHistorically, Jain philosophers used this category to articulate a non-anthropocentric worldview: all life, regardless of size or visibility, is endowed with consciousness (cetanā) and deserves non-harm. Modern scholarship notes that this classification reflects both ancient Indian natural observation and a metaphysical commitment to universal sentience.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (shared across traditions)",
+      "original_text": "त्रेन्द्रियाः स्पर्शरसघ्राणवन्तः",
+      "transliteration": "trēndriyāḥ sparśa‑rasa‑ghrāṇa‑vantaḥ",
+      "translation": "“Three-sensed beings possess touch, taste, and smell.”",
+      "notes": "Tattvārtha Sūtra 2.13 provides the canonical definition of three-sensed beings. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārthādhigama Bhāṣya* (Śvetāmbara) elaborate that ants and similar creatures fall into this category."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "ते त्रेन्द्रियाः—पिपीलिका इत्यादयः",
+      "transliteration": "tē trēndriyāḥ—pipīlikā ityādayaḥ",
+      "translation": "“These are three-sensed beings—such as ants and others.”",
+      "notes": "This passage appears in didactic sections listing beings by sensory capacity. Manuscript traditions vary; the phrasing is stable across major Śvetāmbara editions."
+    },
+    {
+      "title": "Praśnavyākaraṇa",
+      "author": "Canonical Śvetāmbara text",
+      "original_text": "स्पर्शरसघ्राणेन्द्रिययुक्ता त्रेन्द्रियाः",
+      "transliteration": "sparśa‑rasa‑ghrāṇēndriya‑yuktā trēndriyāḥ",
+      "translation": "“Three-sensed beings are those endowed with the senses of touch, taste, and smell.”",
+      "notes": "Used in monastic education to teach sensory-based classification of jīvas. Provides examples of small insects and arthropods."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Three-sensed beings are defined by modern biological taxonomy.",
+      "reality": "Jain classification is phenomenological and karmic, not biological. It groups beings by sensory faculties, not evolutionary lineage."
+    },
+    {
+      "myth": "Three-sensed beings are insignificant in ethical practice because they are small.",
+      "reality": "Jain ethics emphasizes non-harm to all jīvas. Three-sensed beings have more complex behavior and thus more ways to be harmed inadvertently, making awareness of them essential in daily conduct."
+    },
+    {
+      "myth": "All insects are three-sensed beings.",
+      "reality": "Jain texts classify insects across multiple categories. Some are two-sensed, some three-sensed, some four-sensed, and some five-sensed depending on their sensory capacities."
+    }
+  ]
+}

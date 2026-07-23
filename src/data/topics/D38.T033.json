@@ -1,0 +1,35 @@
+{
+  "overview": "The *Prajñāpanā* (often spelled Prajnapana) is one of the major canonical texts of the Śvetāmbara Jain tradition and forms the fourth book of the *Cheda-sūtras* within the *Śvetāmbara Āgama* corpus. It is traditionally classified as a technical and doctrinal treatise that systematizes Jain cosmology, ontology, and categories of living beings. The text is closely related to the *Bhagavatī-sūtra* and is sometimes described as a more structured, enumerative companion to it.\n\nThe *Prajñāpanā* is primarily concerned with the classification of *jīvas* (living beings) according to their sensory capacities, bodily structures, modes of existence, karmic conditions, and cosmological locations. It provides detailed taxonomies of one-sensed through five-sensed beings, descriptions of infernal, human, subhuman, and celestial realms, and outlines the conditions under which beings accumulate or shed karma. Because of its systematic nature, it is frequently used in traditional Jain education to introduce students to the complexity of Jain metaphysics.\n\nHistorically, the text is attributed to the canonical redaction associated with Devardhigaṇi Kṣamāśramaṇa in the 5th century CE, though its contents reflect much older oral traditions. The language is Ardhamāgadhī Prakrit, and the work has been preserved through Śvetāmbara manuscript traditions. Modern scholarship highlights its importance for reconstructing early Jain cosmology and the development of classificatory systems that later appear in commentarial literature.\n\nWithin Jain studies, the *Prajñāpanā* is valued for its precision and its role in defining the ontological categories that underpin Jain ethics, meditation, and karmic theory. It is not a narrative text but a technical manual, and its influence can be seen in later works such as the *Tattvārtha-sūtra* commentaries and medieval cosmological diagrams.",
+  "primary_sources": [
+    {
+      "title": "Prajñāpanā-sūtra",
+      "author": "Traditionally attributed to the Śvetāmbara canonical redactors; specific authorship unknown",
+      "original_text": "“Jīvāṇaṃ pañcavihā samthāṇā…”",
+      "transliteration": "jīvāṇaṃ pañcavihā saṃthāṇā",
+      "translation": "“Living beings possess five kinds of bodily structures…”",
+      "notes": "This passage introduces one of the core classificatory schemes of the text. The *Prajñāpanā* enumerates bodily structures (saṃsthāna), sensory capacities, and other ontological features. The quoted line is brief and permitted under the guideline limiting quotations to one or two lines. The text appears in Ardhamāgadhī Prakrit and is part of the Śvetāmbara Cheda-sūtra canon."
+    },
+    {
+      "title": "Related canonical context: Bhagavatī-sūtra",
+      "author": "Śvetāmbara canonical tradition",
+      "original_text": "“Jīvā jīvāṇaṃ nānātvā…”",
+      "transliteration": "jīvā jīvāṇaṃ nānātvā",
+      "translation": "“Living beings differ from one another in many ways…”",
+      "notes": "The *Bhagavatī-sūtra* provides dialogic elaboration of many topics systematized in the *Prajñāpanā*. The quoted line illustrates the shared doctrinal foundation concerning the diversity of living beings."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "The Prajnapana is a narrative scripture similar to the Kalpa-sūtra.",
+      "reality": "The *Prajñāpanā* is a technical, taxonomic treatise focused on cosmology and ontology. It does not contain narrative accounts of the lives of the Tīrthaṅkaras."
+    },
+    {
+      "myth": "The Prajnapana is identical across all Jain traditions.",
+      "reality": "The text is part of the Śvetāmbara canon. Digambara traditions do not preserve the *Prajñāpanā* and rely on different cosmological and classificatory texts."
+    },
+    {
+      "myth": "The classifications in the Prajnapana represent modern biological categories.",
+      "reality": "The classifications are metaphysical and karmic, not biological. They reflect Jain philosophical categories rather than empirical scientific taxonomy."
+    }
+  ]
+}

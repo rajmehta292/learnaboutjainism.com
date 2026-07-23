@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain thought, sexual ethics is grounded in the broader framework of ahiṃsā (non‑violence), brahmacarya (chastity), and careful regulation of desire. Jain traditions treat sexuality as a powerful domain of attachment (parigraha) that can generate karmic influx (āsrava) when driven by passion (kaṣāya). For monastics, sexual abstinence is absolute, forming one of the five mahāvratas. For laypeople, sexual conduct is regulated through the aṇuvratas, which permit marital sexuality but require fidelity, restraint, and avoidance of harm.\n\nAcross Digambara and Śvetāmbara traditions, sexual ethics is not framed as moral judgment of desire itself but as a disciplined approach to minimize harm, exploitation, and mental agitation. Classical texts emphasize that sexual misconduct often involves deception, coercion, or emotional injury—forms of subtle violence. Thus, Jain sexual ethics is both behavioral and psychological: it concerns actions, intentions, and the cultivation of equanimity.\n\nThe tradition also recognizes household life (gṛhastha) as a legitimate path when practiced with moderation. Sexuality within marriage is accepted, but excessive indulgence is discouraged because it strengthens passions, increases attachment, and distracts from spiritual progress. The ethical ideal is mindful, consensual, and non‑harmful conduct that supports mutual responsibility and avoids exploitation.\n\nModern Jain communities interpret these principles in diverse ways. Some emphasize traditional norms of fidelity and restraint; others explore contemporary issues such as consent, gender equality, and digital ethics through the lens of ahiṃsā and aparigraha. Across interpretations, the core remains: sexuality must be approached with awareness, responsibility, and a commitment to minimizing harm.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "ब्रह्मचर्यविरतिः",
+      "transliteration": "brahmacarya‑viratiḥ",
+      "translation": "Abstinence from sexual activity.",
+      "notes": "Tattvārtha Sūtra 7.1 lists brahmacarya as one of the five vows. For monastics, this means complete celibacy; for laypeople, commentaries (e.g., Pūjyapāda’s Sarvārthasiddhi) interpret it as marital fidelity and restraint."
+    },
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Attributed to Mahāvīra’s disciples",
+      "original_text": "एगं इहं एगं तहं, नाणं चित्तं सरीरं च विणिवेज्जा।",
+      "transliteration": "egaṃ ihaṃ egaṃ tahaṃ, nāṇaṃ cittaṃ sarīraṃ ca viṇivejjā.",
+      "translation": "One should be the same here and there, controlling knowledge, mind, and body.",
+      "notes": "While not exclusively about sexuality, this passage (Ācārāṅga Sūtra I.5) is cited in discussions of self‑control, including sexual restraint. The text emphasizes vigilance over bodily and mental actions."
+    },
+    {
+      "title": "Ratnakaraṇḍa Śrāvakācāra",
+      "author": "Samantabhadra",
+      "original_text": "परस्त्रीगमनं चौर्यं हिंसा मद्यपानमेव च। पञ्चैते महापापानि गृहस्थस्य विवर्जयेत्॥",
+      "transliteration": "parastrīgamanaṃ cauryaṃ hiṃsā madyapānameva ca; pañcaite mahāpāpāni gṛhasthasya vivarjayet.",
+      "translation": "Adultery, theft, violence, and intoxication are five great sins that a householder must avoid.",
+      "notes": "This Digambara lay‑conduct text explicitly identifies adultery (parastrīgamana) as a major transgression, linking sexual misconduct with harm and loss of self‑control."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जोगं जोगं विणिवेज्जा, जोगं जोगं समायरे।",
+      "transliteration": "jogaṃ jogaṃ viṇivejjā, jogaṃ jogaṃ samāyare.",
+      "translation": "Restrain each activity; regulate each activity.",
+      "notes": "Commentaries apply this principle to sexual conduct, emphasizing moderation and mindfulness for laypeople."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism teaches that sexuality is inherently sinful.",
+      "reality": "Primary texts do not label sexuality itself as sinful. Harmful sexual conduct—coercion, deceit, adultery, or passion-driven behavior—is considered a source of violence and attachment. Marital sexuality is permitted for laypeople."
+    },
+    {
+      "myth": "All Jains must practice complete celibacy.",
+      "reality": "Complete celibacy is required only for monastics under the mahāvratas. Laypeople follow aṇuvratas, which allow marital relations but prohibit adultery and encourage restraint."
+    },
+    {
+      "myth": "Jain sexual ethics is uniform across all sects.",
+      "reality": "Core principles are shared, but Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth traditions differ in emphasis, commentary, and practical guidance. All, however, root sexual ethics in ahiṃsā and self‑discipline."
+    }
+  ]
+}

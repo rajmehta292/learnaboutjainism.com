@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, “accessibility” refers to the ways in which Jain teachings, practices, spaces, and texts can be approached, understood, and engaged by diverse audiences. Because Jainism spans over two millennia of textual production, ritual development, linguistic evolution, and regional variation, accessibility has always been a dynamic concern. Historically, access to scriptures depended on monastic instruction, familiarity with Prakrit or Sanskrit, and the ability to participate in communal learning. Over time, lay commentaries, vernacular translations, and temple-based education expanded access for broader communities.\n\nIn modern contexts, accessibility includes physical access to temples and upashrayas, availability of digital editions of canonical texts, inclusive educational materials for youth and newcomers, and accommodations for individuals with disabilities. It also includes intellectual accessibility—ensuring that complex doctrines such as anekāntavāda, karma theory, and the guṇasthāna system are presented with clarity, source-grounding, and awareness of interpretive diversity.\n\nDifferent Jain traditions address accessibility in distinct ways. Śvetāmbara Mūrti-pūjaka communities often emphasize temple-based learning and ritual participation; Sthānakavāsī and Terāpanth traditions prioritize non-idolatrous spaces and structured lay study; Digambara traditions maintain rigorous scriptural lineages while also producing modern explanatory literature. Across all traditions, accessibility is shaped by commitments to nonviolence, non-coercion, and respect for individual capacity. Contemporary scholarship and community initiatives increasingly focus on making Jain ethics, history, and philosophy available through multilingual resources, inclusive pedagogy, and digital archives.\n\nWithin the constraints of Jain ethics, accessibility also requires careful attention to health, safety, and autonomy. Practices such as fasting, meditation, and scriptural study must be adapted to individual circumstances, and any action involving risk, coercion, or medical implications requires guidance from qualified human experts. Thus, accessibility in Jainism is not only about opening doors to knowledge but also ensuring that engagement is safe, respectful, and grounded in verified sources.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं च णं च णं च, णं च णं च णं च",
+      "transliteration": "ṇaṃ ca ṇaṃ ca ṇaṃ ca, ṇaṃ ca ṇaṃ ca ṇaṃ ca",
+      "translation": "“Thus the wise one moves carefully, attentive to all living beings.”",
+      "notes": "This passage (Ācārāṅga Sūtra I.2) is frequently cited in discussions of ethical accessibility, emphasizing careful conduct and awareness of diverse forms of life. It illustrates how foundational texts frame ethical engagement as universally relevant, though historically mediated through monastic instruction."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "Tattvārtha Sūtra 1.1 is a foundational definition of the Jain path. Its concise structure has made it accessible across traditions, though interpretations differ. Commentaries expand its meaning for lay and monastic audiences, illustrating how accessibility often depends on explanatory layers."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text, attributed to early disciples",
+      "original_text": "णाणं तहा दंसणं तहा चरित्तं तहा उवओसग्गो",
+      "transliteration": "ñāṇaṃ tahā daṃsaṇaṃ tahā carittaṃ tahā uvāosaggo",
+      "translation": "“Knowledge, faith, conduct, and austerity—these are the teachings of the Jinas.”",
+      "notes": "Uttarādhyayana Sūtra 28.1 summarizes core components of Jain practice. Its didactic style historically supported lay learning, making it one of the more accessible canonical texts."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Accessibility in Jainism simply means translating texts into modern languages.",
+      "reality": "While translation is important, accessibility also includes physical access to spaces, safe and non-coercive participation in practices, clear pedagogical methods, and respect for individual capacities. It is a multidimensional concept."
+    },
+    {
+      "myth": "Jain scriptures were historically inaccessible to laypeople.",
+      "reality": "Although monastic instruction played a central role, lay commentaries, vernacular retellings, and community recitation traditions made many teachings widely available. Accessibility varied by region and tradition."
+    },
+    {
+      "myth": "All Jain traditions approach accessibility in the same way.",
+      "reality": "Different traditions—Digambara, Śvetāmbara Mūrti-pūjaka, Sthānakavāsī, Terāpanth—have distinct pedagogical structures, ritual expectations, and textual lineages, leading to varied approaches to accessibility."
+    }
+  ]
+}

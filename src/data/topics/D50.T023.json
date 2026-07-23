@@ -1,0 +1,27 @@
+{
+  "overview": "Persistent URLs (PURLs) are stable, long‑lasting web addresses designed to reliably point to digital resources even when the underlying location of those resources changes. Unlike ordinary URLs, which often break when websites are reorganized or servers are updated, PURLs act as durable identifiers. They achieve this by separating the identifier from the actual resource location: the PURL resolves to a managed record that can be updated over time, ensuring that the link remains functional.\n\nThe concept emerged in the 1990s as part of broader efforts to address link rot and ensure long-term accessibility of digital materials, especially in libraries, archives, and scholarly repositories. PURLs are commonly used by institutions that maintain digital collections, where stable citation and reliable access are essential. When a resource moves, the PURL’s target can be updated without changing the identifier itself, preserving continuity for users and citations.\n\nTechnically, a PURL is a redirect mechanism managed by a resolver service. The resolver stores metadata about the resource and its current location. When a user accesses the PURL, the resolver forwards the request to the correct URL. This architecture allows institutions to maintain control over identifiers and ensure that references in academic literature, catalogs, and digital preservation systems remain valid over decades. PURLs complement other persistent identifier systems such as DOIs, Handles, and ARKs, each with its own governance model and technical design.",
+  "primary_sources": [
+    {
+      "title": "No applicable Jain primary text",
+      "author": "N/A",
+      "original_text": "",
+      "transliteration": "",
+      "translation": "",
+      "notes": "The topic 'Persistent URLs' is a modern digital preservation concept and does not appear in Jain canonical or commentarial literature. Included here to satisfy the required JSON structure."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "A persistent URL never changes its target location automatically.",
+      "reality": "A PURL can be updated by administrators to point to a new resource location, ensuring the identifier remains stable even when the underlying URL changes."
+    },
+    {
+      "myth": "PURLs and DOIs are the same system.",
+      "reality": "While both are persistent identifiers, PURLs rely on a redirect service managed by an institution, whereas DOIs operate within a global registration and metadata infrastructure."
+    },
+    {
+      "myth": "Using a PURL guarantees permanent preservation of the resource.",
+      "reality": "A PURL ensures stable access to the resource’s location, but it does not guarantee that the resource itself will be preserved unless the hosting institution maintains it."
+    }
+  ]
+}

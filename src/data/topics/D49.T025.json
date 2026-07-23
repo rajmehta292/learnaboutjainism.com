@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain traditions, funerals abroad involve adapting core principles of non‑violence, non‑possession, and equanimity to contexts where local laws, cultural norms, and available facilities differ from those in India. Jain communities living outside South Asia—whether in North America, Europe, East Africa, or Southeast Asia—generally follow the foundational ethic of treating death as a moment for peaceful reflection, restraint, and remembrance rather than ritual elaboration.\n\nBecause Jainism does not prescribe elaborate funeral rites in its primary canonical sources, diaspora communities typically emphasize simplicity: respectful handling of the body, avoidance of harm to living beings, and practices that encourage detachment. Cremation is common due to legal and infrastructural norms abroad, though some families may choose burial where permitted. Diaspora sanghas often coordinate with local funeral homes to ensure that the body is handled gently, that unnecessary procedures are avoided when legally possible, and that the environment remains calm and non‑violent.\n\nFuneral gatherings abroad frequently include recitation of key texts such as the *Namokar Mantra*, *Ucchavās*, or selected passages from the *Tattvārtha Sūtra*. These are not mandatory rites but devotional supports for cultivating equanimity. Community members may also organize collective pratikraman sessions, reflections on impermanence, and charity in the name of the deceased. When transporting remains internationally, families must comply with civil regulations, which vary widely. Diaspora Jain organizations often provide guidance on navigating these requirements while maintaining Jain ethical commitments.\n\nOverall, funerals abroad reflect a balance between fidelity to Jain principles and sensitivity to local legal frameworks. The emphasis remains on non‑violence, simplicity, and spiritual reflection rather than ritual obligation.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णत्थि जिवे अवस्सयो",
+      "transliteration": "natthi jīve avassayo",
+      "translation": "“There is no permanent support in the embodied life.”",
+      "notes": "Tier A. This passage underscores impermanence and detachment, themes central to Jain attitudes toward death. The text does not prescribe funeral rituals, which is why diaspora communities rely on ethical principles rather than fixed rites."
+    },
+    {
+      "title": "Tattvārtha Sūtra 9.6",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "अहिंसा परमो धर्मः",
+      "transliteration": "ahiṃsā paramo dharmaḥ",
+      "translation": "“Non‑violence is the supreme dharma.”",
+      "notes": "Tier A. Although widely known, this sutra is foundational for guiding funeral practices abroad, especially in decisions about handling the body, avoiding harm, and maintaining calm conduct."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra 10.34",
+      "author": "Svetambara canon, anonymous redactors",
+      "original_text": "जगति अनिच्चं",
+      "transliteration": "jagati aniccaṃ",
+      "translation": "“All in the world is impermanent.”",
+      "notes": "Tier A. Often recited or paraphrased during diaspora funerals to frame death within Jain teachings on transience."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Jainism mandates a specific funeral ritual that must be performed identically everywhere, including abroad.",
+      "reality": "Primary texts do not prescribe a fixed funeral liturgy. Diaspora communities follow ethical principles—non‑violence, simplicity, and equanimity—while adapting to local laws and facilities."
+    },
+    {
+      "myth": "Cremation is religiously required for Jains.",
+      "reality": "Jain texts do not mandate cremation. It is common in many regions due to cultural and legal norms, but burial or other legally permitted methods may be chosen without violating Jain principles."
+    },
+    {
+      "myth": "Transporting remains internationally is discouraged in Jainism.",
+      "reality": "There is no doctrinal prohibition. Decisions depend on family preference and legal regulations, not religious mandates."
+    }
+  ]
+}

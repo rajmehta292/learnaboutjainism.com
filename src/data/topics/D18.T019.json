@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, “Dharma contemplation” refers to sustained, disciplined reflection on the nature of reality, ethical conduct, and liberation as taught in the canonical and commentarial literature. It is not a single practice but a family of contemplative modes that integrate scriptural study (*svādhyāya*), meditative recollection (*bhāvanā*), and ethical discernment (*viveka*). Across Digambara and Śvetāmbara lineages, dharma contemplation is framed as a lay and monastic discipline that stabilizes right worldview (*samyag‑darśana*) and supports progress through the *guṇasthānas*.\n\nClassical sources describe contemplation as a bridge between knowledge and conduct. The *Tattvārtha Sūtra* (TS 9.27) lists twelve reflections (*dvādaśa‑bhāvanā*)—impermanence, helplessness, the cycle of rebirth, solitude of the soul, and others—as central contemplative themes. Digambara manuals such as the *Ṣaṭkhaṇḍāgama* commentarial tradition emphasize analytic reflection on the soul’s bondage by karmic matter, while Śvetāmbara works like the *Daśavaikālika Sūtra* highlight ethical vigilance and mindfulness of vows.\n\nIn practice, dharma contemplation includes: (1) recollection of core metaphysical categories (*tattvas*), (2) reflection on vows and restraints, (3) meditation on karmic processes, and (4) contemplation of the qualities of liberated beings. These modes are not merely intellectual; they are intended to reshape perception, reduce passions (*kaṣāyas*), and cultivate equanimity (*samatā*). Modern Jain teachers often present dharma contemplation as a daily discipline for laypeople, integrated with household responsibilities and non‑violent living.\n\nBecause Jainism contains multiple interpretive lineages, the structure and emphasis of dharma contemplation vary. Digambara authors often stress karmic ontology and the soul’s pure nature, while Śvetāmbara Mūrti‑pūjaka sources highlight ritual contexts and scriptural recitation. Sthānakavāsī and Terāpanth traditions emphasize non‑iconic, introspective reflection grounded in *anuprekṣā* and moral vigilance. Despite these differences, all traditions agree that dharma contemplation is a foundational practice for stabilizing right faith, reducing delusion, and orienting the practitioner toward liberation.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अनित्यत्वानुप्रेक्षा",
+      "transliteration": "anityatvā’nuprekṣā",
+      "translation": "“Contemplation on impermanence.”",
+      "notes": "TS 9.27 lists the twelve contemplations (*dvādaśa‑bhāvanā*). Editions vary slightly in wording. This aphorism anchors reflection on the transient nature of embodied existence."
+    },
+    {
+      "title": "Daśavaikālika Sūtra",
+      "author": "Śvetāmbara canonical text; author traditionally unknown",
+      "original_text": "धम्मो धारणो विणयो",
+      "transliteration": "dhammo dhāraṇo viṇayo",
+      "translation": "“Dharma is restraint and humility.”",
+      "notes": "Used in Śvetāmbara traditions to frame contemplation on ethical discipline. The text links dharma with internal qualities rather than external markers."
+    },
+    {
+      "title": "Samayasāra (Digambara)",
+      "author": "Ācārya Kundakunda",
+      "original_text": "धम्मो णिज्जो सुद्धो",
+      "transliteration": "dhammo nijjo suddho",
+      "translation": "“True dharma is the pure nature of the self.”",
+      "notes": "A central Digambara text emphasizing contemplative insight into the soul’s intrinsic purity. Interpretations differ between commentarial traditions."
+    },
+    {
+      "title": "Uttarādhyayana Sūtra",
+      "author": "Śvetāmbara canonical text; author traditionally unknown",
+      "original_text": "एवं धम्मं अनुपस्सइ",
+      "transliteration": "evaṃ dhammaṃ anupassai",
+      "translation": "“Thus one contemplates dharma.”",
+      "notes": "Appears in verses describing the monk’s reflective discipline. The term *anupasyana* (contemplation) is used to describe sustained ethical and metaphysical reflection."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Dharma contemplation is only an intellectual study of scriptures.",
+      "reality": "Primary texts describe contemplation as an integrated meditative, ethical, and experiential discipline aimed at reducing passions and stabilizing right worldview."
+    },
+    {
+      "myth": "It is a monastic practice and not relevant for laypeople.",
+      "reality": "Canonical and commentarial sources explicitly encourage lay practitioners to engage in daily *bhāvanā* and *anuprekṣā* as part of right conduct."
+    },
+    {
+      "myth": "All Jain traditions teach the same contemplative methods.",
+      "reality": "While sharing core themes, Digambara, Śvetāmbara Mūrti‑pūjaka, Sthānakavāsī, and Terāpanth lineages differ in emphasis, ritual context, and interpretive frameworks."
+    }
+  ]
+}

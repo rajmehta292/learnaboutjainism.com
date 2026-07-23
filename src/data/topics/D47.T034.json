@@ -1,0 +1,43 @@
+{
+  "overview": "In Jain studies, the concept of “print” refers not only to the physical reproduction of texts but also to the historical transformation of Jain knowledge systems as manuscripts transitioned into printed editions from the nineteenth century onward. For over two millennia, Jain communities preserved their scriptures through palm-leaf and paper manuscripts, maintained in bhandāras (libraries) across Gujarat, Rajasthan, Karnataka, and other regions. These manuscripts were copied by hand, often with elaborate colophons, lineage notes, and scribal conventions that shaped how texts were transmitted.\n\nThe arrival of print technology—first lithography and later movable type—created a major shift in how Jain texts were standardized, circulated, and studied. Early Jain print centers in Ahmedabad, Jaipur, and Bombay produced editions of canonical works, commentaries, and ritual manuals. This period saw the emergence of community-backed printing societies, such as the Jain Śāstramālā series and Digambara presses in North India, which aimed to preserve endangered manuscripts and make them accessible to lay audiences.\n\nPrint also influenced sectarian identity. Digambara and Śvetāmbara traditions produced their own critical editions, often reflecting differences in scriptural canons, commentarial lineages, and ritual practices. Printed editions enabled broader literacy among lay Jains, supported modern scholarship, and facilitated comparative studies across traditions. At the same time, print introduced challenges: loss of manuscript variants, editorial harmonization, and the risk of treating printed versions as universally authoritative despite regional or lineage-specific differences.\n\nIn contemporary Jain studies, print remains essential for critical editions, philological work, and historical analysis. However, scholars emphasize that printed texts must be read alongside manuscript evidence, oral traditions, and sectarian commentaries to avoid oversimplification. Print is thus both a preservation tool and a lens through which modern Jain identity and scholarship have been shaped.",
+  "primary_sources": [
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples",
+      "original_text": "णं चउव्विहं धम्मं णं चउव्विहं सव्वं",
+      "transliteration": "ṇaṃ cauvvihaṃ dhammaṃ ṇaṃ cauvvihaṃ savvaṃ",
+      "translation": "“The teaching is fourfold; all is of four kinds.”",
+      "notes": "This passage appears in manuscript traditions and early printed editions. It illustrates how canonical material was transmitted through scribal copying before entering modern print. Variants exist across manuscripts, and printed editions often harmonize these differences."
+    },
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti / Umāsvāmi",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyagdarśana-jñāna-cāritrāṇi mokṣamārgaḥ",
+      "translation": "“Right faith, right knowledge, and right conduct constitute the path to liberation.”",
+      "notes": "Printed editions of this pan-sectarian text differ between Digambara and Śvetāmbara traditions. The print era standardized chapter divisions and commentarial pairings, influencing how the text is taught today."
+    },
+    {
+      "title": "Ṣaṭkhaṅḍāgama (Digambara)",
+      "author": "Puṣpadanta and Bhūtabali",
+      "original_text": "कर्मप्रकृतयः जीवस्य भावान्तरं कुर्वन्ति",
+      "transliteration": "karma-prakṛtayaḥ jīvasya bhāvāntaraṃ kurvanti",
+      "translation": "“The karma categories transform the states of the soul.”",
+      "notes": "This foundational Digambara text was preserved in manuscript form for centuries. Its first printed editions in the twentieth century relied on multiple manuscript witnesses, demonstrating how print can stabilize but also selectively represent complex textual traditions."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Printed Jain scriptures are always more accurate than manuscripts.",
+      "reality": "Printed editions often harmonize or omit manuscript variants. Manuscripts remain essential for understanding textual history, sectarian differences, and scribal traditions."
+    },
+    {
+      "myth": "All Jain communities use the same printed canon.",
+      "reality": "Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, and Terāpanth traditions maintain distinct canons and commentarial lineages. Print amplified these differences by producing sect-specific editions."
+    },
+    {
+      "myth": "Print replaced oral and ritual transmission.",
+      "reality": "Even after the rise of print, recitation, memorization, and ritual use of texts remain central in Jain practice. Print supplements but does not replace embodied transmission."
+    }
+  ]
+}

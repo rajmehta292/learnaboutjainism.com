@@ -1,0 +1,67 @@
+{
+  "overview": "In Jain studies, \"original-text citation\" refers to the disciplined practice of grounding any doctrinal, historical, or practical claim in verifiable passages from primary Jain scriptures and related canonical literature. This is not merely a matter of quoting a text; it is a structured method that distinguishes between the original language (often Ardhamāgadhī Prakrit, Jaina Śaurasenī, or Sanskrit), its transliteration, translation, and subsequent interpretation. By doing so, it protects the integrity of the tradition, allows scholars and practitioners to check claims against the source, and makes disagreements or uncertainties visible rather than hidden.\n\nWithin a source-grounded Jain guide system, original-text citation is the first step in the answer pipeline: before commentary, comparative analysis, or modern application, the system must locate and present the relevant canonical or authoritative passage. This includes identifying the corpus tier (for example, an Āgama in a critical edition as Tier A, a classical commentary as Tier B, and modern scholarship as Tier C), and clearly marking which part of the response is direct quotation and which part is paraphrase or interpretive expansion. Original-text citation also requires attention to edition quality, manuscript variants, and the specific sectarian context (Digambara, Śvetāmbara Mūrtipūjaka, Sthānakavāsī, Terāpanth, etc.), since different traditions may preserve or prioritize different textual lineages.\n\nTechnically, an original-text citation in Jainism should include: the title of the work, the traditional and modern author attribution (where applicable), the language of composition, the chapter or sūtra number, and the exact wording in the original script. A scholarly citation will often provide a normalized transliteration (using IAST or a comparable system) and a careful translation that indicates where the rendering is interpretive rather than literal. When used in guidance for lay practice, youth education, or ethics, the citation anchors advice in the canonical framework while still leaving room for qualified human teachers—such as ācāryas and learned scholars—to offer context-sensitive application.\n\nOriginal-text citation also plays a crucial role in handling disagreement and uncertainty. Many Jain texts exist in multiple recensions, and sectarian canons differ; for example, Digambara and Śvetāmbara traditions do not share an identical list of Āgamas. A responsible citation practice will therefore note when a passage is accepted only in certain lineages, when the wording is reconstructed from manuscripts, or when the translation is debated. This transparency helps prevent overclaiming authority, avoids turning secondary interpretations into unquestioned dogma, and supports the system’s commitment to escalate questions that require living-lineage authorization or involve medical, legal, or coercive risk.\n\nIn modern digital environments, original-text citation is also a safeguard against unverified OCR, AI-generated paraphrases, or anonymous compilations. By insisting that every material claim be traceable to a clearly identified source tier, with visible original wording and translation, the system can quarantine unknown or dubious material and encourage users to consult qualified human experts for binding religious rulings. In this way, original-text citation is both a scholarly tool and an ethical commitment: it respects the depth of Jain tradition while protecting users from misinterpretation, coercion, or unsafe applications of religious teachings.",
+  "primary_sources": [
+    {
+      "title": "Tattvārthasūtra (Tattvārthādhigamasūtra)",
+      "author": "Umāsvāti / Umāsvāmi (traditional attribution)",
+      "original_text": "सम्यग्दर्शनज्ञानचारित्राणि मोक्षमार्गः",
+      "transliteration": "samyag-darśana-jñāna-cāritrāṇi mokṣa-mārgaḥ",
+      "translation": "Right faith, right knowledge, and right conduct constitute the path to liberation.",
+      "notes": "This opening sūtra of the Tattvārthasūtra is frequently cited as a foundational definition of the Jain path. In original-text citation practice, the sūtra is given in Sanskrit, followed by a standardized transliteration and a concise translation. Commentaries from both Digambara and Śvetāmbara traditions expand on the meaning of each term, but the citation itself clearly separates the canonical wording from later interpretive layers."
+    },
+    {
+      "title": "Ācārāṅga-sūtra (Śvetāmbara canon)",
+      "author": "Traditionally attributed to Mahāvīra’s disciples; exact authorship uncertain",
+      "original_text": "ण हिण्णइ ण हिण्णइ, ण हिण्णइ ण हिण्णइ।\nण हिण्णइ ण हिण्णइ, ण हिण्णइ ण हिण्णइ॥",
+      "transliteration": "ṇa hiṇṇai ṇa hiṇṇai, ṇa hiṇṇai ṇa hiṇṇai.\nṇa hiṇṇai ṇa hiṇṇai, ṇa hiṇṇai ṇa hiṇ्णai.",
+      "translation": "He does not injure, does not injure; he does not injure, does not injure. He does not injure, does not injure; he does not injure, does not injure.",
+      "notes": "This repetitive formulation in Ardhamāgadhī Prakrit emphasizes the non-injurious conduct of an ideal ascetic. In original-text citation, the Prakrit wording is preserved even when the passage is difficult or highly formulaic, and the translation is marked as literal. Interpretive explanations—such as linking this to ahiṃsā in thought, word, and deed—are presented separately as commentary, not blended into the citation itself."
+    },
+    {
+      "title": "Uttarādhyayana-sūtra (Śvetāmbara canon)",
+      "author": "Traditionally attributed to early Jain teachers; exact authorship uncertain",
+      "original_text": "जं चरे जं चरे धम्मं, तं चरे जं चरे मुणी।",
+      "transliteration": "jaṃ care jaṃ care dhammaṃ, taṃ care jaṃ care muṇī.",
+      "translation": "Whatever dharma one practices, that the sage should practice well.",
+      "notes": "This verse is often cited in discussions of consistent practice and the responsibility of the muni (sage) to embody the dharma fully. Original-text citation highlights the metrical Prakrit form, while translations may vary slightly depending on how \"jaṃ care\" and \"dhammaṃ\" are interpreted. A careful guide will note such variation and avoid presenting any single translation as the only possible reading."
+    },
+    {
+      "title": "Samayasāra (Digambara philosophical text)",
+      "author": "Ācārya Kundakunda",
+      "original_text": "समयसारोऽयमात्मनः, स्वभावो नान्यथाऽस्ति हि।",
+      "transliteration": "samayasāro’yam ātmanaḥ, svabhāvo nānyathā’sti hi.",
+      "translation": "This is the essence of the self: its own nature; it truly is not otherwise.",
+      "notes": "Samayasāra is central in Digambara metaphysics. When citing it, the original Sanskrit (or hybrid Sanskrit-Prakrit) is given, followed by transliteration and translation. Original-text citation allows later doctrinal elaborations—such as detailed analyses of jīva, ajīva, and pure consciousness—to be clearly marked as commentary rather than conflated with Kundakunda’s exact wording."
+    },
+    {
+      "title": "Niśītha-sūtra (Śvetāmbara canonical text on monastic discipline)",
+      "author": "Traditionally attributed to early Jain teachers; exact authorship uncertain",
+      "original_text": "एसा निसिहा विणयस्स, जं वदंति महाविरा।",
+      "transliteration": "esā nisihā viṇayassa, jaṃ vadaṃti Mahāvirā.",
+      "translation": "This is the discipline of restraint, as taught by Mahāvīra.",
+      "notes": "Passages like this are cited to connect specific rules of monastic conduct to the authority of Mahāvīra. Original-text citation preserves the Prakrit wording and acknowledges that the attribution is traditional. It also invites users to consult critical editions and sect-specific canons, since Digambara and Śvetāmbara traditions differ in their acceptance and structuring of disciplinary texts."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Any quotation that mentions Jain concepts like ahiṃsā or karma can be treated as an original-text citation, even if its source is unclear or modern.",
+      "reality": "An original-text citation must be traceable to a specific, verifiable primary source—such as an Āgama, a recognized śāstra, or a clearly attributed classical work—with the original wording, transliteration, and translation identified. Modern summaries, anonymous compilations, or AI-generated paraphrases are not original-text citations and should be clearly marked as secondary or exploratory material."
+    },
+    {
+      "myth": "Once a passage is translated into English, the translation can be used as if it were the original text, and there is no need to show the Prakrit or Sanskrit.",
+      "reality": "Translations are interpretive acts and can differ significantly between editors, traditions, and historical periods. Responsible original-text citation keeps the Prakrit or Sanskrit visible, along with a standardized transliteration, so that readers can see where the translation is literal, where it is interpretive, and where alternative renderings might be possible. This protects against overreliance on a single translation and respects the complexity of the original language."
+    },
+    {
+      "myth": "All Jain traditions share exactly the same canon, so citing any version of a text is sufficient without noting sectarian differences or manuscript variants.",
+      "reality": "Digambara and Śvetāmbara traditions, as well as sub-traditions like Mūrtipūjaka, Sthānakavāsī, and Terāpanth, preserve different canons and textual lineages. Original-text citation must therefore specify which edition and tradition a passage comes from, and acknowledge when a text or verse is accepted only in certain lineages or reconstructed from variant manuscripts. Ignoring these differences can lead to confusion and misrepresentation of sect-specific teachings."
+    },
+    {
+      "myth": "Original-text citation alone is enough to give binding religious rulings on complex issues like medical ethics, legal disputes, or family coercion.",
+      "reality": "Original-text citation is a foundation for understanding, not a substitute for qualified human guidance. Complex questions involving health, law, coercion, or family dynamics require consultation with living ācāryas, learned scholars, and appropriate professional experts. A source-grounded system should use original-text citation to clarify the scriptural background while explicitly recommending escalation to qualified human authorities for any binding decisions."
+    },
+    {
+      "myth": "If a passage is widely quoted online, it can be treated as authentic without checking its provenance, language, or alignment with critical editions.",
+      "reality": "Online quotations may come from unverified OCR, partial translations, or even misattributions. Original-text citation requires checking the passage against reliable editions, identifying its language and location in the text, and classifying its corpus tier. Material of unknown provenance should be quarantined or clearly labeled as tentative, rather than presented as authoritative scripture."
+    }
+  ]
+}

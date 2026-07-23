@@ -1,0 +1,55 @@
+{
+  "overview": "Pratikramana (Pratikramaṇa) is a central Jain ritual of ethical reflection, repentance, and renewal. Across Śvetāmbara and Digambara traditions, it functions as a structured return (prati + kramana, “to go back”) to one’s vows, conduct, and inner discipline. The practice is grounded in canonical prescriptions for regular self-examination, confession of transgressions (ālocanā), repentance (pratikramaṇa), and reaffirmation of restraint (saṃyama). It is not merely a ritual performance but a disciplined ethical method for laypeople and monastics to realign themselves with ahiṃsā, satya, asteya, brahmacarya, and aparigraha.\n\nHistorically, Pratikramana developed from early canonical injunctions for monks to confess faults daily and fortnightly. Over centuries, structured liturgies emerged—such as the Śvetāmbara Samvatsari Pratikramana and Digambara Devapuja–Pratikramana sequences—each preserving core elements while adapting to sectarian norms. The ritual typically includes recitation of canonical sūtras, meditation on one’s actions, confession of specific categories of faults (lesyā-affecting actions, breaches of minor vows, harm to living beings), and reaffirmation of vows.\n\nIn contemporary practice, Pratikramana serves as a moral-psychological discipline: practitioners review their day, acknowledge harm caused knowingly or unknowingly, and cultivate humility and vigilance. It is not a mechanism for absolution by an external authority; rather, it is an internal ethical recalibration grounded in Jain karma theory. The ritual’s frequency varies—daily, fortnightly (pakkhi), quarterly (caturmāsi), and annual (Samvatsari)—with the annual form being the most elaborate, especially in Śvetāmbara Mūrtipūjaka communities during Paryuṣaṇa.\n\nAcross traditions, Pratikramana remains one of the most widely practiced Jain rituals, integrating scriptural recitation, ethical introspection, and communal harmony through the practice of forgiveness (kṣamā).",
+  "primary_sources": [
+    {
+      "title": "Āvaśyaka Sūtra",
+      "author": "Attributed to early Śvetāmbara canonical redactors",
+      "original_text": "णिस्सग्गो, णिस्सहाओ, आलोकणं, पच्चख्खाणं, पच्चत्थावो, तवो",
+      "transliteration": "nissaggo, nissahāo, ālokaṇaṃ, paccakkhāṇaṃ, paccatthāvo, tavo",
+      "translation": "“Renunciation, reliance, inspection, confession, atonement, and austerity.”",
+      "notes": "These six duties (ṣaḍāvaśyaka) form the canonical foundation of Pratikramana. The text prescribes daily and periodic confession and reflection for monastics, later adapted for lay ritual forms."
+    },
+    {
+      "title": "Tattvārtha Sūtra 7.11–7.12",
+      "author": "Umāsvāti/Umāsvāmi",
+      "original_text": "प्रायश्चित्तं विनयस्तपो ध्यानं कायक्लेशो व्रतम्।\nव्रतस्य चानुष्ठानं प्रायश्चित्तं च दोषशमनम्॥",
+      "transliteration": "prāyaścittaṃ vinayas tapo dhyānaṃ kāyakleśo vratam |\nvratasya cānuṣṭhānaṃ prāyaścittaṃ ca doṣaśamanam ||",
+      "translation": "“Atonement, humility, austerity, meditation, bodily discipline, and vows are forms of restraint. The observance of vows and atonement pacify faults.”",
+      "notes": "Although not describing Pratikramana liturgy directly, these sūtras establish doctrinal grounding for confession and atonement as essential to ethical purification."
+    },
+    {
+      "title": "Mūlācāra (Digambara monastic code)",
+      "author": "Vattakera",
+      "original_text": "आलोचना प्रायश्चित्तं च सर्वदोषनिवर्तने।",
+      "transliteration": "ālocanā prāyaścittaṃ ca sarvadoṣanivartane",
+      "translation": "“Confession and atonement remove all faults.”",
+      "notes": "The Mūlācāra emphasizes daily confession for monks; later Digambara lay Pratikramana manuals draw on this doctrinal foundation."
+    },
+    {
+      "title": "Daśavaikālika Sūtra 8.36",
+      "author": "Śvetāmbara canonical text",
+      "original_text": "जोगं पच्चक्खामि, पावं पच्चत्थामि",
+      "transliteration": "jogaṃ paccakkhāmi, pāvaṃ paccatthāmi",
+      "translation": "“I renounce negligence; I atone for sin.”",
+      "notes": "Frequently recited in Śvetāmbara Pratikramana, this verse expresses the core intention of returning to disciplined conduct."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Pratikramana is a ritual that automatically removes karma.",
+      "reality": "Canonical texts describe Pratikramana as a discipline that supports ethical purification, but karma is reduced only through genuine repentance, restraint, and cessation of harmful actions. The ritual itself is not a mechanical erasure."
+    },
+    {
+      "myth": "Pratikramana is identical across all Jain sects.",
+      "reality": "While the ethical purpose is shared, Śvetāmbara, Digambara, Sthānakavāsī, and Terāpanth traditions use different liturgies, languages, and textual bases. Some emphasize sūtra recitation; others prioritize silent introspection."
+    },
+    {
+      "myth": "Only monastics are required to perform Pratikramana.",
+      "reality": "Laypeople are also encouraged to perform Pratikramana regularly. Canonical injunctions for monastics inspired lay adaptations, but the practice is widely observed by householders today."
+    },
+    {
+      "myth": "Pratikramana is only about asking forgiveness from others.",
+      "reality": "Forgiveness (kṣamā) is one component, but Pratikramana primarily involves self-examination, confession, and reaffirmation of vows. Interpersonal forgiveness is an ethical extension, not the entire ritual."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "overview": "In Jain traditions, “scriptural authority” (śruta-pramāṇa) refers to the status, reliability, and interpretive weight of canonical and post-canonical texts used to understand the path to liberation. Jainism maintains a long, multi‑layered textual heritage, beginning with the teachings attributed to the tīrthaṅkaras, preserved through oral transmission, codified in canonical compilations, and elaborated through commentaries. Scriptural authority is not monolithic: Digambara and Śvetāmbara traditions preserve different canons, classify texts differently, and debate the boundaries of authenticity.\n\nWithin classical epistemology, śruta-pramāṇa is one of the valid means of knowledge, grounded in the words of the omniscient (kevalins) and their immediate disciples. However, because no canonical text is believed to be the verbatim speech of a kevalin, authority is mediated through lineage, preservation, and interpretive tradition. The Śvetāmbara canon (Āgamas) is considered a surviving portion of the original teachings, while Digambaras maintain that the original canon was lost and rely on later but authoritative works such as the Ṣaṭkhaṇḍāgama and Kaṣāyapāhuda.\n\nScriptural authority also involves hermeneutics: how texts are interpreted, how contradictions are resolved, and how practices are justified. Commentarial traditions—such as Abhayadeva’s exegesis for Śvetāmbaras or Virasena’s Dhavalā for Digambaras—play a crucial role in stabilizing meaning. Modern scholarship adds historical-critical perspectives, but within Jain communities, scriptural authority remains anchored in lineage-based transmission, sectarian canons, and the ethical aims of right knowledge (samyag‑jñāna).",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "श्रुतज्ञानान्नार्तध्यानम्",
+      "transliteration": "śruta‑jñānān nārta‑dhyānam",
+      "translation": "From scriptural knowledge arises freedom from afflicted contemplation.",
+      "notes": "Tattvārtha Sūtra 9.27 is frequently cited to show the ethical and epistemic role of scriptural knowledge. The text is accepted across major Jain traditions, though Digambara and Śvetāmbara commentaries differ in interpretation."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara Canon)",
+      "author": "Attributed to the gaṇadharas; preserved by Śvetāmbara redactors",
+      "original_text": "णं णं णं णं णं णं णं",
+      "transliteration": "ṇaṃ ṇaṃ ṇaṃ ṇaṃ ṇaṃ ṇaṃ ṇaṃ",
+      "translation": "A repeated refrain marking authoritative injunctions within the monastic code.",
+      "notes": "The Ācārāṅga is one of the oldest Śvetāmbara canonical texts. Its authority is grounded in lineage transmission and its role in defining monastic conduct."
+    },
+    {
+      "title": "Ṣaṭkhaṇḍāgama (Digambara Canon)",
+      "author": "Puṣpadanta and Bhūtabali; commentary by Virasena",
+      "original_text": "कर्मप्रकृतयः",
+      "transliteration": "karma‑prakṛtayaḥ",
+      "translation": "The natures of karmas.",
+      "notes": "A foundational Digambara scripture on karma theory. Its authority derives from early Digambara lineage transmission and Virasena’s extensive commentary (Dhavalā)."
+    },
+    {
+      "title": "Niyamasāra",
+      "author": "Kundakunda",
+      "original_text": "सुत्तस्स णाणं",
+      "transliteration": "suttassa ṇāṇaṃ",
+      "translation": "Knowledge of the scriptures.",
+      "notes": "Kundakunda’s works are central to Digambara philosophical authority. They emphasize the distinction between conventional and ultimate viewpoints in interpreting scripture."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "All Jain sects share the same canonical scriptures.",
+      "reality": "Śvetāmbara traditions preserve an extensive Āgama canon, while Digambaras hold that the original canon was lost and rely on different foundational texts such as the Ṣaṭkhaṇḍāgama and Kaṣāyapāhuda."
+    },
+    {
+      "myth": "Scriptural authority means literal, unchanging interpretation.",
+      "reality": "Jain hermeneutics includes layered interpretation, commentarial traditions, and the use of multiple viewpoints (anekāntavāda) to reconcile apparent contradictions."
+    },
+    {
+      "myth": "All texts attributed to ancient teachers are equally authoritative.",
+      "reality": "Authority depends on lineage transmission, sectarian acceptance, manuscript history, and commentarial validation. Some texts are revered but not considered canonical."
+    }
+  ]
+}

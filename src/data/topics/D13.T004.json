@@ -1,0 +1,51 @@
+{
+  "overview": "Achaurya (अचौर्य), commonly translated as “non-stealing,” is one of the five fundamental vows (pañca‑vrata) in Jain ethics. It appears across Śvetāmbara and Digambara canonical and commentarial traditions as a core discipline for both mendicants and laypeople. In Jain ontology, achaurya is not merely the absence of theft; it is a comprehensive ethical commitment to avoid taking anything not freely given, to prevent economic or social harm, and to cultivate a mind free from possessiveness, deceit, and exploitation.\n\nIn the broader framework of ahiṃsā (non‑violence), achaurya is understood as a specific application of non‑harm in the domain of property, resources, and trust. Jain texts emphasize that stealing generates paāp karma—especially the karma of adharma (non‑righteousness) and naraka (hellish) destinies—because it violates the autonomy and livelihood of others. The vow therefore includes avoiding misappropriation, fraud, coercion, unfair trade, and even subtle forms of taking advantage of another’s ignorance.\n\nFor mendicants, achaurya is practiced in its most rigorous form: they must not take food, objects, or shelter unless explicitly offered, and they must avoid any action that could be interpreted as soliciting possessions. For laypeople, the vow is moderated but still extensive, covering honest labor, fair trade, accurate weights and measures, truthful contracts, and respect for communal resources.\n\nAcross traditions, achaurya is linked to internal states: greed (lobha), deceit (māyā), and possessiveness (parigraha). Thus, the vow is both behavioral and psychological. Commentaries stress that non‑stealing is inseparable from cultivating contentment and transparency in one’s dealings. Modern Jain teachers extend the vow to contemporary issues such as intellectual property, environmental exploitation, and digital ethics, while maintaining fidelity to classical sources.",
+  "primary_sources": [
+    {
+      "title": "Tattvārtha Sūtra",
+      "author": "Umāsvāti/Umāsvāmi (traditionally attributed)",
+      "original_text": "अस्तेयम् अचौर्यम्",
+      "transliteration": "asteyam acauryam",
+      "translation": "Non‑stealing is the vow of refraining from taking what is not given.",
+      "notes": "Tattvārtha Sūtra 7.7 defines the vow succinctly. Commentaries such as Pūjyapāda’s *Sarvārthasiddhi* (Digambara) and Siddhasena’s *Tattvārthādhigama Bhāṣya* (Śvetāmbara) elaborate that theft includes physical taking, fraudulent acquisition, and causing others to steal."
+    },
+    {
+      "title": "Ācārāṅga Sūtra (Śvetāmbara Canon)",
+      "author": "Attributed to early Jain community; redactional layers",
+      "original_text": "जे ण अदेयम् देयं कुंति तं चोरं वि जाणा",
+      "transliteration": "je ṇ adeyam deyaṃ kunti taṃ coraṃ vi jāṇā",
+      "translation": "One who takes what is not given should be known as a thief.",
+      "notes": "This passage appears in discussions of mendicant conduct. The text emphasizes that even indirect appropriation—such as hinting or manipulating donors—is a breach of achaurya."
+    },
+    {
+      "title": "Sūtrakṛtāṅga (Śvetāmbara Canon)",
+      "author": "Attributed to early Jain community",
+      "original_text": "अदेयगहणं पावं",
+      "transliteration": "adeyagahaṇaṃ pāvaṃ",
+      "translation": "Taking what is not given is sin.",
+      "notes": "The text links theft to karmic bondage and warns against deceitful acquisition, including misleading speech or concealment of intentions."
+    },
+    {
+      "title": "Mūlācāra (Digambara Monastic Code)",
+      "author": "Vattakera",
+      "original_text": "अदेयग्रहणं महापापम्",
+      "transliteration": "adeyagrahaṇaṃ mahāpāpam",
+      "translation": "Taking what is not given is a great sin.",
+      "notes": "The Digambara monastic code details strict rules: monks must not touch or move objects without explicit permission, and they must avoid actions that could cause others to relinquish property unwillingly."
+    }
+  ],
+  "misconceptions": [
+    {
+      "myth": "Achaurya only prohibits physical theft.",
+      "reality": "Classical Jain texts include fraud, coercion, misrepresentation, unfair trade, and causing others to steal within the scope of achaurya. It is an ethical discipline covering intention, speech, and economic conduct."
+    },
+    {
+      "myth": "The vow applies only to monks and nuns.",
+      "reality": "Laypeople also undertake achaurya as one of the five minor vows (aṇu‑vrata). While the intensity differs, householders must practice honesty in business, contracts, and daily interactions."
+    },
+    {
+      "myth": "Achaurya is only about avoiding harm to others.",
+      "reality": "Jain sources emphasize that theft harms both the victim and the perpetrator. It binds karma, strengthens greed and deceit, and obstructs spiritual progress."
+    }
+  ]
+}
