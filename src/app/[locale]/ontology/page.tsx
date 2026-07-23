@@ -1,6 +1,7 @@
 import React from 'react';
 import fs from 'fs';
 import path from 'path';
+import { Link } from '@/i18n/routing';
 
 export default async function OntologyExplorer() {
   // Read the ontology from the JSON file
@@ -55,9 +56,11 @@ export default async function OntologyExplorer() {
                   <span className="text-xs font-mono text-quiet-ink/60 mt-1 whitespace-nowrap">
                     {topic.topic_id}
                   </span>
-                  <span className="text-sm font-sans text-temple-ink font-medium hover:text-[#C17817] cursor-pointer transition-colors">
-                    {topic.title}
-                  </span>
+                  <Link href={`/ontology/${topic.topic_id}`}>
+                    <span className="text-sm font-sans text-temple-ink font-medium hover:text-[#C17817] cursor-pointer transition-colors">
+                      {topic.title}
+                    </span>
+                  </Link>
                 </div>
               ))}
             </div>
