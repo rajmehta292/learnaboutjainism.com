@@ -7,6 +7,7 @@ import { Link } from "@/i18n/routing";
 import EditorialNotice from "@/components/EditorialNotice";
 import SmartLinker from "@/components/SmartLinker";
 import ontology from "@/data/ontology.json";
+import { openGraphImages, twitterImages } from "@/lib/socialMetadata";
 
 type TopicRecord = {
   topic_id: string;
@@ -141,11 +142,13 @@ export async function generateMetadata({
       url: `/en/ontology/${topic_id}`,
       siteName: "Learn About Jainism",
       type: "article",
+      images: openGraphImages,
     },
     twitter: {
-      card: "summary",
+      card: "summary_large_image",
       title: `${topic.title} · Learn About Jainism`,
       description: pageDescription,
+      images: twitterImages,
     },
   };
 }

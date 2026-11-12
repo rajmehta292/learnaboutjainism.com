@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Link } from "@/i18n/routing";
 import EditorialNotice from "@/components/EditorialNotice";
+import { openGraphImages, twitterImages } from "@/lib/socialMetadata";
 
 const description =
   "Explore Jainism through beginner reading paths, clear explanations of key ideas, and notes on differences across Jain communities as sources are reviewed.";
@@ -15,11 +16,13 @@ export const metadata: Metadata = {
     url: "/en",
     siteName: "Learn About Jainism",
     type: "website",
+    images: openGraphImages,
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: "A careful beginning to a living tradition",
     description,
+    images: twitterImages,
   },
 };
 

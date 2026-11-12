@@ -11,6 +11,7 @@
 - [x] Redirect `www.learnaboutjainism.com` to the canonical apex with a permanent 301 while preserving the path and query string.
 - [x] Verify HTTPS, root redirect, learning pages, a topic page, JSON endpoints, robots, sitemap, favicon, and a missing-topic 404 on production.
 - [x] Add a GitHub Actions availability check that runs every six hours and on pull requests, with manual dispatch in `.github/workflows/site-uptime.yml`.
+- [x] Add an accessible 1200×630 Open Graph and Twitter share image to English pages.
 
 The site is live at [learnaboutjainism.com](https://learnaboutjainism.com/). The initial deployment URL is [0347e78f.learnaboutjainism.pages.dev](https://0347e78f.learnaboutjainism.pages.dev/).
 

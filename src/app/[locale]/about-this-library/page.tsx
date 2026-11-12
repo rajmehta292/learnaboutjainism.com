@@ -3,6 +3,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { Link } from "@/i18n/routing";
 import ontology from "@/data/ontology.json";
+import { openGraphImages, twitterImages } from "@/lib/socialMetadata";
 
 const description =
   "Learn how this Jainism library labels drafts, distinguishes traditions, records citations, and reviews claims before presenting entries as reference material.";
@@ -17,11 +18,13 @@ export const metadata: Metadata = {
     url: "/en/about-this-library",
     siteName: "Learn About Jainism",
     type: "website",
+    images: openGraphImages,
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: "How to read this library · Learn About Jainism",
     description,
+    images: twitterImages,
   },
 };
 

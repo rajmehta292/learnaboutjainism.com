@@ -19,7 +19,7 @@ Sources: [Pages limits](https://developers.cloudflare.com/pages/platform/limits/
 - Production checks confirmed the root redirect to `/en`; `/en`, Start Here, the catalogue, a topic entry, the practice index, both JSON endpoints, `robots.txt`, `sitemap.xml`, and the favicon; and a 404 for an unknown topic. The sample draft topic has the expected canonical URL and `noindex, follow` metadata.
 - `.github/workflows/site-uptime.yml` checks the production site and critical public routes every six hours, on pull requests, and through manual dispatch.
 
-The export now generates the English edition's 1,676 catalogue topics and static JSON endpoints. Hindi and Gujarati remain unpublished until their text and interface are translated and reviewed. `npm run site:audit` checks file limits, required routes and metadata files, internal links, API JSON, image alt text, and the draft-topic indexing rule.
+The export now generates the English edition's 1,676 catalogue topics and static JSON endpoints. Hindi and Gujarati remain unpublished until their text and interface are translated and reviewed. `npm run site:audit` checks file limits, required routes and metadata files, internal links, API JSON, image alt text, share-image URLs and PNG dimensions, and the draft-topic indexing rule.
 
 Next.js static export does not support Proxy; Cloudflare's `_redirects` file sends `/` to `/en`. The app enumerates topic routes and supported root data filenames at build time, and the JSON endpoints are emitted as static files with JSON response headers. Neither endpoint is used by the current UI, but both are preserved.
 
