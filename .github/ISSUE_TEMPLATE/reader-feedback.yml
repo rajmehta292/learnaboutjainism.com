@@ -1,0 +1,28 @@
+name: Reader feedback
+description: Suggest a correction or report an accessibility issue on the site.
+title: "Reader feedback: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        This public issue tracker is visible to anyone. Please do not include personal, medical, or other private information.
+  - type: input
+    id: page
+    attributes:
+      label: Page URL
+      description: Link to the page or section, if applicable.
+      placeholder: https://learnaboutjainism.com/en/...
+    validations:
+      required: true
+  - type: textarea
+    id: feedback
+    attributes:
+      label: What should we review?
+      description: Describe the correction, accessibility barrier, or improvement you suggest.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting source or context
+      description: Share a source, edition and location, relevant tradition, or steps to reproduce an accessibility issue.

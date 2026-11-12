@@ -12,6 +12,8 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Retained local database files are legacy and are not part of the application runtime.
+    "prisma/**",
   ]),
 ]);
 

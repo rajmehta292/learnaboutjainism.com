@@ -98,75 +98,19 @@ export default function SmartLinker({ text, currentTopicId }: SmartLinkerProps) 
         const overview = getTopicOverview(matchedTerm.id);
 
         return (
-          <span key={i} className="group relative inline-block">
-            <Link
-              href={`/ontology/${matchedTerm.id}`}
-              style={{
-                color: "inherit",
-                borderBottom: "1px solid var(--color-saffron)",
-                textDecoration: "none",
-                paddingBottom: "1px",
-                transition: "color 0.15s",
-              }}
-            >
+          <span key={i} className="smart-link-container">
+            <Link href={`/ontology/${matchedTerm.id}`} className="smart-link">
               {part}
             </Link>
 
-            {/* Tooltip */}
             {overview && (
               <span
-                className="pointer-events-none absolute bottom-full left-0 mb-3 z-50"
-                style={{
-                  width: "min(280px, 90vw)",
-                  opacity: 0,
-                  transition: "opacity 0.15s",
-                }}
+                className="smart-link-tooltip"
+                role="tooltip"
               >
-                <span
-                  style={{
-                    display: "block",
-                    background: "var(--color-night)",
-                    color: "var(--color-night-ink)",
-                    borderRadius: "2px",
-                    padding: "0.75rem 1rem",
-                    boxShadow: "0 8px 32px rgba(0,0,0,0.35)",
-                    border: "1px solid var(--color-night-border)",
-                  }}
-                >
-                  <strong
-                    style={{
-                      display: "block",
-                      fontFamily: "var(--font-cormorant), Georgia, serif",
-                      fontSize: "0.95rem",
-                      color: "var(--color-saffron)",
-                      marginBottom: "0.4rem",
-                    }}
-                  >
-                    {matchedTerm.title}
-                  </strong>
-                  <span
-                    style={{
-                      fontFamily: "var(--font-source-serif), Georgia, serif",
-                      fontSize: "0.78rem",
-                      lineHeight: 1.65,
-                      color: "var(--color-night-muted)",
-                    }}
-                  >
-                    {overview}
-                  </span>
-                </span>
-                {/* Arrow */}
-                <span
-                  style={{
-                    display: "block",
-                    width: 0,
-                    height: 0,
-                    borderLeft: "5px solid transparent",
-                    borderRight: "5px solid transparent",
-                    borderTop: "5px solid var(--color-night)",
-                    marginLeft: "1rem",
-                  }}
-                />
+                <span className="smart-link-tooltip__label">Draft overview</span>
+                <strong>{matchedTerm.title}</strong>
+                <span>{overview}</span>
               </span>
             )}
           </span>

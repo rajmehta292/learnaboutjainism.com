@@ -1,29 +1,58 @@
 import { NextResponse } from 'next/server';
-import { PrismaClient } from '@prisma/client';
+import karmaTheory from '@/data/karmaTheory.json';
 
-const prisma = new PrismaClient();
+export const dynamic = 'force-static';
+
+type KarmaSubtype = { name: string; desc?: string };
+type KarmaRecord = {
+  name: string;
+  sanskrit?: string;
+  transliteration?: string;
+  description: string;
+  subtypes?: KarmaSubtype[];
+  howToDestroy?: string;
+};
+
+function toCategory(record: KarmaRecord, type: 'Ghatiya' | 'Aghatiya') {
+  const id = `${type.toLowerCase()}-${record.name
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-|-$/g, '')}`;
+
+  return {
+    id,
+    name: record.name,
+    transliteration: record.transliteration ?? record.name,
+    type,
+    descriptionL1: record.description,
+    descriptionL3: record.description,
+    descriptionL5: record.howToDestroy ?? record.description,
+    subtypes: (record.subtypes ?? []).map((subtype, subtypeIndex) => ({
+      id: `${id}-${subtypeIndex + 1}`,
+      categoryId: id,
+      name: subtype.name,
+      transliteration: subtype.name,
+      description: subtype.desc ?? '',
+    })),
+    citations: [],
+    editorialStatus: 'unreviewed' as const,
+  };
+}
 
 export async function GET() {
-  try {
-    const karmaCategories = await prisma.karmaCategory.findMany({
-      include: {
-        subtypes: true,
-        citations: true,
-      },
-      orderBy: {
-        id: 'asc' // Simple sort, can be enhanced
-      }
-    });
+  const records = [
+    ...(karmaTheory.ghatiyaKarmas as KarmaRecord[]).map((record) =>
+      toCategory(record, 'Ghatiya'),
+    ),
+    ...(karmaTheory.aghatiyaKarmas as KarmaRecord[]).map((record) =>
+      toCategory(record, 'Aghatiya'),
+    ),
+  ];
 
-    return NextResponse.json({
-      success: true,
-      data: karmaCategories
-    });
-  } catch (error: any) {
-    console.error('Error fetching karma categories:', error);
-    return NextResponse.json(
-      { success: false, error: 'Failed to fetch karma data' },
-      { status: 500 }
-    );
-  }
+  return NextResponse.json({
+    success: true,
+    data: records,
+    editorialStatus: 'unreviewed',
+    note: 'This study dataset has not received item-by-item editorial and source review.',
+  });
 }

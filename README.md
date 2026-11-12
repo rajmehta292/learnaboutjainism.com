@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Learn About Jainism
 
-## Getting Started
+An English-language learning library for exploring Jain ideas, texts, communities, and practices. The site is being rebuilt around clear editorial status, better navigation, and source-level review.
 
-First, run the development server:
+## Editorial status
 
-```bash
+The catalogue is broader than its reviewed content. At the current baseline, it contains 52 subject areas and 1,676 indexed topics. Existing topic summaries and other JSON datasets are drafts; the site marks them as such. No topic currently meets the project's complete review-record standard. See [the editorial playbook](docs/CONTENT_EDITORIAL_PLAYBOOK.md) for the workflow and [the current audit](docs/CURRENT_DESIGN_AND_VOICE_AUDIT.md) for known gaps.
+
+## Run locally
+
+Use Node.js 22 (minimum supported by Next.js: 20.9) and npm:
+
+```sh
+npm ci
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open <http://localhost:3000/en>. The public build currently contains the English edition only; Hindi and Gujarati routes will be enabled when their content is translated and reviewed. The production root `/` redirects to `/en` through Cloudflare Pages configuration.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Project commands
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```sh
+npm run dev                 # local development server
+npm run lint                # ESLint
+npm run content:audit       # ontology coverage, citation fields, and review queue
+npm run content:audit -- --csv docs/content-review-queue.csv
+npm run content:audit -- --csv docs/content-review-queue.csv --datasets-csv docs/dataset-review-queue.csv
+npm run build               # production build
+npm start                    # serve a production build
+```
 
-## Learn More
+The automated audit checks structure and highlights possible review priorities. It cannot verify a quotation, establish doctrinal consensus, or replace qualified human review. Do not mark a page reviewed just to clear a check.
 
-To learn more about Next.js, take a look at the following resources:
+## Project map
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- `src/app/[locale]` — localized routes, landing pages, topic catalogue, and practice section.
+- `src/components` — navigation, catalogue search, editorial status notices, and reading components.
+- `src/data/ontology.json` — the topic index.
+- `src/data/topics` — topic draft records keyed by stable catalogue ID.
+- `src/data/*.json` — supplemental catalogs and study datasets; review them using the process in the playbook.
+- `scripts/audit-content.mjs` — coverage report and CSV queues for editorial work.
+- `docs/CONTENT_EDITORIAL_PLAYBOOK.md` — standards, review schema, and sequencing plan.
+- `docs/LAUNCH_CHECKLIST.md` — hosting and domain steps before public launch.
+- `docs/HOSTING_AND_STUDY_GUIDE_PLAN.md` — Cloudflare Pages feasibility and study-note-derived learning paths.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Launch
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Cloudflare Pages Free is the recommended target. The static export is configured and verified locally at 8,520 files; the Pages preview and custom domain are not configured yet. See [the hosting and study guide plan](docs/HOSTING_AND_STUDY_GUIDE_PLAN.md) and [the launch checklist](docs/LAUNCH_CHECKLIST.md) before a public launch.
