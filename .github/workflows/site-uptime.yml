@@ -1,0 +1,38 @@
+name: Live site availability
+
+on:
+  schedule:
+    - cron: '23 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check-production-routes:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check public production routes
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          for url in \
+            https://learnaboutjainism.com/en \
+            https://learnaboutjainism.com/en/start-here \
+            https://learnaboutjainism.com/en/ontology \
+            https://learnaboutjainism.com/robots.txt \
+            https://learnaboutjainism.com/sitemap.xml \
+            https://learnaboutjainism.com/api/karma \
+            https://learnaboutjainism.com/api/data/ontology
+          do
+            curl --fail --silent --show-error --retry 3 --retry-delay 5 --output /dev/null "$url"
+            echo "OK $url"
+          done
+
+          status=$(curl --silent --show-error --output /dev/null --write-out '%{http_code}' https://learnaboutjainism.com/en/ontology/D99.T999)
+          if [[ "$status" != "404" ]]; then
+            echo "Expected unknown topic to return 404; received $status" >&2
+            exit 1
+          fi
+          echo "OK unknown topic returns 404"

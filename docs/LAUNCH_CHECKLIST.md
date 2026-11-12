@@ -1,20 +1,22 @@
 # Launch checklist
 
-## Deployment status
+## Production status
 
-- [x] Create a Cloudflare Pages Free project named `learnaboutjainism` and connect it to this GitHub repository.
-- [x] Set `npm run build` as the build command and `out` as the static output directory.
-- [x] Confirm the project stays within Pages Free's file-count and per-file limits.
-- [x] Add canonical metadata, a production-domain sitemap, and a robots file. Draft topic pages and practice pages stay `noindex` until qualified review.
-- [x] Add a public reader-feedback issue form for corrections and accessibility reports.
-- [ ] Push the final audited revision, verify its Cloudflare preview, and merge PR #1 to the production branch.
-- [ ] Attach `learnaboutjainism.com` and `www.learnaboutjainism.com` to the Pages project, then verify DNS and HTTPS.
-- [ ] Check the production root redirect, core pages, topic search, reviewed/draft article behavior, JSON endpoints, sitemap, robots file, and 404 response.
-- [ ] Add an uptime check after the production URL is available.
+- [x] Create the Cloudflare Pages Free project `learnaboutjainism` and connect `rajmehta292/learnaboutjainism.com`.
+- [x] Build with `npm run build` and publish the static export from `out` on pushes to `main`.
+- [x] Keep the Cloudflare Pages Git build watch set to `*`, so repository changes trigger deployments.
+- [x] Merge PR #1 to `main`; production deployment `0347e78f-e361-4efb-8f20-04066f11bc33` succeeded from commit `f26d404a4af12e98b05ad9402b1b19688b61ad05`.
+- [x] Attach `learnaboutjainism.com` and `www.learnaboutjainism.com` to the Pages project. Both custom domains report active DNS and HTTP validation.
+- [x] Add proxied DNS CNAME records for the apex and `www`, both targeting `learnaboutjainism.pages.dev`.
+- [x] Redirect `www.learnaboutjainism.com` to the canonical apex with a permanent 301 while preserving the path and query string.
+- [x] Verify HTTPS, root redirect, learning pages, a topic page, JSON endpoints, robots, sitemap, favicon, and a missing-topic 404 on production.
+- [x] Add a scheduled GitHub Actions availability check for production routes in `.github/workflows/site-uptime.yml`.
+
+The site is live at [learnaboutjainism.com](https://learnaboutjainism.com/). The production deployment URL is [0347e78f.learnaboutjainism.pages.dev](https://0347e78f.learnaboutjainism.pages.dev/).
 
 ## Repository and build
 
-- Keep the export below Cloudflare Pages Free limits (20,000 files and 25 MiB per file). The latest locally audited build is summarized in [the hosting plan](HOSTING_AND_STUDY_GUIDE_PLAN.md).
+- Keep the export below Cloudflare Pages Free limits (20,000 files and 25 MiB per file). The latest audited build is summarized in [the hosting plan](HOSTING_AND_STUDY_GUIDE_PLAN.md).
 - Run `npm run lint`, `npm run content:audit`, `npm run build`, and `npm run site:audit` in CI.
 - Keep production credentials out of Git; this static deployment currently requires no runtime secrets.
 - If the site later needs request-time rendering or authenticated features, evaluate Cloudflare Workers with vinext and measure production CPU use before migrating.
