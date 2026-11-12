@@ -4,6 +4,7 @@ import type { Metadata } from "next";
 import EditorialNotice from "@/components/EditorialNotice";
 import LibraryExplorer, { type LibraryDomain } from "@/components/LibraryExplorer";
 import ontology from "@/data/ontology.json";
+import { openGraphImages, twitterImages } from "@/lib/socialMetadata";
 
 const description =
   "Browse Jain philosophy, ethics, ahimsa, karma, history, scripture, literature, practice, and community diversity in a growing, source-aware topic library.";
@@ -18,11 +19,13 @@ export const metadata: Metadata = {
     url: "/en/ontology",
     siteName: "Learn About Jainism",
     type: "website",
+    images: openGraphImages,
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: "Topic library · Learn About Jainism",
     description,
+    images: twitterImages,
   },
 };
 

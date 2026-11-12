@@ -5,6 +5,7 @@ import { Link } from "@/i18n/routing";
 import EditorialNotice from "@/components/EditorialNotice";
 import learningPaths from "@/data/learningPaths.json";
 import ontology from "@/data/ontology.json";
+import { openGraphImages, twitterImages } from "@/lib/socialMetadata";
 
 const description =
   "Follow guided Jainism reading paths on ahimsa, karma, liberation, cosmology, sacred stories, texts, and living communities, with questions for reflection.";
@@ -19,11 +20,13 @@ export const metadata: Metadata = {
     url: "/en/start-here",
     siteName: "Learn About Jainism",
     type: "website",
+    images: openGraphImages,
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: "Start here · Learn About Jainism",
     description,
+    images: twitterImages,
   },
 };
 

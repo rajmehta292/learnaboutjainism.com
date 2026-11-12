@@ -3,3 +3,9 @@
 
 /api/karma
   Content-Type: application/json; charset=utf-8
+
+/en/opengraph-image*
+  Content-Type: image/png
+
+/en/twitter-image*
+  Content-Type: image/png

@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     locale: "en_US",
   },
   twitter: {
-    card: "summary",
+    card: "summary_large_image",
     title: "Learn About Jainism",
     description: "Explore Jain ideas, communities, texts, and practices through a growing study library.",
   },

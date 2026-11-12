@@ -6,6 +6,8 @@ const repositoryRoot = path.resolve(path.dirname(fileURLToPath(import.meta.url))
 const outputRoot = path.join(repositoryRoot, "out");
 const origin = "https://learnaboutjainism.com";
 const errors = [];
+const checkedSocialImageAssets = new Set();
+let socialImageReferencesChecked = 0;
 
 function collectFiles(directory) {
   if (!fs.existsSync(directory)) return [];
@@ -30,6 +32,64 @@ function fileForPath(pathname) {
   const htmlPath = `${exactPath}.html`;
   if (fs.existsSync(htmlPath) && fs.statSync(htmlPath).isFile()) return htmlPath;
   return null;
+}
+
+function auditSocialImageMetadata(html, routePath) {
+  const images = [
+    {
+      label: "Open Graph",
+      image: /<meta property="og:image" content="([^"]+)"/,
+      alt: /<meta property="og:image:alt" content="([^"]+)"/,
+      type: /<meta property="og:image:type" content="([^"]+)"/,
+    },
+    {
+      label: "Twitter",
+      image: /<meta name="twitter:image" content="([^"]+)"/,
+      alt: /<meta name="twitter:image:alt" content="([^"]+)"/,
+      type: /<meta name="twitter:image:type" content="([^"]+)"/,
+    },
+  ];
+
+  for (const metadata of images) {
+    socialImageReferencesChecked += 1;
+    const imageMatch = html.match(metadata.image);
+    const altMatch = html.match(metadata.alt);
+    const typeMatch = html.match(metadata.type);
+    if (!imageMatch) {
+      errors.push(`Missing ${metadata.label} share image for ${routePath}`);
+      continue;
+    }
+    if (!altMatch?.[1].trim()) errors.push(`Missing ${metadata.label} share image alt text for ${routePath}`);
+    if (typeMatch?.[1] !== "image/png") errors.push(`Incorrect ${metadata.label} share image type for ${routePath}`);
+
+    let imageUrl;
+    try {
+      imageUrl = new URL(imageMatch[1], origin);
+    } catch {
+      errors.push(`Invalid ${metadata.label} share image URL for ${routePath}`);
+      continue;
+    }
+    if (imageUrl.origin !== origin) {
+      errors.push(`${metadata.label} share image is outside the production domain for ${routePath}`);
+      continue;
+    }
+
+    const imagePath = fileForPath(imageUrl.pathname);
+    if (!imagePath) {
+      errors.push(`Missing exported ${metadata.label} share image for ${routePath}: ${imageUrl.pathname}`);
+      continue;
+    }
+
+    if (checkedSocialImageAssets.has(imagePath)) continue;
+    checkedSocialImageAssets.add(imagePath);
+    const bytes = fs.readFileSync(imagePath);
+    const pngSignature = Buffer.from([137, 80, 78, 71, 13, 10, 26, 10]);
+    if (bytes.length < 24 || !bytes.subarray(0, 8).equals(pngSignature)) {
+      errors.push(`Share image is not a valid PNG: ${path.relative(outputRoot, imagePath)}`);
+    } else if (bytes.readUInt32BE(16) !== 1200 || bytes.readUInt32BE(20) !== 630) {
+      errors.push(`Share image is not 1200x630: ${path.relative(outputRoot, imagePath)}`);
+    }
+  }
 }
 
 function hasCompleteEditorialReview(topicId) {
@@ -103,6 +163,9 @@ const headers = fs.readFileSync(path.join(outputRoot, "_headers"), "utf8");
 if (!headers.includes("/api/data/*") || !headers.includes("/api/karma") || !headers.includes("Content-Type: application/json")) {
   errors.push("Static API JSON response headers are missing.");
 }
+if (!headers.includes("/en/opengraph-image*") || !headers.includes("/en/twitter-image*")) {
+  errors.push("Static social-image response headers are missing.");
+}
 
 const robots = fs.readFileSync(path.join(outputRoot, "robots.txt"), "utf8");
 if (!robots.includes(`${origin}/sitemap.xml`)) errors.push("robots.txt does not reference the production sitemap.");
@@ -171,6 +234,7 @@ for (const htmlFile of htmlFiles) {
     ? "/en"
     : `/${relativeHtmlPath.replace(/\.html$/, "")}`;
   const pageUrl = new URL(routePath, origin);
+  if (routePath.startsWith("/en")) auditSocialImageMetadata(html, routePath);
   if (relativeHtmlPath.startsWith("en/aradhana")) {
     const robotsMatch = html.match(/<meta name="robots" content="([^"]+)"/);
     if (!robotsMatch?.[1].includes("noindex")) {
@@ -218,6 +282,7 @@ console.log(`- Catalogue pages checked: ${cataloguePagesChecked}`);
 console.log(`- Topics eligible for indexing: ${reviewedTopics}`);
 console.log(`- Sitemap URLs: ${sitemapUrls.length}`);
 console.log(`- Internal links checked: ${internalLinksChecked}`);
+console.log(`- Social image references checked: ${socialImageReferencesChecked}`);
 console.log(`- Images checked: ${imagesChecked}`);
 console.log(`- Static API JSON files checked: ${files.filter((file) => path.relative(outputRoot, file).startsWith(`api${path.sep}`)).length}`);
 
