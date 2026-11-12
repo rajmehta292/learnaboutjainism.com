@@ -3,7 +3,7 @@ import { Link } from "@/i18n/routing";
 import EditorialNotice from "@/components/EditorialNotice";
 
 const description =
-  "Explore Jain ideas, communities, texts, and practices through a growing, source-aware learning library.";
+  "Explore Jainism through beginner reading paths, clear explanations of key ideas, and notes on differences across Jain communities as sources are reviewed.";
 
 export const metadata: Metadata = {
   title: "A careful beginning to a living tradition",

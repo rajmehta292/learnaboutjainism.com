@@ -5,14 +5,14 @@
 - [x] Create the Cloudflare Pages Free project `learnaboutjainism` and connect `rajmehta292/learnaboutjainism.com`.
 - [x] Build with `npm run build` and publish the static export from `out` on pushes to `main`.
 - [x] Keep the Cloudflare Pages Git build watch set to `*`, so repository changes trigger deployments.
-- [x] Merge PR #1 to `main`; production deployment `0347e78f-e361-4efb-8f20-04066f11bc33` succeeded from commit `f26d404a4af12e98b05ad9402b1b19688b61ad05`.
+- [x] Merge PR #1 to `main`; the initial production deployment `0347e78f-e361-4efb-8f20-04066f11bc33` succeeded from commit `f26d404a4af12e98b05ad9402b1b19688b61ad05`.
 - [x] Attach `learnaboutjainism.com` and `www.learnaboutjainism.com` to the Pages project. Both custom domains report active DNS and HTTP validation.
 - [x] Add proxied DNS CNAME records for the apex and `www`, both targeting `learnaboutjainism.pages.dev`.
 - [x] Redirect `www.learnaboutjainism.com` to the canonical apex with a permanent 301 while preserving the path and query string.
 - [x] Verify HTTPS, root redirect, learning pages, a topic page, JSON endpoints, robots, sitemap, favicon, and a missing-topic 404 on production.
-- [x] Add a scheduled GitHub Actions availability check for production routes in `.github/workflows/site-uptime.yml`.
+- [x] Add a GitHub Actions availability check that runs every six hours and on pull requests, with manual dispatch in `.github/workflows/site-uptime.yml`.
 
-The site is live at [learnaboutjainism.com](https://learnaboutjainism.com/). The production deployment URL is [0347e78f.learnaboutjainism.pages.dev](https://0347e78f.learnaboutjainism.pages.dev/).
+The site is live at [learnaboutjainism.com](https://learnaboutjainism.com/). The initial deployment URL is [0347e78f.learnaboutjainism.pages.dev](https://0347e78f.learnaboutjainism.pages.dev/).
 
 ## Repository and build
 

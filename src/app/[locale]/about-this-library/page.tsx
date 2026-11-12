@@ -4,13 +4,16 @@ import path from "node:path";
 import { Link } from "@/i18n/routing";
 import ontology from "@/data/ontology.json";
 
+const description =
+  "Learn how this Jainism library labels drafts, distinguishes traditions, records citations, and reviews claims before presenting entries as reference material.";
+
 export const metadata: Metadata = {
   title: "How to read this library",
-  description: "Editorial status, source standards, and the limits of this Jain learning project.",
+  description,
   alternates: { canonical: "/en/about-this-library" },
   openGraph: {
     title: "How to read this library · Learn About Jainism",
-    description: "Editorial status, source standards, and the limits of this Jain learning project.",
+    description,
     url: "/en/about-this-library",
     siteName: "Learn About Jainism",
     type: "website",
@@ -18,7 +21,7 @@ export const metadata: Metadata = {
   twitter: {
     card: "summary",
     title: "How to read this library · Learn About Jainism",
-    description: "Editorial status, source standards, and the limits of this Jain learning project.",
+    description,
   },
 };
 
