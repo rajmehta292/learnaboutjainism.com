@@ -37,7 +37,7 @@ export default function AradhanaIndex() {
             marginBottom: "3rem",
           }}
         >
-          Jain practice ranges from small daily acts of awareness to demanding forms of monastic discipline. These practices are not all expected of every person. This section explains their purpose, context, traditional forms, and the different ways people may encounter them.
+          Jain observances and interpretations differ across communities and personal commitments. This section is an educational draft; its descriptions and translations are still being checked against named sources.
         </p>
 
         <div style={{ display: "flex", flexDirection: "column", gap: "3rem" }}>
@@ -91,7 +91,7 @@ export default function AradhanaIndex() {
                     margin: 0,
                   }}
                 >
-                  The foundational prayer of Jainism, offering obeisance to spiritual virtues rather than specific individuals.
+                  A widely known Jain salutation. Its wording, translation, and interpretation are being checked against specific sources.
                 </p>
               </Link>
 
@@ -128,7 +128,7 @@ export default function AradhanaIndex() {
                     margin: 0,
                   }}
                 >
-                  The universal sutra seeking refuge in the four most auspicious entities, often recited daily.
+                  A prayer naming auspicious refuges in some Jain liturgies; wording and use vary by context.
                 </p>
               </Link>
 
@@ -165,7 +165,7 @@ export default function AradhanaIndex() {
                     margin: 0,
                   }}
                 >
-                  A core prayer praising the twenty-four Tirthankaras and seeking spiritual health and equanimity.
+                  A hymn that praises the twenty-four Tirthankaras; editions and translations need source review.
                 </p>
               </Link>
 
@@ -202,7 +202,7 @@ export default function AradhanaIndex() {
                     margin: 0,
                   }}
                 >
-                  A powerful devotional hymn dedicated to Lord Parshvanatha, recited for peace and the removal of obstacles.
+                  A devotional stotra associated with Pārśvanātha; its text and interpretations need source review.
                 </p>
               </Link>
 
@@ -239,7 +239,7 @@ export default function AradhanaIndex() {
                     margin: 0,
                   }}
                 >
-                  The most famous Sanskrit hymn in Jainism, renowned for its poetic beauty and spiritual efficacy.
+                  A Sanskrit stotra in Jain devotional practice; its attribution, text, and translations need source review.
                 </p>
               </Link>
             </div>
@@ -331,7 +331,7 @@ export default function AradhanaIndex() {
                     margin: 0,
                   }}
                 >
-                  The universal prayer of forgiveness, releasing all inner resentment and extending friendship to all beings.
+                  A verse associated with forgiveness; its wording and use should be understood within a specific tradition and context.
                 </p>
               </Link>
 
@@ -368,7 +368,7 @@ export default function AradhanaIndex() {
                     margin: 0,
                   }}
                 >
-                  The most significant annual observances, dedicated to fasting, scriptural study, and profound introspection.
+                  Annual observances whose dates, duration, and practices vary across Jain communities. See the sourced overview.
                 </p>
               </Link>
             </div>

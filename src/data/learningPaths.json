@@ -1,234 +1,26 @@
 {
-  "children": {
-    "title": "Little Souls Path",
-    "sanskritTitle": "Bāla Mārg",
-    "description": "A joyful, story-based introduction to Jain values for ages 3-8. Through animal stories, gentle lessons, and playful activities, children discover the beauty of Ahimsa, truth, and kindness.",
-    "icon": "🧒",
-    "modules": [
-      {
-        "id": "c1",
-        "title": "The Magic of Namokar Mantra",
-        "description": "Learn the Navkar Mantra through song and play. Discover that praying means sending love to all beings.",
-        "activities": ["Chant the mantra with hand gestures", "Color the 24 Tirthankara emblems", "Sing the Jain greeting 'Jai Jinendra'"],
-        "resources": ["Navkar Mantra audio", "Coloring pages", "Story videos"],
-        "timeEstimate": "2-3 weeks, 10 min/day"
-      },
-      {
-        "id": "c2",
-        "title": "Ahimsa — The Superpower of Non-Violence",
-        "description": "Understand that Ahimsa means not hurting anyone with hands, words, or thoughts. Learn to be a superhero of kindness.",
-        "activities": ["Catch and release insects gently", "Share toys without being asked", "Say sorry when you hurt someone's feelings"],
-        "resources": ["Story: The Cobra and the Monk", "Comic strips", "Kindness calendar"],
-        "timeEstimate": "3-4 weeks, 15 min/day"
-      },
-      {
-        "id": "c3",
-        "title": "Tirthankara Tales for Tiny Hearts",
-        "description": "Stories of the 24 great teachers, simplified for young minds. Meet Mahavira, Parshvanath, and others through colorful narratives.",
-        "activities": ["Tirthankara card game", "Emblem matching", "Meditation on one Tirthankara per week"],
-        "resources": ["24 storybooks", "Flashcards", "Tirthankara coloring book"],
-        "timeEstimate": "6 months, 1 story/week"
-      },
-      {
-        "id": "c4",
-        "title": "First Steps in Fasting",
-        "description": "Age-appropriate fasting practices: skipping candy, eating simple food, and understanding self-control as a strength.",
-        "activities": ["Chauvihar once a week", "Eat simple food (one dish) on festival days", "Give one toy to someone who has none"],
-        "resources": ["Fasting chart for kids", "Reward stickers", "Parent guide"],
-        "timeEstimate": "Ongoing practice"
-      }
-    ]
-  },
-  "youth": {
-    "title": "Young Explorers Path",
-    "sanskritTitle": "Yuvak Mārg",
-    "description": "For ages 9-13 exploring Jain philosophy actively. Interactive lessons on Tattvas, Karma theory basics, and building a Jain identity in school and social media.",
-    "icon": "🧑‍🎓",
-    "modules": [
-      {
-        "id": "y1",
-        "title": "Jain Universe 101",
-        "description": "Explore Jain cosmology: Jambudvipa, upper worlds, lower worlds, and Siddhashila. Understand where our soul fits in the cosmos.",
-        "activities": ["Build a 3D model of Jambudvipa", "Map the 14 Gunasthanaks on a ladder", "Write a diary entry from a soul's journey"],
-        "resources": ["Cosmology videos", "3D model printable parts", "Gunasthanak ladder poster"],
-        "timeEstimate": "4 weeks, 30 min/day"
-      },
-      {
-        "id": "y2",
-        "title": "Karma Lab — Science of Action",
-        "description": "Discover how action, thought, and intention create karma. Understand Bandha, Samvara, and Nirjara as spiritual technology.",
-        "activities": ["Karma journal: track 5 good and 5 harmful actions", "Role-play different kashayas (anger, pride, deceit, greed)", "Design a 'karma-cleansing' experiment"],
-        "resources": ["Karma theory workbook", "Video: Bandha explained", "Interactive quiz"],
-        "timeEstimate": "6 weeks, 25 min/day"
-      },
-      {
-        "id": "y3",
-        "title": "Agama Expedition",
-        "description": "A guided tour of Jain scriptures. Learn about the 12 Angas, 12 Upangas, and post-canonical works. Find out which texts contain what wisdom.",
-        "activities": ["Treasure hunt through Agama summaries", "Create a comic strip of Bhagavati Sutra Q&A", "Visit a temple library and photograph ancient texts"],
-        "resources": ["Agama explorer workbook", "Decoded summaries", "Temple library directory"],
-        "timeEstimate": "8 weeks, 30 min/day"
-      },
-      {
-        "id": "y4",
-        "title": "Digital Dharma — Jainism in Modern Life",
-        "description": "How to be a Jain in the age of social media, competitive sports, vegan cafes, and climate activism. Practical applications of ancient values.",
-        "activities": ["Create an Ahimsa social media campaign", "Debate 'Should Jains be vegan?'", "Volunteer at an animal shelter for 4 hours"],
-        "resources": ["Modern Jain stories", "Debate guides", "Youth forum access"],
-        "timeEstimate": "Ongoing monthly sessions"
-      }
-    ]
-  },
-  "adult": {
-    "title": "Deep Study Path",
-    "sanskritTitle": "Gambhīra Adhyayana",
-    "description": "For adults seeking serious philosophical grounding. Includes systematic study of Tattvartha Sutra, Karma theory, Gunasthanaks, and comparative religion.",
-    "icon": "📖",
-    "modules": [
-      {
-        "id": "a1",
-        "title": "Tattvartha Sutra — The Universal Manual",
-        "description": "A deep verse-by-verse study of Umaswati's Tattvartha Sutra (357 sutras, 10 chapters). The definitive summary of all Jain philosophy.",
-        "activities": ["Memorize key sutras", "Write commentary on one chapter", "Discuss with study group weekly", "Compare with Buddhist and Hindu parallels"],
-        "resources": ["Tattvartha Sutra with translation", "Sarvarthasiddhi commentary", "Online study group"],
-        "timeEstimate": "1 year, 45 min/day"
-      },
-      {
-        "id": "a2",
-        "title": "Advanced Karma Theory",
-        "description": "Detailed study of 148 karma subtypes, bondage mechanisms, duration, intensity, and the path to complete Nirjara. Includes works of Nemichandra and Devendrasuri.",
-        "activities": ["Create flashcards for 148 karmas", "Diagram the Bandha mechanism", "Calculate karmic durations from Purvas", "Meditate on Nirjara weekly"],
-        "resources": ["Gommatasara Karma Kanda", "Karmagrantha (Devendrasuri)", "Tattvartha chapter on Karma"],
-        "timeEstimate": "6 months"
-      },
-      {
-        "id": "a3",
-        "title": "Gunasthanak — The 14 Stages",
-        "description": "An experiential study of each of the 14 stages, identifying where you currently stand and plotting a path forward.",
-        "activities": ["Self-assessment for each stage", "Create a personal Gunasthanak journal", "Meditate on the qualities of each stage", "Write a 14-week essay series"],
-        "resources": ["Gunasthanak texts", "Pravachana recordings", "Gunasthanak ladder poster"],
-        "timeEstimate": "14 weeks, serious commitment"
-      }
-    ]
-  },
-  "householder": {
-    "title": "Householder Dharma Path",
-    "sanskritTitle": "Gṛhastha Dharma",
-    "description": "For married Jains balancing family, career, and spiritual life. Practical guidance for integrating Jain ethics into modern marriage, parenting, business, and community leadership.",
-    "icon": "🏠",
-    "modules": [
-      {
-        "id": "h1",
-        "title": "12 Shravaka Vows — Ethics in Action",
-        "description": "A complete study of the 12 vows for householders: 5 Anuvratas, 3 Gunavratas, and 4 Shikshavratas. Practical application to modern life.",
-        "activities": ["Pick one vow to deepen this month", "Track vow-breaking and improvement", "Family vow ceremony", "Monthly review with spouse"],
-        "resources": ["Ratnakarandaka Shravakachara", "Shravak Dharma manuals", "Family discussion guides"],
-        "timeEstimate": "12 months, one vow per month"
-      },
-      {
-        "id": "h2",
-        "title": "Jain Parenting — Raising Compassionate Children",
-        "description": "How to raise children with Ahimsa, non-violence, and spiritual values in a competitive world. From toddlers to teenagers.",
-        "activities": ["Parent-child Pratikramana sessions", "Storytelling nights with Jain tales", "Vegetarian cooking together", "Volunteer as a family"],
-        "resources": ["Jain parenting guide", "Children's story collection", "Family practice calendar"],
-        "timeEstimate": "Ongoing"
-      },
-      {
-        "id": "h3",
-        "title": "Jain Business Ethics",
-        "description": "How to run a business with integrity, avoiding harm in supply chains, treating employees fairly, and donating consciously.",
-        "activities": ["Audit your supply chain for Ahimsa compliance", "Set up a family charity fund", "Volunteer professional skills to the Sangha", "Host a Jain business ethics dinner"],
-        "resources": ["Jain business ethics texts", "Community business directory", "Charity planning tools"],
-        "timeEstimate": "Quarterly workshops"
-      },
-      {
-        "id": "h4",
-        "title": "Daily Rhythm — Samayika to Sleep",
-        "description": "Building a complete daily schedule: morning Samayika, work with mindfulness, evening Pratikramana, and night contemplation. Making Jain practice sustainable long-term.",
-        "activities": ["Design your ideal daily schedule", "Practice 2 Samayikas daily for 21 days", "Set phone reminders for spiritual moments", "Weekly review of practice consistency"],
-        "resources": ["Daily practice app", "Samayika guided audio", "Householder dharma workbook"],
-        "timeEstimate": "21 days to build habit"
-      }
-    ]
-  },
-  "monastic": {
-    "title": "Monastic Path",
-    "sanskritTitle": "Muni Dharma",
-    "description": "For those considering or committed to monastic life. The 28 Mulagunas, 5 Mahavratas, 5 Samitis, 3 Guptis, and 11 Pratimas systematically explained.",
-    "icon": "🙏",
-    "modules": [
-      {
-        "id": "m1",
-        "title": "The 5 Mahavratas in Daily Practice",
-        "description": "Deep reflection on each Mahavrata: total Ahimsa, Satya, Achaurya, Brahmacharya, Aparigraha. How they manifest in every action, word, and thought.",
-        "activities": ["Daily Mahavrata meditation", "Self-audit of each vow", "Write a personal vow manual", "Consult Acharya/Upadhyaya monthly"],
-        "resources": ["Mulachar (monastic code)", "Oha Nijjutti", "Samiti manuals"],
-        "timeEstimate": "Lifelong refinement"
-      },
-      {
-        "id": "m2",
-        "title": "Kayotsarga — The Art of Stillness",
-        "description": "Mastering the posture of complete physical abandonment while maintaining highest mental alertness.",
-        "activities": ["Daily Kayotsarga sessions (increasing duration)", "Study of 20+ Kayotsarga types", "Practice during illness (Atur Pratyakhyan)", "Guide laypeople in Kayotsarga"],
-        "resources": ["Kayotsarga manuals", "Pravachana recordings", "Monastic observation"],
-        "timeEstimate": "Years of practice"
-      }
-    ]
-  },
-  "scholar": {
-    "title": "Scholar Path",
-    "sanskritTitle": "Vidvad Mārg",
-    "description": "For academics, researchers, and advanced students pursuing original scholarship in Jain studies. Covers Prakrit, Sanskrit, manuscripts, historiography, and comparative religion.",
-    "icon": "🎓",
-    "modules": [
-      {
-        "id": "s1",
-        "title": "Prakrit and Sanskrit for Jain Texts",
-        "description": "Learn to read original Agamas in Ardhamagadhi Prakrit and classical Sanskrit. Understand grammar, meter, and Buddhist parallels.",
-        "activities": ["Translate 1 sutra daily from Tattvartha Sutra", "Compare Jacobi and Tatia translations", "Attend Jain studies summer schools", "Visit manuscript libraries"],
-        "resources": ["Prakrit grammars", "Sanskrit dictionaries", "Digital manuscript libraries", "Pandit mentorship"],
-        "timeEstimate": "2-5 years of study"
-      },
-      {
-        "id": "s2",
-        "title": "Manuscriptology and Textual Criticism",
-        "description": "Study palm-leaf manuscripts, palaeography, colophons, and the methodologies of recovering canonical texts.",
-        "activities": ["Visit Jain Bhandars in Patan, Jaisalmer, Khambhat", "Learn to read Modi and Devanagari scripts", "Catalog ancient manuscripts", "Write a critical edition"],
-        "resources": ["Bhandar catalogs", "Palaeography guides", "Digital facsimiles"],
-        "timeEstimate": "Research degree level"
-      }
-    ]
-  },
-  "diaspora": {
-    "title": "Diaspora Guide",
-    "sanskritTitle": "Pravāsī Mārg",
-    "description": "For Jains living outside India. Practical strategies for maintaining Jain values in Western life: finding temples, raising children, celebrating festivals, vegetarian challenges, and interfaith family dynamics.",
-    "icon": "🌍",
-    "modules": [
-      {
-        "id": "d1",
-        "title": "Finding Your Jain Community Abroad",
-        "description": "How to locate Jain centers, connect with local sanghas, and build community from scratch when none exists nearby.",
-        "activities": ["Find the nearest Jain center", "Join Jain youth groups online", "Host a Jain potluck", "Create a local festival celebration"],
-        "resources": ["Jain center directory", "Virtual Pathshala", "Online festival guides", "Community-building toolkit"],
-        "timeEstimate": "Ongoing"
-      },
-      {
-        "id": "d2",
-        "title": "Jain Parenting in Western Schools",
-        "description": "Vegetarian lunch politics, explaining Diwali to classmates, dress code for temple with fashion-forward teens, and navigating Jainism alongside other religions.",
-        "activities": ["Create a 'Jain 101' presentation for your child's class", "Start a Jain club at school", "Volunteer at local food bank as a family", "Celebrate Paryushan with a small home Puja"],
-        "resources": ["Parenting guides", "School presentation templates", "Vegetarian lunch recipe book", "Festival activity kits"],
-        "timeEstimate": "Ongoing"
-      },
-      {
-        "id": "d3",
-        "title": "Ethical Consumerism — Jain Values in Supermarkets",
-        "description": "Navigating modern consumer culture with Jain ethics: vegan vs vegetarian debates, microplastics, palm oil, fast fashion, and technology ethics.",
-        "activities": ["Audit your shopping cart for Ahimsa compliance", "Create a Jain-friendly shopping list", "Research cruelty-free brands", "Attend a vegetarianism workshop"],
-        "resources": ["Ethical shopping guide", " Vegan Jain recipe book", "Supply chain research tools"],
-        "timeEstimate": "Monthly practice"
-      }
-    ]
-  }
+  "version": "2.0.0",
+  "edition": "en",
+  "editorial_status": "draft",
+  "note": "These are optional reading sequences, not instructions for religious practice. Linked topic entries remain drafts until individually reviewed.",
+  "paths": [
+    {
+      "id": "first-questions",
+      "title": "A first orientation",
+      "description": "Meet the tradition, a central ethical idea, differences among Jain communities, and two key ways of describing the path.",
+      "topic_ids": ["D01.T001", "D13.T002", "D01.T005", "D05.T010", "D02.T001"]
+    },
+    {
+      "id": "soul-and-karma",
+      "title": "Soul, karma, and liberation",
+      "description": "Follow a conceptual thread through the Jain accounts of the soul, karma, and release from rebirth.",
+      "topic_ids": ["D03.T005", "D06.T001", "D02.T001"]
+    },
+    {
+      "id": "traditions-and-texts",
+      "title": "Traditions and textual study",
+      "description": "Start with diversity, then consider the difference between a community's account of a text and historical study of its transmission.",
+      "topic_ids": ["D01.T005", "D01.T006", "D01.T008"]
+    }
+  ]
 }

@@ -13,11 +13,28 @@ interface ScriptureReaderProps {
   author?: string;
   notes?: string;
   segments: ScriptureSegment[];
+  reviewed?: boolean;
+  sourceUrl?: string;
+  edition?: string;
+  locator?: string;
+  reviewedBy?: string;
+  reviewedOn?: string;
 }
 
 type View = 'translation' | 'original' | 'transliteration';
 
-export default function ScriptureReader({ title, author, notes, segments }: ScriptureReaderProps) {
+export default function ScriptureReader({
+  title,
+  author,
+  notes,
+  segments,
+  reviewed = false,
+  sourceUrl,
+  edition,
+  locator,
+  reviewedBy,
+  reviewedOn,
+}: ScriptureReaderProps) {
   const hasOriginal = segments.some(s => s.original && s.original.trim());
   const hasTranslit = segments.some(s => s.transliteration && s.transliteration.trim());
 
@@ -32,6 +49,32 @@ export default function ScriptureReader({ title, author, notes, segments }: Scri
     original: 'Original Script',
     transliteration: 'Transliteration',
   };
+
+  const hasVerifiedSource = Boolean(
+    reviewed &&
+      sourceUrl?.startsWith("https://") &&
+      edition?.trim() &&
+      locator?.trim() &&
+      reviewedBy?.trim() &&
+      reviewedOn &&
+      /^\d{4}-\d{2}-\d{2}$/.test(reviewedOn),
+  );
+
+  if (!hasVerifiedSource) {
+    return (
+      <div style={{ border: "1px solid var(--color-border)", background: "var(--color-surface)" }}>
+        <div style={{ padding: "1.25rem 1.5rem" }}>
+          <p style={{ margin: "0 0 0.4rem", fontFamily: "var(--font-cormorant), Georgia, serif", fontSize: "1.2rem", color: "var(--color-ink)" }}>
+            {title}
+          </p>
+          <p style={{ margin: 0, color: "var(--color-ink-muted)", fontSize: "0.88rem", lineHeight: 1.6 }}>
+            This passage is awaiting review against a specific edition and location. The quotation,
+            transliteration, and translation are withheld until that check is recorded.
+          </p>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div
@@ -74,6 +117,14 @@ export default function ScriptureReader({ title, author, notes, segments }: Scri
               {author}
             </p>
           )}
+          <p style={{ fontFamily: "var(--font-inter), sans-serif", fontSize: "0.68rem", color: "var(--color-leaf)", margin: "0.45rem 0 0" }}>
+            Reviewed {reviewedOn} by {reviewedBy} · {edition} · {locator}
+          </p>
+          <p style={{ margin: "0.4rem 0 0", fontFamily: "var(--font-inter), sans-serif", fontSize: "0.68rem" }}>
+            <a href={sourceUrl} target="_blank" rel="noreferrer" style={{ color: "var(--color-saffron)" }}>
+              View the cited source
+            </a>
+          </p>
         </div>
 
         {/* View tabs — only show if there's more than one view */}

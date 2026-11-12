@@ -1,11 +1,10 @@
 import type { Metadata } from "next";
 import { Cormorant_Garamond, Source_Serif_4, Inter } from "next/font/google";
 import "../globals.css";
-import { NextIntlClientProvider } from 'next-intl';
-import { getMessages } from 'next-intl/server';
-import { notFound } from 'next/navigation';
-import { routing } from '@/i18n/routing';
-import { Link } from '@/i18n/routing';
+import { NextIntlClientProvider } from "next-intl";
+import { getMessages } from "next-intl/server";
+import { notFound } from "next/navigation";
+import { routing, Link } from "@/i18n/routing";
 
 const cormorant = Cormorant_Garamond({
   subsets: ["latin"],
@@ -23,21 +22,30 @@ const sourceSerif = Source_Serif_4({
 
 const inter = Inter({
   subsets: ["latin"],
-  weight: ["400", "500"],
+  weight: ["400", "500", "600"],
   variable: "--font-inter",
   display: "swap",
 });
 
 export const metadata: Metadata = {
   title: {
-    default: "Jainism — A Living Tradition",
-    template: "%s · Jainism",
+    default: "Learn About Jainism",
+    template: "%s · Learn About Jainism",
   },
   description:
-    "An unhurried guide to Jain philosophy, history, scripture, and practice — from the Tattvas to the Tirthankaras.",
+    "Explore Jain ideas, communities, texts, and practices through a growing, source-aware learning library.",
+  applicationName: "Learn About Jainism",
   openGraph: {
-    siteName: "Jainism — A Living Tradition",
+    siteName: "Learn About Jainism",
+    title: "Learn About Jainism",
+    description:
+      "A calm introduction to Jain ideas, communities, texts, and practices, with editorial review status made clear.",
     type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: "Learn About Jainism",
+    description: "Explore Jain ideas, communities, texts, and practices through a growing study library.",
   },
 };
 
@@ -49,152 +57,79 @@ export default async function RootLayout({
   params: Promise<{ locale: string }>;
 }>) {
   const { locale } = await params;
-  if (!routing.locales.includes(locale as any)) {
+  if (!routing.locales.includes(locale as (typeof routing.locales)[number])) {
     notFound();
   }
 
   const messages = await getMessages();
 
   return (
-    <html lang={locale} className={`${cormorant.variable} ${sourceSerif.variable} ${inter.variable}`}>
+    <html lang="en" className={`${cormorant.variable} ${sourceSerif.variable} ${inter.variable}`}>
       <body>
         <NextIntlClientProvider messages={messages}>
+          <a className="skip-link" href="#page-content">Skip to content</a>
 
-          {/* ── Masthead ─────────────────────────────── */}
-          <header
-            style={{
-              background: "var(--color-night)",
-              borderBottom: "1px solid var(--color-night-border)",
-              position: "sticky",
-              top: 0,
-              zIndex: 100,
-            }}
-          >
-            <div
-              style={{
-                maxWidth: "1100px",
-                margin: "0 auto",
-                padding: "0 1.5rem",
-                height: "3.75rem",
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "space-between",
-              }}
-            >
-              {/* Wordmark */}
-              <Link
-                href="/"
-                style={{
-                  fontFamily: "var(--font-cormorant), Georgia, serif",
-                  fontSize: "1.45rem",
-                  fontWeight: 400,
-                  letterSpacing: "0.1em",
-                  color: "var(--color-night-ink)",
-                  textDecoration: "none",
-                  textTransform: "uppercase",
-                  flexShrink: 0,
-                }}
-              >
-                Jainism
+          <header className="site-header">
+            <div className="site-container site-header__inner">
+              <Link className="site-brand" href="/" aria-label="Learn About Jainism home">
+                <span className="site-brand__mark" aria-hidden="true">J</span>
+                <span className="site-brand__wordmark">
+                  <span>Jainism</span>
+                  <small>Learning library</small>
+                </span>
               </Link>
 
-              {/* Nav links */}
-              <nav
-                style={{
-                  display: "flex",
-                  gap: "0",
-                  fontFamily: "var(--font-inter), sans-serif",
-                  fontSize: "0.72rem",
-                  letterSpacing: "0.1em",
-                  textTransform: "uppercase",
-                }}
-              >
-                {[
-                  { href: "/", label: "Home" },
-                  { href: "/aradhana", label: "Āradhana" },
-                  { href: "/ontology", label: "The Library" },
-                ].map((item) => (
-                  <Link
-                    key={item.href}
-                    href={item.href}
-                    style={{
-                      color: "var(--color-night-muted)",
-                      textDecoration: "none",
-                      padding: "0 1.1rem",
-                      height: "3.75rem",
-                      display: "flex",
-                      alignItems: "center",
-                      borderBottom: "2px solid transparent",
-                      transition: "color 0.15s, border-color 0.15s",
-                    }}
-                    className="nav-link"
-                  >
-                    {item.label}
-                  </Link>
-                ))}
+              <nav className="site-nav" aria-label="Main navigation">
+                <Link href="/start-here">Start here</Link>
+                <Link href="/ontology">Library</Link>
+                <Link href="/aradhana">Ārādhana</Link>
+                <Link href="/about-this-library">Our method</Link>
               </nav>
             </div>
           </header>
 
-          {children}
+          <div className="site-status" role="note">
+            <div className="site-container site-status__inner">
+              <span className="site-status__label">Research in progress</span>
+              <p>Topic summaries are drafts until their sources and tradition notes are reviewed.</p>
+              <Link href="/about-this-library">Editorial method <span aria-hidden="true">→</span></Link>
+            </div>
+          </div>
 
-          {/* ── Footer ───────────────────────────────── */}
-          <footer
-            style={{
-              background: "var(--color-night)",
-              borderTop: "1px solid var(--color-night-border)",
-              padding: "3rem 1.5rem",
-            }}
-          >
-            <div style={{ maxWidth: "1100px", margin: "0 auto", display: "flex", justifyContent: "space-between", alignItems: "flex-start", flexWrap: "wrap", gap: "2rem" }}>
-              <div>
-                <p style={{ fontFamily: "var(--font-cormorant), Georgia, serif", fontSize: "1.1rem", color: "var(--color-night-ink)", marginBottom: "0.5rem", letterSpacing: "0.08em", textTransform: "uppercase" }}>
-                  Jainism
-                </p>
-                <p style={{ fontFamily: "var(--font-inter), sans-serif", fontSize: "0.78rem", color: "var(--color-night-muted)", margin: 0, maxWidth: "340px", lineHeight: 1.65 }}>
-                  This site compiles scholarly sources and primary texts. It does not constitute religious authority. Practices described vary across traditions; consult qualified teachers for personal guidance.
+          <div id="page-content" tabIndex={-1}>
+            {children}
+          </div>
+
+          <footer className="site-footer">
+            <div className="site-container site-footer__grid">
+              <div className="site-footer__about">
+                <Link className="site-footer__brand" href="/">Learn About Jainism</Link>
+                <p>
+                  An English-language learning resource. It does not speak for every Jain community
+                  or replace guidance from qualified teachers.
                 </p>
               </div>
-              <div style={{ display: "flex", gap: "3rem" }}>
-                <div>
-                  <p style={{ fontFamily: "var(--font-inter), sans-serif", fontSize: "0.65rem", letterSpacing: "0.15em", textTransform: "uppercase", color: "var(--color-saffron)", marginBottom: "0.75rem" }}>Practice</p>
-                  <div style={{ display: "flex", flexDirection: "column", gap: "0.4rem" }}>
-                    {[
-                      { href: "/aradhana", label: "Āradhana Index" },
-                      { href: "/aradhana/navkar-mantra", label: "Navkar Mantra" },
-                      { href: "/aradhana/chattari-mangalam", label: "Chattari Mangalam" },
-                      { href: "/aradhana/logassa-sutra", label: "Logassa Sutra" },
-                      { href: "/aradhana/uvassagharam", label: "Uvasaggaharam Stotra" },
-                      { href: "/aradhana/bhaktamar-stotra", label: "Bhaktamar Stotra" },
-                      { href: "/aradhana/khamemi-savva-jive", label: "Khamemi Savva Jive" },
-                      { href: "/aradhana/pratikraman", label: "Pratikraman" },
-                      { href: "/aradhana/paryushana", label: "Paryushana" },
-                    ].map(l => (
-                      <Link key={l.href} href={l.href} style={{ fontFamily: "var(--font-inter), sans-serif", fontSize: "0.75rem", color: "var(--color-night-muted)", textDecoration: "none" }}>
-                        {l.label}
-                      </Link>
-                    ))}
-                  </div>
-                </div>
-                <div>
-                  <p style={{ fontFamily: "var(--font-inter), sans-serif", fontSize: "0.65rem", letterSpacing: "0.15em", textTransform: "uppercase", color: "var(--color-saffron)", marginBottom: "0.75rem" }}>Study</p>
-                  <div style={{ display: "flex", flexDirection: "column", gap: "0.4rem" }}>
-                    {[
-                      { href: "/ontology", label: "The Library" },
-                      { href: "/ontology/D02.T001", label: "Moksha" },
-                      { href: "/ontology/D06.T001", label: "Karma" },
-                      { href: "/ontology/D26.T002", label: "Tirthankaras" },
-                    ].map(l => (
-                      <Link key={l.href} href={l.href} style={{ fontFamily: "var(--font-inter), sans-serif", fontSize: "0.75rem", color: "var(--color-night-muted)", textDecoration: "none" }}>
-                        {l.label}
-                      </Link>
-                    ))}
-                  </div>
-                </div>
+              <div>
+                <h2>Explore</h2>
+                <ul>
+                  <li><Link href="/start-here">Start here</Link></li>
+                  <li><Link href="/ontology">Topic library</Link></li>
+                  <li><Link href="/aradhana">Ārādhana</Link></li>
+                </ul>
+              </div>
+              <div>
+                <h2>About</h2>
+                <ul>
+                  <li><Link href="/about-this-library">Editorial method</Link></li>
+                  <li><Link href="/ontology/D01.T005">Diversity within Jainism</Link></li>
+                </ul>
               </div>
             </div>
+            <div className="site-container site-footer__bottom">
+              <span>English edition · Editorial review is ongoing</span>
+              <span>Respectful study, careful attribution, room for difference.</span>
+            </div>
           </footer>
-
         </NextIntlClientProvider>
       </body>
     </html>

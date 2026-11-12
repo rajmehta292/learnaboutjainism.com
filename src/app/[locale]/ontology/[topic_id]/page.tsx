@@ -1,298 +1,235 @@
-import React from 'react';
-import fs from 'fs';
-import path from 'path';
-import { Link } from '@/i18n/routing';
-import SmartLinker from '@/components/SmartLinker';
-import ScriptureReader from '@/components/ScriptureReader';
-import type { Metadata } from 'next';
+import type { ReactNode } from "react";
+import fs from "node:fs";
+import path from "node:path";
+import type { Metadata } from "next";
+import { notFound } from "next/navigation";
+import { Link } from "@/i18n/routing";
+import EditorialNotice from "@/components/EditorialNotice";
+import SmartLinker from "@/components/SmartLinker";
+import ontology from "@/data/ontology.json";
 
-interface PageProps {
-  params: Promise<{ topic_id: string; locale: string }>;
+type TopicRecord = {
+  topic_id: string;
+  title: string;
+  domain: string;
+};
+
+type ReviewedSource = {
+  title: string;
+  url: string;
+  source_type: string;
+  edition?: string;
+  translator?: string;
+  locator: string;
+  tradition?: string;
+};
+
+type EditorialReview = {
+  status?: string;
+  reviewed_by?: string;
+  reviewer_qualification?: string;
+  reviewed_on?: string;
+  sources?: ReviewedSource[];
+};
+
+type TopicData = {
+  overview?: string;
+  misconceptions?: Array<{ myth: string; reality: string }>;
+  editorial_review?: EditorialReview;
+};
+
+const topicIndex = new Map<string, TopicRecord>(
+  ontology.domains.flatMap((domain) =>
+    domain.topics.map((topic) => [topic.topic_id, { ...topic, domain: domain.domain }] as const),
+  ),
+);
+const topicsDirectory = path.join(process.cwd(), "src", "data", "topics");
+
+function getTopicData(topicId: string): TopicData | null {
+  const filePath = path.join(topicsDirectory, `${topicId}.json`);
+  if (!fs.existsSync(filePath)) return null;
+
+  try {
+    return JSON.parse(fs.readFileSync(filePath, "utf8")) as TopicData;
+  } catch {
+    return null;
+  }
 }
 
-export async function generateMetadata({ params }: PageProps): Promise<Metadata> {
-  const { topic_id } = await params;
-  const ontologyPath = path.join(process.cwd(), 'src', 'data', 'ontology.json');
-  let title = topic_id;
-  let description = '';
-
-  if (fs.existsSync(ontologyPath)) {
-    const ontology = JSON.parse(fs.readFileSync(ontologyPath, 'utf8'));
-    for (const domain of ontology.domains) {
-      const found = domain.topics.find((t: any) => t.topic_id === topic_id);
-      if (found) { title = found.title; break; }
-    }
+function isHttpsUrl(value?: string) {
+  try {
+    return new URL(value ?? "").protocol === "https:";
+  } catch {
+    return false;
   }
-
-  const topicPath = path.join(process.cwd(), 'src', 'data', 'topics', `${topic_id}.json`);
-  if (fs.existsSync(topicPath)) {
-    const data = JSON.parse(fs.readFileSync(topicPath, 'utf8'));
-    if (data.overview) description = data.overview.slice(0, 160);
-  }
-
-  return { title, description };
 }
 
-export default async function TopicPage({ params }: PageProps) {
-  const { topic_id } = await params;
+function isCompleteReview(review?: EditorialReview): review is EditorialReview & {
+  reviewed_by: string;
+  reviewer_qualification: string;
+  reviewed_on: string;
+  sources: ReviewedSource[];
+} {
+  return Boolean(
+    review?.status === "reviewed" &&
+      review.reviewed_by?.trim() &&
+      review.reviewer_qualification?.trim() &&
+      /^\d{4}-\d{2}-\d{2}$/.test(review.reviewed_on ?? "") &&
+      Array.isArray(review.sources) &&
+      review.sources.length > 0 &&
+      review.sources.every((source) =>
+        Boolean(
+          source.title?.trim() &&
+            isHttpsUrl(source.url) &&
+            source.source_type?.trim() &&
+            source.locator?.trim(),
+        ),
+      ),
+  );
+}
 
-  // Look up topic metadata from ontology
-  const ontologyPath = path.join(process.cwd(), 'src', 'data', 'ontology.json');
-  let title = "Unknown Topic";
-  let domainName = "";
-  let domainId = "";
+function renderInline(text: string, topicId: string): ReactNode[] {
+  const parts = text.split(/(\*\*[^*]+\*\*|\*[^*]+\*)/g);
 
-  if (fs.existsSync(ontologyPath)) {
-    const ontology = JSON.parse(fs.readFileSync(ontologyPath, 'utf8'));
-    for (const domain of ontology.domains) {
-      const found = domain.topics.find((t: any) => t.topic_id === topic_id);
-      if (found) {
-        title = found.title;
-        domainName = domain.domain;
-        domainId = domain.domain_id;
-        break;
-      }
+  return parts.map((part, index) => {
+    if (part.startsWith("**") && part.endsWith("**")) {
+      return <strong key={index}><SmartLinker text={part.slice(2, -2)} currentTopicId={topicId} /></strong>;
     }
+    if (part.startsWith("*") && part.endsWith("*")) {
+      return <em key={index}><SmartLinker text={part.slice(1, -1)} currentTopicId={topicId} /></em>;
+    }
+    return <SmartLinker key={index} text={part} currentTopicId={topicId} />;
+  });
+}
+
+function getReviewStatus(data: TopicData) {
+  return isCompleteReview(data.editorial_review) ? data.editorial_review : null;
+}
+
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ topic_id: string }>;
+}): Promise<Metadata> {
+  const { topic_id } = await params;
+  const topic = topicIndex.get(topic_id);
+  if (!topic) {
+    return { title: "Topic not found", robots: { index: false, follow: false } };
   }
 
-  // Read topic content
-  const filePath = path.join(process.cwd(), 'src', 'data', 'topics', `${topic_id}.json`);
+  const data = getTopicData(topic_id);
+  const description = data?.overview?.replace(/[*_`]/g, "").replace(/\s+/g, " ").slice(0, 155);
 
-  if (!fs.existsSync(filePath)) {
+  return {
+    title: topic.title,
+    description: description || `A catalogue entry about ${topic.title}. Editorial review is ongoing.`,
+  };
+}
+
+export default async function TopicPage({
+  params,
+}: {
+  params: Promise<{ topic_id: string }>;
+}) {
+  const { topic_id } = await params;
+  if (!/^D\d{2}\.T\d{3}$/.test(topic_id)) notFound();
+
+  const topic = topicIndex.get(topic_id);
+  if (!topic) notFound();
+
+  const data = getTopicData(topic_id);
+  if (!data) {
     return (
-      <main style={{ maxWidth: "740px", margin: "0 auto", padding: "6rem 1.5rem", textAlign: "center" }}>
-        <p style={{ fontFamily: "var(--font-inter), sans-serif", fontSize: "0.72rem", letterSpacing: "0.14em", textTransform: "uppercase", color: "var(--color-saffron)", marginBottom: "1.5rem" }}>
-          {domainName}
-        </p>
-        <h1 style={{ fontFamily: "var(--font-cormorant), Georgia, serif", fontSize: "2.8rem", fontWeight: 300, marginBottom: "2rem" }}>{title}</h1>
-        <p style={{ fontFamily: "var(--font-source-serif), Georgia, serif", color: "var(--color-ink-muted)", lineHeight: 1.8 }}>
-          This entry is being prepared. The full text will appear here shortly.
-        </p>
-        <div style={{ marginTop: "3rem" }}>
-          <Link href="/ontology" style={{ fontFamily: "var(--font-inter), sans-serif", fontSize: "0.78rem", color: "var(--color-saffron)", textDecoration: "none", borderBottom: "1px solid currentColor" }}>
-            ← Return to the Library
-          </Link>
-        </div>
+      <main id="main-content">
+        <section className="entry-pending">
+          <p className="eyebrow">Catalogue entry · In progress</p>
+          <h1>{topic.title}</h1>
+          <p>
+            This subject is listed in the library catalogue, but a readable entry is not available
+            yet. The catalogue count includes topics still awaiting a draft.
+          </p>
+          <Link className="button button--primary" href="/ontology">Return to the library</Link>
+        </section>
       </main>
     );
   }
 
-  const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-
-  // Split overview into paragraphs
-  const paragraphs = (data.overview || '')
-    .split('\n')
-    .filter((p: string) => p.trim().length > 0);
+  const review = getReviewStatus(data);
+  const paragraphs = (data.overview ?? "")
+    .split(/\n\s*\n/)
+    .map((paragraph) => paragraph.trim())
+    .filter(Boolean);
 
   return (
-    <main>
-
-      {/* ── Topic Header ─────────────────────────────── */}
-      <section
-        style={{
-          background: "var(--color-night)",
-          padding: "4rem 1.5rem 3.5rem",
-          borderBottom: "1px solid var(--color-night-border)",
-        }}
-      >
-        <div style={{ maxWidth: "740px", margin: "0 auto" }}>
-
-          {/* Breadcrumb */}
-          <nav style={{ marginBottom: "1.8rem" }}>
-            <Link
-              href="/ontology"
-              style={{
-                fontFamily: "var(--font-inter), sans-serif",
-                fontSize: "0.72rem",
-                letterSpacing: "0.12em",
-                textTransform: "uppercase",
-                color: "var(--color-saffron)",
-                textDecoration: "none",
-              }}
-            >
-              ← The Library
-            </Link>
-            {domainName && (
-              <span
-                style={{
-                  fontFamily: "var(--font-inter), sans-serif",
-                  fontSize: "0.72rem",
-                  letterSpacing: "0.12em",
-                  textTransform: "uppercase",
-                  color: "var(--color-night-muted)",
-                  marginLeft: "0.75rem",
-                }}
-              >
-                · {domainName}
-              </span>
-            )}
+    <main id="main-content">
+      <header className="article-hero">
+        <div className="site-container article-hero__inner">
+          <nav className="article-breadcrumb" aria-label="Breadcrumb">
+            <Link href="/">Home</Link>
+            <span aria-hidden="true">/</span>
+            <Link href="/ontology">Topic library</Link>
+            <span aria-hidden="true">/</span>
+            <span aria-current="page">{topic.title}</span>
           </nav>
-
-          {/* Title */}
-          <h1
-            style={{
-              fontFamily: "var(--font-cormorant), Georgia, serif",
-              fontSize: "clamp(2.2rem, 5vw, 3.6rem)",
-              fontWeight: 300,
-              lineHeight: 1.1,
-              color: "var(--color-night-ink)",
-              margin: 0,
-            }}
-          >
-            {title}
-          </h1>
+          <p className="eyebrow">{review ? "Reviewed entry" : "Draft topic entry"}</p>
+          <h1>{topic.title}</h1>
+          <p className="article-hero__domain">{topic.domain}</p>
         </div>
-      </section>
+      </header>
 
-      {/* ── Overview ─────────────────────────────────── */}
-      <section style={{ maxWidth: "740px", margin: "0 auto", padding: "3.5rem 1.5rem 0" }}>
-        {paragraphs.map((paragraph: string, i: number) => (
-          <p
-            key={i}
-            style={{
-              fontFamily: "var(--font-source-serif), Georgia, serif",
-              fontSize: "1.05rem",
-              lineHeight: 1.9,
-              color: "var(--color-ink)",
-              marginBottom: "1.5em",
-              ...(i === 0
-                ? {
-                    fontSize: "1.12rem",
-                    fontWeight: 300,
-                    color: "var(--color-ink)",
-                  }
-                : {}),
-            }}
-          >
-            <SmartLinker text={paragraph} currentTopicId={topic_id} />
+      <article className="article-body">
+        {review ? (
+          <p className="review-byline">
+            Reviewed {review.reviewed_on} by {review.reviewed_by}
+            {review.reviewer_qualification ? ` · ${review.reviewer_qualification}` : ""}
           </p>
-        ))}
-      </section>
+        ) : (
+          <EditorialNotice />
+        )}
 
-      {/* ── Primary Sources ───────────────────────────── */}
-      {data.primary_sources && data.primary_sources.length > 0 && (
-        <section style={{ maxWidth: "740px", margin: "0 auto", padding: "3rem 1.5rem 0" }}>
-          <div
-            style={{
-              borderTop: "1px solid var(--color-border)",
-              paddingTop: "2.5rem",
-              marginBottom: "0.5rem",
-            }}
-          >
-            <p
-              style={{
-                fontFamily: "var(--font-inter), sans-serif",
-                fontSize: "0.7rem",
-                letterSpacing: "0.18em",
-                textTransform: "uppercase",
-                color: "var(--color-saffron)",
-                marginBottom: "1.5rem",
-              }}
-            >
-              Primary Sources
-            </p>
-          </div>
-
-          <div style={{ display: "flex", flexDirection: "column", gap: "1.5rem" }}>
-            {data.primary_sources.map((source: any, i: number) => (
-              <ScriptureReader
-                key={i}
-                title={source.title}
-                author={source.author}
-                notes={source.notes}
-                segments={[
-                  {
-                    id: '1',
-                    original: source.original_text || '',
-                    transliteration: source.transliteration,
-                    translationEn: source.translation,
-                  },
-                ]}
-              />
+        {paragraphs.length > 0 ? (
+          <div className="prose-reading">
+            {paragraphs.map((paragraph, index) => (
+              <p key={index}>{renderInline(paragraph, topic_id)}</p>
             ))}
           </div>
-        </section>
-      )}
+        ) : (
+          <p className="empty-state">A readable summary for this topic is still being prepared.</p>
+        )}
 
-      {/* ── Misconceptions ───────────────────────────── */}
-      {data.misconceptions && data.misconceptions.length > 0 && (
-        <section style={{ maxWidth: "740px", margin: "3rem auto 0", padding: "0 1.5rem" }}>
-          <div
-            style={{
-              background: "var(--color-saffron-pale)",
-              border: "1px solid var(--color-border)",
-              padding: "2rem 2rem",
-            }}
-          >
-            <p
-              style={{
-                fontFamily: "var(--font-inter), sans-serif",
-                fontSize: "0.7rem",
-                letterSpacing: "0.18em",
-                textTransform: "uppercase",
-                color: "var(--color-saffron)",
-                marginBottom: "1.5rem",
-              }}
-            >
-              Common Misunderstandings
-            </p>
-            <ul style={{ listStyle: "none", margin: 0, padding: 0, display: "flex", flexDirection: "column", gap: "1.5rem" }}>
-              {data.misconceptions.map((misc: any, i: number) => (
-                <li key={i}>
-                  <p
-                    style={{
-                      fontFamily: "var(--font-cormorant), Georgia, serif",
-                      fontSize: "1.1rem",
-                      color: "var(--color-ink)",
-                      marginBottom: "0.4rem",
-                      fontStyle: "italic",
-                    }}
-                  >
-                    "{misc.myth}"
-                  </p>
-                  <p
-                    style={{
-                      fontFamily: "var(--font-source-serif), Georgia, serif",
-                      fontSize: "0.92rem",
-                      lineHeight: 1.75,
-                      color: "var(--color-ink-muted)",
-                      margin: 0,
-                    }}
-                  >
-                    {misc.reality}
-                  </p>
+        {review?.sources && (
+          <section className="verified-references" aria-labelledby="verified-references-title">
+            <h2 id="verified-references-title">Sources and editions</h2>
+            <ul>
+              {review.sources.map((source, index) => (
+                <li key={`${source.url}-${index}`}>
+                  <a href={source.url} target="_blank" rel="noreferrer">{source.title}</a>
+                  <p>{[source.source_type, source.tradition, source.edition, source.translator, source.locator].filter(Boolean).join(" · ")}</p>
                 </li>
               ))}
             </ul>
-          </div>
-        </section>
-      )}
+          </section>
+        )}
 
-      {/* ── Footer nav ───────────────────────────────── */}
-      <div
-        style={{
-          maxWidth: "740px",
-          margin: "4rem auto 0",
-          padding: "2rem 1.5rem 6rem",
-          borderTop: "1px solid var(--color-border)",
-          display: "flex",
-          justifyContent: "space-between",
-          alignItems: "center",
-        }}
-      >
-        <Link
-          href="/ontology"
-          style={{
-            fontFamily: "var(--font-inter), sans-serif",
-            fontSize: "0.78rem",
-            color: "var(--color-saffron)",
-            textDecoration: "none",
-            borderBottom: "1px solid currentColor",
-          }}
-        >
-          ← Return to the Library
-        </Link>
-      </div>
+        {review && data.misconceptions && data.misconceptions.length > 0 && (
+          <section className="reviewed-misconceptions" aria-labelledby="reviewed-misconceptions-title">
+            <h2 id="reviewed-misconceptions-title">Common misunderstandings</h2>
+            <ul>
+              {data.misconceptions.map((item, index) => (
+                <li key={index}>
+                  <strong>{item.myth}</strong>
+                  <p>{item.reality}</p>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
+        <nav className="article-footer" aria-label="Article navigation">
+          <Link className="text-link" href="/ontology">← Back to the library</Link>
+          <Link className="text-link" href="/about-this-library">How entries are reviewed →</Link>
+        </nav>
+      </article>
     </main>
   );
 }
