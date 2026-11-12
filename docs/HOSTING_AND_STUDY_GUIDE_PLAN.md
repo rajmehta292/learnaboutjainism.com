@@ -10,12 +10,14 @@ The first static build included all three locale prefixes and produced 25,410 fi
 
 Sources: [Pages limits](https://developers.cloudflare.com/pages/platform/limits/), [Workers pricing and KV allowances](https://developers.cloudflare.com/workers/platform/pricing/), [Cloudflare guide to static Next.js on Pages](https://developers.cloudflare.com/pages/framework-guides/nextjs/deploy-a-static-nextjs-site/).
 
-### Deployment status
+### Production deployment status (2026-11-12)
 
-- Cloudflare Pages project `learnaboutjainism` is connected to `rajmehta292/learnaboutjainism.com`, with `main` as the production branch, `npm run build` as the build command, and `out` as the output directory.
-- The Pages project successfully built and served a preview from commit `04d4cfa`. The root redirect, Start Here, catalogue, topic page, JSON endpoints, invalid topic 404, and unpublished locale 404 worked in the preview.
-- SEO metadata, `robots.txt`, `sitemap.xml`, feedback reporting, and the static link/limit audit have since been added locally. They need a fresh preview check before production promotion.
-- PR #1 must be merged to `main` before Cloudflare creates the production deployment. The `learnaboutjainism.com` Cloudflare zone is active and its nameservers already point to Cloudflare; custom-domain attachment, DNS records, and production HTTPS are still launch steps.
+- The Cloudflare Pages project `learnaboutjainism` is connected to `rajmehta292/learnaboutjainism.com`. It builds with `npm run build`, publishes `out`, and deploys `main`. Git build watching is explicitly configured for all paths (`*`).
+- PR #1 is merged. Production deployment `0347e78f-e361-4efb-8f20-04066f11bc33` succeeded from commit `f26d404a4af12e98b05ad9402b1b19688b61ad05` and is available at [the deployment URL](https://0347e78f.learnaboutjainism.pages.dev/).
+- The apex domain and `www` are attached to the Pages project and both report active DNS and HTTP validation. Cloudflare DNS has proxied CNAMEs for `learnaboutjainism.com` and `www.learnaboutjainism.com`, each targeting `learnaboutjainism.pages.dev`. Cloudflare's edge serves HTTPS for both.
+- A Cloudflare Single Redirect sends `www.learnaboutjainism.com` to `https://learnaboutjainism.com`, preserving the request path and query string. The apex is the canonical host.
+- Production checks confirmed the root redirect to `/en`; `/en`, Start Here, the catalogue, a topic entry, the practice index, both JSON endpoints, `robots.txt`, `sitemap.xml`, and the favicon; and a 404 for an unknown topic. The sample draft topic has the expected canonical URL and `noindex, follow` metadata.
+- `.github/workflows/site-uptime.yml` checks the production site and critical public routes every six hours and can also be run manually.
 
 The export now generates the English edition's 1,676 catalogue topics and static JSON endpoints. Hindi and Gujarati remain unpublished until their text and interface are translated and reviewed. `npm run site:audit` checks file limits, required routes and metadata files, internal links, API JSON, image alt text, and the draft-topic indexing rule.
 
