@@ -6,7 +6,7 @@
 
 Cloudflare Pages Free currently allows 20,000 files per site, a maximum of 25 MiB per file, 500 builds per month, one build at a time, and a 20-minute build timeout. Static asset requests are free and unlimited. The 1 GB figure belongs to Workers KV storage; this site does not currently need KV.
 
-The first static build included all three locale prefixes and produced 25,410 files (541.57 MiB), exceeding the Pages Free file-count limit. Since Hindi and Gujarati content has not been translated or reviewed, the public export includes English only. The latest local export produces **8,524 files totaling 197,147,161 bytes (188.01 MiB)**. The largest file is 229,288 bytes, well below 25 MiB. Pages Free checks file count and per-file size; the total export is not subject to a 1 GB site-storage allowance. The checked-in `src/data` tree contains 1,519 JSON files totaling 12,806,725 bytes (12.21 MiB), with the largest JSON file at 175,436 bytes.
+The first static build included all three locale prefixes and produced 25,410 files (541.57 MiB), exceeding the Pages Free file-count limit. Since Hindi and Gujarati content has not been translated or reviewed, the public export includes English only. The current production export contains **8,526 files totaling 205,328,128 bytes (195.82 MiB)**. The largest file is 229,288 bytes, well below 25 MiB. Pages Free checks file count and per-file size; the total export is not subject to a 1 GB site-storage allowance. The checked-in `src/data` tree contains 1,519 JSON files totaling 12,806,725 bytes (12.21 MiB), with the largest JSON file at 175,436 bytes.
 
 Sources: [Pages limits](https://developers.cloudflare.com/pages/platform/limits/), [Workers pricing and KV allowances](https://developers.cloudflare.com/workers/platform/pricing/), [Cloudflare guide to static Next.js on Pages](https://developers.cloudflare.com/pages/framework-guides/nextjs/deploy-a-static-nextjs-site/).
 
@@ -14,10 +14,13 @@ Sources: [Pages limits](https://developers.cloudflare.com/pages/platform/limits/
 
 - The Cloudflare Pages project `learnaboutjainism` is connected to `rajmehta292/learnaboutjainism.com`. It builds with `npm run build`, publishes `out`, and deploys `main`. Git build watching is explicitly configured for all paths (`*`).
 - PR #1 is merged. The initial production deployment `0347e78f-e361-4efb-8f20-04066f11bc33` succeeded from commit `f26d404a4af12e98b05ad9402b1b19688b61ad05` and is available at [the deployment URL](https://0347e78f.learnaboutjainism.pages.dev/).
+- PRs #2–#4 are merged. The current production deployment `d78660ec-051d-4299-920e-4b270d7e2d14` succeeded from commit `b3151b1327030acdf78fce3141c6ba6f3ef748c5` and serves [learnaboutjainism.com](https://learnaboutjainism.com/). The latest changes add branded 1200×630 Open Graph and Twitter preview images and checks for each English page's metadata and exported image.
 - The apex domain and `www` are attached to the Pages project and both report active DNS and HTTP validation. Cloudflare DNS has proxied CNAMEs for `learnaboutjainism.com` and `www.learnaboutjainism.com`, each targeting `learnaboutjainism.pages.dev`. Cloudflare's edge serves HTTPS for both.
 - A Cloudflare Single Redirect sends `www.learnaboutjainism.com` to `https://learnaboutjainism.com`, preserving the request path and query string. The apex is the canonical host.
 - Production checks confirmed the root redirect to `/en`; `/en`, Start Here, the catalogue, a topic entry, the practice index, both JSON endpoints, `robots.txt`, `sitemap.xml`, and the favicon; and a 404 for an unknown topic. The sample draft topic has the expected canonical URL and `noindex, follow` metadata.
 - `.github/workflows/site-uptime.yml` checks the production site and critical public routes every six hours, on pull requests, and through manual dispatch.
+
+The repeat launch audit on the current production commit passed: 8,526 files, 1,691 HTML pages, 1,676 catalogue topic pages, 79,578 internal links, 3,378 share-image references, and 29 static API JSON files checked. No topic is eligible for indexing until it has a complete human editorial review record.
 
 The export now generates the English edition's 1,676 catalogue topics and static JSON endpoints. Hindi and Gujarati remain unpublished until their text and interface are translated and reviewed. `npm run site:audit` checks file limits, required routes and metadata files, internal links, API JSON, image alt text, share-image URLs and PNG dimensions, and the draft-topic indexing rule.
 
