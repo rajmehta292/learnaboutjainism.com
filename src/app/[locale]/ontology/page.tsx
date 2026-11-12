@@ -8,6 +8,19 @@ import ontology from "@/data/ontology.json";
 export const metadata: Metadata = {
   title: "Topic library",
   description: "Search and browse a growing catalogue of Jain philosophy, history, texts, and practice.",
+  alternates: { canonical: "/en/ontology" },
+  openGraph: {
+    title: "Topic library · Learn About Jainism",
+    description: "Search and browse a growing catalogue of Jain philosophy, history, texts, and practice.",
+    url: "/en/ontology",
+    siteName: "Learn About Jainism",
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: "Topic library · Learn About Jainism",
+    description: "Search and browse a growing catalogue of Jain philosophy, history, texts, and practice.",
+  },
 };
 
 const domainGroups: Array<{ label: string; prefixes: string[] }> = [

@@ -27,6 +27,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://learnaboutjainism.com"),
   title: {
     default: "Learn About Jainism",
     template: "%s · Learn About Jainism",
@@ -40,6 +41,7 @@ export const metadata: Metadata = {
     description:
       "A calm introduction to Jain ideas, communities, texts, and practices, with editorial review status made clear.",
     type: "website",
+    locale: "en_US",
   },
   twitter: {
     card: "summary",
@@ -125,6 +127,15 @@ export default async function RootLayout({
                 <ul>
                   <li><Link href="/about-this-library">Editorial method</Link></li>
                   <li><Link href="/ontology/D01.T005">Diversity within Jainism</Link></li>
+                  <li>
+                    <a
+                      href="https://github.com/rajmehta292/learnaboutjainism.com/issues/new?template=reader-feedback.yml"
+                      target="_blank"
+                      rel="noreferrer"
+                    >
+                      Corrections and accessibility feedback <span aria-hidden="true">↗</span>
+                    </a>
+                  </li>
                 </ul>
               </div>
             </div>

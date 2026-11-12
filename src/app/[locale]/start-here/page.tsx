@@ -9,6 +9,19 @@ import ontology from "@/data/ontology.json";
 export const metadata: Metadata = {
   title: "Start here",
   description: "A calm, source-aware first route through Jain ideas, communities, and texts.",
+  alternates: { canonical: "/en/start-here" },
+  openGraph: {
+    title: "Start here · Learn About Jainism",
+    description: "A calm, source-aware first route through Jain ideas, communities, and texts.",
+    url: "/en/start-here",
+    siteName: "Learn About Jainism",
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: "Start here · Learn About Jainism",
+    description: "A calm, source-aware first route through Jain ideas, communities, and texts.",
+  },
 };
 
 const topicIndex = new Map(

@@ -1,5 +1,27 @@
+import type { Metadata } from "next";
 import { Link } from "@/i18n/routing";
 import EditorialNotice from "@/components/EditorialNotice";
+
+const description =
+  "Explore Jain ideas, communities, texts, and practices through a growing, source-aware learning library.";
+
+export const metadata: Metadata = {
+  title: "A careful beginning to a living tradition",
+  description,
+  alternates: { canonical: "/en" },
+  openGraph: {
+    title: "A careful beginning to a living tradition",
+    description,
+    url: "/en",
+    siteName: "Learn About Jainism",
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: "A careful beginning to a living tradition",
+    description,
+  },
+};
 
 const firstQuestions = [
   {

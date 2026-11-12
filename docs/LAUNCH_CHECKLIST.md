@@ -1,26 +1,27 @@
 # Launch checklist
 
+## Deployment status
+
+- [x] Create a Cloudflare Pages Free project named `learnaboutjainism` and connect it to this GitHub repository.
+- [x] Set `npm run build` as the build command and `out` as the static output directory.
+- [x] Confirm the project stays within Pages Free's file-count and per-file limits.
+- [x] Add canonical metadata, a production-domain sitemap, and a robots file. Draft topic pages and practice pages stay `noindex` until qualified review.
+- [x] Add a public reader-feedback issue form for corrections and accessibility reports.
+- [ ] Push the final audited revision, verify its Cloudflare preview, and merge PR #1 to the production branch.
+- [ ] Attach `learnaboutjainism.com` and `www.learnaboutjainism.com` to the Pages project, then verify DNS and HTTPS.
+- [ ] Check the production root redirect, core pages, topic search, reviewed/draft article behavior, JSON endpoints, sitemap, robots file, and 404 response.
+- [ ] Add an uptime check after the production URL is available.
+
 ## Repository and build
 
-- [ ] Keep the static export below Cloudflare Pages Free limits (20,000 files and 25 MiB per file); the current local build is 8,520 files and 181.54 MiB total.
-- [ ] If a runtime requirement prevents static export, evaluate Cloudflare Workers with vinext and confirm production compatibility and CPU usage.
-- [ ] Connect the GitHub repository and deploy a preview build.
-- [ ] Require the repository workflow to pass for pull requests.
-- [ ] Set production environment variables only in the hosting provider's secret manager. No production credentials belong in Git.
-- [ ] Confirm the homepage, topic search, article pages, practice pages, locale routes, and JSON responses in a preview deployment.
-- [ ] Add an error monitor and uptime check after the production URL is available.
+- Keep the export below Cloudflare Pages Free limits (20,000 files and 25 MiB per file). The latest locally audited build is summarized in [the hosting plan](HOSTING_AND_STUDY_GUIDE_PLAN.md).
+- Run `npm run lint`, `npm run content:audit`, `npm run build`, and `npm run site:audit` in CI.
+- Keep production credentials out of Git; this static deployment currently requires no runtime secrets.
+- If the site later needs request-time rendering or authenticated features, evaluate Cloudflare Workers with vinext and measure production CPU use before migrating.
 
-## Domain and public claims
+## Content and public claims
 
-- [ ] Configure `learnaboutjainism.com` and `www` in the selected host, then add the provider's DNS records at the domain registrar.
-- [ ] Verify DNS resolution and HTTPS from outside the hosting account. A DNS lookup during the initial project review on 2026-11-11 did not resolve `learnaboutjainism.com`; verify the current registrar and nameservers before release.
-- [ ] Confirm canonical metadata and social preview cards use the production domain.
-- [ ] Be explicit on the live site that the catalogue and supplemental datasets are in editorial review. Do not describe Hindi or Gujarati as translated editions yet.
-- [ ] Keep detailed ritual and health-related guidance out of the site until reviewed by qualified people with relevant community, textual, and clinical expertise.
-
-## Before announcing
-
-- [ ] Run `npm ci`, `npm run lint`, `npm run content:audit`, and `npm run build` in CI.
-- [ ] Review the content queues and the live page status notices.
-- [ ] Check the deployed pages at phone and desktop widths, with keyboard navigation and browser zoom.
-- [ ] Publish a contact method for corrections and accessibility reports.
+- Be explicit that the catalogue and supplemental datasets are still under editorial review. Do not describe Hindi or Gujarati as translated editions.
+- Keep detailed ritual, fasting, health, and end-of-life guidance out of reviewed reference content until qualified community, textual, and clinical reviewers have assessed it.
+- Keep the photographed study notes and long text transcriptions private until publication, wording, translation, and reuse rights are established.
+- Review the content queues in small batches; update the entry and its source record together.

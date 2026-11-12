@@ -31,8 +31,11 @@ jobs:
       - name: Audit content structure
         run: npm run content:audit
 
-      - name: Check high and critical dependency advisories
-        run: npm audit --audit-level=high
+      - name: Check dependency advisories
+        run: npm audit --audit-level=moderate
 
       - name: Build production app
         run: npm run build
+
+      - name: Audit static export, links, and deployment limits
+        run: npm run site:audit

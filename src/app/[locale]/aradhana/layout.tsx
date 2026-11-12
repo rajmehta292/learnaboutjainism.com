@@ -1,4 +1,9 @@
+import type { Metadata } from "next";
 import { Link } from "@/i18n/routing";
+
+export const metadata: Metadata = {
+  robots: { index: false, follow: true },
+};
 
 export default function AradhanaLayout({ children }: { children: React.ReactNode }) {
   return (

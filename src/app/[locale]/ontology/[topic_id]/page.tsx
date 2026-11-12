@@ -127,10 +127,26 @@ export async function generateMetadata({
 
   const data = getTopicData(topic_id);
   const description = data?.overview?.replace(/[*_`]/g, "").replace(/\s+/g, " ").slice(0, 155);
+  const reviewed = isCompleteReview(data?.editorial_review);
+  const pageDescription = description || `A catalogue entry about ${topic.title}. Editorial review is ongoing.`;
 
   return {
     title: topic.title,
-    description: description || `A catalogue entry about ${topic.title}. Editorial review is ongoing.`,
+    description: pageDescription,
+    alternates: { canonical: `/en/ontology/${topic_id}` },
+    robots: { index: reviewed, follow: true },
+    openGraph: {
+      title: `${topic.title} · Learn About Jainism`,
+      description: pageDescription,
+      url: `/en/ontology/${topic_id}`,
+      siteName: "Learn About Jainism",
+      type: "article",
+    },
+    twitter: {
+      card: "summary",
+      title: `${topic.title} · Learn About Jainism`,
+      description: pageDescription,
+    },
   };
 }
 

@@ -7,6 +7,19 @@ import ontology from "@/data/ontology.json";
 export const metadata: Metadata = {
   title: "How to read this library",
   description: "Editorial status, source standards, and the limits of this Jain learning project.",
+  alternates: { canonical: "/en/about-this-library" },
+  openGraph: {
+    title: "How to read this library · Learn About Jainism",
+    description: "Editorial status, source standards, and the limits of this Jain learning project.",
+    url: "/en/about-this-library",
+    siteName: "Learn About Jainism",
+    type: "website",
+  },
+  twitter: {
+    card: "summary",
+    title: "How to read this library · Learn About Jainism",
+    description: "Editorial status, source standards, and the limits of this Jain learning project.",
+  },
 };
 
 const topicsDirectory = path.join(process.cwd(), "src", "data", "topics");
