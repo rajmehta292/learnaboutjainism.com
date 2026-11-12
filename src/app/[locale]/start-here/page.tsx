@@ -45,6 +45,16 @@ export default function StartHerePage() {
               <div>
                 <h2>{readingPath.title}</h2>
                 <p>{readingPath.description}</p>
+                {"guiding_questions" in readingPath && readingPath.guiding_questions.length > 0 && (
+                  <div className="reading-path__prompts">
+                    <p className="reading-path__prompts-title">Questions to keep in view</p>
+                    <ul>
+                      {readingPath.guiding_questions.map((question) => (
+                        <li key={question}>{question}</li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
               </div>
             </header>
             <ol className="reading-path__topics">

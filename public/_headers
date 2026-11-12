@@ -1,0 +1,5 @@
+/api/data/*
+  Content-Type: application/json; charset=utf-8
+
+/api/karma
+  Content-Type: application/json; charset=utf-8

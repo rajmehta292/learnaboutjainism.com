@@ -15,7 +15,7 @@ npm ci
 npm run dev
 ```
 
-Open <http://localhost:3000>. The routes have `en`, `hi`, and `gu` locale prefixes, but the content is currently English; Hindi and Gujarati are not ready to be presented as translated editions.
+Open <http://localhost:3000/en>. The public build currently contains the English edition only; Hindi and Gujarati routes will be enabled when their content is translated and reviewed. The production root `/` redirects to `/en` through Cloudflare Pages configuration.
 
 ## Project commands
 
@@ -41,7 +41,8 @@ The automated audit checks structure and highlights possible review priorities. 
 - `scripts/audit-content.mjs` — coverage report and CSV queues for editorial work.
 - `docs/CONTENT_EDITORIAL_PLAYBOOK.md` — standards, review schema, and sequencing plan.
 - `docs/LAUNCH_CHECKLIST.md` — hosting and domain steps before public launch.
+- `docs/HOSTING_AND_STUDY_GUIDE_PLAN.md` — Cloudflare Pages feasibility and study-note-derived learning paths.
 
 ## Launch
 
-The app is a Next.js project and needs a Node-compatible production host. No hosting provider, deployment project, or production credentials are configured in this repository. Before announcing the public site, complete [the launch checklist](docs/LAUNCH_CHECKLIST.md), confirm the domain resolves, and review the production build and content status.
+Cloudflare Pages Free is the recommended target. The static export is configured and verified locally at 8,520 files; the Pages preview and custom domain are not configured yet. See [the hosting and study guide plan](docs/HOSTING_AND_STUDY_GUIDE_PLAN.md) and [the launch checklist](docs/LAUNCH_CHECKLIST.md) before a public launch.

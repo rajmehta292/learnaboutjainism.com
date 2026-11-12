@@ -1,6 +1,8 @@
 import { NextResponse } from 'next/server';
 import karmaTheory from '@/data/karmaTheory.json';
 
+export const dynamic = 'force-static';
+
 type KarmaSubtype = { name: string; desc?: string };
 type KarmaRecord = {
   name: string;

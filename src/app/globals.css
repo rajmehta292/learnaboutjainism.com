@@ -658,6 +658,34 @@ p {
   color: var(--color-ink-muted);
 }
 
+.reading-path__prompts {
+  max-width: 720px;
+  margin-top: 1rem;
+  padding: 0.8rem 1rem;
+  border-left: 2px solid var(--color-saffron);
+  background: #F3EBDD;
+}
+
+.reading-path__prompts-title {
+  margin-bottom: 0.35rem !important;
+  color: var(--color-ink) !important;
+  font-family: var(--font-sans), sans-serif;
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+}
+
+.reading-path__prompts ul {
+  margin: 0;
+  padding-left: 1.15rem;
+  color: var(--color-ink-muted);
+}
+
+.reading-path__prompts li + li {
+  margin-top: 0.25rem;
+}
+
 .reading-path__topics {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));

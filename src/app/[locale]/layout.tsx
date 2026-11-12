@@ -1,10 +1,9 @@
 import type { Metadata } from "next";
 import { Cormorant_Garamond, Source_Serif_4, Inter } from "next/font/google";
 import "../globals.css";
-import { NextIntlClientProvider } from "next-intl";
-import { getMessages } from "next-intl/server";
 import { notFound } from "next/navigation";
-import { routing, Link } from "@/i18n/routing";
+import { routing, type SiteLocale, Link } from "@/i18n/routing";
+import { LocaleProvider } from "@/i18n/LocaleProvider";
 
 const cormorant = Cormorant_Garamond({
   subsets: ["latin"],
@@ -49,6 +48,12 @@ export const metadata: Metadata = {
   },
 };
 
+export function generateStaticParams() {
+  return routing.publishedLocales.map((locale) => ({ locale }));
+}
+
+export const dynamicParams = false;
+
 export default async function RootLayout({
   children,
   params,
@@ -61,12 +66,10 @@ export default async function RootLayout({
     notFound();
   }
 
-  const messages = await getMessages();
-
   return (
     <html lang="en" className={`${cormorant.variable} ${sourceSerif.variable} ${inter.variable}`}>
       <body>
-        <NextIntlClientProvider messages={messages}>
+        <LocaleProvider locale={locale as SiteLocale}>
           <a className="skip-link" href="#page-content">Skip to content</a>
 
           <header className="site-header">
@@ -130,7 +133,7 @@ export default async function RootLayout({
               <span>Respectful study, careful attribution, room for difference.</span>
             </div>
           </footer>
-        </NextIntlClientProvider>
+        </LocaleProvider>
       </body>
     </html>
   );

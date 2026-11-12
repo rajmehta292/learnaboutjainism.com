@@ -45,6 +45,14 @@ const topicIndex = new Map<string, TopicRecord>(
 );
 const topicsDirectory = path.join(process.cwd(), "src", "data", "topics");
 
+export const dynamicParams = false;
+
+export function generateStaticParams() {
+  return ontology.domains.flatMap((domain) =>
+    domain.topics.map((topic) => ({ topic_id: topic.topic_id })),
+  );
+}
+
 function getTopicData(topicId: string): TopicData | null {
   const filePath = path.join(topicsDirectory, `${topicId}.json`);
   if (!fs.existsSync(filePath)) return null;

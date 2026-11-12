@@ -1,10 +1,9 @@
-import {defineRouting} from 'next-intl/routing';
-import {createNavigation} from 'next-intl/navigation';
- 
-export const routing = defineRouting({
+export const routing = {
   locales: ['en', 'hi', 'gu'],
-  defaultLocale: 'en'
-});
- 
-export const {Link, redirect, usePathname, useRouter, getPathname} =
-  createNavigation(routing);
+  publishedLocales: ['en'],
+  defaultLocale: 'en',
+} as const;
+
+export type SiteLocale = (typeof routing.locales)[number];
+
+export { LocalizedLink as Link } from './LocalizedLink';

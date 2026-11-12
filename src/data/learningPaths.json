@@ -8,19 +8,61 @@
       "id": "first-questions",
       "title": "A first orientation",
       "description": "Meet the tradition, a central ethical idea, differences among Jain communities, and two key ways of describing the path.",
+      "guiding_questions": [
+        "Which ideas do Jain communities share, and where do their accounts differ?",
+        "How do knowledge, ethics, and spiritual effort connect?"
+      ],
       "topic_ids": ["D01.T001", "D13.T002", "D01.T005", "D05.T010", "D02.T001"]
     },
     {
       "id": "soul-and-karma",
       "title": "Soul, karma, and liberation",
       "description": "Follow a conceptual thread through the Jain accounts of the soul, karma, and release from rebirth.",
-      "topic_ids": ["D03.T005", "D06.T001", "D02.T001"]
+      "guiding_questions": [
+        "What does it mean in Jain philosophy to describe karma as subtle matter?",
+        "Why is a favorable rebirth still different from liberation?"
+      ],
+      "topic_ids": ["D03.T005", "D06.T001", "D06.T009", "D02.T016", "D02.T017", "D02.T018", "D02.T019", "D02.T001"]
     },
     {
-      "id": "traditions-and-texts",
-      "title": "Traditions and textual study",
-      "description": "Start with diversity, then consider the difference between a community's account of a text and historical study of its transmission.",
-      "topic_ids": ["D01.T005", "D01.T006", "D01.T008"]
+      "id": "cosmos-and-time",
+      "title": "The Jain cosmos and the wheel of time",
+      "description": "Explore loka and aloka, the traditional map of the universe, and the two cycles of Jain time. These are religious cosmological teachings, not modern astronomical models.",
+      "guiding_questions": [
+        "What belongs within loka, and what is described as aloka?",
+        "What do the six eras explain about changing conditions in Jain cosmology?"
+      ],
+      "topic_ids": ["D37.T001", "D37.T002", "D37.T003", "D37.T029", "D37.T030", "D37.T031", "D37.T039", "D37.T040"]
+    },
+    {
+      "id": "nonviolence-and-many-sidedness",
+      "title": "Non-violence, restraint, and many-sided understanding",
+      "description": "Connect ahimsa and the different forms of Jain vows with anekantavada and careful disagreement.",
+      "guiding_questions": [
+        "How do mendicant vows and lay vows differ in scope?",
+        "How can attention to different standpoints improve a disagreement without treating every claim as equally true?"
+      ],
+      "topic_ids": ["D13.T002", "D13.T008", "D13.T009", "D09.T001", "D09.T018"]
+    },
+    {
+      "id": "stories-and-history",
+      "title": "Jain stories, memory, and history",
+      "description": "Read stories of Rishabha, Bahubali, Mahavira, and Malli while distinguishing sacred narrative, community tradition, and claims studied by historians.",
+      "guiding_questions": [
+        "What does a story teach within Jain tradition, and what can historical evidence establish?",
+        "How do differing accounts of Malli change the way the story should be presented?"
+      ],
+      "topic_ids": ["D25.T009", "D25.T012", "D24.T002", "D24.T010", "D25.T015", "D26.T027"]
+    },
+    {
+      "id": "texts-teachers-and-community",
+      "title": "Texts, teachers, and living communities",
+      "description": "Follow how teachings are remembered and transmitted, then compare how Jain traditions describe scriptures and community life.",
+      "guiding_questions": [
+        "Why do Jain communities preserve different accounts of their scriptural canons?",
+        "How do monks, nuns, laywomen, and laymen together form a fourfold community?"
+      ],
+      "topic_ids": ["D23.T002", "D24.T020", "D28.T001", "D31.T001", "D23.T038"]
     }
   ]
 }

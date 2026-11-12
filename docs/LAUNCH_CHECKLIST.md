@@ -2,11 +2,12 @@
 
 ## Repository and build
 
-- [ ] Configure a production host that supports the Next.js App Router and Node.js 22.
-- [ ] Connect the GitHub repository and deploy the `main` branch.
+- [ ] Keep the static export below Cloudflare Pages Free limits (20,000 files and 25 MiB per file); the current local build is 8,520 files and 181.54 MiB total.
+- [ ] If a runtime requirement prevents static export, evaluate Cloudflare Workers with vinext and confirm production compatibility and CPU usage.
+- [ ] Connect the GitHub repository and deploy a preview build.
 - [ ] Require the repository workflow to pass for pull requests.
 - [ ] Set production environment variables only in the hosting provider's secret manager. No production credentials belong in Git.
-- [ ] Confirm the homepage, topic search, article pages, practice pages, locale routing, and static API routes in a preview deployment.
+- [ ] Confirm the homepage, topic search, article pages, practice pages, locale routes, and JSON responses in a preview deployment.
 - [ ] Add an error monitor and uptime check after the production URL is available.
 
 ## Domain and public claims
