@@ -1,14 +1,14 @@
 import { Link } from "@/i18n/routing";
+import { getMessages } from "@/i18n/messages";
+import type { SiteLocale } from "@/i18n/routing";
 
-export default function EditorialNotice() {
+export default function EditorialNotice({ locale = "en" }: { locale?: SiteLocale }) {
+  const copy = getMessages(locale);
   return (
-    <aside className="editorial-notice" role="note" aria-label="Editorial status">
-      <span className="editorial-notice__label">Editorial status · Draft</span>
-      <p>
-        This summary and its tradition notes have not been reviewed claim by claim. Quoted
-        passages stay hidden until an edition and exact location can be verified.
-      </p>
-      <Link href="/about-this-library">How review works</Link>
+    <aside className="editorial-notice" role="note" aria-label={copy.Navigation.statusLabel}>
+      <span className="editorial-notice__label">{copy.Navigation.statusLabel}</span>
+      <p>{copy.Editorial.draftCopy}</p>
+      <Link href="/about-this-library">{copy.Navigation.statusLink}</Link>
     </aside>
   );
 }

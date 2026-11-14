@@ -3,7 +3,9 @@ import { Cormorant_Garamond, Source_Serif_4, Inter } from "next/font/google";
 import "../globals.css";
 import { notFound } from "next/navigation";
 import { routing, type SiteLocale, Link } from "@/i18n/routing";
+import { englishHref, getMessages } from "@/i18n/messages";
 import { LocaleProvider } from "@/i18n/LocaleProvider";
+import LanguageSwitcher from "@/components/LanguageSwitcher";
 
 const cormorant = Cormorant_Garamond({
   subsets: ["latin"],
@@ -26,29 +28,33 @@ const inter = Inter({
   display: "swap",
 });
 
-export const metadata: Metadata = {
-  metadataBase: new URL("https://learnaboutjainism.com"),
-  title: {
-    default: "Learn About Jainism",
-    template: "%s · Learn About Jainism",
-  },
-  description:
-    "Explore Jain ideas, communities, texts, and practices through a growing, source-aware learning library.",
-  applicationName: "Learn About Jainism",
-  openGraph: {
-    siteName: "Learn About Jainism",
-    title: "Learn About Jainism",
-    description:
-      "A calm introduction to Jain ideas, communities, texts, and practices, with editorial review status made clear.",
-    type: "website",
-    locale: "en_US",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "Learn About Jainism",
-    description: "Explore Jain ideas, communities, texts, and practices through a growing study library.",
-  },
-};
+export async function generateMetadata({
+  params,
+}: {
+  params: Promise<{ locale: string }>;
+}): Promise<Metadata> {
+  const { locale: localeValue } = await params;
+  if (!routing.locales.includes(localeValue as SiteLocale)) return {};
+  const locale = localeValue as SiteLocale;
+  const copy = getMessages(locale);
+  const home = copy.Home;
+
+  return {
+    metadataBase: new URL("https://learnaboutjainism.com"),
+    title: { default: home.metadataTitle, template: `%s · ${copy.Navigation.brand}` },
+    description: home.metadataDescription,
+    applicationName: copy.Navigation.brand,
+    robots: locale === "en" ? { index: true, follow: true } : { index: false, follow: true },
+    openGraph: {
+      siteName: copy.Navigation.brand,
+      title: home.metadataTitle,
+      description: home.metadataDescription,
+      type: "website",
+      locale: locale === "gu" ? "gu_IN" : locale === "hi" ? "hi_IN" : "en_US",
+    },
+    twitter: { card: "summary_large_image", title: home.metadataTitle, description: home.metadataDescription },
+  };
+}
 
 export function generateStaticParams() {
   return routing.publishedLocales.map((locale) => ({ locale }));
@@ -63,41 +69,47 @@ export default async function RootLayout({
   children: React.ReactNode;
   params: Promise<{ locale: string }>;
 }>) {
-  const { locale } = await params;
-  if (!routing.locales.includes(locale as (typeof routing.locales)[number])) {
-    notFound();
-  }
+  const { locale: localeValue } = await params;
+  if (!routing.locales.includes(localeValue as SiteLocale)) notFound();
+  const locale = localeValue as SiteLocale;
+  const copy = getMessages(locale);
+  const nav = copy.Navigation;
+  const htmlLang = locale === "gu" ? "gu-IN" : locale === "hi" ? "hi-IN" : "en";
 
   return (
-    <html lang="en" className={`${cormorant.variable} ${sourceSerif.variable} ${inter.variable}`}>
+    <html lang={htmlLang} className={`${cormorant.variable} ${sourceSerif.variable} ${inter.variable}`}>
       <body>
-        <LocaleProvider locale={locale as SiteLocale}>
-          <a className="skip-link" href="#page-content">Skip to content</a>
+        <LocaleProvider locale={locale}>
+          <a className="skip-link" href="#page-content">{nav.skip}</a>
 
           <header className="site-header">
             <div className="site-container site-header__inner">
-              <Link className="site-brand" href="/" aria-label="Learn About Jainism home">
-                <span className="site-brand__mark" aria-hidden="true">J</span>
+              <Link className="site-brand" href="/" aria-label={nav.homeLabel}>
+                <span className="site-brand__mark" aria-hidden="true">{locale === "gu" ? "જ" : locale === "hi" ? "ज" : "J"}</span>
                 <span className="site-brand__wordmark">
-                  <span>Jainism</span>
-                  <small>Learning library</small>
+                  <span>{nav.brand}</span>
+                  <small>{nav.brandTagline}</small>
                 </span>
               </Link>
 
-              <nav className="site-nav" aria-label="Main navigation">
-                <Link href="/start-here">Start here</Link>
-                <Link href="/ontology">Library</Link>
-                <Link href="/aradhana">Ārādhana</Link>
-                <Link href="/about-this-library">Our method</Link>
-              </nav>
+              <div className="site-header__actions">
+                <nav className="site-nav" aria-label={nav.navLabel}>
+                  <Link href="/start-here">{nav.start}</Link>
+                  <Link href="/ontology">{nav.library}</Link>
+                  <Link href="/aradhana">{nav.practice}</Link>
+                  <Link href="/about-this-library">{nav.method}</Link>
+                </nav>
+                <LanguageSwitcher copy={nav} />
+              </div>
             </div>
           </header>
 
           <div className="site-status" role="note">
             <div className="site-container site-status__inner">
-              <span className="site-status__label">Research in progress</span>
-              <p>Topic summaries are drafts until their sources and tradition notes are reviewed.</p>
-              <Link href="/about-this-library">Editorial method <span aria-hidden="true">→</span></Link>
+              <span className="site-status__label">{nav.statusLabel}</span>
+              <p>{nav.status}</p>
+              <Link href="/about-this-library">{nav.statusLink} <span aria-hidden="true">→</span></Link>
+              {locale !== "en" && <p className="site-status__translation">{nav.translationNote}</p>}
             </div>
           </div>
 
@@ -108,40 +120,37 @@ export default async function RootLayout({
           <footer className="site-footer">
             <div className="site-container site-footer__grid">
               <div className="site-footer__about">
-                <Link className="site-footer__brand" href="/">Learn About Jainism</Link>
-                <p>
-                  An English-language learning resource. It does not speak for every Jain community
-                  or replace guidance from qualified teachers.
-                </p>
+                <Link className="site-footer__brand" href="/">{nav.brand}</Link>
+                <p>{nav.footerBlurb}</p>
               </div>
               <div>
-                <h2>Explore</h2>
+                <h2>{nav.footerExplore}</h2>
                 <ul>
-                  <li><Link href="/start-here">Start here</Link></li>
-                  <li><Link href="/ontology">Topic library</Link></li>
-                  <li><Link href="/aradhana">Ārādhana</Link></li>
+                  <li><Link href="/start-here">{nav.start}</Link></li>
+                  <li><Link href="/ontology">{nav.library}</Link></li>
+                  <li><Link href="/aradhana">{nav.practice}</Link></li>
                 </ul>
               </div>
               <div>
-                <h2>About</h2>
+                <h2>{nav.footerAbout}</h2>
                 <ul>
-                  <li><Link href="/about-this-library">Editorial method</Link></li>
-                  <li><Link href="/ontology/D01.T005">Diversity within Jainism</Link></li>
+                  <li><Link href="/about-this-library">{nav.method}</Link></li>
+                  <li><Link href={englishHref(locale, "/ontology/D01.T005")}>{nav.footerDiversity}</Link></li>
                   <li>
                     <a
                       href="https://github.com/rajmehta292/learnaboutjainism.com/issues/new?template=reader-feedback.yml"
                       target="_blank"
                       rel="noreferrer"
                     >
-                      Corrections and accessibility feedback <span aria-hidden="true">↗</span>
+                      {nav.footerFeedback} <span aria-hidden="true">↗</span>
                     </a>
                   </li>
                 </ul>
               </div>
             </div>
             <div className="site-container site-footer__bottom">
-              <span>English edition · Editorial review is ongoing</span>
-              <span>Respectful study, careful attribution, room for difference.</span>
+              <span>{nav.editionStatus}</span>
+              <span>{nav.footerLine}</span>
             </div>
           </footer>
         </LocaleProvider>

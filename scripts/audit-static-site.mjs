@@ -153,6 +153,42 @@ for (const required of [
   if (!fs.existsSync(path.join(outputRoot, required))) errors.push(`Missing required output: ${required}`);
 }
 
+const localizedCorePaths = [
+  "hi.html",
+  "hi/start-here.html",
+  "hi/ontology.html",
+  "hi/about-this-library.html",
+  "hi/aradhana.html",
+  "hi/translation-in-progress.html",
+  "gu.html",
+  "gu/start-here.html",
+  "gu/ontology.html",
+  "gu/about-this-library.html",
+  "gu/aradhana.html",
+  "gu/translation-in-progress.html",
+];
+for (const required of localizedCorePaths) {
+  const file = path.join(outputRoot, required);
+  if (!fs.existsSync(file)) {
+    errors.push(`Missing localized reading page: ${required}`);
+    continue;
+  }
+  const html = fs.readFileSync(file, "utf8");
+  const expectedLang = required.startsWith("gu/") || required === "gu.html" ? "gu-IN" : "hi-IN";
+  if (!html.includes(`<html lang="${expectedLang}"`)) errors.push(`Incorrect HTML language on ${required}`);
+  if (!/<meta name="robots" content="[^\"]*noindex/i.test(html)) {
+    errors.push(`Unreviewed localized page must be noindex: ${required}`);
+  }
+  if (!html.includes("class=\"language-switcher\"") && !html.includes("class=\"language-switcher ")) {
+    errors.push(`Language selector missing from ${required}`);
+  }
+}
+
+for (const locale of ["hi", "gu"]) {
+  const localizedTopic = path.join(outputRoot, locale, "ontology", "D01.T001.html");
+  if (fs.existsSync(localizedTopic)) errors.push(`Untranslated topic article was exported under /${locale}/`);
+}
+
 if (files.length > 20_000) errors.push(`Pages Free file limit exceeded: ${files.length} files.`);
 if (largestFile.bytes > 25 * 1024 * 1024) errors.push(`Pages per-file limit exceeded: ${largestFile.file}`);
 

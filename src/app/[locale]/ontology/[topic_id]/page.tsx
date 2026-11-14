@@ -6,7 +6,10 @@ import { notFound } from "next/navigation";
 import { Link } from "@/i18n/routing";
 import EditorialNotice from "@/components/EditorialNotice";
 import SmartLinker from "@/components/SmartLinker";
+import TranslationInProgressContent from "@/components/TranslationInProgressContent";
 import ontology from "@/data/ontology.json";
+import { getMessages } from "@/i18n/messages";
+import type { SiteLocale } from "@/i18n/routing";
 import { openGraphImages, twitterImages } from "@/lib/socialMetadata";
 
 type TopicRecord = {
@@ -48,7 +51,12 @@ const topicsDirectory = path.join(process.cwd(), "src", "data", "topics");
 
 export const dynamicParams = false;
 
-export function generateStaticParams() {
+export function generateStaticParams({ params }: { params?: { locale?: string } }) {
+  if (params?.locale === "hi" || params?.locale === "gu") {
+    // Static export requires a non-empty result for every parent locale.
+    // This private sentinel exports no real topic article in the draft locales.
+    return [{ topic_id: "_untranslated" }];
+  }
   return ontology.domains.flatMap((domain) =>
     domain.topics.map((topic) => ({ topic_id: topic.topic_id })),
   );
@@ -118,9 +126,13 @@ function getReviewStatus(data: TopicData) {
 export async function generateMetadata({
   params,
 }: {
-  params: Promise<{ topic_id: string }>;
+  params: Promise<{ locale: string; topic_id: string }>;
 }): Promise<Metadata> {
-  const { topic_id } = await params;
+  const { locale, topic_id } = await params;
+  if (topic_id === "_untranslated" && locale !== "en") {
+    const pending = getMessages(locale as SiteLocale).Pending;
+    return { title: pending.metadataTitle, description: pending.description, robots: { index: false, follow: false } };
+  }
   const topic = topicIndex.get(topic_id);
   if (!topic) {
     return { title: "Topic not found", robots: { index: false, follow: false } };
@@ -156,9 +168,12 @@ export async function generateMetadata({
 export default async function TopicPage({
   params,
 }: {
-  params: Promise<{ topic_id: string }>;
+  params: Promise<{ locale: string; topic_id: string }>;
 }) {
-  const { topic_id } = await params;
+  const { locale, topic_id } = await params;
+  if (topic_id === "_untranslated" && locale !== "en") {
+    return <TranslationInProgressContent copy={getMessages(locale as SiteLocale).Pending} />;
+  }
   if (!/^D\d{2}\.T\d{3}$/.test(topic_id)) notFound();
 
   const topic = topicIndex.get(topic_id);

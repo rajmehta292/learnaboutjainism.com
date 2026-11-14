@@ -9,6 +9,8 @@ const csvFlagIndex = args.findIndex((arg) => arg === "--csv");
 const csvPath = csvFlagIndex >= 0 ? args[csvFlagIndex + 1] : null;
 const datasetsCsvFlagIndex = args.findIndex((arg) => arg === "--datasets-csv");
 const datasetsCsvPath = datasetsCsvFlagIndex >= 0 ? args[datasetsCsvFlagIndex + 1] : null;
+const voiceCsvFlagIndex = args.findIndex((arg) => arg === "--voice-csv");
+const voiceCsvPath = voiceCsvFlagIndex >= 0 ? args[voiceCsvFlagIndex + 1] : null;
 
 const safetyPatterns = [
   ["fasting", /\bfast(?:s|ed|ing)?\b/i],
@@ -20,6 +22,25 @@ const safetyPatterns = [
   ["health, protection, or efficacy claims", /heal(?:s|ed|ing)?|cur(?:e|es|ed)|protect(?:s|ed|ion)?|spiritual efficacy|physical health/i],
   ["universal or superlative claims", /\b(universal|all Jains|all traditions|every Jain|most sacred|most famous|most important|definitive)\b/i],
 ];
+
+// These phrases are review cues, not reliable tests for AI authorship or factual accuracy.
+const voicePatterns = [
+  ["stock contrast", /\bnot (?:merely|just|simply|only)\b/i],
+  ["grand or universal wording", /\b(definitive|universally|all Jains|every Jain|the very essence|timeless wisdom)\b/i],
+  ["promotional superlatives", /\b(profound|remarkable|timeless|vibrant|one of the most|most sacred|most famous|most important|remarkable precision)\b/i],
+  ["ornate metaphor", /\b(rich tapestry|intricate tapestry|deeply rooted|stands as a testament|indelible mark)\b/i],
+  ["generic wrap-up", /\b(in conclusion|to sum up|in summary|it is important to note|it is worth noting)\b/i],
+  ["article-about-article wording", /\bthis (?:article|entry|section|guide) (?:explores|examines|delves|offers a|provides a comprehensive|serves as)\b/i],
+];
+
+const voiceGuidance = {
+  "stock contrast": "Say what the idea does in direct terms. Keep a contrast only when it changes the meaning.",
+  "grand or universal wording": "Name the source or Jain tradition. Replace a universal claim with a qualified, sourced scope.",
+  "promotional superlatives": "Remove praise words. State a verifiable detail, date, feature, or example instead.",
+  "ornate metaphor": "Describe the historical or doctrinal relationship plainly and identify its source.",
+  "generic wrap-up": "Delete the transition and state the specific conclusion, or end the paragraph.",
+  "article-about-article wording": "Start with the subject and its sourced claim; remove the sentence about what the article does.",
+};
 
 function csvCell(value) {
   return `"${String(value ?? "").replaceAll('"', '""')}"`;
@@ -67,6 +88,27 @@ function collectStrings(value, output = []) {
   return output;
 }
 
+function collectStringEntries(value, field = "$", output = []) {
+  if (typeof value === "string") output.push({ field, text: value });
+  else if (Array.isArray(value)) value.forEach((item, index) => collectStringEntries(item, `${field}[${index}]`, output));
+  else if (value && typeof value === "object") {
+    Object.entries(value).forEach(([key, item]) => collectStringEntries(item, `${field}.${key}`, output));
+  }
+  return output;
+}
+
+function getVoiceFlags(text) {
+  return voicePatterns.filter(([, pattern]) => pattern.test(text)).map(([label]) => label);
+}
+
+function getVoiceExcerpt(text) {
+  const match = voicePatterns.map(([, pattern]) => pattern.exec(text)).find(Boolean);
+  if (!match || match.index === undefined) return text.trim().slice(0, 220);
+  const start = Math.max(0, match.index - 90);
+  const end = Math.min(text.length, match.index + match[0].length + 110);
+  return text.slice(start, end).replace(/\s+/g, " ").trim();
+}
+
 const errors = [];
 let ontology;
 try {
@@ -89,6 +131,7 @@ for (const topic of topics) {
 }
 
 const rows = [];
+const voiceRows = [];
 let drafted = 0;
 let missing = 0;
 let reviewed = 0;
@@ -142,6 +185,20 @@ for (const topic of topics) {
     data.overview,
     ...((Array.isArray(data.misconceptions) ? data.misconceptions : []).flatMap((item) => [item.myth, item.reality])),
   ].join("\n");
+  for (const entry of collectStringEntries(data)) {
+    const voiceFlags = getVoiceFlags(entry.text);
+    if (voiceFlags.length > 0) {
+      voiceRows.push({
+        sourceType: "topic",
+        sourceId: topic.topic_id,
+        file: `src/data/topics/${topic.topic_id}.json`,
+        field: entry.field,
+        title: topic.title,
+        voiceFlags,
+        excerpt: getVoiceExcerpt(entry.text),
+      });
+    }
+  }
   const safetyFlags = safetyPatterns
     .filter(([, pattern]) => pattern.test(safetyText))
     .map(([label]) => label);
@@ -181,21 +238,43 @@ const dataDirectory = path.dirname(ontologyPath);
 const supplementalDatasets = fs.readdirSync(dataDirectory, { withFileTypes: true })
   .filter((entry) => entry.isFile() && entry.name.endsWith(".json") && entry.name !== "ontology.json" && entry.name !== "learningPaths.json");
 const datasetRows = [];
-for (const entry of supplementalDatasets) {
-  const filePath = path.join(dataDirectory, entry.name);
+for (const datasetFile of supplementalDatasets) {
+  const filePath = path.join(dataDirectory, datasetFile.name);
   try {
     const data = JSON.parse(fs.readFileSync(filePath, "utf8"));
     const text = collectStrings(data).join("\n");
+    for (const stringEntry of collectStringEntries(data)) {
+      const voiceFlags = getVoiceFlags(stringEntry.text);
+      if (voiceFlags.length > 0) {
+        voiceRows.push({
+          sourceType: "dataset",
+          sourceId: datasetFile.name,
+          file: `src/data/${datasetFile.name}`,
+          field: stringEntry.field,
+          title: stringEntry.field,
+          voiceFlags,
+          excerpt: getVoiceExcerpt(stringEntry.text),
+        });
+      }
+    }
     const safetyFlags = safetyPatterns
       .filter(([, pattern]) => pattern.test(text))
       .map(([label]) => label);
     const topLevelRecords = Array.isArray(data) ? data.length : (data && typeof data === "object" ? Object.keys(data).length : 1);
-    datasetRows.push({ file: entry.name, topLevelRecords, safetyFlags });
+    datasetRows.push({ file: datasetFile.name, topLevelRecords, safetyFlags });
   } catch (error) {
-    errors.push(`${entry.name}: invalid supplemental dataset JSON (${error.message})`);
+    errors.push(`${datasetFile.name}: invalid supplemental dataset JSON (${error.message})`);
   }
 }
 const flaggedDatasets = datasetRows.filter((row) => row.safetyFlags.length > 0);
+const topicVoiceRows = voiceRows.filter((row) => row.sourceType === "topic");
+const datasetVoiceRows = voiceRows.filter((row) => row.sourceType === "dataset");
+console.log(`- Text fields with possible style-pattern cues: ${voiceRows.length} (${topicVoiceRows.length} topic fields, ${datasetVoiceRows.length} supplemental fields)`);
+console.log(`- Topic entries with at least one style-pattern cue: ${new Set(topicVoiceRows.map((row) => row.sourceId)).size}`);
+console.log("  These cues prioritize human editing; they do not identify authorship or establish that a claim is wrong.");
+for (const row of voiceRows.slice(0, 12)) {
+  console.log(`  - ${row.file} ${row.field}: ${row.voiceFlags.join(", ")} — ${row.excerpt}`);
+}
 console.log(`- Supplemental JSON datasets inventoried: ${datasetRows.length}`);
 console.log(`- Supplemental datasets with potential editorial risk terms: ${flaggedDatasets.length}`);
 for (const row of flaggedDatasets) {
@@ -248,6 +327,21 @@ if (datasetsCsvPath) {
   ].join("\n");
   fs.writeFileSync(outputPath, `${output}\n`);
   console.log(`Wrote supplemental dataset queue: ${path.relative(root, outputPath)}`);
+}
+
+if (voiceCsvFlagIndex >= 0 && !voiceCsvPath) {
+  errors.push("--voice-csv requires a file path");
+}
+if (voiceCsvPath) {
+  const outputPath = path.resolve(root, voiceCsvPath);
+  fs.mkdirSync(path.dirname(outputPath), { recursive: true });
+  const headers = ["source_type", "source_id", "file", "field", "title_or_json_path", "style_pattern_cues", "editing_guidance", "excerpt_for_review"];
+  const output = [
+    headers.map(csvCell).join(","),
+    ...voiceRows.map((row) => [row.sourceType, row.sourceId, row.file, row.field, row.title, row.voiceFlags.join("; "), row.voiceFlags.map((flag) => voiceGuidance[flag]).join(" "), row.excerpt].map(csvCell).join(",")),
+  ].join("\n");
+  fs.writeFileSync(outputPath, `${output}\n`);
+  console.log(`Wrote style review queue: ${path.relative(root, outputPath)}`);
 }
 
 if (errors.length > 0) {
