@@ -1,5 +1,5 @@
 export const socialPreviewAlt =
-  "A warm cream and forest-green share card for Learn About Jainism, introducing a source-aware learning library.";
+  "A cream and forest-green share card for a Jainism learning library covering ideas, communities, texts, and practices.";
 
 export const socialPreviewSize = { width: 1200, height: 630 };
 export const openGraphImagePath = "/en/opengraph-image";

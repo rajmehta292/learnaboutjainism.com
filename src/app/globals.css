@@ -197,6 +197,40 @@ p {
   color: #E6C9A2;
 }
 
+.site-header__actions {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  justify-content: flex-end;
+  gap: clamp(0.8rem, 2vw, 1.6rem);
+}
+
+.language-switcher {
+  display: inline-flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 0.45rem;
+  color: #D4CDC2;
+  font-family: var(--font-sans), sans-serif;
+  font-size: 0.65rem;
+}
+
+.language-switcher select {
+  max-width: 9.5rem;
+  min-height: 36px;
+  padding: 0.35rem 1.8rem 0.35rem 0.55rem;
+  border: 1px solid #5A5348;
+  border-radius: 3px;
+  background: #292720;
+  color: var(--color-night-ink);
+  cursor: pointer;
+}
+
+.language-switcher select option {
+  background: #292720;
+  color: var(--color-night-ink);
+}
+
 .site-status {
   border-bottom: 1px solid var(--color-border);
   background: #EEE8DC;
@@ -234,6 +268,43 @@ p {
   text-decoration-thickness: 1px;
   text-underline-offset: 3px;
   white-space: nowrap;
+}
+
+.site-status__translation {
+  flex: 0 0 100% !important;
+  padding-top: 0.4rem;
+  border-top: 1px solid #D5CCBD;
+}
+
+html:lang(gu-IN) body {
+  font-family: "Noto Serif Gujarati", "Shruti", "Nirmala UI", serif;
+}
+
+html:lang(hi-IN) body {
+  font-family: "Noto Serif Devanagari", "Nirmala UI", serif;
+}
+
+html:lang(gu-IN) h1,
+html:lang(gu-IN) h2,
+html:lang(gu-IN) h3,
+html:lang(hi-IN) h1,
+html:lang(hi-IN) h2,
+html:lang(hi-IN) h3 {
+  font-family: "Noto Serif Gujarati", "Noto Serif Devanagari", "Nirmala UI", serif;
+  letter-spacing: 0;
+}
+
+html:lang(gu-IN) .eyebrow,
+html:lang(hi-IN) .eyebrow,
+html:lang(gu-IN) .site-nav,
+html:lang(hi-IN) .site-nav,
+html:lang(gu-IN) .button,
+html:lang(hi-IN) .button,
+html:lang(gu-IN) .language-switcher,
+html:lang(hi-IN) .language-switcher {
+  font-family: "Noto Sans Gujarati", "Noto Sans Devanagari", "Nirmala UI", sans-serif;
+  letter-spacing: 0;
+  text-transform: none;
 }
 
 /* Type and buttons */
@@ -1472,6 +1543,93 @@ p {
   color: #E0C6A3;
 }
 
+.practice-entry-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.practice-entry-card {
+  display: flex;
+  min-height: 100%;
+  flex-direction: column;
+  padding: 1.25rem;
+  border: 1px solid var(--color-night-border);
+  background: var(--color-night-surface);
+  text-decoration: none;
+  transition: border-color 160ms ease, background 160ms ease;
+}
+
+.practice-entry-card:hover {
+  border-color: #9C805F;
+  background: #302D25;
+}
+
+.practice-entry-card h3 {
+  margin: 0 0 0.55rem;
+  color: var(--color-night-ink);
+  font-family: var(--font-display), Georgia, serif;
+  font-size: 1.55rem;
+}
+
+.practice-entry-card p {
+  flex: 1;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+
+.practice-entry-card > span {
+  color: #E0C6A3;
+  font-family: var(--font-sans), sans-serif;
+  font-size: 0.7rem;
+}
+
+.translation-language-note {
+  margin-block: 0.8rem 1.2rem;
+  padding: 0.75rem 0.9rem;
+  border-left: 3px solid var(--color-saffron);
+  background: var(--color-saffron-pale);
+  color: var(--color-ink-muted);
+  font-size: 0.92rem;
+}
+
+.translation-pending {
+  width: min(100%, 760px);
+  min-height: 40vh;
+  margin-inline: auto;
+  padding: clamp(3rem, 8vw, 6rem) var(--page-gutter);
+}
+
+.translation-pending h1 {
+  font-size: clamp(2.25rem, 5vw, 3.7rem);
+}
+
+.translation-pending > p:not(.eyebrow) {
+  color: var(--color-ink-muted);
+}
+
+.translation-pending__note {
+  margin-top: 1.4rem;
+  font-size: 0.9rem;
+}
+
+.practice-stage .translation-pending {
+  color: var(--color-night-ink);
+}
+
+.practice-stage .translation-pending h1 {
+  color: var(--color-night-ink);
+}
+
+.practice-stage .translation-pending > p:not(.eyebrow) {
+  color: var(--color-night-muted);
+}
+
+.practice-stage .translation-pending .button--outline {
+  border-color: #807361;
+  color: var(--color-night-ink);
+}
+
 /* Footer */
 .site-footer {
   border-top: 1px solid var(--color-night-border);
@@ -1573,14 +1731,32 @@ p {
     padding-block: 0.85rem 0;
   }
 
-  .site-nav {
+  .site-header__actions {
     width: 100%;
+    justify-content: space-between;
+    gap: 0.75rem;
+  }
+
+  .site-nav {
+    width: auto;
+    flex: 1 1 auto;
     justify-content: space-between;
     gap: 0.55rem;
     overflow-x: auto;
     padding-bottom: 0.7rem;
     font-size: 0.59rem;
     white-space: nowrap;
+  }
+
+  .language-switcher {
+    gap: 0.3rem;
+    font-size: 0.6rem;
+  }
+
+  .language-switcher select {
+    max-width: 7.5rem;
+    min-height: 34px;
+    padding-inline: 0.4rem 1.5rem;
   }
 
   .site-status__inner {
@@ -1663,6 +1839,10 @@ p {
   .question-grid,
   .topic-results,
   .topic-results--domain {
+    grid-template-columns: 1fr;
+  }
+
+  .practice-entry-grid {
     grid-template-columns: 1fr;
   }
 

@@ -1,6 +1,6 @@
 # Content Editorial Playbook
 
-**Baseline:** 2026-11-11<br>
+**Baseline:** 2026-11-14<br>
 **Scope:** the ontology, topic files, practice pages, and any future translated editions.
 
 ## Current coverage
@@ -18,9 +18,10 @@ Run the inventory with:
 npm run content:audit
 npm run content:audit -- --csv docs/content-review-queue.csv
 npm run content:audit -- --csv docs/content-review-queue.csv --datasets-csv docs/dataset-review-queue.csv
+npm run content:voice-audit
 ```
 
-The audit checks ontology structure, entry-file coverage, review records, and legacy citation fields. Its topic keyword scan covers overviews and misconception text; the supplemental scan checks every JSON file directly in `src/data` except the ontology and learning paths. Both scans prioritize material for human review and can produce false positives. They cannot establish that a claim, quotation, or practice description is accurate.
+The content audit checks ontology structure, entry-file coverage, review records, and legacy citation fields. Its safety scan covers topic summaries and supporting JSON datasets. The voice audit flags phrases such as stock contrasts, sweeping claims, ornate metaphors, promotional superlatives, and generic conclusions. It also emits `docs/content-voice-review-queue.csv`, with the source file, JSON field, and a short excerpt. These are prompts for a person to assess tone and accuracy; they do not identify authorship or prove that any passage is wrong.
 
 ## Review record
 
@@ -71,7 +72,7 @@ The app hides legacy quotation blocks and misconception lists until a complete r
 | 3. Texts and transmission | Āgamas, Tattvārthasūtra, major Digambara and Śvetāmbara works, manuscript history | Each tradition's canon and interpretive lineage is described on its own terms. |
 | 4. Living practice | Vows, festivals, prayer, fasting, monastic life, end-of-life vows | Qualified human review; no medical, coercive, or prescriptive claims are published as general advice. |
 | 5. Remaining catalogue | Work domain by domain using the CSV queue | Every catalogue item is either a sourced reviewed article or visibly marked as awaiting a draft. |
-| 6. Language editions | Gujarati and Hindi interface and article translations | Translation is checked by a fluent human, with diacritics, scripts, and terminology reviewed. |
+| 6. Language editions | Gujarati and Hindi reading pages, then topic articles | The current reading views are drafts and stay out of search results until fluent readers check script, usage, and Jain terminology. Translate topic articles in reviewed batches and publish each batch only after the source claims and translation pass review. |
 
 ## Editorial rules
 
@@ -80,7 +81,7 @@ The app hides legacy quotation blocks and misconception lists until a complete r
 - Avoid unsupported superlatives, fixed dates for contested lives, invented statistics, and claims that Jain teachings are scientifically proved.
 - Do not turn fasting, monastic discipline, or end-of-life vows into steps, targets, challenges, or recommendations. Refer personal religious questions to qualified Jain teachers and health questions to clinicians.
 - Do not publish fabricated quotations, approximate translations presented as canonical, or resource lists that have not been checked.
-- Treat Gujarati and Hindi routes as unready for a language claim until the page content—not just navigation labels—has been translated and reviewed.
+- Describe the current Gujarati and Hindi pages as draft reading views, not complete translated editions. Keep them `noindex` until fluent readers review the copy; topic articles remain English until translated and checked in bounded batches.
 
 ## Useful starting references
 

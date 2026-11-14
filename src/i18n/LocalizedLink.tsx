@@ -9,10 +9,9 @@ type Props = ComponentProps<typeof NextLink>;
 function localizePath(path: string, locale: string) {
   if (!path.startsWith('/') || path.startsWith('//')) return path;
 
-  const localePrefix = `/${locale}`;
-  if (path === localePrefix || path.startsWith(`${localePrefix}/`)) return path;
+  if (/^\/(en|hi|gu)(?:\/|$)/.test(path)) return path;
 
-  return `${localePrefix}${path === '/' ? '' : path}`;
+  return `/${locale}${path === '/' ? '' : path}`;
 }
 
 export function LocalizedLink({ href, ...props }: Props) {

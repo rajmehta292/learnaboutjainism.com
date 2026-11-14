@@ -11,6 +11,7 @@
     "start": "next start",
     "lint": "eslint",
     "content:audit": "node scripts/audit-content.mjs",
+    "content:voice-audit": "node scripts/audit-content.mjs --voice-csv docs/content-voice-review-queue.csv",
     "site:audit": "node scripts/audit-static-site.mjs"
   },
   "dependencies": {

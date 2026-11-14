@@ -49,8 +49,8 @@ export default function SocialPreviewCard() {
             AN ENGLISH LEARNING LIBRARY
           </span>
           <div style={{ display: "flex", flexDirection: "column", fontSize: 62, fontWeight: 700, lineHeight: 1.06 }}>
-            <span>A careful beginning</span>
-            <span>to a living tradition.</span>
+            <span>An introduction to</span>
+            <span>Jain traditions.</span>
           </div>
           <span style={{ fontSize: 25, color: "#625D55" }}>
             Ideas · Communities · Texts · Practices
@@ -117,7 +117,7 @@ export default function SocialPreviewCard() {
           fontSize: 16,
         }}
       >
-        <span>Source-aware study · Room for difference</span>
+        <span>Read a topic. Check its sources.</span>
         <span>learnaboutjainism.com</span>
       </div>
     </div>
