@@ -41,20 +41,25 @@
     "browseButton": "Explore Jain topics",
     "guideLabel": "Key Jain ideas",
     "guideAria": "Key ideas in Jain traditions",
+    "guideNote": "Explore each topic on its own. This is a reading map, not a sequence of spiritual steps.",
     "steps": [
       {
+        "id": "D04.T001",
         "title": "Jīva · soul",
         "description": "Every living being has a soul, distinct and capable of liberation."
       },
       {
+        "id": "D06.T001",
         "title": "Karma",
         "description": "Karma binds the soul and shapes its experience of rebirth."
       },
       {
+        "id": "D13.T002",
         "title": "Ahimsa",
         "description": "Nonviolence guides conduct toward living beings."
       },
       {
+        "id": "D02.T001",
         "title": "Moksha",
         "description": "Liberation is release from karma and rebirth."
       }
@@ -450,5 +455,34 @@
     "staff": "Librarians can use the separate library review workspace. Reader notes and reading activity are not included in that workspace.",
     "googleTitle": "Google's privacy policy",
     "google": "Google handles the sign-in step under its own privacy policy. The library only requests the basic OpenID Connect profile and email information needed to create and secure your account."
+  },
+  "Feedback": {
+    "eyebrow": "Help improve the library",
+    "title": "Suggest a correction or accessibility fix",
+    "intro": "Tell us what needs attention. You do not need an account.",
+    "typeLabel": "What is this about?",
+    "typeCorrection": "Correction or source issue",
+    "typeAccessibility": "Accessibility barrier",
+    "typeSuggestion": "Other suggestion",
+    "pageLabel": "Page link (optional)",
+    "pageHint": "We will fill in the page you came from when we can.",
+    "detailsLabel": "What should we review?",
+    "detailsHint": "Describe the sentence, source, or problem. A short quote or steps to reproduce can help.",
+    "contextLabel": "Source or additional context (optional)",
+    "contextHint": "You can include a book edition and page, a community perspective, or assistive technology used.",
+    "publicNoticeTitle": "Your report will be public",
+    "publicNotice": "On the live site, reports are added to this site's public GitHub issue tracker and review list. Do not include your name, contact details, or other private information.",
+    "submit": "Send report",
+    "submitting": "Sending…",
+    "successTitle": "Report received",
+    "success": "Your report is in the library review queue.",
+    "successPending": "Your report is in the library review queue. The librarian team will retry the GitHub sync.",
+    "successPreview": "This preview report is saved in the preview inbox and will not create a public GitHub issue.",
+    "reference": "Reference",
+    "issueLink": "View public GitHub issue",
+    "errorTitle": "The report could not be sent",
+    "back": "Back to the library",
+    "required": "Please complete this field.",
+    "honeypot": "Leave this field empty"
   }
 }

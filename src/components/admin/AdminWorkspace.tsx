@@ -2,6 +2,8 @@
 
 import { useEffect, useMemo, useState } from "react";
 import { Link } from "@/i18n/routing";
+import FeedbackInbox from "@/components/admin/FeedbackInbox";
+import ReviewWorkflow from "@/components/admin/ReviewWorkflow";
 
 type Status = "needs_review" | "in_review" | "verified";
 type TopicRecord = {
@@ -21,6 +23,24 @@ type Task = {
   version: number;
   updatedAt?: string;
   updatedBy?: string;
+  hasDraft?: number;
+};
+type RecentFeedback = {
+  id: string;
+  type: "correction" | "accessibility" | "suggestion";
+  pageUrl: string;
+  body: string;
+  status: string;
+  githubSyncState: string;
+  createdAt: string;
+};
+type AdminSummary = {
+  savedDrafts: number;
+  feedbackTotal: number;
+  feedbackNew: number;
+  feedbackActive: number;
+  feedbackStatuses: Record<string, number>;
+  recentFeedback: RecentFeedback[];
 };
 type HistoryEvent = {
   id: number;
@@ -37,7 +57,7 @@ type PageDetail = {
   task: Task & { draftContent: PageContent | null; hasPublishedContent: boolean };
   history: HistoryEvent[];
 };
-type Section = "overview" | "review" | "pages" | "edit";
+type Section = "overview" | "review" | "pages" | "edit" | "feedback" | "workflow";
 
 const ADMIN_ROOT = "/en/admin";
 
@@ -84,6 +104,7 @@ export default function AdminWorkspace({ section }: { section: Section }) {
   const [tasks, setTasks] = useState<Task[]>([]);
   const [user, setUser] = useState("");
   const [authMethod, setAuthMethod] = useState("");
+  const [summary, setSummary] = useState<AdminSummary>({ savedDrafts: 0, feedbackTotal: 0, feedbackNew: 0, feedbackActive: 0, feedbackStatuses: {}, recentFeedback: [] });
   const [selectedId, setSelectedId] = useState("");
   const [detail, setDetail] = useState<PageDetail | null>(null);
   const [baseContent, setBaseContent] = useState<PageContent | null>(null);
@@ -96,27 +117,31 @@ export default function AdminWorkspace({ section }: { section: Section }) {
   const selectedRecord = records.find((record) => record.topicId === selectedId);
 
   async function reloadWorkspace() {
+    const compact = section === "feedback" || section === "workflow";
     const [manifestResponse, stateResponse] = await Promise.all([
-      fetch("/content-review-index.json", { cache: "no-store" }),
-      fetch("/api/admin/state", { cache: "no-store" }),
+      compact ? Promise.resolve(null) : fetch("/content-review-index.json", { cache: "no-store" }),
+      fetch(`/api/admin/state${compact ? "?summary=1" : ""}`, { cache: "no-store" }),
     ]);
-    const manifest = await responseJson(manifestResponse);
+    const manifest = manifestResponse ? await responseJson(manifestResponse) : { topics: [] };
     const state = await responseJson(stateResponse);
-    setRecords(Array.isArray(manifest.topics) ? manifest.topics : []);
+    if (!compact) setRecords(Array.isArray(manifest.topics) ? manifest.topics : []);
     setTasks(Array.isArray(state.tasks) ? state.tasks : []);
+    setSummary(state.summary ?? { savedDrafts: 0, feedbackTotal: 0, feedbackNew: 0, feedbackActive: 0, feedbackStatuses: {}, recentFeedback: [] });
     setUser(typeof state.user === "string" ? state.user : "");
     setAuthMethod(typeof state.authMethod === "string" ? state.authMethod : "Cloudflare Access");
   }
 
   useEffect(() => {
     let active = true;
+    const compact = section === "feedback" || section === "workflow";
     Promise.all([
-      fetch("/content-review-index.json", { cache: "no-store" }).then(responseJson),
-      fetch("/api/admin/state", { cache: "no-store" }).then(responseJson),
+      compact ? Promise.resolve({ topics: [] }) : fetch("/content-review-index.json", { cache: "no-store" }).then(responseJson),
+      fetch(`/api/admin/state${compact ? "?summary=1" : ""}`, { cache: "no-store" }).then(responseJson),
     ]).then(([manifest, state]) => {
       if (!active) return;
-      setRecords(Array.isArray(manifest.topics) ? manifest.topics : []);
+      if (!compact) setRecords(Array.isArray(manifest.topics) ? manifest.topics : []);
       setTasks(Array.isArray(state.tasks) ? state.tasks : []);
+      setSummary(state.summary ?? { savedDrafts: 0, feedbackTotal: 0, feedbackNew: 0, feedbackActive: 0, feedbackStatuses: {}, recentFeedback: [] });
       setUser(typeof state.user === "string" ? state.user : "");
       setAuthMethod(typeof state.authMethod === "string" ? state.authMethod : "Cloudflare Access");
       const queryId = new URLSearchParams(window.location.search).get("topic_id") ?? "";
@@ -128,7 +153,7 @@ export default function AdminWorkspace({ section }: { section: Section }) {
       setLoading(false);
     });
     return () => { active = false; };
-  }, []);
+  }, [section]);
 
   useEffect(() => {
     if (section !== "edit" || !selectedId) {
@@ -181,8 +206,10 @@ export default function AdminWorkspace({ section }: { section: Section }) {
             <a className={section === "overview" ? "is-active" : ""} href={ADMIN_ROOT}>Overview</a>
             <a className={section === "review" ? "is-active" : ""} href={`${ADMIN_ROOT}/review`}>Review center <span>{needsReview + inReview}</span></a>
             <a className={section === "pages" ? "is-active" : ""} href={`${ADMIN_ROOT}/pages`}>All pages</a>
+            <a className={section === "feedback" ? "is-active" : ""} href={`${ADMIN_ROOT}/feedback`}>Reader feedback <span>{summary.feedbackNew}</span></a>
             <span className="admin-sidebar__label admin-sidebar__label--second">TOOLS</span>
             <a className={section === "edit" ? "is-active" : ""} href={`${ADMIN_ROOT}/edit`}>Page editor</a>
+            <a className={section === "workflow" ? "is-active" : ""} href={`${ADMIN_ROOT}/workflow`}>Review workflow</a>
             <div className="admin-sidebar__help">
               <strong>Shared workspace</strong>
               <p>Assignments, changes, and review notes are saved for the whole team.</p>
@@ -193,9 +220,11 @@ export default function AdminWorkspace({ section }: { section: Section }) {
             {error && <div className="admin-alert" role="alert"><strong>Could not load the workspace</strong><span>{error}</span>{/sign in|librarian access/i.test(error) && <Link className="admin-quiet-link" href="/en/sign-in?return_to=%2Fen%2Fadmin">Librarian sign-in</Link>}<button type="button" onClick={() => window.location.reload()}>Reload</button></div>}
             {loading ? <div className="admin-loading">Opening the library workspace…</div> : (
               <>
-                {section === "overview" && <Overview records={recordsWithStatus} needsReview={needsReview} inReview={inReview} verified={verified} contentNeeded={contentNeeded} nextPage={nextPage} />}
+                {section === "overview" && <Overview records={recordsWithStatus} needsReview={needsReview} inReview={inReview} verified={verified} contentNeeded={contentNeeded} nextPage={nextPage} summary={summary} />}
                 {section === "review" && <ReviewCenter records={recordsWithStatus.filter((record) => record.hasPage)} />}
                 {section === "pages" && <PagesTracker records={recordsWithStatus} />}
+                {section === "feedback" && <FeedbackInbox />}
+                {section === "workflow" && <ReviewWorkflow />}
                 {section === "edit" && (
                   <EditorPanel
                     key={`${selectedId}:${detail?.task.topicId === selectedId ? "loaded" : "loading"}`}
@@ -221,8 +250,8 @@ export default function AdminWorkspace({ section }: { section: Section }) {
 
 type DashboardRecord = TopicRecord & { status: Status; task?: Task };
 
-function Overview({ records, needsReview, inReview, verified, contentNeeded, nextPage }: {
-  records: DashboardRecord[]; needsReview: number; inReview: number; verified: number; contentNeeded: number; nextPage?: DashboardRecord;
+function Overview({ records, needsReview, inReview, verified, contentNeeded, nextPage, summary }: {
+  records: DashboardRecord[]; needsReview: number; inReview: number; verified: number; contentNeeded: number; nextPage?: DashboardRecord; summary: AdminSummary;
 }) {
   const articleCount = records.filter((record) => record.hasPage).length;
   const recent = records.filter((record) => record.task?.updatedAt).sort((a, b) => String(b.task?.updatedAt).localeCompare(String(a.task?.updatedAt))).slice(0, 5);
@@ -232,9 +261,21 @@ function Overview({ records, needsReview, inReview, verified, contentNeeded, nex
       <div className="admin-stats">
         <article><span className="admin-stat-icon admin-stat-icon--gold">↗</span><span className="admin-stat-label">Needs review</span><strong>{needsReview.toLocaleString()}</strong><small>Articles waiting for a first review</small></article>
         <article><span className="admin-stat-icon admin-stat-icon--sage">◷</span><span className="admin-stat-label">In review</span><strong>{inReview.toLocaleString()}</strong><small>Pages currently being worked on</small></article>
+        <article><span className="admin-stat-icon admin-stat-icon--gold">✎</span><span className="admin-stat-label">Saved drafts</span><strong>{summary.savedDrafts.toLocaleString()}</strong><small>Working copies saved for the team</small></article>
+        <article><span className="admin-stat-icon admin-stat-icon--neutral">↺</span><span className="admin-stat-label">New feedback</span><strong>{summary.feedbackNew.toLocaleString()}</strong><small>Reader reports awaiting triage</small></article>
         <article><span className="admin-stat-icon admin-stat-icon--ink">✓</span><span className="admin-stat-label">Verified</span><strong>{verified.toLocaleString()}</strong><small>Pages published after review</small></article>
         <article><span className="admin-stat-icon admin-stat-icon--neutral">＋</span><span className="admin-stat-label">Content needed</span><strong>{contentNeeded.toLocaleString()}</strong><small>Topics without an article yet</small></article>
       </div>
+      <section className="admin-card admin-flow-preview" aria-labelledby="admin-flow-title">
+        <div className="admin-card-heading"><div><p className="eyebrow">FROM REPORT TO REVISION</p><h3 id="admin-flow-title">A clear review path</h3></div><a className="admin-quiet-link" href={`${ADMIN_ROOT}/workflow`}>Read the workflow →</a></div>
+        <ol className="admin-flow-preview__steps">
+          <li><span>01</span><strong>Receive</strong><small>{summary.feedbackTotal.toLocaleString()} reader reports</small></li>
+          <li><span>02</span><strong>Assign</strong><small>Give a librarian the next action</small></li>
+          <li><span>03</span><strong>Check</strong><small>Compare claims with cited sources</small></li>
+          <li><span>04</span><strong>Revise</strong><small>Save a shared draft and notes</small></li>
+          <li><span>05</span><strong>Publish</strong><small>Record the decision in page history</small></li>
+        </ol>
+      </section>
       <div className="admin-overview-grid">
         <section className="admin-card admin-next-card">
           <p className="eyebrow">NEXT UP</p>
@@ -252,6 +293,10 @@ function Overview({ records, needsReview, inReview, verified, contentNeeded, nex
       <section className="admin-card admin-recent">
         <div className="admin-card-heading"><div><p className="eyebrow">TEAM ACTIVITY</p><h3>Recently updated</h3></div><a className="admin-quiet-link" href={`${ADMIN_ROOT}/pages`}>View all pages →</a></div>
         {recent.length ? <div className="admin-recent-list">{recent.map((record) => <a key={record.topicId} href={topicHref(record.topicId)}><span className="admin-recent-list__title"><strong>{record.title}</strong><small>{record.topicId} · {record.task?.updatedBy}</small></span><EntryStatus record={record} /><time>{dateLabel(record.task?.updatedAt)}</time></a>)}</div> : <p className="admin-empty">Page activity will appear here as the team saves work.</p>}
+      </section>
+      <section className="admin-card admin-feedback-recent">
+        <div className="admin-card-heading"><div><p className="eyebrow">READER REPORTS</p><h3>Latest feedback</h3></div><a className="admin-quiet-link" href={`${ADMIN_ROOT}/feedback`}>Open inbox →</a></div>
+        {summary.recentFeedback.length ? <div className="admin-feedback-recent__list">{summary.recentFeedback.map((item) => <a key={item.id} href={`${ADMIN_ROOT}/feedback?item=${item.id}`}><span><strong>{item.type === "correction" ? "Correction or source issue" : item.type === "accessibility" ? "Accessibility barrier" : "Other suggestion"}</strong><small>{item.body}</small></span><time>{dateLabel(item.createdAt)}</time></a>)}</div> : <p className="admin-empty">Reader reports will appear here when someone submits one.</p>}
       </section>
     </>
   );

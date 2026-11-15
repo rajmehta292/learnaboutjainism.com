@@ -5,7 +5,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Submitting this form creates a public GitHub issue. An automated workflow also copies it to `docs/reader-feedback.csv` in this public repository, where anyone can read it. GitHub requires an account to submit. Please do not include personal, medical, or other private information.
+        This direct GitHub form creates a public issue and requires a GitHub account. Website visitors can use the account-free form at https://learnaboutjainism.com/en/feedback instead. Reports are public and are also copied to `docs/reader-feedback.csv`; do not include personal, medical, or other private information.
   - type: dropdown
     id: feedback_type
     attributes:

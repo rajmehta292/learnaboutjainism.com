@@ -6,6 +6,7 @@ import { routing, type SiteLocale, Link } from "@/i18n/routing";
 import { englishHref, getMessages } from "@/i18n/messages";
 import { LocaleProvider } from "@/i18n/LocaleProvider";
 import LanguageSwitcher from "@/components/LanguageSwitcher";
+import FeedbackLink from "@/components/FeedbackLink";
 
 const cormorant = Cormorant_Garamond({
   subsets: ["latin"],
@@ -131,13 +132,9 @@ export default async function RootLayout({
                   <li><Link href="/privacy">{nav.footerPrivacy}</Link></li>
                   <li><Link href={englishHref(locale, "/ontology/D01.T005")}>{nav.footerDiversity}</Link></li>
                   <li>
-                    <a
-                      href="https://github.com/rajmehta292/learnaboutjainism.com/issues/new?template=reader-feedback.yml"
-                      target="_blank"
-                      rel="noreferrer"
-                    >
+                    <FeedbackLink>
                       {nav.footerFeedback} <span aria-hidden="true">↗</span>
-                    </a>
+                    </FeedbackLink>
                   </li>
                   <li><Link href={"/sign-in?return_to=" + encodeURIComponent("/en/admin")}>{nav.adminLogin}</Link></li>
                 </ul>

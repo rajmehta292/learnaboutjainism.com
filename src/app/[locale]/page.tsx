@@ -37,14 +37,17 @@ export default async function Home({ params }: { params: Promise<{ locale: SiteL
 
           <aside className="home-hero__guide" aria-label={copy.guideAria}>
             <p className="eyebrow">{copy.guideLabel}</p>
-            <ol>
+            <ul className="home-hero__map">
               {copy.steps.map((step, index) => (
                 <li key={step.title}>
-                  <span className="home-hero__step">{String(index + 1).padStart(2, "0")}</span>
-                  <span><strong>{step.title}</strong><small>{step.description}</small></span>
+                  <Link className="home-hero__concept" href={englishHref(locale, `/ontology/${step.id}`)}>
+                    <span className="home-hero__concept-dot" aria-hidden="true">{String(index + 1).padStart(2, "0")}</span>
+                    <span><strong>{step.title}</strong><small>{step.description}</small></span>
+                  </Link>
                 </li>
               ))}
-            </ol>
+            </ul>
+            <p className="home-hero__guide-note">{copy.guideNote}</p>
           </aside>
         </div>
       </section>
