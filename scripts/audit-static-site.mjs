@@ -215,7 +215,7 @@ for (const url of sitemapUrls) {
 }
 
 const sitemapUrlSet = new Set(sitemapUrls);
-const fixedSitemapPaths = ["/en", "/en/start-here", "/en/ontology", "/en/about-this-library"];
+const fixedSitemapPaths = ["/en", "/en/start-here", "/en/ontology", "/en/about-this-library", "/en/privacy"];
 const allowedSitemapUrls = new Set(fixedSitemapPaths.map((pathname) => `${origin}${pathname}`));
 for (const pathname of fixedSitemapPaths) {
   if (!sitemapUrlSet.has(`${origin}${pathname}`)) errors.push(`A core public page is missing from the sitemap: ${pathname}`);
@@ -255,6 +255,7 @@ for (const topic of ontology.domains.flatMap((domain) => domain.topics)) {
   } else {
     if (!robotsMatch?.[1].includes("noindex")) errors.push(`Unreviewed topic is indexable: ${topic.topic_id}`);
     if (sitemapUrlSet.has(topicUrl)) errors.push(`Unreviewed topic appears in the sitemap: ${topic.topic_id}`);
+    if (html.includes('id="topic-sources-title"')) errors.push(`Unreviewed topic exposes its legacy source list: ${topic.topic_id}`);
   }
 }
 for (const url of sitemapUrlSet) {

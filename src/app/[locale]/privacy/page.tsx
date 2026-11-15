@@ -12,6 +12,7 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: S
   if (!routing.locales.includes(locale)) return {};
   return {
     title: getMessages(locale).Privacy.title,
+    alternates: { canonical: `/${locale}/privacy` },
     robots: { index: true, follow: true },
   };
 }

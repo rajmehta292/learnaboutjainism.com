@@ -92,7 +92,7 @@ export default function TopicExperience({
 
   const paragraphs = (content.overview ?? "").split(/\n\s*\n/).map((paragraph) => paragraph.trim()).filter(Boolean);
   const reviewedSources = content.editorial_review?.sources;
-  const sources = reviewedSources?.length ? reviewedSources : (content.primary_sources ?? []);
+  const sources = !needsReview && reviewedSources?.length ? reviewedSources : [];
 
   return (
     <main id="main-content">
@@ -129,7 +129,7 @@ export default function TopicExperience({
           </section>
         )}
 
-        {content.misconceptions?.length ? (
+        {!needsReview && content.misconceptions?.length ? (
           <section className="reviewed-misconceptions" aria-labelledby="topic-misunderstandings-title">
             <h2 id="topic-misunderstandings-title">Common questions</h2>
             <ul>{content.misconceptions.map((item, index) => <li key={index}><strong>{item.myth}</strong><p>{item.reality}</p></li>)}</ul>

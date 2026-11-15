@@ -1,14 +1,15 @@
 # Product and content audit
 
-**Baseline reviewed:** 2026-11-14<br>
+**Baseline reviewed:** 2026-11-15<br>
 **Purpose:** set a practical path from prototype to a reliable, accessible learning library.
 
 ## What changed in this pass
 
 - Replaced the generic landing page with a clear entry point, six reading paths, a searchable catalogue, and visible links to the editorial method.
-- Grouped catalogue browsing and added search so visitors do not have to load and scan all 1,676 topics at once.
+- Grouped catalogue browsing and added search so visitors do not have to load and scan all 1,401 topics at once.
 - Removed internal catalogue codes from the primary browsing experience; retained stable IDs in URLs and source data.
-- Added draft notices to topic summaries and practice material. Topic quotations and misconception lists are withheld until a review record contains linked sources and pinpoint locations.
+- Added simple verification labels to topic summaries and practice material. Unreviewed topic source lists and question sections are withheld until a complete review record exists.
+- Added canonical metadata to the privacy page, aligned the sitemap audit with that public route, and added a check that catches unreviewed source-list leakage.
 - Added an editorial coverage page, content audit command, and a review playbook.
 - Replaced the unconfigured Prisma-backed karma API with a static response clearly marked unreviewed; validated file names on the generic data endpoint.
 - Updated the application runtime to a maintained Next.js release and added a continuous integration workflow.
@@ -19,26 +20,29 @@
 
 ## Current content condition
 
-The ontology is a useful index, not a complete body of reviewed articles. At this baseline it has 52 subject areas and 1,676 topics; 1,489 have a draft JSON file, 187 do not yet have one, and none has a complete human editorial review record. Its 5,143 legacy source objects have no URL, edition, or pinpoint locator. See [the editorial playbook](CONTENT_EDITORIAL_PLAYBOOK.md) and run `npm run content:audit` for the current inventory.
+The catalogue has 50 subject areas and 1,401 topics. All listed topics have a JSON file, but none has a complete human editorial review record. The files also contain 88 topics outside the catalogue; reconcile those intentionally. Across the listed articles, 4,873 legacy source records lack a complete URL, edition, and exact location. The content audit flags 890 topic entries and 23 of 26 supplemental datasets for human triage. Its voice scan marks 1,399 text fields across 896 entries for a human tone review; those are pattern cues, not proof of AI authorship. See [the editorial playbook](CONTENT_EDITORIAL_PLAYBOOK.md) for the current inventory and review process.
 
 Beyond the topic files, `src/data` contains separate glossaries, biographies, histories, practice datasets, festival descriptions, chant catalogues, and reading lists. They include universalizing language, disputed claims, and health or efficacy claims that need review. The audit script now flags risk terms in those files for human triage; it does not fact-check them.
 
 ## Remaining product work
 
-1. **Editorial trust:** review material in small, owned batches; distinguish textual claims, community practice, and historical scholarship; add edition-level citations and qualified human review.
-2. **Coverage:** prioritize orientation and foundational concepts, then texts and transmission, traditions and communities, ethics, and carefully reviewed practice. Keep missing entries visible as work in progress.
-3. **Accessibility:** verify keyboard behavior, screen-reader labels, contrast, zoom, reduced motion, and mobile layouts against the running site. Search and all navigation need a keyboard-only pass.
-4. **Information architecture:** replace broad catalog groupings with topic clusters and related-entry links after core entries are reviewed. Add a bibliography and source-type filters when the source records are reliable.
-5. **Language:** the main learning pages have draft Gujarati and Hindi translations; the 1,676 topic articles remain English. Ask fluent readers to review the interface and Jain terms, then translate articles in sourced, reviewed batches. Keep all unreviewed translations out of search results.
-6. **Operations:** keep Cloudflare's GitHub deployment, domain validation, and uptime checks healthy; watch build limits as translated routes grow. See [the launch checklist](LAUNCH_CHECKLIST.md).
+1. **Editorial trust and workload:** assign a named owner and target date to bounded review batches; prioritize the beginner path and safety-sensitive material; record source edition, locator, tradition, and qualified reviewer in the same workflow. The current queue has no complete human reviews.
+2. **Article readability:** add meaningful subheadings, summaries, definitions, and cross-links to long entries. The current overview has a median of about 346 words, a 90th percentile of 740, and a maximum of 1,088; its paragraph-first rendering can make longer pages difficult to scan.
+3. **Teaching visuals:** add a few source-reviewed diagrams where a picture explains more than another paragraph: the Jain cosmos, soul and karma, the Three Jewels, and differences among vows. Give every visual a useful text equivalent and alt text; distinguish traditional cosmology from modern astronomy.
+4. **Search and discovery:** extend search beyond English title/domain substring matches to aliases, transliteration, and article text. Add spelling variants and useful related topics, while keeping results understandable to new learners.
+5. **Accessibility and responsive behavior:** manually review narrow phones, landscape, tablet, desktop, 200% zoom, keyboard-only use, focus visibility, screen readers, contrast, and reduced motion. Automated link and metadata checks do not replace this review.
+6. **Language:** the main learning pages have draft Gujarati and Hindi translations; the 1,401 topic articles remain English. Have fluent readers review the interface and Jain terms, then translate sourced articles in reviewed batches.
+7. **Reader tools, feedback, and account readiness:** improve saved-reading and notes flows with path progress, clear empty states, editing, export, and protection against losing an unsaved note. The correction form currently creates a public GitHub issue and requires a GitHub account; consider a private or no-account option. Before advertising Google accounts, confirm OAuth settings and D1 bindings in Preview and Production and exercise sign-in, note privacy, sign-out, and account deletion.
+8. **Editorial workspace:** make verification status, reviewer assignment, source completeness, due date, and change history easy to scan and update across all entries. Reconcile the 88 unlisted files so project notes do not leak into the public subject taxonomy.
+9. **Publishing and performance:** keep Cloudflare's GitHub deployment and uptime checks healthy; measure page-level transfer size and Core Web Vitals in a real browser, then investigate the large generated text payloads and watch the file count as locale coverage grows. See [the launch checklist](LAUNCH_CHECKLIST.md).
 
 ## Design direction
 
-Keep the warm paper palette, legible serif reading type, restrained headings, and spacious layouts. Improve the product through clarity and provenance rather than decorative effects. The next visual pass should test real phone widths, long Indic transliterations, large text settings, and high-contrast modes, then document the results with screenshots.
+Keep the warm paper palette, legible serif reading type, restrained headings, and spacious layouts. Improve the product through clear Jain explanations, diagrams where useful, and reliable reading tools. Review the home-page order with first-time readers so topic paths, the practice and text library, search, language selection, and personal study tools are easy to find without crowding the hero. The latest static export has no inline images and is 481.61 MiB raw, mostly generated route payloads; that total alone does not show what a reader downloads for one page. No browser performance trace was available during this audit, so page-level LCP, CLS, and transfer size remain unmeasured. Test real phone widths, long Indic transliterations, large text settings, high-contrast modes, and network-throttled loading, then document results with screenshots and measurements.
 
 ## Copy changes and editorial voice
 
-The landing page previously used broad promotional lines such as “A careful beginning to a living tradition” and “Depth comes from careful reading, not from a longer list.” The revised copy says what a reader can do and what each page still needs: “Start with a question you have” and “Each article needs a source and a reviewer.” The social preview now uses “An introduction to Jain traditions” and “Read a topic. Check its sources.”
+The landing page previously used broad promotional lines such as “A careful beginning to a living tradition.” The current hero is more directly about Jain teachings: “Jainism: the soul, karma, and liberation.” Keep future copy concrete: name a Jain topic, explain what the page covers, and avoid promotional or abstract slogans.
 
 The short statement below is drafted in Gujarati first, then Hindi, then English. It captures the editorial point without claiming the articles have been reviewed:
 

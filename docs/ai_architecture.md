@@ -1,6 +1,6 @@
 # Source-Grounded Jain Study Guides and Advice System
 
-Generated: 2026-07-22
+Generated: 2026-11-15
 
 ## Authority boundary
 The system must never claim to be a Maharaj Saheb, Acharya, monk, nun, guru, or source of binding religious rulings. Expert depth must come from verified primary texts, reviewed commentaries, tradition-aware retrieval, and qualified human review.
@@ -46,4 +46,4 @@ The system must never claim to be a Maharaj Saheb, Acharya, monk, nun, guru, or 
 - E: unverified OCR or AI translation, discovery only
 - F: unknown provenance, quarantined
 
-Ontology v1.0 contains 52 domains and 1676 core topic nodes.
+Ontology v1.0 contains 50 domains and 1,401 listed core topic nodes. An additional 88 JSON topic files are not in the current ontology and must be reconciled before they can enter a retrieval corpus.

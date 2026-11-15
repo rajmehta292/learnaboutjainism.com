@@ -1,15 +1,16 @@
 # Content Editorial Playbook
 
-**Baseline:** 2026-11-14<br>
+**Baseline:** 2026-11-15<br>
 **Scope:** the ontology, topic files, practice pages, and any future translated editions.
 
 ## Current coverage
 
-- The catalogue has 52 subject areas and 1,676 topic records.
-- 1,489 topic records have a JSON draft; 187 are indexed but have no article file.
-- None of the 1,489 draft files has a complete editorial review record.
-- The existing topic files contain 5,143 records under `primary_sources`. None currently has a URL, edition, or pinpoint location, so none can be verified from the repository alone.
-- The baseline keyword scan flagged 949 topic entries and 23 of 26 supplemental JSON datasets for human triage. A keyword match is a review prompt, not a finding that content is wrong.
+- The current catalogue has 50 subject areas and 1,401 topic records. All 1,401 listed topics have a JSON article file.
+- There are 88 additional JSON files in `src/data/topics` that are not part of the catalogue. Most concern internal project/process topics; reconcile them with the catalogue or archive them deliberately before deleting anything.
+- None of the 1,401 listed articles has a complete human editorial review record.
+- The listed article files contain 4,873 legacy `primary_sources` records. None has a URL, edition, and pinpoint location together, so none is independently verifiable from the repository alone.
+- The latest keyword scan flagged 890 topic entries and 23 of 26 supplemental JSON datasets for human triage. A keyword match is a review prompt, not a finding that content is wrong.
+- The voice scan found heuristic cues in 1,399 text fields across 896 topic entries. These cues help prioritize a human copy edit; they do not identify authorship or establish that text is AI-generated.
 - The previous learning-path data included age-based schedules, invented resource lists, and fasting-related activities. The public reading paths now use topic links and do not prescribe practice.
 
 Run the inventory with:
@@ -51,7 +52,7 @@ Keep each entry in `src/data/topics/<topic_id>.json`. Add a record only after a 
 
 Every source shown as reviewed must have a working HTTPS link, source type, and exact locator. Primary texts should identify the edition and translator where applicable. Do not mark a page reviewed because it has a bibliography, a generated source list, or a second model's approval.
 
-The app hides legacy quotation blocks and misconception lists until a complete review record exists. Practice pages without a recorded source review show a status page instead of publishing their unverified translations or ritual explanations. `ScriptureReader` also withholds text until its caller supplies the source, edition, locator, reviewer, and review date.
+The app hides legacy source lists, quotation blocks, and misconception lists until a complete review record exists. Practice pages without a recorded source review show a status page instead of publishing their unverified translations or ritual explanations. `ScriptureReader` also withholds text until its caller supplies the source, edition, locator, reviewer, and review date.
 
 ## A repeatable review pass
 

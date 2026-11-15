@@ -32,6 +32,7 @@ function ParyushanaEnglish() {
   return (
     <main className="practice-page" id="main-content">
       <p className="eyebrow">Ārādhana · Annual observances</p>
+      <span className="practice-review-badge">{getMessages("en").Navigation.needsReview}</span>
       <h1>Paryushana and Das Lakshana</h1>
       <p className="practice-page__lead">
         Jainpedia describes Paryuṣaṇa as an observance in Śvetāmbara communities and Daśa-lakṣaṇa
