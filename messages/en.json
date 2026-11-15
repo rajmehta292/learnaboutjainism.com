@@ -30,15 +30,15 @@
     "adminLogin": "Editor sign-in"
   },
   "Home": {
-    "metadataTitle": "An introduction to Jain traditions",
-    "metadataDescription": "Explore Jain philosophy, ethics, history, texts, and daily practice through questions and guided reading paths.",
-    "eyebrow": "An introduction to Jainism",
+    "metadataTitle": "Learn about Jainism",
+    "metadataDescription": "Read about Jain beliefs, ethics, history, texts, communities, and practices. Browse by topic or follow a reading path.",
+    "eyebrow": "Introduction",
     "edition": "English edition",
-    "title": "A clear introduction to Jain traditions",
-    "lead": "Begin with a question, explore an idea, or follow a guided path through Jain teachings.",
+    "title": "Learn about Jainism",
+    "lead": "This library covers Jain beliefs, ethics, history, texts, communities, and practices. Start with a topic or choose a reading path.",
     "startButton": "Start learning",
     "browseButton": "Browse topics",
-    "guideLabel": "Explore the library",
+    "guideLabel": "Using this library",
     "guideAria": "How to use this library",
     "steps": [
       {
@@ -56,7 +56,7 @@
     ],
     "sourceLink": "About the library",
     "questionsEyebrow": "Start here",
-    "questionsTitle": "Four questions to begin",
+    "questionsTitle": "Start with a question",
     "pathsLink": "See the reading paths",
     "readDraft": "Explore this topic",
     "readEnglish": "Explore this topic",
@@ -64,27 +64,27 @@
       {
         "id": "D01.T001",
         "title": "What is Jainism?",
-        "description": "Read key terms and ideas in Jain traditions, then choose topics that interest you."
+        "description": "Learn about Jain beliefs, ethics, and practices."
       },
       {
         "id": "D13.T002",
         "title": "Ahimsa",
-        "description": "Read about the Jain ethical idea of ahimsa and how it applies to questions in daily life."
+        "description": "Read about ahimsa, the Jain principle of nonviolence, and its place in daily life."
       },
       {
         "id": "D01.T005",
         "title": "Differences among Jain communities",
-        "description": "Keep community differences in view as you read about shared ideas and practices."
+        "description": "Jain communities share many beliefs and practices. Learn where their views differ."
       },
       {
         "id": "D02.T001",
         "title": "Moksha",
-        "description": "Meet the Jain idea of liberation and its links to knowledge and conduct."
+        "description": "Learn what moksha means in Jainism and how it relates to knowledge and conduct."
       }
     ],
     "pathwaysEyebrow": "Ways to read",
-    "pathwaysTitle": "Choose a route through the library",
-    "pathwaysNote": "Each route links related topics.",
+    "pathwaysTitle": "Browse the library",
+    "pathwaysNote": "Choose a subject, a practice, or information about the library.",
     "pathways": [
       {
         "index": "01 / Topics",
@@ -105,9 +105,9 @@
         "action": "Read about the library"
       }
     ],
-    "closingEyebrow": "Keep exploring",
-    "closingTitle": "Find your next question.",
-    "closingBody": "Follow a guided path or browse the library by subject.",
+    "closingEyebrow": "More to read",
+    "closingTitle": "Browse more topics",
+    "closingBody": "Open a topic page or follow a reading path.",
     "closingLink": "Browse all topics"
   },
   "Start": {
