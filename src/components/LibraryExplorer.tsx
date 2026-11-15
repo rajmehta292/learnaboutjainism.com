@@ -62,7 +62,7 @@ export default function LibraryExplorer({
   }
 
   function entryLabel(hasEntry: boolean) {
-    return locale === "en" ? (hasEntry ? "Draft entry" : "Entry in progress") : (hasEntry ? copy.draftEntry : copy.entryProgress);
+    return hasEntry ? "" : copy.entryProgress;
   }
 
   return (
@@ -112,7 +112,7 @@ export default function LibraryExplorer({
                   <li key={topic.id}>
                     <Link href={topicHref(topic.id)} className="topic-result">
                       <span>{topic.title}</span>
-                      <span className="topic-result__meta">{topic.domainTitle} · {entryLabel(topic.hasEntry)}</span>
+                      <span className="topic-result__meta">{topic.domainTitle}{!topic.hasEntry ? ` · ${entryLabel(topic.hasEntry)}` : ""}</span>
                     </Link>
                   </li>
                 ))}
@@ -131,7 +131,7 @@ export default function LibraryExplorer({
             <div>
               <p className="eyebrow">{copy.groups[selectedDomain.groupKey]}</p>
               <h2 id="selected-domain-title">{selectedDomain.title}</h2>
-              <p>{selectedDomain.topics.length.toLocaleString(numberLocale)} {copy.topics}. {copy.topicEntriesNote}</p>
+              <p>{selectedDomain.topics.length.toLocaleString(numberLocale)} {copy.topics}</p>
             </div>
             <button className="text-button" type="button" onClick={() => setSelectedDomainId(null)}>{copy.backToSubjects}</button>
           </div>
@@ -140,7 +140,7 @@ export default function LibraryExplorer({
               <li key={topic.id}>
                 <Link href={topicHref(topic.id)} className="topic-result">
                   <span>{topic.title}</span>
-                  <span className="topic-result__meta">{entryLabel(topic.hasEntry)}</span>
+                  {!topic.hasEntry && <span className="topic-result__meta">{entryLabel(topic.hasEntry)}</span>}
                 </Link>
               </li>
             ))}

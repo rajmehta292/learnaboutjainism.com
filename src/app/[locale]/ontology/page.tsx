@@ -1,7 +1,6 @@
 import fs from "node:fs";
 import path from "node:path";
 import type { Metadata } from "next";
-import EditorialNotice from "@/components/EditorialNotice";
 import LibraryExplorer, { type LibraryDomain } from "@/components/LibraryExplorer";
 import ontology from "@/data/ontology.json";
 import { getMessages } from "@/i18n/messages";
@@ -53,7 +52,6 @@ export default async function LibraryPage({ params }: { params: Promise<{ locale
   });
 
   const topicCount = libraryDomains.reduce((total, domain) => total + domain.topics.length, 0);
-  const draftCount = libraryDomains.reduce((total, domain) => total + domain.topics.filter((topic) => topic.hasEntry).length, 0);
   const numberLocale = locale === "gu" ? "gu-IN" : locale === "hi" ? "hi-IN" : "en-US";
 
   return (
@@ -63,17 +61,14 @@ export default async function LibraryPage({ params }: { params: Promise<{ locale
           <p className="eyebrow">{copy.eyebrow}</p>
           <h1>{copy.title}</h1>
           <p className="library-hero__lead">{copy.lead}</p>
-          {locale !== "en" && <p className="translation-language-note">{copy.topicLanguageNote}</p>}
           <div className="library-hero__stats" aria-label={copy.statsLabel}>
             <span>{libraryDomains.length.toLocaleString(numberLocale)} {copy.subjectAreas}</span>
             <span>{topicCount.toLocaleString(numberLocale)} {copy.topicCountLabel}</span>
-            <span>{draftCount.toLocaleString(numberLocale)} {copy.draftEntries}</span>
           </div>
         </div>
       </section>
 
       <div className="site-container library-page">
-        <EditorialNotice locale={locale} />
         <div className="library-explorer-wrap">
           <LibraryExplorer domains={libraryDomains} copy={copy} locale={locale} />
         </div>

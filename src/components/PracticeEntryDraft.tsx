@@ -16,16 +16,12 @@ export default function PracticeEntryDraft({
   return (
     <main className="practice-page practice-entry-draft" id="main-content">
       <p className="eyebrow">{copy.entryEyebrow}</p>
+      <span className="practice-review-badge">{copy.needsReview}</span>
       <h1>{entry.title}</h1>
       <p>{entry.description}</p>
 
-      <section className="practice-placeholder-card" aria-label={copy.entryLabel}>
-        <h2>{copy.entryHeading}</h2>
-        <p>{copy.entryBody}</p>
-      </section>
-
       <nav className="practice-draft-actions" aria-label={copy.entryLabel}>
-        <Link className="text-link" href="/about-this-library">{copy.howReviewWorks} <span aria-hidden="true">→</span></Link>
+        <Link className="text-link" href="/aradhana">{copy.entryHeading} <span aria-hidden="true">→</span></Link>
         <Link className="text-link" href="/ontology">{copy.browseTopics} <span aria-hidden="true">→</span></Link>
       </nav>
     </main>

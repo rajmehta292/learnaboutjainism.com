@@ -108,7 +108,7 @@ export default function SmartLinker({ text, currentTopicId }: SmartLinkerProps) 
                 className="smart-link-tooltip"
                 role="tooltip"
               >
-                <span className="smart-link-tooltip__label">Draft overview</span>
+                <span className="smart-link-tooltip__label">Topic overview</span>
                 <strong>{matchedTerm.title}</strong>
                 <span>{overview}</span>
               </span>

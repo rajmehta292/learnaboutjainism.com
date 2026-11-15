@@ -4,7 +4,6 @@ import path from "node:path";
 import { Link } from "@/i18n/routing";
 import { englishHref, getMessages } from "@/i18n/messages";
 import type { SiteLocale } from "@/i18n/routing";
-import EditorialNotice from "@/components/EditorialNotice";
 import learningPaths from "@/data/learningPaths.json";
 import ontology from "@/data/ontology.json";
 import { openGraphImages, twitterImages } from "@/lib/socialMetadata";
@@ -45,8 +44,6 @@ export default async function StartHerePage({ params }: { params: Promise<{ loca
       </section>
 
       <section className="site-container start-paths" aria-label={copy.ariaLabel}>
-        <EditorialNotice locale={locale} />
-        {locale !== "en" && <p className="translation-language-note">{copy.topicLanguageNote}</p>}
         {learningPaths.paths.map((readingPath, pathIndex) => {
           const localizedPath = copy.paths[pathIndex];
           if (!localizedPath) return null;
@@ -75,7 +72,7 @@ export default async function StartHerePage({ params }: { params: Promise<{ loca
                     <li key={topicId}>
                       <Link href={englishHref(locale, `/ontology/${topicId}`)}>
                         <span>{title}</span>
-                        <span className="topic-result__meta">{locale === "en" ? (available ? "Draft entry" : "Entry in progress") : (available ? copy.draftEntry : copy.entryProgress)}</span>
+                        <span className="topic-result__meta">{available ? copy.draftEntry : copy.entryProgress}</span>
                       </Link>
                     </li>
                   );

@@ -16,6 +16,8 @@
 # next.js
 /.next/
 /out/
+/public/topic-data/
+/public/content-review-index.json
 
 # production
 /build

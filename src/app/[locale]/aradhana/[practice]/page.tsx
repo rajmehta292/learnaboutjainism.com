@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import { Link } from "@/i18n/routing";
 import PracticeEntryDraft from "@/components/PracticeEntryDraft";
 import TranslationInProgressContent from "@/components/TranslationInProgressContent";
 import { getMessages } from "@/i18n/messages";
@@ -69,15 +68,11 @@ function ParyushanaEnglish() {
           </li>
           <li>
             <a href="https://parliamentofreligions.org/articles/introspection-and-forgiveness-the-jain-celebration-of-paryushan-and-das-lakshan/" target="_blank" rel="noreferrer">“Introspection and Forgiveness: The Jain Celebration of Paryushan and Das Lakshan,” Parliament of the World’s Religions</a>
-            <span>A short introduction. Confirm dates and observances with the Jain community you are studying.</span>
+            <span>Dates and observances vary among Jain communities.</span>
           </li>
         </ul>
       </section>
 
-      <p className="practice-page__closing">
-        Dates, transliterations, translations, and local observances still need review for this page.
-        See the <Link href="/about-this-library">editorial method</Link> for the review standard.
-      </p>
     </main>
   );
 }

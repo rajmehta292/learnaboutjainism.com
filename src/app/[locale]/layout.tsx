@@ -104,15 +104,6 @@ export default async function RootLayout({
             </div>
           </header>
 
-          <div className="site-status" role="note">
-            <div className="site-container site-status__inner">
-              <span className="site-status__label">{nav.statusLabel}</span>
-              <p>{nav.status}</p>
-              <Link href="/about-this-library">{nav.statusLink} <span aria-hidden="true">→</span></Link>
-              {locale !== "en" && <p className="site-status__translation">{nav.translationNote}</p>}
-            </div>
-          </div>
-
           <div id="page-content" tabIndex={-1}>
             {children}
           </div>
@@ -145,11 +136,11 @@ export default async function RootLayout({
                       {nav.footerFeedback} <span aria-hidden="true">↗</span>
                     </a>
                   </li>
+                  <li><Link href={englishHref(locale, "/admin")}>{nav.adminLogin}</Link></li>
                 </ul>
               </div>
             </div>
             <div className="site-container site-footer__bottom">
-              <span>{nav.editionStatus}</span>
               <span>{nav.footerLine}</span>
             </div>
           </footer>

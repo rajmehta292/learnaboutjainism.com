@@ -2,7 +2,6 @@ import type { Metadata } from "next";
 import { Link } from "@/i18n/routing";
 import { englishHref, getMessages } from "@/i18n/messages";
 import type { SiteLocale } from "@/i18n/routing";
-import EditorialNotice from "@/components/EditorialNotice";
 import { openGraphImages, twitterImages } from "@/lib/socialMetadata";
 
 export async function generateMetadata({ params }: { params: Promise<{ locale: SiteLocale }> }): Promise<Metadata> {
@@ -50,10 +49,6 @@ export default async function Home({ params }: { params: Promise<{ locale: SiteL
           </aside>
         </div>
       </section>
-
-      <div className="site-container home-status">
-        <EditorialNotice locale={locale} />
-      </div>
 
       <section className="site-container section-block" aria-labelledby="first-questions-title">
         <div className="section-heading">
@@ -105,7 +100,7 @@ export default async function Home({ params }: { params: Promise<{ locale: SiteL
         <p className="eyebrow">{copy.closingEyebrow}</p>
         <h2>{copy.closingTitle}</h2>
         <p>{copy.closingBody}</p>
-        <Link className="text-link" href="/about-this-library">{copy.closingLink} <span aria-hidden="true">→</span></Link>
+        <Link className="text-link" href="/ontology">{copy.closingLink} <span aria-hidden="true">→</span></Link>
       </section>
     </main>
   );

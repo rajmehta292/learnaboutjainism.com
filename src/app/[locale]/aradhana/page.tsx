@@ -40,7 +40,7 @@ export default async function AradhanaIndex({ params }: { params: Promise<{ loca
       </section>
 
       <p className="practice-page__closing">
-        <Link href="/about-this-library">{copy.reviewLink} <span aria-hidden="true">→</span></Link>
+        <Link href="/ontology">{copy.reviewLink} <span aria-hidden="true">→</span></Link>
       </p>
     </main>
   );
