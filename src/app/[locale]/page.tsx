@@ -19,20 +19,20 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: S
 export default async function Home({ params }: { params: Promise<{ locale: SiteLocale }> }) {
   const { locale } = await params;
   const copy = getMessages(locale).Home;
-  const english = locale !== "en";
 
   return (
     <main id="main-content">
       <section className="home-hero">
         <div className="site-container home-hero__grid">
           <div className="home-hero__copy">
-            <p className="eyebrow">{copy.eyebrow} <span>·</span> {copy.edition}</p>
+            <p className="eyebrow">{copy.eyebrow}</p>
             <h1>{copy.title}</h1>
             <p className="home-hero__lead">{copy.lead}</p>
             <div className="button-row">
               <Link className="button button--primary" href="/start-here">{copy.startButton}</Link>
               <Link className="button button--outline" href="/ontology">{copy.browseButton}</Link>
             </div>
+            <Link className="home-hero__study-link" href="/sign-in">{copy.heroStudyLink} <span aria-hidden="true">→</span></Link>
           </div>
 
           <aside className="home-hero__guide" aria-label={copy.guideAria}>
@@ -45,7 +45,6 @@ export default async function Home({ params }: { params: Promise<{ locale: SiteL
                 </li>
               ))}
             </ol>
-            <Link className="home-hero__guide-link" href="/about-this-library">{copy.sourceLink} <span aria-hidden="true">↗</span></Link>
           </aside>
         </div>
       </section>
@@ -65,7 +64,7 @@ export default async function Home({ params }: { params: Promise<{ locale: SiteL
               <span className="question-card__number">{String(index + 1).padStart(2, "0")}</span>
               <h3>{question.title}</h3>
               <p>{question.description}</p>
-              <span className="question-card__action">{english ? copy.readEnglish : copy.readDraft} <span aria-hidden="true">→</span></span>
+              <span className="question-card__action">{copy.readTopic} <span aria-hidden="true">→</span></span>
             </Link>
           ))}
         </div>
@@ -82,7 +81,7 @@ export default async function Home({ params }: { params: Promise<{ locale: SiteL
           </div>
           <div className="pathway-grid">
             {copy.pathways.map((pathway, index) => {
-              const href = ["/ontology", "/aradhana", "/about-this-library"][index];
+              const href = ["/start-here", "/aradhana", "/ontology"][index];
               return (
                 <Link className="pathway-card" href={href} key={pathway.index}>
                   <span className="pathway-card__index">{pathway.index}</span>
@@ -96,11 +95,25 @@ export default async function Home({ params }: { params: Promise<{ locale: SiteL
         </div>
       </section>
 
-      <section className="site-container home-closing">
-        <p className="eyebrow">{copy.closingEyebrow}</p>
-        <h2>{copy.closingTitle}</h2>
-        <p>{copy.closingBody}</p>
-        <Link className="text-link" href="/ontology">{copy.closingLink} <span aria-hidden="true">→</span></Link>
+      <section className="home-study" aria-labelledby="home-study-title">
+        <div className="site-container">
+          <div className="home-study__intro">
+            <div>
+              <p className="eyebrow">{copy.studyEyebrow}</p>
+              <h2 id="home-study-title">{copy.studyTitle}</h2>
+              <p>{copy.studyBody}</p>
+            </div>
+            <Link className="button button--primary" href="/sign-in">{copy.studyLink}</Link>
+          </div>
+          <ul className="home-study__features">
+            {copy.studyFeatures.map((feature) => (
+              <li key={feature.title}>
+                <strong>{feature.title}</strong>
+                <span>{feature.description}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
       </section>
     </main>
   );

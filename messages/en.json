@@ -8,179 +8,195 @@
     },
     "homeLabel": "Learn About Jainism home",
     "brand": "Jainism",
-    "brandTagline": "Learning library",
+    "brandTagline": "Ideas & traditions",
     "skip": "Skip to content",
     "navLabel": "Main navigation",
-    "start": "Start here",
+    "start": "Reading paths",
     "library": "Topics",
     "practice": "Ārādhana",
-    "method": "About the library",
+    "method": "About",
     "statusLabel": "",
     "status": "",
     "statusLink": "",
     "translationNote": "",
-    "footerBlurb": "Read about Jain beliefs, texts, history, and practices.",
+    "footerBlurb": "Explore Jain ideas about the soul, karma, ahimsa, liberation, texts, and daily practice.",
     "footerExplore": "Browse",
     "footerAbout": "About the library",
     "footerDiversity": "Diversity among Jain communities",
     "footerFeedback": "Suggest a correction or accessibility fix",
     "editionStatus": "",
-    "footerLine": "Information about Jainism.",
+    "footerLine": "Jain thought, ethics, history, and practice.",
     "needsReview": "Needs verification",
     "adminLogin": "Librarian sign-in",
-    "account": "Sign in",
+    "account": "My reading",
     "footerPrivacy": "Privacy"
   },
   "Home": {
-    "metadataTitle": "Learn about Jainism",
-    "metadataDescription": "Read about Jain beliefs, ethics, history, texts, communities, and practices. Browse by topic or follow a reading path.",
-    "eyebrow": "Introduction",
-    "edition": "English edition",
-    "title": "Learn about Jainism",
-    "lead": "This library covers Jain beliefs, ethics, history, texts, communities, and practices. Start with a topic or choose a reading path.",
-    "startButton": "Start learning",
-    "browseButton": "Browse topics",
-    "guideLabel": "Using this library",
-    "guideAria": "How to use this library",
+    "metadataTitle": "Jainism: the soul, karma, and liberation",
+    "metadataDescription": "Learn how Jain traditions understand the soul, karma, ahimsa, and liberation. Explore Jain teachings, prayers, texts, and history.",
+    "eyebrow": "Jain thought",
+    "title": "Jainism: the soul, karma, and liberation",
+    "lead": "Jain traditions teach that each living being has a soul and that karmic matter binds the soul to rebirth. The path to moksha (liberation) calls for right faith, knowledge, conduct, and ahimsa.",
+    "startButton": "Follow a reading path",
+    "browseButton": "Explore Jain topics",
+    "guideLabel": "Key Jain ideas",
+    "guideAria": "Key ideas in Jain traditions",
     "steps": [
       {
-        "title": "Start with a question",
-        "description": "Open a topic that interests you."
+        "title": "Jīva · soul",
+        "description": "Every living being has a soul, distinct and capable of liberation."
       },
       {
-        "title": "Follow a reading path",
-        "description": "Move through related ideas in a clear sequence."
+        "title": "Karma",
+        "description": "Karma binds the soul and shapes its experience of rebirth."
       },
       {
-        "title": "Browse more topics",
-        "description": "Choose another subject from the topic list."
+        "title": "Ahimsa",
+        "description": "Nonviolence guides conduct toward living beings."
+      },
+      {
+        "title": "Moksha",
+        "description": "Liberation is release from karma and rebirth."
       }
     ],
-    "sourceLink": "About the library",
-    "questionsEyebrow": "Start here",
-    "questionsTitle": "Start with a question",
-    "pathsLink": "See the reading paths",
-    "readDraft": "Read this topic",
-    "readEnglish": "Read this topic",
+    "questionsEyebrow": "Core teachings",
+    "questionsTitle": "Four ideas to begin with",
+    "pathsLink": "See all six reading paths",
+    "readTopic": "Explore this idea",
     "questions": [
       {
-        "id": "D01.T001",
-        "title": "What is Jainism?",
-        "description": "Learn about Jain beliefs, ethics, and practices."
+        "id": "D04.T001",
+        "title": "Jīva: the soul",
+        "description": "In Jain thought, every living being has an individual, conscious soul."
       },
       {
         "id": "D13.T002",
         "title": "Ahimsa",
-        "description": "Read about ahimsa, the Jain principle of nonviolence, and its place in daily life."
+        "description": "Nonviolence is a central Jain vow and a guide to everyday conduct."
       },
       {
-        "id": "D01.T005",
-        "title": "Differences among Jain communities",
-        "description": "Jain communities share many beliefs and practices. Learn where their views differ."
+        "id": "D06.T001",
+        "title": "Karma",
+        "description": "Jain philosophy describes karma as subtle matter that binds to the soul."
       },
       {
-        "id": "D02.T001",
-        "title": "Moksha",
-        "description": "Learn what moksha means in Jainism and how it relates to knowledge and conduct."
+        "id": "D09.T001",
+        "title": "Anekāntavāda",
+        "description": "Reality has many aspects; a single description may leave some out."
       }
     ],
-    "pathwaysEyebrow": "Ways to read",
-    "pathwaysTitle": "Browse the library",
-    "pathwaysNote": "Choose a subject, a practice, or information about the library.",
+    "pathwaysEyebrow": "Read further",
+    "pathwaysTitle": "Jain ideas in practice, history, and texts",
+    "pathwaysNote": "Choose a guided sequence, a devotional practice, or a subject to explore.",
     "pathways": [
       {
-        "index": "01 / Topics",
-        "title": "Browse the topic library",
-        "description": "Browse topics on Jain philosophy, ethics, history, literature, and other subjects.",
-        "action": "Browse topics"
+        "index": "01 / Reading paths",
+        "title": "Follow a path through Jain thought",
+        "description": "Read connected topics on the soul, karma, ahimsa, cosmology, and liberation in sequence.",
+        "action": "Choose a path"
       },
       {
         "index": "02 / Ārādhana",
-        "title": "Prayers and practice",
-        "description": "Read about Jain prayers, festivals, and daily observances.",
-        "action": "View practices"
+        "title": "Prayer and observance",
+        "description": "Learn about the Navkar Mantra, pratikraman, Paryushan, and Jain devotional life.",
+        "action": "Explore practices"
       },
       {
-        "index": "03 / About",
-        "title": "About the library",
-        "description": "See what this library covers and how its topics are organized.",
-        "action": "Read about the library"
+        "index": "03 / Topics",
+        "title": "Search Jain subjects",
+        "description": "Find topics on philosophy, vows, texts, history, festivals, art, and community life.",
+        "action": "Browse topics"
       }
     ],
-    "closingEyebrow": "More to read",
-    "closingTitle": "Browse more topics",
-    "closingBody": "Open a topic page or follow a reading path.",
-    "closingLink": "Browse all topics"
+    "studyEyebrow": "Study as you read",
+    "studyTitle": "Keep your place as you learn",
+    "studyBody": "Sign in with Google to save topics, track what you have read, and keep personal notes with the articles you study.",
+    "studyFeatures": [
+      {
+        "title": "Save topics",
+        "description": "Build a reading list for the ideas you want to return to."
+      },
+      {
+        "title": "Track your reading",
+        "description": "Mark articles as read and pick up where you left off."
+      },
+      {
+        "title": "Keep notes",
+        "description": "Write private notes alongside individual topics."
+      }
+    ],
+    "studyLink": "Sign in to save your reading",
+    "heroStudyLink": "Save your reading and notes"
   },
   "Start": {
-    "metadataTitle": "Start here",
-    "metadataDescription": "Read about ahimsa, karma, liberation, Jain cosmology, texts, and communities. Topic articles are in English.",
-    "eyebrow": "Reading paths",
-    "title": "Choose a reading path",
-    "lead": "Read the topics in a path in order, or open any topic that interests you.",
-    "browse": "Browse all subjects",
-    "ariaLabel": "Reading paths",
-    "topicLanguageNote": "Topic articles are currently available in English.",
-    "questionsLabel": "Questions to consider",
-    "draftEntry": "Read topic",
-    "entryProgress": "Coming soon",
+    "metadataTitle": "Six reading paths through Jain thought",
+    "metadataDescription": "Follow reading paths on Jain ideas about the soul, karma, ahimsa, liberation, cosmology, history, and texts.",
+    "eyebrow": "Jain ideas",
+    "title": "Six paths through Jain thought",
+    "lead": "Begin with the soul and karma, then follow the ideas that connect ethics, liberation, cosmology, stories, and Jain texts.",
+    "browse": "Browse all Jain topics",
+    "ariaLabel": "Reading paths through Jain topics",
+    "topicLanguageNote": "Topic articles are in English.",
+    "questionsLabel": "Key questions",
+    "draftEntry": "Read article",
+    "entryProgress": "Article coming soon",
     "paths": [
       {
-        "title": "Jainism: the basics",
-        "description": "Read about Jain beliefs, ahimsa, differences among Jain communities, and the path to liberation.",
+        "title": "Jainism: core ideas",
+        "description": "An introduction to jīva, karma, ahimsa, Mahavira, and the communities that carry Jain teachings forward.",
         "questions": [
-          "Which ideas do Jain communities share, and where do their teachings differ?",
-          "How are knowledge, ethics, and spiritual practice related?"
+          "What are jīva and ajīva?",
+          "How are knowledge, conduct, and liberation connected?"
         ]
       },
       {
-        "title": "Soul, karma, and liberation",
-        "description": "Read about the soul, karma, and Jain teachings on liberation from rebirth.",
+        "title": "Soul, karma, and moksha",
+        "description": "Jain philosophy describes the soul as conscious and karma as subtle matter that binds to it. Moksha is release from karma and rebirth.",
         "questions": [
-          "What does Jain philosophy mean when it describes karma as subtle matter?",
-          "Why is a favorable rebirth different from liberation?"
+          "Why is karma called subtle matter in Jain philosophy?",
+          "How does moksha differ from a favorable rebirth?"
         ]
       },
       {
-        "title": "Jain cosmology and cycles of time",
-        "description": "Read Jain accounts of loka, aloka, and the cycles of time.",
+        "title": "Jain cosmology and time",
+        "description": "Explore loka, aloka, and the repeating cycles of time in Jain cosmology.",
         "questions": [
-          "How do Jain texts describe loka and aloka?",
-          "What do the six eras describe in Jain cosmology?"
+          "What do Jain texts mean by loka and aloka?",
+          "What do the six eras in a time cycle describe?"
         ]
       },
       {
-        "title": "Ahimsa and Jain vows",
-        "description": "Read about ahimsa, Jain vows, and anekāntavāda, the idea that reality has many aspects.",
+        "title": "Ahimsa and the vows",
+        "description": "Ahimsa shapes Jain vows. Anekāntavāda asks how a subject can be understood from different standpoints.",
         "questions": [
           "How do mendicant vows differ from lay vows?",
-          "How can different standpoints help explain why people disagree?"
+          "How does anekāntavāda make room for more than one standpoint?"
         ]
       },
       {
         "title": "Jain stories and history",
-        "description": "Read Jain stories about Rishabha, Bahubali, Mahavira, and Malli alongside historical accounts.",
+        "description": "Meet figures such as Ṛṣabha, Bāhubali, Mahavira, and Malli through Jain narratives and historical study.",
         "questions": [
-          "What do Jain stories say about these figures, and what can historians establish?",
-          "Why do Jain accounts of Malli differ?"
+          "What do Jain narratives and historical sources tell us about these figures?",
+          "How do Śvetāmbara and Digambara accounts of Malli differ?"
         ]
       },
       {
         "title": "Jain texts and communities",
-        "description": "Read about Jain scriptures, teachers, and community life.",
+        "description": "Learn about Jain scriptures, commentaries, languages, teachers, and the fourfold community.",
         "questions": [
-          "Why do Jain communities preserve different collections of scriptures?",
-          "How do monks, nuns, and lay Jains form the fourfold community?"
+          "How do Śvetāmbara and Digambara textual traditions differ?",
+          "Who makes up the fourfold Jain community?"
         ]
       }
     ]
   },
   "Library": {
-    "metadataTitle": "Jain topic library",
-    "metadataDescription": "Search or browse topics on Jain philosophy, ethics, history, texts, and communities. Topic titles and articles are in English.",
-    "eyebrow": "Topic list",
-    "title": "Jain topic library",
-    "lead": "Browse by subject area or search for an English topic title.",
+    "metadataTitle": "Jain topics",
+    "metadataDescription": "Explore Jain ideas about the soul, karma, knowledge, and liberation, alongside ahimsa, vows, texts, history, festivals, and community life.",
+    "eyebrow": "Jain thought and life",
+    "title": "Jain topics",
+    "lead": "From the soul and karma to ahimsa, vows, texts, and festivals: search or browse 50 subject areas.",
     "statsLabel": "Library contents",
     "subjectAreas": "subject areas",
     "topics": "topics",
@@ -266,7 +282,7 @@
     "showMore": "Show more results",
     "browseBySubject": "Browse by subject",
     "topicCountLabel": "listed topics",
-    "topicLanguageNote": "Topic articles are currently available in English."
+    "topicLanguageNote": "Topic articles are in English."
   },
   "Editorial": {
     "metadataTitle": "About this library",
@@ -294,32 +310,32 @@
     "openCatalogue": "Browse the topic library"
   },
   "Practice": {
-    "metadataTitle": "Jain prayers and practices",
+    "metadataTitle": "Jain prayers and observances",
     "eyebrow": "Ārādhana",
-    "title": "Prayers and observances",
-    "description": "Read about Jain prayers, festivals, and daily observances. Practices vary among communities.",
-    "sectionTitle": "Prayers and observances",
+    "title": "Prayer, reflection, and observance",
+    "description": "Jain devotional life includes recitation, worship, repentance, study, and annual observances. Explore the Navkar Mantra, pratikraman, Paryushan, Dashalakshana, and more.",
+    "sectionTitle": "Texts and practices",
     "openEntry": "Read more",
     "entries": [
       {
         "slug": "navkar-mantra",
         "title": "Navkar Mantra",
-        "description": "A Jain prayer that honors the five supreme beings."
+        "description": "A Jain prayer honoring the five supreme beings: the arihants, siddhas, acharyas, upadhyayas, and sadhus."
       },
       {
         "slug": "chattari-mangalam",
         "title": "Chattari Mangalam",
-        "description": "A Jain verse that names four auspicious refuges."
+        "description": "A Prakrit verse naming four auspicious refuges: the arihants, siddhas, sadhus, and dharma."
       },
       {
         "slug": "logassa-sutra",
         "title": "Logassa Sutra",
-        "description": "A prayer praising the Tirthankaras."
+        "description": "A Prakrit hymn praising the twenty-four Tirthankaras."
       },
       {
         "slug": "bhaktamar-stotra",
         "title": "Bhaktamar Stotra",
-        "description": "A Sanskrit hymn used in Jain devotional practice."
+        "description": "A Sanskrit hymn in praise of Ṛṣabhanātha, the first Tirthankara."
       },
       {
         "slug": "uvassagharam",
@@ -329,17 +345,17 @@
       {
         "slug": "khamemi-savva-jive",
         "title": "Khamemi Savva Jive",
-        "description": "A verse asking forgiveness and expressing goodwill toward living beings."
+        "description": "A verse of forgiveness and goodwill toward all living beings."
       },
       {
         "slug": "pratikraman",
         "title": "Pratikraman",
-        "description": "A practice of reviewing one’s actions, asking forgiveness, and resolving to do better."
+        "description": "A practice of reviewing one’s conduct, expressing repentance, and asking forgiveness."
       },
       {
         "slug": "paryushana",
         "title": "Paryushana and Das Lakshana",
-        "description": "Annual observances in Śvetāmbara and Digambara communities."
+        "description": "Paryushan among Śvetāmbaras and Dashalakshana among Digambaras: annual periods of study, restraint, and reflection."
       }
     ],
     "contextLabel": "Practice varies",
