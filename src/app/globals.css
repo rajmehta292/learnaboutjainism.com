@@ -2784,8 +2784,14 @@ html:lang(hi-IN) .reader-tools {
   }
 
   .home-hero__grid {
-    grid-template-columns: minmax(0, 1.2fr) minmax(270px, 0.8fr);
+    grid-template-columns: minmax(0, 1fr);
     gap: 2.4rem;
+  }
+
+  .home-hero__guide {
+    width: 100%;
+    max-width: 760px;
+    justify-self: center;
   }
 
   .question-grid {
