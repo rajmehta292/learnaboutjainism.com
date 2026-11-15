@@ -98,6 +98,7 @@ export default async function RootLayout({
                   <Link href="/ontology">{nav.library}</Link>
                   <Link href="/aradhana">{nav.practice}</Link>
                   <Link href="/about-this-library">{nav.method}</Link>
+                  <Link href="/account">{nav.account}</Link>
                 </nav>
                 <LanguageSwitcher copy={nav} />
               </div>
@@ -120,12 +121,14 @@ export default async function RootLayout({
                   <li><Link href="/start-here">{nav.start}</Link></li>
                   <li><Link href="/ontology">{nav.library}</Link></li>
                   <li><Link href="/aradhana">{nav.practice}</Link></li>
+                  <li><Link href="/account">{nav.account}</Link></li>
                 </ul>
               </div>
               <div>
                 <h2>{nav.footerAbout}</h2>
                 <ul>
                   <li><Link href="/about-this-library">{nav.method}</Link></li>
+                  <li><Link href="/privacy">{nav.footerPrivacy}</Link></li>
                   <li><Link href={englishHref(locale, "/ontology/D01.T005")}>{nav.footerDiversity}</Link></li>
                   <li>
                     <a
@@ -136,7 +139,7 @@ export default async function RootLayout({
                       {nav.footerFeedback} <span aria-hidden="true">↗</span>
                     </a>
                   </li>
-                  <li><Link href={englishHref(locale, "/admin")}>{nav.adminLogin}</Link></li>
+                  <li><Link href={"/sign-in?return_to=" + encodeURIComponent("/en/admin")}>{nav.adminLogin}</Link></li>
                 </ul>
               </div>
             </div>

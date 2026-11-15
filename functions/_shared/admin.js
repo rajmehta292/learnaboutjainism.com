@@ -1,4 +1,5 @@
 import { verifyEditor } from "./access.js";
+import { currentUser } from "./reader-auth.js";
 
 const MAX_BODY_BYTES = 240_000;
 
@@ -20,11 +21,26 @@ export async function editorContext(context) {
   if (mutating && request.headers.get("origin") !== new URL(request.url).origin) {
     return { response: json({ error: "Request origin did not match." }, 403) };
   }
+  let readerAccount = null;
+  try {
+    readerAccount = await currentUser(request, context.env);
+  } catch {
+    // Keep Cloudflare Access available while an account database is being migrated.
+  }
+  if (readerAccount?.user?.role === "librarian") {
+    return { db: readerAccount.db, actor: readerAccount.user.email, authMethod: "Google" };
+  }
   const claims = await verifyEditor(request, context.env);
-  if (!claims) return { response: json({ error: "Sign in with an approved editor account to continue." }, 401) };
+  if (!claims) {
+    const status = readerAccount?.user ? 403 : 401;
+    const message = status === 403
+      ? "This Google account can use the reading library but does not have librarian access."
+      : "Sign in with an approved librarian account to continue.";
+    return { response: json({ error: message }, status) };
+  }
   const db = context.env.LIBRARY_DB;
   if (!db) return { response: json({ error: "The shared editorial workspace is not connected yet." }, 503) };
-  return { db, actor: claims.email.toLowerCase() };
+  return { db, actor: claims.email.toLowerCase(), authMethod: "Cloudflare Access" };
 }
 
 export async function readBody(request) {

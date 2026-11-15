@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useMemo, useState } from "react";
+import { Link } from "@/i18n/routing";
 
 type Status = "needs_review" | "in_review" | "verified";
 type TopicRecord = {
@@ -82,6 +83,7 @@ export default function AdminWorkspace({ section }: { section: Section }) {
   const [records, setRecords] = useState<TopicRecord[]>([]);
   const [tasks, setTasks] = useState<Task[]>([]);
   const [user, setUser] = useState("");
+  const [authMethod, setAuthMethod] = useState("");
   const [selectedId, setSelectedId] = useState("");
   const [detail, setDetail] = useState<PageDetail | null>(null);
   const [baseContent, setBaseContent] = useState<PageContent | null>(null);
@@ -103,6 +105,7 @@ export default function AdminWorkspace({ section }: { section: Section }) {
     setRecords(Array.isArray(manifest.topics) ? manifest.topics : []);
     setTasks(Array.isArray(state.tasks) ? state.tasks : []);
     setUser(typeof state.user === "string" ? state.user : "");
+    setAuthMethod(typeof state.authMethod === "string" ? state.authMethod : "Cloudflare Access");
   }
 
   useEffect(() => {
@@ -115,6 +118,7 @@ export default function AdminWorkspace({ section }: { section: Section }) {
       setRecords(Array.isArray(manifest.topics) ? manifest.topics : []);
       setTasks(Array.isArray(state.tasks) ? state.tasks : []);
       setUser(typeof state.user === "string" ? state.user : "");
+      setAuthMethod(typeof state.authMethod === "string" ? state.authMethod : "Cloudflare Access");
       const queryId = new URLSearchParams(window.location.search).get("topic_id") ?? "";
       if (queryId && /^D\d{2}\.T\d{3}$/.test(queryId)) setSelectedId(queryId);
       setLoading(false);
@@ -167,7 +171,7 @@ export default function AdminWorkspace({ section }: { section: Section }) {
           </div>
           <div className="admin-account">
             <span className="admin-account__avatar" aria-hidden="true">{user ? user.slice(0, 1).toUpperCase() : "J"}</span>
-            <span><strong>{user || "Editor"}</strong><small>Signed in through Cloudflare Access</small></span>
+            <span><strong>{user || "Librarian"}</strong><small>Signed in with {authMethod || "Google"}</small></span>
           </div>
         </header>
 
@@ -186,7 +190,7 @@ export default function AdminWorkspace({ section }: { section: Section }) {
           </aside>
 
           <section className="admin-content">
-            {error && <div className="admin-alert" role="alert"><strong>Could not load the workspace</strong><span>{error}</span><button type="button" onClick={() => window.location.reload()}>Reload</button></div>}
+            {error && <div className="admin-alert" role="alert"><strong>Could not load the workspace</strong><span>{error}</span>{/sign in|librarian access/i.test(error) && <Link className="admin-quiet-link" href="/en/sign-in?return_to=%2Fen%2Fadmin">Librarian sign-in</Link>}<button type="button" onClick={() => window.location.reload()}>Reload</button></div>}
             {loading ? <div className="admin-loading">Opening the library workspace…</div> : (
               <>
                 {section === "overview" && <Overview records={recordsWithStatus} needsReview={needsReview} inReview={inReview} verified={verified} contentNeeded={contentNeeded} nextPage={nextPage} />}

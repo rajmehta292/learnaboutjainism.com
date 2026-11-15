@@ -312,7 +312,11 @@ html:lang(hi-IN) .site-nav,
 html:lang(gu-IN) .button,
 html:lang(hi-IN) .button,
 html:lang(gu-IN) .language-switcher,
-html:lang(hi-IN) .language-switcher {
+html:lang(hi-IN) .language-switcher,
+html:lang(gu-IN) .account-page,
+html:lang(hi-IN) .account-page,
+html:lang(gu-IN) .reader-tools,
+html:lang(hi-IN) .reader-tools {
   font-family: "Noto Sans Gujarati", "Noto Sans Devanagari", "Nirmala UI", sans-serif;
   letter-spacing: 0;
   text-transform: none;
@@ -1334,6 +1338,433 @@ html:lang(hi-IN) .language-switcher {
   border-top: 1px solid var(--color-border);
 }
 
+/* Reader accounts */
+.account-page {
+  min-height: 70vh;
+  padding-block: clamp(2.5rem, 6vw, 5rem);
+  background:
+    radial-gradient(ellipse at 90% 0%, rgb(208 217 197 / 28%), transparent 32rem),
+    linear-gradient(180deg, #fbf9f4 0%, var(--color-canvas) 28rem);
+  font-family: var(--font-sans), sans-serif;
+  font-size: 0.92rem;
+  line-height: 1.6;
+}
+
+.account-wrap {
+  width: min(100%, 1120px);
+  margin-inline: auto;
+  padding-inline: var(--page-gutter);
+}
+
+.account-heading {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.account-heading h1,
+.account-signin-card h1 {
+  margin-bottom: 0.45rem;
+  font-size: clamp(2.5rem, 6vw, 4rem);
+}
+
+.account-heading > div:first-child > p:last-child,
+.account-signin-card > p:not(.eyebrow) {
+  max-width: 600px;
+  margin-bottom: 0;
+  color: var(--color-ink-muted);
+}
+
+.account-user {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  gap: 0.7rem;
+  padding: 0.65rem 0.85rem;
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  background: rgb(255 255 255 / 82%);
+}
+
+.account-user img,
+.account-user > span {
+  display: grid;
+  width: 42px;
+  height: 42px;
+  flex: 0 0 auto;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--color-sandstone);
+  color: var(--color-saffron);
+  object-fit: cover;
+  font-size: 1.1rem;
+}
+
+.account-user > div {
+  display: grid;
+  min-width: 0;
+}
+
+.account-user strong,
+.account-user small {
+  overflow: hidden;
+  max-width: 16rem;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.account-user strong {
+  color: var(--color-ink);
+  font-size: 0.78rem;
+}
+
+.account-user small,
+.account-muted,
+.account-empty {
+  color: var(--color-ink-muted);
+  font-size: 0.78rem;
+}
+
+.account-subtitle {
+  margin: 0 0 1rem;
+  color: var(--color-ink-muted);
+}
+
+.account-stats {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.8rem;
+  margin-bottom: 1.25rem;
+}
+
+.account-stats article {
+  display: grid;
+  gap: 0.3rem;
+  min-height: 100px;
+  align-content: center;
+  padding: 1rem 1.15rem;
+  border: 1px solid var(--color-border);
+  border-radius: 9px;
+  background: rgb(255 255 255 / 82%);
+}
+
+.account-stats span {
+  color: var(--color-ink-muted);
+  font-size: 0.74rem;
+}
+
+.account-stats strong {
+  color: var(--color-ink);
+  font-family: var(--font-display), Georgia, serif;
+  font-size: 2rem;
+  font-weight: 500;
+  line-height: 1;
+}
+
+.account-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.account-panel {
+  min-width: 0;
+  padding: 1.2rem;
+  border: 1px solid var(--color-border);
+  border-radius: 10px;
+  background: rgb(255 255 255 / 86%);
+}
+
+.account-panel h2 {
+  margin-bottom: 0.85rem;
+  font-size: 1.55rem;
+}
+
+.account-list {
+  display: grid;
+  gap: 0;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.account-list li {
+  display: flex;
+  min-width: 0;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem;
+  padding-block: 0.7rem;
+  border-top: 1px solid var(--color-border);
+}
+
+.account-list li > div {
+  display: grid;
+  min-width: 0;
+  gap: 0.12rem;
+}
+
+.account-list a {
+  color: var(--color-ink);
+  font-size: 0.84rem;
+  font-weight: 500;
+  text-decoration-color: var(--color-border-strong);
+  text-underline-offset: 3px;
+}
+
+.account-list a:hover {
+  color: var(--color-saffron);
+}
+
+.account-list small {
+  color: var(--color-ink-muted);
+  font-size: 0.68rem;
+}
+
+.account-note-list p {
+  display: -webkit-box;
+  overflow: hidden;
+  margin: 0.2rem 0;
+  color: var(--color-ink-muted);
+  font-size: 0.74rem;
+  line-height: 1.45;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 2;
+}
+
+.account-tag {
+  flex: 0 0 auto;
+  padding: 0.18rem 0.5rem;
+  border-radius: 999px;
+  background: #E9EBDD;
+  color: var(--color-leaf);
+  font-size: 0.64rem;
+}
+
+.account-empty {
+  margin: 0;
+}
+
+.account-expand {
+  margin-top: 0.8rem;
+  padding: 0.3rem 0;
+  border: 0;
+  background: transparent;
+  color: var(--color-saffron);
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.72rem;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.account-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.8rem;
+  margin-top: 1.2rem;
+}
+
+.account-delete {
+  padding: 0.5rem 0;
+  border: 0;
+  background: transparent;
+  color: #855148;
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.72rem;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.account-delete:disabled {
+  opacity: 0.55;
+  cursor: wait;
+}
+
+.account-librarian-hint {
+  margin: 1.8rem 0 0;
+  color: var(--color-ink-muted);
+  font-size: 0.76rem;
+}
+
+.account-signin-card {
+  width: min(100%, 600px);
+  margin-inline: auto;
+  padding: clamp(1.4rem, 5vw, 2.5rem);
+  border: 1px solid var(--color-border);
+  border-radius: 12px;
+  background: rgb(255 255 255 / 90%);
+  box-shadow: 0 18px 50px rgb(52 47 40 / 6%);
+}
+
+.account-signin-card--inline {
+  width: auto;
+  margin: 0;
+}
+
+.account-signin-card .eyebrow {
+  margin-bottom: 0.6rem;
+}
+
+.account-signin-card > p + .button,
+.account-signin-card > p + .account-signed-in {
+  margin-top: 1.2rem;
+}
+
+.account-google-button {
+  width: 100%;
+  margin-top: 1.25rem;
+  border-color: var(--color-border-strong);
+  background: #fff;
+  color: var(--color-ink);
+  letter-spacing: 0.01em;
+  text-transform: none;
+}
+
+.account-google-button:hover {
+  border-color: var(--color-saffron-light);
+  background: #FBF9F4;
+  color: var(--color-ink);
+}
+
+.account-privacy {
+  margin: 0.8rem 0 0;
+  color: var(--color-ink-muted);
+  font-size: 0.7rem;
+  text-align: center;
+}
+
+.account-alert {
+  margin: 1rem 0;
+  padding: 0.8rem 1rem;
+  border: 1px solid #D9B1A7;
+  border-radius: 6px;
+  background: #FBF0EC;
+  color: #733D32;
+  font-size: 0.78rem;
+}
+
+.account-signin-back {
+  margin: 1.2rem 0 0;
+  font-size: 0.74rem;
+  text-align: center;
+}
+
+.account-signin-back a {
+  color: var(--color-saffron);
+}
+
+.account-signed-in {
+  margin-top: 1.3rem;
+}
+
+.account-signed-in p {
+  color: var(--color-ink-muted);
+  font-size: 0.8rem;
+}
+
+.reader-tools {
+  margin: 0 0 2rem;
+  padding: 1.1rem;
+  border: 1px solid var(--color-border);
+  border-radius: 9px;
+  background: linear-gradient(125deg, #F6F1E7, #fff 78%);
+  font-family: var(--font-sans), sans-serif;
+  font-size: 0.8rem;
+}
+
+.reader-tools--loading {
+  min-height: 76px;
+}
+
+.reader-tools--signed-out {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.reader-tools--signed-out p {
+  margin: 0.2rem 0 0;
+  color: var(--color-ink-muted);
+  font-size: 0.74rem;
+}
+
+.reader-tools__heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 0.8rem;
+}
+
+.reader-tools__heading .eyebrow {
+  margin-bottom: 0.15rem;
+  font-size: 0.6rem;
+}
+
+.reader-tools__heading > div:first-child > span {
+  color: var(--color-ink-muted);
+  font-size: 0.68rem;
+}
+
+.reader-tools__actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.reader-tools__actions .button,
+.reader-tools__note-footer .button,
+.reader-tools--signed-out .button {
+  min-height: 40px;
+  font-size: 0.67rem;
+  letter-spacing: 0.015em;
+  text-transform: none;
+}
+
+.reader-tools__note-label {
+  display: block;
+  margin: 0.9rem 0 0.35rem;
+  color: var(--color-ink);
+  font-size: 0.73rem;
+  font-weight: 500;
+}
+
+.reader-tools textarea {
+  display: block;
+  width: 100%;
+  min-height: 125px;
+  resize: vertical;
+  padding: 0.7rem 0.8rem;
+  border: 1px solid var(--color-border-strong);
+  border-radius: 5px;
+  background: #fff;
+  color: var(--color-ink);
+  font-family: var(--font-reading), Georgia, serif;
+  font-size: 0.98rem;
+  line-height: 1.55;
+}
+
+.reader-tools__note-footer {
+  display: flex;
+  min-height: 40px;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 0.55rem;
+}
+
+.reader-tools__note-footer > span {
+  color: var(--color-leaf);
+  font-size: 0.7rem;
+}
+
 /* Quiet editorial status: visible on an entry, never as a sitewide warning. */
 .topic-review-pill {
   display: inline-flex;
@@ -2097,7 +2528,7 @@ html:lang(hi-IN) .language-switcher {
   .site-nav {
     display: grid;
     grid-area: nav;
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+    grid-template-columns: repeat(5, minmax(0, 1fr));
     align-items: stretch;
     gap: 0.2rem;
     min-width: 0;
@@ -2352,6 +2783,62 @@ html:lang(hi-IN) .language-switcher {
 
   .site-footer__bottom {
     flex-direction: column;
+  }
+
+  .account-heading {
+    align-items: stretch;
+    flex-direction: column;
+    gap: 1rem;
+  }
+
+  .account-user {
+    align-self: flex-start;
+    max-width: 100%;
+  }
+
+  .account-stats {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.55rem;
+  }
+
+  .account-stats article {
+    min-height: 84px;
+    padding: 0.8rem;
+  }
+
+  .account-grid {
+    grid-template-columns: 1fr;
+    gap: 0.7rem;
+  }
+
+  .account-panel {
+    padding: 1rem;
+  }
+
+  .reader-tools--signed-out,
+  .reader-tools__heading {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .reader-tools__actions {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .reader-tools__actions .button {
+    min-width: 0;
+    padding-inline: 0.5rem;
+  }
+
+  .reader-tools__note-footer {
+    align-items: stretch;
+    flex-direction: column;
+  }
+
+  .reader-tools__note-footer .button,
+  .reader-tools--signed-out .button {
+    width: 100%;
   }
 }
 

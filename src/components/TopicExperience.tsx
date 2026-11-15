@@ -2,6 +2,7 @@
 
 import { Fragment, useEffect, useState, type ReactNode } from "react";
 import { Link } from "@/i18n/routing";
+import ReadingTools from "@/components/ReadingTools";
 
 type Source = Record<string, string | undefined> & { title?: string };
 type TopicLink = { title: string; id: string };
@@ -109,6 +110,7 @@ export default function TopicExperience({
       </header>
 
       <article className="article-body">
+        <ReadingTools topicId={topicId} />
         {paragraphs.length > 0 ? (
           <div className="prose-reading">{paragraphs.map((paragraph, index) => <p key={index}>{renderInline(paragraph, topicId, topicLinks)}</p>)}</div>
         ) : <p className="empty-state">More on this topic will be added here.</p>}

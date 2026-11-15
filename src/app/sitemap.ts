@@ -54,7 +54,7 @@ function hasCompleteReview(topicId: string): boolean {
 }
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const fixedPages = ["/en", "/en/start-here", "/en/ontology", "/en/about-this-library"];
+  const fixedPages = ["/en", "/en/start-here", "/en/ontology", "/en/about-this-library", "/en/privacy"];
   const reviewedTopics = ontology.domains.flatMap((domain) =>
     domain.topics
       .filter((topic) => hasCompleteReview(topic.topic_id))
