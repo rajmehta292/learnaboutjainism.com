@@ -1,0 +1,61 @@
+name: Record reader feedback
+
+on:
+  issues:
+    types: [opened, edited, reopened]
+
+permissions:
+  contents: write
+  issues: read
+
+jobs:
+  record-feedback:
+    if: ${{ startsWith(github.event.issue.title, 'Reader feedback:') }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the default branch
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Update the reader-feedback CSV
+        env:
+          GITHUB_EVENT_PATH: ${{ github.event_path }}
+        run: node scripts/sync-reader-feedback.mjs
+
+      - name: Commit the feedback record
+        env:
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          for attempt in 1 2 3 4 5; do
+            git add docs/reader-feedback.csv
+            if git diff --cached --quiet; then
+              echo "Feedback record is already up to date."
+              exit 0
+            fi
+
+            git commit -m "Record reader feedback #${ISSUE_NUMBER}"
+            if git push origin HEAD:main; then
+              exit 0
+            fi
+
+            echo "Push raced with another repository update; retrying from main (attempt ${attempt})."
+            sleep "$((attempt * 2))"
+            git fetch origin main
+            git reset --hard origin/main
+            node scripts/sync-reader-feedback.mjs
+          done
+
+          echo "Could not update docs/reader-feedback.csv after five attempts." >&2
+          exit 1

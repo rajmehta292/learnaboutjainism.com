@@ -5,15 +5,23 @@ body:
   - type: markdown
     attributes:
       value: |
-        This public issue tracker is visible to anyone. Please do not include personal, medical, or other private information.
+        Submitting this form creates a public GitHub issue. An automated workflow also copies it to `docs/reader-feedback.csv` in this public repository, where anyone can read it. GitHub requires an account to submit. Please do not include personal, medical, or other private information.
+  - type: dropdown
+    id: feedback_type
+    attributes:
+      label: Type of feedback
+      options:
+        - Correction or source issue
+        - Accessibility barrier
+        - Other suggestion
+    validations:
+      required: true
   - type: input
     id: page
     attributes:
       label: Page URL
       description: Link to the page or section, if applicable.
       placeholder: https://learnaboutjainism.com/en/...
-    validations:
-      required: true
   - type: textarea
     id: feedback
     attributes:
