@@ -110,6 +110,7 @@ export default function AdminWorkspace({ section }: { section: Section }) {
   const [baseContent, setBaseContent] = useState<PageContent | null>(null);
   const [baseContentTopicId, setBaseContentTopicId] = useState("");
   const [loading, setLoading] = useState(true);
+  const [workspaceReady, setWorkspaceReady] = useState(false);
   const [error, setError] = useState("");
 
   const taskMap = useMemo(() => new Map(tasks.map((task) => [task.topicId, task])), [tasks]);
@@ -129,6 +130,7 @@ export default function AdminWorkspace({ section }: { section: Section }) {
     setSummary(state.summary ?? { savedDrafts: 0, feedbackTotal: 0, feedbackNew: 0, feedbackActive: 0, feedbackStatuses: {}, recentFeedback: [] });
     setUser(typeof state.user === "string" ? state.user : "");
     setAuthMethod(typeof state.authMethod === "string" ? state.authMethod : "Cloudflare Access");
+    setWorkspaceReady(true);
   }
 
   useEffect(() => {
@@ -144,6 +146,7 @@ export default function AdminWorkspace({ section }: { section: Section }) {
       setSummary(state.summary ?? { savedDrafts: 0, feedbackTotal: 0, feedbackNew: 0, feedbackActive: 0, feedbackStatuses: {}, recentFeedback: [] });
       setUser(typeof state.user === "string" ? state.user : "");
       setAuthMethod(typeof state.authMethod === "string" ? state.authMethod : "Cloudflare Access");
+      setWorkspaceReady(true);
       const queryId = new URLSearchParams(window.location.search).get("topic_id") ?? "";
       if (queryId && /^D\d{2}\.T\d{3}$/.test(queryId)) setSelectedId(queryId);
       setLoading(false);
@@ -196,7 +199,7 @@ export default function AdminWorkspace({ section }: { section: Section }) {
           </div>
           <div className="admin-account">
             <span className="admin-account__avatar" aria-hidden="true">{user ? user.slice(0, 1).toUpperCase() : "J"}</span>
-            <span><strong>{user || "Librarian"}</strong><small>Signed in with {authMethod || "Google"}</small></span>
+            <span><strong>{user || "Librarian access"}</strong><small>{user ? `Signed in with ${authMethod}` : "Sign in to manage review"}</small></span>
           </div>
         </header>
 
@@ -217,8 +220,15 @@ export default function AdminWorkspace({ section }: { section: Section }) {
           </aside>
 
           <section className="admin-content">
-            {error && <div className="admin-alert" role="alert"><strong>Could not load the workspace</strong><span>{error}</span>{/sign in|librarian access/i.test(error) && <Link className="admin-quiet-link" href="/en/sign-in?return_to=%2Fen%2Fadmin">Librarian sign-in</Link>}<button type="button" onClick={() => window.location.reload()}>Reload</button></div>}
-            {loading ? <div className="admin-loading">Opening the library workspace…</div> : (
+            {error && workspaceReady && <div className="admin-alert" role="alert"><strong>Could not load the workspace</strong><span>{error}</span><button type="button" onClick={() => window.location.reload()}>Reload</button></div>}
+            {loading ? <div className="admin-loading">Opening the library workspace…</div> : !workspaceReady ? (
+              <div className="admin-alert" role="alert">
+                <strong>Sign in to open the librarian workspace</strong>
+                <span>{error || "Confirm librarian access, then reload this page."}</span>
+                <Link className="admin-quiet-link" href="/en/sign-in?return_to=%2Fen%2Fadmin">Librarian sign-in</Link>
+                <button type="button" onClick={() => window.location.reload()}>Try again</button>
+              </div>
+            ) : (
               <>
                 {section === "overview" && <Overview records={recordsWithStatus} needsReview={needsReview} inReview={inReview} verified={verified} contentNeeded={contentNeeded} nextPage={nextPage} summary={summary} />}
                 {section === "review" && <ReviewCenter records={recordsWithStatus.filter((record) => record.hasPage)} />}
