@@ -13,7 +13,7 @@ const domainGroups = [
   { key: "history", prefixes: ["D23", "D24", "D25", "D26", "D27", "D28", "D29", "D30"] },
   { key: "texts", prefixes: ["D31", "D32", "D33", "D34", "D35", "D36", "D37"] },
   { key: "arts", prefixes: ["D38", "D39", "D40", "D41", "D42", "D43", "D44", "D45", "D46", "D47", "D48"] },
-  { key: "research", prefixes: ["D49", "D50", "D51", "D52"] },
+  { key: "research", prefixes: ["D49", "D50"] },
 ] as const;
 
 const groupForDomain = new Map<string, LibraryDomain["groupKey"]>(

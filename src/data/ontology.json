@@ -1,14 +1,14 @@
 {
   "version": "1.0",
   "generated": "2026-07-22",
-  "domain_count": 52,
-  "topic_count": 1676,
-  "scope_note": "A versioned core, not a claim to exhaust every future question.",
+  "domain_count": 50,
+  "topic_count": 1401,
+  "scope_note": "Catalogue of the topics available in this library.",
   "domains": [
     {
       "domain_id": "D01",
-      "domain": "Orientation and ways of learning",
-      "purpose": "Welcome learners and explain how faith, tradition, history, and scholarship are separated.",
+      "domain": "Jainism basics",
+      "purpose": "Introduce core Jain teachings, key terms, and differences among Jain communities.",
       "topics": [
         {
           "topic_id": "D01.T001",
@@ -20,7 +20,7 @@
         },
         {
           "topic_id": "D01.T003",
-          "title": "Shramana context"
+          "title": "Śramaṇa traditions"
         },
         {
           "topic_id": "D01.T004",
@@ -36,19 +36,11 @@
         },
         {
           "topic_id": "D01.T007",
-          "title": "Learning versus belief and observance"
+          "title": "Learning, belief, and practice"
         },
         {
           "topic_id": "D01.T008",
           "title": "How to read primary texts"
-        },
-        {
-          "topic_id": "D01.T009",
-          "title": "How to read tradition notes"
-        },
-        {
-          "topic_id": "D01.T010",
-          "title": "How to read uncertainty labels"
         },
         {
           "topic_id": "D01.T011",
@@ -57,30 +49,6 @@
         {
           "topic_id": "D01.T012",
           "title": "Transliteration basics"
-        },
-        {
-          "topic_id": "D01.T013",
-          "title": "Beginner learning paths"
-        },
-        {
-          "topic_id": "D01.T014",
-          "title": "Advanced learning paths"
-        },
-        {
-          "topic_id": "D01.T015",
-          "title": "Common misconceptions"
-        },
-        {
-          "topic_id": "D01.T016",
-          "title": "Respectful visitor questions"
-        },
-        {
-          "topic_id": "D01.T017",
-          "title": "How to consult a human teacher"
-        },
-        {
-          "topic_id": "D01.T018",
-          "title": "Limits of AI religious assistance"
         }
       ]
     },
@@ -166,10 +134,6 @@
           "title": "Right conduct"
         },
         {
-          "topic_id": "D02.T020",
-          "title": "Vyavahara and nishchaya"
-        },
-        {
           "topic_id": "D02.T021",
           "title": "Obstacles to liberation"
         },
@@ -227,10 +191,6 @@
         {
           "topic_id": "D03.T011",
           "title": "Akasha"
-        },
-        {
-          "topic_id": "D03.T012",
-          "title": "Kala"
         },
         {
           "topic_id": "D03.T013",
@@ -320,10 +280,6 @@
           "title": "Soul size and bodily accommodation"
         },
         {
-          "topic_id": "D04.T010",
-          "title": "Bhavya and abhavya"
-        },
-        {
           "topic_id": "D04.T011",
           "title": "Samsarin jivas"
         },
@@ -354,10 +310,6 @@
         {
           "topic_id": "D04.T018",
           "title": "Leshya"
-        },
-        {
-          "topic_id": "D04.T019",
-          "title": "Jiva-kanda classifications"
         },
         {
           "topic_id": "D04.T020",
@@ -427,10 +379,6 @@
           "title": "Digambara presentations"
         },
         {
-          "topic_id": "D05.T015",
-          "title": "Svetambara presentations"
-        },
-        {
           "topic_id": "D05.T016",
           "title": "Pedagogical metaphors"
         },
@@ -490,10 +438,6 @@
           "title": "Eight main karmas"
         },
         {
-          "topic_id": "D06.T010",
-          "title": "Ghatiya karmas"
-        },
-        {
           "topic_id": "D06.T011",
           "title": "Aghatiya karmas"
         },
@@ -512,10 +456,6 @@
         {
           "topic_id": "D06.T015",
           "title": "Antaraya"
-        },
-        {
-          "topic_id": "D06.T016",
-          "title": "Vedaniya"
         },
         {
           "topic_id": "D06.T017",
@@ -570,10 +510,6 @@
           "title": "Nikachita"
         },
         {
-          "topic_id": "D06.T030",
-          "title": "Punya and papa"
-        },
-        {
           "topic_id": "D06.T031",
           "title": "Intent and consequence"
         },
@@ -584,10 +520,6 @@
         {
           "topic_id": "D06.T033",
           "title": "Karmagrantha traditions"
-        },
-        {
-          "topic_id": "D06.T034",
-          "title": "Karma and free agency"
         },
         {
           "topic_id": "D06.T035",
@@ -820,20 +752,12 @@
           "title": "Perception-obscuring karma"
         },
         {
-          "topic_id": "D08.T026",
-          "title": "Tattvartha epistemology"
-        },
-        {
           "topic_id": "D08.T027",
           "title": "Siddhasena"
         },
         {
           "topic_id": "D08.T028",
           "title": "Akalanka"
-        },
-        {
-          "topic_id": "D08.T029",
-          "title": "Vidyananda"
         },
         {
           "topic_id": "D08.T030",
@@ -875,10 +799,6 @@
           "title": "Substantial standpoint"
         },
         {
-          "topic_id": "D09.T006",
-          "title": "Modal standpoint"
-        },
-        {
           "topic_id": "D09.T007",
           "title": "Common naya classifications"
         },
@@ -911,10 +831,6 @@
           "title": "Syad-avaktavya"
         },
         {
-          "topic_id": "D09.T015",
-          "title": "Sevenfold combinations"
-        },
-        {
           "topic_id": "D09.T016",
           "title": "Context and qualification"
         },
@@ -935,10 +851,6 @@
           "title": "Samantabhadra"
         },
         {
-          "topic_id": "D09.T021",
-          "title": "Siddhasena"
-        },
-        {
           "topic_id": "D09.T022",
           "title": "Akalanka"
         },
@@ -949,10 +861,6 @@
         {
           "topic_id": "D09.T024",
           "title": "Misuse as relativism"
-        },
-        {
-          "topic_id": "D09.T025",
-          "title": "Interfaith application"
         },
         {
           "topic_id": "D09.T026",
@@ -996,10 +904,6 @@
         {
           "topic_id": "D10.T008",
           "title": "Fallacies"
-        },
-        {
-          "topic_id": "D10.T009",
-          "title": "Pramana-naya integration"
         },
         {
           "topic_id": "D10.T010",
@@ -1058,10 +962,6 @@
           "title": "Akalanka logic"
         },
         {
-          "topic_id": "D10.T024",
-          "title": "Vidyananda commentaries"
-        },
-        {
           "topic_id": "D10.T025",
           "title": "Prabhacandra"
         },
@@ -1072,14 +972,6 @@
         {
           "topic_id": "D10.T027",
           "title": "Jain-Nyaya debate"
-        },
-        {
-          "topic_id": "D10.T028",
-          "title": "Jain-Mimamsa debate"
-        },
-        {
-          "topic_id": "D10.T029",
-          "title": "Jain-Vedanta debate"
         }
       ]
     },
@@ -1089,10 +981,6 @@
       "purpose": "Provide a complete, source-aware learning domain for gunasthanas and spiritual development, with tradition notes, primary sources, and review requirements.",
       "topics": [
         {
-          "topic_id": "D11.T001",
-          "title": "Purpose of gunasthana model"
-        },
-        {
           "topic_id": "D11.T002",
           "title": "Mithyatva"
         },
@@ -1101,28 +989,12 @@
           "title": "Sasadana"
         },
         {
-          "topic_id": "D11.T004",
-          "title": "Mishra"
-        },
-        {
-          "topic_id": "D11.T005",
-          "title": "Avirata-samyagdrishti"
-        },
-        {
           "topic_id": "D11.T006",
           "title": "Desavirata"
         },
         {
-          "topic_id": "D11.T007",
-          "title": "Pramatta-samyata"
-        },
-        {
           "topic_id": "D11.T008",
           "title": "Apramatta-samyata"
-        },
-        {
-          "topic_id": "D11.T009",
-          "title": "Apurva-karana"
         },
         {
           "topic_id": "D11.T010",
@@ -1153,10 +1025,6 @@
           "title": "Transitions"
         },
         {
-          "topic_id": "D11.T017",
-          "title": "Falls"
-        },
-        {
           "topic_id": "D11.T018",
           "title": "Right faith and restraint"
         },
@@ -1179,10 +1047,6 @@
         {
           "topic_id": "D11.T023",
           "title": "Gommatasara presentation"
-        },
-        {
-          "topic_id": "D11.T024",
-          "title": "Terminology differences"
         },
         {
           "topic_id": "D11.T025",
@@ -1502,14 +1366,6 @@
           "title": "Time-limited vows"
         },
         {
-          "topic_id": "D14.T023",
-          "title": "Festival observance"
-        },
-        {
-          "topic_id": "D14.T024",
-          "title": "Care for mendicants"
-        },
-        {
           "topic_id": "D14.T025",
           "title": "Laywomen roles"
         },
@@ -1535,10 +1391,6 @@
         {
           "topic_id": "D15.T001",
           "title": "Purpose of renunciation"
-        },
-        {
-          "topic_id": "D15.T002",
-          "title": "Diksha"
         },
         {
           "topic_id": "D15.T003",
@@ -1583,10 +1435,6 @@
         {
           "topic_id": "D15.T013",
           "title": "Monastic clothing"
-        },
-        {
-          "topic_id": "D15.T014",
-          "title": "Digambara nudity"
         },
         {
           "topic_id": "D15.T015",
@@ -1684,10 +1532,6 @@
           "title": "Bhasha-samiti"
         },
         {
-          "topic_id": "D16.T003",
-          "title": "Eshana-samiti"
-        },
-        {
           "topic_id": "D16.T004",
           "title": "Adana-nikshepana-samiti"
         },
@@ -1722,10 +1566,6 @@
         {
           "topic_id": "D16.T012",
           "title": "Care in handling objects"
-        },
-        {
-          "topic_id": "D16.T013",
-          "title": "Care in sanitation"
         },
         {
           "topic_id": "D16.T014",
@@ -1803,14 +1643,6 @@
           "title": "Pratyakhyana"
         },
         {
-          "topic_id": "D17.T009",
-          "title": "Chaityavandana"
-        },
-        {
-          "topic_id": "D17.T010",
-          "title": "Devavandana"
-        },
-        {
           "topic_id": "D17.T011",
           "title": "Guru-vandana"
         },
@@ -1849,10 +1681,6 @@
         {
           "topic_id": "D17.T020",
           "title": "Annual practice"
-        },
-        {
-          "topic_id": "D17.T021",
-          "title": "Svetambara liturgy"
         },
         {
           "topic_id": "D17.T022",
@@ -1928,10 +1756,6 @@
         {
           "topic_id": "D18.T008",
           "title": "Anitya"
-        },
-        {
-          "topic_id": "D18.T009",
-          "title": "Asharana"
         },
         {
           "topic_id": "D18.T010",
@@ -2010,10 +1834,6 @@
           "title": "Hemacandra Yogashastra"
         },
         {
-          "topic_id": "D18.T029",
-          "title": "Dhyanashataka"
-        },
-        {
           "topic_id": "D18.T030",
           "title": "Preksha meditation"
         },
@@ -2065,10 +1885,6 @@
           "title": "Kaya-klesha"
         },
         {
-          "topic_id": "D19.T008",
-          "title": "Sanlinata"
-        },
-        {
           "topic_id": "D19.T009",
           "title": "Six internal austerities"
         },
@@ -2091,10 +1907,6 @@
         {
           "topic_id": "D19.T014",
           "title": "Dhyana as austerity"
-        },
-        {
-          "topic_id": "D19.T015",
-          "title": "Vyutsarga"
         },
         {
           "topic_id": "D19.T016",
@@ -2127,10 +1939,6 @@
         {
           "topic_id": "D19.T023",
           "title": "Attham"
-        },
-        {
-          "topic_id": "D19.T024",
-          "title": "Tela"
         },
         {
           "topic_id": "D19.T025",
@@ -2260,10 +2068,6 @@
           "title": "Shravakachara discussions"
         },
         {
-          "topic_id": "D20.T017",
-          "title": "Modern legal controversies"
-        },
-        {
           "topic_id": "D20.T018",
           "title": "Medical ethics"
         },
@@ -2339,10 +2143,6 @@
           "title": "Snatra-puja"
         },
         {
-          "topic_id": "D21.T009",
-          "title": "Chaityavandana"
-        },
-        {
           "topic_id": "D21.T010",
           "title": "Aarti"
         },
@@ -2353,10 +2153,6 @@
         {
           "topic_id": "D21.T012",
           "title": "Digambara puja"
-        },
-        {
-          "topic_id": "D21.T013",
-          "title": "Svetambara Murtipujaka worship"
         },
         {
           "topic_id": "D21.T014",
@@ -2387,10 +2183,6 @@
           "title": "Yantras"
         },
         {
-          "topic_id": "D21.T021",
-          "title": "Mandalas"
-        },
-        {
           "topic_id": "D21.T022",
           "title": "Pratishtha"
         },
@@ -2413,10 +2205,6 @@
         {
           "topic_id": "D21.T027",
           "title": "Regional variation"
-        },
-        {
-          "topic_id": "D21.T028",
-          "title": "Audio rights"
         }
       ]
     },
@@ -2434,24 +2222,12 @@
           "title": "Five supreme beings"
         },
         {
-          "topic_id": "D22.T003",
-          "title": "Nine-line forms"
-        },
-        {
           "topic_id": "D22.T004",
           "title": "Logassa"
         },
         {
-          "topic_id": "D22.T005",
-          "title": "Bhaktamara Stotra"
-        },
-        {
           "topic_id": "D22.T006",
           "title": "Uvasaggaharam Stotra"
-        },
-        {
-          "topic_id": "D22.T007",
-          "title": "Kalyanamandira Stotra"
         },
         {
           "topic_id": "D22.T008",
@@ -2478,10 +2254,6 @@
           "title": "Digambara stotras"
         },
         {
-          "topic_id": "D22.T014",
-          "title": "Svetambara stotras"
-        },
-        {
           "topic_id": "D22.T015",
           "title": "Prakrit pronunciation"
         },
@@ -2496,10 +2268,6 @@
         {
           "topic_id": "D22.T018",
           "title": "Hindi recitation"
-        },
-        {
-          "topic_id": "D22.T019",
-          "title": "Meter"
         },
         {
           "topic_id": "D22.T020",
@@ -2524,10 +2292,6 @@
         {
           "topic_id": "D22.T025",
           "title": "Devotional translation"
-        },
-        {
-          "topic_id": "D22.T026",
-          "title": "Recitation context"
         },
         {
           "topic_id": "D22.T027",
@@ -2569,10 +2333,6 @@
           "title": "Samavasarana"
         },
         {
-          "topic_id": "D23.T005",
-          "title": "Ganadharas"
-        },
-        {
           "topic_id": "D23.T006",
           "title": "Yaksha-yakshini associations"
         },
@@ -2583,10 +2343,6 @@
         {
           "topic_id": "D23.T008",
           "title": "Ajitanatha"
-        },
-        {
-          "topic_id": "D23.T009",
-          "title": "Sambhavanatha"
         },
         {
           "topic_id": "D23.T010",
@@ -2601,10 +2357,6 @@
           "title": "Padmaprabha"
         },
         {
-          "topic_id": "D23.T013",
-          "title": "Suparshvanatha"
-        },
-        {
           "topic_id": "D23.T014",
           "title": "Chandraprabha"
         },
@@ -2615,10 +2367,6 @@
         {
           "topic_id": "D23.T016",
           "title": "Shitalanatha"
-        },
-        {
-          "topic_id": "D23.T017",
-          "title": "Shreyansanatha"
         },
         {
           "topic_id": "D23.T018",
@@ -2657,10 +2405,6 @@
           "title": "Munisuvratanatha"
         },
         {
-          "topic_id": "D23.T027",
-          "title": "Naminatha"
-        },
-        {
           "topic_id": "D23.T028",
           "title": "Neminatha"
         },
@@ -2671,10 +2415,6 @@
         {
           "topic_id": "D23.T030",
           "title": "Mahavira"
-        },
-        {
-          "topic_id": "D23.T031",
-          "title": "Name variants"
         },
         {
           "topic_id": "D23.T032",
@@ -2697,20 +2437,8 @@
           "title": "Parents and dynasties"
         },
         {
-          "topic_id": "D23.T037",
-          "title": "Sacred chronology"
-        },
-        {
           "topic_id": "D23.T038",
           "title": "Sectarian differences"
-        },
-        {
-          "topic_id": "D23.T039",
-          "title": "Historicity"
-        },
-        {
-          "topic_id": "D23.T040",
-          "title": "Biography sources"
         },
         {
           "topic_id": "D23.T041",
@@ -2723,10 +2451,6 @@
       "domain": "Mahavira and early Jain community",
       "purpose": "Provide a complete, source-aware learning domain for mahavira and early jain community, with tradition notes, primary sources, and review requirements.",
       "topics": [
-        {
-          "topic_id": "D24.T001",
-          "title": "Vardhamana and Mahavira names"
-        },
         {
           "topic_id": "D24.T002",
           "title": "Traditional birth"
@@ -2754,10 +2478,6 @@
         {
           "topic_id": "D24.T008",
           "title": "Nirvana at Pava"
-        },
-        {
-          "topic_id": "D24.T009",
-          "title": "Traditional dates"
         },
         {
           "topic_id": "D24.T010",
@@ -2790,10 +2510,6 @@
         {
           "topic_id": "D24.T017",
           "title": "Gosala traditions"
-        },
-        {
-          "topic_id": "D24.T018",
-          "title": "Shramana context"
         },
         {
           "topic_id": "D24.T019",
@@ -2853,14 +2569,6 @@
         {
           "topic_id": "D25.T002",
           "title": "Fourfold restraint"
-        },
-        {
-          "topic_id": "D25.T003",
-          "title": "Kesi-Gautama dialogue"
-        },
-        {
-          "topic_id": "D25.T004",
-          "title": "Historicity of Parshva"
         },
         {
           "topic_id": "D25.T005",
@@ -2982,10 +2690,6 @@
           "title": "Lakshmana"
         },
         {
-          "topic_id": "D26.T013",
-          "title": "Ravana"
-        },
-        {
           "topic_id": "D26.T014",
           "title": "Krishna"
         },
@@ -3026,10 +2730,6 @@
           "title": "Padmapurana"
         },
         {
-          "topic_id": "D26.T024",
-          "title": "Paumacariya"
-        },
-        {
           "topic_id": "D26.T025",
           "title": "Harivamshapurana"
         },
@@ -3040,10 +2740,6 @@
         {
           "topic_id": "D26.T027",
           "title": "Narrative variation"
-        },
-        {
-          "topic_id": "D26.T028",
-          "title": "Illustrated manuscripts"
         },
         {
           "topic_id": "D26.T029",
@@ -3097,10 +2793,6 @@
           "title": "Jvalamalini"
         },
         {
-          "topic_id": "D27.T011",
-          "title": "Sarasvati"
-        },
-        {
           "topic_id": "D27.T012",
           "title": "Lakshmi"
         },
@@ -3139,10 +2831,6 @@
         {
           "topic_id": "D27.T021",
           "title": "Mantra texts"
-        },
-        {
-          "topic_id": "D27.T022",
-          "title": "Yantra texts"
         },
         {
           "topic_id": "D27.T023",
@@ -3200,10 +2888,6 @@
           "title": "Upangas"
         },
         {
-          "topic_id": "D28.T006",
-          "title": "Cheda-sutras"
-        },
-        {
           "topic_id": "D28.T007",
           "title": "Mula-sutras"
         },
@@ -3212,16 +2896,8 @@
           "title": "Culika-sutras"
         },
         {
-          "topic_id": "D28.T009",
-          "title": "Prakirnakas"
-        },
-        {
           "topic_id": "D28.T010",
           "title": "Forty-five-text lists"
-        },
-        {
-          "topic_id": "D28.T011",
-          "title": "Thirty-two-text lists"
         },
         {
           "topic_id": "D28.T012",
@@ -3260,16 +2936,8 @@
           "title": "Jnatadharmakatha"
         },
         {
-          "topic_id": "D28.T021",
-          "title": "Upasakadasa"
-        },
-        {
           "topic_id": "D28.T022",
           "title": "Antakrddasa"
-        },
-        {
-          "topic_id": "D28.T023",
-          "title": "Anuttaraupapatikadasa"
         },
         {
           "topic_id": "D28.T024",
@@ -3282,10 +2950,6 @@
         {
           "topic_id": "D28.T026",
           "title": "Aupapatika"
-        },
-        {
-          "topic_id": "D28.T027",
-          "title": "Rajaprashniya"
         },
         {
           "topic_id": "D28.T028",
@@ -3304,10 +2968,6 @@
           "title": "Jambudvipaprajnapti"
         },
         {
-          "topic_id": "D28.T032",
-          "title": "Chandraprajnapti"
-        },
-        {
           "topic_id": "D28.T033",
           "title": "Nirayavalika group"
         },
@@ -3318,14 +2978,6 @@
         {
           "topic_id": "D28.T035",
           "title": "Anuyogadvara"
-        },
-        {
-          "topic_id": "D28.T036",
-          "title": "Uttaradhyayana"
-        },
-        {
-          "topic_id": "D28.T037",
-          "title": "Dashavaikalika"
         },
         {
           "topic_id": "D28.T038",
@@ -3380,10 +3032,6 @@
           "title": "Recensions"
         },
         {
-          "topic_id": "D28.T051",
-          "title": "Manuscript variation"
-        },
-        {
           "topic_id": "D28.T052",
           "title": "Community access norms"
         }
@@ -3415,14 +3063,6 @@
           "title": "Jayadhavala"
         },
         {
-          "topic_id": "D29.T006",
-          "title": "Mahadhavala"
-        },
-        {
-          "topic_id": "D29.T007",
-          "title": "Dharasena"
-        },
-        {
           "topic_id": "D29.T008",
           "title": "Pushpadanta"
         },
@@ -3433,18 +3073,6 @@
         {
           "topic_id": "D29.T010",
           "title": "Gunadhara"
-        },
-        {
-          "topic_id": "D29.T011",
-          "title": "Four anuyogas"
-        },
-        {
-          "topic_id": "D29.T012",
-          "title": "Prathamanuyoga"
-        },
-        {
-          "topic_id": "D29.T013",
-          "title": "Karananuyoga"
         },
         {
           "topic_id": "D29.T014",
@@ -3459,28 +3087,12 @@
           "title": "Tiloyapannatti"
         },
         {
-          "topic_id": "D29.T017",
-          "title": "Trilokasara"
-        },
-        {
           "topic_id": "D29.T018",
           "title": "Gommatasara Jiva-kanda"
         },
         {
           "topic_id": "D29.T019",
           "title": "Gommatasara Karma-kanda"
-        },
-        {
-          "topic_id": "D29.T020",
-          "title": "Labdhisara"
-        },
-        {
-          "topic_id": "D29.T021",
-          "title": "Kshapanasara"
-        },
-        {
-          "topic_id": "D29.T022",
-          "title": "Mulachara"
         },
         {
           "topic_id": "D29.T023",
@@ -3497,10 +3109,6 @@
         {
           "topic_id": "D29.T026",
           "title": "Samayasara"
-        },
-        {
-          "topic_id": "D29.T027",
-          "title": "Pravachanasara"
         },
         {
           "topic_id": "D29.T028",
@@ -3539,10 +3147,6 @@
           "title": "Purana corpus"
         },
         {
-          "topic_id": "D29.T037",
-          "title": "Kundakunda"
-        },
-        {
           "topic_id": "D29.T038",
           "title": "Bhattaarakas"
         },
@@ -3570,16 +3174,8 @@
           "title": "Churni"
         },
         {
-          "topic_id": "D30.T004",
-          "title": "Tika"
-        },
-        {
           "topic_id": "D30.T005",
           "title": "Vritti"
-        },
-        {
-          "topic_id": "D30.T006",
-          "title": "Avachuri"
         },
         {
           "topic_id": "D30.T007",
@@ -3598,20 +3194,12 @@
           "title": "Jinadasa"
         },
         {
-          "topic_id": "D30.T011",
-          "title": "Shilanka"
-        },
-        {
           "topic_id": "D30.T012",
           "title": "Abhayadevasuri"
         },
         {
           "topic_id": "D30.T013",
           "title": "Malayagiri"
-        },
-        {
-          "topic_id": "D30.T014",
-          "title": "Haribhadra"
         },
         {
           "topic_id": "D30.T015",
@@ -3650,16 +3238,8 @@
           "title": "Exegesis"
         },
         {
-          "topic_id": "D30.T024",
-          "title": "Hermeneutic disagreement"
-        },
-        {
           "topic_id": "D30.T025",
           "title": "Sectarian commentary"
-        },
-        {
-          "topic_id": "D30.T026",
-          "title": "Commentary as historical evidence"
         },
         {
           "topic_id": "D30.T027",
@@ -3689,20 +3269,8 @@
       "purpose": "Provide a complete, source-aware learning domain for post-canonical literature, with tradition notes, primary sources, and review requirements.",
       "topics": [
         {
-          "topic_id": "D31.T001",
-          "title": "Tattvarthasutra"
-        },
-        {
           "topic_id": "D31.T002",
           "title": "Samayasara"
-        },
-        {
-          "topic_id": "D31.T003",
-          "title": "Pravachanasara"
-        },
-        {
-          "topic_id": "D31.T004",
-          "title": "Niyamasara"
         },
         {
           "topic_id": "D31.T005",
@@ -3729,20 +3297,8 @@
           "title": "Paramatmaprakasha"
         },
         {
-          "topic_id": "D31.T011",
-          "title": "Prashamarati"
-        },
-        {
           "topic_id": "D31.T012",
           "title": "Yogadrishtisamuccaya"
-        },
-        {
-          "topic_id": "D31.T013",
-          "title": "Yogabindu"
-        },
-        {
-          "topic_id": "D31.T014",
-          "title": "Yogashataka"
         },
         {
           "topic_id": "D31.T015",
@@ -3755,10 +3311,6 @@
         {
           "topic_id": "D31.T017",
           "title": "Jnanarnava"
-        },
-        {
-          "topic_id": "D31.T018",
-          "title": "Karmagranthas"
         },
         {
           "topic_id": "D31.T019",
@@ -3789,16 +3341,8 @@
           "title": "Cosmological compendia"
         },
         {
-          "topic_id": "D31.T026",
-          "title": "Narrative compendia"
-        },
-        {
           "topic_id": "D31.T027",
           "title": "Devotional poetry"
-        },
-        {
-          "topic_id": "D31.T028",
-          "title": "Vernacular teaching texts"
         },
         {
           "topic_id": "D31.T029",
@@ -3807,14 +3351,6 @@
         {
           "topic_id": "D31.T030",
           "title": "Critical editions"
-        },
-        {
-          "topic_id": "D31.T031",
-          "title": "Translations"
-        },
-        {
-          "topic_id": "D31.T032",
-          "title": "Reception history"
         }
       ]
     },
@@ -3872,10 +3408,6 @@
           "title": "Marathi"
         },
         {
-          "topic_id": "D32.T013",
-          "title": "Braj"
-        },
-        {
           "topic_id": "D32.T014",
           "title": "Other regional languages"
         },
@@ -3896,10 +3428,6 @@
           "title": "Kannada script"
         },
         {
-          "topic_id": "D32.T019",
-          "title": "Tamil script"
-        },
-        {
           "topic_id": "D32.T020",
           "title": "Historical hands"
         },
@@ -3912,10 +3440,6 @@
           "title": "IAST"
         },
         {
-          "topic_id": "D32.T023",
-          "title": "ISO considerations"
-        },
-        {
           "topic_id": "D32.T024",
           "title": "Non-diacritic aliases"
         },
@@ -3926,10 +3450,6 @@
         {
           "topic_id": "D32.T026",
           "title": "Sanskrit grammar"
-        },
-        {
-          "topic_id": "D32.T027",
-          "title": "Apabhramsha grammar"
         },
         {
           "topic_id": "D32.T028",
@@ -3964,10 +3484,6 @@
           "title": "Indic OCR"
         },
         {
-          "topic_id": "D32.T036",
-          "title": "Translation method"
-        },
-        {
           "topic_id": "D32.T037",
           "title": "Doctrinal terms"
         },
@@ -3982,14 +3498,6 @@
       "domain": "Manuscripts editions and textual criticism",
       "purpose": "Provide a complete, source-aware learning domain for manuscripts editions and textual criticism, with tradition notes, primary sources, and review requirements.",
       "topics": [
-        {
-          "topic_id": "D33.T001",
-          "title": "Jain manuscript definition"
-        },
-        {
-          "topic_id": "D33.T002",
-          "title": "Palm leaf"
-        },
         {
           "topic_id": "D33.T003",
           "title": "Paper"
@@ -4071,20 +3579,12 @@
           "title": "Edition"
         },
         {
-          "topic_id": "D33.T023",
-          "title": "Critical edition"
-        },
-        {
           "topic_id": "D33.T024",
           "title": "Diplomatic transcription"
         },
         {
           "topic_id": "D33.T025",
           "title": "Critical apparatus"
-        },
-        {
-          "topic_id": "D33.T026",
-          "title": "Stemma"
         },
         {
           "topic_id": "D33.T027",
@@ -4113,10 +3613,6 @@
         {
           "topic_id": "D33.T033",
           "title": "HTR"
-        },
-        {
-          "topic_id": "D33.T034",
-          "title": "Provenance"
         },
         {
           "topic_id": "D33.T035",
@@ -4190,10 +3686,6 @@
           "title": "Early inscriptions"
         },
         {
-          "topic_id": "D34.T011",
-          "title": "Western India"
-        },
-        {
           "topic_id": "D34.T012",
           "title": "South India"
         },
@@ -4212,10 +3704,6 @@
         {
           "topic_id": "D34.T016",
           "title": "Gujarat"
-        },
-        {
-          "topic_id": "D34.T017",
-          "title": "Central India"
         },
         {
           "topic_id": "D34.T018",
@@ -4248,10 +3736,6 @@
         {
           "topic_id": "D34.T025",
           "title": "Mughal-Jain relations"
-        },
-        {
-          "topic_id": "D34.T026",
-          "title": "Colonial encounters"
         },
         {
           "topic_id": "D34.T027",
@@ -4305,28 +3789,12 @@
       "purpose": "Provide a complete, source-aware learning domain for sects subsects orders and lineages, with tradition notes, primary sources, and review requirements.",
       "topics": [
         {
-          "topic_id": "D35.T001",
-          "title": "Digambara"
-        },
-        {
           "topic_id": "D35.T002",
           "title": "Svetambara"
         },
         {
           "topic_id": "D35.T003",
           "title": "Murtipujaka"
-        },
-        {
-          "topic_id": "D35.T004",
-          "title": "Sthanakavasi"
-        },
-        {
-          "topic_id": "D35.T005",
-          "title": "Svetambara Terapanth"
-        },
-        {
-          "topic_id": "D35.T006",
-          "title": "Digambara Terapanth"
         },
         {
           "topic_id": "D35.T007",
@@ -4365,10 +3833,6 @@
           "title": "Sanghas"
         },
         {
-          "topic_id": "D35.T016",
-          "title": "Ganas"
-        },
-        {
           "topic_id": "D35.T017",
           "title": "Mula Sangha"
         },
@@ -4385,10 +3849,6 @@
           "title": "Bhattaaraka lineages"
         },
         {
-          "topic_id": "D35.T021",
-          "title": "Modern Digambara lineages"
-        },
-        {
           "topic_id": "D35.T022",
           "title": "Terapanth succession"
         },
@@ -4399,14 +3859,6 @@
         {
           "topic_id": "D35.T024",
           "title": "Non-sectarian movements"
-        },
-        {
-          "topic_id": "D35.T025",
-          "title": "Shrimad Rajchandra traditions"
-        },
-        {
-          "topic_id": "D35.T026",
-          "title": "Canon differences"
         },
         {
           "topic_id": "D35.T027",
@@ -4472,10 +3924,6 @@
           "title": "Bhadrabahu"
         },
         {
-          "topic_id": "D36.T006",
-          "title": "Sthulabhadra"
-        },
-        {
           "topic_id": "D36.T007",
           "title": "Kundakunda"
         },
@@ -4500,20 +3948,12 @@
           "title": "Haribhadra"
         },
         {
-          "topic_id": "D36.T013",
-          "title": "Jinabhadra"
-        },
-        {
           "topic_id": "D36.T014",
           "title": "Akalanka"
         },
         {
           "topic_id": "D36.T015",
           "title": "Jinasena"
-        },
-        {
-          "topic_id": "D36.T016",
-          "title": "Gunabhadra"
         },
         {
           "topic_id": "D36.T017",
@@ -4536,10 +3976,6 @@
           "title": "Devendrasuri"
         },
         {
-          "topic_id": "D36.T022",
-          "title": "Yashovijaya"
-        },
-        {
           "topic_id": "D36.T023",
           "title": "Banarasidas"
         },
@@ -4548,16 +3984,8 @@
           "title": "Todarmal"
         },
         {
-          "topic_id": "D36.T025",
-          "title": "Shrimad Rajchandra"
-        },
-        {
           "topic_id": "D36.T026",
           "title": "Vijayanandasuri"
-        },
-        {
-          "topic_id": "D36.T027",
-          "title": "Shantisagar"
         },
         {
           "topic_id": "D36.T028",
@@ -4566,10 +3994,6 @@
         {
           "topic_id": "D36.T029",
           "title": "Mahapragya"
-        },
-        {
-          "topic_id": "D36.T030",
-          "title": "Vidyasagar"
         },
         {
           "topic_id": "D36.T031",
@@ -4604,14 +4028,6 @@
           "title": "A N Upadhye"
         },
         {
-          "topic_id": "D36.T039",
-          "title": "Padmanabh Jaini"
-        },
-        {
-          "topic_id": "D36.T040",
-          "title": "Paul Dundas"
-        },
-        {
           "topic_id": "D36.T041",
           "title": "Nalini Balbir"
         },
@@ -4622,10 +4038,6 @@
         {
           "topic_id": "D36.T043",
           "title": "Attributed works"
-        },
-        {
-          "topic_id": "D36.T044",
-          "title": "Lineage uncertainty"
         },
         {
           "topic_id": "D36.T045",
@@ -4653,10 +4065,6 @@
         {
           "topic_id": "D37.T004",
           "title": "Adholoka"
-        },
-        {
-          "topic_id": "D37.T005",
-          "title": "Madhyaloka"
         },
         {
           "topic_id": "D37.T006",
@@ -4707,10 +4115,6 @@
           "title": "Bharata Kshetra"
         },
         {
-          "topic_id": "D37.T018",
-          "title": "Airavata Kshetra"
-        },
-        {
           "topic_id": "D37.T019",
           "title": "Mahavideha"
         },
@@ -4735,20 +4139,12 @@
           "title": "Two-and-a-half continents"
         },
         {
-          "topic_id": "D37.T025",
-          "title": "Cosmological maps"
-        },
-        {
           "topic_id": "D37.T026",
           "title": "Rajju"
         },
         {
           "topic_id": "D37.T027",
           "title": "Palya"
-        },
-        {
-          "topic_id": "D37.T028",
-          "title": "Sagara"
         },
         {
           "topic_id": "D37.T029",
@@ -4781,10 +4177,6 @@
         {
           "topic_id": "D37.T036",
           "title": "Trilokasara"
-        },
-        {
-          "topic_id": "D37.T037",
-          "title": "Sangrahani texts"
         },
         {
           "topic_id": "D37.T038",
@@ -4926,28 +4318,12 @@
           "title": "Embryology"
         },
         {
-          "topic_id": "D38.T031",
-          "title": "Tandulavaicharika"
-        },
-        {
-          "topic_id": "D38.T032",
-          "title": "Jivabhigama"
-        },
-        {
           "topic_id": "D38.T033",
           "title": "Prajnapana"
         },
         {
           "topic_id": "D38.T034",
           "title": "Ahimsa implications"
-        },
-        {
-          "topic_id": "D38.T035",
-          "title": "Traditional taxonomy versus biology"
-        },
-        {
-          "topic_id": "D38.T036",
-          "title": "Bioethics"
         }
       ]
     },
@@ -4963,10 +4339,6 @@
         {
           "topic_id": "D39.T002",
           "title": "Veganism debates"
-        },
-        {
-          "topic_id": "D39.T003",
-          "title": "Dairy supply chains"
         },
         {
           "topic_id": "D39.T004",
@@ -5057,10 +4429,6 @@
           "title": "Jain Declaration on Nature"
         },
         {
-          "topic_id": "D39.T026",
-          "title": "Ecological interdependence"
-        },
-        {
           "topic_id": "D39.T027",
           "title": "Aparigraha and consumption"
         },
@@ -5095,10 +4463,6 @@
         {
           "topic_id": "D39.T035",
           "title": "Ethical consumerism"
-        },
-        {
-          "topic_id": "D39.T036",
-          "title": "Evidence-based claims"
         },
         {
           "topic_id": "D39.T037",
@@ -5403,20 +4767,8 @@
           "title": "Champapuri"
         },
         {
-          "topic_id": "D41.T039",
-          "title": "Ayodhya"
-        },
-        {
-          "topic_id": "D41.T040",
-          "title": "Varanasi"
-        },
-        {
           "topic_id": "D41.T041",
           "title": "Rajgir"
-        },
-        {
-          "topic_id": "D41.T042",
-          "title": "Diaspora temples"
         },
         {
           "topic_id": "D41.T043",
@@ -5496,10 +4848,6 @@
         {
           "topic_id": "D42.T013",
           "title": "Mirror"
-        },
-        {
-          "topic_id": "D42.T014",
-          "title": "Pair of fish"
         },
         {
           "topic_id": "D42.T015",
@@ -5669,10 +5017,6 @@
           "title": "Disability inclusion"
         },
         {
-          "topic_id": "D43.T026",
-          "title": "LGBTQ questions and source limits"
-        },
-        {
           "topic_id": "D43.T027",
           "title": "Sexual ethics"
         },
@@ -5760,10 +5104,6 @@
           "title": "Supply chains"
         },
         {
-          "topic_id": "D44.T012",
-          "title": "Investment ethics"
-        },
-        {
           "topic_id": "D44.T013",
           "title": "Debt"
         },
@@ -5820,10 +5160,6 @@
           "title": "Jnana-dana"
         },
         {
-          "topic_id": "D44.T027",
-          "title": "Abhaya-dana"
-        },
-        {
           "topic_id": "D44.T028",
           "title": "Mendicant support"
         },
@@ -5832,16 +5168,8 @@
           "title": "Temple giving"
         },
         {
-          "topic_id": "D44.T030",
-          "title": "Education charity"
-        },
-        {
           "topic_id": "D44.T031",
           "title": "Animal welfare"
-        },
-        {
-          "topic_id": "D44.T032",
-          "title": "Disaster relief"
         },
         {
           "topic_id": "D44.T033",
@@ -5862,10 +5190,6 @@
         {
           "topic_id": "D44.T037",
           "title": "Social enterprise"
-        },
-        {
-          "topic_id": "D44.T038",
-          "title": "Automation impacts"
         }
       ]
     },
@@ -5929,10 +5253,6 @@
         {
           "topic_id": "D45.T014",
           "title": "Biotechnology"
-        },
-        {
-          "topic_id": "D45.T015",
-          "title": "Genetic engineering"
         },
         {
           "topic_id": "D45.T016",
@@ -6007,10 +5327,6 @@
           "title": "Prison"
         },
         {
-          "topic_id": "D45.T034",
-          "title": "Restorative justice"
-        },
-        {
           "topic_id": "D45.T035",
           "title": "Education"
         },
@@ -6058,10 +5374,6 @@
           "title": "Jainism and Islam"
         },
         {
-          "topic_id": "D46.T007",
-          "title": "Jainism and Christianity"
-        },
-        {
           "topic_id": "D46.T008",
           "title": "Jainism and Judaism"
         },
@@ -6072,10 +5384,6 @@
         {
           "topic_id": "D46.T010",
           "title": "Secular ethics"
-        },
-        {
-          "topic_id": "D46.T011",
-          "title": "Soul comparisons"
         },
         {
           "topic_id": "D46.T012",
@@ -6148,10 +5456,6 @@
         {
           "topic_id": "D46.T029",
           "title": "Animal ethics comparison"
-        },
-        {
-          "topic_id": "D46.T030",
-          "title": "Method cautions"
         }
       ]
     },
@@ -6171,10 +5475,6 @@
         {
           "topic_id": "D47.T003",
           "title": "Apabhramsha literature"
-        },
-        {
-          "topic_id": "D47.T004",
-          "title": "Kannada literature"
         },
         {
           "topic_id": "D47.T005",
@@ -6281,10 +5581,6 @@
           "title": "Philanthropy"
         },
         {
-          "topic_id": "D47.T031",
-          "title": "Animal welfare"
-        },
-        {
           "topic_id": "D47.T032",
           "title": "Peace movements"
         },
@@ -6332,10 +5628,6 @@
           "title": "Pathshala curriculum"
         },
         {
-          "topic_id": "D48.T006",
-          "title": "Parent guides"
-        },
-        {
           "topic_id": "D48.T007",
           "title": "Teacher lesson plans"
         },
@@ -6360,14 +5652,6 @@
           "title": "Traditional story"
         },
         {
-          "topic_id": "D48.T013",
-          "title": "Modern retelling"
-        },
-        {
-          "topic_id": "D48.T014",
-          "title": "Original educational fiction"
-        },
-        {
           "topic_id": "D48.T015",
           "title": "Activities"
         },
@@ -6378,10 +5662,6 @@
         {
           "topic_id": "D48.T017",
           "title": "Flashcards"
-        },
-        {
-          "topic_id": "D48.T018",
-          "title": "Pronunciation"
         },
         {
           "topic_id": "D48.T019",
@@ -6424,10 +5704,6 @@
           "title": "No fear-based karma teaching"
         },
         {
-          "topic_id": "D48.T029",
-          "title": "No fasting competition"
-        },
-        {
           "topic_id": "D48.T030",
           "title": "Safeguarding minors"
         },
@@ -6459,14 +5735,6 @@
           "title": "North America"
         },
         {
-          "topic_id": "D49.T005",
-          "title": "Europe"
-        },
-        {
-          "topic_id": "D49.T006",
-          "title": "Southeast Asia"
-        },
-        {
           "topic_id": "D49.T007",
           "title": "Australia"
         },
@@ -6479,10 +5747,6 @@
           "title": "Diaspora temples"
         },
         {
-          "topic_id": "D49.T010",
-          "title": "Combined-tradition centers"
-        },
-        {
           "topic_id": "D49.T011",
           "title": "JAINA"
         },
@@ -6491,16 +5755,8 @@
           "title": "Institute of Jainology"
         },
         {
-          "topic_id": "D49.T013",
-          "title": "Jain Vishva Bharati"
-        },
-        {
           "topic_id": "D49.T014",
           "title": "University programs"
-        },
-        {
-          "topic_id": "D49.T015",
-          "title": "Student associations"
         },
         {
           "topic_id": "D49.T016",
@@ -6517,10 +5773,6 @@
         {
           "topic_id": "D49.T019",
           "title": "Authority without resident mendicants"
-        },
-        {
-          "topic_id": "D49.T020",
-          "title": "Pathshala adaptation"
         },
         {
           "topic_id": "D49.T021",
@@ -6610,10 +5862,6 @@
           "title": "Archaeology"
         },
         {
-          "topic_id": "D50.T010",
-          "title": "Art history"
-        },
-        {
           "topic_id": "D50.T011",
           "title": "Ethnography"
         },
@@ -6622,16 +5870,8 @@
           "title": "Oral history"
         },
         {
-          "topic_id": "D50.T013",
-          "title": "Community publications"
-        },
-        {
           "topic_id": "D50.T014",
           "title": "Peer review"
-        },
-        {
-          "topic_id": "D50.T015",
-          "title": "Sectarian sources"
         },
         {
           "topic_id": "D50.T016",
@@ -6678,10 +5918,6 @@
           "title": "Date confidence"
         },
         {
-          "topic_id": "D50.T027",
-          "title": "Authorship uncertainty"
-        },
-        {
           "topic_id": "D50.T028",
           "title": "Citation verification"
         },
@@ -6692,10 +5928,6 @@
         {
           "topic_id": "D50.T030",
           "title": "Corrections"
-        },
-        {
-          "topic_id": "D50.T031",
-          "title": "Source diversity"
         },
         {
           "topic_id": "D50.T032",
@@ -6724,352 +5956,6 @@
         {
           "topic_id": "D50.T038",
           "title": "No fabricated consensus"
-        }
-      ]
-    },
-    {
-      "domain_id": "D51",
-      "domain": "Digital library engineering",
-      "purpose": "Provide a complete, source-aware learning domain for digital library engineering, with tradition notes, primary sources, and review requirements.",
-      "topics": [
-        {
-          "topic_id": "D51.T001",
-          "title": "Work records"
-        },
-        {
-          "topic_id": "D51.T002",
-          "title": "Edition records"
-        },
-        {
-          "topic_id": "D51.T003",
-          "title": "Manuscript records"
-        },
-        {
-          "topic_id": "D51.T004",
-          "title": "Translation records"
-        },
-        {
-          "topic_id": "D51.T005",
-          "title": "File records"
-        },
-        {
-          "topic_id": "D51.T006",
-          "title": "Stable IDs"
-        },
-        {
-          "topic_id": "D51.T007",
-          "title": "Slugs"
-        },
-        {
-          "topic_id": "D51.T008",
-          "title": "Aliases"
-        },
-        {
-          "topic_id": "D51.T009",
-          "title": "TEI XML"
-        },
-        {
-          "topic_id": "D51.T010",
-          "title": "IIIF"
-        },
-        {
-          "topic_id": "D51.T011",
-          "title": "OCR"
-        },
-        {
-          "topic_id": "D51.T012",
-          "title": "HTR"
-        },
-        {
-          "topic_id": "D51.T013",
-          "title": "Normalization"
-        },
-        {
-          "topic_id": "D51.T014",
-          "title": "Passage identifiers"
-        },
-        {
-          "topic_id": "D51.T015",
-          "title": "Parallel alignment"
-        },
-        {
-          "topic_id": "D51.T016",
-          "title": "Variant apparatus"
-        },
-        {
-          "topic_id": "D51.T017",
-          "title": "Full-text search"
-        },
-        {
-          "topic_id": "D51.T018",
-          "title": "Facets"
-        },
-        {
-          "topic_id": "D51.T019",
-          "title": "Indic tokenization"
-        },
-        {
-          "topic_id": "D51.T020",
-          "title": "Diacritic-insensitive search"
-        },
-        {
-          "topic_id": "D51.T021",
-          "title": "Search ranking"
-        },
-        {
-          "topic_id": "D51.T022",
-          "title": "Knowledge graph"
-        },
-        {
-          "topic_id": "D51.T023",
-          "title": "Citation export"
-        },
-        {
-          "topic_id": "D51.T024",
-          "title": "BibTeX"
-        },
-        {
-          "topic_id": "D51.T025",
-          "title": "CSL-JSON"
-        },
-        {
-          "topic_id": "D51.T026",
-          "title": "Rights metadata"
-        },
-        {
-          "topic_id": "D51.T027",
-          "title": "Checksums"
-        },
-        {
-          "topic_id": "D51.T028",
-          "title": "Fixity"
-        },
-        {
-          "topic_id": "D51.T029",
-          "title": "Backups"
-        },
-        {
-          "topic_id": "D51.T030",
-          "title": "Version control"
-        },
-        {
-          "topic_id": "D51.T031",
-          "title": "Offline first"
-        },
-        {
-          "topic_id": "D51.T032",
-          "title": "Raspberry Pi performance"
-        },
-        {
-          "topic_id": "D51.T033",
-          "title": "Lazy loading"
-        },
-        {
-          "topic_id": "D51.T034",
-          "title": "Static generation"
-        },
-        {
-          "topic_id": "D51.T035",
-          "title": "Accessibility"
-        },
-        {
-          "topic_id": "D51.T036",
-          "title": "Multilingual interface"
-        },
-        {
-          "topic_id": "D51.T037",
-          "title": "Review dashboard"
-        },
-        {
-          "topic_id": "D51.T038",
-          "title": "Correction history"
-        },
-        {
-          "topic_id": "D51.T039",
-          "title": "Validation"
-        },
-        {
-          "topic_id": "D51.T040",
-          "title": "Broken-link checking"
-        },
-        {
-          "topic_id": "D51.T041",
-          "title": "Interoperability"
-        },
-        {
-          "topic_id": "D51.T042",
-          "title": "Long-term migration"
-        }
-      ]
-    },
-    {
-      "domain_id": "D52",
-      "domain": "Source-grounded AI teachers and advice safeguards",
-      "purpose": "Design expert-depth study assistants without impersonation, coercion, or false religious authority.",
-      "topics": [
-        {
-          "topic_id": "D52.T001",
-          "title": "Retrieval-augmented generation"
-        },
-        {
-          "topic_id": "D52.T002",
-          "title": "Verified-corpus-only mode"
-        },
-        {
-          "topic_id": "D52.T003",
-          "title": "Primary-source-only mode"
-        },
-        {
-          "topic_id": "D52.T004",
-          "title": "Commentary mode"
-        },
-        {
-          "topic_id": "D52.T005",
-          "title": "Modern scholarship mode"
-        },
-        {
-          "topic_id": "D52.T006",
-          "title": "Tradition selector"
-        },
-        {
-          "topic_id": "D52.T007",
-          "title": "Cross-tradition comparison"
-        },
-        {
-          "topic_id": "D52.T008",
-          "title": "Depth controls"
-        },
-        {
-          "topic_id": "D52.T009",
-          "title": "Original-text citation"
-        },
-        {
-          "topic_id": "D52.T010",
-          "title": "Edition citation"
-        },
-        {
-          "topic_id": "D52.T011",
-          "title": "Passage citation"
-        },
-        {
-          "topic_id": "D52.T012",
-          "title": "Quote versus paraphrase"
-        },
-        {
-          "topic_id": "D52.T013",
-          "title": "Translation confidence"
-        },
-        {
-          "topic_id": "D52.T014",
-          "title": "Conflicting sources"
-        },
-        {
-          "topic_id": "D52.T015",
-          "title": "Uncertainty"
-        },
-        {
-          "topic_id": "D52.T016",
-          "title": "No invented verses"
-        },
-        {
-          "topic_id": "D52.T017",
-          "title": "No invented rulings"
-        },
-        {
-          "topic_id": "D52.T018",
-          "title": "No impersonation"
-        },
-        {
-          "topic_id": "D52.T019",
-          "title": "No claim to be a Maharaj Saheb"
-        },
-        {
-          "topic_id": "D52.T020",
-          "title": "Teacher-profile transparency"
-        },
-        {
-          "topic_id": "D52.T021",
-          "title": "Human review"
-        },
-        {
-          "topic_id": "D52.T022",
-          "title": "Religious authority escalation"
-        },
-        {
-          "topic_id": "D52.T023",
-          "title": "Medical escalation"
-        },
-        {
-          "topic_id": "D52.T024",
-          "title": "Mental-health escalation"
-        },
-        {
-          "topic_id": "D52.T025",
-          "title": "Legal escalation"
-        },
-        {
-          "topic_id": "D52.T026",
-          "title": "Financial escalation"
-        },
-        {
-          "topic_id": "D52.T027",
-          "title": "Fasting safety"
-        },
-        {
-          "topic_id": "D52.T028",
-          "title": "Sallekhana refusal"
-        },
-        {
-          "topic_id": "D52.T029",
-          "title": "Crisis response"
-        },
-        {
-          "topic_id": "D52.T030",
-          "title": "Advice versus information"
-        },
-        {
-          "topic_id": "D52.T031",
-          "title": "Context questions"
-        },
-        {
-          "topic_id": "D52.T032",
-          "title": "Nonjudgmental language"
-        },
-        {
-          "topic_id": "D52.T033",
-          "title": "No spiritual ranking"
-        },
-        {
-          "topic_id": "D52.T034",
-          "title": "No coercion"
-        },
-        {
-          "topic_id": "D52.T035",
-          "title": "Privacy minimization"
-        },
-        {
-          "topic_id": "D52.T036",
-          "title": "Audit logs"
-        },
-        {
-          "topic_id": "D52.T037",
-          "title": "Answer evaluation"
-        },
-        {
-          "topic_id": "D52.T038",
-          "title": "Scholar review"
-        },
-        {
-          "topic_id": "D52.T039",
-          "title": "Monastic review"
-        },
-        {
-          "topic_id": "D52.T040",
-          "title": "Community feedback"
-        },
-        {
-          "topic_id": "D52.T041",
-          "title": "Model governance"
         }
       ]
     }

@@ -34,28 +34,25 @@ function ParyushanaEnglish() {
       <p className="eyebrow">Ārādhana · Annual observances</p>
       <h1>Paryushana and Das Lakshana</h1>
       <p className="practice-page__lead">
-        Jainpedia associates Paryuṣaṇa with Śvetāmbara communities and Daśa-lakṣaṇa with Digambara
-        communities. Dates and observances vary by tradition and locality, so check with the Jain
-        community whose practice you are studying.
+        Jainpedia describes Paryuṣaṇa as an observance in Śvetāmbara communities and Daśa-lakṣaṇa
+        as an observance in Digambara communities. Dates and customs vary by region and community.
       </p>
 
       <aside className="practice-warning">
-        This page does not recommend fasting or give a fasting plan. Learn the form and meaning of an
-        observance from the relevant Jain community and qualified teachers.
+        Fasting can affect health. Speak with a healthcare professional before fasting, and ask a
+        Jain teacher about the religious observance.
       </aside>
 
       <section>
-        <h2>Why the details differ</h2>
+        <h2>How observances differ</h2>
         <p>
-          Jainpedia notes that some festivals are shared while others are specific to a sect or local
-          community. Communities may also use different festival lists. Dates follow Jain lunar
-          calendars, so confirm current dates and local practice with the community whose observance
-          you are studying.
+          Jain communities follow different festival calendars and practices. Dates follow Jain
+          lunar calendars, so they can differ by region and year. Check local dates with the community
+          whose observance you are studying.
         </p>
         <p>
-          Introductions often mention reflection, religious study, forgiveness, and fasting. These
-          descriptions give context; they are not instructions for an individual. This site does not
-          advise whether or when someone should fast, or for how long.
+          These observances can include reflection, religious study, forgiveness, and fasting. Local
+          customs differ, so ask someone in the relevant community about its practice.
         </p>
       </section>
 
@@ -68,7 +65,7 @@ function ParyushanaEnglish() {
           </li>
           <li>
             <a href="https://parliamentofreligions.org/articles/introspection-and-forgiveness-the-jain-celebration-of-paryushan-and-das-lakshan/" target="_blank" rel="noreferrer">“Introspection and Forgiveness: The Jain Celebration of Paryushan and Das Lakshan,” Parliament of the World’s Religions</a>
-            <span>Dates and observances vary among Jain communities.</span>
+            <span>Article on Paryuṣaṇa, Daśa-lakṣaṇa, and Jain festivals.</span>
           </li>
         </ul>
       </section>

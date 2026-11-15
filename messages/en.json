@@ -19,14 +19,14 @@
     "status": "",
     "statusLink": "",
     "translationNote": "",
-    "footerBlurb": "Explore Jain ideas, texts, history, and practice across a wide range of topics.",
-    "footerExplore": "Explore",
+    "footerBlurb": "Read about Jain beliefs, texts, history, and practices.",
+    "footerExplore": "Browse",
     "footerAbout": "About the library",
     "footerDiversity": "Diversity among Jain communities",
     "footerFeedback": "Suggest a correction or accessibility fix",
     "editionStatus": "",
-    "footerLine": "A learning library for Jain traditions.",
-    "needsReview": "Needs review",
+    "footerLine": "Information about Jainism.",
+    "needsReview": "Needs verification",
     "adminLogin": "Editor sign-in"
   },
   "Home": {
@@ -50,16 +50,16 @@
         "description": "Move through related ideas in a clear sequence."
       },
       {
-        "title": "Explore more",
-        "description": "Use the topic library to find another subject."
+        "title": "Browse more topics",
+        "description": "Choose another subject from the topic list."
       }
     ],
     "sourceLink": "About the library",
     "questionsEyebrow": "Start here",
     "questionsTitle": "Start with a question",
     "pathsLink": "See the reading paths",
-    "readDraft": "Explore this topic",
-    "readEnglish": "Explore this topic",
+    "readDraft": "Read this topic",
+    "readEnglish": "Read this topic",
     "questions": [
       {
         "id": "D01.T001",
@@ -89,19 +89,19 @@
       {
         "index": "01 / Topics",
         "title": "Browse the topic library",
-        "description": "Find ideas across philosophy, ethics, history, literature, and more.",
+        "description": "Browse topics on Jain philosophy, ethics, history, literature, and other subjects.",
         "action": "Browse topics"
       },
       {
         "index": "02 / Ārādhana",
         "title": "Prayers and practice",
-        "description": "Explore Jain prayers, festivals, and everyday observances.",
-        "action": "Explore practices"
+        "description": "Read about Jain prayers, festivals, and daily observances.",
+        "action": "View practices"
       },
       {
         "index": "03 / About",
         "title": "About the library",
-        "description": "Learn about this guide to Jain philosophy and traditions.",
+        "description": "See what this library covers and how its topics are organized.",
         "action": "Read about the library"
       }
     ],
@@ -112,74 +112,74 @@
   },
   "Start": {
     "metadataTitle": "Start here",
-    "metadataDescription": "Follow reading paths on ahimsa, karma, liberation, Jain cosmology, texts, and communities. Linked topic articles are currently in English.",
+    "metadataDescription": "Read about ahimsa, karma, liberation, Jain cosmology, texts, and communities. Topic articles are in English.",
     "eyebrow": "Reading paths",
-    "title": "Start with a question.",
-    "lead": "Each path connects related topics. Follow its sequence or open any subject that interests you.",
-    "browse": "Browse every subject area",
+    "title": "Choose a reading path",
+    "lead": "Read the topics in a path in order, or open any topic that interests you.",
+    "browse": "Browse all subjects",
     "ariaLabel": "Reading paths",
     "topicLanguageNote": "Topic articles are currently available in English.",
-    "questionsLabel": "Questions to keep in view",
+    "questionsLabel": "Questions to consider",
     "draftEntry": "Read topic",
     "entryProgress": "Coming soon",
     "paths": [
       {
-        "title": "An introduction to Jain traditions",
-        "description": "Start with a short introduction, learn about ahimsa, and explore ideas shared across Jain communities.",
+        "title": "Jainism: the basics",
+        "description": "Read about Jain beliefs, ahimsa, differences among Jain communities, and the path to liberation.",
         "questions": [
-          "Which ideas do Jain communities share, and where do their accounts differ?",
-          "How do knowledge, ethics, and spiritual effort connect?"
+          "Which ideas do Jain communities share, and where do their teachings differ?",
+          "How are knowledge, ethics, and spiritual practice related?"
         ]
       },
       {
         "title": "Soul, karma, and liberation",
-        "description": "Explore Jain teachings about the soul, karma, and release from rebirth.",
+        "description": "Read about the soul, karma, and Jain teachings on liberation from rebirth.",
         "questions": [
-          "What does it mean in Jain philosophy to describe karma as subtle matter?",
-          "Why is a favorable rebirth still different from liberation?"
+          "What does Jain philosophy mean when it describes karma as subtle matter?",
+          "Why is a favorable rebirth different from liberation?"
         ]
       },
       {
-        "title": "The Jain cosmos and the wheel of time",
-        "description": "Learn how Jain traditions describe the universe and the cycles of time.",
+        "title": "Jain cosmology and cycles of time",
+        "description": "Read Jain accounts of loka, aloka, and the cycles of time.",
         "questions": [
-          "What belongs within loka, and how is aloka described?",
-          "What do the six eras explain in Jain cosmology?"
+          "How do Jain texts describe loka and aloka?",
+          "What do the six eras describe in Jain cosmology?"
         ]
       },
       {
-        "title": "Ahimsa, restraint, and many-sided understanding",
-        "description": "Explore ahimsa, the vows, and many-sided ways of understanding.",
+        "title": "Ahimsa and Jain vows",
+        "description": "Read about ahimsa, Jain vows, and anekāntavāda, the idea that reality has many aspects.",
         "questions": [
           "How do mendicant vows differ from lay vows?",
-          "How can different standpoints help clarify a disagreement without treating every claim as equally true?"
+          "How can different standpoints help explain why people disagree?"
         ]
       },
       {
-        "title": "Jain stories, memory, and history",
-        "description": "Read stories of Rishabha, Bahubali, Mahavira, and Malli in Jain tradition.",
+        "title": "Jain stories and history",
+        "description": "Read Jain stories about Rishabha, Bahubali, Mahavira, and Malli alongside historical accounts.",
         "questions": [
-          "What does a story teach within Jain tradition, and what can historical evidence establish?",
-          "How should differing accounts of Malli be presented?"
+          "What do Jain stories say about these figures, and what can historians establish?",
+          "Why do Jain accounts of Malli differ?"
         ]
       },
       {
-        "title": "Texts, teachers, and living communities",
-        "description": "Explore Jain texts, teachers, and community life.",
+        "title": "Jain texts and communities",
+        "description": "Read about Jain scriptures, teachers, and community life.",
         "questions": [
-          "Why do Jain communities preserve different accounts of their scriptural canons?",
-          "How do monks, nuns, laywomen, and laymen form the fourfold community?"
+          "Why do Jain communities preserve different collections of scriptures?",
+          "How do monks, nuns, and lay Jains form the fourfold community?"
         ]
       }
     ]
   },
   "Library": {
     "metadataTitle": "Jain topic library",
-    "metadataDescription": "Browse topics on Jain philosophy, ethics, history, texts, and communities. Topic titles and articles are currently in English.",
+    "metadataDescription": "Search or browse topics on Jain philosophy, ethics, history, texts, and communities. Topic titles and articles are in English.",
     "eyebrow": "Topic list",
     "title": "Jain topic library",
-    "lead": "Explore 52 subject areas or search for a topic in English.",
-    "statsLabel": "Topic list coverage",
+    "lead": "Browse by subject area or search for an English topic title.",
+    "statsLabel": "Library contents",
     "subjectAreas": "subject areas",
     "topics": "topics",
     "draftEntries": "topics",
@@ -193,7 +193,7 @@
       "research": "Research and reference"
     },
     "domainTitles": {
-      "D01": "Orientation and ways to learn",
+      "D01": "Jainism basics",
       "D02": "Aims and liberation",
       "D03": "Ontology and the six substances",
       "D04": "Soul and consciousness",
@@ -242,9 +242,7 @@
       "D47": "Contributions to knowledge and culture",
       "D48": "Children, youth, families, and teachers",
       "D49": "Diaspora and global Jain communities",
-      "D50": "Research methods and source criticism",
-      "D51": "Digital library engineering",
-      "D52": "Source-grounded AI teaching and safety"
+      "D50": "Research methods and source criticism"
     },
     "searchLabel": "Search the topic list",
     "searchPlaceholder": "Search English titles: ahimsa, karma, moksha",
@@ -265,25 +263,25 @@
     "filterLabel": "Filter by subject area",
     "showMore": "Show more results",
     "browseBySubject": "Browse by subject",
-    "topicCountLabel": "catalogue topics",
+    "topicCountLabel": "listed topics",
     "topicLanguageNote": "Topic articles are currently available in English."
   },
   "Editorial": {
     "metadataTitle": "About this library",
-    "metadataDescription": "Explore a guide to Jain thought, history, texts, and practice.",
-    "eyebrow": "About this library",
-    "title": "Explore Jain traditions",
-    "lead": "A learning library for Jain philosophy, ethics, texts, history, and everyday practice.",
-    "coverageLabel": "Library at a glance",
+    "metadataDescription": "Information about the topics, sources, and structure in this library.",
+    "eyebrow": "The library",
+    "title": "About the library",
+    "lead": "This library covers Jain philosophy, ethics, texts, history, and practice.",
+    "coverageLabel": "Library contents",
     "subjectAreas": "subject areas",
     "catalogueTopics": "topics",
     "draftEntries": "articles",
     "reviewedRecords": "reading paths",
-    "draftHeading": "Explore the library",
-    "draftCopy": "Browse a broad collection of Jain subjects, from philosophy and ethics to history, texts, and community life.",
-    "reviewedHeading": "Choose where to begin",
+    "draftHeading": "Topics covered",
+    "draftCopy": "Topics include Jain philosophy, ethics, history, texts, and community life.",
+    "reviewedHeading": "Reading paths",
     "reviewedPoints": [],
-    "sourcesHeading": "Starting points for further reading",
+    "sourcesHeading": "Further reading",
     "sourceDescriptions": [
       "An introductory overview of Jain history and belief.",
       "A description of Śvetāmbara textual transmission and canons.",
@@ -294,64 +292,64 @@
     "openCatalogue": "Browse the topic library"
   },
   "Practice": {
-    "metadataTitle": "Ārādhana and practice",
+    "metadataTitle": "Jain prayers and practices",
     "eyebrow": "Ārādhana",
     "title": "Prayers and observances",
-    "description": "Explore Jain prayers, festivals, and everyday practice. Observances can vary among communities.",
-    "sectionTitle": "Selected texts and observances",
-    "openEntry": "Explore",
+    "description": "Read about Jain prayers, festivals, and daily observances. Practices vary among communities.",
+    "sectionTitle": "Prayers and observances",
+    "openEntry": "Read more",
     "entries": [
       {
         "slug": "navkar-mantra",
         "title": "Navkar Mantra",
-        "description": "A Jain salutation honoring the five supreme beings."
+        "description": "A Jain prayer that honors the five supreme beings."
       },
       {
         "slug": "chattari-mangalam",
         "title": "Chattari Mangalam",
-        "description": "A verse naming auspicious refuges in Jain liturgy."
+        "description": "A Jain verse that names four auspicious refuges."
       },
       {
         "slug": "logassa-sutra",
         "title": "Logassa Sutra",
-        "description": "A sutra associated with praise of the Tirthankaras."
+        "description": "A prayer praising the Tirthankaras."
       },
       {
         "slug": "bhaktamar-stotra",
         "title": "Bhaktamar Stotra",
-        "description": "A Sanskrit hymn in Jain devotional practice."
+        "description": "A Sanskrit hymn used in Jain devotional practice."
       },
       {
         "slug": "uvassagharam",
         "title": "Uvasaggaharam Stotra",
-        "description": "A Prakrit hymn associated with Pārśvanātha."
+        "description": "A Prakrit hymn in praise of Pārśvanātha."
       },
       {
         "slug": "khamemi-savva-jive",
         "title": "Khamemi Savva Jive",
-        "description": "A verse on forgiveness and goodwill toward living beings."
+        "description": "A verse asking forgiveness and expressing goodwill toward living beings."
       },
       {
         "slug": "pratikraman",
         "title": "Pratikraman",
-        "description": "A practice of reflection, confession, and atonement."
+        "description": "A practice of reviewing one’s actions, asking forgiveness, and resolving to do better."
       },
       {
         "slug": "paryushana",
         "title": "Paryushana and Das Lakshana",
-        "description": "Annual observances whose dates and practices vary among Jain communities."
+        "description": "Annual observances in Śvetāmbara and Digambara communities."
       }
     ],
-    "contextLabel": "About Jain practice",
-    "context": "Practices can vary among Jain communities. For questions about health or fasting, speak with a qualified medical professional and a trusted religious teacher.",
-    "reviewLink": "Explore related topics",
+    "contextLabel": "Practice varies",
+    "context": "Practices differ among Jain communities. Ask a teacher in your community about an observance, and consult a healthcare professional before fasting.",
+    "reviewLink": "Related topics",
     "entryEyebrow": "Ārādhana",
     "entryLabel": "Practice details",
-    "entryHeading": "More on this practice",
-    "entryBody": "Explore related topics in the library.",
+    "entryHeading": "Related topics",
+    "entryBody": "Read related topics in the library.",
     "howReviewWorks": "Browse topics",
     "browseTopics": "Browse topics",
-    "needsReview": "Needs review"
+    "needsReview": "Needs verification"
   },
   "Pending": {
     "metadataTitle": "Article language",

@@ -1,5 +1,5 @@
 {
-  "overview": "In Jain philosophy, **moksha** (liberation) is the complete and permanent freedom of the soul (*jīva*) from all karmic matter. It represents the highest and final goal of spiritual development. Jainism teaches that every soul is inherently pure, possessing infinite knowledge (*ananta‑jñāna*), perception (*ananta‑darśana*), bliss (*ananta‑sukha*), and energy (*ananta‑vīrya*). These qualities are obscured by the accumulation of karmic particles, which bind to the soul due to passions, actions, and deluded states.\n\nMoksha is achieved when all karmas are destroyed and no new karmas are bound. This occurs at the apex of the universe (*loka*), known as *Siddha-śilā*, where liberated souls reside eternally. A liberated soul is called a **Siddha**. Unlike many Indic traditions, Jainism emphasizes that liberation is attained through the soul’s own effort—right faith (*samyak‑darśana*), right knowledge (*samyak‑jñāna*), and right conduct (*samyak‑cāritra*)—collectively known as the **Three Jewels** (*ratnatraya*).\n\nThe path to moksha is described through the **fourteen stages of spiritual development** (*guṇasthāna*), which chart the progressive elimination of delusion, passions, and karmic bondage. The final destruction of the four *ghāti* (destructive) karmas—knowledge‑obscuring, perception‑obscuring, deluding, and energy‑obstructing—occurs at the thirteenth stage. The remaining *aghāti* (non-destructive) karmas are shed at the moment of death, leading to liberation.\n\nBoth Digambara and Śvetāmbara traditions agree on the fundamental nature of moksha, though they differ in certain doctrinal details, such as the role of clothing for ascetics, the nature of kevalajñāna (omniscience), and the final moments before liberation. Across all Jain traditions, moksha is understood as the soul’s natural state, realized through ethical discipline, meditation, nonviolence, and the cessation of karmic influx.",
+  "overview": "Mokṣa is the soul’s liberation from karmic matter. Jain teachings describe a liberated soul as a siddha, free from rebirth and located at the top of the universe, at Siddhaśilā.\n\nThe path to mokṣa is described through the Three Jewels: right faith, right knowledge, and right conduct. Spiritual discipline stops new karma from binding and sheds existing karma.\n\nDigambara and Śvetāmbara traditions agree on this basic goal but differ on some details. Jain texts use the fourteen guṇasthānas to describe stages of spiritual development.",
   "primary_sources": [
     {
       "title": "Tattvārtha Sūtra",
@@ -37,7 +37,7 @@
   "misconceptions": [
     {
       "myth": "Moksha is a temporary heavenly reward.",
-      "reality": "In Jainism, moksha is not a heavenly realm but the permanent liberation of the soul from all karmic bondage. Heavenly realms are still within the cycle of rebirth and subject to karma."
+      "reality": "Moksha is not a heavenly realm but the permanent liberation of the soul from all karmic bondage. Heavenly realms are still within the cycle of rebirth and subject to karma."
     },
     {
       "myth": "Only monks can attain moksha.",
