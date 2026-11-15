@@ -2,7 +2,7 @@ name: Record reader feedback
 
 on:
   issues:
-    types: [opened, edited, reopened]
+    types: [opened, edited, reopened, closed]
 
 permissions:
   contents: write
